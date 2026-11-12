@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-12-L3-news",
+  "date": "2026-11-12",
+  "level": 3,
+  "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "titleKo": "NASA 과학자들, 중력파로 새로운 행성을 찾는 방법을 보여 주다",
+  "genre": "news",
+  "tags": [
+    "NASA",
+    "space",
+    "science",
+    "exoplanets"
+  ],
+  "source": {
+    "work": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+    "author": "NASA",
+    "translator": null,
+    "year": 2026,
+    "edition": "NASA News",
+    "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+    "license": "us-government-work",
+    "excerptNote": "첫 5단락 발췌"
+  },
+  "audio": null,
+  "wordCount": 248,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "현재 개발 중인 LISA(레이저 간섭계 우주 안테나) 관측소는 공전하는 질량들이 만들어 내는 시공간의 아주 작은 잔물결인 중력파를 탐지하게 된다. 이제 NASA 천체물리학자들이 이끈 두 연구가, LISA가 우리 은하 곳곳에 있는 새롭고 독특한 외계행성(태양계 밖의 세계) 집단을 어떻게 드러낼 수 있는지 새롭고 자세하게 보여 준다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4"
+      ],
+      "ko": "“LISA가 가장 흔하게 잡을 신호원은 이중 백색왜성계, 즉 백색왜성들이 가까운 궤도로 서로 도는 쌍성계일 것으로 예상됩니다.” 메릴랜드 대학교 볼티모어 카운티와 메릴랜드주 그린벨트에 있는 NASA 고다드 우주비행센터의 박사후 연구원 케이시 맥그래스가 말했다. “만약 이런 계 안에서 외계행성도 함께 돈다면, 그 존재가 중력파 신호에 새겨지게 되고, 우리는 그것을 찾아낼 수 있을 겁니다.”"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "화요일 『천체물리학 저널』에 실린 두 논문이 이 연구 결과를 자세히 다룬다. 첫 번째 논문은 맥그래스가 단독으로 썼으며, 탐지 방법을 살펴보고 이 방법이 가장 잘 통하는 행성 질량과 공전 주기를 밝힌다. 두 번째 논문은 맥그래스와 공동 저자들이 쓴 것으로, 이런 행성을 NASA의 제임스 웹 우주망원경으로 어떻게 확인할 수 있는지 연구한다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "LISA 이중 백색왜성계 주변에서 외계행성을 탐지할 수 있다는 가능성은 2008년 일본 천문학자 세토 나오키가 처음 제안했다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "ESA(유럽우주국)가 이끄는 LISA 임무는 2030년대 중반에 발사될 예정이다. 협력 파트너인 NASA는 우주가 어떻게 작동하는지 더 잘 이해하려는 임무의 일환으로 망원경과 다른 핵심 장비, 그리고 공학·과학 지원을 제공하고 있다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses.",
+      "ko": "현재 개발 중인 LISA(레이저 간섭계 우주 안테나) 관측소는 공전하는 질량들이 만들어 내는 시공간의 아주 작은 잔물결인 중력파를 탐지하게 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.",
+      "ko": "이제 NASA 천체물리학자들이 이끈 두 연구가, LISA가 우리 은하 곳곳에 있는 새롭고 독특한 외계행성(태양계 밖의 세계) 집단을 어떻게 드러낼 수 있는지 새롭고 자세하게 보여 준다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "“The most common source for LISA is expected to be double white dwarf systems, which are binaries composed of white dwarfs in tight orbits,” said Casey McGrath, a postdoctoral researcher at the University of Maryland, Baltimore County and NASA’s Goddard Space Flight Center in Greenbelt, Maryland.",
+      "ko": "“LISA가 가장 흔하게 잡을 신호원은 이중 백색왜성계, 즉 백색왜성들이 가까운 궤도로 서로 도는 쌍성계일 것으로 예상됩니다.” 메릴랜드 대학교 볼티모어 카운티와 메릴랜드주 그린벨트에 있는 NASA 고다드 우주비행센터의 박사후 연구원 케이시 맥그래스가 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "“If an exoplanet also orbits within one of these systems, its presence becomes imprinted on the gravitational wave signal in a way we’ll be able to uncover.”",
+      "ko": "“만약 이런 계 안에서 외계행성도 함께 돈다면, 그 존재가 중력파 신호에 새겨지게 되고, 우리는 그것을 찾아낼 수 있을 겁니다.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Two papers published Tuesday in The Astrophysical Journal detail the findings.",
+      "ko": "화요일 『천체물리학 저널』에 실린 두 논문이 이 연구 결과를 자세히 다룬다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "The first, authored solely by McGrath, examines the detection method and determines the planet masses and orbital periods where it would work best.",
+      "ko": "첫 번째 논문은 맥그래스가 단독으로 썼으며, 탐지 방법을 살펴보고 이 방법이 가장 잘 통하는 행성 질량과 공전 주기를 밝힌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "The second paper, by McGrath and coauthors, investigates how such planets could be confirmed using NASA’s James Webb Space Telescope.",
+      "ko": "두 번째 논문은 맥그래스와 공동 저자들이 쓴 것으로, 이런 행성을 NASA의 제임스 웹 우주망원경으로 어떻게 확인할 수 있는지 연구한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "The possibility of detecting exoplanets around LISA double white dwarf systems was first proposed by Japanese astronomer Naoki Seto in 2008.",
+      "ko": "LISA 이중 백색왜성계 주변에서 외계행성을 탐지할 수 있다는 가능성은 2008년 일본 천문학자 세토 나오키가 처음 제안했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Led by ESA (European Space Agency), the LISA mission is slated for launch in the mid-2030s.",
+      "ko": "ESA(유럽우주국)가 이끄는 LISA 임무는 2030년대 중반에 발사될 예정이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "As a collaborative partner, NASA is contributing the telescopes, other critical hardware, and engineering and scientific support as part of its mission to better understand how the universe works.",
+      "ko": "협력 파트너인 NASA는 우주가 어떻게 작동하는지 더 잘 이해하려는 임무의 일환으로 망원경과 다른 핵심 장비, 그리고 공학·과학 지원을 제공하고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "ripple",
+      "pos": "noun",
+      "meaningKo": "잔물결, 파문",
+      "ipa": "/ˈrɪpəl/",
+      "matchText": "ripples",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The stone made ripples on the pond.",
+        "ko": "돌이 연못에 잔물결을 일으켰다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "reveal",
+      "pos": "verb",
+      "meaningKo": "드러내다, 밝히다",
+      "ipa": "/rɪˈviːl/",
+      "matchText": "reveal",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The test revealed a small problem.",
+        "ko": "그 검사가 작은 문제를 드러냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "imprint",
+      "pos": "verb",
+      "meaningKo": "새기다, 각인하다",
+      "ipa": "/ɪmˈprɪnt/",
+      "matchText": "imprinted",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The memory was imprinted on her mind.",
+        "ko": "그 기억은 그녀의 마음에 새겨졌다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "propose",
+      "pos": "verb",
+      "meaningKo": "제안하다",
+      "ipa": "/prəˈpoʊz/",
+      "matchText": "proposed",
+      "sentenceId": "s8",
+      "example": {
+        "en": "She proposed a new plan at the meeting.",
+        "ko": "그녀는 회의에서 새 계획을 제안했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "be slated for",
+      "pos": "phrase",
+      "meaningKo": "~로 예정되어 있다",
+      "ipa": null,
+      "matchText": "is slated for",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The new library is slated for opening next spring.",
+        "ko": "새 도서관은 내년 봄에 문을 열 예정이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "The LISA (Laser Interferometer Space Antenna) observatory, now in development,",
+          "role": "S",
+          "sub": false,
+          "ko": "현재 개발 중인 LISA(레이저 간섭계 우주 안테나) 관측소는"
+        },
+        {
+          "text": "will detect",
+          "role": "V",
+          "sub": false,
+          "ko": "탐지할 것이다"
+        },
+        {
+          "text": "gravitational waves,",
+          "role": "O",
+          "sub": false,
+          "ko": "중력파를"
+        },
+        {
+          "text": "the tiny ripples in space-time",
+          "role": "M",
+          "sub": false,
+          "ko": "(즉) 시공간의 아주 작은 잔물결"
+        },
+        {
+          "text": "caused by orbiting masses.",
+          "role": "M",
+          "sub": false,
+          "ko": "공전하는 질량들에 의해 생기는"
+        }
+      ],
+      "skeleton": "The LISA observatory will detect gravitational waves",
+      "explanation": "'the tiny ripples ...'는 gravitational waves를 다시 풀어 설명하는 동격 표현이고, 'caused by ...'는 ripples를 뒤에서 꾸미는 과거분사구다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Now",
+          "role": "M",
+          "sub": false,
+          "ko": "이제"
+        },
+        {
+          "text": "two studies led by NASA astrophysicists",
+          "role": "S",
+          "sub": false,
+          "ko": "NASA 천체물리학자들이 이끈 두 연구가"
+        },
+        {
+          "text": "show",
+          "role": "V",
+          "sub": false,
+          "ko": "보여 준다"
+        },
+        {
+          "text": "in new detail",
+          "role": "M",
+          "sub": false,
+          "ko": "새롭게 자세히"
+        },
+        {
+          "text": "how",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "어떻게"
+        },
+        {
+          "text": "LISA",
+          "role": "S",
+          "sub": true,
+          "ko": "LISA가"
+        },
+        {
+          "text": "could reveal",
+          "role": "V",
+          "sub": true,
+          "ko": "드러낼 수 있는지"
+        },
+        {
+          "text": "a new and unique population of exoplanets",
+          "role": "O",
+          "sub": true,
+          "ko": "새롭고 독특한 외계행성 집단을"
+        },
+        {
+          "text": "— worlds beyond our solar system —",
+          "role": "M",
+          "sub": true,
+          "ko": "— 태양계 밖의 세계 —"
+        },
+        {
+          "text": "throughout our galaxy.",
+          "role": "M",
+          "sub": true,
+          "ko": "우리 은하 곳곳에서"
+        }
+      ],
+      "skeleton": "two studies show how LISA could reveal ...",
+      "explanation": "show의 목적어가 how로 시작하는 명사절(how + S + V)이다. 명사절 안에서 LISA가 주어, could reveal이 동사다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "As a collaborative partner,",
+          "role": "M",
+          "sub": false,
+          "ko": "협력 파트너로서"
+        },
+        {
+          "text": "NASA",
+          "role": "S",
+          "sub": false,
+          "ko": "NASA는"
+        },
+        {
+          "text": "is contributing",
+          "role": "V",
+          "sub": false,
+          "ko": "제공하고 있다"
+        },
+        {
+          "text": "the telescopes, other critical hardware, and engineering and scientific support",
+          "role": "O",
+          "sub": false,
+          "ko": "망원경, 다른 핵심 장비, 공학·과학 지원을"
+        },
+        {
+          "text": "as part of its mission",
+          "role": "M",
+          "sub": false,
+          "ko": "그 임무의 일환으로"
+        },
+        {
+          "text": "to better understand how the universe works.",
+          "role": "M",
+          "sub": false,
+          "ko": "우주가 어떻게 작동하는지 더 잘 이해하려는"
+        }
+      ],
+      "skeleton": "NASA is contributing the telescopes, hardware, and support",
+      "explanation": "목적어 세 개가 A, B, and C 형태로 나열되었다. 'to better understand ...'는 mission을 꾸미는 to부정사(형용사적 용법)다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "수동태 + by: 누가 했는지 밝히기",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "was first proposed by"
+      ],
+      "explanation": "'be + 과거분사 + by 행위자' 형태의 수동태다. 제안된 '가능성'이 주어이고, 제안한 사람(Naoki Seto)은 by 뒤에 온다. first는 was와 과거분사 사이에 들어가 '처음으로'를 뜻한다.",
+      "example": {
+        "en": "The telephone was invented by Alexander Graham Bell.",
+        "ko": "전화기는 알렉산더 그레이엄 벨이 발명했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "과거분사구문으로 문장 시작하기",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "Led by ESA"
+      ],
+      "explanation": "'Led by ESA'는 'The LISA mission is led by ESA'를 줄인 과거분사구문이다. 의미상 주어는 뒤의 주절 주어(the LISA mission)와 같아서 생략되었다. 뉴스에서 정보를 짧게 덧붙일 때 자주 쓴다.",
+      "example": {
+        "en": "Built in 1900, the house is now a museum.",
+        "ko": "1900년에 지어진 그 집은 지금 박물관이다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "be expected to: ~할 것으로 예상되다",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "is expected to be"
+      ],
+      "explanation": "'be expected to + 동사원형'은 '~할 것으로 예상된다'라는 뜻이다. 과학·뉴스 글에서 확실하지 않은 미래를 조심스럽게 말할 때 쓴다.",
+      "example": {
+        "en": "The weather is expected to be sunny tomorrow.",
+        "ko": "내일 날씨는 맑을 것으로 예상된다."
+      },
+      "note": null
+    }
+  ]
+}
