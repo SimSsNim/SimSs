@@ -1,0 +1,567 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-12-L3-part7",
+  "date": "2026-11-12",
+  "level": 3,
+  "title": "Brennick Unveils Compact Dishwasher",
+  "titleKo": "브레닉, 소형 식기세척기 공개",
+  "genre": "article",
+  "tags": [
+    "TOEIC Part 7",
+    "기사",
+    "새 제품 출시"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 210,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "브레닉, 작은 주방을 위한 소형 식기세척기 공개"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "오크빌, 3월 18일 — 브레닉 홈 어플라이언스는 화요일, 아파트와 작은 사무실을 위해 설계된 소형 식기세척기를 출시한다고 발표했다. 브레닉 미니라는 이름의 이 신제품은 일반 식기세척기의 절반 정도 폭이지만 한 번에 최대 8인분 식기를 세척할 수 있다. 이 제품은 5월 1일 전국 매장에서 399달러에 판매가 시작된다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "회사 대변인 레이철 던모어에 따르면, 이 제품은 고객 의견에 따라 개발되었다. \"저희 고객 중 상당수는 공간이 좁은 도시 아파트에 삽니다\"라고 그녀는 말했다. \"고객들은 소중한 수납장 공간을 포기하지 않고도 식기세척기의 편리함을 누리고 싶다고 말했습니다.\""
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "브레닉 미니는 또한 회사의 이전 모델보다 물을 약 30퍼센트 덜 사용한다. 5월 말 이전에 식기세척기를 구매하는 고객은 무료 설치를 받는다. 관심 있는 사람은 지금 회사 웹사이트에서 예약할 수 있다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "업계 분석가 토마스 레예스는 이 제품이 폭넓은 구매자층의 관심을 끌 수 있다고 본다. \"브레닉은 대형 제조사들이 대체로 외면해 온 소비자층을 찾아냈습니다\"라고 그는 말했다. 하지만 그는 이 회사가 이미 시중에 나와 있는 몇몇 더 저렴한 모델들과 경쟁해야 할 것이라고 덧붙였다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Brennick Unveils Compact Dishwasher for Small Kitchens",
+      "ko": "브레닉, 작은 주방을 위한 소형 식기세척기 공개",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "OAKVILLE, March 18 — Brennick Home Appliances announced on Tuesday that it will release a compact dishwasher designed for apartments and small offices.",
+      "ko": "오크빌, 3월 18일 — 브레닉 홈 어플라이언스는 화요일, 아파트와 작은 사무실을 위해 설계된 소형 식기세척기를 출시한다고 발표했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The new model, called the Brennick Mini, is about half the width of a standard dishwasher but can clean up to eight place settings at once.",
+      "ko": "브레닉 미니라는 이름의 이 신제품은 일반 식기세척기의 절반 정도 폭이지만 한 번에 최대 8인분 식기를 세척할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "It will go on sale in stores across the country on May 1 at a price of $399.",
+      "ko": "이 제품은 5월 1일 전국 매장에서 399달러에 판매가 시작된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "According to company spokesperson Rachel Dunmore, the product was developed in response to customer feedback.",
+      "ko": "회사 대변인 레이철 던모어에 따르면, 이 제품은 고객 의견에 따라 개발되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "\"Many of our customers live in city apartments where space is limited,\" she said.",
+      "ko": "\"저희 고객 중 상당수는 공간이 좁은 도시 아파트에 삽니다\"라고 그녀는 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "\"They told us that they wanted the convenience of a dishwasher without giving up valuable cabinet space.\"",
+      "ko": "\"고객들은 소중한 수납장 공간을 포기하지 않고도 식기세척기의 편리함을 누리고 싶다고 말했습니다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "The Brennick Mini also uses about 30 percent less water than the company's previous models.",
+      "ko": "브레닉 미니는 또한 회사의 이전 모델보다 물을 약 30퍼센트 덜 사용한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Customers who purchase the dishwasher before the end of May will receive free installation.",
+      "ko": "5월 말 이전에 식기세척기를 구매하는 고객은 무료 설치를 받는다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Those who are interested can reserve one now on the company's website.",
+      "ko": "관심 있는 사람은 지금 회사 웹사이트에서 예약할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Industry analyst Tomas Reyes believes that the product could appeal to a wide range of buyers.",
+      "ko": "업계 분석가 토마스 레예스는 이 제품이 폭넓은 구매자층의 관심을 끌 수 있다고 본다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "\"Brennick has identified a group of consumers that larger manufacturers have mostly ignored,\" he noted.",
+      "ko": "\"브레닉은 대형 제조사들이 대체로 외면해 온 소비자층을 찾아냈습니다\"라고 그는 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "However, he added that the company will need to compete with several lower-priced models that are already available.",
+      "ko": "하지만 그는 이 회사가 이미 시중에 나와 있는 몇몇 더 저렴한 모델들과 경쟁해야 할 것이라고 덧붙였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "unveil",
+      "pos": "verb",
+      "meaningKo": "공개하다, 발표하다",
+      "ipa": "/ʌnˈveɪl/",
+      "synonyms": [
+        "introduce",
+        "reveal"
+      ],
+      "matchText": "Unveils",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The company will unveil its new logo next week.",
+        "ko": "회사는 다음 주에 새 로고를 공개할 것이다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "go on sale",
+      "pos": "phrase",
+      "meaningKo": "판매되기 시작하다",
+      "ipa": null,
+      "synonyms": [
+        "be released",
+        "hit the market"
+      ],
+      "matchText": "go on sale",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Tickets go on sale this Friday.",
+        "ko": "입장권은 이번 금요일부터 판매된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in response to",
+      "pos": "phrase",
+      "meaningKo": "~에 대응하여, ~에 따라",
+      "ipa": null,
+      "synonyms": [
+        "in reaction to",
+        "following"
+      ],
+      "matchText": "in response to",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The menu was changed in response to customer requests.",
+        "ko": "메뉴는 고객 요청에 따라 바뀌었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "installation",
+      "pos": "noun",
+      "meaningKo": "설치",
+      "ipa": "/ˌɪnstəˈleɪʃn/",
+      "synonyms": [
+        "setup",
+        "fitting"
+      ],
+      "matchText": "installation",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Installation of the new software takes ten minutes.",
+        "ko": "새 소프트웨어 설치는 10분이 걸린다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "appeal to",
+      "pos": "phrasal-verb",
+      "meaningKo": "~의 관심을 끌다, ~에게 매력적이다",
+      "ipa": null,
+      "synonyms": [
+        "attract",
+        "interest"
+      ],
+      "matchText": "appeal to",
+      "sentenceId": "s11",
+      "example": {
+        "en": "The design appeals to young professionals.",
+        "ko": "그 디자인은 젊은 직장인들의 관심을 끈다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "OAKVILLE, March 18 —",
+          "role": "M",
+          "ko": "오크빌, 3월 18일"
+        },
+        {
+          "text": "Brennick Home Appliances",
+          "role": "S",
+          "ko": "브레닉 홈 어플라이언스는"
+        },
+        {
+          "text": "announced",
+          "role": "V",
+          "ko": "발표했다"
+        },
+        {
+          "text": "on Tuesday",
+          "role": "M",
+          "ko": "화요일에"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라고"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "ko": "그 회사가",
+          "sub": true
+        },
+        {
+          "text": "will release",
+          "role": "V",
+          "ko": "출시할 것이다",
+          "sub": true
+        },
+        {
+          "text": "a compact dishwasher designed for apartments and small offices.",
+          "role": "O",
+          "ko": "아파트와 작은 사무실을 위해 설계된 소형 식기세척기를",
+          "sub": true
+        }
+      ],
+      "skeleton": "Brennick announced that it will release a dishwasher",
+      "explanation": "announced의 목적어는 that절 전체. that절 안의 designed for ~는 dishwasher를 꾸미는 과거분사구."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The new model,",
+          "role": "S",
+          "ko": "그 신제품은"
+        },
+        {
+          "text": "called the Brennick Mini,",
+          "role": "M",
+          "ko": "브레닉 미니라고 불리는"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "about half the width of a standard dishwasher",
+          "role": "C",
+          "ko": "일반 식기세척기의 절반 정도 폭"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "ko": "하지만"
+        },
+        {
+          "text": "can clean",
+          "role": "V",
+          "ko": "세척할 수 있다"
+        },
+        {
+          "text": "up to eight place settings",
+          "role": "O",
+          "ko": "최대 8인분 식기를"
+        },
+        {
+          "text": "at once.",
+          "role": "M",
+          "ko": "한 번에"
+        }
+      ],
+      "skeleton": "The new model is half the width but can clean eight place settings",
+      "explanation": "주어 하나에 동사 두 개(is, can clean)가 but으로 이어진다. called ~는 삽입된 과거분사구."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "\"Brennick",
+          "role": "S",
+          "ko": "브레닉은"
+        },
+        {
+          "text": "has identified",
+          "role": "V",
+          "ko": "찾아냈다"
+        },
+        {
+          "text": "a group of consumers",
+          "role": "O",
+          "ko": "소비자층을"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "(그 소비자층을)"
+        },
+        {
+          "text": "larger manufacturers",
+          "role": "S",
+          "ko": "대형 제조사들이",
+          "sub": true
+        },
+        {
+          "text": "have mostly ignored,\"",
+          "role": "V",
+          "ko": "대체로 외면해 왔다",
+          "sub": true
+        },
+        {
+          "text": "he noted.",
+          "role": "M",
+          "ko": "그가 말했다"
+        }
+      ],
+      "skeleton": "Brennick has identified a group of consumers",
+      "explanation": "that은 목적격 관계대명사로 consumers를 꾸미는 절을 이끈다. ignored의 목적어가 앞의 consumers라서 that 뒤에 목적어가 없다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "명사를 꾸미는 과거분사구",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "designed for"
+      ],
+      "explanation": "dishwasher는 '설계된' 대상이라 과거분사 designed가 뒤에서 꾸민다(= which is designed for).",
+      "example": {
+        "en": "We sell furniture made from recycled wood.",
+        "ko": "저희는 재활용 목재로 만든 가구를 판매합니다."
+      },
+      "note": "Part 7에서도 긴 명사구는 분사구 단위로 끊어 읽으면 빠르다."
+    },
+    {
+      "id": "g2",
+      "title": "without + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "without giving up"
+      ],
+      "explanation": "전치사 without 뒤에는 동명사가 온다. '~하지 않고, ~을 포기하지 않고'.",
+      "example": {
+        "en": "She left without saying goodbye.",
+        "ko": "그녀는 작별 인사도 없이 떠났다."
+      },
+      "note": "전치사 뒤 동사는 -ing."
+    },
+    {
+      "id": "g3",
+      "title": "비교급 + than",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "30 percent less water than"
+      ],
+      "explanation": "less + 명사 + than: '~보다 더 적은'. 차이(30 percent)는 비교급 앞에 둔다.",
+      "example": {
+        "en": "This printer is 20 percent faster than the old one.",
+        "ko": "이 프린터는 예전 것보다 20퍼센트 빠르다."
+      },
+      "note": "수치 + 비교급 어순을 기억."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the article mainly about?",
+      "evidenceSentenceIds": [
+        "s2"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "The introduction of a new household appliance"
+        },
+        {
+          "key": "B",
+          "text": "The opening of a new Brennick store"
+        },
+        {
+          "key": "C",
+          "text": "A rise in the price of kitchen cabinets"
+        },
+        {
+          "key": "D",
+          "text": "A survey of apartment residents"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "첫 문단에서 브레닉이 소형 식기세척기를 출시한다고 발표했다. release a compact dishwasher → introduction of a new household appliance로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "B": "매장 개점이 아니라 제품 출시 이야기다.",
+        "D": "고객 의견은 나오지만 설문 조사 기사가 아니다."
+      },
+      "skill": "주제 찾기"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What is offered to customers who buy the Brennick Mini before the end of May?",
+      "evidenceSentenceIds": [
+        "s9"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "A 30 percent discount"
+        },
+        {
+          "key": "B",
+          "text": "An extended warranty"
+        },
+        {
+          "key": "C",
+          "text": "Setup at no charge"
+        },
+        {
+          "key": "D",
+          "text": "A free set of dishes"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "'will receive free installation'을 바꿔 말한 것이 정답. free → at no charge, installation → setup.",
+      "choiceNotesKo": {
+        "A": "30퍼센트는 물 사용량을 줄인 비율이지 할인이 아니다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-synonym",
+      "prompt": "In the article, the word \"identified\" is closest in meaning to",
+      "evidenceSentenceIds": [
+        "s12"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "registered"
+        },
+        {
+          "key": "B",
+          "text": "recognized"
+        },
+        {
+          "key": "C",
+          "text": "required"
+        },
+        {
+          "key": "D",
+          "text": "rewarded"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "'대형 제조사들이 외면한 소비자층을 identified했다'는 그런 고객층을 '알아보고 찾아냈다'는 뜻 → recognized.",
+      "choiceNotesKo": {
+        "A": "registered는 '등록했다'라서 문맥에 맞지 않는다."
+      },
+      "skill": "동의어"
+    }
+  ]
+}

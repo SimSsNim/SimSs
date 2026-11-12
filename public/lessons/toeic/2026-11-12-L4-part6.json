@@ -1,0 +1,566 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-12-L4-part6",
+  "date": "2026-11-12",
+  "level": 4,
+  "title": "Office Relocation Letter",
+  "titleKo": "사무실 이전 안내 편지",
+  "genre": "letter",
+  "tags": [
+    "TOEIC Part 6",
+    "편지",
+    "부동산·이사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 154,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "할데인 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "귀사의 펜윅 스트리트 사무 단지 이전을 돕도록 웨스트버리 프로퍼티 파트너스를 선택해 주셔서 감사합니다. 논의한 대로 410호를 귀사를 위해 확보해 두었으며, 임대차 계약은 3월 1일부터 효력이 발생합니다. 동봉한 임대차 계약서 두 부를 확인해 주십시오. 두 부 모두 서명하신 뒤 한 부를 늦어도 2월 15일까지 저희 사무실로 보내 주십시오."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "입주 전에 저희 관리팀이 사무실 전체의 내부를 다시 칠하고 카펫을 교체할 예정입니다. 다른 색상 조합을 원하시면 이달 말까지 알려 주십시오. 그 날짜 이후에 받은 요청은 입주를 늦출 수 있습니다. 또한 어느 이삿짐 업체를 고용하시든 그 업체는 건물 관리자에게 보험 가입 증명서를 제출해야 합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "새 공간이 늘어나는 귀사의 직원들을 넉넉히 수용할 것이라고 확신합니다. 궁금한 점이 있으시면 555-0148로 전화 주십시오."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "감사합니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "그레이스 휫필드, 임대 담당 매니저"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Haldane,",
+      "ko": "할데인 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for selecting Westbury Property Partners to assist with your firm's move to the Fenwick Street office complex.",
+      "ko": "귀사의 펜윅 스트리트 사무 단지 이전을 돕도록 웨스트버리 프로퍼티 파트너스를 선택해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "As discussed, Suite 410 has been reserved for your company, with the lease taking effect on March 1.",
+      "ko": "논의한 대로 410호를 귀사를 위해 확보해 두었으며, 임대차 계약은 3월 1일부터 효력이 발생합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Enclosed you will find two copies of the lease agreement.",
+      "ko": "동봉한 임대차 계약서 두 부를 확인해 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Please sign both copies and return one to our office no later than February 15.",
+      "ko": "두 부 모두 서명하신 뒤 한 부를 늦어도 2월 15일까지 저희 사무실로 보내 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Before you move in, our maintenance crew will repaint the interior and replace the carpeting throughout the suite.",
+      "ko": "입주 전에 저희 관리팀이 사무실 전체의 내부를 다시 칠하고 카펫을 교체할 예정입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Should you prefer a different color scheme, please let us know by the end of this month.",
+      "ko": "다른 색상 조합을 원하시면 이달 말까지 알려 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Any requests received after that date may delay your move-in.",
+      "ko": "그 날짜 이후에 받은 요청은 입주를 늦출 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "In addition, whichever moving company you hire must provide proof of insurance to the building manager.",
+      "ko": "또한 어느 이삿짐 업체를 고용하시든 그 업체는 건물 관리자에게 보험 가입 증명서를 제출해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "We are confident that the new space will comfortably accommodate your growing team.",
+      "ko": "새 공간이 늘어나는 귀사의 직원들을 넉넉히 수용할 것이라고 확신합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "If you have any questions, please call me at 555-0148.",
+      "ko": "궁금한 점이 있으시면 555-0148로 전화 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "Sincerely,",
+      "ko": "감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "Grace Whitfield, Leasing Manager",
+      "ko": "그레이스 휫필드, 임대 담당 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "lease",
+      "pos": "noun",
+      "meaningKo": "임대차 계약",
+      "ipa": "/liːs/",
+      "synonyms": [
+        "rental agreement",
+        "tenancy"
+      ],
+      "matchText": "lease",
+      "sentenceId": "s3",
+      "example": {
+        "en": "We signed a five-year lease for the warehouse.",
+        "ko": "우리는 창고에 대해 5년 임대 계약을 맺었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "take effect",
+      "pos": "phrase",
+      "meaningKo": "효력이 발생하다, 시행되다",
+      "ipa": null,
+      "synonyms": [
+        "come into force",
+        "become effective"
+      ],
+      "matchText": "taking effect",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The new rules take effect next month.",
+        "ko": "새 규정은 다음 달부터 시행된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "no later than",
+      "pos": "phrase",
+      "meaningKo": "늦어도 ~까지",
+      "ipa": null,
+      "synonyms": [
+        "by",
+        "on or before"
+      ],
+      "matchText": "no later than",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Please reply no later than noon on Friday.",
+        "ko": "늦어도 금요일 정오까지 답장해 주세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "proof",
+      "pos": "noun",
+      "meaningKo": "증명(서), 증거",
+      "ipa": "/pruːf/",
+      "synonyms": [
+        "evidence",
+        "documentation"
+      ],
+      "matchText": "proof",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Bring proof of address when you open an account.",
+        "ko": "계좌를 열 때 주소 증빙 서류를 가져오세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "accommodate",
+      "pos": "verb",
+      "meaningKo": "수용하다, (요구를) 들어주다",
+      "ipa": "/əˈkɑːmədeɪt/",
+      "synonyms": [
+        "hold",
+        "house"
+      ],
+      "matchText": "accommodate",
+      "sentenceId": "s10",
+      "example": {
+        "en": "The hall can accommodate up to 300 guests.",
+        "ko": "그 홀은 최대 300명을 수용할 수 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Enclosed",
+          "role": "C",
+          "ko": "동봉된 상태로"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "귀하는"
+        },
+        {
+          "text": "will find",
+          "role": "V",
+          "ko": "발견할 것이다"
+        },
+        {
+          "text": "two copies of the lease agreement.",
+          "role": "O",
+          "ko": "임대차 계약서 두 부를"
+        }
+      ],
+      "skeleton": "you will find two copies (enclosed)",
+      "explanation": "원래 You will find two copies enclosed. 보어 Enclosed를 앞으로 보낸 비즈니스 편지 관용 표현."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "In addition,",
+          "role": "M",
+          "ko": "또한"
+        },
+        {
+          "text": "whichever moving company you hire",
+          "role": "S",
+          "ko": "어느 이삿짐 업체를 고용하든 그 업체는"
+        },
+        {
+          "text": "must provide",
+          "role": "V",
+          "ko": "제공해야 한다"
+        },
+        {
+          "text": "proof of insurance",
+          "role": "O",
+          "ko": "보험 가입 증명서를"
+        },
+        {
+          "text": "to the building manager.",
+          "role": "M",
+          "ko": "건물 관리자에게"
+        }
+      ],
+      "skeleton": "whichever company you hire must provide proof",
+      "explanation": "whichever + 명사가 이끄는 명사절 전체가 주어. 그 안에서 moving company는 hire의 목적어."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Enclosed 도치 구문",
+      "tags": [
+        "도치"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "Enclosed you will find"
+      ],
+      "explanation": "보어 enclosed가 문장 앞으로 나간 관용 표현. Enclosed is/are + 주어 형태로도 쓴다(Enclosed is a copy of ~).",
+      "example": {
+        "en": "Attached you will find the revised schedule.",
+        "ko": "수정된 일정표를 첨부했으니 확인해 주세요."
+      },
+      "note": "편지·이메일 첫머리 빈칸 + you will find → Enclosed/Attached."
+    },
+    {
+      "id": "g2",
+      "title": "if 생략 가정법 도치 Should",
+      "tags": [
+        "가정법",
+        "도치"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "Should you prefer"
+      ],
+      "explanation": "If you should prefer ~에서 if를 빼고 should를 주어 앞으로 보낸 형태. '혹시 ~하시면'이라는 정중한 조건.",
+      "example": {
+        "en": "Should you need help, please call the front desk.",
+        "ko": "도움이 필요하시면 프런트에 전화 주세요."
+      },
+      "note": "문두 Should + 주어 + 동사원형 → 조건절, 주절은 주로 명령문."
+    },
+    {
+      "id": "g3",
+      "title": "복합관계형용사 whichever",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "whichever moving company"
+      ],
+      "explanation": "whichever + 명사: '어느 ~이든'. 정해진 선택지 가운데 무엇을 고르든 상관없다는 뜻이다.",
+      "example": {
+        "en": "You may choose whichever seat you like.",
+        "ko": "원하는 아무 자리나 고르셔도 됩니다."
+      },
+      "note": "빈칸 뒤에 명사가 바로 오면 whichever/whatever 같은 복합관계형용사."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "Enclosed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Enclosing"
+        },
+        {
+          "key": "B",
+          "text": "Enclosed"
+        },
+        {
+          "key": "C",
+          "text": "Enclosure"
+        },
+        {
+          "key": "D",
+          "text": "To enclose"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "'동봉된 계약서를 보시게 될 것'이라는 뜻의 도치 관용 표현 Enclosed you will find ~. 계약서가 '동봉되는' 것이라 과거분사.",
+      "choiceNotesKo": {
+        "A": "현재분사는 '귀하가 동봉하면서'라는 이상한 뜻이 된다.",
+        "C": "명사는 이 자리에서 문장 구조가 성립하지 않는다."
+      },
+      "skill": "도치(Enclosed you will find)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "no later than"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "as long as"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "no later than"
+        },
+        {
+          "key": "D",
+          "text": "in advance"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "뒤에 날짜 February 15만 있으므로 '늦어도 ~까지'라는 기한 표현 no later than.",
+      "choiceNotesKo": {
+        "A": "as long as는 접속사라 절이 와야 한다.",
+        "D": "in advance는 뒤에 날짜를 바로 붙이지 않는다(in advance of는 가능)."
+      },
+      "skill": "기한 표현"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "Should you prefer a different color scheme, please let us know by the end of this month."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Should you prefer a different color scheme, please let us know by the end of this month."
+        },
+        {
+          "key": "B",
+          "text": "The building's parking garage is reserved for visitors only."
+        },
+        {
+          "key": "C",
+          "text": "Our office will be closed on national holidays."
+        },
+        {
+          "key": "D",
+          "text": "The previous tenant moved out of the suite last year."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "앞 문장은 '다시 칠할 예정', 뒤 문장은 '그 날짜 이후 요청은 입주를 늦출 수 있다'. 뒤 문장의 requests와 that date가 가리킬 대상이 필요하므로, 색상 요청과 기한(이달 말)을 말하는 A가 들어가야 한다.",
+      "choiceNotesKo": {
+        "B": "주차 이야기는 that date가 가리킬 날짜가 없다.",
+        "D": "이전 세입자 이야기는 뒤의 '요청'과 이어지지 않는다."
+      },
+      "skill": "문장 넣기(지시어 단서)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "whichever"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "whoever"
+        },
+        {
+          "key": "B",
+          "text": "wherever"
+        },
+        {
+          "key": "C",
+          "text": "whenever"
+        },
+        {
+          "key": "D",
+          "text": "whichever"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "빈칸 뒤에 명사 moving company가 바로 오므로 명사를 꾸미는 복합관계형용사 whichever. 이 명사절이 must provide의 주어다.",
+      "choiceNotesKo": {
+        "A": "whoever는 뒤에 명사를 붙여 쓰지 않는다.",
+        "B": "wherever는 부사절이라 주어 자리에 올 수 없다."
+      },
+      "skill": "복합관계형용사"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "accommodate"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "accompany"
+        },
+        {
+          "key": "B",
+          "text": "accommodate"
+        },
+        {
+          "key": "C",
+          "text": "accumulate"
+        },
+        {
+          "key": "D",
+          "text": "acknowledge"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "새 공간이 늘어나는 직원들을 '수용하다' → accommodate. comfortably(넉넉히)도 단서.",
+      "choiceNotesKo": {
+        "A": "accompany는 '동행하다'.",
+        "C": "accumulate는 '축적하다'."
+      },
+      "skill": "혼동 어휘(acc-)"
+    }
+  ]
+}
