@@ -77,3 +77,6 @@
 
 /* 상단 선택 줄의 작은 버튼(‹ › 등) */
 .iconSm { composes: btn; padding: 0; width: 32px; min-width: 32px; min-height: 32px; font-size: 16px; border-radius: 10px; }
+
+/* 발음기호: 기본 글꼴에 IPA 기호(ˈ ː ʃ 등)가 없어 어색하게 보이지 않도록 IPA 를 갖춘 글꼴로 */
+.ipa { font-family: "Charis SIL", "Doulos SIL", "Gentium Plus", "Times New Roman", "Noto Serif", "DejaVu Serif", serif; font-style: normal; letter-spacing: 0; white-space: nowrap; }

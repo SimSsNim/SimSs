@@ -75,7 +75,7 @@
 ## 5. 내보내기
 - `gh` 명령이 인증 오류를 내면 같은 요청을 `curl -sS -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/SimSsNim/SimSs/contents/...` 로 다시 시도한다(PUT은 `-X PUT -d '{"message":"...","content":"<base64>"}'`). 저장소 단위 경로(`repos/...`)만 쓸 수 있다.
 1. **저장소에 올리기(가능할 때)**: `gh api -X PUT repos/SimSsNim/SimSs/contents/public/lessons/general/<id>.json -f message="lesson(general): <id> <title>" -f content="$(base64 -w0 <파일>)"`. (index.json은 올리지 않는다 — CI가 만든다.) 성공하면 커밋 링크를 기록한다.
-2. **올리지 못했으면**: 레슨 JSON 파일을 SendUserFile로 보내고, (A) 메시지 끝에 "앱 → 기록/설정 → 레슨 가져오기로 이 파일을 넣어 주세요" 한 줄을 붙인다.
+2. **올리지 못했으면**: 레슨 JSON 파일을 SendUserFile로 보내고, (A) 메시지 끝에 "앱 → 기록/설정 → 백업 → 레슨 가져오기로 이 파일을 넣어 주세요" 한 줄을 붙인다.
 
 ## 6. (A) 한국어 안내 메시지 (최종 답변으로 한 번)
 인사말이나 작업 과정 설명 없이 아래만:

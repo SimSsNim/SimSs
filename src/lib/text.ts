@@ -140,3 +140,9 @@ export function shuffle<T>(arr: T[], rand: () => number = Math.random): T[] {
 
 export const answerEq = (a: string, b: string) =>
   normalizeQuotes(a).trim().replace(/\s+/g, ' ').toLowerCase() === normalizeQuotes(b).trim().replace(/\s+/g, ' ').toLowerCase();
+
+/** 발음기호 표시용: 앞뒤 [ ] / 를 걷어내고 /…/ 한 번만 */
+export function fmtIpa(ipa?: string | null): string {
+  const core = (ipa ?? '').trim().replace(/^[[/\s]+|[\]/\s]+$/g, '');
+  return core ? `/${core}/` : '';
+}

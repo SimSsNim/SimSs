@@ -314,7 +314,7 @@ test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 �
   await page.locator('span', { hasText: /^sitting$/ }).first().click();
   const dlg = page.getByRole('dialog');
   // 발음기호와 유사 단어
-  await expect(dlg).toContainText(`[${gl['sitting'].ipa}]`);
+  await expect(dlg.getByTestId('ipa')).toHaveText(gl['sitting'].ipa!);
   await expect(dlg.getByTestId('gloss-synonyms')).toContainText(gl['sitting'].synonyms![0]);
   // 누르자마자 한 번 읽고, 듣기·천천히·기본형 버튼으로 다시 듣기
   const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());

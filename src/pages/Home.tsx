@@ -108,7 +108,7 @@ export function Home({ all = false }: { all?: boolean }) {
     if (!p.lessons.length) {
       return (
         <div className={s.card}>
-          <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `${isNews ? '뉴스가' : `레벨 ${lv} 지문이`} 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)`}</p>
+          <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `${isNews ? '뉴스가' : `레벨 ${lv} 지문이`} 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 백업 → 레슨 가져오기도 가능)`}</p>
         </div>
       );
     }

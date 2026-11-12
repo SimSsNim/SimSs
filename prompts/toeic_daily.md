@@ -92,7 +92,7 @@ Part 6 문장 넣기는 `"type": "part6-sentence"`, `blank.answerText` = 그 문
 ## 5. 내보내기
 - `gh` 명령이 인증 오류를 내면 같은 요청을 `curl -sS -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/SimSsNim/SimSs/contents/...` 로 다시 시도한다(PUT은 `-X PUT -d '{"message":"...","content":"<base64>"}'`). 저장소 단위 경로(`repos/...`)만 쓸 수 있다.
 1. **저장소에 올리기**: 파일마다 `gh api -X PUT repos/SimSsNim/SimSs/contents/public/lessons/toeic/<id>.json -f message="lesson(toeic): <id>" -f content="$(base64 -w0 <파일>)"`. index.json은 올리지 않는다(CI가 만든다).
-2. **올리지 못했으면**: 만든 JSON 파일들을 SendUserFile로 한 번에 보내고 메시지 끝에 "앱 → 기록/설정 → 레슨 가져오기로 이 파일들을 넣어 주세요"를 붙인다.
+2. **올리지 못했으면**: 만든 JSON 파일들을 SendUserFile로 한 번에 보내고 메시지 끝에 "앱 → 기록/설정 → 백업 → 레슨 가져오기로 이 파일들을 넣어 주세요"를 붙인다.
 
 ## 6. 한국어 안내 메시지 (최종 답변으로 한 번)
 인사말·작업 과정 설명 없이:

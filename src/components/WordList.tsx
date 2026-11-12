@@ -1,3 +1,4 @@
+import { fmtIpa } from '../lib/text';
 import s from '../styles/ui.module.css';
 import w from '../styles/words.module.css';
 import type { WordStateRow } from '../lib/db';
@@ -65,7 +66,7 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
         <div className={s.row}>
           <span className={w.term} lang="en">{item.term}</span>
           {item.pos && <span className={s.muted}>{item.pos}</span>}
-          {item.ipa && <span className={s.muted + ' ' + s.small}>[{item.ipa}]</span>}
+          {item.ipa && <span className={s.muted + ' ' + s.ipa} data-testid="ipa">{fmtIpa(item.ipa)}</span>}
         </div>
         <div className={s.row}>
           <SpeakBtn text={item.term} />

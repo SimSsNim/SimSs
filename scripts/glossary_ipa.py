@@ -46,6 +46,13 @@ def to_ipa(phones):
     nvow = sum(1 for _, v, _ in out if v)
     res = []
     for i, (sym, isv, st) in enumerate(out):
+        if isv and nvow > 1 and st in ("1", "2") and res and res[-1][0] == "ər":
+            # 강세 음절 바로 앞의 약한 'er'(arrival): r 은 다음 음절 첫소리 → əˈr…
+            res[-1] = ("ə", True)
+            res.append(("ˈ" if st == "1" else "ˌ", False))
+            res.append(("r", False))
+            res.append((sym, isv))
+            continue
         if isv and nvow > 1 and st in ("1", "2"):
             mark = "ˈ" if st == "1" else "ˌ"
             # 강세 표시는 음절 앞(앞 자음 묶음 중 영어 첫소리로 가능한 만큼)

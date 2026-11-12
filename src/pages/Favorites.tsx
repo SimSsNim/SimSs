@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
 import { DatePick } from '../components/DatePick';
+import { GridTabs } from '../components/GridTabs';
 import { AppHeader } from '../components/AppHeader';
 import { TrackFilterSeg, type TrackFilter } from './Wordbook';
 import { useLessons } from '../lib/lessons';
@@ -77,13 +78,8 @@ export function Favorites() {
       <main className={s.page} data-testid="favorites">
         <h1 className={s.title}>즐겨찾기</h1>
         <DatePick value={day} onChange={setDay} dates={Object.values(lessons).map((l) => l.date)} />
-        <div className={s.chips} role="group" aria-label="항목">
-          {KINDS.map(([k, label]) => (
-            <button key={k} type="button" className={s.chip} aria-pressed={kind === k} onClick={() => setKind(k)} data-testid={`fav-${k}`}>
-              {label} <span data-testid={`fav-count-${k}`}>{counts[k]}</span>
-            </button>
-          ))}
-        </div>
+        <GridTabs label="항목" value={kind} onChange={setKind} testid="fav"
+          options={KINDS.map(([k, label]) => [k, <>{label} <span data-testid={`fav-count-${k}`}>{counts[k]}</span></>] as [Kind, React.ReactNode])} />
 
         {counts[kind] === 0 && (
           <p className={s.empty} data-testid="fav-empty">

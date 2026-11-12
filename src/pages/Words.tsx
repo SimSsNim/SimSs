@@ -3,6 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
 import { AppHeader } from '../components/AppHeader';
 import { DatePick } from '../components/DatePick';
+import { GridTabs } from '../components/GridTabs';
 import { TrackFilterSeg, type TrackFilter } from './Wordbook';
 import { useLessons } from '../lib/lessons';
 import { useSettings } from '../lib/settings';
@@ -56,10 +57,8 @@ export function Words() {
         <h1 className={s.title}>단어 <span className={s.muted + ' ' + s.small}>{scoped.length}개</span></h1>
         <DatePick value={day} onChange={setDay} dates={Object.values(lessons).filter((l) => trackF === 'all' || l.track === trackF).map((l) => l.date)} />
         <input className={s.input} type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="단어·뜻 검색" aria-label="단어 검색" />
-        <div className={s.seg} role="group" aria-label="묶어 보기" style={{ marginTop: 8, overflowX: 'auto' }}>
-          {GROUPS.map(([g, label]) => (
-            <button key={g} type="button" className={s.segBtn} aria-pressed={groupBy === g} onClick={() => pick(g)} data-testid={`group-${g}`} style={{ padding: '0 10px' }}>{label}</button>
-          ))}
+        <div style={{ marginTop: 8 }}>
+          <GridTabs label="묶어 보기" value={groupBy} onChange={pick} options={GROUPS} testid="group" />
         </div>
         {groupBy !== 'none' && (
           <div className={s.chips} role="group" aria-label="묶음 고르기" style={{ marginTop: 6 }}>

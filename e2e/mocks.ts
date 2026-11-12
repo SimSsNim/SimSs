@@ -53,6 +53,8 @@ export function silentWav(seconds = 30, rate = 8000): Buffer {
 }
 
 export async function setupMocks(page: Page) {
+  // 샘플 레슨 날짜(2026-11-12, 서울 낮)로 시계를 고정: 실제 날짜가 바뀌어도 테스트가 같게
+  await page.clock.setFixedTime(new Date('2026-11-12T03:00:00Z'));
   await page.addInitScript(ttsMockScript);
   const wav = silentWav();
   await page.route(/archive\.org\//, (route) => route.fulfill({ status: 200, body: wav, headers: { 'content-type': 'audio/wav', 'access-control-allow-origin': '*' } }));

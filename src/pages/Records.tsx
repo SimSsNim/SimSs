@@ -3,6 +3,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
 import { DatePick } from '../components/DatePick';
+import { GridTabs } from '../components/GridTabs';
 import { AppHeader } from '../components/AppHeader';
 import { db } from '../lib/db';
 import { kstDate, addDays, weekdayOf, formatKo } from '../lib/date';
@@ -21,7 +22,6 @@ const SECTIONS = [
   { id: 'stats', label: '기록' },
   { id: 'settings', label: '설정' },
   { id: 'backup', label: '백업' },
-  { id: 'import', label: '레슨 가져오기' },
 ] as const;
 
 export function Records() {
@@ -31,15 +31,20 @@ export function Records() {
     <>
       <AppHeader />
       <main className={s.page}>
-        <div className={s.chips} role="tablist" aria-label="기록/설정">
-          {SECTIONS.map((x) => (
-            <button key={x.id} type="button" role="tab" className={s.chip} aria-selected={section === x.id} onClick={() => nav(`/records/${x.id}`, { replace: true })}>{x.label}</button>
-          ))}
-        </div>
+        <GridTabs role="tablist" label="기록/설정" value={section === 'import' ? 'backup' : section} onChange={(v) => nav(`/records/${v}`, { replace: true })}
+          options={SECTIONS.map((x) => [x.id, x.label] as [string, string])} testid="records-tab" />
         {section === 'stats' && <><StudyResetPanel /><div style={{ height: 10 }} /><Stats /></>}
         {section === 'settings' && <SettingsPanel />}
-        {section === 'backup' && <><BackupPanel /><ResetPanel /></>}
-        {section === 'import' && <ImportPanel />}
+        {(section === 'backup' || section === 'import') && (
+          <>
+            <BackupPanel />
+            <details className={s.card} open={section === 'import'} style={{ marginTop: 10 }} data-testid="import-section">
+              <summary style={{ cursor: 'pointer', fontWeight: 700, minHeight: 36 }}>레슨 가져오기(자동으로 안 들어올 때)</summary>
+              <div style={{ marginTop: 8 }}><ImportPanel /></div>
+            </details>
+            <ResetPanel />
+          </>
+        )}
       </main>
     </>
   );

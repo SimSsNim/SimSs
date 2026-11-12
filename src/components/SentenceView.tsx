@@ -1,3 +1,4 @@
+import { fmtIpa } from '../lib/text';
 import { useRef, useState, type ReactNode } from 'react';
 import { useNavigate } from 'react-router-dom';
 import s from '../styles/ui.module.css';
@@ -91,8 +92,8 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
       <div className={s.between}>
         <div>
           <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>{' '}
-          {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && `[${vocab.ipa}]`}</span>}
-          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}{gloss.ipa ? ` [${gloss.ipa}]` : ''}</span>}
+          {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && <span className={s.ipa} data-testid="ipa">{fmtIpa(vocab.ipa)}</span>}</span>}
+          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos} {gloss.ipa && <span className={s.ipa} data-testid="ipa">{fmtIpa(gloss.ipa)}</span>}</span>}
         </div>
         <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
       </div>
