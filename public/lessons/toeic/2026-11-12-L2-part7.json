@@ -1,0 +1,501 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-12-L2-part7",
+  "date": "2026-11-12",
+  "level": 2,
+  "title": "Weekday Business Package",
+  "titleKo": "평일 비즈니스 패키지 광고",
+  "genre": "advertisement",
+  "tags": [
+    "TOEIC Part 7",
+    "광고",
+    "식당·호텔"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 162,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "린델 하버 호텔에서 머물며 일하세요"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "이번 겨울에 출장 계획이 있으신가요? 지난봄 도심 금융가에 문을 연 린델 하버 호텔이 지금 특별 평일 비즈니스 패키지를 제공합니다. 이 패키지는 12월 1일부터 2월 28일까지 월요일에서 목요일 사이에 이용할 수 있습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "패키지를 예약한 손님은 일반 객실 요금에서 20퍼센트 할인을 받습니다. 또한 숙박마다 무료 조식 뷔페, 초고속 인터넷, 회의실 2시간 무료 이용이 포함됩니다. 서류를 인쇄해야 하는 손님은 2층 비즈니스 센터를 추가 비용 없이 이용할 수 있습니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "옥상 레스토랑 스카이라인 그릴도 저희 호텔에 머물러야 할 또 하나의 이유입니다. 이곳은 지역 어선에서 들여온 신선한 해산물을 제공하며, 패키지 손님은 저녁 식사를 주문하면 디저트를 무료로 즐길 수 있습니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "평일 비즈니스 패키지를 예약하려면 저희 웹사이트를 방문하시거나 예약팀(555-0148)으로 전화해 주세요. 객실이 한정되어 있으니 일찍 예약하시기를 권합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Stay and Work at the Lindell Harbor Hotel",
+      "ko": "린델 하버 호텔에서 머물며 일하세요",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Are you traveling for business this winter?",
+      "ko": "이번 겨울에 출장 계획이 있으신가요?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The Lindell Harbor Hotel, which opened in the city's financial district last spring, is now offering a special Weekday Business Package.",
+      "ko": "지난봄 도심 금융가에 문을 연 린델 하버 호텔이 지금 특별 평일 비즈니스 패키지를 제공합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "The package is available from Monday to Thursday between December 1 and February 28.",
+      "ko": "이 패키지는 12월 1일부터 2월 28일까지 월요일에서 목요일 사이에 이용할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Guests who book the package will receive a 20 percent discount on standard room rates.",
+      "ko": "패키지를 예약한 손님은 일반 객실 요금에서 20퍼센트 할인을 받습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Each stay also includes a free breakfast buffet, high-speed Internet access, and two hours of free use of our meeting rooms.",
+      "ko": "또한 숙박마다 무료 조식 뷔페, 초고속 인터넷, 회의실 2시간 무료 이용이 포함됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Guests who need to print documents can use the business center on the second floor at no extra cost.",
+      "ko": "서류를 인쇄해야 하는 손님은 2층 비즈니스 센터를 추가 비용 없이 이용할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Our rooftop restaurant, Skyline Grill, is another reason to stay with us.",
+      "ko": "옥상 레스토랑 스카이라인 그릴도 저희 호텔에 머물러야 할 또 하나의 이유입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "It serves fresh seafood from local fishing boats, and package guests can enjoy a free dessert with any dinner order.",
+      "ko": "이곳은 지역 어선에서 들여온 신선한 해산물을 제공하며, 패키지 손님은 저녁 식사를 주문하면 디저트를 무료로 즐길 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "To book the Weekday Business Package, visit our Web site or call our reservations team at 555-0148.",
+      "ko": "평일 비즈니스 패키지를 예약하려면 저희 웹사이트를 방문하시거나 예약팀(555-0148)으로 전화해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Rooms are limited, so we recommend reserving early.",
+      "ko": "객실이 한정되어 있으니 일찍 예약하시기를 권합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "financial district",
+      "pos": "noun",
+      "meaningKo": "금융가, 금융 지구",
+      "ipa": null,
+      "synonyms": [
+        "business district"
+      ],
+      "matchText": "financial district",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Many banks are in the financial district.",
+        "ko": "많은 은행이 금융가에 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "room rate",
+      "pos": "noun",
+      "meaningKo": "객실 요금",
+      "ipa": null,
+      "synonyms": [
+        "room price",
+        "room charge"
+      ],
+      "matchText": "room rates",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Room rates are higher in summer.",
+        "ko": "여름에는 객실 요금이 더 비싸다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "at no extra cost",
+      "pos": "phrase",
+      "meaningKo": "추가 비용 없이",
+      "ipa": null,
+      "synonyms": [
+        "free of charge",
+        "at no additional charge"
+      ],
+      "matchText": "at no extra cost",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Delivery is provided at no extra cost.",
+        "ko": "배송은 추가 비용 없이 제공된다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "local",
+      "pos": "adjective",
+      "meaningKo": "지역의, 현지의",
+      "ipa": "/ˈloʊkl/",
+      "synonyms": [
+        "nearby",
+        "regional"
+      ],
+      "matchText": "local",
+      "sentenceId": "s9",
+      "example": {
+        "en": "We buy vegetables from local farms.",
+        "ko": "우리는 지역 농장에서 채소를 산다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "reserve",
+      "pos": "verb",
+      "meaningKo": "예약하다",
+      "ipa": "/rɪˈzɜːrv/",
+      "synonyms": [
+        "book"
+      ],
+      "matchText": "reserving",
+      "sentenceId": "s11",
+      "example": {
+        "en": "I reserved a table for four.",
+        "ko": "나는 4인용 테이블을 예약했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The Lindell Harbor Hotel,",
+          "role": "S",
+          "ko": "린델 하버 호텔은"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "(그 호텔은)"
+        },
+        {
+          "text": "opened",
+          "role": "V",
+          "ko": "문을 열었다",
+          "sub": true
+        },
+        {
+          "text": "in the city's financial district",
+          "role": "M",
+          "ko": "도심 금융가에",
+          "sub": true
+        },
+        {
+          "text": "last spring,",
+          "role": "M",
+          "ko": "지난봄",
+          "sub": true
+        },
+        {
+          "text": "is now offering",
+          "role": "V",
+          "ko": "지금 제공하고 있다"
+        },
+        {
+          "text": "a special Weekday Business Package.",
+          "role": "O",
+          "ko": "특별 평일 비즈니스 패키지를"
+        }
+      ],
+      "skeleton": "The Lindell Harbor Hotel is now offering a special package",
+      "explanation": "콤마 사이의 which절은 호텔에 대한 추가 설명(계속적 용법). 주어와 동사 사이에 끼어 있으니 빼고 읽으면 뼈대가 보인다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Guests",
+          "role": "S",
+          "ko": "손님들은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그 손님들은)"
+        },
+        {
+          "text": "need",
+          "role": "V",
+          "ko": "필요로 한다",
+          "sub": true
+        },
+        {
+          "text": "to print documents",
+          "role": "O",
+          "ko": "서류 인쇄하는 것을",
+          "sub": true
+        },
+        {
+          "text": "can use",
+          "role": "V",
+          "ko": "이용할 수 있다"
+        },
+        {
+          "text": "the business center",
+          "role": "O",
+          "ko": "비즈니스 센터를"
+        },
+        {
+          "text": "on the second floor",
+          "role": "M",
+          "ko": "2층에 있는"
+        },
+        {
+          "text": "at no extra cost.",
+          "role": "M",
+          "ko": "추가 비용 없이"
+        }
+      ],
+      "skeleton": "Guests can use the business center",
+      "explanation": "who need to print documents가 주어 Guests를 꾸민다. need의 목적어로 to부정사가 왔다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "계속적 용법 관계대명사 , which",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "The Lindell Harbor Hotel, which opened"
+      ],
+      "explanation": "콤마 뒤 which는 앞의 명사에 정보를 덧붙인다. 이 경우 that으로 바꿔 쓸 수 없다.",
+      "example": {
+        "en": "My car, which is ten years old, still runs well.",
+        "ko": "내 차는 10년 됐는데도 여전히 잘 달린다."
+      },
+      "note": "콤마 + 빈칸 + 동사 구조라면 that이 아니라 which/who를 고른다."
+    },
+    {
+      "id": "g2",
+      "title": "목적을 나타내는 To V",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "To book the Weekday Business Package"
+      ],
+      "explanation": "문장 맨 앞의 To V는 '~하기 위해'라는 목적을 나타낸다. 뒤에 명령문(visit, call)이 이어진다.",
+      "example": {
+        "en": "To apply, fill out this form.",
+        "ko": "지원하려면 이 양식을 작성하세요."
+      },
+      "note": "광고·공지 끝부분의 'To + 동사원형, 명령문'은 신청·예약 방법을 알려 주는 단서."
+    },
+    {
+      "id": "g3",
+      "title": "recommend + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "recommend reserving"
+      ],
+      "explanation": "recommend, suggest, consider, avoid, finish는 목적어로 동명사(V-ing)를 쓴다. recommend to reserve는 틀린 표현이다.",
+      "example": {
+        "en": "I suggest leaving early.",
+        "ko": "일찍 출발하기를 제안한다."
+      },
+      "note": "recommend/suggest + V-ing는 to부정사와 헷갈리게 내는 단골 함정."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is being advertised?",
+      "evidenceSentenceIds": [
+        "s3",
+        "s5"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "A discounted offer for business travelers"
+        },
+        {
+          "key": "B",
+          "text": "The opening of a new hotel"
+        },
+        {
+          "key": "C",
+          "text": "A seafood cooking class"
+        },
+        {
+          "key": "D",
+          "text": "A conference on finance"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'special Weekday Business Package'와 '20 percent discount'에서 출장객을 위한 할인 상품 광고임을 알 수 있다. discount → discounted offer로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "B": "호텔은 지난봄에 이미 문을 열었다. 개업 광고가 아니다.",
+        "D": "financial district는 호텔 위치일 뿐, 금융 회의 이야기가 아니다."
+      },
+      "skill": "광고 대상(주제)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What can package guests receive at Skyline Grill?",
+      "evidenceSentenceIds": [
+        "s9"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "A discount on seafood dishes"
+        },
+        {
+          "key": "B",
+          "text": "A complimentary sweet with an evening meal"
+        },
+        {
+          "key": "C",
+          "text": "A free breakfast on weekends"
+        },
+        {
+          "key": "D",
+          "text": "A private dining room"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "'package guests can enjoy a free dessert with any dinner order'를 바꿔 말한 것이 정답. free → complimentary, dessert → sweet, dinner → evening meal.",
+      "choiceNotesKo": {
+        "A": "해산물 할인은 언급되지 않았다.",
+        "C": "조식은 레스토랑 혜택이 아니라 숙박 포함 사항이고, 주말 이야기도 없다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-not-true",
+      "prompt": "What is NOT mentioned as part of the package?",
+      "evidenceSentenceIds": [
+        "s6"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Morning meals"
+        },
+        {
+          "key": "B",
+          "text": "Fast online access"
+        },
+        {
+          "key": "C",
+          "text": "Time in meeting spaces"
+        },
+        {
+          "key": "D",
+          "text": "Rides to and from the airport"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "포함 사항은 조식 뷔페(Morning meals), 초고속 인터넷(Fast online access), 회의실 2시간(Time in meeting spaces)이다. 공항 교통편은 어디에도 없다.",
+      "choiceNotesKo": {
+        "C": "two hours of free use of our meeting rooms를 바꿔 말한 것으로, 언급된 내용이다."
+      },
+      "skill": "사실이 아닌 것(NOT)"
+    }
+  ]
+}

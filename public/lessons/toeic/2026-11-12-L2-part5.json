@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-12-L2-part5",
+  "date": "2026-11-12",
+  "level": 2,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 143,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "마케팅팀은 어제 새 광고 캠페인에 대해 자세한 발표를 했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "모든 출장 경비는 표를 예매하기 전에 부서장의 승인을 받아야 한다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "그 호텔은 공항에서 멀리 떨어져 있지만, 많은 손님이 훌륭한 서비스 때문에 그곳을 선택한다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "파텔 씨의 팀은 사무실 이전을 예정보다 이틀 앞당겨 성공적으로 마쳤다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "이력서가 선정된 지원자들은 다음 주에 면접 연락을 받게 된다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "그 회사는 올해 말까지 부산에 새 지점 두 곳을 열 계획이다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "고객은 원래 영수증을 가지고 있으면 30일 안에 결함 있는 제품을 교환할 수 있다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "새 일정 관리 소프트웨어는 창고의 지연을 줄이는 데 매우 효과적이었다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "공장 안에 있는 동안에는 항상 신분증 배지가 보이도록 해 주세요."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "3층 회의실은 매일 오후 직원 회의용으로 이용할 수 있다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The marketing team gave a detailed presentation on the new advertising campaign yesterday.",
+      "ko": "마케팅팀은 어제 새 광고 캠페인에 대해 자세한 발표를 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "All travel expenses must be approved by a department manager before tickets are booked.",
+      "ko": "모든 출장 경비는 표를 예매하기 전에 부서장의 승인을 받아야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Although the hotel is located far from the airport, many guests choose it for its excellent service.",
+      "ko": "그 호텔은 공항에서 멀리 떨어져 있지만, 많은 손님이 훌륭한 서비스 때문에 그곳을 선택한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Ms. Patel's team successfully completed the office relocation two days ahead of schedule.",
+      "ko": "파텔 씨의 팀은 사무실 이전을 예정보다 이틀 앞당겨 성공적으로 마쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Applicants whose resumes are selected will be contacted for an interview next week.",
+      "ko": "이력서가 선정된 지원자들은 다음 주에 면접 연락을 받게 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "The company plans to open two new branches in Busan by the end of the year.",
+      "ko": "그 회사는 올해 말까지 부산에 새 지점 두 곳을 열 계획이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "Customers can exchange defective items within 30 days if they keep the original receipt.",
+      "ko": "고객은 원래 영수증을 가지고 있으면 30일 안에 결함 있는 제품을 교환할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "The new scheduling software has been very effective in reducing delays at the warehouse.",
+      "ko": "새 일정 관리 소프트웨어는 창고의 지연을 줄이는 데 매우 효과적이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "Please keep your identification badge visible at all times while you are inside the factory.",
+      "ko": "공장 안에 있는 동안에는 항상 신분증 배지가 보이도록 해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "The conference room on the third floor is available for staff meetings every afternoon.",
+      "ko": "3층 회의실은 매일 오후 직원 회의용으로 이용할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "approve",
+      "pos": "verb",
+      "meaningKo": "승인하다",
+      "ipa": "/əˈpruːv/",
+      "synonyms": [
+        "authorize",
+        "accept"
+      ],
+      "matchText": "approved",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The manager approved my vacation request.",
+        "ko": "매니저가 내 휴가 신청을 승인했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "relocation",
+      "pos": "noun",
+      "meaningKo": "이전, 이사",
+      "ipa": "/ˌriːloʊˈkeɪʃn/",
+      "synonyms": [
+        "move",
+        "transfer"
+      ],
+      "matchText": "relocation",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The relocation of our office will take a week.",
+        "ko": "우리 사무실 이전은 일주일이 걸릴 것이다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "ahead of schedule",
+      "pos": "phrase",
+      "meaningKo": "예정보다 일찍",
+      "ipa": null,
+      "synonyms": [
+        "early",
+        "sooner than planned"
+      ],
+      "matchText": "ahead of schedule",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The bridge was finished ahead of schedule.",
+        "ko": "그 다리는 예정보다 일찍 완공되었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "defective",
+      "pos": "adjective",
+      "meaningKo": "결함이 있는, 불량인",
+      "ipa": "/dɪˈfektɪv/",
+      "synonyms": [
+        "faulty",
+        "broken"
+      ],
+      "matchText": "defective",
+      "sentenceId": "s7",
+      "example": {
+        "en": "We replaced the defective parts.",
+        "ko": "우리는 불량 부품을 교체했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "receipt",
+      "pos": "noun",
+      "meaningKo": "영수증",
+      "ipa": "/rɪˈsiːt/",
+      "synonyms": [
+        "proof of purchase"
+      ],
+      "matchText": "receipt",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please keep your receipt.",
+        "ko": "영수증을 보관해 주세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Although",
+          "role": "CONJ",
+          "ko": "비록 ~이지만"
+        },
+        {
+          "text": "the hotel",
+          "role": "S",
+          "ko": "그 호텔은",
+          "sub": true
+        },
+        {
+          "text": "is located",
+          "role": "V",
+          "ko": "위치해 있다",
+          "sub": true
+        },
+        {
+          "text": "far from the airport,",
+          "role": "M",
+          "ko": "공항에서 멀리",
+          "sub": true
+        },
+        {
+          "text": "many guests",
+          "role": "S",
+          "ko": "많은 손님들이"
+        },
+        {
+          "text": "choose",
+          "role": "V",
+          "ko": "선택한다"
+        },
+        {
+          "text": "it",
+          "role": "O",
+          "ko": "그곳을"
+        },
+        {
+          "text": "for its excellent service.",
+          "role": "M",
+          "ko": "훌륭한 서비스 때문에"
+        }
+      ],
+      "skeleton": "many guests choose it",
+      "explanation": "Although가 이끄는 부사절(양보) + 주절. 주절의 주어는 many guests, 동사는 choose."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Applicants",
+          "role": "S",
+          "ko": "지원자들은"
+        },
+        {
+          "text": "whose",
+          "role": "CONJ",
+          "ko": "(그들의)"
+        },
+        {
+          "text": "resumes",
+          "role": "S",
+          "ko": "이력서가",
+          "sub": true
+        },
+        {
+          "text": "are selected",
+          "role": "V",
+          "ko": "선정된",
+          "sub": true
+        },
+        {
+          "text": "will be contacted",
+          "role": "V",
+          "ko": "연락을 받을 것이다"
+        },
+        {
+          "text": "for an interview",
+          "role": "M",
+          "ko": "면접을 위해"
+        },
+        {
+          "text": "next week.",
+          "role": "M",
+          "ko": "다음 주에"
+        }
+      ],
+      "skeleton": "Applicants will be contacted",
+      "explanation": "whose resumes are selected가 Applicants를 꾸민다. 진짜 동사는 will be contacted(미래 수동태)."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "조동사 + be + p.p. (수동태)",
+      "tags": [
+        "수동태",
+        "조동사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "must be approved by"
+      ],
+      "explanation": "주어 expenses(경비)는 스스로 승인하는 게 아니라 '승인을 받는' 대상이다. 조동사 뒤에는 be + p.p.를 쓴다. 뒤의 by + 사람도 수동태 단서.",
+      "example": {
+        "en": "The report should be checked by Friday.",
+        "ko": "그 보고서는 금요일까지 확인되어야 한다."
+      },
+      "note": "빈칸 앞 be동사 + 뒤에 목적어 없이 by가 오면 p.p.를 고른다."
+    },
+    {
+      "id": "g2",
+      "title": "소유격 관계대명사 whose",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "Applicants whose resumes"
+      ],
+      "explanation": "whose 뒤에는 관사 없는 명사가 바로 온다. '지원자들의 이력서'처럼 소유 관계를 나타낸다.",
+      "example": {
+        "en": "I met a writer whose books are very popular.",
+        "ko": "나는 책이 아주 인기 있는 작가를 만났다."
+      },
+      "note": "빈칸 뒤에 명사 + 동사가 이어지면 whose를 먼저 떠올린다."
+    },
+    {
+      "id": "g3",
+      "title": "plan + to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "plans to open"
+      ],
+      "explanation": "plan, decide, hope, want, agree 같은 동사는 목적어로 to부정사를 쓴다. 동명사(opening)는 올 수 없다.",
+      "example": {
+        "en": "We decided to hire two more people.",
+        "ko": "우리는 두 명을 더 채용하기로 했다."
+      },
+      "note": "plan/decide/hope/agree + to V는 토익 단골 짝꿍."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "presentation"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "presented"
+        },
+        {
+          "key": "B",
+          "text": "presenting"
+        },
+        {
+          "key": "C",
+          "text": "presentation"
+        },
+        {
+          "key": "D",
+          "text": "presentable"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "관사 a + 형용사 detailed 뒤는 명사 자리. 보기 중 명사는 presentation뿐이다.",
+      "choiceNotesKo": {
+        "D": "presentable은 '보기 좋은'이라는 형용사라 명사 자리에 못 온다."
+      },
+      "skill": "명사 자리"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "approved"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "approve"
+        },
+        {
+          "key": "B",
+          "text": "approved"
+        },
+        {
+          "key": "C",
+          "text": "approving"
+        },
+        {
+          "key": "D",
+          "text": "approval"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "must be ------- by: 경비는 승인을 '받는' 쪽이고 뒤에 by + 사람이 있으니 수동태 be + p.p. → approved.",
+      "choiceNotesKo": {
+        "C": "be approving은 능동 진행형이라 '경비가 승인하는 중'이 되어 어색하다.",
+        "D": "approval은 명사라 be 뒤 수동태 자리에 맞지 않는다."
+      },
+      "skill": "수동태"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "Although"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Although"
+        },
+        {
+          "key": "B",
+          "text": "Despite"
+        },
+        {
+          "key": "C",
+          "text": "Because"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "빈칸 뒤에 '주어 + 동사(the hotel is located)'가 있으니 접속사 자리. '멀지만 많이 선택한다'는 반대 흐름이므로 양보 접속사 Although.",
+      "choiceNotesKo": {
+        "B": "Despite는 전치사라 뒤에 문장이 올 수 없다.",
+        "C": "Because는 '멀어서 선택한다'가 되어 뜻이 맞지 않는다."
+      },
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "successfully"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "success"
+        },
+        {
+          "key": "B",
+          "text": "successful"
+        },
+        {
+          "key": "C",
+          "text": "succeed"
+        },
+        {
+          "key": "D",
+          "text": "successfully"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "주어(team)와 동사(completed) 사이에서 동사를 꾸미는 자리 → 부사 successfully.",
+      "choiceNotesKo": {
+        "B": "형용사는 명사를 꾸미므로 동사 앞에 올 수 없다."
+      },
+      "skill": "부사 자리"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "whose"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whom"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "빈칸 뒤에 관사 없는 명사 resumes + 동사 are selected가 온다. '지원자들의 이력서'라는 소유 관계 → whose.",
+      "choiceNotesKo": {
+        "A": "who 뒤에는 바로 동사가 와야 한다(who are selected).",
+        "B": "which는 사물을 받는다. Applicants는 사람이다."
+      },
+      "skill": "소유격 관계대명사"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "to open"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "open"
+        },
+        {
+          "key": "B",
+          "text": "to open"
+        },
+        {
+          "key": "C",
+          "text": "opening"
+        },
+        {
+          "key": "D",
+          "text": "opened"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "plan은 목적어로 to부정사를 쓰는 동사다. plan to V = ~할 계획이다.",
+      "choiceNotesKo": {
+        "C": "plan 뒤에는 동명사가 오지 않는다."
+      },
+      "skill": "to부정사를 쓰는 동사"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "exchange"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "exchange"
+        },
+        {
+          "key": "B",
+          "text": "extend"
+        },
+        {
+          "key": "C",
+          "text": "express"
+        },
+        {
+          "key": "D",
+          "text": "exceed"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "결함 있는 제품(defective items)을 영수증이 있으면 30일 안에 '교환할' 수 있다는 뜻이 자연스럽다.",
+      "choiceNotesKo": {
+        "B": "extend는 '연장하다'로 제품과 어울리지 않는다.",
+        "D": "exceed는 '초과하다'로 뜻이 맞지 않는다."
+      },
+      "skill": "어휘(동사)"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "effective"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "effect"
+        },
+        {
+          "key": "B",
+          "text": "effectively"
+        },
+        {
+          "key": "C",
+          "text": "effective"
+        },
+        {
+          "key": "D",
+          "text": "effectiveness"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "has been very ------- : be동사(been) 뒤 보어 자리이고 very의 꾸밈을 받으니 형용사 effective.",
+      "choiceNotesKo": {
+        "B": "부사는 be동사의 보어가 될 수 없다.",
+        "D": "명사는 very의 꾸밈을 받지 못한다."
+      },
+      "skill": "형용사 자리(보어)"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "while"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "during"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "unless"
+        },
+        {
+          "key": "D",
+          "text": "so that"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "빈칸 뒤에 '주어 + 동사(you are)'가 오므로 접속사. '공장 안에 있는 동안'이라는 뜻 → while.",
+      "choiceNotesKo": {
+        "A": "during은 전치사라 뒤에 명사만 온다.",
+        "C": "unless는 '~하지 않는다면'이라 뜻이 반대가 된다."
+      },
+      "skill": "during vs while"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "available"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "possible"
+        },
+        {
+          "key": "B",
+          "text": "capable"
+        },
+        {
+          "key": "C",
+          "text": "eligible"
+        },
+        {
+          "key": "D",
+          "text": "available"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "회의실 같은 장소·물건이 '이용 가능한' 상태는 available. be available for = ~에 이용할 수 있다.",
+      "choiceNotesKo": {
+        "A": "possible은 일·상황이 '가능한'이라는 뜻으로 장소에 쓰지 않는다.",
+        "C": "eligible은 사람이 '자격이 있는'이라는 뜻이다."
+      },
+      "skill": "형용사 어휘"
+    }
+  ]
+}
