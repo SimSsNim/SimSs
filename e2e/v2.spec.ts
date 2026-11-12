@@ -485,3 +485,44 @@ test('v22. 화면 꺼짐 방지: 기본은 레슨에서만, 설정으로 항상/
   await page.getByTestId('keep-awake').selectOption('off');
   await expect.poll(held).toBe(0);
 });
+
+test('v23. 연습 모드 다시 풀기: 풀다가 처음부터, 다시 푼 횟수, 이전 결과 눌러 상세 보기', async ({ page }) => {
+  page.on('dialog', (d) => void d.accept());
+  await start(page, URL7);
+  await expect(page.getByTestId('attempt-label')).toHaveText('첫 풀이');
+  // 풀다가 다시 풀기 → 답이 지워지고 1번부터
+  await page.getByTestId('p7-tab-question').click().catch(() => {});
+  await page.getByTestId('choice-A').click();
+  await expect(page.getByTestId('feedback')).toBeVisible();
+  await page.getByTestId('quiz-restart').click();
+  await expect(page.getByTestId('feedback')).toHaveCount(0);
+  await expect(page.getByTestId('quiz-restart')).toHaveCount(0);
+
+  // 1회차: 하나 틀림
+  await page.getByTestId('p7-tab-question').click().catch(() => {});
+  await solvePractice(page, ['D', ...P7_ANSWERS.slice(1)]);
+  await expect(page.getByTestId('quiz-score')).toHaveText('2/3');
+  await expect(page.getByTestId('retry-count')).toHaveText('처음 푼 결과');
+
+  // 2회차: 다 맞힘 → 다시 푼 횟수 1회, 기록 2개
+  await page.getByTestId('retry-all').click();
+  await expect(page.getByTestId('attempt-label')).toHaveText('다시 풀기 1회째');
+  await page.getByTestId('p7-tab-question').click().catch(() => {});
+  await solvePractice(page, P7_ANSWERS);
+  await expect(page.getByTestId('quiz-score')).toHaveText('3/3');
+  await expect(page.getByTestId('retry-count')).toHaveText('다시 푼 횟수 1회');
+  await expect(page.getByTestId('attempt-history').locator('li')).toHaveCount(2);
+
+  // 이전 결과(1회차) 누르면 그 결과 상세
+  await page.getByTestId('attempt-1').click();
+  await expect(page.getByTestId('past-result-badge')).toBeVisible();
+  await expect(page.getByTestId('quiz-score')).toHaveText('2/3');
+  await expect(page.getByTestId('result-item').first()).toContainText('✕ 틀림');
+
+  // 풀이 화면에서도 이전 결과 열기
+  await page.getByTestId('retry-all').click();
+  await expect(page.getByTestId('attempt-label')).toHaveText('다시 풀기 2회째');
+  await page.getByTestId('attempt-history-solver').locator('summary').click();
+  await page.getByTestId('attempt-2').click();
+  await expect(page.getByTestId('quiz-score')).toHaveText('3/3');
+});

@@ -44,28 +44,41 @@ export function QuizTab({ lesson, lessonKey }: TabProps) {
 
   if (!attempts || view === 'auto') return <p className={s.empty}>불러오는 중…</p>;
 
+  const retry = async (ids?: string[]) => {
+    // 풀던(진행 중) 시도는 버리고 새로 시작
+    const open = attempts.filter((a) => a.inProgress === 1).map((a) => a.id!);
+    if (open.length) await db.quizAttempt.bulkDelete(open);
+    setSession((x) => x + 1);
+    setDraft({ answers: {}, checked: [], durationSec: 0, mode: st.quizMode, questionIds: ids });
+    setView('solve');
+  };
+  const openResult = (id: number) => { setResultId(id); setView('result'); };
+  const open = attempts.find((a) => a.inProgress === 1);
+
   if (view === 'result') {
     const a = attempts.find((x) => x.id === resultId) ?? [...attempts].reverse().find((x) => x.inProgress === 0);
     if (!a) return null;
     return (
-      <QuizResult lesson={lesson} attempt={a} attempts={attempts}
-        onRetry={(ids) => {
+      <QuizResult key={a.id} lesson={lesson} attempt={a} attempts={attempts} onRetry={(ids) => void retry(ids)} onOpen={openResult}
+        onResume={open ? () => {
+          setDraft({ id: open.id, answers: open.answers, checked: open.checked, durationSec: open.durationSec, mode: open.mode, questionIds: open.questionIds });
           setSession((x) => x + 1);
-          setDraft({ answers: {}, checked: [], durationSec: 0, mode: st.quizMode, questionIds: ids });
           setView('solve');
-        }} />
+        } : undefined} />
     );
   }
   return (
-    <Solver key={session} lesson={lesson} draft={draft!} setDraft={setDraft}
-      onFinished={(id) => { setResultId(id); setView('result'); }} />
+    <Solver key={session} lesson={lesson} draft={draft!} setDraft={setDraft} attempts={attempts}
+      onFinished={openResult} onRestart={() => void retry(draft?.questionIds)} onOpen={openResult} />
   );
 }
 
 // ---------------- 풀이 ----------------
-function Solver({ lesson, draft, setDraft, onFinished }: {
-  lesson: Lesson; draft: Draft; setDraft: (d: Draft) => void; onFinished: (id: number) => void;
+function Solver({ lesson, draft, setDraft, attempts, onFinished, onRestart, onOpen }: {
+  lesson: Lesson; draft: Draft; setDraft: (d: Draft) => void; attempts: QuizAttemptRow[];
+  onFinished: (id: number) => void; onRestart: () => void; onOpen: (id: number) => void;
 }) {
+  const doneAttempts = attempts.filter((a) => a.inProgress === 0);
   const chapter = lesson.chapter!;
   const qs = questionsOf(lesson, draft);
   const [i, setI] = useState(() => Math.max(0, qs.findIndex((q) => !(q.id in draft.answers))));
@@ -170,10 +183,21 @@ function Solver({ lesson, draft, setDraft, onFinished }: {
             <button type="button" className={s.segBtn} aria-pressed={exam} onClick={() => changeMode('exam')} data-testid="mode-exam">실전</button>
           </div>
         ) : <span className={s.badgeAccent}>{exam ? '실전 모드' : '연습 모드'}{draft.questionIds ? ' · 틀린 문제만' : ''}</span>}
+        <span className={s.small + ' ' + s.muted} data-testid="attempt-label">{attemptLabel(doneAttempts.length + 1)}</span>
         <span className={`${qz.timer} ${exam && remaining < 0 ? qz.over : ''}`} data-testid="quiz-timer" aria-label="시간">
           {exam ? (remaining >= 0 ? `남은 ${mmss(Math.round(remaining))}` : `+${mmss(Math.round(-remaining))} 초과`) : mmss(draft.durationSec)}
         </span>
       </div>
+
+      {(doneAttempts.length > 0 || (!exam && answered > 0)) && (
+        <div className={s.row} style={{ marginBottom: 8 }}>
+          {!exam && answered > 0 && (
+            <button type="button" className={s.chip} data-testid="quiz-restart"
+              onClick={() => { if (confirm('지금 풀던 기록은 지우고 처음부터 다시 풀까요?')) onRestart(); }}>↺ 다시 풀기</button>
+          )}
+          {doneAttempts.length > 0 && <AttemptHistory attempts={doneAttempts} onOpen={onOpen} compact />}
+        </div>
+      )}
 
       {!started ? (
         <div className={s.card} style={{ textAlign: 'center' }} data-testid="exam-start">
@@ -369,7 +393,12 @@ function ChoiceNotes({ q }: { q: Question }) {
 }
 
 // ---------------- 결과 ----------------
-function QuizResult({ lesson, attempt, attempts, onRetry }: { lesson: Lesson; attempt: QuizAttemptRow; attempts: QuizAttemptRow[]; onRetry: (ids?: string[]) => void }) {
+function QuizResult({ lesson, attempt, attempts, onRetry, onOpen, onResume }: {
+  lesson: Lesson; attempt: QuizAttemptRow; attempts: QuizAttemptRow[]; onRetry: (ids?: string[]) => void;
+  onOpen: (id: number) => void; onResume?: () => void;
+}) {
+  const doneAttempts = attempts.filter((a) => a.inProgress === 0);
+  const latest = doneAttempts[doneAttempts.length - 1];
   const nav = useNavigate();
   const [params] = useSearchParams();
   const qs = questionsOf(lesson, attempt);
@@ -397,7 +426,10 @@ function QuizResult({ lesson, attempt, attempts, onRetry }: { lesson: Lesson; at
   return (
     <div data-testid="quiz-result">
       <div className={s.card} style={{ textAlign: 'center' }}>
-        <div className={s.small + ' ' + s.muted}>{CHAPTER_LABEL[lesson.chapter!]} · 시도 {attempt.attemptNo}{attempt.questionIds ? ' (틀린 문제만)' : ''} · {attempt.mode === 'exam' ? '실전' : '연습'}</div>
+        {latest && latest.id !== attempt.id && (
+          <div className={s.badge} style={{ marginBottom: 6 }} data-testid="past-result-badge">이전 결과를 보는 중 · {fmtWhen(attempt.finishedAt)}</div>
+        )}
+        <div className={s.small + ' ' + s.muted}>{CHAPTER_LABEL[lesson.chapter!]} · {attempt.attemptNo}회차{attempt.questionIds ? ' (틀린 문제만)' : ''} · {attempt.mode === 'exam' ? '실전' : '연습'}</div>
         <div className={qz.resultScore} data-testid="quiz-score">{attempt.score}/{attempt.total}</div>
         <div className={s.small}>
           걸린 시간 {mmss(attempt.durationSec)} · 권장 {mmss(Math.round(recommendedSec(lesson) * (attempt.total / lesson.questions.length)))}
@@ -416,10 +448,19 @@ function QuizResult({ lesson, attempt, attempts, onRetry }: { lesson: Lesson; at
       </div>
 
       <div className={s.row} style={{ margin: '10px 0' }}>
+        {onResume && <button type="button" className={s.primary} onClick={onResume} data-testid="quiz-resume">풀던 문제 이어 풀기</button>}
         {wrong.length > 0 && <button type="button" className={s.primary} onClick={() => onRetry(wrong.map((q) => q.id))} data-testid="retry-wrong">틀린 문제만 다시 풀기 ({wrong.length})</button>}
         <button type="button" className={s.btn} onClick={() => onRetry(undefined)} data-testid="retry-all">처음부터 다시 풀기</button>
         <Link className={s.btn} to={`/${lesson.track}/lesson/${lesson.id}/vocab`}>단어 탭으로</Link>
         {nextId && <button type="button" className={s.primary} onClick={() => nav(`/toeic/lesson/${nextId}/quiz?set=${set.join(',')}`)} data-testid="set-next">다음 Part ›</button>}
+      </div>
+
+      <div className={s.card} style={{ marginBottom: 10 }} data-testid="attempt-history-card">
+        <div className={s.between}>
+          <b>풀이 기록</b>
+          <span className={s.small + ' ' + s.muted} data-testid="retry-count">{doneAttempts.length > 1 ? `다시 푼 횟수 ${doneAttempts.length - 1}회` : '처음 푼 결과'}</span>
+        </div>
+        <AttemptHistory attempts={doneAttempts} current={attempt.id} onOpen={onOpen} />
       </div>
 
       {lesson.chapter === 'part7' && (
@@ -505,5 +546,45 @@ export function QuestionStar({ lesson, q }: { lesson: Lesson; q: Question }) {
       }}>
       {on ? '★ 즐겨찾기됨' : '☆ 즐겨찾기'}
     </button>
+  );
+}
+
+/** n번째 풀이 라벨: 1 = 첫 풀이, 2 이상 = 다시 풀기 (n-1)회째 */
+export const attemptLabel = (n: number) => (n <= 1 ? '첫 풀이' : `다시 풀기 ${n - 1}회째`);
+
+const fmtWhen = (t: number | null | undefined) => {
+  if (!t) return '';
+  const d = new Date(t);
+  return `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`;
+};
+
+/** 끝난 시도 목록(최근 것 위). 누르면 그 시도의 결과 상세 */
+function AttemptHistory({ attempts, current, onOpen, compact }: { attempts: QuizAttemptRow[]; current?: number; onOpen: (id: number) => void; compact?: boolean }) {
+  const rows = [...attempts].reverse();
+  const list = (
+    <ol className={s.list} style={{ marginTop: 6 }} data-testid="attempt-history">
+      {rows.map((a) => {
+        const pct = a.total ? Math.round((a.score / a.total) * 100) : 0;
+        return (
+          <li key={a.id}>
+            <button type="button" className={s.btn} style={{ width: '100%', justifyContent: 'space-between', textAlign: 'left' }}
+              aria-current={a.id === current ? 'true' : undefined} onClick={() => onOpen(a.id!)} data-testid={`attempt-${a.attemptNo}`}>
+              <span>
+                <b>{a.attemptNo}회차</b>{' '}
+                <span className={s.small + ' ' + s.muted}>{a.mode === 'exam' ? '실전' : '연습'}{a.questionIds ? ' · 틀린 문제만' : ''} · {fmtWhen(a.finishedAt)} · {mmss(a.durationSec)}</span>
+              </span>
+              <span><b>{a.score}/{a.total}</b> <span className={s.small + ' ' + s.muted}>{pct}%</span>{a.id === current ? ' ◀' : ' ›'}</span>
+            </button>
+          </li>
+        );
+      })}
+    </ol>
+  );
+  if (!compact) return list;
+  return (
+    <details style={{ flex: '1 1 100%' }} data-testid="attempt-history-solver">
+      <summary className={s.chip} style={{ display: 'inline-flex', cursor: 'pointer' }}>📋 이전 결과 보기 ({attempts.length})</summary>
+      {list}
+    </details>
   );
 }
