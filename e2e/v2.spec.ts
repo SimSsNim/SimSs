@@ -491,7 +491,7 @@ test('v23. 연습 모드 다시 풀기: 풀다가 처음부터, 다시 푼 횟�
   await start(page, URL7);
   await expect(page.getByTestId('attempt-label')).toHaveText('첫 풀이');
   // 풀다가 다시 풀기 → 답이 지워지고 1번부터
-  await page.getByTestId('p7-tab-question').click().catch(() => {});
+  await qTab(page);
   await page.getByTestId('choice-A').click();
   await expect(page.getByTestId('feedback')).toBeVisible();
   await page.getByTestId('quiz-restart').click();
@@ -499,7 +499,7 @@ test('v23. 연습 모드 다시 풀기: 풀다가 처음부터, 다시 푼 횟�
   await expect(page.getByTestId('quiz-restart')).toHaveCount(0);
 
   // 1회차: 하나 틀림
-  await page.getByTestId('p7-tab-question').click().catch(() => {});
+  await qTab(page);
   await solvePractice(page, ['D', ...P7_ANSWERS.slice(1)]);
   await expect(page.getByTestId('quiz-score')).toHaveText('2/3');
   await expect(page.getByTestId('retry-count')).toHaveText('처음 푼 결과');
@@ -507,7 +507,7 @@ test('v23. 연습 모드 다시 풀기: 풀다가 처음부터, 다시 푼 횟�
   // 2회차: 다 맞힘 → 다시 푼 횟수 1회, 기록 2개
   await page.getByTestId('retry-all').click();
   await expect(page.getByTestId('attempt-label')).toHaveText('다시 풀기 1회째');
-  await page.getByTestId('p7-tab-question').click().catch(() => {});
+  await qTab(page);
   await solvePractice(page, P7_ANSWERS);
   await expect(page.getByTestId('quiz-score')).toHaveText('3/3');
   await expect(page.getByTestId('retry-count')).toHaveText('다시 푼 횟수 1회');
@@ -526,3 +526,9 @@ test('v23. 연습 모드 다시 풀기: 풀다가 처음부터, 다시 푼 횟�
   await page.getByTestId('attempt-2').click();
   await expect(page.getByTestId('quiz-score')).toHaveText('3/3');
 });
+
+/** 모바일에서만 보이는 Part 7 '문제' 탭 */
+async function qTab(page: Page) {
+  const t = page.getByTestId('p7-tab-question');
+  if (await t.isVisible()) await t.click();
+}
