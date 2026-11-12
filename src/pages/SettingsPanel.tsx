@@ -214,7 +214,7 @@ function SpeechCheck() {
         {audioSessionSupported() && (
           <label className={s.check}>
             <input type="checkbox" checked={st.playbackSession} onChange={(e) => { setSetting('playbackSession', e.target.checked); setAudioSession(e.target.checked ? 'playback' : 'auto'); }} />
-            무음 스위치를 켜도 소리 내기(실험 — 켜서 소리가 더 안 나면 다시 끄세요)
+            무음 스위치를 켜도 소리 내기(실험 — 켠 뒤 화면을 한 번 누르면 적용, 배터리를 조금 더 써요)
           </label>
         )}
       </div>
