@@ -1,0 +1,1070 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-13-L1",
+  "date": "2026-11-13",
+  "level": 1,
+  "title": "The Mischievous Dog",
+  "titleKo": "말썽꾸러기 개",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_04_aesop.mp3",
+    "mp3Low": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_04_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-1-fables-1-25",
+    "reader": "Kristin LeMoine",
+    "durationSec": 82,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 01, 04번 트랙. 앞부분에 LibriVox 안내 멘트가 있고, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 114,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "옛날에 아무 이유 없이 사람들에게 달려들어 물곤 하는 개가 한 마리 있었는데, 그 개는 주인집에 오는 모든 사람에게 큰 골칫거리였다. 그래서 주인은 개가 가까이 있다는 것을 사람들에게 알리려고 개의 목에 방울을 달아 주었다. 개는 그 방울이 몹시 자랑스러워서, 아주 흐뭇해하며 방울을 딸랑거리고 으스대며 돌아다녔다. 그런데 늙은 개 한 마리가 다가와 말했다. \"친구, 잘난 척은 덜 할수록 좋다네. 설마 그 방울을 잘해서 받은 상이라고 생각하는 건 아니겠지? 오히려 그건 창피한 표시라네.\""
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "나쁜 평판은 종종 명성으로 착각된다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was once a Dog who used to snap at people and bite them without any provocation, and who was a great nuisance to every one who came to his master's house.",
+      "ko": "옛날에 아무 이유 없이 사람들에게 달려들어 물곤 하는 개가 한 마리 있었는데, 그 개는 주인집에 오는 모든 사람에게 큰 골칫거리였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "So his master fastened a bell round his neck to warn people of his presence.",
+      "ko": "그래서 주인은 개가 가까이 있다는 것을 사람들에게 알리려고 개의 목에 방울을 달아 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The Dog was very proud of the bell, and strutted about tinkling it with immense satisfaction.",
+      "ko": "개는 그 방울이 몹시 자랑스러워서, 아주 흐뭇해하며 방울을 딸랑거리고 으스대며 돌아다녔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But an old dog came up to him and said, \"The fewer airs you give yourself the better, my friend.",
+      "ko": "그런데 늙은 개 한 마리가 다가와 말했다. \"친구, 잘난 척은 덜 할수록 좋다네.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "You don't think, do you, that your bell was given you as a reward of merit?",
+      "ko": "설마 그 방울을 잘해서 받은 상이라고 생각하는 건 아니겠지?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "On the contrary, it is a badge of disgrace.\"",
+      "ko": "오히려 그건 창피한 표시라네.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Notoriety is often mistaken for fame.",
+      "ko": "나쁜 평판은 종종 명성으로 착각된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "nuisance",
+      "pos": "noun",
+      "meaningKo": "골칫거리, 성가신 존재",
+      "ipa": "/ˈnuːsəns/",
+      "synonyms": [
+        "pest",
+        "annoyance",
+        "bother"
+      ],
+      "matchText": "nuisance",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The noisy neighbor is a real nuisance.",
+        "ko": "시끄러운 이웃은 정말 골칫거리다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "fasten",
+      "pos": "verb",
+      "meaningKo": "(단단히) 매다, 달다",
+      "ipa": "/ˈfæsən/",
+      "synonyms": [
+        "attach",
+        "tie",
+        "fix"
+      ],
+      "matchText": "fastened",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Please fasten your seat belt.",
+        "ko": "안전벨트를 매 주세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "be proud of",
+      "pos": "phrase",
+      "meaningKo": "~을 자랑스러워하다",
+      "ipa": "/bi praʊd əv/",
+      "synonyms": [
+        "take pride in",
+        "be pleased with"
+      ],
+      "matchText": "was very proud of",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She is proud of her son.",
+        "ko": "그녀는 아들을 자랑스러워한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "give oneself airs",
+      "pos": "idiom",
+      "meaningKo": "잘난 척하다, 거드름 피우다",
+      "ipa": "/ɡɪv wʌnˈsɛlf ɛrz/",
+      "synonyms": [
+        "show off",
+        "put on airs",
+        "boast"
+      ],
+      "matchText": "airs you give yourself",
+      "sentenceId": "s4",
+      "example": {
+        "en": "He gives himself airs because he is rich.",
+        "ko": "그는 부자라서 거드름을 피운다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "on the contrary",
+      "pos": "phrase",
+      "meaningKo": "오히려, 그와 반대로",
+      "ipa": "/ɑn ðə ˈkɑntrɛri/",
+      "synonyms": [
+        "quite the opposite",
+        "rather"
+      ],
+      "matchText": "On the contrary",
+      "sentenceId": "s6",
+      "example": {
+        "en": "It isn't easy. On the contrary, it's very hard.",
+        "ko": "그건 쉽지 않아. 오히려 아주 어려워."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "So",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "his master",
+          "role": "S",
+          "sub": false,
+          "ko": "그의 주인은"
+        },
+        {
+          "text": "fastened",
+          "role": "V",
+          "sub": false,
+          "ko": "달았다"
+        },
+        {
+          "text": "a bell",
+          "role": "O",
+          "sub": false,
+          "ko": "방울을"
+        },
+        {
+          "text": "round his neck",
+          "role": "M",
+          "sub": false,
+          "ko": "그의 목에"
+        },
+        {
+          "text": "to warn people of his presence.",
+          "role": "M",
+          "sub": false,
+          "ko": "사람들에게 그가 있다는 것을 알리려고"
+        }
+      ],
+      "skeleton": "his master fastened a bell (주인이 방울을 달았다)",
+      "explanation": "fastened(달았다)의 목적어는 a bell이에요. round his neck은 장소, to warn ~은 '~하기 위해'라는 목적을 나타내는 to부정사예요. warn A of B는 'A에게 B를 알리다(경고하다)'라는 뜻이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The Dog",
+          "role": "S",
+          "sub": false,
+          "ko": "그 개는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "very proud of the bell,",
+          "role": "C",
+          "sub": false,
+          "ko": "방울을 매우 자랑스러워하는"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "strutted about",
+          "role": "V",
+          "sub": false,
+          "ko": "으스대며 돌아다녔다"
+        },
+        {
+          "text": "tinkling it",
+          "role": "M",
+          "sub": false,
+          "ko": "그것을 딸랑거리면서"
+        },
+        {
+          "text": "with immense satisfaction.",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 흐뭇하게"
+        }
+      ],
+      "skeleton": "The Dog was proud ~ and strutted about (개는 자랑스러워했고 으스대며 다녔다)",
+      "explanation": "주어 The Dog 하나에 동사 두 개(was, strutted)가 and로 이어져 있어요. tinkling it은 '방울을 딸랑거리면서'처럼 동시에 하는 동작을 덧붙이는 분사구문이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "You",
+          "role": "S",
+          "sub": false,
+          "ko": "너는"
+        },
+        {
+          "text": "don't think,",
+          "role": "V",
+          "sub": false,
+          "ko": "생각하지 않지"
+        },
+        {
+          "text": "do you,",
+          "role": "M",
+          "sub": false,
+          "ko": "그렇지?"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "your bell",
+          "role": "S",
+          "sub": true,
+          "ko": "네 방울이"
+        },
+        {
+          "text": "was given",
+          "role": "V",
+          "sub": true,
+          "ko": "주어졌다"
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "sub": true,
+          "ko": "너에게"
+        },
+        {
+          "text": "as a reward of merit?",
+          "role": "M",
+          "sub": true,
+          "ko": "잘한 일에 대한 상으로"
+        }
+      ],
+      "skeleton": "You don't think that ~ (너는 ~라고 생각하지 않지)",
+      "explanation": "that 이하 전체가 think의 목적어(생각하는 내용)예요. 중간의 do you는 '그렇지?' 하고 확인하는 부가의문문이 문장 가운데 끼어든 것이에요. was given은 '주어졌다'라는 수동태예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "used to + 동사원형 (~하곤 했다)",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "used to snap"
+      ],
+      "explanation": "used to는 과거에 반복해서 하던 습관을 나타내요. 개가 사람들에게 '달려들곤 했다'는 뜻이에요.",
+      "example": {
+        "en": "I used to walk to school.",
+        "ko": "나는 걸어서 학교에 다니곤 했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "the 비교급 ~, the 비교급 (~할수록 더 …하다)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "The fewer airs you give yourself the better"
+      ],
+      "explanation": "'the + 비교급 ~, the + 비교급'은 '~할수록 더 …하다'라는 뜻이에요. 여기서는 뒤쪽이 the better로 짧게 줄었어요: 잘난 척을 덜 할수록(the fewer) 더 좋다(the better).",
+      "example": {
+        "en": "The sooner, the better.",
+        "ko": "빠르면 빠를수록 좋다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "수동태 (be + 과거분사)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "is often mistaken"
+      ],
+      "explanation": "is mistaken은 '잘못 여겨진다'라는 수동태예요. mistake A for B(A를 B로 착각하다)가 수동태로 바뀌어 'A is mistaken for B(A가 B로 착각된다)'가 되었어요.",
+      "example": {
+        "en": "People often mistake him for his brother.",
+        "ko": "사람들은 종종 그를 그의 형으로 착각한다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(There was ~) ~이 있었다",
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "synonyms": [
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "dog": {
+      "lemma": "dog",
+      "pos": "noun",
+      "ko": "개",
+      "synonyms": [
+        "hound",
+        "puppy"
+      ],
+      "ipa": "/dɔːɡ/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사, 사람·동물)",
+      "ipa": "/huː/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "(used to) ~하곤 했다",
+      "form": "과거형",
+      "synonyms": [
+        "would"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~으로; (to부정사) ~하기 위해",
+      "ipa": "/tuː/"
+    },
+    "snap": {
+      "lemma": "snap",
+      "pos": "verb",
+      "ko": "(물려고) 덥석 달려들다",
+      "synonyms": [
+        "bite at",
+        "lunge"
+      ],
+      "ipa": "/snæp/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~을 향해",
+      "ipa": "/æt/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "synonyms": [
+        "folk",
+        "persons"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "bite": {
+      "lemma": "bite",
+      "pos": "verb",
+      "ko": "물다",
+      "synonyms": [
+        "nip",
+        "chew"
+      ],
+      "ipa": "/baɪt/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "아무런, 어떤",
+      "ipa": "/ˈɛni/"
+    },
+    "provocation": {
+      "lemma": "provocation",
+      "pos": "noun",
+      "ko": "자극, 도발 (화나게 하는 이유)",
+      "synonyms": [
+        "cause",
+        "reason",
+        "incitement"
+      ],
+      "ipa": "/ˌprɑːvəˈkeɪʃən/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 대단한",
+      "synonyms": [
+        "big",
+        "huge"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "nuisance": {
+      "lemma": "nuisance",
+      "pos": "noun",
+      "ko": "골칫거리, 성가신 존재",
+      "synonyms": [
+        "pest",
+        "annoyance",
+        "bother"
+      ],
+      "ipa": "/ˈnuːsəns/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든",
+      "ipa": "/ˈɛvəri/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(every one) 모든 사람",
+      "ipa": "/wʌn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다",
+      "form": "과거형",
+      "synonyms": [
+        "arrived",
+        "went"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "master's": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인의",
+      "form": "소유격",
+      "synonyms": [
+        "owner",
+        "keeper"
+      ],
+      "ipa": "/ˈmæstərz/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "synonyms": [
+        "home",
+        "dwelling"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "ipa": "/soʊ/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "synonyms": [
+        "owner",
+        "keeper"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "fastened": {
+      "lemma": "fasten",
+      "pos": "verb",
+      "ko": "(단단히) 매다, 달다",
+      "form": "과거형",
+      "synonyms": [
+        "attached",
+        "tied"
+      ],
+      "ipa": "/ˈfæsənd/"
+    },
+    "bell": {
+      "lemma": "bell",
+      "pos": "noun",
+      "ko": "방울, 종",
+      "synonyms": [
+        "chime"
+      ],
+      "ipa": "/bɛl/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "preposition",
+      "ko": "~ 둘레에",
+      "ipa": "/raʊnd/"
+    },
+    "neck": {
+      "lemma": "neck",
+      "pos": "noun",
+      "ko": "목",
+      "synonyms": [
+        "throat"
+      ],
+      "ipa": "/nɛk/"
+    },
+    "warn": {
+      "lemma": "warn",
+      "pos": "verb",
+      "ko": "경고하다, 미리 알리다",
+      "synonyms": [
+        "alert",
+        "caution"
+      ],
+      "ipa": "/wɔːrn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "presence": {
+      "lemma": "presence",
+      "pos": "noun",
+      "ko": "(그곳에) 있음, 존재",
+      "synonyms": [
+        "being there",
+        "attendance"
+      ],
+      "ipa": "/ˈprɛzəns/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "proud": {
+      "lemma": "proud",
+      "pos": "adjective",
+      "ko": "자랑스러워하는, 뽐내는",
+      "synonyms": [
+        "pleased",
+        "vain"
+      ],
+      "ipa": "/praʊd/"
+    },
+    "strutted": {
+      "lemma": "strut",
+      "pos": "verb",
+      "ko": "뽐내며 걷다",
+      "form": "과거형",
+      "synonyms": [
+        "swaggered",
+        "paraded"
+      ],
+      "ipa": "/ˈstrʌtɪd/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "여기저기, 이리저리",
+      "synonyms": [
+        "around"
+      ],
+      "ipa": "/əˈbaʊt/"
+    },
+    "tinkling": {
+      "lemma": "tinkle",
+      "pos": "verb",
+      "ko": "딸랑거리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "jingling",
+        "ringing"
+      ],
+      "ipa": "/ˈtɪŋkəlɪŋ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "ipa": "/ɪt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고",
+      "ipa": "/wɪð/"
+    },
+    "immense": {
+      "lemma": "immense",
+      "pos": "adjective",
+      "ko": "엄청난, 대단히 큰",
+      "synonyms": [
+        "huge",
+        "enormous",
+        "vast"
+      ],
+      "ipa": "/ˌɪˈmɛns/"
+    },
+    "satisfaction": {
+      "lemma": "satisfaction",
+      "pos": "noun",
+      "ko": "만족, 흐뭇함",
+      "synonyms": [
+        "pleasure",
+        "contentment"
+      ],
+      "ipa": "/ˌsætəsˈfækʃən/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "ipa": "/bʌt/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사, 모음 앞)",
+      "ipa": "/æn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 나이 든",
+      "synonyms": [
+        "elderly",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(come up to) ~에게 다가와",
+      "synonyms": [
+        "near"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "remarked"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "fewer": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "더 적은",
+      "form": "비교급",
+      "ipa": "/ˈfjuːər/"
+    },
+    "airs": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "(airs) 잘난 체, 거드름",
+      "form": "복수형",
+      "synonyms": [
+        "pretensions",
+        "affectations"
+      ],
+      "ipa": "/ɛrz/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신, 너희",
+      "ipa": "/juː/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(give oneself airs) 잘난 척하다",
+      "synonyms": [
+        "put on",
+        "show"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "너 자신",
+      "ipa": "/jərˈsɛlf/"
+    },
+    "better": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "더 좋은",
+      "form": "비교급",
+      "synonyms": [
+        "preferable",
+        "finer"
+      ],
+      "ipa": "/ˈbɛtər/"
+    },
+    "my": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "don't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않다",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "synonyms": [
+        "believe",
+        "suppose"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부가의문문) 그렇지?",
+      "ipa": "/duː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "ipa": "/ðæt/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "given": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "과거분사",
+      "synonyms": [
+        "handed",
+        "awarded"
+      ],
+      "ipa": "/ˈɡɪvən/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~처럼, ~로서",
+      "ipa": "/æz/"
+    },
+    "reward": {
+      "lemma": "reward",
+      "pos": "noun",
+      "ko": "상, 보상",
+      "synonyms": [
+        "prize",
+        "award"
+      ],
+      "ipa": "/rɪˈwɔːrd/"
+    },
+    "merit": {
+      "lemma": "merit",
+      "pos": "noun",
+      "ko": "공로, 훌륭한 점",
+      "synonyms": [
+        "worth",
+        "excellence"
+      ],
+      "ipa": "/ˈmɛrət/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on the contrary) 오히려",
+      "ipa": "/ɑːn/"
+    },
+    "contrary": {
+      "lemma": "contrary",
+      "pos": "noun",
+      "ko": "반대",
+      "synonyms": [
+        "opposite",
+        "reverse"
+      ],
+      "ipa": "/ˈkɑːntrɛri/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "remains"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "badge": {
+      "lemma": "badge",
+      "pos": "noun",
+      "ko": "표시, 상징, 배지",
+      "synonyms": [
+        "sign",
+        "mark",
+        "emblem"
+      ],
+      "ipa": "/bædʒ/"
+    },
+    "disgrace": {
+      "lemma": "disgrace",
+      "pos": "noun",
+      "ko": "불명예, 수치",
+      "synonyms": [
+        "shame",
+        "dishonor"
+      ],
+      "ipa": "/dɪsˈɡreɪs/"
+    },
+    "notoriety": {
+      "lemma": "notoriety",
+      "pos": "noun",
+      "ko": "악명, 나쁜 평판",
+      "synonyms": [
+        "infamy",
+        "bad reputation"
+      ],
+      "ipa": "/ˌnoʊtəˈraɪəti/"
+    },
+    "often": {
+      "lemma": "often",
+      "pos": "adverb",
+      "ko": "종종, 자주",
+      "synonyms": [
+        "frequently",
+        "usually"
+      ],
+      "ipa": "/ˈɔːfən/"
+    },
+    "mistaken": {
+      "lemma": "mistake",
+      "pos": "verb",
+      "ko": "(mistake A for B) A를 B로 착각하다",
+      "form": "과거분사",
+      "synonyms": [
+        "confused",
+        "taken"
+      ],
+      "ipa": "/mɪˈsteɪkən/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 때문에",
+      "ipa": "/fɔːr/"
+    },
+    "fame": {
+      "lemma": "fame",
+      "pos": "noun",
+      "ko": "명성",
+      "synonyms": [
+        "renown",
+        "glory",
+        "reputation"
+      ],
+      "ipa": "/feɪm/"
+    }
+  }
+}

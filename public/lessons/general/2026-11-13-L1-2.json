@@ -1,0 +1,1205 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-13-L1-2",
+  "date": "2026-11-13",
+  "level": 1,
+  "title": "The Mice in Council",
+  "titleKo": "쥐들의 회의",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_06_aesop.mp3",
+    "mp3Low": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_06_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-1-fables-1-25",
+    "reader": "Annie Coleman Rothenberg",
+    "durationSec": 90,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 01, 06번 트랙. 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 140,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "옛날 옛적에 쥐들이 모두 모여 회의를 열고, 고양이의 공격으로부터 자신들을 지킬 가장 좋은 방법을 의논했다. 여러 의견이 오간 뒤, 지위도 꽤 있고 경험도 많은 쥐 한 마리가 일어나서 말했다. \"앞으로 우리의 안전을 확실히 지켜 줄 계획을 생각해 냈습니다. 여러분이 찬성하고 실행해 주기만 한다면요. 바로 우리의 적인 고양이의 목에 방울을 다는 것입니다. 그러면 방울 소리가 고양이가 다가오는 것을 우리에게 알려 줄 거예요.\" 이 제안은 큰 박수를 받았고, 그것을 받아들이기로 이미 결정이 났을 때, 늙은 쥐 한 마리가 일어서서 말했다. \"지금 나온 계획이 훌륭하다는 데는 저도 여러분 모두와 같은 생각입니다. 그런데 하나 물어봐도 될까요? 누가 고양이 목에 방울을 달 건가요?\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Once upon a time all the Mice met together in Council, and discussed the best means of securing themselves against the attacks of the cat.",
+      "ko": "옛날 옛적에 쥐들이 모두 모여 회의를 열고, 고양이의 공격으로부터 자신들을 지킬 가장 좋은 방법을 의논했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "After several suggestions had been debated, a Mouse of some standing and experience got up and said, \"I think I have hit upon a plan which will ensure our safety in the future, provided you approve and carry it out.",
+      "ko": "여러 의견이 오간 뒤, 지위도 꽤 있고 경험도 많은 쥐 한 마리가 일어나서 말했다. \"앞으로 우리의 안전을 확실히 지켜 줄 계획을 생각해 냈습니다. 여러분이 찬성하고 실행해 주기만 한다면요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "It is that we should fasten a bell round the neck of our enemy the cat, which will by its tinkling warn us of her approach.\"",
+      "ko": "바로 우리의 적인 고양이의 목에 방울을 다는 것입니다. 그러면 방울 소리가 고양이가 다가오는 것을 우리에게 알려 줄 거예요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "This proposal was warmly applauded, and it had been already decided to adopt it, when an old Mouse got upon his feet and said, \"I agree with you all that the plan before us is an admirable one: but may I ask who is going to bell the cat?\"",
+      "ko": "이 제안은 큰 박수를 받았고, 그것을 받아들이기로 이미 결정이 났을 때, 늙은 쥐 한 마리가 일어서서 말했다. \"지금 나온 계획이 훌륭하다는 데는 저도 여러분 모두와 같은 생각입니다. 그런데 하나 물어봐도 될까요? 누가 고양이 목에 방울을 달 건가요?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "discuss",
+      "pos": "verb",
+      "meaningKo": "의논하다, 토론하다",
+      "ipa": "/dɪˈskʌs/",
+      "synonyms": [
+        "talk over",
+        "debate"
+      ],
+      "matchText": "discussed",
+      "sentenceId": "s1",
+      "example": {
+        "en": "We discussed the problem for an hour.",
+        "ko": "우리는 그 문제를 한 시간 동안 의논했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "hit upon",
+      "pos": "phrasal-verb",
+      "meaningKo": "(좋은 생각을) 문득 떠올리다, 찾아내다",
+      "ipa": "/hɪt əˈpɑn/",
+      "synonyms": [
+        "come up with",
+        "think of",
+        "discover"
+      ],
+      "matchText": "hit upon",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She hit upon a great idea.",
+        "ko": "그녀는 좋은 생각을 문득 떠올렸다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "carry out",
+      "pos": "phrasal-verb",
+      "meaningKo": "실행하다, 수행하다",
+      "ipa": "/ˈkæri aʊt/",
+      "synonyms": [
+        "do",
+        "perform",
+        "put into action"
+      ],
+      "matchText": "carry it out",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We need someone to carry out the plan.",
+        "ko": "그 계획을 실행할 사람이 필요하다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "approach",
+      "pos": "noun",
+      "meaningKo": "다가옴, 접근",
+      "ipa": "/əˈproʊtʃ/",
+      "synonyms": [
+        "arrival",
+        "coming"
+      ],
+      "matchText": "approach",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The birds flew away at the approach of the cat.",
+        "ko": "고양이가 다가오자 새들이 날아가 버렸다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "bell the cat",
+      "pos": "idiom",
+      "meaningKo": "고양이 목에 방울 달기 (위험한 일을 자진해서 맡다)",
+      "ipa": "/bɛl ðə kæt/",
+      "synonyms": [
+        "take the risk",
+        "do the dangerous job"
+      ],
+      "matchText": "bell the cat",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Everyone agreed, but nobody wanted to bell the cat.",
+        "ko": "모두 찬성했지만 아무도 고양이 목에 방울을 달려고 하지 않았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Once upon a time",
+          "role": "M",
+          "sub": false,
+          "ko": "옛날 옛적에"
+        },
+        {
+          "text": "all the Mice",
+          "role": "S",
+          "sub": false,
+          "ko": "모든 쥐들이"
+        },
+        {
+          "text": "met together",
+          "role": "V",
+          "sub": false,
+          "ko": "함께 모였다"
+        },
+        {
+          "text": "in Council,",
+          "role": "M",
+          "sub": false,
+          "ko": "회의를 열어"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "discussed",
+          "role": "V",
+          "sub": false,
+          "ko": "의논했다"
+        },
+        {
+          "text": "the best means",
+          "role": "O",
+          "sub": false,
+          "ko": "가장 좋은 방법을"
+        },
+        {
+          "text": "of securing themselves",
+          "role": "M",
+          "sub": false,
+          "ko": "자신들을 지키는"
+        },
+        {
+          "text": "against the attacks of the cat.",
+          "role": "M",
+          "sub": false,
+          "ko": "고양이의 공격으로부터"
+        }
+      ],
+      "skeleton": "all the Mice met ~ and discussed the best means (쥐들이 모여서 방법을 의논했다)",
+      "explanation": "주어 all the Mice에 동사 met과 discussed가 and로 이어져요. discussed의 목적어 the best means(가장 좋은 방법)를 뒤의 of securing ~(~을 지키는)이 꾸며 줘요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "sub": false,
+          "ko": "~이다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~라는 것"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "sub": true,
+          "ko": "우리가"
+        },
+        {
+          "text": "should fasten",
+          "role": "V",
+          "sub": true,
+          "ko": "달아야 한다"
+        },
+        {
+          "text": "a bell",
+          "role": "O",
+          "sub": true,
+          "ko": "방울을"
+        },
+        {
+          "text": "round the neck of our enemy the cat,",
+          "role": "M",
+          "sub": true,
+          "ko": "우리의 적인 고양이의 목에"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그것이"
+        },
+        {
+          "text": "will",
+          "role": "V",
+          "sub": true,
+          "ko": "~할 것이다"
+        },
+        {
+          "text": "by its tinkling",
+          "role": "M",
+          "sub": true,
+          "ko": "딸랑거리는 소리로"
+        },
+        {
+          "text": "warn",
+          "role": "V",
+          "sub": true,
+          "ko": "알려 줄"
+        },
+        {
+          "text": "us",
+          "role": "O",
+          "sub": true,
+          "ko": "우리에게"
+        },
+        {
+          "text": "of her approach.\"",
+          "role": "M",
+          "sub": true,
+          "ko": "그녀가 다가오는 것을"
+        }
+      ],
+      "skeleton": "It is that ~ (그것은 ~라는 것이다)",
+      "explanation": "that절 전체가 is 뒤의 보어(무엇인지)예요. 그 안의 which는 앞의 a bell을 가리키는 관계대명사로 '그런데 그 방울이 ~할 것이다'라고 설명을 덧붙여요. will과 warn 사이에 by its tinkling이 끼어 있어요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "This proposal",
+          "role": "S",
+          "sub": false,
+          "ko": "이 제안은"
+        },
+        {
+          "text": "was warmly applauded,",
+          "role": "V",
+          "sub": false,
+          "ko": "큰 박수를 받았다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "had been already decided",
+          "role": "V",
+          "sub": false,
+          "ko": "이미 결정되어 있었다"
+        },
+        {
+          "text": "to adopt it,",
+          "role": "S",
+          "sub": false,
+          "ko": "그것을 받아들이는 것이"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그때"
+        },
+        {
+          "text": "an old Mouse",
+          "role": "S",
+          "sub": false,
+          "ko": "늙은 쥐 한 마리가"
+        },
+        {
+          "text": "got upon his feet",
+          "role": "V",
+          "sub": false,
+          "ko": "일어섰다"
+        },
+        {
+          "text": "and said,",
+          "role": "V",
+          "sub": false,
+          "ko": "그리고 말했다"
+        },
+        {
+          "text": "\"I agree with you all that the plan before us is an admirable one: but may I ask who is going to bell the cat?\"",
+          "role": "O",
+          "sub": false,
+          "ko": "\"~라는 데 동의하지만, 누가 고양이 목에 방울을 달 건가요?\""
+        }
+      ],
+      "skeleton": "This proposal was applauded, ~ when an old Mouse got up and said (이 제안이 박수를 받았는데, 그때 늙은 쥐가 일어나 말했다)",
+      "explanation": "it had been decided to adopt it에서 앞의 it은 가주어, to adopt it(그것을 받아들이는 것)이 진짜 주어예요. ', when ~'은 '그런데 바로 그때 ~'라는 뜻으로 이야기의 반전을 이끌어요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거완료 (had + 과거분사)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "had been debated"
+      ],
+      "explanation": "had been debated는 '(그보다 먼저) 토론되었다'는 과거완료 수동태예요. 의견들이 토론된 일이 쥐가 일어나 말한 것보다 먼저 일어났다는 것을 보여 줘요.",
+      "example": {
+        "en": "After I had finished my homework, I went out.",
+        "ko": "숙제를 다 끝낸 뒤에 나는 밖에 나갔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "provided (만약 ~라면)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "provided you approve and carry it out"
+      ],
+      "explanation": "provided는 여기서 '~라면, ~라는 조건으로'라는 접속사예요. if와 비슷하지만 '~하기만 하면'이라는 조건을 더 강조해요.",
+      "example": {
+        "en": "You can go, provided you finish your work.",
+        "ko": "일을 끝내기만 하면 가도 좋다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "간접의문문 (의문사 + 동사)",
+      "tags": [
+        "명사절"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "who is going to bell the cat"
+      ],
+      "explanation": "may I ask 뒤에 who is going to ~가 목적어로 들어간 간접의문문이에요. who가 주어 역할도 하므로 'who + 동사' 순서 그대로 써요.",
+      "example": {
+        "en": "Do you know who broke the window?",
+        "ko": "누가 창문을 깼는지 아니?"
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "synonyms": [
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "(once upon a time) 옛날 옛적에; ~ 위에",
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시절",
+      "synonyms": [
+        "age",
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든; 모두",
+      "ipa": "/ɔːl/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "mice": {
+      "lemma": "mouse",
+      "pos": "noun",
+      "ko": "쥐들",
+      "form": "복수형",
+      "synonyms": [
+        "rodents"
+      ],
+      "ipa": "/maɪs/"
+    },
+    "met": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "모였다, 만났다",
+      "form": "과거형",
+      "synonyms": [
+        "gathered",
+        "assembled"
+      ],
+      "ipa": "/mɛt/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "synonyms": [
+        "jointly"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "ipa": "/ɪn/"
+    },
+    "council": {
+      "lemma": "council",
+      "pos": "noun",
+      "ko": "회의, 의회",
+      "synonyms": [
+        "meeting",
+        "assembly"
+      ],
+      "ipa": "/ˈkaʊnsəl/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "discussed": {
+      "lemma": "discuss",
+      "pos": "verb",
+      "ko": "의논했다",
+      "form": "과거형",
+      "synonyms": [
+        "debated",
+        "talked over"
+      ],
+      "ipa": "/dɪˈskʌst/"
+    },
+    "best": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "가장 좋은",
+      "form": "최상급",
+      "synonyms": [
+        "finest",
+        "top"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "means": {
+      "lemma": "means",
+      "pos": "noun",
+      "ko": "방법, 수단",
+      "synonyms": [
+        "way",
+        "method"
+      ],
+      "ipa": "/miːnz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "securing": {
+      "lemma": "secure",
+      "pos": "verb",
+      "ko": "지키다, 안전하게 하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "protecting",
+        "guarding"
+      ],
+      "ipa": "/sɪˈkjʊrɪŋ/"
+    },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pronoun",
+      "ko": "그들 자신",
+      "ipa": "/ðɛmˈsɛlvz/"
+    },
+    "against": {
+      "lemma": "against",
+      "pos": "preposition",
+      "ko": "~에 맞서, ~으로부터",
+      "ipa": "/əˈɡɛnst/"
+    },
+    "attacks": {
+      "lemma": "attack",
+      "pos": "noun",
+      "ko": "공격",
+      "form": "복수형",
+      "synonyms": [
+        "assaults",
+        "raids"
+      ],
+      "ipa": "/əˈtæks/"
+    },
+    "cat": {
+      "lemma": "cat",
+      "pos": "noun",
+      "ko": "고양이",
+      "synonyms": [
+        "feline"
+      ],
+      "ipa": "/kæt/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "conjunction",
+      "ko": "~한 뒤에",
+      "ipa": "/ˈæftər/"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "몇몇의, 여러",
+      "ipa": "/ˈsɛvrəl/"
+    },
+    "suggestions": {
+      "lemma": "suggestion",
+      "pos": "noun",
+      "ko": "제안, 의견",
+      "form": "복수형",
+      "synonyms": [
+        "proposals",
+        "ideas"
+      ],
+      "ipa": "/səˈdʒɛstʃənz/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + p.p.) 과거완료",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(had been + p.p.) 수동태 과거완료",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "debated": {
+      "lemma": "debate",
+      "pos": "verb",
+      "ko": "토론하다",
+      "form": "과거분사",
+      "synonyms": [
+        "discussed",
+        "argued"
+      ],
+      "ipa": "/dəˈbeɪtɪd/"
+    },
+    "mouse": {
+      "lemma": "mouse",
+      "pos": "noun",
+      "ko": "쥐",
+      "synonyms": [
+        "rodent"
+      ],
+      "ipa": "/maʊs/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어느 정도의, 상당한",
+      "ipa": "/sʌm/"
+    },
+    "standing": {
+      "lemma": "standing",
+      "pos": "noun",
+      "ko": "지위, 신분",
+      "synonyms": [
+        "rank",
+        "status"
+      ],
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "experience": {
+      "lemma": "experience",
+      "pos": "noun",
+      "ko": "경험",
+      "synonyms": [
+        "knowledge",
+        "practice"
+      ],
+      "ipa": "/ɪkˈspɪriəns/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(got up) 일어났다",
+      "form": "과거형",
+      "synonyms": [
+        "rose",
+        "stood"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "synonyms": [
+        "upward"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "remarked"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "ipa": "/aɪ/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "synonyms": [
+        "believe",
+        "suppose"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have + p.p.) 현재완료",
+      "ipa": "/hæv/"
+    },
+    "hit": {
+      "lemma": "hit",
+      "pos": "verb",
+      "ko": "(hit upon) 문득 생각해 내다",
+      "form": "과거분사",
+      "synonyms": [
+        "found",
+        "discovered"
+      ],
+      "ipa": "/hɪt/"
+    },
+    "plan": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "계획",
+      "synonyms": [
+        "scheme",
+        "idea"
+      ],
+      "ipa": "/plæn/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "~하는, 그런데 그것은 (관계대명사)",
+      "ipa": "/wɪtʃ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "ensure": {
+      "lemma": "ensure",
+      "pos": "verb",
+      "ko": "보장하다, 확실히 하다",
+      "synonyms": [
+        "guarantee",
+        "secure"
+      ],
+      "ipa": "/ɛnˈʃʊr/"
+    },
+    "our": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "safety": {
+      "lemma": "safety",
+      "pos": "noun",
+      "ko": "안전",
+      "synonyms": [
+        "security",
+        "protection"
+      ],
+      "ipa": "/ˈseɪfti/"
+    },
+    "future": {
+      "lemma": "future",
+      "pos": "noun",
+      "ko": "미래, 앞날",
+      "synonyms": [
+        "time to come"
+      ],
+      "ipa": "/ˈfjuːtʃər/"
+    },
+    "provided": {
+      "lemma": "provided",
+      "pos": "conjunction",
+      "ko": "~라면, ~라는 조건으로",
+      "ipa": "/prəˈvaɪdɪd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신, 너희",
+      "ipa": "/juː/"
+    },
+    "approve": {
+      "lemma": "approve",
+      "pos": "verb",
+      "ko": "찬성하다",
+      "synonyms": [
+        "agree",
+        "accept"
+      ],
+      "ipa": "/əˈpruːv/"
+    },
+    "carry": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "(carry out) 실행하다",
+      "synonyms": [
+        "perform",
+        "execute"
+      ],
+      "ipa": "/ˈkæri/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "ipa": "/ɪt/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "synonyms": [
+        "outside"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "remains"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "ipa": "/ðæt/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "ipa": "/wiː/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "ipa": "/ʃʊd/"
+    },
+    "fasten": {
+      "lemma": "fasten",
+      "pos": "verb",
+      "ko": "(단단히) 달다, 매다",
+      "synonyms": [
+        "attach",
+        "tie"
+      ],
+      "ipa": "/ˈfæsən/"
+    },
+    "bell": {
+      "lemma": "bell",
+      "pos": "noun",
+      "ko": "방울; (bell the cat) 방울을 달다",
+      "synonyms": [
+        "chime"
+      ],
+      "ipa": "/bɛl/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "preposition",
+      "ko": "~ 둘레에",
+      "ipa": "/raʊnd/"
+    },
+    "neck": {
+      "lemma": "neck",
+      "pos": "noun",
+      "ko": "목",
+      "synonyms": [
+        "throat"
+      ],
+      "ipa": "/nɛk/"
+    },
+    "enemy": {
+      "lemma": "enemy",
+      "pos": "noun",
+      "ko": "적",
+      "synonyms": [
+        "foe",
+        "opponent"
+      ],
+      "ipa": "/ˈɛnəmi/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~ 옆으로",
+      "ipa": "/baɪ/"
+    },
+    "its": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": "소유격",
+      "ipa": "/ɪts/"
+    },
+    "tinkling": {
+      "lemma": "tinkling",
+      "pos": "noun",
+      "ko": "딸랑거리는 소리",
+      "synonyms": [
+        "jingling",
+        "ringing"
+      ],
+      "ipa": "/ˈtɪŋkəlɪŋ/"
+    },
+    "warn": {
+      "lemma": "warn",
+      "pos": "verb",
+      "ko": "경고하다, 미리 알리다",
+      "synonyms": [
+        "alert",
+        "caution"
+      ],
+      "ipa": "/wɔːrn/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀를; 그녀의",
+      "form": "목적격·소유격",
+      "ipa": "/hɜːr/"
+    },
+    "approach": {
+      "lemma": "approach",
+      "pos": "noun",
+      "ko": "다가옴, 접근",
+      "synonyms": [
+        "arrival",
+        "coming"
+      ],
+      "ipa": "/əˈproʊtʃ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "ipa": "/ðɪs/"
+    },
+    "proposal": {
+      "lemma": "proposal",
+      "pos": "noun",
+      "ko": "제안",
+      "synonyms": [
+        "suggestion",
+        "plan"
+      ],
+      "ipa": "/prəˈpoʊzəl/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "warmly": {
+      "lemma": "warmly",
+      "pos": "adverb",
+      "ko": "열렬히, 따뜻하게",
+      "synonyms": [
+        "eagerly",
+        "heartily"
+      ],
+      "ipa": "/ˈwɔːrmli/"
+    },
+    "applauded": {
+      "lemma": "applaud",
+      "pos": "verb",
+      "ko": "박수를 보내다, 칭찬하다",
+      "form": "과거분사",
+      "synonyms": [
+        "cheered",
+        "praised"
+      ],
+      "ipa": "/əˈplɔːdɪd/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미, 벌써",
+      "synonyms": [
+        "by then"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "decided": {
+      "lemma": "decide",
+      "pos": "verb",
+      "ko": "결정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "determined",
+        "settled"
+      ],
+      "ipa": "/ˌdɪˈsaɪdɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~으로; (to부정사) ~하기 위해",
+      "ipa": "/tuː/"
+    },
+    "adopt": {
+      "lemma": "adopt",
+      "pos": "verb",
+      "ko": "채택하다, 받아들이다",
+      "synonyms": [
+        "accept",
+        "take up"
+      ],
+      "ipa": "/əˈdɑːpt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사, 모음 앞)",
+      "ipa": "/æn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 나이 든",
+      "synonyms": [
+        "elderly",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발 (get upon one's feet: 일어서다)",
+      "form": "복수형",
+      "synonyms": [
+        "legs"
+      ],
+      "ipa": "/fiːt/"
+    },
+    "agree": {
+      "lemma": "agree",
+      "pos": "verb",
+      "ko": "동의하다",
+      "synonyms": [
+        "concur",
+        "accept"
+      ],
+      "ipa": "/əˈɡriː/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고",
+      "ipa": "/wɪð/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 앞에 (놓인)",
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "admirable": {
+      "lemma": "admirable",
+      "pos": "adjective",
+      "ko": "훌륭한, 칭찬할 만한",
+      "synonyms": [
+        "excellent",
+        "fine",
+        "praiseworthy"
+      ],
+      "ipa": "/ˈædmərəbəl/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(앞의 명사를 대신) 것",
+      "ipa": "/wʌn/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "ipa": "/bʌt/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다; ~일지도 모른다",
+      "ipa": "/meɪ/"
+    },
+    "ask": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "synonyms": [
+        "inquire",
+        "question"
+      ],
+      "ipa": "/æsk/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사, 사람·동물)",
+      "ipa": "/huː/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~할 것이다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "planning"
+      ],
+      "ipa": "/ˈɡoʊɪŋ/"
+    }
+  }
+}
