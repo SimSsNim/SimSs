@@ -29,10 +29,11 @@ export function TrackFilterSeg({ value, onChange }: { value: TrackFilter; onChan
 export type LevelFilter = 'all' | number;
 export function LevelFilterChips({ value, onChange, counts }: { value: LevelFilter; onChange: (v: LevelFilter) => void; counts?: Record<string, number> }) {
   const st = useSettings();
+  const opts = ['all', ...[1, 2, 3, 4].filter((l) => TRACKS.some((t) => enabledLevelsOf(st, t).includes(l as Level)))] as const;
   return (
-    <div className={s.chips} role="group" aria-label="레벨 필터" style={{ paddingBottom: 2 }}>
-      {(['all', ...[1, 2, 3, 4].filter((l) => TRACKS.some((t) => enabledLevelsOf(st, t).includes(l as Level)))] as const).map((l) => (
-        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)}>{l === 'all' ? '전체' : `L${l}`}{counts ? ` ${counts[l] ?? 0}` : ''}</button>
+    <div role="group" aria-label="레벨 필터" style={{ display: 'grid', gridTemplateColumns: `repeat(${opts.length}, 1fr)`, gap: 5, margin: '2px 0 6px' }}>
+      {opts.map((l) => (
+        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)} style={{ borderRadius: 8, justifyContent: 'center', padding: '0 2px', minWidth: 0, width: '100%' }}>{l === 'all' ? '전체' : `L${l}`}{counts ? ` ${counts[l] ?? 0}` : ''}</button>
       ))}
     </div>
   );

@@ -35,9 +35,9 @@ export function LevelChips({ track, value, onChange, label = '내 레벨', all =
   const cur = value ?? mine;
   const levels = all ? LEVELS : enabledLevelsOf(st, track);
   const showNews = !onChange && !all && track === 'general' && st.newsEnabled;
-  const chip = { minHeight: 32, flexDirection: 'column', gap: 0, lineHeight: 1.05, padding: '1px 9px', fontSize: 13 } as const;
+  const chip = { minHeight: 34, flexDirection: 'column', justifyContent: 'center', gap: 0, lineHeight: 1.05, padding: '1px 2px', fontSize: 13, borderRadius: 8, width: '100%', minWidth: 0 } as const;
   return (
-    <div role="group" aria-label={label} style={{ display: 'flex', gap: 5, flexWrap: 'wrap', alignItems: 'center' }}>
+    <div role="group" aria-label={label} style={{ display: 'grid', gridTemplateColumns: `repeat(${levels.length + (showNews ? 1 : 0)}, 1fr)`, gap: 5, width: '100%' }}>
       {levels.map((l) => (
         <button key={l} type="button" className={s.chip} aria-pressed={!news && cur === l} data-testid={`level-${l}`} title={LEVEL_DESC[track][l]}
           onClick={() => (onChange ? onChange(l) : setMyLevel(track, l))} style={chip}>
