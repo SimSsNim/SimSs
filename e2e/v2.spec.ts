@@ -235,3 +235,41 @@ test('v10. 단어 상태 지우기(새 단어로)', async ({ page }) => {
   await expect(page.getByTestId('count-unknown')).toHaveText('0');
   await expect(page.getByTestId('count-new')).toHaveText('5');
 });
+
+test('v11. 즐겨찾기 탭: 문제·문법 ☆ → 전체/항목별로 보임, 해제하면 빠짐', async ({ page }) => {
+  await start(page, URL5);
+  await page.getByTestId(`choice-${P5_ANSWERS[0]}`).click();
+  await page.getByTestId('qstar-q1').click();
+  await expect(page.getByTestId('qstar-q1')).toHaveText('★ 즐겨찾기됨');
+  await page.goto('./#/grammar');
+  await page.getByTestId('grammar-star').first().click();
+  await page.getByRole('navigation', { name: '주 메뉴' }).getByRole('link', { name: '즐겨찾기' }).click();
+  await expect(page.getByTestId('fav-count-all')).toHaveText('2');
+  await expect(page.getByTestId('fav-count-question')).toHaveText('1');
+  await expect(page.getByTestId('fav-count-grammar')).toHaveText('1');
+  await expect(page.getByTestId('fav-question-item')).toHaveCount(1);
+  await expect(page.getByTestId('grammar-card')).toHaveCount(1);
+  await page.getByTestId('fav-grammar').click();
+  await expect(page.getByTestId('fav-question-item')).toHaveCount(0);
+  await expect(page.getByTestId('grammar-card')).toHaveCount(1);
+  await page.getByTestId('grammar-star').click();
+  await expect(page.getByTestId('fav-empty')).toBeVisible();
+  await page.getByTestId('fav-all').click();
+  await expect(page.getByTestId('fav-count-all')).toHaveText('1');
+});
+
+test('v12. 맨 위에서 아래로 당기면 새로고침', async ({ page }) => {
+  await start(page, './#/toeic');
+  await page.evaluate(() => ((window as unknown as { __mark: number }).__mark = 1));
+  const touch = (type: string, y: number) => page.evaluate(({ type, y }) => {
+    const t = new Touch({ identifier: 1, target: document.body, clientX: 150, clientY: y });
+    document.body.dispatchEvent(new TouchEvent(type, { touches: type === 'touchend' ? [] : [t], changedTouches: [t], cancelable: true, bubbles: true }));
+  }, { type, y });
+  await touch('touchstart', 100);
+  await touch('touchmove', 140);
+  await touch('touchmove', 320);
+  await expect(page.getByTestId('ptr')).toContainText('놓으면 새로고침');
+  await touch('touchend', 320);
+  await expect.poll(() => page.evaluate(() => (window as unknown as { __mark?: number }).__mark ?? 0)).toBe(0);
+  await expect(page.getByTestId('part-cards')).toBeVisible();
+});

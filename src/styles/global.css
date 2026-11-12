@@ -99,7 +99,7 @@
 }
 
 * { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
+html, body { margin: 0; padding: 0; overscroll-behavior-y: contain; }
 body {
   background: var(--bg);
   color: var(--text);

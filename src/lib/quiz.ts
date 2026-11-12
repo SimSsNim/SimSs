@@ -114,6 +114,15 @@ export async function unmarkUnsure(lesson: Lesson, q: Question) {
   });
 }
 
+/** 문제 즐겨찾기 켜기/끄기(오답노트와는 따로) */
+export async function toggleQuestionStar(lesson: Lesson, q: Question) {
+  const key = qKey(lessonKeyOf(lesson.track, lesson.id), q.id);
+  await db.transaction('rw', db.questionState, async () => {
+    const cur = (await db.questionState.get(key)) ?? baseState(lesson, q);
+    await db.questionState.put({ ...cur, starred: !cur.starred, starredAt: Date.now() });
+  });
+}
+
 export const isUnsure = async (lesson: Lesson, q: Question) =>
   !!(await db.questionState.get(qKey(lessonKeyOf(lesson.track, lesson.id), q.id)))?.unsure;
 

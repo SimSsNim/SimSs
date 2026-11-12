@@ -1,5 +1,6 @@
 import { lazy, Suspense, useEffect } from 'react';
 import { useBackTracker } from './lib/backTarget';
+import { PullToRefresh } from './components/PullToRefresh';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
 import { useSettings, setSetting, getSettings } from './lib/settings';
 import { isTrack } from './lib/types';
@@ -14,6 +15,7 @@ import { LessonList } from './pages/LessonList';
 const Review = lazy(() => import('./pages/Review').then((m) => ({ default: m.Review })));
 const Drill = lazy(() => import('./pages/Review').then((m) => ({ default: m.Drill })));
 const GrammarAll = lazy(() => import('./pages/GrammarAll').then((m) => ({ default: m.GrammarAll })));
+const Favorites = lazy(() => import('./pages/Favorites').then((m) => ({ default: m.Favorites })));
 const Records = lazy(() => import('./pages/Records').then((m) => ({ default: m.Records })));
 const LessonPage = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonPage })));
 const LessonRedirect = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonRedirect })));
@@ -79,6 +81,7 @@ export function App() {
   return (
     <HashRouter>
       <BackTracker />
+      <PullToRefresh />
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>
         <Route path="/" element={<Navigate to={`/${track}`} replace />} />
@@ -86,6 +89,7 @@ export function App() {
         <Route path="/words" element={<Navigate to="/review?tab=words" replace />} />
         <Route path="/drill" element={<Drill />} />
         <Route path="/grammar" element={<GrammarAll />} />
+        <Route path="/favorites" element={<Favorites />} />
         <Route path="/records" element={<Records />} />
         <Route path="/records/:section" element={<Records />} />
         <Route path="/:track" element={<TrackGuard />}>

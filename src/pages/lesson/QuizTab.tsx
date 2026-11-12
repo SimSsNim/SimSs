@@ -5,7 +5,7 @@ import s from '../../styles/ui.module.css';
 import qz from '../../styles/quiz.module.css';
 import type { TabProps } from './LessonPage';
 import { db, type QuizAttemptRow } from '../../lib/db';
-import { attemptsOf, finishAttempt, isCorrect, markUnsure, unmarkUnsure, questionsOf, recommendedSec, saveAttempt, startAttempt } from '../../lib/quiz';
+import { attemptsOf, finishAttempt, isCorrect, markUnsure, unmarkUnsure, toggleQuestionStar, questionsOf, recommendedSec, saveAttempt, startAttempt } from '../../lib/quiz';
 import { lessonKeyOf } from '../../lib/types';
 import { blankedSentence } from '../../lib/validateLesson';
 import { flatSentences } from '../../lib/lessonUtils';
@@ -350,7 +350,10 @@ function Feedback({ lesson, q, answer }: { lesson: Lesson; q: Question; answer?:
       <b style={{ color: ok ? 'var(--ok)' : 'var(--danger)' }}>{ok ? '○ 정답!' : `✕ 오답 — 정답 ${q.answer}`}</b>
       <p style={{ margin: '6px 0' }}>{q.explanationKo}</p>
       <ChoiceNotes q={q} />
-      {ok && <UnsureToggle lesson={lesson} q={q} />}
+      <div className={s.row}>
+        {ok && <UnsureToggle lesson={lesson} q={q} />}
+        <QuestionStar lesson={lesson} q={q} />
+      </div>
     </div>
   );
 }
@@ -462,6 +465,7 @@ function ResultItem({ lesson, q, answer, onEvidence }: { lesson: Lesson; q: Ques
         {vocab.map((v) => <Link key={v.id} className={s.chip} to={`/${lesson.track}/lesson/${lesson.id}/vocab`} lang="en">📘 {v.term}</Link>)}
         {grammar.map((g) => <Link key={g.id} className={s.chip} to={`/${lesson.track}/lesson/${lesson.id}/structure?s=${g.sentenceId}`}>✏️ {g.title}</Link>)}
         {ok && <UnsureToggle lesson={lesson} q={q} />}
+        <QuestionStar lesson={lesson} q={q} />
       </div>
     </li>
   );
@@ -484,6 +488,22 @@ export function UnsureToggle({ lesson, q }: { lesson: Lesson; q: Question }) {
         }
       }}>
       {on ? '✓ 헷갈림 (누르면 취소)' : '🤔 헷갈렸어요'}
+    </button>
+  );
+}
+
+/** 문제 즐겨찾기(★) */
+export function QuestionStar({ lesson, q }: { lesson: Lesson; q: Question }) {
+  const key = `${lessonKeyOf(lesson.track, lesson.id)}:${q.id}`;
+  const row = useLiveQuery(() => db.questionState.get(key), [key]);
+  const on = !!row?.starred;
+  return (
+    <button type="button" className={s.chip} aria-pressed={on} data-testid={`qstar-${q.id}`}
+      onClick={async () => {
+        await toggleQuestionStar(lesson, q);
+        toast(on ? '즐겨찾기에서 뺐어요' : '즐겨찾기에 넣었어요');
+      }}>
+      {on ? '★ 즐겨찾기됨' : '☆ 즐겨찾기'}
     </button>
   );
 }

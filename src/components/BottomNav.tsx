@@ -10,6 +10,7 @@ export function BottomNav() {
     { to: `/${track}/list`, label: '지문', icon: 'list' },
     { to: '/review', label: '복습', icon: 'words' },
     { to: '/grammar', label: '문법 모음', icon: 'grammar' },
+    { to: '/favorites', label: '즐겨찾기', icon: 'star' },
     { to: '/records', label: '기록/설정', icon: 'records' },
   ];
   return (

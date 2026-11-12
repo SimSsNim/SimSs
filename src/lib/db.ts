@@ -19,8 +19,8 @@ export interface LessonProgressRow {
   key: string; checklist: Record<ChecklistKey, boolean>; lastTab?: string; lastSentenceIndex?: number;
   completedAt?: number | null; openedAt?: number; listenCoverage?: number;
 }
-export interface SentenceMarkRow { key: string; lessonKey: string; sentenceId: string; bookmark: boolean; hard: boolean; memo: string }
-export interface GrammarStateRow { key: string; lessonKey: string; grammarId: string; understood: boolean; review: boolean }
+export interface SentenceMarkRow { key: string; lessonKey: string; sentenceId: string; bookmark: boolean; hard: boolean; memo: string; bookmarkedAt?: number }
+export interface GrammarStateRow { key: string; lessonKey: string; grammarId: string; understood: boolean; review: boolean; starred?: boolean; starredAt?: number }
 export interface AudioMarkRow { key: string; introSkipSec?: number | null; sentenceStarts: Record<string, number> }
 export interface PracticeLogRow { id?: number; lessonKey: string; track: Track; kind: string; score: number | null; durationSec: number; detail?: unknown; at: number; date: string }
 export interface DailyLogRow { date: string; seconds: number; lessonsTouched: string[]; actions: Record<string, number> }
@@ -35,6 +35,7 @@ export interface QuestionStateRow {
   key: string; lessonKey: string; qid: string; wrongCount: number; lastAnswer: ChoiceKey | null; lastCorrect: boolean;
   inWrongNote: 0 | 1; unsure: boolean; box: number; due: string | null; status: WordStatus; lastReviewed: string | null;
   graduatedAt: number | null; skill: string; type: QuestionType; chapter: Chapter; level: number; addedAt: number; updatedAt: number;
+  /** 즐겨찾기 */ starred?: boolean; starredAt?: number;
 }
 export interface DismissedTipRow { key: string; date: string }
 export interface RecordingRow { id?: number; lessonKey: string; sentenceId: string; blob: Blob; mime: string; at: number }

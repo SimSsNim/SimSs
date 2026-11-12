@@ -2,7 +2,8 @@ import { Link } from 'react-router-dom';
 import s from '../styles/ui.module.css';
 import type { GrammarPoint, Lesson } from '../lib/types';
 import type { GrammarStateRow } from '../lib/db';
-import { setGrammarState } from '../lib/marks';
+import { setGrammarState, toggleGrammarStar } from '../lib/marks';
+import { Icon } from './Icon';
 import { SpeakBtn } from './SentenceView';
 
 export function highlightMany(text: string, parts: string[]) {
@@ -34,6 +35,10 @@ export function GrammarCard({ lesson, g, state, lessonKey, onChange, showLesson 
     <li className={s.card} data-testid="grammar-card">
       <div className={s.between}>
         <b style={{ fontSize: 17 }}>{g.title}</b>
+        <button type="button" className={s.iconBtn} aria-pressed={!!state?.starred} aria-label={state?.starred ? '문법 즐겨찾기 해제' : '문법 즐겨찾기'} data-testid="grammar-star"
+          onClick={async () => { await toggleGrammarStar(lessonKey, g.id); onChange?.(); }} style={{ color: state?.starred ? 'var(--warn)' : undefined, flex: 'none' }}>
+          <Icon name="star" filled={!!state?.starred} />
+        </button>
       </div>
       <div className={s.row} style={{ margin: '4px 0 8px' }}>
         {g.tags.map((t) => <span key={t} className={s.badgeAccent}>#{t}</span>)}
