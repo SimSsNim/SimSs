@@ -30,7 +30,7 @@ export interface Vocab {
   id: string; term: string; pos: string; meaningKo: string; ipa?: string | null; synonyms?: string[];
   matchText: string; sentenceId: string; example?: Example;
 }
-export interface GlossEntry { lemma: string; pos: string; ko: string; form?: string | null }
+export interface GlossEntry { lemma: string; pos: string; ko: string; form?: string | null; ipa?: string | null; synonyms?: string[] }
 export type Glossary = Record<string, GlossEntry>;
 export interface Chunk { text: string; role: Role; sub?: boolean; ko: string }
 export interface RawStructure { id: string; sentenceId: string; chunks: Chunk[]; skeleton: string; explanation: string }

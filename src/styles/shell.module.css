@@ -16,3 +16,8 @@
 .top { display: flex; align-items: center; gap: 8px; justify-content: space-between; }
 .brand { font-weight: 800; font-size: 16px; color: var(--accent); white-space: nowrap; }
 .newDot { position: absolute; top: 6px; right: 4px; width: 8px; height: 8px; border-radius: 50%; background: var(--danger); }
+
+.drawer { position: fixed; left: 0; right: 0; bottom: calc(var(--nav-h) + var(--player-h) + env(safe-area-inset-bottom)); z-index: 38; max-width: 760px; margin: 0 auto; background: var(--surface); border: 1px solid var(--line); border-bottom: 0; border-radius: 16px 16px 0 0; box-shadow: 0 -6px 24px rgb(0 0 0 / 14%); padding: 4px 14px 12px; animation: drawerUp .18s ease-out; }
+.drawerHandle { display: flex; justify-content: center; width: 100%; border: 0; background: transparent; padding: 6px 0 8px; cursor: pointer; }
+.drawerHandle > span { width: 40px; height: 4px; border-radius: 2px; background: var(--line); display: block; }
+@keyframes drawerUp { from { transform: translateY(16px); opacity: 0; } to { transform: none; opacity: 1; } }

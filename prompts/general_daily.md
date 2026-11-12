@@ -45,7 +45,7 @@
                     "skeleton": "핵심 S+V", "explanation": "" } ],
   "grammar": [ { "id": "g1", "title": "", "tags": ["시제"], "sentenceId": "s1", "highlight": ["was sitting"],
                  "explanation": "", "example": { "en": "", "ko": "" }, "note": null } ],
-  "glossary": { "단어key": { "lemma": "", "pos": "noun", "ko": "", "form": null } }
+  "glossary": { "단어key": { "lemma": "", "pos": "noun", "ko": "", "form": null, "synonyms": ["유사 단어"], "ipa": "/.../ (스크립트로)" } }
 }
 ```
 (위 `//` 주석과 "또는 …" 설명은 실제 파일에 넣지 않는다.)
@@ -64,6 +64,8 @@
 - 단어 목록: `python3 scripts/glossary_words.py <파일>` (저장소를 못 받으면 같은 규칙으로 직접: 문장 `en`에서 정규식 `[A-Za-z0-9]+(?:[’'\-][A-Za-z0-9]+)*`로 뽑고, ’ → ', 소문자, 숫자만 된 것은 빼고, 처음 나온 순서, 중복 없이).
 - 목록의 **모든 key를 빠짐없이, 더도 덜도 없이** 넣는다: `"glossary": { "ripples": { "lemma": "ripple", "pos": "noun", "ko": "잔물결, 파문", "form": "복수형" }, "the": { "lemma": "the", "pos": "determiner", "ko": "그 (정관사)" } }`
 - `lemma` 사전형(고유명사는 원래 대소문자), `pos`: noun, verb, adjective, adverb, preposition, conjunction, pronoun, determiner, auxiliary, interjection, proper-noun, number, phrase 중 하나. `ko`: **이 지문에서 쓰인 뜻**을 짧게(1~3개, 30자 안팎). `form`: 사전형이 아닐 때만(복수형, 과거형, 과거분사, 현재분사(-ing), 3인칭 단수, 비교급, 최상급, 소유격, 줄임말 …). 고유명사는 한글 읽기 + 무엇인지.
+- `synonyms`: 내용어(noun, verb, adjective, adverb)는 **이 지문의 뜻**에 맞는 유사 단어 1~3개(영어). 기능어·고유명사·숫자는 넣지 않는다.
+- `ipa`(발음기호)는 직접 쓰지 말고 다 넣은 뒤 `pip install cmudict --break-system-packages && python3 scripts/glossary_ipa.py <파일>`로 채운다(사전에 없는 단어는 null로 남고, 고유명사 등은 그대로 둬도 된다).
 
 **검증 (통과해야 내보낸다)**
 - 가능하면 `gh repo clone SimSsNim/SimSs` 후 `pip install jsonschema --break-system-packages` 하고 `python3 scripts/validate_lessons.py public/lessons/general/<id>.json`을 실행한다.

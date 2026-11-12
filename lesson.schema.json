@@ -158,7 +158,9 @@
           "lemma": { "type": "string", "minLength": 1, "description": "사전형(고유명사는 원래 대소문자)" },
           "pos": { "enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "pronoun", "determiner", "auxiliary", "interjection", "proper-noun", "number", "phrase"] },
           "ko": { "type": "string", "minLength": 1, "description": "이 지문에서의 뜻(짧게)" },
-          "form": { "type": ["string", "null"], "description": "사전형이 아닐 때: 복수형, 과거형, 과거분사, 현재분사(-ing), 3인칭 단수, 비교급, 줄임말 …" }
+          "form": { "type": ["string", "null"], "description": "사전형이 아닐 때: 복수형, 과거형, 과거분사, 현재분사(-ing), 3인칭 단수, 비교급, 줄임말 …" },
+          "ipa": { "type": ["string", "null"], "description": "지문에 나온 형태의 미국식 발음기호. scripts/glossary_ipa.py 로 채운다(사전에 없으면 null)" },
+          "synonyms": { "type": "array", "maxItems": 3, "items": { "type": "string", "minLength": 1 }, "description": "이 뜻의 유사 단어 0~3개(내용어만)" }
         }
       }
     },

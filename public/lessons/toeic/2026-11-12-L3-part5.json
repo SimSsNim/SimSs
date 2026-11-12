@@ -380,591 +380,1053 @@
     "the": {
       "lemma": "the",
       "pos": "determiner",
-      "ko": "그 (정관사)"
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
     },
     "marketing": {
       "lemma": "marketing",
       "pos": "noun",
-      "ko": "마케팅"
+      "ko": "마케팅",
+      "ipa": "/ˈmɑːrkətɪŋ/",
+      "synonyms": [
+        "advertising",
+        "promotion",
+        "sales"
+      ]
     },
     "team": {
       "lemma": "team",
       "pos": "noun",
-      "ko": "팀"
+      "ko": "팀",
+      "ipa": "/tiːm/",
+      "synonyms": [
+        "group",
+        "crew",
+        "squad"
+      ]
     },
     "prepared": {
       "lemma": "prepare",
       "pos": "verb",
       "ko": "준비하다, 작성하다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/priˈpɛrd/",
+      "synonyms": [
+        "make ready",
+        "draft",
+        "arrange"
+      ]
     },
     "a": {
       "lemma": "a",
       "pos": "determiner",
-      "ko": "하나의 (부정관사)"
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
     },
     "remarkably": {
       "lemma": "remarkably",
       "pos": "adverb",
       "ko": "놀라울 정도로, 매우",
-      "form": "부사형"
+      "form": "부사형",
+      "ipa": "/rɪˈmɑːrkəbli/",
+      "synonyms": [
+        "strikingly",
+        "notably",
+        "unusually"
+      ]
     },
     "detailed": {
       "lemma": "detailed",
       "pos": "adjective",
-      "ko": "상세한, 자세한"
+      "ko": "상세한, 자세한",
+      "ipa": "/dɪˈteɪld/",
+      "synonyms": [
+        "thorough",
+        "specific",
+        "full"
+      ]
     },
     "proposal": {
       "lemma": "proposal",
       "pos": "noun",
-      "ko": "제안서, 제안"
+      "ko": "제안서, 제안",
+      "ipa": "/prəˈpoʊzəl/",
+      "synonyms": [
+        "plan",
+        "offer",
+        "suggestion"
+      ]
     },
     "for": {
       "lemma": "for",
       "pos": "preposition",
-      "ko": "~을 위한, ~을 받기 위해"
+      "ko": "~을 위한, ~을 받기 위해",
+      "ipa": "/fɔːr/"
     },
     "upcoming": {
       "lemma": "upcoming",
       "pos": "adjective",
-      "ko": "다가오는, 곧 있을"
+      "ko": "다가오는, 곧 있을",
+      "ipa": "/ˈʌpˌkʌmɪŋ/",
+      "synonyms": [
+        "coming",
+        "forthcoming",
+        "next"
+      ]
     },
     "product": {
       "lemma": "product",
       "pos": "noun",
-      "ko": "제품, 상품"
+      "ko": "제품, 상품",
+      "ipa": "/ˈprɑːdəkt/",
+      "synonyms": [
+        "item",
+        "goods",
+        "merchandise"
+      ]
     },
     "launch": {
       "lemma": "launch",
       "pos": "noun",
-      "ko": "출시, 개시"
+      "ko": "출시, 개시",
+      "ipa": "/lɔːntʃ/",
+      "synonyms": [
+        "release",
+        "introduction",
+        "debut"
+      ]
     },
     "having": {
       "lemma": "have",
       "pos": "auxiliary",
       "ko": "(완료 분사구문) ~하고 나서",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈhævɪŋ/"
     },
     "reviewed": {
       "lemma": "review",
       "pos": "verb",
       "ko": "검토하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/riˈvjuːd/",
+      "synonyms": [
+        "examine",
+        "check",
+        "go over"
+      ]
     },
     "budget": {
       "lemma": "budget",
       "pos": "noun",
-      "ko": "예산"
+      "ko": "예산",
+      "ipa": "/ˈbʌdʒɪt/",
+      "synonyms": [
+        "funds",
+        "allowance",
+        "spending plan"
+      ]
     },
     "figures": {
       "lemma": "figure",
       "pos": "noun",
       "ko": "수치, 숫자",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈfɪɡjərz/",
+      "synonyms": [
+        "number",
+        "amount",
+        "statistic"
+      ]
     },
     "finance": {
       "lemma": "finance",
       "pos": "noun",
-      "ko": "재무, 재정"
+      "ko": "재무, 재정",
+      "ipa": "/fəˈnæns/",
+      "synonyms": [
+        "accounting",
+        "money matters",
+        "funding"
+      ]
     },
     "director": {
       "lemma": "director",
       "pos": "noun",
-      "ko": "이사, 책임자"
+      "ko": "이사, 책임자",
+      "ipa": "/dərˈɛktər/",
+      "synonyms": [
+        "executive",
+        "manager",
+        "head"
+      ]
     },
     "approved": {
       "lemma": "approve",
       "pos": "verb",
       "ko": "승인하다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/əˈpruːvd/",
+      "synonyms": [
+        "authorize",
+        "accept",
+        "sanction"
+      ]
     },
     "purchase": {
       "lemma": "purchase",
       "pos": "noun",
-      "ko": "구매, 구입품"
+      "ko": "구매, 구입품",
+      "ipa": "/ˈpɜːrtʃəs/",
+      "synonyms": [
+        "buy",
+        "acquisition",
+        "order"
+      ]
     },
     "of": {
       "lemma": "of",
       "pos": "preposition",
-      "ko": "~의, ~에 대한"
+      "ko": "~의, ~에 대한",
+      "ipa": "/ʌv/"
     },
     "new": {
       "lemma": "new",
       "pos": "adjective",
-      "ko": "새로운"
+      "ko": "새로운",
+      "ipa": "/nuː/",
+      "synonyms": [
+        "fresh",
+        "recent",
+        "modern"
+      ]
     },
     "laptops": {
       "lemma": "laptop",
       "pos": "noun",
       "ko": "노트북 컴퓨터",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈlæpˌtɑːps/",
+      "synonyms": [
+        "notebook",
+        "computer"
+      ]
     },
     "all": {
       "lemma": "all",
       "pos": "determiner",
-      "ko": "모든"
+      "ko": "모든",
+      "ipa": "/ɔːl/"
     },
     "visitors": {
       "lemma": "visitor",
       "pos": "noun",
       "ko": "방문객",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈvɪzɪtərz/",
+      "synonyms": [
+        "guest",
+        "caller"
+      ]
     },
     "must": {
       "lemma": "must",
       "pos": "auxiliary",
-      "ko": "~해야 한다"
+      "ko": "~해야 한다",
+      "ipa": "/mʌst/"
     },
     "present": {
       "lemma": "present",
       "pos": "verb",
-      "ko": "제시하다, 보여 주다"
+      "ko": "제시하다, 보여 주다",
+      "ipa": "/ˈprɛzənt/",
+      "synonyms": [
+        "show",
+        "display",
+        "offer"
+      ]
     },
     "valid": {
       "lemma": "valid",
       "pos": "adjective",
-      "ko": "유효한"
+      "ko": "유효한",
+      "ipa": "/ˈvælɪd/",
+      "synonyms": [
+        "current",
+        "legitimate",
+        "effective"
+      ]
     },
     "identification": {
       "lemma": "identification",
       "pos": "noun",
-      "ko": "신분증, 신원 확인"
+      "ko": "신분증, 신원 확인",
+      "ipa": "/aɪˌdɛntəfəˈkeɪʃən/",
+      "synonyms": [
+        "ID",
+        "credentials",
+        "verification"
+      ]
     },
     "at": {
       "lemma": "at",
       "pos": "preposition",
-      "ko": "~에서"
+      "ko": "~에서",
+      "ipa": "/æt/"
     },
     "reception": {
       "lemma": "reception",
       "pos": "noun",
-      "ko": "접수처, 안내 (reception desk)"
+      "ko": "접수처, 안내 (reception desk)",
+      "ipa": "/rɪˈsɛpʃən/",
+      "synonyms": [
+        "front desk",
+        "check-in desk"
+      ]
     },
     "desk": {
       "lemma": "desk",
       "pos": "noun",
-      "ko": "데스크, 창구"
+      "ko": "데스크, 창구",
+      "ipa": "/dɛsk/",
+      "synonyms": [
+        "counter",
+        "station",
+        "reception"
+      ]
     },
     "upon": {
       "lemma": "upon",
       "pos": "preposition",
-      "ko": "~하자마자, ~ 시에"
+      "ko": "~하자마자, ~ 시에",
+      "ipa": "/əˈpɑːn/"
     },
     "arrival": {
       "lemma": "arrival",
       "pos": "noun",
-      "ko": "도착"
+      "ko": "도착",
+      "ipa": "/ərˈaɪvəl/",
+      "synonyms": [
+        "coming",
+        "landing",
+        "entry"
+      ]
     },
     "although": {
       "lemma": "although",
       "pos": "conjunction",
-      "ko": "비록 ~이지만"
+      "ko": "비록 ~이지만",
+      "ipa": "/ˌɔːlˈðoʊ/"
     },
     "shipment": {
       "lemma": "shipment",
       "pos": "noun",
-      "ko": "배송품, 화물"
+      "ko": "배송품, 화물",
+      "ipa": "/ˈʃɪpmənt/",
+      "synonyms": [
+        "delivery",
+        "cargo",
+        "consignment"
+      ]
     },
     "left": {
       "lemma": "leave",
       "pos": "verb",
       "ko": "떠나다, 출발하다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/lɛft/",
+      "synonyms": [
+        "depart",
+        "go",
+        "exit"
+      ]
     },
     "warehouse": {
       "lemma": "warehouse",
       "pos": "noun",
-      "ko": "창고"
+      "ko": "창고",
+      "ipa": "/ˈwɛrˌhaʊs/",
+      "synonyms": [
+        "storehouse",
+        "depot",
+        "storage"
+      ]
     },
     "on": {
       "lemma": "on",
       "pos": "preposition",
-      "ko": "(on time) 제시간에"
+      "ko": "(on time) 제시간에",
+      "ipa": "/ɑːn/"
     },
     "time": {
       "lemma": "time",
       "pos": "noun",
-      "ko": "시간 (on time: 제시간에)"
+      "ko": "시간 (on time: 제시간에)",
+      "ipa": "/taɪm/",
+      "synonyms": [
+        "moment",
+        "occasion"
+      ]
     },
     "it": {
       "lemma": "it",
       "pos": "pronoun",
-      "ko": "그것 (배송품/구매품)"
+      "ko": "그것 (배송품/구매품)",
+      "ipa": "/ɪt/"
     },
     "arrived": {
       "lemma": "arrive",
       "pos": "verb",
       "ko": "도착하다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/ərˈaɪvd/",
+      "synonyms": [
+        "come",
+        "reach",
+        "get here"
+      ]
     },
     "two": {
       "lemma": "two",
       "pos": "number",
-      "ko": "둘, 2"
+      "ko": "둘, 2",
+      "ipa": "/tuː/"
     },
     "days": {
       "lemma": "day",
       "pos": "noun",
       "ko": "날, 일",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/deɪz/",
+      "synonyms": [
+        "date",
+        "time"
+      ]
     },
     "late": {
       "lemma": "late",
       "pos": "adverb",
-      "ko": "늦게"
+      "ko": "늦게",
+      "ipa": "/leɪt/",
+      "synonyms": [
+        "behind schedule",
+        "overdue"
+      ]
     },
     "because": {
       "lemma": "because",
       "pos": "conjunction",
-      "ko": "~ 때문에 (because of: ~로 인해)"
+      "ko": "~ 때문에 (because of: ~로 인해)",
+      "ipa": "/bɪˈkɔːz/"
     },
     "heavy": {
       "lemma": "heavy",
       "pos": "adjective",
-      "ko": "(눈·비가) 많은, 심한"
+      "ko": "(눈·비가) 많은, 심한",
+      "ipa": "/ˈhɛvi/",
+      "synonyms": [
+        "intense",
+        "severe",
+        "strong"
+      ]
     },
     "snow": {
       "lemma": "snow",
       "pos": "noun",
-      "ko": "눈"
+      "ko": "눈",
+      "ipa": "/snoʊ/",
+      "synonyms": [
+        "snowfall"
+      ]
     },
     "if": {
       "lemma": "if",
       "pos": "conjunction",
-      "ko": "만약 ~였다면"
+      "ko": "만약 ~였다면",
+      "ipa": "/ɪf/"
     },
     "renovation": {
       "lemma": "renovation",
       "pos": "noun",
-      "ko": "보수, 개조 공사"
+      "ko": "보수, 개조 공사",
+      "ipa": "/ˌrɛnəˈveɪʃən/",
+      "synonyms": [
+        "remodeling",
+        "refurbishment",
+        "upgrade"
+      ]
     },
     "had": {
       "lemma": "have",
       "pos": "auxiliary",
       "ko": "(과거완료) ~했었다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/hæd/"
     },
     "been": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~되다 (수동태)",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/bɪn/"
     },
     "completed": {
       "lemma": "complete",
       "pos": "verb",
       "ko": "완료하다, 끝마치다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kəmˈpliːtəd/",
+      "synonyms": [
+        "finish",
+        "end",
+        "conclude"
+      ]
     },
     "earlier": {
       "lemma": "early",
       "pos": "adverb",
       "ko": "더 일찍",
-      "form": "비교급"
+      "form": "비교급",
+      "ipa": "/ˈɜːrliər/",
+      "synonyms": [
+        "ahead of time",
+        "beforehand",
+        "soon"
+      ]
     },
     "restaurant": {
       "lemma": "restaurant",
       "pos": "noun",
-      "ko": "식당, 레스토랑"
+      "ko": "식당, 레스토랑",
+      "ipa": "/ˈrɛstərˌɑːnt/",
+      "synonyms": [
+        "eatery",
+        "dining room",
+        "diner"
+      ]
     },
     "would": {
       "lemma": "would",
       "pos": "auxiliary",
       "ko": "~했을 것이다 (가정법)",
-      "form": "will의 과거형"
+      "form": "will의 과거형",
+      "ipa": "/wʊd/"
     },
     "have": {
       "lemma": "have",
       "pos": "auxiliary",
-      "ko": "(would have p.p.) ~했을 것이다"
+      "ko": "(would have p.p.) ~했을 것이다",
+      "ipa": "/hæv/"
     },
     "reopened": {
       "lemma": "reopen",
       "pos": "verb",
       "ko": "다시 문을 열다, 재개장하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/riˈoʊpənd/",
+      "synonyms": [
+        "open again",
+        "resume"
+      ]
     },
     "before": {
       "lemma": "before",
       "pos": "preposition",
-      "ko": "~ 전에"
+      "ko": "~ 전에",
+      "ipa": "/bɪˈfɔːr/"
     },
     "holiday": {
       "lemma": "holiday",
       "pos": "noun",
-      "ko": "휴일, 연휴"
+      "ko": "휴일, 연휴",
+      "ipa": "/ˈhɑːləˌdeɪ/",
+      "synonyms": [
+        "break",
+        "vacation",
+        "day off"
+      ]
     },
     "season": {
       "lemma": "season",
       "pos": "noun",
-      "ko": "시즌, 시기"
+      "ko": "시즌, 시기",
+      "ipa": "/ˈsiːzən/",
+      "synonyms": [
+        "period",
+        "time of year"
+      ]
     },
     "ms": {
       "lemma": "Ms.",
       "pos": "noun",
       "ko": "~씨, ~님 (여성 경칭)",
-      "form": "줄임말"
+      "form": "줄임말",
+      "ipa": "/mɪz/"
     },
     "patel": {
       "lemma": "Patel",
       "pos": "proper-noun",
-      "ko": "파텔 (사람 성)"
+      "ko": "파텔 (사람 성)",
+      "ipa": "/pəˈtɛl/"
     },
     "has": {
       "lemma": "have",
       "pos": "auxiliary",
       "ko": "(현재완료) ~했다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
     },
     "asked": {
       "lemma": "ask",
       "pos": "verb",
       "ko": "요청하다, 부탁하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/æskt/",
+      "synonyms": [
+        "request",
+        "invite",
+        "call on"
+      ]
     },
     "to": {
       "lemma": "to",
       "pos": "preposition",
-      "ko": "~하도록, ~하는 것 (to부정사 표시)"
+      "ko": "~하도록, ~하는 것 (to부정사 표시)",
+      "ipa": "/tuː/"
     },
     "oversee": {
       "lemma": "oversee",
       "pos": "verb",
-      "ko": "감독하다, 관리하다"
+      "ko": "감독하다, 관리하다",
+      "ipa": "/ˈoʊvərˌsiː/",
+      "synonyms": [
+        "supervise",
+        "manage",
+        "monitor"
+      ]
     },
     "training": {
       "lemma": "training",
       "pos": "noun",
-      "ko": "교육, 훈련"
+      "ko": "교육, 훈련",
+      "ipa": "/ˈtreɪnɪŋ/",
+      "synonyms": [
+        "education",
+        "instruction",
+        "coaching"
+      ]
     },
     "newly": {
       "lemma": "newly",
       "pos": "adverb",
       "ko": "새로, 최근에",
-      "form": "부사형"
+      "form": "부사형",
+      "ipa": "/ˈnuːli/",
+      "synonyms": [
+        "recently",
+        "freshly",
+        "just"
+      ]
     },
     "hired": {
       "lemma": "hire",
       "pos": "verb",
       "ko": "고용하다, 채용하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈhaɪərd/",
+      "synonyms": [
+        "employ",
+        "engage",
+        "recruit"
+      ]
     },
     "sales": {
       "lemma": "sales",
       "pos": "noun",
-      "ko": "영업, 판매"
+      "ko": "영업, 판매",
+      "ipa": "/seɪlz/",
+      "synonyms": [
+        "selling",
+        "business development"
+      ]
     },
     "staff": {
       "lemma": "staff",
       "pos": "noun",
-      "ko": "직원"
+      "ko": "직원",
+      "ipa": "/stæf/",
+      "synonyms": [
+        "employees",
+        "personnel",
+        "workers"
+      ]
     },
     "customers": {
       "lemma": "customer",
       "pos": "noun",
       "ko": "고객",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈkʌstəmərz/",
+      "synonyms": [
+        "client",
+        "buyer",
+        "shopper"
+      ]
     },
     "who": {
       "lemma": "who",
       "pos": "pronoun",
-      "ko": "~하는 (사람) (관계대명사)"
+      "ko": "~하는 (사람) (관계대명사)",
+      "ipa": "/huː/"
     },
     "are": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~이다, ~되다 (수동태)",
-      "form": "현재형 (복수)"
+      "form": "현재형 (복수)",
+      "ipa": "/ɑːr/"
     },
     "dissatisfied": {
       "lemma": "dissatisfied",
       "pos": "adjective",
-      "ko": "불만족한"
+      "ko": "불만족한",
+      "ipa": "/dɪˈsætəsˌfaɪd/",
+      "synonyms": [
+        "unhappy",
+        "displeased",
+        "discontented"
+      ]
     },
     "with": {
       "lemma": "with",
       "pos": "preposition",
-      "ko": "~에 (대해)"
+      "ko": "~에 (대해)",
+      "ipa": "/wɪð/"
     },
     "their": {
       "lemma": "their",
       "pos": "determiner",
       "ko": "그들의",
-      "form": "they의 소유격"
+      "form": "they의 소유격",
+      "ipa": "/ðɛr/"
     },
     "may": {
       "lemma": "may",
       "pos": "auxiliary",
-      "ko": "~해도 된다, ~할 수 있다"
+      "ko": "~해도 된다, ~할 수 있다",
+      "ipa": "/meɪ/"
     },
     "return": {
       "lemma": "return",
       "pos": "verb",
-      "ko": "반품하다, 돌려주다"
+      "ko": "반품하다, 돌려주다",
+      "ipa": "/rɪˈtɜːrn/",
+      "synonyms": [
+        "give back",
+        "send back",
+        "bring back"
+      ]
     },
     "within": {
       "lemma": "within",
       "pos": "preposition",
-      "ko": "~ 이내에"
+      "ko": "~ 이내에",
+      "ipa": "/wɪˈðɪn/"
     },
     "full": {
       "lemma": "full",
       "pos": "adjective",
-      "ko": "전액의, 완전한"
+      "ko": "전액의, 완전한",
+      "ipa": "/fʊl/",
+      "synonyms": [
+        "complete",
+        "entire",
+        "total"
+      ]
     },
     "refund": {
       "lemma": "refund",
       "pos": "noun",
-      "ko": "환불"
+      "ko": "환불",
+      "ipa": "/rɪˈfʌnd/",
+      "synonyms": [
+        "repayment",
+        "reimbursement",
+        "money back"
+      ]
     },
     "report": {
       "lemma": "report",
       "pos": "noun",
-      "ko": "보고서"
+      "ko": "보고서",
+      "ipa": "/riˈpɔːrt/",
+      "synonyms": [
+        "account",
+        "statement",
+        "document"
+      ]
     },
     "submitted": {
       "lemma": "submit",
       "pos": "verb",
       "ko": "제출하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/səbˈmɪtɪd/",
+      "synonyms": [
+        "hand in",
+        "turn in",
+        "send"
+      ]
     },
     "by": {
       "lemma": "by",
       "pos": "preposition",
-      "ko": "~에 의해"
+      "ko": "~에 의해",
+      "ipa": "/baɪ/"
     },
     "audit": {
       "lemma": "audit",
       "pos": "noun",
-      "ko": "회계 감사"
+      "ko": "회계 감사",
+      "ipa": "/ˈɔːdɪt/",
+      "synonyms": [
+        "inspection",
+        "review",
+        "examination"
+      ]
     },
     "revealed": {
       "lemma": "reveal",
       "pos": "verb",
       "ko": "밝히다, 드러내다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/rɪˈviːld/",
+      "synonyms": [
+        "show",
+        "uncover",
+        "disclose"
+      ]
     },
     "several": {
       "lemma": "several",
       "pos": "determiner",
-      "ko": "몇몇의, 여러"
+      "ko": "몇몇의, 여러",
+      "ipa": "/ˈsɛvrəl/"
     },
     "errors": {
       "lemma": "error",
       "pos": "noun",
       "ko": "오류, 실수",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈɛrərz/",
+      "synonyms": [
+        "mistake",
+        "fault",
+        "slip"
+      ]
     },
     "in": {
       "lemma": "in",
       "pos": "preposition",
-      "ko": "~에, ~ 안에"
+      "ko": "~에, ~ 안에",
+      "ipa": "/ɪn/"
     },
     "last": {
       "lemma": "last",
       "pos": "adjective",
-      "ko": "지난"
+      "ko": "지난",
+      "ipa": "/læst/",
+      "synonyms": [
+        "previous",
+        "past",
+        "preceding"
+      ]
     },
     "year's": {
       "lemma": "year",
       "pos": "noun",
       "ko": "(지난) 해의",
-      "form": "소유격"
+      "form": "소유격",
+      "ipa": "/jɪrz/"
     },
     "accounts": {
       "lemma": "account",
       "pos": "noun",
       "ko": "회계 장부, 결산",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/əˈkaʊnts/",
+      "synonyms": [
+        "books",
+        "records"
+      ]
     },
     "construction": {
       "lemma": "construction",
       "pos": "noun",
-      "ko": "건설, 공사"
+      "ko": "건설, 공사",
+      "ipa": "/kənˈstrʌkʃən/",
+      "synonyms": [
+        "building",
+        "work",
+        "renovation"
+      ]
     },
     "parking": {
       "lemma": "parking",
       "pos": "noun",
-      "ko": "주차"
+      "ko": "주차",
+      "ipa": "/ˈpɑːrkɪŋ/",
+      "synonyms": [
+        "car park",
+        "parking space"
+      ]
     },
     "garage": {
       "lemma": "garage",
       "pos": "noun",
-      "ko": "차고 (parking garage: 주차장 건물)"
+      "ko": "차고 (parking garage: 주차장 건물)",
+      "ipa": "/ɡərˈɑːʒ/",
+      "synonyms": [
+        "parking structure",
+        "carport"
+      ]
     },
     "is": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~되다 (수동태)",
-      "form": "3인칭 단수 현재"
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
     },
     "expected": {
       "lemma": "expect",
       "pos": "verb",
       "ko": "예상하다 (be expected to: ~할 예정이다)",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ɪkˈspɛktəd/",
+      "synonyms": [
+        "anticipate",
+        "require",
+        "plan"
+      ]
     },
     "continue": {
       "lemma": "continue",
       "pos": "verb",
-      "ko": "계속되다"
+      "ko": "계속되다",
+      "ipa": "/kənˈtɪnju/",
+      "synonyms": [
+        "go on",
+        "carry on",
+        "last"
+      ]
     },
     "throughout": {
       "lemma": "throughout",
       "pos": "preposition",
-      "ko": "~ 내내"
+      "ko": "~ 내내",
+      "ipa": "/θruˈaʊt/"
     },
     "summer": {
       "lemma": "summer",
       "pos": "noun",
-      "ko": "여름"
+      "ko": "여름",
+      "ipa": "/ˈsʌmər/",
+      "synonyms": [
+        "summertime"
+      ]
     },
     "please": {
       "lemma": "please",
       "pos": "adverb",
-      "ko": "부디, ~해 주세요"
+      "ko": "부디, ~해 주세요",
+      "ipa": "/pliːz/",
+      "synonyms": [
+        "kindly"
+      ]
     },
     "make": {
       "lemma": "make",
       "pos": "verb",
-      "ko": "(make sure) 확실히 하다"
+      "ko": "(make sure) 확실히 하다",
+      "ipa": "/meɪk/",
+      "synonyms": [
+        "create",
+        "produce",
+        "cause"
+      ]
     },
     "sure": {
       "lemma": "sure",
       "pos": "adjective",
-      "ko": "확실한 (make sure: 반드시 ~하다)"
+      "ko": "확실한 (make sure: 반드시 ~하다)",
+      "ipa": "/ʃʊr/",
+      "synonyms": [
+        "certain",
+        "confident"
+      ]
     },
     "that": {
       "lemma": "that",
       "pos": "conjunction",
-      "ko": "~라는 것 (명사절 접속사)"
+      "ko": "~라는 것 (명사절 접속사)",
+      "ipa": "/ðæt/"
     },
     "confidential": {
       "lemma": "confidential",
       "pos": "adjective",
-      "ko": "기밀의, 비밀의"
+      "ko": "기밀의, 비밀의",
+      "ipa": "/ˌkɑːnfəˈdɛnʃəl/",
+      "synonyms": [
+        "private",
+        "secret",
+        "classified"
+      ]
     },
     "documents": {
       "lemma": "document",
       "pos": "noun",
       "ko": "문서, 서류",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈdɑːkjəmənts/",
+      "synonyms": [
+        "paper",
+        "file",
+        "record"
+      ]
     },
     "stored": {
       "lemma": "store",
       "pos": "verb",
       "ko": "보관하다, 저장하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/stɔːrd/",
+      "synonyms": [
+        "keep",
+        "save",
+        "hold"
+      ]
     },
     "locked": {
       "lemma": "locked",
       "pos": "adjective",
-      "ko": "잠긴"
+      "ko": "잠긴",
+      "ipa": "/lɑːkt/",
+      "synonyms": [
+        "secured",
+        "shut",
+        "fastened"
+      ]
     },
     "cabinet": {
       "lemma": "cabinet",
       "pos": "noun",
-      "ko": "보관함, 캐비닛"
+      "ko": "보관함, 캐비닛",
+      "ipa": "/ˈkæbənət/",
+      "synonyms": [
+        "cupboard",
+        "case",
+        "closet"
+      ]
     }
   },
   "questions": [

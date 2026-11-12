@@ -493,721 +493,1265 @@
     "fourscore": {
       "lemma": "fourscore",
       "pos": "number",
-      "ko": "80 (4×20, 고어)"
+      "ko": "80 (4×20, 고어)",
+      "ipa": "/ˈfɔːrˌskɔːr/"
     },
     "and": {
       "lemma": "and",
       "pos": "conjunction",
-      "ko": "그리고, ~와"
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
     },
     "seven": {
       "lemma": "seven",
       "pos": "number",
-      "ko": "7, 일곱"
+      "ko": "7, 일곱",
+      "ipa": "/ˈsɛvən/"
     },
     "years": {
       "lemma": "year",
       "pos": "noun",
       "ko": "년, 해",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/jɪrz/"
     },
     "ago": {
       "lemma": "ago",
       "pos": "adverb",
-      "ko": "~ 전에"
+      "ko": "~ 전에",
+      "ipa": "/əˈɡoʊ/",
+      "synonyms": [
+        "back",
+        "before",
+        "earlier"
+      ]
     },
     "our": {
       "lemma": "we",
       "pos": "pronoun",
       "ko": "우리의",
-      "form": "소유격"
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
     },
     "fathers": {
       "lemma": "father",
       "pos": "noun",
       "ko": "선조, 조상 (건국의 아버지들)",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈfɑːðərz/",
+      "synonyms": [
+        "founder",
+        "forefather",
+        "ancestor"
+      ]
     },
     "brought": {
       "lemma": "bring",
       "pos": "verb",
       "ko": "가져오다 (bring forth: 탄생시키다)",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/brɔːt/",
+      "synonyms": [
+        "create",
+        "produce",
+        "deliver"
+      ]
     },
     "forth": {
       "lemma": "forth",
       "pos": "adverb",
-      "ko": "앞으로, 세상에 (bring forth: 낳다)"
+      "ko": "앞으로, 세상에 (bring forth: 낳다)",
+      "ipa": "/fɔːrθ/",
+      "synonyms": [
+        "out",
+        "forward"
+      ]
     },
     "upon": {
       "lemma": "upon",
       "pos": "preposition",
-      "ko": "~ 위에 (on의 격식체)"
+      "ko": "~ 위에 (on의 격식체)",
+      "ipa": "/əˈpɑːn/"
     },
     "this": {
       "lemma": "this",
       "pos": "determiner",
-      "ko": "이, 이것"
+      "ko": "이, 이것",
+      "ipa": "/ðɪs/"
     },
     "continent": {
       "lemma": "continent",
       "pos": "noun",
-      "ko": "대륙"
+      "ko": "대륙",
+      "ipa": "/ˈkɑːntənənt/",
+      "synonyms": [
+        "landmass",
+        "mainland"
+      ]
     },
     "a": {
       "lemma": "a",
       "pos": "determiner",
-      "ko": "한, 하나의 (부정관사)"
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
     },
     "new": {
       "lemma": "new",
       "pos": "adjective",
-      "ko": "새로운"
+      "ko": "새로운",
+      "ipa": "/nuː/",
+      "synonyms": [
+        "fresh",
+        "recent",
+        "modern"
+      ]
     },
     "nation": {
       "lemma": "nation",
       "pos": "noun",
-      "ko": "국가, 나라"
+      "ko": "국가, 나라",
+      "ipa": "/ˈneɪʃən/",
+      "synonyms": [
+        "country",
+        "state",
+        "land"
+      ]
     },
     "conceived": {
       "lemma": "conceive",
       "pos": "verb",
       "ko": "잉태된, 구상된",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kənˈsiːvd/",
+      "synonyms": [
+        "create",
+        "form",
+        "begin"
+      ]
     },
     "in": {
       "lemma": "in",
       "pos": "preposition",
-      "ko": "~ 속에서, ~ 안에"
+      "ko": "~ 속에서, ~ 안에",
+      "ipa": "/ɪn/"
     },
     "liberty": {
       "lemma": "liberty",
       "pos": "noun",
-      "ko": "자유"
+      "ko": "자유",
+      "ipa": "/ˈlɪbərˌtiː/",
+      "synonyms": [
+        "freedom",
+        "independence"
+      ]
     },
     "dedicated": {
       "lemma": "dedicate",
       "pos": "verb",
       "ko": "바쳐진, 헌신한",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈdɛdəkeɪtəd/",
+      "synonyms": [
+        "devote",
+        "commit",
+        "consecrate"
+      ]
     },
     "to": {
       "lemma": "to",
       "pos": "preposition",
-      "ko": "~에, ~에게 (to부정사 표시)"
+      "ko": "~에, ~에게 (to부정사 표시)",
+      "ipa": "/tuː/"
     },
     "the": {
       "lemma": "the",
       "pos": "determiner",
-      "ko": "그 (정관사)"
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
     },
     "proposition": {
       "lemma": "proposition",
       "pos": "noun",
-      "ko": "명제, 신조"
+      "ko": "명제, 신조",
+      "ipa": "/ˌprɑːpəˈzɪʃən/",
+      "synonyms": [
+        "principle",
+        "idea",
+        "belief"
+      ]
     },
     "that": {
       "lemma": "that",
       "pos": "conjunction",
-      "ko": "~라는 (것), ~하도록"
+      "ko": "~라는 (것), ~하도록",
+      "ipa": "/ðæt/"
     },
     "all": {
       "lemma": "all",
       "pos": "determiner",
-      "ko": "모든"
+      "ko": "모든",
+      "ipa": "/ɔːl/"
     },
     "men": {
       "lemma": "man",
       "pos": "noun",
       "ko": "사람들, 인간",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/mɛn/",
+      "synonyms": [
+        "people",
+        "humanity",
+        "mankind"
+      ]
     },
     "are": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~이다, ~되다 (수동태)",
-      "form": "복수 현재형"
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
     },
     "created": {
       "lemma": "create",
       "pos": "verb",
       "ko": "창조된, 태어난",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kriˈeɪtəd/",
+      "synonyms": [
+        "make",
+        "form",
+        "bring into being"
+      ]
     },
     "equal": {
       "lemma": "equal",
       "pos": "adjective",
-      "ko": "평등한, 동등한"
+      "ko": "평등한, 동등한",
+      "ipa": "/ˈiːkwəl/",
+      "synonyms": [
+        "same",
+        "equivalent",
+        "alike"
+      ]
     },
     "now": {
       "lemma": "now",
       "pos": "adverb",
-      "ko": "지금, 이제"
+      "ko": "지금, 이제",
+      "ipa": "/naʊ/",
+      "synonyms": [
+        "currently",
+        "at present",
+        "today"
+      ]
     },
     "we": {
       "lemma": "we",
       "pos": "pronoun",
-      "ko": "우리, 우리는"
+      "ko": "우리, 우리는",
+      "ipa": "/wiː/"
     },
     "engaged": {
       "lemma": "engage",
       "pos": "verb",
       "ko": "(전쟁 등에) 참여한, 치르는",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ɛnˈɡeɪdʒd/",
+      "synonyms": [
+        "involve",
+        "occupy"
+      ]
     },
     "great": {
       "lemma": "great",
       "pos": "adjective",
-      "ko": "거대한, 위대한"
+      "ko": "거대한, 위대한",
+      "ipa": "/ɡreɪt/",
+      "synonyms": [
+        "large",
+        "vast",
+        "important"
+      ]
     },
     "civil": {
       "lemma": "civil",
       "pos": "adjective",
-      "ko": "내부의, 시민의 (civil war: 내전)"
+      "ko": "내부의, 시민의 (civil war: 내전)",
+      "ipa": "/ˈsɪvəl/",
+      "synonyms": [
+        "internal",
+        "domestic",
+        "civic"
+      ]
     },
     "war": {
       "lemma": "war",
       "pos": "noun",
-      "ko": "전쟁"
+      "ko": "전쟁",
+      "ipa": "/wɔːr/",
+      "synonyms": [
+        "conflict",
+        "battle",
+        "fighting"
+      ]
     },
     "testing": {
       "lemma": "test",
       "pos": "verb",
       "ko": "시험하다",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈtɛstɪŋ/",
+      "synonyms": [
+        "try out",
+        "check",
+        "trial"
+      ]
     },
     "whether": {
       "lemma": "whether",
       "pos": "conjunction",
-      "ko": "~인지 아닌지"
+      "ko": "~인지 아닌지",
+      "ipa": "/ˈwɛðər/"
     },
     "or": {
       "lemma": "or",
       "pos": "conjunction",
-      "ko": "또는, 혹은"
+      "ko": "또는, 혹은",
+      "ipa": "/ɔːr/"
     },
     "any": {
       "lemma": "any",
       "pos": "determiner",
-      "ko": "어떤 ~이든"
+      "ko": "어떤 ~이든",
+      "ipa": "/ˈɛni/"
     },
     "so": {
       "lemma": "so",
       "pos": "adverb",
-      "ko": "그렇게, 그와 같이, 매우"
+      "ko": "그렇게, 그와 같이, 매우",
+      "ipa": "/soʊ/"
     },
     "can": {
       "lemma": "can",
       "pos": "auxiliary",
-      "ko": "~할 수 있다"
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
     },
     "long": {
       "lemma": "long",
       "pos": "adverb",
-      "ko": "오래"
+      "ko": "오래",
+      "ipa": "/lɔːŋ/",
+      "synonyms": [
+        "a long time",
+        "at length"
+      ]
     },
     "endure": {
       "lemma": "endure",
       "pos": "verb",
-      "ko": "존속하다, 견디다"
+      "ko": "존속하다, 견디다",
+      "ipa": "/ɛndˈjʊr/",
+      "synonyms": [
+        "last",
+        "survive",
+        "persist"
+      ]
     },
     "met": {
       "lemma": "meet",
       "pos": "verb",
       "ko": "모이다, 만나다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/mɛt/",
+      "synonyms": [
+        "gather",
+        "assemble",
+        "convene"
+      ]
     },
     "on": {
       "lemma": "on",
       "pos": "preposition",
-      "ko": "~에서, ~ 위에"
+      "ko": "~에서, ~ 위에",
+      "ipa": "/ɑːn/"
     },
     "battle-field": {
       "lemma": "battlefield",
       "pos": "noun",
-      "ko": "전쟁터, 싸움터"
+      "ko": "전쟁터, 싸움터",
+      "ipa": "/ˈbætəl-fiːld/",
+      "synonyms": [
+        "battleground",
+        "field of battle"
+      ]
     },
     "of": {
       "lemma": "of",
       "pos": "preposition",
-      "ko": "~의"
+      "ko": "~의",
+      "ipa": "/ʌv/"
     },
     "have": {
       "lemma": "have",
       "pos": "auxiliary",
-      "ko": "~했다 (현재완료)"
+      "ko": "~했다 (현재완료)",
+      "ipa": "/hæv/"
     },
     "come": {
       "lemma": "come",
       "pos": "verb",
       "ko": "오다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kʌm/",
+      "synonyms": [
+        "arrive",
+        "approach",
+        "appear"
+      ]
     },
     "dedicate": {
       "lemma": "dedicate",
       "pos": "verb",
-      "ko": "바치다, 봉헌하다"
+      "ko": "바치다, 봉헌하다",
+      "ipa": "/ˈdɛdəˌkeɪt/",
+      "synonyms": [
+        "devote",
+        "commit",
+        "consecrate"
+      ]
     },
     "portion": {
       "lemma": "portion",
       "pos": "noun",
-      "ko": "일부, 부분"
+      "ko": "일부, 부분",
+      "ipa": "/ˈpɔːrʃən/",
+      "synonyms": [
+        "part",
+        "section",
+        "share"
+      ]
     },
     "field": {
       "lemma": "field",
       "pos": "noun",
-      "ko": "들판, (전)장"
+      "ko": "들판, (전)장",
+      "ipa": "/fiːld/",
+      "synonyms": [
+        "battlefield",
+        "ground",
+        "land"
+      ]
     },
     "as": {
       "lemma": "as",
       "pos": "preposition",
-      "ko": "~로서"
+      "ko": "~로서",
+      "ipa": "/æz/"
     },
     "final": {
       "lemma": "final",
       "pos": "adjective",
-      "ko": "마지막의, 최후의"
+      "ko": "마지막의, 최후의",
+      "ipa": "/ˈfaɪnəl/",
+      "synonyms": [
+        "last",
+        "closing",
+        "ultimate"
+      ]
     },
     "resting-place": {
       "lemma": "resting-place",
       "pos": "noun",
-      "ko": "안식처, 묘지"
+      "ko": "안식처, 묘지",
+      "ipa": "/ˈrɛstɪŋ-pleɪs/",
+      "synonyms": [
+        "grave",
+        "burial place",
+        "tomb"
+      ]
     },
     "for": {
       "lemma": "for",
       "pos": "preposition",
-      "ko": "~을 위한, ~을 위해"
+      "ko": "~을 위한, ~을 위해",
+      "ipa": "/fɔːr/"
     },
     "those": {
       "lemma": "that",
       "pos": "pronoun",
       "ko": "~하는 사람들 (those who)",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ðoʊz/"
     },
     "who": {
       "lemma": "who",
       "pos": "pronoun",
-      "ko": "~하는 (사람) (관계대명사)"
+      "ko": "~하는 (사람) (관계대명사)",
+      "ipa": "/huː/"
     },
     "here": {
       "lemma": "here",
       "pos": "adverb",
-      "ko": "여기에서, 여기"
+      "ko": "여기에서, 여기",
+      "ipa": "/hiːr/",
+      "synonyms": [
+        "in this place",
+        "at this point"
+      ]
     },
     "gave": {
       "lemma": "give",
       "pos": "verb",
       "ko": "바쳤다, 주었다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/ɡeɪv/",
+      "synonyms": [
+        "offered",
+        "sacrificed",
+        "devoted"
+      ]
     },
     "their": {
       "lemma": "they",
       "pos": "pronoun",
       "ko": "그들의",
-      "form": "소유격"
+      "form": "소유격",
+      "ipa": "/ðɛr/"
     },
     "lives": {
       "lemma": "life",
       "pos": "noun",
       "ko": "목숨, 생명",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/lɪvz/",
+      "synonyms": [
+        "existence",
+        "being",
+        "soul"
+      ]
     },
     "might": {
       "lemma": "may",
       "pos": "auxiliary",
       "ko": "~할 수 있도록 (that ~ might)",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/maɪt/"
     },
     "live": {
       "lemma": "live",
       "pos": "verb",
-      "ko": "살다, 존속하다"
+      "ko": "살다, 존속하다",
+      "ipa": "/laɪv/",
+      "synonyms": [
+        "survive",
+        "endure",
+        "last"
+      ]
     },
     "it": {
       "lemma": "it",
       "pos": "pronoun",
-      "ko": "그것 (가주어), 그곳"
+      "ko": "그것 (가주어), 그곳",
+      "ipa": "/ɪt/"
     },
     "is": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~이다",
-      "form": "3인칭 단수 현재"
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
     },
     "altogether": {
       "lemma": "altogether",
       "pos": "adverb",
-      "ko": "전적으로, 완전히"
+      "ko": "전적으로, 완전히",
+      "ipa": "/ˌɔːltəˈɡɛðər/",
+      "synonyms": [
+        "completely",
+        "entirely",
+        "wholly"
+      ]
     },
     "fitting": {
       "lemma": "fitting",
       "pos": "adjective",
-      "ko": "적합한, 어울리는"
+      "ko": "적합한, 어울리는",
+      "ipa": "/ˈfɪtɪŋ/",
+      "synonyms": [
+        "appropriate",
+        "suitable",
+        "proper"
+      ]
     },
     "proper": {
       "lemma": "proper",
       "pos": "adjective",
-      "ko": "마땅한, 적절한"
+      "ko": "마땅한, 적절한",
+      "ipa": "/ˈprɑːpər/",
+      "synonyms": [
+        "fitting",
+        "appropriate",
+        "suitable"
+      ]
     },
     "should": {
       "lemma": "shall",
       "pos": "auxiliary",
-      "ko": "~해야 한다, ~하는 것"
+      "ko": "~해야 한다, ~하는 것",
+      "ipa": "/ʃʊd/"
     },
     "do": {
       "lemma": "do",
       "pos": "verb",
-      "ko": "하다"
+      "ko": "하다",
+      "ipa": "/duː/"
     },
     "but": {
       "lemma": "but",
       "pos": "conjunction",
-      "ko": "그러나, 하지만"
+      "ko": "그러나, 하지만",
+      "ipa": "/bʌt/"
     },
     "larger": {
       "lemma": "large",
       "pos": "adjective",
       "ko": "더 큰, 더 넓은",
-      "form": "비교급"
+      "form": "비교급",
+      "ipa": "/ˈlɑːrdʒər/",
+      "synonyms": [
+        "big",
+        "wide",
+        "sizable"
+      ]
     },
     "sense": {
       "lemma": "sense",
       "pos": "noun",
-      "ko": "의미, 뜻"
+      "ko": "의미, 뜻",
+      "ipa": "/sɛns/",
+      "synonyms": [
+        "meaning",
+        "significance"
+      ]
     },
     "cannot": {
       "lemma": "can",
       "pos": "auxiliary",
       "ko": "~할 수 없다",
-      "form": "can not의 붙임꼴(부정형)"
+      "form": "can not의 붙임꼴(부정형)",
+      "ipa": "/ˈkænɑt/"
     },
     "consecrate": {
       "lemma": "consecrate",
       "pos": "verb",
-      "ko": "신성하게 하다, 봉헌하다"
+      "ko": "신성하게 하다, 봉헌하다",
+      "ipa": "/ˈkɑːnsəˌkreɪt/",
+      "synonyms": [
+        "dedicate",
+        "sanctify",
+        "bless"
+      ]
     },
     "hallow": {
       "lemma": "hallow",
       "pos": "verb",
-      "ko": "신성하게 하다, 거룩하게 하다"
+      "ko": "신성하게 하다, 거룩하게 하다",
+      "ipa": "/ˈhæloʊ/",
+      "synonyms": [
+        "sanctify",
+        "consecrate",
+        "bless"
+      ]
     },
     "ground": {
       "lemma": "ground",
       "pos": "noun",
-      "ko": "땅, 장소"
+      "ko": "땅, 장소",
+      "ipa": "/ɡraʊnd/",
+      "synonyms": [
+        "land",
+        "soil",
+        "site"
+      ]
     },
     "brave": {
       "lemma": "brave",
       "pos": "adjective",
-      "ko": "용감한"
+      "ko": "용감한",
+      "ipa": "/breɪv/",
+      "synonyms": [
+        "courageous",
+        "bold",
+        "heroic"
+      ]
     },
     "living": {
       "lemma": "living",
       "pos": "adjective",
-      "ko": "살아 있는 (the living: 살아 있는 사람들)"
+      "ko": "살아 있는 (the living: 살아 있는 사람들)",
+      "ipa": "/ˈlɪvɪŋ/",
+      "synonyms": [
+        "alive",
+        "surviving"
+      ]
     },
     "dead": {
       "lemma": "dead",
       "pos": "adjective",
-      "ko": "죽은 (the dead: 죽은 사람들)"
+      "ko": "죽은 (the dead: 죽은 사람들)",
+      "ipa": "/dɛd/",
+      "synonyms": [
+        "deceased",
+        "fallen",
+        "departed"
+      ]
     },
     "struggled": {
       "lemma": "struggle",
       "pos": "verb",
       "ko": "싸우다, 분투하다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/ˈstrʌɡəld/",
+      "synonyms": [
+        "fight",
+        "strive",
+        "battle"
+      ]
     },
     "consecrated": {
       "lemma": "consecrate",
       "pos": "verb",
       "ko": "신성하게 했다, 봉헌했다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈkɑːnsəˌkreɪtɪd/",
+      "synonyms": [
+        "dedicate",
+        "sanctify",
+        "bless"
+      ]
     },
     "far": {
       "lemma": "far",
       "pos": "adverb",
-      "ko": "훨씬, 멀리 (thus far: 지금까지)"
+      "ko": "훨씬, 멀리 (thus far: 지금까지)",
+      "ipa": "/fɑːr/",
+      "synonyms": [
+        "much",
+        "greatly"
+      ]
     },
     "above": {
       "lemma": "above",
       "pos": "preposition",
-      "ko": "~을 넘어서, ~보다 위에"
+      "ko": "~을 넘어서, ~보다 위에",
+      "ipa": "/əˈbʌv/"
     },
     "power": {
       "lemma": "power",
       "pos": "noun",
-      "ko": "힘, 능력"
+      "ko": "힘, 능력",
+      "ipa": "/ˈpaʊər/",
+      "synonyms": [
+        "strength",
+        "force",
+        "might"
+      ]
     },
     "add": {
       "lemma": "add",
       "pos": "verb",
-      "ko": "보태다, 더하다"
+      "ko": "보태다, 더하다",
+      "ipa": "/æd/",
+      "synonyms": [
+        "put in",
+        "include",
+        "append"
+      ]
     },
     "detract": {
       "lemma": "detract",
       "pos": "verb",
-      "ko": "깎아내리다, 덜다"
+      "ko": "깎아내리다, 덜다",
+      "ipa": "/dɪˈtrækt/",
+      "synonyms": [
+        "take away",
+        "reduce",
+        "lessen"
+      ]
     },
     "world": {
       "lemma": "world",
       "pos": "noun",
-      "ko": "세상, 세계"
+      "ko": "세상, 세계",
+      "ipa": "/wɜːrld/",
+      "synonyms": [
+        "planet",
+        "earth",
+        "globe"
+      ]
     },
     "will": {
       "lemma": "will",
       "pos": "auxiliary",
-      "ko": "~할 것이다"
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
     },
     "little": {
       "lemma": "little",
       "pos": "adverb",
-      "ko": "거의 ~ 않다"
+      "ko": "거의 ~ 않다",
+      "ipa": "/ˈlɪtəl/",
+      "synonyms": [
+        "hardly",
+        "barely",
+        "scarcely"
+      ]
     },
     "note": {
       "lemma": "note",
       "pos": "verb",
-      "ko": "주목하다, 알아차리다"
+      "ko": "주목하다, 알아차리다",
+      "ipa": "/noʊt/",
+      "synonyms": [
+        "notice",
+        "observe",
+        "mention"
+      ]
     },
     "nor": {
       "lemma": "nor",
       "pos": "conjunction",
-      "ko": "~도 또한 않다"
+      "ko": "~도 또한 않다",
+      "ipa": "/nɔːr/"
     },
     "remember": {
       "lemma": "remember",
       "pos": "verb",
-      "ko": "기억하다"
+      "ko": "기억하다",
+      "ipa": "/rɪˈmɛmbər/",
+      "synonyms": [
+        "recall",
+        "keep in mind"
+      ]
     },
     "what": {
       "lemma": "what",
       "pos": "pronoun",
-      "ko": "~하는 것"
+      "ko": "~하는 것",
+      "ipa": "/wʌt/"
     },
     "say": {
       "lemma": "say",
       "pos": "verb",
-      "ko": "말하다"
+      "ko": "말하다",
+      "ipa": "/seɪ/",
+      "synonyms": [
+        "state",
+        "remark",
+        "tell"
+      ]
     },
     "never": {
       "lemma": "never",
       "pos": "adverb",
-      "ko": "결코 ~ 않다"
+      "ko": "결코 ~ 않다",
+      "ipa": "/ˈnɛvər/",
+      "synonyms": [
+        "not ever",
+        "at no time"
+      ]
     },
     "forget": {
       "lemma": "forget",
       "pos": "verb",
-      "ko": "잊다"
+      "ko": "잊다",
+      "ipa": "/fərˈɡɛt/",
+      "synonyms": [
+        "overlook",
+        "neglect"
+      ]
     },
     "they": {
       "lemma": "they",
       "pos": "pronoun",
-      "ko": "그들, 그들은"
+      "ko": "그들, 그들은",
+      "ipa": "/ðeɪ/"
     },
     "did": {
       "lemma": "do",
       "pos": "verb",
       "ko": "했다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/dɪd/"
     },
     "us": {
       "lemma": "we",
       "pos": "pronoun",
       "ko": "우리, 우리에게",
-      "form": "목적격"
+      "form": "목적격",
+      "ipa": "/ʌs/"
     },
     "rather": {
       "lemma": "rather",
       "pos": "adverb",
-      "ko": "오히려, 차라리"
+      "ko": "오히려, 차라리",
+      "ipa": "/ˈræðər/",
+      "synonyms": [
+        "instead",
+        "sooner",
+        "preferably"
+      ]
     },
     "be": {
       "lemma": "be",
       "pos": "verb",
-      "ko": "~이다, ~되다"
+      "ko": "~이다, ~되다",
+      "ipa": "/biː/"
     },
     "unfinished": {
       "lemma": "unfinished",
       "pos": "adjective",
-      "ko": "끝나지 않은, 미완의"
+      "ko": "끝나지 않은, 미완의",
+      "ipa": "/ənˈfɪnɪʃt/",
+      "synonyms": [
+        "incomplete",
+        "uncompleted"
+      ]
     },
     "work": {
       "lemma": "work",
       "pos": "noun",
-      "ko": "일, 과업"
+      "ko": "일, 과업",
+      "ipa": "/wɜːrk/",
+      "synonyms": [
+        "job",
+        "task",
+        "labor"
+      ]
     },
     "which": {
       "lemma": "which",
       "pos": "pronoun",
-      "ko": "~하는 (것) (관계대명사)"
+      "ko": "~하는 (것) (관계대명사)",
+      "ipa": "/wɪtʃ/"
     },
     "fought": {
       "lemma": "fight",
       "pos": "verb",
       "ko": "싸웠다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/fɔːt/",
+      "synonyms": [
+        "battle",
+        "struggle",
+        "combat"
+      ]
     },
     "thus": {
       "lemma": "thus",
       "pos": "adverb",
-      "ko": "이렇게, 이처럼 (thus far: 지금까지)"
+      "ko": "이렇게, 이처럼 (thus far: 지금까지)",
+      "ipa": "/ðʌs/",
+      "synonyms": [
+        "so",
+        "in this way"
+      ]
     },
     "nobly": {
       "lemma": "nobly",
       "pos": "adverb",
       "ko": "고귀하게, 훌륭하게",
-      "form": "부사형"
+      "form": "부사형",
+      "ipa": "/ˈnɑːbli/",
+      "synonyms": [
+        "honorably",
+        "gallantly",
+        "admirably"
+      ]
     },
     "advanced": {
       "lemma": "advance",
       "pos": "verb",
       "ko": "진척시키다, 나아가게 하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ədˈvænst/",
+      "synonyms": [
+        "further",
+        "promote",
+        "push forward"
+      ]
     },
     "task": {
       "lemma": "task",
       "pos": "noun",
-      "ko": "과업, 임무"
+      "ko": "과업, 임무",
+      "ipa": "/tæsk/",
+      "synonyms": [
+        "job",
+        "duty",
+        "assignment"
+      ]
     },
     "remaining": {
       "lemma": "remain",
       "pos": "verb",
       "ko": "남아 있는",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/rɪˈmeɪnɪŋ/",
+      "synonyms": [
+        "stay",
+        "continue",
+        "keep"
+      ]
     },
     "before": {
       "lemma": "before",
       "pos": "preposition",
-      "ko": "~ 앞에"
+      "ko": "~ 앞에",
+      "ipa": "/bɪˈfɔːr/"
     },
     "from": {
       "lemma": "from",
       "pos": "preposition",
-      "ko": "~로부터, ~에게서"
+      "ko": "~로부터, ~에게서",
+      "ipa": "/frʌm/"
     },
     "these": {
       "lemma": "this",
       "pos": "determiner",
       "ko": "이, 이러한",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ðiːz/"
     },
     "honoured": {
       "lemma": "honour",
       "pos": "adjective",
       "ko": "명예로운, 존경받는",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈɑːnərd/",
+      "synonyms": [
+        "honored",
+        "respected",
+        "noble"
+      ]
     },
     "take": {
       "lemma": "take",
       "pos": "verb",
-      "ko": "얻다, 받아들이다"
+      "ko": "얻다, 받아들이다",
+      "ipa": "/teɪk/",
+      "synonyms": [
+        "get",
+        "accept",
+        "take on"
+      ]
     },
     "increased": {
       "lemma": "increase",
       "pos": "adjective",
       "ko": "더 커진, 늘어난",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˌɪnˈkriːst/",
+      "synonyms": [
+        "bigger",
+        "larger",
+        "higher"
+      ]
     },
     "devotion": {
       "lemma": "devotion",
       "pos": "noun",
-      "ko": "헌신, 충성"
+      "ko": "헌신, 충성",
+      "ipa": "/dɪˈvoʊʃən/",
+      "synonyms": [
+        "dedication",
+        "loyalty",
+        "commitment"
+      ]
     },
     "cause": {
       "lemma": "cause",
       "pos": "noun",
-      "ko": "대의, 목적"
+      "ko": "대의, 목적",
+      "ipa": "/kɑːz/",
+      "synonyms": [
+        "purpose",
+        "mission",
+        "goal"
+      ]
     },
     "last": {
       "lemma": "last",
       "pos": "adjective",
-      "ko": "마지막의"
+      "ko": "마지막의",
+      "ipa": "/læst/",
+      "synonyms": [
+        "final",
+        "closing"
+      ]
     },
     "full": {
       "lemma": "full",
       "pos": "adjective",
-      "ko": "온전한, 가득한"
+      "ko": "온전한, 가득한",
+      "ipa": "/fʊl/",
+      "synonyms": [
+        "complete",
+        "entire",
+        "total"
+      ]
     },
     "measure": {
       "lemma": "measure",
       "pos": "noun",
-      "ko": "분량, 정도"
+      "ko": "분량, 정도",
+      "ipa": "/ˈmɛʒər/",
+      "synonyms": [
+        "amount",
+        "degree",
+        "quantity"
+      ]
     },
     "highly": {
       "lemma": "highly",
       "pos": "adverb",
       "ko": "굳게, 크게, 높이",
-      "form": "부사형"
+      "form": "부사형",
+      "ipa": "/ˈhaɪli/",
+      "synonyms": [
+        "greatly",
+        "strongly",
+        "very"
+      ]
     },
     "resolve": {
       "lemma": "resolve",
       "pos": "verb",
-      "ko": "결의하다, 다짐하다"
+      "ko": "결의하다, 다짐하다",
+      "ipa": "/riˈzɑːlv/",
+      "synonyms": [
+        "decide",
+        "determine",
+        "vow"
+      ]
     },
     "shall": {
       "lemma": "shall",
       "pos": "auxiliary",
-      "ko": "~하게 하리라, ~할 것이다"
+      "ko": "~하게 하리라, ~할 것이다",
+      "ipa": "/ʃæl/"
     },
     "not": {
       "lemma": "not",
       "pos": "adverb",
-      "ko": "~ 않다, ~ 아니다"
+      "ko": "~ 않다, ~ 아니다",
+      "ipa": "/nɑːt/"
     },
     "died": {
       "lemma": "die",
       "pos": "verb",
       "ko": "죽다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/daɪd/",
+      "synonyms": [
+        "perish",
+        "pass away",
+        "fall"
+      ]
     },
     "vain": {
       "lemma": "vain",
       "pos": "adjective",
-      "ko": "헛된 (in vain: 헛되이)"
+      "ko": "헛된 (in vain: 헛되이)",
+      "ipa": "/veɪn/",
+      "synonyms": [
+        "futile",
+        "useless"
+      ]
     },
     "under": {
       "lemma": "under",
       "pos": "preposition",
-      "ko": "~ 아래에서, ~의 보호 아래"
+      "ko": "~ 아래에서, ~의 보호 아래",
+      "ipa": "/ˈʌndər/"
     },
     "god": {
       "lemma": "God",
       "pos": "proper-noun",
-      "ko": "하느님, 신"
+      "ko": "하느님, 신",
+      "ipa": "/ɡɑːd/"
     },
     "birth": {
       "lemma": "birth",
       "pos": "noun",
-      "ko": "탄생 (new birth: 새로운 탄생)"
+      "ko": "탄생 (new birth: 새로운 탄생)",
+      "ipa": "/bɜːrθ/",
+      "synonyms": [
+        "beginning",
+        "origin",
+        "start"
+      ]
     },
     "freedom": {
       "lemma": "freedom",
       "pos": "noun",
-      "ko": "자유"
+      "ko": "자유",
+      "ipa": "/ˈfriːdəm/",
+      "synonyms": [
+        "liberty",
+        "independence"
+      ]
     },
     "government": {
       "lemma": "government",
       "pos": "noun",
-      "ko": "정부, 통치"
+      "ko": "정부, 통치",
+      "ipa": "/ˈɡʌvərmənt/",
+      "synonyms": [
+        "administration",
+        "state",
+        "rule"
+      ]
     },
     "people": {
       "lemma": "people",
       "pos": "noun",
-      "ko": "국민, 사람들"
+      "ko": "국민, 사람들",
+      "ipa": "/ˈpiːpəl/",
+      "synonyms": [
+        "citizens",
+        "public",
+        "nation"
+      ]
     },
     "by": {
       "lemma": "by",
       "pos": "preposition",
-      "ko": "~에 의한, ~에 의해"
+      "ko": "~에 의한, ~에 의해",
+      "ipa": "/baɪ/"
     },
     "perish": {
       "lemma": "perish",
       "pos": "verb",
-      "ko": "사라지다, 멸망하다"
+      "ko": "사라지다, 멸망하다",
+      "ipa": "/ˈpɛrɪʃ/",
+      "synonyms": [
+        "vanish",
+        "die",
+        "disappear"
+      ]
     },
     "earth": {
       "lemma": "earth",
       "pos": "noun",
-      "ko": "지구, 지상"
+      "ko": "지구, 지상",
+      "ipa": "/ɜːrθ/",
+      "synonyms": [
+        "world",
+        "globe",
+        "planet"
+      ]
     }
   }
 }

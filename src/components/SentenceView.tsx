@@ -92,7 +92,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
         <div>
           <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>{' '}
           {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && `[${vocab.ipa}]`}</span>}
-          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
+          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}{gloss.ipa ? ` [${gloss.ipa}]` : ''}</span>}
         </div>
         <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
       </div>
@@ -121,6 +121,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
       ) : gloss && !adding ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
           <div style={{ fontWeight: 700 }}>{gloss.ko}</div>
+          {gloss.synonyms?.length ? <div className={s.small} data-testid="gloss-synonyms">유사 단어: <span lang="en">{gloss.synonyms.join(', ')}</span></div> : null}
           {(gloss.form || gloss.lemma.toLowerCase() !== word.toLowerCase()) && (
             <div className={s.small + ' ' + s.muted}>
               기본형 <b style={{ fontFamily: 'var(--serif)' }}>{gloss.lemma}</b>{gloss.form ? ` · ${gloss.form}` : ''}

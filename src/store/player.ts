@@ -22,6 +22,8 @@ export interface PlayerState {
   duration: number;
   rate: number;
   loop: boolean;
+  /** 반복: 끔 / 전체 / 지금 문장 */
+  repeat: 'off' | 'all' | 'one';
   a: number | null;
   b: number | null;
   error: string | null;
@@ -36,7 +38,7 @@ export interface PlayerState {
 
 const initial: PlayerState = {
   lessonKey: null, title: '', artist: '', mode: 'none', src: null, srcUrl: null, srcKind: null,
-  playing: false, currentTime: 0, duration: 0, rate: 1, loop: false, a: null, b: null, error: null,
+  playing: false, currentTime: 0, duration: 0, rate: 1, loop: false, repeat: 'off', a: null, b: null, error: null,
   segments: [], introSkipSec: null, currentSentenceId: null, coverage: 0, sentences: [], ttsIndex: 0, ttsAccent: null,
 };
 
@@ -64,6 +66,8 @@ let ttsSpoken = new Set<string>();
 let listenChecked = false;
 let segmentStop: { end: number; resolve: () => void } | null = null;
 let blobUrl: string | null = null;
+/** 한 문장 반복 중인 원음 구간 */
+let repeatSeg: Segment | null = null;
 
 function el(): HTMLAudioElement {
   if (audio) return audio;
@@ -80,6 +84,11 @@ function el(): HTMLAudioElement {
   a.addEventListener('play', () => set({ playing: true }));
   a.addEventListener('pause', () => set({ playing: false }));
   a.addEventListener('ended', () => {
+    if (state.repeat === 'one' && repeatSeg && !segmentStop) {
+      a.currentTime = repeatSeg.start;
+      void a.play().catch(() => undefined);
+      return;
+    }
     set({ playing: false });
     if (segmentStop) {
       segmentStop.resolve();
@@ -99,6 +108,8 @@ function onTime() {
   const coverage = dur > 0 ? Math.min(1, played.size / Math.max(1, Math.ceil(dur))) : 0;
   // A-B 반복
   if (state.a !== null && state.b !== null && t >= state.b) a.currentTime = state.a;
+  // 한 문장 반복
+  if (state.repeat === 'one' && repeatSeg && repeatSeg.end !== null && !segmentStop && t >= repeatSeg.end) a.currentTime = repeatSeg.start;
   // 문장 하나만 재생
   if (segmentStop && t >= segmentStop.end) {
     a.pause();
@@ -237,8 +248,44 @@ export function setRate(r: number) {
   if (audio) audio.playbackRate = rate;
 }
 export function setLoop(loop: boolean) {
-  set({ loop });
-  if (audio) audio.loop = loop;
+  setRepeat(loop ? 'all' : 'off');
+}
+
+/** 지금 위치의 원음 문장 구간 */
+function currentSegIndex(): number {
+  const segs = state.segments;
+  const t = audio?.currentTime ?? state.currentTime;
+  let idx = -1;
+  for (let i = 0; i < segs.length; i++) if (segs[i].start <= t + 0.05) idx = i;
+  return idx;
+}
+
+/** 반복 방식: 끔 / 전체 / 한 문장(원음은 문장 구간이 있을 때만) */
+export function setRepeat(repeat: 'off' | 'all' | 'one') {
+  if (repeat === 'one' && state.mode === 'audio') {
+    const i = currentSegIndex();
+    repeatSeg = state.segments[Math.max(0, i)] ?? null;
+    if (!repeatSeg) repeat = 'off';
+  } else repeatSeg = null;
+  set({ repeat, loop: repeat === 'all' });
+  if (audio) audio.loop = repeat === 'all';
+}
+export const canRepeatOne = () => state.mode === 'tts' || (state.mode === 'audio' && state.segments.length > 0);
+
+/** 이전/다음 문장으로. 원음에 문장 구간이 없으면 5초씩 */
+export function stepSentence(dir: -1 | 1) {
+  if (state.mode === 'tts') return skip(dir);
+  const segs = state.segments;
+  if (!segs.length) return skip(dir * 5);
+  const i = currentSegIndex();
+  const t = audio?.currentTime ?? 0;
+  let target: number;
+  if (dir > 0) target = Math.min(segs.length - 1, i + 1);
+  else target = i >= 0 && t - segs[i].start > 1.5 ? i : Math.max(0, i - 1);
+  const seg = segs[target];
+  if (state.repeat === 'one') repeatSeg = seg;
+  seek(seg.start);
+  set({ currentSentenceId: seg.id });
 }
 export function setAB(a: number | null, b: number | null) {
   set({ a, b });
@@ -281,7 +328,7 @@ export async function playTTS(from: number, o: TTSPlayOptions = {}) {
   let i = from;
   for (;;) {
     if (i > to) {
-      if (o.repeat || state.loop) i = from;
+      if (o.repeat || state.repeat === 'all') i = from;
       else break;
     }
     const s = list[i];
@@ -295,7 +342,7 @@ export async function playTTS(from: number, o: TTSPlayOptions = {}) {
     const coverage = list.length ? ttsSpoken.size / list.length : 0;
     set({ coverage });
     maybeCheckListen(coverage);
-    i++;
+    if (state.repeat !== 'one') i++;
   }
   if (my === ttsToken) set({ playing: false, ttsIndex: Math.min(i, list.length - 1) });
 }

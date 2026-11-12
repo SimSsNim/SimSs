@@ -450,857 +450,1512 @@
     "the": {
       "lemma": "the",
       "pos": "determiner",
-      "ko": "그 (정관사)"
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
     },
     "lisa": {
       "lemma": "LISA",
       "pos": "proper-noun",
-      "ko": "리사(레이저 간섭계 우주 안테나)"
+      "ko": "리사(레이저 간섭계 우주 안테나)",
+      "ipa": "/ˈliːsə/"
     },
     "laser": {
       "lemma": "laser",
       "pos": "noun",
-      "ko": "레이저"
+      "ko": "레이저",
+      "ipa": "/ˈleɪzər/",
+      "synonyms": [
+        "beam of light"
+      ]
     },
     "interferometer": {
       "lemma": "interferometer",
       "pos": "noun",
-      "ko": "간섭계"
+      "ko": "간섭계",
+      "ipa": "/ˌɪntərfərˈɑːmətər/",
+      "synonyms": [
+        "measuring instrument",
+        "detector"
+      ]
     },
     "space": {
       "lemma": "space",
       "pos": "noun",
-      "ko": "우주, 공간"
+      "ko": "우주, 공간",
+      "ipa": "/speɪs/",
+      "synonyms": [
+        "outer space",
+        "cosmos"
+      ]
     },
     "antenna": {
       "lemma": "antenna",
       "pos": "noun",
-      "ko": "안테나"
+      "ko": "안테나",
+      "ipa": "/ænˈtɛnə/",
+      "synonyms": [
+        "aerial",
+        "receiver"
+      ]
     },
     "observatory": {
       "lemma": "observatory",
       "pos": "noun",
-      "ko": "관측소, 관측 장비"
+      "ko": "관측소, 관측 장비",
+      "ipa": "/əbˈzɜːrvəˌtɔːri/",
+      "synonyms": [
+        "station",
+        "telescope"
+      ]
     },
     "now": {
       "lemma": "now",
       "pos": "adverb",
-      "ko": "현재, 이제"
+      "ko": "현재, 이제",
+      "ipa": "/naʊ/",
+      "synonyms": [
+        "currently",
+        "at present",
+        "today"
+      ]
     },
     "in": {
       "lemma": "in",
       "pos": "preposition",
-      "ko": "~(상태)에, ~ 중인"
+      "ko": "~(상태)에, ~ 중인",
+      "ipa": "/ɪn/"
     },
     "development": {
       "lemma": "development",
       "pos": "noun",
-      "ko": "개발"
+      "ko": "개발",
+      "ipa": "/dɪˈvɛləpmənt/",
+      "synonyms": [
+        "creation",
+        "design",
+        "growth"
+      ]
     },
     "will": {
       "lemma": "will",
       "pos": "auxiliary",
-      "ko": "~할 것이다 (미래)"
+      "ko": "~할 것이다 (미래)",
+      "ipa": "/wɪl/"
     },
     "detect": {
       "lemma": "detect",
       "pos": "verb",
-      "ko": "감지하다, 탐지하다"
+      "ko": "감지하다, 탐지하다",
+      "ipa": "/dɪˈtɛkt/",
+      "synonyms": [
+        "find",
+        "sense",
+        "spot"
+      ]
     },
     "gravitational": {
       "lemma": "gravitational",
       "pos": "adjective",
-      "ko": "중력의"
+      "ko": "중력의",
+      "ipa": "/ˌɡrævɪˈteɪʃənəl/",
+      "synonyms": [
+        "gravity-related"
+      ]
     },
     "waves": {
       "lemma": "wave",
       "pos": "noun",
       "ko": "파동, 파",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/weɪvz/",
+      "synonyms": [
+        "ripple",
+        "oscillation",
+        "signal"
+      ]
     },
     "tiny": {
       "lemma": "tiny",
       "pos": "adjective",
-      "ko": "아주 작은, 미세한"
+      "ko": "아주 작은, 미세한",
+      "ipa": "/ˈtaɪni/",
+      "synonyms": [
+        "minute",
+        "small",
+        "microscopic"
+      ]
     },
     "ripples": {
       "lemma": "ripple",
       "pos": "noun",
       "ko": "잔물결, 파문",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈrɪpəlz/",
+      "synonyms": [
+        "wave",
+        "wavelet",
+        "disturbance"
+      ]
     },
     "space-time": {
       "lemma": "space-time",
       "pos": "noun",
-      "ko": "시공간"
+      "ko": "시공간",
+      "ipa": "/speɪs-taɪm/",
+      "synonyms": [
+        "spacetime",
+        "fabric of space"
+      ]
     },
     "caused": {
       "lemma": "cause",
       "pos": "verb",
       "ko": "일으키다, 야기하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kɑːzd/",
+      "synonyms": [
+        "produce",
+        "create",
+        "bring about"
+      ]
     },
     "by": {
       "lemma": "by",
       "pos": "preposition",
-      "ko": "~에 의해"
+      "ko": "~에 의해",
+      "ipa": "/baɪ/"
     },
     "orbiting": {
       "lemma": "orbit",
       "pos": "verb",
       "ko": "궤도를 돌다, 공전하다",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɔːrbətɪŋ/",
+      "synonyms": [
+        "circle",
+        "revolve around",
+        "go around"
+      ]
     },
     "masses": {
       "lemma": "mass",
       "pos": "noun",
       "ko": "질량체, 천체",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈmæsəz/",
+      "synonyms": [
+        "body",
+        "object",
+        "matter"
+      ]
     },
     "two": {
       "lemma": "two",
       "pos": "number",
-      "ko": "둘, 두 개의"
+      "ko": "둘, 두 개의",
+      "ipa": "/tuː/"
     },
     "studies": {
       "lemma": "study",
       "pos": "noun",
       "ko": "연구",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈstʌdiz/",
+      "synonyms": [
+        "research",
+        "investigation",
+        "paper"
+      ]
     },
     "led": {
       "lemma": "lead",
       "pos": "verb",
       "ko": "이끌다, 주도하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/lɛd/",
+      "synonyms": [
+        "guide",
+        "head",
+        "direct"
+      ]
     },
     "nasa": {
       "lemma": "NASA",
       "pos": "proper-noun",
-      "ko": "나사(미국 항공우주국)"
+      "ko": "나사(미국 항공우주국)",
+      "ipa": "/ˈnæsə/"
     },
     "astrophysicists": {
       "lemma": "astrophysicist",
       "pos": "noun",
       "ko": "천체물리학자",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˌæstroʊˈfɪzɪsɪsts/",
+      "synonyms": [
+        "astronomer",
+        "space scientist"
+      ]
     },
     "show": {
       "lemma": "show",
       "pos": "verb",
-      "ko": "보여 주다"
+      "ko": "보여 주다",
+      "ipa": "/ʃoʊ/",
+      "synonyms": [
+        "display",
+        "present",
+        "reveal"
+      ]
     },
     "new": {
       "lemma": "new",
       "pos": "adjective",
-      "ko": "새로운"
+      "ko": "새로운",
+      "ipa": "/nuː/",
+      "synonyms": [
+        "fresh",
+        "recent",
+        "modern"
+      ]
     },
     "detail": {
       "lemma": "detail",
       "pos": "noun",
-      "ko": "세부 사항, 상세함"
+      "ko": "세부 사항, 상세함",
+      "ipa": "/dɪˈteɪl/",
+      "synonyms": [
+        "specifics",
+        "particulars",
+        "information"
+      ]
     },
     "how": {
       "lemma": "how",
       "pos": "adverb",
-      "ko": "어떻게, ~하는 방법"
+      "ko": "어떻게, ~하는 방법",
+      "ipa": "/haʊ/",
+      "synonyms": [
+        "in what way"
+      ]
     },
     "could": {
       "lemma": "can",
       "pos": "auxiliary",
       "ko": "~할 수 있을 것이다",
-      "form": "can의 과거형"
+      "form": "can의 과거형",
+      "ipa": "/kʊd/"
     },
     "reveal": {
       "lemma": "reveal",
       "pos": "verb",
-      "ko": "드러내다, 밝히다"
+      "ko": "드러내다, 밝히다",
+      "ipa": "/rɪˈviːl/",
+      "synonyms": [
+        "show",
+        "uncover",
+        "disclose"
+      ]
     },
     "a": {
       "lemma": "a",
       "pos": "determiner",
-      "ko": "하나의 (부정관사)"
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
     },
     "and": {
       "lemma": "and",
       "pos": "conjunction",
-      "ko": "그리고, ~와"
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
     },
     "unique": {
       "lemma": "unique",
       "pos": "adjective",
-      "ko": "독특한, 고유한"
+      "ko": "독특한, 고유한",
+      "ipa": "/juˈniːk/",
+      "synonyms": [
+        "distinctive",
+        "special",
+        "singular"
+      ]
     },
     "population": {
       "lemma": "population",
       "pos": "noun",
-      "ko": "집단, 개체군"
+      "ko": "집단, 개체군",
+      "ipa": "/ˌpɑːpjəˈleɪʃən/",
+      "synonyms": [
+        "group",
+        "set",
+        "community"
+      ]
     },
     "of": {
       "lemma": "of",
       "pos": "preposition",
-      "ko": "~의"
+      "ko": "~의",
+      "ipa": "/ʌv/"
     },
     "exoplanets": {
       "lemma": "exoplanet",
       "pos": "noun",
       "ko": "외계 행성",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈɛksoʊˌplænɪts/",
+      "synonyms": [
+        "extrasolar planet",
+        "alien world"
+      ]
     },
     "worlds": {
       "lemma": "world",
       "pos": "noun",
       "ko": "세계, 행성",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/wɜːrldz/",
+      "synonyms": [
+        "planet",
+        "earth",
+        "globe"
+      ]
     },
     "beyond": {
       "lemma": "beyond",
       "pos": "preposition",
-      "ko": "~ 너머의, ~ 밖의"
+      "ko": "~ 너머의, ~ 밖의",
+      "ipa": "/bɪˈɑːnd/"
     },
     "our": {
       "lemma": "our",
       "pos": "determiner",
       "ko": "우리의",
-      "form": "we의 소유격"
+      "form": "we의 소유격",
+      "ipa": "/ˈaʊər/"
     },
     "solar": {
       "lemma": "solar",
       "pos": "adjective",
-      "ko": "태양의"
+      "ko": "태양의",
+      "ipa": "/ˈsoʊlər/",
+      "synonyms": [
+        "sun"
+      ]
     },
     "system": {
       "lemma": "system",
       "pos": "noun",
-      "ko": "계, 체계 (solar system: 태양계)"
+      "ko": "계, 체계 (solar system: 태양계)",
+      "ipa": "/ˈsɪstəm/",
+      "synonyms": [
+        "network",
+        "structure",
+        "setup"
+      ]
     },
     "throughout": {
       "lemma": "throughout",
       "pos": "preposition",
-      "ko": "~ 전역에 걸쳐"
+      "ko": "~ 전역에 걸쳐",
+      "ipa": "/θruˈaʊt/"
     },
     "galaxy": {
       "lemma": "galaxy",
       "pos": "noun",
-      "ko": "은하, 은하계"
+      "ko": "은하, 은하계",
+      "ipa": "/ˈɡæləksi/",
+      "synonyms": [
+        "star system",
+        "galactic system"
+      ]
     },
     "most": {
       "lemma": "most",
       "pos": "adverb",
       "ko": "가장",
-      "form": "최상급"
+      "form": "최상급",
+      "ipa": "/moʊst/"
     },
     "common": {
       "lemma": "common",
       "pos": "adjective",
-      "ko": "흔한, 일반적인"
+      "ko": "흔한, 일반적인",
+      "ipa": "/ˈkɑːmən/",
+      "synonyms": [
+        "usual",
+        "ordinary",
+        "widespread"
+      ]
     },
     "source": {
       "lemma": "source",
       "pos": "noun",
-      "ko": "원천, (신호) 발생원"
+      "ko": "원천, (신호) 발생원",
+      "ipa": "/sɔːrs/",
+      "synonyms": [
+        "origin",
+        "emitter",
+        "cause"
+      ]
     },
     "for": {
       "lemma": "for",
       "pos": "preposition",
-      "ko": "~에게, ~을 위한"
+      "ko": "~에게, ~을 위한",
+      "ipa": "/fɔːr/"
     },
     "is": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~이다",
-      "form": "3인칭 단수 현재"
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
     },
     "expected": {
       "lemma": "expect",
       "pos": "verb",
       "ko": "예상하다, 기대하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ɪkˈspɛktəd/",
+      "synonyms": [
+        "anticipate",
+        "require",
+        "plan"
+      ]
     },
     "to": {
       "lemma": "to",
       "pos": "preposition",
-      "ko": "~하는 것 (to부정사 표시)"
+      "ko": "~하는 것 (to부정사 표시)",
+      "ipa": "/tuː/"
     },
     "be": {
       "lemma": "be",
       "pos": "verb",
-      "ko": "~이다, ~이 되다"
+      "ko": "~이다, ~이 되다",
+      "ipa": "/biː/"
     },
     "double": {
       "lemma": "double",
       "pos": "adjective",
-      "ko": "이중의, 쌍(雙)의"
+      "ko": "이중의, 쌍(雙)의",
+      "ipa": "/ˈdʌbəl/",
+      "synonyms": [
+        "dual",
+        "paired",
+        "twin"
+      ]
     },
     "white": {
       "lemma": "white",
       "pos": "adjective",
-      "ko": "흰 (white dwarf: 백색왜성)"
+      "ko": "흰 (white dwarf: 백색왜성)",
+      "ipa": "/waɪt/",
+      "synonyms": [
+        "pale"
+      ]
     },
     "dwarf": {
       "lemma": "dwarf",
       "pos": "noun",
-      "ko": "왜성 (작은 별)"
+      "ko": "왜성 (작은 별)",
+      "ipa": "/dwɔːrf/",
+      "synonyms": [
+        "small star"
+      ]
     },
     "systems": {
       "lemma": "system",
       "pos": "noun",
       "ko": "계, 체계",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈsɪstəmz/",
+      "synonyms": [
+        "network",
+        "structure",
+        "setup"
+      ]
     },
     "which": {
       "lemma": "which",
       "pos": "pronoun",
-      "ko": "~인 것 (관계대명사)"
+      "ko": "~인 것 (관계대명사)",
+      "ipa": "/wɪtʃ/"
     },
     "are": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~이다",
-      "form": "복수 현재형"
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
     },
     "binaries": {
       "lemma": "binary",
       "pos": "noun",
       "ko": "쌍성, 이중성",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈbaɪnəˌriːz/",
+      "synonyms": [
+        "pair",
+        "double star"
+      ]
     },
     "composed": {
       "lemma": "compose",
       "pos": "verb",
       "ko": "구성하다 (composed of: ~로 구성된)",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kəmˈpoʊzd/",
+      "synonyms": [
+        "make up",
+        "form",
+        "constitute"
+      ]
     },
     "dwarfs": {
       "lemma": "dwarf",
       "pos": "noun",
       "ko": "왜성 (작은 별)",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/dwɔːrfs/",
+      "synonyms": [
+        "small star"
+      ]
     },
     "tight": {
       "lemma": "tight",
       "pos": "adjective",
-      "ko": "촘촘한, 가까운"
+      "ko": "촘촘한, 가까운",
+      "ipa": "/taɪt/",
+      "synonyms": [
+        "close",
+        "narrow",
+        "compact"
+      ]
     },
     "orbits": {
       "lemma": "orbit",
       "pos": "noun",
       "ko": "궤도",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈɔːrbəts/",
+      "synonyms": [
+        "path",
+        "circuit",
+        "revolution"
+      ]
     },
     "said": {
       "lemma": "say",
       "pos": "verb",
       "ko": "말하다",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/sɛd/",
+      "synonyms": [
+        "state",
+        "remark",
+        "tell"
+      ]
     },
     "casey": {
       "lemma": "Casey",
       "pos": "proper-noun",
-      "ko": "케이시(사람 이름)"
+      "ko": "케이시(사람 이름)",
+      "ipa": "/ˈkeɪsi/"
     },
     "mcgrath": {
       "lemma": "McGrath",
       "pos": "proper-noun",
-      "ko": "맥그래스(연구자 성)"
+      "ko": "맥그래스(연구자 성)",
+      "ipa": "/məˈɡræθ/"
     },
     "postdoctoral": {
       "lemma": "postdoctoral",
       "pos": "adjective",
-      "ko": "박사 후 과정의"
+      "ko": "박사 후 과정의",
+      "ipa": "/ˌpoʊstˈdɑːkˌtɜːrəl/",
+      "synonyms": [
+        "post-PhD"
+      ]
     },
     "researcher": {
       "lemma": "researcher",
       "pos": "noun",
-      "ko": "연구원, 연구자"
+      "ko": "연구원, 연구자",
+      "ipa": "/ˈriːsərtʃər/",
+      "synonyms": [
+        "scientist",
+        "investigator",
+        "scholar"
+      ]
     },
     "at": {
       "lemma": "at",
       "pos": "preposition",
-      "ko": "~에서, ~ 소속의"
+      "ko": "~에서, ~ 소속의",
+      "ipa": "/æt/"
     },
     "university": {
       "lemma": "university",
       "pos": "noun",
-      "ko": "대학교"
+      "ko": "대학교",
+      "ipa": "/ˌjuːnəˈvɜːrsəti/",
+      "synonyms": [
+        "college",
+        "institution"
+      ]
     },
     "maryland": {
       "lemma": "Maryland",
       "pos": "proper-noun",
-      "ko": "메릴랜드(미국의 주)"
+      "ko": "메릴랜드(미국의 주)",
+      "ipa": "/ˈmɛrələnd/"
     },
     "baltimore": {
       "lemma": "Baltimore",
       "pos": "proper-noun",
-      "ko": "볼티모어(메릴랜드주 도시)"
+      "ko": "볼티모어(메릴랜드주 도시)",
+      "ipa": "/ˈbɔːltəˌmɔːr/"
     },
     "county": {
       "lemma": "county",
       "pos": "noun",
-      "ko": "카운티, 군(郡)"
+      "ko": "카운티, 군(郡)",
+      "ipa": "/ˈkaʊnti/",
+      "synonyms": [
+        "district",
+        "region",
+        "province"
+      ]
     },
     "nasa's": {
       "lemma": "NASA",
       "pos": "proper-noun",
       "ko": "나사(미국 항공우주국)의",
-      "form": "소유격"
+      "form": "소유격",
+      "ipa": "/ˈnæsəz/"
     },
     "goddard": {
       "lemma": "Goddard",
       "pos": "proper-noun",
-      "ko": "고다드(NASA 우주비행센터 이름)"
+      "ko": "고다드(NASA 우주비행센터 이름)",
+      "ipa": "/ˈɡɑːdərd/"
     },
     "flight": {
       "lemma": "flight",
       "pos": "noun",
-      "ko": "비행"
+      "ko": "비행",
+      "ipa": "/flaɪt/",
+      "synonyms": [
+        "trip",
+        "journey by air"
+      ]
     },
     "center": {
       "lemma": "center",
       "pos": "noun",
-      "ko": "센터, 중심"
+      "ko": "센터, 중심",
+      "ipa": "/ˈsɛntər/",
+      "synonyms": [
+        "hub",
+        "facility",
+        "middle"
+      ]
     },
     "greenbelt": {
       "lemma": "Greenbelt",
       "pos": "proper-noun",
-      "ko": "그린벨트(메릴랜드주 도시)"
+      "ko": "그린벨트(메릴랜드주 도시)",
+      "ipa": "/ˈɡriːnˌbɛlt/"
     },
     "if": {
       "lemma": "if",
       "pos": "conjunction",
-      "ko": "만약 ~라면"
+      "ko": "만약 ~라면",
+      "ipa": "/ɪf/"
     },
     "an": {
       "lemma": "an",
       "pos": "determiner",
-      "ko": "하나의 (모음 앞 부정관사)"
+      "ko": "하나의 (모음 앞 부정관사)",
+      "ipa": "/æn/"
     },
     "exoplanet": {
       "lemma": "exoplanet",
       "pos": "noun",
-      "ko": "외계 행성"
+      "ko": "외계 행성",
+      "ipa": "/ˈɛksoʊˌplænɪt/",
+      "synonyms": [
+        "extrasolar planet",
+        "alien world"
+      ]
     },
     "also": {
       "lemma": "also",
       "pos": "adverb",
-      "ko": "또한, 역시"
+      "ko": "또한, 역시",
+      "ipa": "/ˈɔːlsoʊ/",
+      "synonyms": [
+        "too",
+        "as well",
+        "likewise"
+      ]
     },
     "within": {
       "lemma": "within",
       "pos": "preposition",
-      "ko": "~ 안에서, ~ 내에"
+      "ko": "~ 안에서, ~ 내에",
+      "ipa": "/wɪˈðɪn/"
     },
     "one": {
       "lemma": "one",
       "pos": "pronoun",
-      "ko": "하나 (one of: ~ 중 하나)"
+      "ko": "하나 (one of: ~ 중 하나)",
+      "ipa": "/wʌn/"
     },
     "these": {
       "lemma": "these",
       "pos": "determiner",
       "ko": "이(것)들의",
-      "form": "this의 복수형"
+      "form": "this의 복수형",
+      "ipa": "/ðiːz/"
     },
     "its": {
       "lemma": "its",
       "pos": "determiner",
       "ko": "그것의",
-      "form": "it의 소유격"
+      "form": "it의 소유격",
+      "ipa": "/ɪts/"
     },
     "presence": {
       "lemma": "presence",
       "pos": "noun",
-      "ko": "존재"
+      "ko": "존재",
+      "ipa": "/ˈprɛzəns/",
+      "synonyms": [
+        "existence",
+        "attendance"
+      ]
     },
     "becomes": {
       "lemma": "become",
       "pos": "verb",
       "ko": "~이 되다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/bɪˈkʌmz/",
+      "synonyms": [
+        "turn into",
+        "grow",
+        "get"
+      ]
     },
     "imprinted": {
       "lemma": "imprint",
       "pos": "verb",
       "ko": "새기다, 각인하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˌɪmˈprɪntɪd/",
+      "synonyms": [
+        "stamp",
+        "mark",
+        "engrave"
+      ]
     },
     "on": {
       "lemma": "on",
       "pos": "preposition",
-      "ko": "~에, ~ 위에"
+      "ko": "~에, ~ 위에",
+      "ipa": "/ɑːn/"
     },
     "wave": {
       "lemma": "wave",
       "pos": "noun",
-      "ko": "파동, 파"
+      "ko": "파동, 파",
+      "ipa": "/weɪv/",
+      "synonyms": [
+        "ripple",
+        "oscillation",
+        "signal"
+      ]
     },
     "signal": {
       "lemma": "signal",
       "pos": "noun",
-      "ko": "신호"
+      "ko": "신호",
+      "ipa": "/ˈsɪɡnəl/",
+      "synonyms": [
+        "sign",
+        "cue",
+        "message"
+      ]
     },
     "way": {
       "lemma": "way",
       "pos": "noun",
-      "ko": "방식, 방법"
+      "ko": "방식, 방법",
+      "ipa": "/weɪ/",
+      "synonyms": [
+        "method",
+        "manner",
+        "means"
+      ]
     },
     "we'll": {
       "lemma": "we will",
       "pos": "phrase",
       "ko": "우리는 ~할 것이다",
-      "form": "we will의 줄임말"
+      "form": "we will의 줄임말",
+      "ipa": "/wiːl/"
     },
     "able": {
       "lemma": "able",
       "pos": "adjective",
-      "ko": "~할 수 있는 (be able to)"
+      "ko": "~할 수 있는 (be able to)",
+      "ipa": "/ˈeɪbəl/",
+      "synonyms": [
+        "capable",
+        "competent"
+      ]
     },
     "uncover": {
       "lemma": "uncover",
       "pos": "verb",
-      "ko": "알아내다, 밝혀내다"
+      "ko": "알아내다, 밝혀내다",
+      "ipa": "/ənˈkʌvər/",
+      "synonyms": [
+        "reveal",
+        "find",
+        "discover"
+      ]
     },
     "papers": {
       "lemma": "paper",
       "pos": "noun",
       "ko": "논문",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈpeɪpərz/",
+      "synonyms": [
+        "study",
+        "article",
+        "report"
+      ]
     },
     "published": {
       "lemma": "publish",
       "pos": "verb",
       "ko": "게재하다, 발표하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈpʌblɪʃt/",
+      "synonyms": [
+        "print",
+        "release",
+        "issue"
+      ]
     },
     "tuesday": {
       "lemma": "Tuesday",
       "pos": "proper-noun",
-      "ko": "화요일"
+      "ko": "화요일",
+      "ipa": "/ˈtuːzdi/"
     },
     "astrophysical": {
       "lemma": "astrophysical",
       "pos": "adjective",
-      "ko": "천체물리학의"
+      "ko": "천체물리학의",
+      "ipa": "/ˌæstroʊˈfɪzɪkəl/",
+      "synonyms": [
+        "cosmic",
+        "astronomical"
+      ]
     },
     "journal": {
       "lemma": "journal",
       "pos": "noun",
-      "ko": "학술지, 저널"
+      "ko": "학술지, 저널",
+      "ipa": "/ˈdʒɜːrnəl/",
+      "synonyms": [
+        "periodical",
+        "publication"
+      ]
     },
     "findings": {
       "lemma": "finding",
       "pos": "noun",
       "ko": "연구 결과, 발견",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈfaɪndɪŋz/",
+      "synonyms": [
+        "result",
+        "discovery",
+        "conclusion"
+      ]
     },
     "first": {
       "lemma": "first",
       "pos": "adjective",
-      "ko": "첫 번째(것)"
+      "ko": "첫 번째(것)",
+      "ipa": "/fɜːrst/",
+      "synonyms": [
+        "initial",
+        "opening",
+        "earliest"
+      ]
     },
     "authored": {
       "lemma": "author",
       "pos": "verb",
       "ko": "저술하다, 쓰다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈɔːθərd/",
+      "synonyms": [
+        "write",
+        "compose",
+        "pen"
+      ]
     },
     "solely": {
       "lemma": "solely",
       "pos": "adverb",
-      "ko": "단독으로, 오로지"
+      "ko": "단독으로, 오로지",
+      "ipa": "/ˈsoʊəli/",
+      "synonyms": [
+        "only",
+        "alone",
+        "exclusively"
+      ]
     },
     "examines": {
       "lemma": "examine",
       "pos": "verb",
       "ko": "검토하다, 조사하다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/ɪɡˈzæmənz/",
+      "synonyms": [
+        "inspect",
+        "review",
+        "check"
+      ]
     },
     "detection": {
       "lemma": "detection",
       "pos": "noun",
-      "ko": "탐지, 감지"
+      "ko": "탐지, 감지",
+      "ipa": "/dɪˈtɛkʃən/",
+      "synonyms": [
+        "discovery",
+        "sensing",
+        "finding"
+      ]
     },
     "method": {
       "lemma": "method",
       "pos": "noun",
-      "ko": "방법"
+      "ko": "방법",
+      "ipa": "/ˈmɛθəd/",
+      "synonyms": [
+        "way",
+        "means",
+        "technique"
+      ]
     },
     "determines": {
       "lemma": "determine",
       "pos": "verb",
       "ko": "알아내다, 결정하다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/dəˈtɜːrmənz/",
+      "synonyms": [
+        "find out",
+        "establish",
+        "decide"
+      ]
     },
     "planet": {
       "lemma": "planet",
       "pos": "noun",
-      "ko": "행성"
+      "ko": "행성",
+      "ipa": "/ˈplænət/",
+      "synonyms": [
+        "world",
+        "globe"
+      ]
     },
     "orbital": {
       "lemma": "orbital",
       "pos": "adjective",
-      "ko": "궤도의 (orbital period: 공전 주기)"
+      "ko": "궤도의 (orbital period: 공전 주기)",
+      "ipa": "/ˈɔːrbətəl/",
+      "synonyms": [
+        "orbiting",
+        "circling"
+      ]
     },
     "periods": {
       "lemma": "period",
       "pos": "noun",
       "ko": "주기, 기간",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈpɪriədz/",
+      "synonyms": [
+        "cycle",
+        "interval"
+      ]
     },
     "where": {
       "lemma": "where",
       "pos": "adverb",
-      "ko": "~하는 곳/경우 (관계부사)"
+      "ko": "~하는 곳/경우 (관계부사)",
+      "ipa": "/wɛr/"
     },
     "it": {
       "lemma": "it",
       "pos": "pronoun",
-      "ko": "그것"
+      "ko": "그것",
+      "ipa": "/ɪt/"
     },
     "would": {
       "lemma": "will",
       "pos": "auxiliary",
       "ko": "~할 것이다 (가정·추측)",
-      "form": "will의 과거형"
+      "form": "will의 과거형",
+      "ipa": "/wʊd/"
     },
     "work": {
       "lemma": "work",
       "pos": "verb",
-      "ko": "효과가 있다, 작동하다"
+      "ko": "효과가 있다, 작동하다",
+      "ipa": "/wɜːrk/",
+      "synonyms": [
+        "succeed",
+        "function",
+        "be effective"
+      ]
     },
     "best": {
       "lemma": "well",
       "pos": "adverb",
       "ko": "가장 잘",
-      "form": "well의 최상급"
+      "form": "well의 최상급",
+      "ipa": "/bɛst/",
+      "synonyms": [
+        "effectively",
+        "skillfully"
+      ]
     },
     "second": {
       "lemma": "second",
       "pos": "adjective",
-      "ko": "두 번째의"
+      "ko": "두 번째의",
+      "ipa": "/ˈsɛkənd/",
+      "synonyms": [
+        "next",
+        "additional",
+        "another"
+      ]
     },
     "paper": {
       "lemma": "paper",
       "pos": "noun",
-      "ko": "논문"
+      "ko": "논문",
+      "ipa": "/ˈpeɪpər/",
+      "synonyms": [
+        "study",
+        "article",
+        "report"
+      ]
     },
     "coauthors": {
       "lemma": "coauthor",
       "pos": "noun",
       "ko": "공동 저자",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈkoʊˈɑːθərz/",
+      "synonyms": [
+        "co-writer",
+        "collaborator"
+      ]
     },
     "investigates": {
       "lemma": "investigate",
       "pos": "verb",
       "ko": "조사하다, 연구하다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/ˌɪnˈvɛstəˌɡeɪts/",
+      "synonyms": [
+        "study",
+        "examine",
+        "explore"
+      ]
     },
     "such": {
       "lemma": "such",
       "pos": "determiner",
-      "ko": "그러한, 그런"
+      "ko": "그러한, 그런",
+      "ipa": "/sʌtʃ/"
     },
     "planets": {
       "lemma": "planet",
       "pos": "noun",
       "ko": "행성",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈplænəts/",
+      "synonyms": [
+        "world",
+        "globe"
+      ]
     },
     "confirmed": {
       "lemma": "confirm",
       "pos": "verb",
       "ko": "확인하다, 입증하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/kənˈfɜːrmd/",
+      "synonyms": [
+        "verify",
+        "prove",
+        "establish"
+      ]
     },
     "using": {
       "lemma": "use",
       "pos": "verb",
       "ko": "사용하다, 이용하다",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈjuːzɪŋ/",
+      "synonyms": [
+        "utilize",
+        "employ",
+        "apply"
+      ]
     },
     "james": {
       "lemma": "James",
       "pos": "proper-noun",
-      "ko": "제임스(망원경 이름의 일부)"
+      "ko": "제임스(망원경 이름의 일부)",
+      "ipa": "/dʒeɪmz/"
     },
     "webb": {
       "lemma": "Webb",
       "pos": "proper-noun",
-      "ko": "웹(제임스 웹 우주망원경)"
+      "ko": "웹(제임스 웹 우주망원경)",
+      "ipa": "/wɛb/"
     },
     "telescope": {
       "lemma": "telescope",
       "pos": "noun",
-      "ko": "망원경"
+      "ko": "망원경",
+      "ipa": "/ˈtɛləˌskoʊp/",
+      "synonyms": [
+        "observatory",
+        "scope"
+      ]
     },
     "possibility": {
       "lemma": "possibility",
       "pos": "noun",
-      "ko": "가능성"
+      "ko": "가능성",
+      "ipa": "/ˌpɑːsəˈbɪləˌtiː/",
+      "synonyms": [
+        "chance",
+        "potential",
+        "likelihood"
+      ]
     },
     "detecting": {
       "lemma": "detect",
       "pos": "verb",
       "ko": "탐지하다, 감지하다",
-      "form": "동명사(-ing)"
+      "form": "동명사(-ing)",
+      "ipa": "/dɪˈtɛktɪŋ/",
+      "synonyms": [
+        "find",
+        "sense",
+        "spot"
+      ]
     },
     "around": {
       "lemma": "around",
       "pos": "preposition",
-      "ko": "~ 주위에, ~ 주변의"
+      "ko": "~ 주위에, ~ 주변의",
+      "ipa": "/ərˈaʊnd/"
     },
     "was": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~였다 (수동태: ~되었다)",
-      "form": "과거형"
+      "form": "과거형",
+      "ipa": "/wɑːz/"
     },
     "proposed": {
       "lemma": "propose",
       "pos": "verb",
       "ko": "제안하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/prəˈpoʊzd/",
+      "synonyms": [
+        "suggest",
+        "put forward",
+        "recommend"
+      ]
     },
     "japanese": {
       "lemma": "Japanese",
       "pos": "adjective",
-      "ko": "일본의, 일본인의"
+      "ko": "일본의, 일본인의",
+      "ipa": "/ˌdʒæpəˈniːz/"
     },
     "astronomer": {
       "lemma": "astronomer",
       "pos": "noun",
-      "ko": "천문학자"
+      "ko": "천문학자",
+      "ipa": "/əˈstrɑːnəmər/",
+      "synonyms": [
+        "stargazer",
+        "astrophysicist"
+      ]
     },
     "naoki": {
       "lemma": "Naoki",
       "pos": "proper-noun",
-      "ko": "나오키(일본인 이름)"
+      "ko": "나오키(일본인 이름)",
+      "ipa": "/neɪˈoʊki/"
     },
     "seto": {
       "lemma": "Seto",
       "pos": "proper-noun",
-      "ko": "세토(일본인 천문학자 성)"
+      "ko": "세토(일본인 천문학자 성)",
+      "ipa": "/ˈsɛtoʊ/"
     },
     "esa": {
       "lemma": "ESA",
       "pos": "proper-noun",
-      "ko": "유럽우주국"
+      "ko": "유럽우주국",
+      "ipa": "/ˌiːɛsˈeɪ/"
     },
     "european": {
       "lemma": "European",
       "pos": "adjective",
-      "ko": "유럽의"
+      "ko": "유럽의",
+      "ipa": "/ˌjʊrəˈpiːən/"
     },
     "agency": {
       "lemma": "agency",
       "pos": "noun",
-      "ko": "기관, 국(局)"
+      "ko": "기관, 국(局)",
+      "ipa": "/ˈeɪdʒənsi/",
+      "synonyms": [
+        "office",
+        "bureau",
+        "organization"
+      ]
     },
     "mission": {
       "lemma": "mission",
       "pos": "noun",
-      "ko": "임무, (우주) 탐사 계획"
+      "ko": "임무, (우주) 탐사 계획",
+      "ipa": "/ˈmɪʃən/",
+      "synonyms": [
+        "task",
+        "assignment",
+        "project"
+      ]
     },
     "slated": {
       "lemma": "slate",
       "pos": "verb",
       "ko": "예정하다 (be slated for: ~로 예정되다)",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈsleɪtɪd/",
+      "synonyms": [
+        "schedule",
+        "plan",
+        "set"
+      ]
     },
     "launch": {
       "lemma": "launch",
       "pos": "noun",
-      "ko": "발사"
+      "ko": "발사",
+      "ipa": "/lɔːntʃ/",
+      "synonyms": [
+        "liftoff",
+        "takeoff"
+      ]
     },
     "mid-2030s": {
       "lemma": "mid-2030s",
       "pos": "noun",
-      "ko": "2030년대 중반"
+      "ko": "2030년대 중반",
+      "ipa": null
     },
     "as": {
       "lemma": "as",
       "pos": "preposition",
-      "ko": "~로서"
+      "ko": "~로서",
+      "ipa": "/æz/"
     },
     "collaborative": {
       "lemma": "collaborative",
       "pos": "adjective",
-      "ko": "협력하는, 공동의"
+      "ko": "협력하는, 공동의",
+      "ipa": "/kəˈlæbərˌeɪtɪv/",
+      "synonyms": [
+        "joint",
+        "cooperative",
+        "shared"
+      ]
     },
     "partner": {
       "lemma": "partner",
       "pos": "noun",
-      "ko": "파트너, 협력자"
+      "ko": "파트너, 협력자",
+      "ipa": "/ˈpɑːrtnər/",
+      "synonyms": [
+        "associate",
+        "collaborator",
+        "ally"
+      ]
     },
     "contributing": {
       "lemma": "contribute",
       "pos": "verb",
       "ko": "제공하다, 기여하다",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/kənˈtrɪbjutɪŋ/",
+      "synonyms": [
+        "give",
+        "provide",
+        "add"
+      ]
     },
     "telescopes": {
       "lemma": "telescope",
       "pos": "noun",
       "ko": "망원경",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈtɛləˌskoʊps/",
+      "synonyms": [
+        "observatory",
+        "scope"
+      ]
     },
     "other": {
       "lemma": "other",
       "pos": "adjective",
-      "ko": "다른, 그 밖의"
+      "ko": "다른, 그 밖의",
+      "ipa": "/ˈʌðər/",
+      "synonyms": [
+        "different",
+        "additional",
+        "remaining"
+      ]
     },
     "critical": {
       "lemma": "critical",
       "pos": "adjective",
-      "ko": "핵심적인, 중요한"
+      "ko": "핵심적인, 중요한",
+      "ipa": "/ˈkrɪtɪkəl/",
+      "synonyms": [
+        "crucial",
+        "key",
+        "vital"
+      ]
     },
     "hardware": {
       "lemma": "hardware",
       "pos": "noun",
-      "ko": "하드웨어, 장비"
+      "ko": "하드웨어, 장비",
+      "ipa": "/ˈhɑːrˌdwɛr/",
+      "synonyms": [
+        "equipment",
+        "devices",
+        "machines"
+      ]
     },
     "engineering": {
       "lemma": "engineering",
       "pos": "noun",
-      "ko": "공학, 엔지니어링"
+      "ko": "공학, 엔지니어링",
+      "ipa": "/ˈɛndʒəˈnɪrɪŋ/",
+      "synonyms": [
+        "technology",
+        "design"
+      ]
     },
     "scientific": {
       "lemma": "scientific",
       "pos": "adjective",
-      "ko": "과학적인, 과학의"
+      "ko": "과학적인, 과학의",
+      "ipa": "/ˌsaɪənˈtɪfɪk/",
+      "synonyms": [
+        "research-based",
+        "academic"
+      ]
     },
     "support": {
       "lemma": "support",
       "pos": "noun",
-      "ko": "지원"
+      "ko": "지원",
+      "ipa": "/səˈpɔːrt/",
+      "synonyms": [
+        "help",
+        "assistance",
+        "backing"
+      ]
     },
     "part": {
       "lemma": "part",
       "pos": "noun",
-      "ko": "일부 (as part of: ~의 일환으로)"
+      "ko": "일부 (as part of: ~의 일환으로)",
+      "ipa": "/pɑːrt/",
+      "synonyms": [
+        "portion",
+        "piece",
+        "component"
+      ]
     },
     "better": {
       "lemma": "well",
       "pos": "adverb",
       "ko": "더 잘",
-      "form": "well의 비교급"
+      "form": "well의 비교급",
+      "ipa": "/ˈbɛtər/",
+      "synonyms": [
+        "effectively",
+        "skillfully"
+      ]
     },
     "understand": {
       "lemma": "understand",
       "pos": "verb",
-      "ko": "이해하다"
+      "ko": "이해하다",
+      "ipa": "/ˌʌndərˈstænd/",
+      "synonyms": [
+        "grasp",
+        "comprehend",
+        "realize"
+      ]
     },
     "universe": {
       "lemma": "universe",
       "pos": "noun",
-      "ko": "우주"
+      "ko": "우주",
+      "ipa": "/ˈjuːnəˌvɜːrs/",
+      "synonyms": [
+        "cosmos",
+        "space"
+      ]
     },
     "works": {
       "lemma": "work",
       "pos": "verb",
       "ko": "작동하다, 돌아가다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/wɜːrks/",
+      "synonyms": [
+        "function",
+        "operate",
+        "run"
+      ]
     }
   }
 }

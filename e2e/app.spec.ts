@@ -310,9 +310,12 @@ test('원음 레슨 듣기 탭: 컨트롤과 구간 맞추기', async ({ page })
 
 test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 한 번에 내 단어로 추가', async ({ page }) => {
   await start(page, './#/general/lesson/2026-11-12-L1/full');
-  const gl = (G as { glossary: Record<string, { lemma: string; ko: string }> }).glossary;
+  const gl = (G as { glossary: Record<string, { lemma: string; ko: string; ipa?: string; synonyms?: string[] }> }).glossary;
   await page.locator('span', { hasText: /^sitting$/ }).first().click();
   const dlg = page.getByRole('dialog');
+  // 발음기호와 유사 단어
+  await expect(dlg).toContainText(`[${gl['sitting'].ipa}]`);
+  await expect(dlg.getByTestId('gloss-synonyms')).toContainText(gl['sitting'].synonyms![0]);
   // 누르자마자 한 번 읽고, 듣기·천천히·기본형 버튼으로 다시 듣기
   const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
   await expect.poll(spoken).toEqual(['sitting']);

@@ -565,3 +565,23 @@ test('v25. 새 파일이 검증에 실패해도 전에 받아 둔 정상 사본�
   await page.waitForTimeout(1500);
   await expect(page.getByTestId('part-card-part5')).toBeVisible();
 });
+
+test('v26. 플레이어 메뉴: 재생줄을 누르면 서랍, 한 문장 반복·문장 이동·속도', async ({ page }) => {
+  await start(page, URL7);
+  await expect(page.getByTestId('mini-player')).toBeVisible();
+  await page.getByTestId('player-open').click();
+  const drawer = page.getByTestId('player-drawer');
+  await expect(drawer).toBeVisible();
+  await page.getByTestId('repeat-one').click();
+  await expect(page.getByTestId('repeat-one')).toHaveAttribute('aria-pressed', 'true');
+  await page.getByTestId('mini-toggle').click();
+  await expect.poll(() => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.length), { timeout: 15000 }).toBeGreaterThanOrEqual(3);
+  const spoken = await page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice(0, 3));
+  expect(new Set(spoken).size).toBe(1); // 같은 문장만 반복
+  await page.getByTestId('step-next').click();
+  await expect(page.getByTestId('mini-player')).toContainText('TTS · 2/');
+  await drawer.getByRole('button', { name: '1.25×' }).click();
+  await expect(page.getByTestId('mini-player')).toContainText('1.25×');
+  await page.getByRole('button', { name: '재생 메뉴 닫기' }).click();
+  await expect(drawer).toHaveCount(0);
+});

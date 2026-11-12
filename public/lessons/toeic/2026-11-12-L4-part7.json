@@ -482,784 +482,1413 @@
     "transition": {
       "lemma": "transition",
       "pos": "noun",
-      "ko": "전환, 이행"
+      "ko": "전환, 이행",
+      "ipa": "/trænˈzɪʃən/",
+      "synonyms": [
+        "change",
+        "shift",
+        "switch"
+      ]
     },
     "to": {
       "lemma": "to",
       "pos": "preposition",
-      "ko": "~으로, ~하기 위해 (to부정사 표시)"
+      "ko": "~으로, ~하기 위해 (to부정사 표시)",
+      "ipa": "/tuː/"
     },
     "a": {
       "lemma": "a",
       "pos": "determiner",
-      "ko": "하나의 (부정관사)"
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
     },
     "new": {
       "lemma": "new",
       "pos": "adjective",
-      "ko": "새로운"
+      "ko": "새로운",
+      "ipa": "/nuː/",
+      "synonyms": [
+        "fresh",
+        "recent",
+        "modern"
+      ]
     },
     "expense": {
       "lemma": "expense",
       "pos": "noun",
-      "ko": "경비, 비용"
+      "ko": "경비, 비용",
+      "ipa": "/ɪkˈspɛns/",
+      "synonyms": [
+        "cost",
+        "spending",
+        "charge"
+      ]
     },
     "reporting": {
       "lemma": "reporting",
       "pos": "noun",
-      "ko": "보고, 정산 보고"
+      "ko": "보고, 정산 보고",
+      "ipa": "/riˈpɔːrtɪŋ/",
+      "synonyms": [
+        "documentation",
+        "filing",
+        "submission"
+      ]
     },
     "system": {
       "lemma": "system",
       "pos": "noun",
-      "ko": "시스템, 제도"
+      "ko": "시스템, 제도",
+      "ipa": "/ˈsɪstəm/",
+      "synonyms": [
+        "platform",
+        "program",
+        "method"
+      ]
     },
     "beginning": {
       "lemma": "begin",
       "pos": "verb",
       "ko": "~부터 (시작하여)",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/bɪˈɡɪnɪŋ/",
+      "synonyms": [
+        "start",
+        "open"
+      ]
     },
     "on": {
       "lemma": "on",
       "pos": "preposition",
-      "ko": "~에 (날짜 앞), ~을 위해 (on behalf of)"
+      "ko": "~에 (날짜 앞), ~을 위해 (on behalf of)",
+      "ipa": "/ɑːn/"
     },
     "july": {
       "lemma": "July",
       "pos": "proper-noun",
-      "ko": "7월"
+      "ko": "7월",
+      "ipa": "/ˌdʒuːˈlaɪ/"
     },
     "corvane": {
       "lemma": "Corvane",
       "pos": "proper-noun",
-      "ko": "코베인 (회사 이름의 일부)"
+      "ko": "코베인 (회사 이름의 일부)",
+      "ipa": "/ˈkɔːrveɪn/"
     },
     "industries": {
       "lemma": "industry",
       "pos": "noun",
       "ko": "산업 (회사명의 일부)",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈɪndəstriz/",
+      "synonyms": [
+        "business",
+        "sector",
+        "trade"
+      ]
     },
     "will": {
       "lemma": "will",
       "pos": "auxiliary",
-      "ko": "~할 것이다 (미래)"
+      "ko": "~할 것이다 (미래)",
+      "ipa": "/wɪl/"
     },
     "replace": {
       "lemma": "replace",
       "pos": "verb",
-      "ko": "대체하다, 교체하다"
+      "ko": "대체하다, 교체하다",
+      "ipa": "/ˌriːˈpleɪs/",
+      "synonyms": [
+        "swap",
+        "substitute",
+        "change"
+      ]
     },
     "its": {
       "lemma": "its",
       "pos": "determiner",
-      "ko": "그것의, 자사의"
+      "ko": "그것의, 자사의",
+      "ipa": "/ɪts/"
     },
     "paper-based": {
       "lemma": "paper-based",
       "pos": "adjective",
-      "ko": "종이 기반의, 서면의"
+      "ko": "종이 기반의, 서면의",
+      "ipa": "/ˈpeɪpər-beɪst/",
+      "synonyms": [
+        "printed",
+        "hard-copy",
+        "manual"
+      ]
     },
     "process": {
       "lemma": "process",
       "pos": "noun",
-      "ko": "절차, 과정 / 처리하다"
+      "ko": "절차, 과정 / 처리하다",
+      "ipa": "/ˈprɑːˌsɛs/",
+      "synonyms": [
+        "procedure",
+        "steps",
+        "system"
+      ]
     },
     "with": {
       "lemma": "with",
       "pos": "preposition",
-      "ko": "~으로, ~을 이용하면"
+      "ko": "~으로, ~을 이용하면",
+      "ipa": "/wɪð/"
     },
     "expensa": {
       "lemma": "Expensa",
       "pos": "proper-noun",
-      "ko": "익스펜사 (온라인 경비 정산 플랫폼)"
+      "ko": "익스펜사 (온라인 경비 정산 플랫폼)",
+      "ipa": "/ɪkˈspɛnsə/"
     },
     "an": {
       "lemma": "an",
       "pos": "determiner",
-      "ko": "하나의 (모음 앞 부정관사)"
+      "ko": "하나의 (모음 앞 부정관사)",
+      "ipa": "/æn/"
     },
     "online": {
       "lemma": "online",
       "pos": "adjective",
-      "ko": "온라인의"
+      "ko": "온라인의",
+      "ipa": "/ˈɔːnˌlaɪn/",
+      "synonyms": [
+        "web-based",
+        "digital",
+        "internet"
+      ]
     },
     "platform": {
       "lemma": "platform",
       "pos": "noun",
-      "ko": "플랫폼"
+      "ko": "플랫폼",
+      "ipa": "/ˈplætˌfɔːrm/",
+      "synonyms": [
+        "system",
+        "service",
+        "interface"
+      ]
     },
     "that": {
       "lemma": "that",
       "pos": "pronoun",
-      "ko": "~하는 (관계대명사)"
+      "ko": "~하는 (관계대명사)",
+      "ipa": "/ðæt/"
     },
     "allows": {
       "lemma": "allow",
       "pos": "verb",
       "ko": "~할 수 있게 하다, 허용하다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/əˈlaʊz/",
+      "synonyms": [
+        "let",
+        "permit",
+        "enable"
+      ]
     },
     "employees": {
       "lemma": "employee",
       "pos": "noun",
       "ko": "직원, 사원",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ɛmˈplɔɪiz/",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ]
     },
     "submit": {
       "lemma": "submit",
       "pos": "verb",
-      "ko": "제출하다"
+      "ko": "제출하다",
+      "ipa": "/səbˈmɪt/",
+      "synonyms": [
+        "hand in",
+        "turn in",
+        "send"
+      ]
     },
     "and": {
       "lemma": "and",
       "pos": "conjunction",
-      "ko": "그리고, ~와"
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
     },
     "track": {
       "lemma": "track",
       "pos": "verb",
-      "ko": "추적하다, 진행 상황을 확인하다"
+      "ko": "추적하다, 진행 상황을 확인하다",
+      "ipa": "/træk/",
+      "synonyms": [
+        "follow",
+        "monitor",
+        "trace"
+      ]
     },
     "reimbursement": {
       "lemma": "reimbursement",
       "pos": "noun",
-      "ko": "환급, 상환"
+      "ko": "환급, 상환",
+      "ipa": "/ˌriːɪmˈbɜːrsmənt/",
+      "synonyms": [
+        "repayment",
+        "refund",
+        "compensation"
+      ]
     },
     "requests": {
       "lemma": "request",
       "pos": "noun",
       "ko": "요청, 신청(서)",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/rɪˈkwɛsts/",
+      "synonyms": [
+        "appeal",
+        "application",
+        "demand"
+      ]
     },
     "from": {
       "lemma": "from",
       "pos": "preposition",
-      "ko": "~에서, ~으로부터"
+      "ko": "~에서, ~으로부터",
+      "ipa": "/frʌm/"
     },
     "their": {
       "lemma": "their",
       "pos": "determiner",
-      "ko": "그들의"
+      "ko": "그들의",
+      "ipa": "/ðɛr/"
     },
     "computers": {
       "lemma": "computer",
       "pos": "noun",
       "ko": "컴퓨터",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/kəmˈpjuːtərz/",
+      "synonyms": [
+        "PC",
+        "machine",
+        "device"
+      ]
     },
     "or": {
       "lemma": "or",
       "pos": "conjunction",
-      "ko": "또는, 혹은"
+      "ko": "또는, 혹은",
+      "ipa": "/ɔːr/"
     },
     "mobile": {
       "lemma": "mobile",
       "pos": "adjective",
-      "ko": "휴대용의, 모바일의"
+      "ko": "휴대용의, 모바일의",
+      "ipa": "/ˈmoʊbəl/",
+      "synonyms": [
+        "portable",
+        "cell"
+      ]
     },
     "phones": {
       "lemma": "phone",
       "pos": "noun",
       "ko": "전화기 (mobile phone: 휴대폰)",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/foʊnz/",
+      "synonyms": [
+        "telephone",
+        "cell phone",
+        "handset"
+      ]
     },
     "the": {
       "lemma": "the",
       "pos": "determiner",
-      "ko": "그 (정관사)"
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
     },
     "change": {
       "lemma": "change",
       "pos": "noun",
-      "ko": "변화, 변경"
+      "ko": "변화, 변경",
+      "ipa": "/tʃeɪndʒ/",
+      "synonyms": [
+        "alteration",
+        "modification",
+        "update"
+      ]
     },
     "is": {
       "lemma": "be",
       "pos": "verb",
       "ko": "~이다, ~되다",
-      "form": "3인칭 단수 현재"
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
     },
     "part": {
       "lemma": "part",
       "pos": "noun",
-      "ko": "일부, 부분"
+      "ko": "일부, 부분",
+      "ipa": "/pɑːrt/",
+      "synonyms": [
+        "portion",
+        "piece",
+        "component"
+      ]
     },
     "of": {
       "lemma": "of",
       "pos": "preposition",
-      "ko": "~의"
+      "ko": "~의",
+      "ipa": "/ʌv/"
     },
     "broader": {
       "lemma": "broad",
       "pos": "adjective",
       "ko": "더 폭넓은, 더 광범위한",
-      "form": "비교급"
+      "form": "비교급",
+      "ipa": "/ˈbrɔːdər/",
+      "synonyms": [
+        "wide",
+        "extensive",
+        "general"
+      ]
     },
     "effort": {
       "lemma": "effort",
       "pos": "noun",
-      "ko": "노력, 시도"
+      "ko": "노력, 시도",
+      "ipa": "/ˈɛfərt/",
+      "synonyms": [
+        "attempt",
+        "try",
+        "push"
+      ]
     },
     "reduce": {
       "lemma": "reduce",
       "pos": "verb",
-      "ko": "줄이다, 절감하다"
+      "ko": "줄이다, 절감하다",
+      "ipa": "/rəˈduːs/",
+      "synonyms": [
+        "cut",
+        "lower",
+        "decrease"
+      ]
     },
     "administrative": {
       "lemma": "administrative",
       "pos": "adjective",
-      "ko": "관리상의, 행정의"
+      "ko": "관리상의, 행정의",
+      "ipa": "/ədˈmɪnəˌstreɪtɪv/",
+      "synonyms": [
+        "managerial",
+        "office",
+        "executive"
+      ]
     },
     "costs": {
       "lemma": "cost",
       "pos": "noun",
       "ko": "비용",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/kɑːsts/",
+      "synonyms": [
+        "price",
+        "expense",
+        "charge"
+      ]
     },
     "shorten": {
       "lemma": "shorten",
       "pos": "verb",
-      "ko": "단축하다, 줄이다"
+      "ko": "단축하다, 줄이다",
+      "ipa": "/ˈʃɔːrtən/",
+      "synonyms": [
+        "cut",
+        "reduce",
+        "trim"
+      ]
     },
     "time": {
       "lemma": "time",
       "pos": "noun",
-      "ko": "시간"
+      "ko": "시간",
+      "ipa": "/taɪm/",
+      "synonyms": [
+        "moment",
+        "occasion"
+      ]
     },
     "it": {
       "lemma": "it",
       "pos": "pronoun",
-      "ko": "(가주어) 그것"
+      "ko": "(가주어) 그것",
+      "ipa": "/ɪt/"
     },
     "takes": {
       "lemma": "take",
       "pos": "verb",
       "ko": "(시간이) 걸리다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/teɪks/",
+      "synonyms": [
+        "require",
+        "last"
+      ]
     },
     "for": {
       "lemma": "for",
       "pos": "preposition",
-      "ko": "~이 (to부정사의 주어), ~을 위해"
+      "ko": "~이 (to부정사의 주어), ~을 위해",
+      "ipa": "/fɔːr/"
     },
     "staff": {
       "lemma": "staff",
       "pos": "noun",
-      "ko": "직원(들)"
+      "ko": "직원(들)",
+      "ipa": "/stæf/",
+      "synonyms": [
+        "employees",
+        "personnel",
+        "workers"
+      ]
     },
     "be": {
       "lemma": "be",
       "pos": "auxiliary",
-      "ko": "~되다 (수동태)"
+      "ko": "~되다 (수동태)",
+      "ipa": "/biː/"
     },
     "reimbursed": {
       "lemma": "reimburse",
       "pos": "verb",
       "ko": "환급받다, 변제받다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˌriːɪmˈbɜːrst/",
+      "synonyms": [
+        "repay",
+        "refund",
+        "compensate"
+      ]
     },
     "under": {
       "lemma": "under",
       "pos": "preposition",
-      "ko": "~ 하에서, ~에 따라"
+      "ko": "~ 하에서, ~에 따라",
+      "ipa": "/ˈʌndər/"
     },
     "current": {
       "lemma": "current",
       "pos": "adjective",
-      "ko": "현재의, 현행의"
+      "ko": "현재의, 현행의",
+      "ipa": "/ˈkɜːrənt/",
+      "synonyms": [
+        "present",
+        "existing",
+        "ongoing"
+      ]
     },
     "wait": {
       "lemma": "wait",
       "pos": "verb",
-      "ko": "기다리다"
+      "ko": "기다리다",
+      "ipa": "/weɪt/",
+      "synonyms": [
+        "hold on",
+        "stay"
+      ]
     },
     "average": {
       "lemma": "average",
       "pos": "noun",
-      "ko": "평균"
+      "ko": "평균",
+      "ipa": "/ˈævərɪdʒ/",
+      "synonyms": [
+        "mean",
+        "norm",
+        "typical amount"
+      ]
     },
     "three": {
       "lemma": "three",
       "pos": "number",
-      "ko": "셋, 3"
+      "ko": "셋, 3",
+      "ipa": "/θriː/"
     },
     "weeks": {
       "lemma": "week",
       "pos": "noun",
       "ko": "주, 일주일",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/wiːks/",
+      "synonyms": [
+        "seven days"
+      ]
     },
     "receive": {
       "lemma": "receive",
       "pos": "verb",
-      "ko": "받다"
+      "ko": "받다",
+      "ipa": "/rəˈsiːv/",
+      "synonyms": [
+        "get",
+        "accept",
+        "obtain"
+      ]
     },
     "payment": {
       "lemma": "payment",
       "pos": "noun",
-      "ko": "지급, 지불금"
+      "ko": "지급, 지불금",
+      "ipa": "/ˈpeɪmənt/",
+      "synonyms": [
+        "pay",
+        "remittance",
+        "fee"
+      ]
     },
     "finance": {
       "lemma": "finance",
       "pos": "noun",
-      "ko": "재무, 재정"
+      "ko": "재무, 재정",
+      "ipa": "/fəˈnæns/",
+      "synonyms": [
+        "accounting",
+        "money matters",
+        "funding"
+      ]
     },
     "department": {
       "lemma": "department",
       "pos": "noun",
-      "ko": "부서, ~부"
+      "ko": "부서, ~부",
+      "ipa": "/dɪˈpɑːrtmənt/",
+      "synonyms": [
+        "division",
+        "section",
+        "unit"
+      ]
     },
     "expects": {
       "lemma": "expect",
       "pos": "verb",
       "ko": "예상하다, 기대하다",
-      "form": "3인칭 단수"
+      "form": "3인칭 단수",
+      "ipa": "/ɪkˈspɛkts/",
+      "synonyms": [
+        "anticipate",
+        "require",
+        "plan"
+      ]
     },
     "most": {
       "lemma": "most",
       "pos": "determiner",
-      "ko": "대부분의"
+      "ko": "대부분의",
+      "ipa": "/moʊst/"
     },
     "within": {
       "lemma": "within",
       "pos": "preposition",
-      "ko": "~ 이내에"
+      "ko": "~ 이내에",
+      "ipa": "/wɪˈðɪn/"
     },
     "five": {
       "lemma": "five",
       "pos": "number",
-      "ko": "다섯, 5"
+      "ko": "다섯, 5",
+      "ipa": "/faɪv/"
     },
     "business": {
       "lemma": "business",
       "pos": "noun",
-      "ko": "업무, 사업 (business day: 영업일)"
+      "ko": "업무, 사업 (business day: 영업일)",
+      "ipa": "/ˈbɪznəs/",
+      "synonyms": [
+        "work",
+        "trade",
+        "commerce"
+      ]
     },
     "days": {
       "lemma": "day",
       "pos": "noun",
       "ko": "날, 일",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/deɪz/",
+      "synonyms": [
+        "date",
+        "time"
+      ]
     },
     "use": {
       "lemma": "use",
       "pos": "verb",
-      "ko": "사용하다, 이용하다"
+      "ko": "사용하다, 이용하다",
+      "ipa": "/juːs/",
+      "synonyms": [
+        "utilize",
+        "employ",
+        "apply"
+      ]
     },
     "photograph": {
       "lemma": "photograph",
       "pos": "verb",
-      "ko": "사진을 찍다, 촬영하다"
+      "ko": "사진을 찍다, 촬영하다",
+      "ipa": "/ˈfoʊtəˌɡræf/",
+      "synonyms": [
+        "shoot",
+        "capture",
+        "film"
+      ]
     },
     "receipts": {
       "lemma": "receipt",
       "pos": "noun",
       "ko": "영수증",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/rɪˈsiːts/",
+      "synonyms": [
+        "proof of purchase",
+        "slip",
+        "voucher"
+      ]
     },
     "upload": {
       "lemma": "upload",
       "pos": "verb",
-      "ko": "업로드하다, 올리다"
+      "ko": "업로드하다, 올리다",
+      "ipa": "/ˈʌˌploʊd/",
+      "synonyms": [
+        "post",
+        "submit",
+        "send"
+      ]
     },
     "them": {
       "lemma": "they",
       "pos": "pronoun",
       "ko": "그것들(을)",
-      "form": "목적격"
+      "form": "목적격",
+      "ipa": "/ðɛm/"
     },
     "along": {
       "lemma": "along",
       "pos": "adverb",
-      "ko": "함께 (along with: ~와 함께)"
+      "ko": "함께 (along with: ~와 함께)",
+      "ipa": "/əˈlɔːŋ/",
+      "synonyms": [
+        "together",
+        "with"
+      ]
     },
     "brief": {
       "lemma": "brief",
       "pos": "adjective",
-      "ko": "간단한, 짧은"
+      "ko": "간단한, 짧은",
+      "ipa": "/briːf/",
+      "synonyms": [
+        "short",
+        "quick",
+        "concise"
+      ]
     },
     "description": {
       "lemma": "description",
       "pos": "noun",
-      "ko": "설명, 기술"
+      "ko": "설명, 기술",
+      "ipa": "/dɪˈskrɪpʃən/",
+      "synonyms": [
+        "account",
+        "depiction",
+        "explanation"
+      ]
     },
     "each": {
       "lemma": "each",
       "pos": "determiner",
-      "ko": "각각의"
+      "ko": "각각의",
+      "ipa": "/iːtʃ/"
     },
     "managers": {
       "lemma": "manager",
       "pos": "noun",
       "ko": "관리자, 매니저",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈmænədʒərz/",
+      "synonyms": [
+        "supervisor",
+        "head",
+        "director"
+      ]
     },
     "then": {
       "lemma": "then",
       "pos": "adverb",
-      "ko": "그러면, 그 다음에"
+      "ko": "그러면, 그 다음에",
+      "ipa": "/ðɛn/",
+      "synonyms": [
+        "next",
+        "after that",
+        "at that time"
+      ]
     },
     "automatic": {
       "lemma": "automatic",
       "pos": "adjective",
-      "ko": "자동의"
+      "ko": "자동의",
+      "ipa": "/ˌɔːtəˈmætɪk/",
+      "synonyms": [
+        "self-operating",
+        "automated"
+      ]
     },
     "notification": {
       "lemma": "notification",
       "pos": "noun",
-      "ko": "알림, 통지"
+      "ko": "알림, 통지",
+      "ipa": "/ˌnoʊtəfəˈkeɪʃən/",
+      "synonyms": [
+        "notice",
+        "alert",
+        "announcement"
+      ]
     },
     "can": {
       "lemma": "can",
       "pos": "auxiliary",
-      "ko": "~할 수 있다"
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
     },
     "approve": {
       "lemma": "approve",
       "pos": "verb",
-      "ko": "승인하다"
+      "ko": "승인하다",
+      "ipa": "/əˈpruːv/",
+      "synonyms": [
+        "authorize",
+        "accept",
+        "sanction"
+      ]
     },
     "reject": {
       "lemma": "reject",
       "pos": "verb",
-      "ko": "거절하다, 반려하다"
+      "ko": "거절하다, 반려하다",
+      "ipa": "/rɪˈdʒɛkt/",
+      "synonyms": [
+        "decline",
+        "refuse",
+        "turn down"
+      ]
     },
     "single": {
       "lemma": "single",
       "pos": "adjective",
-      "ko": "단 하나의, 한 번의"
+      "ko": "단 하나의, 한 번의",
+      "ipa": "/ˈsɪŋɡəl/",
+      "synonyms": [
+        "one",
+        "sole",
+        "solitary"
+      ]
     },
     "click": {
       "lemma": "click",
       "pos": "noun",
-      "ko": "클릭"
+      "ko": "클릭",
+      "ipa": "/klɪk/",
+      "synonyms": [
+        "tap",
+        "press"
+      ]
     },
     "exceed": {
       "lemma": "exceed",
       "pos": "verb",
-      "ko": "초과하다, 넘다"
+      "ko": "초과하다, 넘다",
+      "ipa": "/ɪkˈsiːd/",
+      "synonyms": [
+        "go over",
+        "surpass",
+        "pass"
+      ]
     },
     "still": {
       "lemma": "still",
       "pos": "adverb",
-      "ko": "여전히, 그래도"
+      "ko": "여전히, 그래도",
+      "ipa": "/stɪl/",
+      "synonyms": [
+        "even so",
+        "yet",
+        "nonetheless"
+      ]
     },
     "require": {
       "lemma": "require",
       "pos": "verb",
-      "ko": "필요로 하다, 요구하다"
+      "ko": "필요로 하다, 요구하다",
+      "ipa": "/ˌriːˈkwaɪər/",
+      "synonyms": [
+        "need",
+        "demand",
+        "oblige"
+      ]
     },
     "second": {
       "lemma": "second",
       "pos": "adjective",
-      "ko": "두 번째의, 추가의"
+      "ko": "두 번째의, 추가의",
+      "ipa": "/ˈsɛkənd/",
+      "synonyms": [
+        "next",
+        "additional",
+        "another"
+      ]
     },
     "approval": {
       "lemma": "approval",
       "pos": "noun",
-      "ko": "승인"
+      "ko": "승인",
+      "ipa": "/əˈpruːvəl/",
+      "synonyms": [
+        "consent",
+        "permission",
+        "authorization"
+      ]
     },
     "as": {
       "lemma": "as",
       "pos": "conjunction",
-      "ko": "~처럼, ~하듯이"
+      "ko": "~처럼, ~하듯이",
+      "ipa": "/æz/"
     },
     "they": {
       "lemma": "they",
       "pos": "pronoun",
-      "ko": "그것들, 그들"
+      "ko": "그것들, 그들",
+      "ipa": "/ðeɪ/"
     },
     "do": {
       "lemma": "do",
       "pos": "verb",
-      "ko": "하다 (앞 동사 대신)"
+      "ko": "하다 (앞 동사 대신)",
+      "ipa": "/duː/"
     },
     "now": {
       "lemma": "now",
       "pos": "adverb",
-      "ko": "지금, 현재"
+      "ko": "지금, 현재",
+      "ipa": "/naʊ/",
+      "synonyms": [
+        "currently",
+        "at present",
+        "today"
+      ]
     },
     "all": {
       "lemma": "all",
       "pos": "determiner",
-      "ko": "모든"
+      "ko": "모든",
+      "ipa": "/ɔːl/"
     },
     "who": {
       "lemma": "who",
       "pos": "pronoun",
-      "ko": "~하는 (사람) (관계대명사)"
+      "ko": "~하는 (사람) (관계대명사)",
+      "ipa": "/huː/"
     },
     "travel": {
       "lemma": "travel",
       "pos": "verb",
-      "ko": "출장 가다, 여행하다"
+      "ko": "출장 가다, 여행하다",
+      "ipa": "/ˈtrævəl/",
+      "synonyms": [
+        "journey",
+        "go",
+        "commute"
+      ]
     },
     "make": {
       "lemma": "make",
       "pos": "verb",
-      "ko": "하다 (make a purchase: 구매하다)"
+      "ko": "하다 (make a purchase: 구매하다)",
+      "ipa": "/meɪk/",
+      "synonyms": [
+        "create",
+        "produce",
+        "cause"
+      ]
     },
     "purchases": {
       "lemma": "purchase",
       "pos": "noun",
       "ko": "구매, 구입",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈpɜːrtʃəsəz/",
+      "synonyms": [
+        "buy",
+        "acquisition",
+        "order"
+      ]
     },
     "behalf": {
       "lemma": "behalf",
       "pos": "noun",
-      "ko": "대신, 대리 (on behalf of: ~을 대표하여)"
+      "ko": "대신, 대리 (on behalf of: ~을 대표하여)",
+      "ipa": "/bɪˈhæf/"
     },
     "company": {
       "lemma": "company",
       "pos": "noun",
-      "ko": "회사"
+      "ko": "회사",
+      "ipa": "/ˈkʌmpəˌniː/",
+      "synonyms": [
+        "firm",
+        "business",
+        "corporation"
+      ]
     },
     "are": {
       "lemma": "be",
       "pos": "auxiliary",
       "ko": "~되다 (수동태)",
-      "form": "현재형 (복수)"
+      "form": "현재형 (복수)",
+      "ipa": "/ɑːr/"
     },
     "required": {
       "lemma": "require",
       "pos": "verb",
       "ko": "요구되다 (be required to: ~해야 하다)",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/riˈkwaɪərd/",
+      "synonyms": [
+        "need",
+        "demand",
+        "oblige"
+      ]
     },
     "attend": {
       "lemma": "attend",
       "pos": "verb",
-      "ko": "참석하다"
+      "ko": "참석하다",
+      "ipa": "/əˈtɛnd/",
+      "synonyms": [
+        "go to",
+        "be present at",
+        "join"
+      ]
     },
     "one-hour": {
       "lemma": "one-hour",
       "pos": "adjective",
-      "ko": "1시간짜리의"
+      "ko": "1시간짜리의",
+      "ipa": "/wʌn-ˈaʊər/",
+      "synonyms": [
+        "hour-long"
+      ]
     },
     "training": {
       "lemma": "training",
       "pos": "noun",
-      "ko": "교육, 연수"
+      "ko": "교육, 연수",
+      "ipa": "/ˈtreɪnɪŋ/",
+      "synonyms": [
+        "education",
+        "instruction",
+        "coaching"
+      ]
     },
     "session": {
       "lemma": "session",
       "pos": "noun",
-      "ko": "(교육) 시간, 회차"
+      "ko": "(교육) 시간, 회차",
+      "ipa": "/ˈsɛʃən/",
+      "synonyms": [
+        "class",
+        "meeting",
+        "period"
+      ]
     },
     "before": {
       "lemma": "before",
       "pos": "conjunction",
-      "ko": "~하기 전에 / ~ 전에"
+      "ko": "~하기 전에 / ~ 전에",
+      "ipa": "/bɪˈfɔːr/"
     },
     "launched": {
       "lemma": "launch",
       "pos": "verb",
       "ko": "시작하다, 도입하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/lɔːntʃt/",
+      "synonyms": [
+        "start",
+        "introduce",
+        "roll out"
+      ]
     },
     "sessions": {
       "lemma": "session",
       "pos": "noun",
       "ko": "(교육) 시간, 회차",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈsɛʃənz/",
+      "synonyms": [
+        "class",
+        "meeting",
+        "period"
+      ]
     },
     "held": {
       "lemma": "hold",
       "pos": "verb",
       "ko": "열다, 개최하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/hɛld/",
+      "synonyms": [
+        "host",
+        "run",
+        "organize"
+      ]
     },
     "in": {
       "lemma": "in",
       "pos": "preposition",
-      "ko": "~에서, ~ 안에 (in person: 직접)"
+      "ko": "~에서, ~ 안에 (in person: 직접)",
+      "ipa": "/ɪn/"
     },
     "main": {
       "lemma": "main",
       "pos": "adjective",
-      "ko": "주된, 본관의"
+      "ko": "주된, 본관의",
+      "ipa": "/meɪn/",
+      "synonyms": [
+        "central",
+        "primary",
+        "principal"
+      ]
     },
     "conference": {
       "lemma": "conference",
       "pos": "noun",
-      "ko": "회의"
+      "ko": "회의",
+      "ipa": "/ˈkɑːnfərəns/",
+      "synonyms": [
+        "meeting",
+        "convention",
+        "session"
+      ]
     },
     "room": {
       "lemma": "room",
       "pos": "noun",
-      "ko": "방, 실(室)"
+      "ko": "방, 실(室)",
+      "ipa": "/ruːm/",
+      "synonyms": [
+        "chamber",
+        "suite",
+        "space"
+      ]
     },
     "june": {
       "lemma": "June",
       "pos": "proper-noun",
-      "ko": "6월"
+      "ko": "6월",
+      "ipa": "/dʒuːn/"
     },
     "those": {
       "lemma": "those",
       "pos": "pronoun",
-      "ko": "(~하는) 사람들"
+      "ko": "(~하는) 사람들",
+      "ipa": "/ðoʊz/"
     },
     "unable": {
       "lemma": "unable",
       "pos": "adjective",
-      "ko": "~할 수 없는"
+      "ko": "~할 수 없는",
+      "ipa": "/əˈneɪbəl/",
+      "synonyms": [
+        "not able",
+        "incapable"
+      ]
     },
     "person": {
       "lemma": "person",
       "pos": "noun",
-      "ko": "사람 (in person: 직접)"
+      "ko": "사람 (in person: 직접)",
+      "ipa": "/ˈpɜːrsən/",
+      "synonyms": [
+        "individual",
+        "human"
+      ]
     },
     "may": {
       "lemma": "may",
       "pos": "auxiliary",
-      "ko": "~해도 된다, ~할 수 있다"
+      "ko": "~해도 된다, ~할 수 있다",
+      "ipa": "/meɪ/"
     },
     "instead": {
       "lemma": "instead",
       "pos": "adverb",
-      "ko": "대신에"
+      "ko": "대신에",
+      "ipa": "/ˌɪnˈstɛd/",
+      "synonyms": [
+        "rather",
+        "in its place"
+      ]
     },
     "complete": {
       "lemma": "complete",
       "pos": "verb",
-      "ko": "완료하다, 이수하다"
+      "ko": "완료하다, 이수하다",
+      "ipa": "/kəmˈpliːt/",
+      "synonyms": [
+        "finish",
+        "end",
+        "conclude"
+      ]
     },
     "tutorial": {
       "lemma": "tutorial",
       "pos": "noun",
-      "ko": "사용 지침 강좌, 튜토리얼"
+      "ko": "사용 지침 강좌, 튜토리얼",
+      "ipa": "/tuˈtɔːriəl/",
+      "synonyms": [
+        "lesson",
+        "guide",
+        "training"
+      ]
     },
     "which": {
       "lemma": "which",
       "pos": "pronoun",
-      "ko": "그리고 그것은 (관계대명사)"
+      "ko": "그리고 그것은 (관계대명사)",
+      "ipa": "/wɪtʃ/"
     },
     "available": {
       "lemma": "available",
       "pos": "adjective",
-      "ko": "이용 가능한"
+      "ko": "이용 가능한",
+      "ipa": "/əˈveɪləbəl/",
+      "synonyms": [
+        "accessible",
+        "usable",
+        "free"
+      ]
     },
     "intranet": {
       "lemma": "intranet",
       "pos": "noun",
-      "ko": "인트라넷, 사내 전산망"
+      "ko": "인트라넷, 사내 전산망",
+      "ipa": "/ˈɪntrəˌnɛt/",
+      "synonyms": [
+        "internal network",
+        "company website"
+      ]
     },
     "starting": {
       "lemma": "start",
       "pos": "verb",
       "ko": "~부터 (시작하여)",
-      "form": "현재분사(-ing)"
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈstɑːrtɪŋ/",
+      "synonyms": [
+        "begin",
+        "launch",
+        "open"
+      ]
     },
     "paper": {
       "lemma": "paper",
       "pos": "noun",
-      "ko": "종이 (paper form: 서면 양식)"
+      "ko": "종이 (paper form: 서면 양식)",
+      "ipa": "/ˈpeɪpər/",
+      "synonyms": [
+        "print",
+        "hard copy"
+      ]
     },
     "forms": {
       "lemma": "form",
       "pos": "noun",
       "ko": "양식, 서식",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/fɔːrmz/",
+      "synonyms": [
+        "document",
+        "sheet",
+        "template"
+      ]
     },
     "no": {
       "lemma": "no",
       "pos": "adverb",
-      "ko": "더 이상 ~않다 (no longer)"
+      "ko": "더 이상 ~않다 (no longer)",
+      "ipa": "/noʊ/"
     },
     "longer": {
       "lemma": "long",
       "pos": "adverb",
       "ko": "더 오래 (no longer: 더 이상 ~않다)",
-      "form": "비교급"
+      "form": "비교급",
+      "ipa": "/ˈlɔːŋɡər/",
+      "synonyms": [
+        "a long time",
+        "at length"
+      ]
     },
     "accepted": {
       "lemma": "accept",
       "pos": "verb",
       "ko": "받아들이다, 접수하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ækˈsɛptɪd/",
+      "synonyms": [
+        "receive",
+        "take",
+        "approve"
+      ]
     },
     "after": {
       "lemma": "after",
       "pos": "preposition",
-      "ko": "~ 이후에"
+      "ko": "~ 이후에",
+      "ipa": "/ˈæftər/"
     },
     "however": {
       "lemma": "however",
       "pos": "adverb",
-      "ko": "하지만, 그러나"
+      "ko": "하지만, 그러나",
+      "ipa": "/ˌhaʊˈɛvər/",
+      "synonyms": [
+        "but",
+        "yet",
+        "still"
+      ]
     },
     "any": {
       "lemma": "any",
       "pos": "determiner",
-      "ko": "어떤 ~이든, 모든"
+      "ko": "어떤 ~이든, 모든",
+      "ipa": "/ˈɛni/"
     },
     "submitted": {
       "lemma": "submit",
       "pos": "verb",
       "ko": "제출된",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/səbˈmɪtɪd/",
+      "synonyms": [
+        "hand in",
+        "turn in",
+        "send"
+      ]
     },
     "date": {
       "lemma": "date",
       "pos": "noun",
-      "ko": "날짜"
+      "ko": "날짜",
+      "ipa": "/deɪt/",
+      "synonyms": [
+        "day",
+        "deadline",
+        "time"
+      ]
     },
     "processed": {
       "lemma": "process",
       "pos": "verb",
       "ko": "처리하다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/ˈprɑːsɛst/",
+      "synonyms": [
+        "handle",
+        "deal with",
+        "complete"
+      ]
     },
     "according": {
       "lemma": "according",
       "pos": "adverb",
-      "ko": "~에 따라 (according to)"
+      "ko": "~에 따라 (according to)",
+      "ipa": "/əˈkɔːrdɪŋ/"
     },
     "existing": {
       "lemma": "existing",
       "pos": "adjective",
-      "ko": "기존의, 현행의"
+      "ko": "기존의, 현행의",
+      "ipa": "/ɪɡˈzɪstɪŋ/",
+      "synonyms": [
+        "current",
+        "present"
+      ]
     },
     "procedure": {
       "lemma": "procedure",
       "pos": "noun",
-      "ko": "절차"
+      "ko": "절차",
+      "ipa": "/prəˈsiːdʒər/",
+      "synonyms": [
+        "process",
+        "steps",
+        "method"
+      ]
     },
     "questions": {
       "lemma": "question",
       "pos": "noun",
       "ko": "질문, 문의",
-      "form": "복수형"
+      "form": "복수형",
+      "ipa": "/ˈkwɛstʃənz/",
+      "synonyms": [
+        "query",
+        "inquiry",
+        "request"
+      ]
     },
     "about": {
       "lemma": "about",
       "pos": "preposition",
-      "ko": "~에 관한"
+      "ko": "~에 관한",
+      "ipa": "/əˈbaʊt/"
     },
     "should": {
       "lemma": "should",
       "pos": "auxiliary",
-      "ko": "~해야 한다"
+      "ko": "~해야 한다",
+      "ipa": "/ʃʊd/"
     },
     "directed": {
       "lemma": "direct",
       "pos": "verb",
       "ko": "(문의를) ~에게 보내다",
-      "form": "과거분사"
+      "form": "과거분사",
+      "ipa": "/dərˈɛktəd/",
+      "synonyms": [
+        "send",
+        "address",
+        "forward"
+      ]
     },
     "marcus": {
       "lemma": "Marcus",
       "pos": "proper-noun",
-      "ko": "마커스 (재무부서 직원 이름)"
+      "ko": "마커스 (재무부서 직원 이름)",
+      "ipa": "/ˈmɑːrkəs/"
     },
     "bell": {
       "lemma": "Bell",
       "pos": "proper-noun",
-      "ko": "벨 (마커스의 성)"
+      "ko": "벨 (마커스의 성)",
+      "ipa": "/bɛl/"
     }
   },
   "questions": [
