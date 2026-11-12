@@ -9,23 +9,21 @@ import { db } from '../lib/db';
 import { formatKo } from '../lib/date';
 import { LevelBadge } from './Home';
 import { useMyLevel } from '../components/LevelChips';
-import { useSettings } from '../lib/settings';
 
 export function LessonList() {
   const { track: tp } = useParams();
   const track = tp as Track;
   const my = useMyLevel(track);
-  const st = useSettings();
   const { summaries, lessons, status } = useLessons();
   const [q, setQ] = useState('');
   const [level, setLevel] = useState<Level | 'all'>(my);
-  const [chapter, setChapter] = useState<Chapter | 'all'>(track === 'toeic' ? st.toeicChapter : 'all');
+  const [chapter, setChapter] = useState<Chapter | 'all'>('all');
   const [genre, setGenre] = useState<string>('all');
   const [done, setDone] = useState<'all' | 'done' | 'todo'>('all');
   const [bm, setBm] = useState(false);
   const [view, setView] = useState<'list' | 'date'>('list');
   useEffect(() => setLevel(my), [my, track]);
-  useEffect(() => setChapter(track === 'toeic' ? st.toeicChapter : 'all'), [st.toeicChapter, track]);
+  useEffect(() => setChapter('all'), [track]);
   const progress = useLiveQuery(() => db.lessonProgress.where('key').startsWith(`${track}/`).toArray(), [track]);
   const attempts = useLiveQuery(() => db.quizAttempt.where('track').equals(track).toArray(), [track]);
   const marks = useLiveQuery(() => db.sentenceMarks.where('lessonKey').startsWith(`${track}/`).toArray(), [track]);

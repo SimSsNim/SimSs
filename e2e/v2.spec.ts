@@ -48,8 +48,7 @@ test('v2. 일반 L2: 샘플에 없으므로 "아직 없음", 앱이 죽지 않�
   const errors: string[] = [];
   page.on('pageerror', (e) => errors.push(String(e)));
   await start(page, './#/general');
-  await expect(page.getByTestId('other-level-2')).toBeDisabled();
-  await expect(page.getByTestId('other-level-2')).toContainText('아직 없음');
+  await expect(page.getByText('오늘 다른 레벨')).toHaveCount(0);
   await page.getByRole('group', { name: '내 레벨' }).getByTestId('level-2').click();
   await expect(page.getByTestId('no-lesson')).toBeVisible();
   await page.getByRole('link', { name: '지문', exact: true }).click();
@@ -78,8 +77,28 @@ test('v3. Part 5 연습 모드: 정답대로 → 10/10, 하나 틀리면 오답�
   await expect(page.getByTestId('quiz-score')).toHaveText('9/10');
   await page.goto('./#/review?tab=wrong');
   await expect(page.getByTestId('wrong-row')).toHaveCount(1);
+  // 필터 칩에 개수
+  await expect(page.getByRole('button', { name: 'L1 1', exact: true })).toBeVisible();
+  await expect(page.getByRole('button', { name: 'L2 0', exact: true })).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Part 5 1', exact: true })).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Part 6 0', exact: true })).toBeVisible();
   await page.goto('./#/toeic');
   await expect(page.getByTestId('part-status-part5')).toHaveText('완료 10/10');
+});
+
+test('v3b. 레슨 ‹ 버튼: 들어오기 전 화면으로(오늘 → 오늘, 지문 목록 → 목록)', async ({ page }) => {
+  await start(page, './#/toeic');
+  await expect(page.getByTestId('chapter-part5')).toHaveCount(0);
+  await page.getByTestId('part-card-part5').click();
+  await page.getByTestId('tab-full').click();
+  await page.getByTestId('tab-quiz').click();
+  await page.getByRole('link', { name: '뒤로' }).click();
+  await expect(page).toHaveURL(/#\/toeic$/);
+  await expect(page.getByTestId('part-cards')).toBeVisible();
+  await page.goto('./#/toeic/list');
+  await page.getByTestId('lesson-item').first().click();
+  await page.getByRole('link', { name: '뒤로' }).click();
+  await expect(page).toHaveURL(/#\/toeic\/list$/);
 });
 
 test('v4. Part 6: 빈칸 [3] → 3번 문제, 답을 고르면 빈칸에 채워짐, 정답 5/5', async ({ page }) => {

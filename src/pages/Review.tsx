@@ -36,8 +36,12 @@ export function Review() {
             <button type="button" role="tab" className={s.segBtn} aria-selected={tab === 'wrong'} onClick={() => setParams({ tab: 'wrong' }, { replace: true })} data-testid="review-wrong">오답노트</button>
           </div>
         </div>
-        <LevelFilterChips value={level} onChange={setLevel} />
-        {tab === 'words' ? <WordbookPanel trackF={trackF} level={level} /> : <WrongNotePanel level={level} />}
+        {tab === 'words' ? (
+          <>
+            <LevelFilterChips value={level} onChange={setLevel} />
+            <WordbookPanel trackF={trackF} level={level} />
+          </>
+        ) : <WrongNotePanel level={level} setLevel={setLevel} />}
       </main>
     </>
   );
@@ -45,7 +49,7 @@ export function Review() {
 
 export interface DrillItem { key: string; lesson: Lesson; q: Question; state?: QuestionStateRow }
 
-function WrongNotePanel({ level }: { level: LevelFilter }) {
+function WrongNotePanel({ level, setLevel }: { level: LevelFilter; setLevel: (v: LevelFilter) => void }) {
   const [params] = useSearchParams();
   const { lessons, status } = useLessons();
   const rows = useLiveQuery(() => db.questionState.where('inWrongNote').equals(1).toArray(), []);
@@ -73,9 +77,23 @@ function WrongNotePanel({ level }: { level: LevelFilter }) {
   const sorted = filtered.slice().sort((a, b) => (sort === 'wrong' ? b.state!.wrongCount - a.state!.wrongCount : b.state!.addedAt - a.state!.addedAt));
   const due = filtered.filter((it) => isDue(it.state!, today));
   const skills = [...new Set(items.map((it) => skillOf(it.q)))];
+  // 칩 옆 개수: 레벨 칩은 Part 필터를, Part 칩은 레벨 필터를 반영
+  const levelCounts: Record<string, number> = { all: 0 };
+  const chapterCounts: Record<string, number> = { all: 0 };
+  for (const it of items) {
+    if (chapter === 'all' || it.lesson.chapter === chapter) {
+      levelCounts.all++;
+      levelCounts[it.lesson.level] = (levelCounts[it.lesson.level] ?? 0) + 1;
+    }
+    if (level === 'all' || it.lesson.level === level) {
+      chapterCounts.all++;
+      chapterCounts[it.lesson.chapter!] = (chapterCounts[it.lesson.chapter!] ?? 0) + 1;
+    }
+  }
 
   return (
     <div data-testid="wrong-note">
+      <LevelFilterChips value={level} onChange={setLevel} counts={levelCounts} />
       <div className={s.seg} role="tablist" aria-label="보기">
         <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'list'} onClick={() => setView('list')}>목록 {filtered.length}</button>
         <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'review'} onClick={() => setView('review')} data-testid="wrong-review-btn">오늘 복습 {due.length}</button>
@@ -86,7 +104,7 @@ function WrongNotePanel({ level }: { level: LevelFilter }) {
       ) : (
         <>
           <div className={s.chips} role="group" aria-label="오답 필터" style={{ marginTop: 8 }}>
-            <FilterChipsGeneric value={chapter} onChange={setChapter} options={[['all', '모든 Part'], ...CHAPTERS.map((c) => [c, CHAPTER_LABEL[c]] as [string, string])]} />
+            <FilterChipsGeneric value={chapter} onChange={setChapter} options={[['all', `모든 Part ${chapterCounts.all}`], ...CHAPTERS.map((c) => [c, `${CHAPTER_LABEL[c]} ${chapterCounts[c] ?? 0}`] as [string, string])]} />
             <select className={s.chip} value={skill} onChange={(e) => setSkill(e.target.value)} aria-label="유형">
               <option value="all">모든 유형</option>
               {skills.map((k) => <option key={k} value={k}>{k}</option>)}

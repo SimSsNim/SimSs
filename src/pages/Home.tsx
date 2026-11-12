@@ -3,8 +3,8 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import { useEffect, useState } from 'react';
 import s from '../styles/ui.module.css';
 import { AppHeader } from '../components/AppHeader';
-import { useLessons, markTrackSeen, pickToday, levelsOn, type LessonSummary } from '../lib/lessons';
-import { TRACKS, TRACK_LABEL, LEVELS, LEVEL_DESC, CHAPTER_LABEL, CHAPTER_COUNT, type Level, type Track } from '../lib/types';
+import { useLessons, markTrackSeen, pickToday, type LessonSummary } from '../lib/lessons';
+import { TRACKS, TRACK_LABEL, CHAPTER_LABEL, CHAPTER_COUNT, type Level, type Track } from '../lib/types';
 import { db, CHECKLIST_KEYS, emptyChecklist, type QuizAttemptRow } from '../lib/db';
 import { CHECKLIST } from '../lib/checklist';
 import { kstDate, addDays, weekdayOf, formatKo, diffDays } from '../lib/date';
@@ -36,7 +36,6 @@ export function attemptStatus(rows: QuizAttemptRow[] | undefined, total: number)
 export function Home() {
   const { track: tp } = useParams();
   const track = tp as Track;
-  const nav = useNavigate();
   const { summaries, status } = useLessons();
   const settings = useSettings();
   const level = useMyLevel(track);
@@ -92,14 +91,6 @@ export function Home() {
     return `${TRACK_LABEL[t]} L${lv}: ${parts.join(' · ')}`;
   };
 
-  const otherLevelDate = mine.date ?? today;
-  const available = levelsOn(summaries, track, otherLevelDate);
-  const openLevel = (lv: Level) => {
-    const list = summaries.filter((x) => x.track === track && x.level === lv && x.date === otherLevelDate && !x.errors);
-    const l = track === 'toeic' ? list.find((x) => x.chapter === settings.toeicChapter) ?? list[0] : list[0];
-    if (l) nav(`/${track}/lesson/${l.id}`);
-  };
-
   return (
     <>
       <AppHeader track={track} levels />
@@ -130,21 +121,6 @@ export function Home() {
             )}
           </>
         )}
-
-        <div className={s.card} style={{ marginTop: 12, padding: 10 }} aria-label="오늘 다른 레벨">
-          <div className={s.small} style={{ fontWeight: 700, marginBottom: 6 }}>오늘 다른 레벨</div>
-          <div className={s.row}>
-            {LEVELS.map((lv) => {
-              const has = available.has(lv);
-              return (
-                <button key={lv} type="button" className={s.chip} disabled={!has} aria-current={lv === level ? 'true' : undefined} data-testid={`other-level-${lv}`}
-                  onClick={() => openLevel(lv)} title={LEVEL_DESC[track][lv]} style={!has ? { opacity: 0.5 } : undefined}>
-                  L{lv} {has ? '' : <span className={s.small}>아직 없음</span>}
-                </button>
-              );
-            })}
-          </div>
-        </div>
 
         <h2 className={s.h2}>기록</h2>
         <div className={s.card} style={{ padding: 10, marginBottom: 8 }} aria-label="하루 목표">

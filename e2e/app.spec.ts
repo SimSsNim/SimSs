@@ -247,11 +247,12 @@ test('8. 레슨 가져오기: 깨진 JSON → 오류, 정상 JSON → 목록에 
   await page.getByTestId('import-run').click();
   await expect(page.getByTestId('import-result')).toContainText('통과');
   await page.goto('./#/toeic/list');
-  await page.getByTestId('chapter-part7').click();
+  await page.getByRole('combobox', { name: 'Part' }).selectOption('part7');
   await expect(page.getByTestId('lesson-item')).toHaveCount(2);
   await expect(page.getByTestId('lesson-item').first()).toContainText('Imported Practice Notice');
   await expect(page.getByTestId('lesson-item').first()).toContainText('가져옴');
   await page.reload();
+  await page.getByRole('combobox', { name: 'Part' }).selectOption('part7');
   await expect(page.getByTestId('lesson-item')).toHaveCount(2);
 
   // 여러 파일 한 번에: 요약 문장

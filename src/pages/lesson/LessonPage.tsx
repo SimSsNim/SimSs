@@ -20,6 +20,7 @@ import { StructureTab } from './StructureTab';
 import { ListenTab } from './ListenTab';
 import { PracticeTab } from './PracticeTab';
 import { useState } from 'react';
+import { backTarget } from '../../lib/backTarget';
 
 export interface TabProps {
   lesson: Lesson;
@@ -118,7 +119,7 @@ export function LessonPage() {
     <>
       <AppHeader track={track} target="stay" sticky={false}>
         <div className={s.row} style={{ flexWrap: 'nowrap', maxWidth: 760, margin: '6px auto 0' }}>
-          <Link to={`/${track}/list`} className={s.iconBtn} aria-label="지문 목록으로" style={{ flex: 'none' }}>‹</Link>
+          <Link to={backTarget(track)} className={s.iconBtn} aria-label="뒤로" style={{ flex: 'none' }}>‹</Link>
           <div className={s.grow}>
             <div style={{ fontFamily: 'var(--serif)', fontWeight: 700, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }} data-testid="lesson-title">
               {lesson?.title ?? summary?.title ?? id}

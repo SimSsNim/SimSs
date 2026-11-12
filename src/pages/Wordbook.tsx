@@ -26,11 +26,11 @@ export function TrackFilterSeg({ value, onChange }: { value: TrackFilter; onChan
 }
 
 export type LevelFilter = 'all' | number;
-export function LevelFilterChips({ value, onChange }: { value: LevelFilter; onChange: (v: LevelFilter) => void }) {
+export function LevelFilterChips({ value, onChange, counts }: { value: LevelFilter; onChange: (v: LevelFilter) => void; counts?: Record<string, number> }) {
   return (
     <div className={s.chips} role="group" aria-label="레벨 필터" style={{ paddingBottom: 2 }}>
       {(['all', 1, 2, 3, 4] as const).map((l) => (
-        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)} style={{ minHeight: 36 }}>{l === 'all' ? '전체' : `L${l}`}</button>
+        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)} style={{ minHeight: 36 }}>{l === 'all' ? '전체' : `L${l}`}{counts ? ` ${counts[l] ?? 0}` : ''}</button>
       ))}
     </div>
   );

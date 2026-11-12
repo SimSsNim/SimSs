@@ -1,4 +1,5 @@
 import { lazy, Suspense, useEffect } from 'react';
+import { useBackTracker } from './lib/backTarget';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
 import { useSettings, setSetting, getSettings } from './lib/settings';
 import { isTrack } from './lib/types';
@@ -18,6 +19,11 @@ const LessonPage = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({
 const LessonRedirect = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonRedirect })));
 import { kstDate } from './lib/date';
 import { loadLessons, getLessonsState } from './lib/lessons';
+
+function BackTracker() {
+  useBackTracker();
+  return null;
+}
 
 function TrackGuard() {
   const { track } = useParams();
@@ -72,6 +78,7 @@ export function App() {
   const { track } = useSettings();
   return (
     <HashRouter>
+      <BackTracker />
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>
         <Route path="/" element={<Navigate to={`/${track}`} replace />} />
