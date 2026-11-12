@@ -28,8 +28,9 @@ export function MiniPlayer() {
     <div className={sh.player} role="region" aria-label="미니 플레이어" data-testid="mini-player">
       <div className={sh.playerBar}><span style={{ width: `${pct}%` }} /></div>
       <div className={sh.playerInner}>
-        <button type="button" className={s.iconBtn} onClick={() => skip(-5)} aria-label={p.mode === 'tts' ? '이전 문장' : '5초 뒤로'}>
-          <span style={{ fontWeight: 800, fontSize: 14 }}>{p.mode === 'tts' ? '⏮' : '−5'}</span>
+        <button type="button" className={s.iconBtn} onClick={() => skip(-5)} title={p.mode === 'tts' ? '이전 문장' : '5초 뒤로'}>
+          <span style={{ fontWeight: 800, fontSize: 14 }} aria-hidden="true">{p.mode === 'tts' ? '⏮' : '−5'}</span>
+          <span className="sr-only">{p.mode === 'tts' ? '이전 문장' : '5초 뒤로'}</span>
         </button>
         <button type="button" className={s.iconBtn} onClick={toggle} aria-label={p.playing ? '일시정지' : '재생'} data-testid="mini-toggle">
           <Icon name={p.playing ? 'pause' : 'play'} />
@@ -41,8 +42,8 @@ export function MiniPlayer() {
             {p.error ? ' · 음원 오류' : ''}
           </span>
         </div>
-        <button type="button" className={sh.rateBtn} onClick={nextRate} aria-label={`재생 속도 ${p.rate}배, 바꾸기`}>
-          {p.rate}×
+        <button type="button" className={sh.rateBtn} onClick={nextRate} title="재생 속도 바꾸기">
+          {p.rate}×<span className="sr-only"> 재생 속도 바꾸기</span>
         </button>
       </div>
     </div>

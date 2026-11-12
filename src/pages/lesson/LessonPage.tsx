@@ -118,7 +118,7 @@ export function LessonPage() {
           ))}
         </nav>
       </div>
-      <main className={s.page} role="tabpanel">{body}</main>
+      <main className={s.page}><div role="tabpanel" aria-label={TABS.find((t) => t.id === tab)?.label}>{body}</div></main>
     </>
   );
 }

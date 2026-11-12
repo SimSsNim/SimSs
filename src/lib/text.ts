@@ -33,19 +33,19 @@ export interface CharDiff {
 }
 
 /**
- * 타이핑 필사 실시간 비교. 원문 글자 하나하나에 대해 입력이 같은지 본다.
+ * 타이핑 필사 실시간 비교. 단어 단위로 맞춰 본 뒤 단어 안에서 글자를 비교한다
+ * (한 글자를 빠뜨려도 뒤 단어들이 줄줄이 틀리지 않게).
  * 따옴표 모양은 항상 같게 본다(“ ” ‘ ’ = " ').
  */
 export function diffChars(target: string, typed: string, o: CompareOptions): CharDiff[] {
-  const out: CharDiff[] = [];
-  const eq = (a: string, b: string) => {
-    if (/\s/.test(a) && /\s/.test(b)) return true;
+  const eqCh = (a: string, b: string) => {
     let x = normalizeQuotes(a);
     let y = normalizeQuotes(b);
     if (o.ignoreCase) {
       x = x.toLowerCase();
       y = y.toLowerCase();
     }
+    PUNCT_RE.lastIndex = 0;
     if (o.ignorePunctuation && PUNCT_RE.test(x)) {
       PUNCT_RE.lastIndex = 0;
       return true;
@@ -53,10 +53,26 @@ export function diffChars(target: string, typed: string, o: CompareOptions): Cha
     PUNCT_RE.lastIndex = 0;
     return x === y;
   };
-  for (let i = 0; i < target.length; i++) {
-    if (i >= typed.length) out.push({ ch: target[i], state: 'pending' });
-    else out.push({ ch: target[i], state: eq(target[i], typed[i]) ? 'ok' : 'bad' });
-  }
+  const tTok = [...target.matchAll(/\S+/g)].map((m) => ({ s: m.index!, text: m[0] }));
+  const uTok = typed.split(/\s+/).filter((w, i, a) => w !== '' || i === a.length - 1);
+  const typedEndsWithSpace = /\s$/.test(typed);
+  const done = typed.trim() === '' ? 0 : typedEndsWithSpace ? uTok.filter(Boolean).length : uTok.filter(Boolean).length - 1;
+  const out: CharDiff[] = [...target].map((ch) => ({ ch, state: 'pending' as CharDiff['state'] }));
+  const words = uTok.filter(Boolean);
+  tTok.forEach((tk, i) => {
+    const u = words[i];
+    if (u === undefined) return;
+    const complete = i < done;
+    for (let k = 0; k < tk.text.length; k++) {
+      const pos = tk.s + k;
+      if (k < u.length) out[pos].state = eqCh(tk.text[k], u[k]) ? 'ok' : 'bad';
+      else if (complete) out[pos].state = 'bad';
+    }
+    if (complete && u.length > tk.text.length) out[tk.s + tk.text.length - 1].state = 'bad';
+    // 단어 뒤 공백
+    const after = tk.s + tk.text.length;
+    if (complete && after < target.length) out[after].state = 'ok';
+  });
   return out;
 }
 

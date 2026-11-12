@@ -41,3 +41,19 @@ describe('타이핑 비교', () => {
     expect(answerEq('  The Moment she ', 'the moment she')).toBe(true);
   });
 });
+
+describe('단어 단위 실시간 비교', () => {
+  const strict = { ignoreCase: false, ignorePunctuation: false };
+  it('한 글자 빠뜨려도 뒤 단어는 맞게 본다', () => {
+    const t = 'piece of cheese in its beak';
+    const d = diffChars(t, 'piece of chese in its beak', strict);
+    const bad = d.map((x, i) => (x.state === 'bad' ? i : -1)).filter((i) => i >= 0);
+    // 'cheese' 안에서만 틀림 표시
+    expect(bad.every((i) => i >= t.indexOf('cheese') && i < t.indexOf('cheese') + 6)).toBe(true);
+    expect(d[t.indexOf('beak')].state).toBe('ok');
+  });
+  it('입력 중인 단어는 남은 글자가 대기 상태', () => {
+    const d = diffChars('said Master', 'said Mas', strict);
+    expect(d.map((x) => x.state).join(',')).toBe('ok,ok,ok,ok,ok,ok,ok,ok,pending,pending,pending');
+  });
+});

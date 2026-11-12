@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { lazy, Suspense, useEffect } from 'react';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
 import { useSettings, setSetting, getSettings } from './lib/settings';
 import { isTrack } from './lib/types';
@@ -7,10 +7,13 @@ import { MiniPlayer } from './components/MiniPlayer';
 import { Toasts } from './components/Toast';
 import { Home } from './pages/Home';
 import { LessonList } from './pages/LessonList';
-import { Wordbook } from './pages/Wordbook';
-import { GrammarAll } from './pages/GrammarAll';
-import { Records } from './pages/Records';
-import { LessonPage, LessonRedirect } from './pages/lesson/LessonPage';
+
+// 첫 화면(홈·목록) 밖은 나눠서 불러온다
+const Wordbook = lazy(() => import('./pages/Wordbook').then((m) => ({ default: m.Wordbook })));
+const GrammarAll = lazy(() => import('./pages/GrammarAll').then((m) => ({ default: m.GrammarAll })));
+const Records = lazy(() => import('./pages/Records').then((m) => ({ default: m.Records })));
+const LessonPage = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonPage })));
+const LessonRedirect = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonRedirect })));
 import { kstDate } from './lib/date';
 import { loadLessons, getLessonsState } from './lib/lessons';
 
@@ -67,6 +70,7 @@ export function App() {
   const { track } = useSettings();
   return (
     <HashRouter>
+      <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>
         <Route path="/" element={<Navigate to={`/${track}`} replace />} />
         <Route path="/words" element={<Wordbook />} />
@@ -81,6 +85,7 @@ export function App() {
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
+      </Suspense>
       <MiniPlayer />
       <BottomNav />
       <Toasts />

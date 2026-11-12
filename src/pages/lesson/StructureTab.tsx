@@ -97,9 +97,9 @@ export function StructureTab({ lesson, lessonKey }: TabProps) {
                 const open = !stepMode || i < opened;
                 return (
                   <button key={i} type="button" className={st.directItem} data-open={open} disabled={open && stepMode}
-                    onClick={() => stepMode && setOpened(Math.max(opened, i + 1))} aria-label={open ? `${c.text}: ${c.ko}` : `${i + 1}번째 조각 뜻 열기`}>
-                    <small style={{ color: open ? undefined : 'transparent' }}>{c.text}</small>
-                    {open ? c.ko : '?'}
+                    onClick={() => stepMode && setOpened(Math.max(opened, i + 1))}>
+                    <small style={{ color: open ? undefined : 'transparent' }} aria-hidden={!open}>{c.text}</small>
+                    {open ? c.ko : <><span aria-hidden="true">?</span><span className="sr-only">{i + 1}번째 조각 뜻 열기</span></>}
                   </button>
                 );
               })}

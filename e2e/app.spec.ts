@@ -254,7 +254,7 @@ test('원음 레슨 듣기 탭: 컨트롤과 구간 맞추기', async ({ page })
     const a = document.querySelector('audio');
     return a ? (a as HTMLAudioElement).preservesPitch : 'none';
   });
-  expect(pitch === true || pitch === 'none').toBe(true);
+  expect(pitch).toBe(true);
   await page.getByTestId('listen-toggle').click();
   await page.getByText('구간 맞추기 시작').click();
   for (let i = 0; i < 6; i++) {

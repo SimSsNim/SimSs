@@ -60,6 +60,8 @@ export function Home() {
   let weekDays = 0;
   for (let i = 0; i < 7; i++) if (days.has(addDays(monday, i))) weekDays++;
   const due = (dueWords ?? []).filter((w) => isDue(w, today)).length;
+  const todayLog = (daily ?? []).find((d) => d.date === today);
+  const todayMin = Math.round((todayLog?.seconds ?? 0) / 60);
 
   const progOf = (key?: string) => progress?.find((p) => p?.key === key);
   const mineProg = progOf(mine.lesson?.key);
@@ -128,6 +130,13 @@ export function Home() {
         )}
 
         <h2 className={s.h2}>기록</h2>
+        <div className={s.card} style={{ padding: 10, marginBottom: 8 }} aria-label="하루 목표">
+          <div className={s.between + ' ' + s.small}>
+            <span>오늘 {todayMin}분 / 목표 {settings.dailyGoalMinutes}분</span>
+            <span>레슨 {todayLog?.lessonsTouched.length ?? 0} / {settings.dailyGoalLessons}개</span>
+          </div>
+          <div className={s.progressBar} style={{ marginTop: 6 }}><span style={{ width: `${Math.min(100, (todayMin / settings.dailyGoalMinutes) * 100)}%` }} /></div>
+        </div>
         <div className={s.row} style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)' }}>
           <Stat label="연속 학습" value={`${streak}일`} />
           <Link to="/words?review=1" style={{ textDecoration: 'none', color: 'inherit' }}><Stat label="오늘 복습 단어" value={`${due}개`} /></Link>

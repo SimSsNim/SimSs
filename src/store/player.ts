@@ -69,6 +69,9 @@ function el(): HTMLAudioElement {
   if (audio) return audio;
   const a = new Audio();
   a.preload = 'metadata';
+  a.hidden = true;
+  a.setAttribute('aria-hidden', 'true');
+  document.body.appendChild(a); // 하나뿐인 오디오 요소(화면에는 안 보임)
   a.preservesPitch = true;
   (a as HTMLAudioElement & { webkitPreservesPitch?: boolean }).webkitPreservesPitch = true;
   a.addEventListener('timeupdate', onTime);

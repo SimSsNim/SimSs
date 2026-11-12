@@ -55,7 +55,7 @@ function Stats() {
   const [picked, setPicked] = useState<string | null>(null);
   const today = kstDate();
   const byDate = new Map((daily ?? []).map((d) => [d.date, d]));
-  const weeks = 18;
+  const weeks = 12;
   const lastSunday = addDays(today, -weekdayOf(today));
   const start = addDays(lastSunday, -7 * (weeks - 1));
   const cells: { date: string; level: number }[] = [];
@@ -94,12 +94,12 @@ function Stats() {
       </div>
       <section className={s.card}>
         <b>학습 캘린더</b> <span className={s.small + ' ' + s.muted}>최근 {weeks}주 · 날짜를 누르면 그날 한 일</span>
-        <div role="grid" aria-label="학습 캘린더" style={{ display: 'grid', gridTemplateRows: 'repeat(7, 1fr)', gridAutoFlow: 'column', gap: 3, marginTop: 8, overflowX: 'auto' }}>
+        <div role="group" aria-label="학습 캘린더" style={{ display: 'grid', gridTemplateRows: 'repeat(7, 1fr)', gridAutoFlow: 'column', gap: 3, marginTop: 8, maxWidth: 520 }}>
           {cells.map((c) => (
-            <button key={c.date} type="button" role="gridcell" disabled={c.level < 0} onClick={() => setPicked(c.date)}
+            <button key={c.date} type="button" disabled={c.level < 0} onClick={() => setPicked(c.date)}
               aria-label={`${c.date} ${c.level > 0 ? '학습함' : '학습 안 함'}`} aria-pressed={picked === c.date}
               style={{
-                width: '100%', aspectRatio: '1', minWidth: 12, border: picked === c.date ? '2px solid var(--text)' : '1px solid var(--line)', borderRadius: 3, padding: 0, cursor: 'pointer',
+                width: '100%', aspectRatio: '1', minWidth: 24, border: picked === c.date ? '2px solid var(--text)' : '1px solid var(--line)', borderRadius: 3, padding: 0, cursor: 'pointer',
                 background: c.level < 0 ? 'transparent' : c.level === 0 ? 'var(--surface-2)' : `color-mix(in srgb, var(--accent) ${[0, 35, 55, 75, 100][c.level]}%, var(--surface))`,
               }} />
           ))}

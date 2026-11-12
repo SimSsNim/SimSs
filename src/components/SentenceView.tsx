@@ -24,15 +24,17 @@ export function SentenceText(props: {
   return (
     <>
       {pieces.map((p, i) => {
-        const cls = [p.vocabId ? s.hlVocab : '', p.grammarId ? s.hlGrammar : '', p.slashBefore ? r.slash : '', p.word && props.onWord ? r.word : '']
+        const cls = [p.vocabId ? s.hlVocab : '', p.grammarId ? s.hlGrammar : '', p.word && props.onWord ? r.word : '']
           .filter(Boolean).join(' ');
-        if (!cls) return <span key={i}>{p.text}</span>;
+        // 끊어 읽기 '/' 는 하이라이트 밖, CSS 의사 요소로만 그린다(텍스트에는 안 들어감)
+        const slash = p.slashBefore ? <span className={r.slash} aria-hidden="true" /> : null;
+        if (!cls) return <span key={i}>{slash}{p.text}</span>;
         const v = p.vocabId ? props.vocab?.find((x) => x.id === p.vocabId) : undefined;
         return (
-          <span key={i} className={cls} data-vocab={p.vocabId} data-grammar={p.grammarId}
+          <span key={i} style={{ display: 'contents' }}>{slash}<span className={cls} data-vocab={p.vocabId} data-grammar={p.grammarId}
             onClick={p.word && props.onWord ? (e) => { e.stopPropagation(); props.onWord!(p.word!, v); } : undefined}>
             {p.text}
-          </span>
+          </span></span>
         );
       })}
     </>
