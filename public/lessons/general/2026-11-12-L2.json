@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-12-L2",
+  "date": "2026-11-12",
+  "level": 2,
+  "title": "The North Wind and the Sun",
+  "titleKo": "북풍과 해",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Persuasion is better than force'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_22_aesop.mp3",
+    "mp3Low": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_22_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-1-fables-1-25",
+    "reader": "Alice Elizabeth Still",
+    "durationSec": 81,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 01, 22번 트랙. 앞부분에 LibriVox 안내 멘트가 있고, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 157,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "북풍과 해 사이에 말다툼이 벌어졌는데, 서로 자기가 더 힘이 세다고 우겼다. 마침내 그들은 한 나그네에게 힘을 겨뤄 보기로 했다. 누가 더 빨리 그의 외투를 벗길 수 있는지 보려는 것이었다. 북풍이 먼저 해 보았다. 북풍은 공격하려고 온 힘을 끌어모아 그 사람에게 사납게 휘몰아쳐 내려왔고, 단번에 외투를 빼앗기라도 할 듯이 확 잡아챘다. 하지만 북풍이 세게 불면 불수록, 그 사람은 외투를 더욱 단단히 몸에 감쌌다. 그다음은 해의 차례였다. 처음에 해는 나그네를 부드럽게 비추었다. 그러자 나그네는 곧 외투 단추를 풀고, 외투를 어깨에 느슨하게 걸친 채 계속 걸어갔다. 그다음 해가 있는 힘껏 쨍쨍 내리쬐자, 그 사람은 몇 걸음 가지도 않아 기꺼이 외투를 훌렁 벗어 던지고 한결 가벼운 차림으로 길을 마저 갔다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A dispute arose between the North Wind and the Sun, each claiming that he was stronger than the other.",
+      "ko": "북풍과 해 사이에 말다툼이 벌어졌는데, 서로 자기가 더 힘이 세다고 우겼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "At last they agreed to try their powers upon a traveller, to see which could soonest strip him of his cloak.",
+      "ko": "마침내 그들은 한 나그네에게 힘을 겨뤄 보기로 했다. 누가 더 빨리 그의 외투를 벗길 수 있는지 보려는 것이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The North Wind had the first try; and, gathering up all his force for the attack, he came whirling furiously down upon the man, and caught up his cloak as though he would wrest it from him by one single effort: but the harder he blew, the more closely the man wrapped it round himself.",
+      "ko": "북풍이 먼저 해 보았다. 북풍은 공격하려고 온 힘을 끌어모아 그 사람에게 사납게 휘몰아쳐 내려왔고, 단번에 외투를 빼앗기라도 할 듯이 확 잡아챘다. 하지만 북풍이 세게 불면 불수록, 그 사람은 외투를 더욱 단단히 몸에 감쌌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Then came the turn of the Sun.",
+      "ko": "그다음은 해의 차례였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "At first he beamed gently upon the traveller, who soon unclasped his cloak and walked on with it hanging loosely about his shoulders: then he shone forth in his full strength, and the man, before he had gone many steps, was glad to throw his cloak right off and complete his journey more lightly clad.",
+      "ko": "처음에 해는 나그네를 부드럽게 비추었다. 그러자 나그네는 곧 외투 단추를 풀고, 외투를 어깨에 느슨하게 걸친 채 계속 걸어갔다. 그다음 해가 있는 힘껏 쨍쨍 내리쬐자, 그 사람은 몇 걸음 가지도 않아 기꺼이 외투를 훌렁 벗어 던지고 한결 가벼운 차림으로 길을 마저 갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "dispute",
+      "pos": "noun",
+      "meaningKo": "논쟁, 말다툼",
+      "ipa": "/dɪˈspjuːt/",
+      "matchText": "dispute",
+      "sentenceId": "s1",
+      "example": {
+        "en": "They had a dispute about money.",
+        "ko": "그들은 돈 문제로 말다툼을 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "claim",
+      "pos": "verb",
+      "meaningKo": "(사실이라고) 주장하다",
+      "ipa": "/kleɪm/",
+      "matchText": "claiming",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He claims that he saw a ghost.",
+        "ko": "그는 유령을 봤다고 주장한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "strip A of B",
+      "pos": "phrase",
+      "meaningKo": "A에게서 B를 벗기다·빼앗다",
+      "ipa": null,
+      "matchText": "strip him of his cloak",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The storm stripped the tree of its leaves.",
+        "ko": "폭풍이 나무에서 잎을 다 떨어뜨렸다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "wrest",
+      "pos": "verb",
+      "meaningKo": "(힘껏) 비틀어 빼앗다",
+      "ipa": "/rest/",
+      "matchText": "wrest",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She wrested the bag from the thief.",
+        "ko": "그녀는 도둑에게서 가방을 비틀어 빼앗았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "clad",
+      "pos": "adjective",
+      "meaningKo": "(옷을) 입은, ~ 차림의",
+      "ipa": "/klæd/",
+      "matchText": "clad",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The children were clad in warm coats.",
+        "ko": "아이들은 따뜻한 외투를 입고 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A dispute",
+          "role": "S",
+          "sub": false,
+          "ko": "말다툼이"
+        },
+        {
+          "text": "arose",
+          "role": "V",
+          "sub": false,
+          "ko": "생겼다"
+        },
+        {
+          "text": "between the North Wind and the Sun,",
+          "role": "M",
+          "sub": false,
+          "ko": "북풍과 해 사이에"
+        },
+        {
+          "text": "each",
+          "role": "S",
+          "sub": true,
+          "ko": "각자가"
+        },
+        {
+          "text": "claiming",
+          "role": "V",
+          "sub": true,
+          "ko": "주장하면서"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "자기가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~이다"
+        },
+        {
+          "text": "stronger than the other.",
+          "role": "C",
+          "sub": true,
+          "ko": "상대보다 더 힘센"
+        }
+      ],
+      "skeleton": "A dispute arose (말다툼이 생겼다)",
+      "explanation": "arose는 arise(생기다)의 과거형으로 목적어가 필요 없는 1형식 동사예요. 'each claiming ~'은 each가 의미상 주어인 분사구문으로 '각자 ~라고 주장하면서'라는 뜻이고, 그 안의 that절이 claiming의 목적어(무엇을 주장했는지)예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "At last",
+          "role": "M",
+          "sub": false,
+          "ko": "마침내"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "agreed",
+          "role": "V",
+          "sub": false,
+          "ko": "동의했다"
+        },
+        {
+          "text": "to try their powers upon a traveller,",
+          "role": "O",
+          "sub": false,
+          "ko": "한 나그네에게 힘을 시험해 보기로"
+        },
+        {
+          "text": "to see",
+          "role": "M",
+          "sub": true,
+          "ko": "보기 위해"
+        },
+        {
+          "text": "which",
+          "role": "S",
+          "sub": true,
+          "ko": "어느 쪽이"
+        },
+        {
+          "text": "could soonest strip",
+          "role": "V",
+          "sub": true,
+          "ko": "가장 빨리 벗길 수 있는지"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그에게서"
+        },
+        {
+          "text": "of his cloak.",
+          "role": "M",
+          "sub": true,
+          "ko": "그의 외투를"
+        }
+      ],
+      "skeleton": "they agreed to try ~ (그들은 ~해 보기로 합의했다)",
+      "explanation": "agree는 to부정사를 목적어로 써서 '~하기로 합의하다'가 돼요. 뒤의 'to see ~'는 목적(~을 알아보려고)을 나타내는 to부정사이고, which가 이끄는 절은 see의 목적어 역할을 하는 의문사절이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Then",
+          "role": "M",
+          "sub": false,
+          "ko": "그러고 나서"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "왔다"
+        },
+        {
+          "text": "the turn of the Sun.",
+          "role": "S",
+          "sub": false,
+          "ko": "해의 차례가"
+        }
+      ],
+      "skeleton": "came the turn (차례가 왔다 → 도치)",
+      "explanation": "원래 어순은 'The turn of the Sun came then.'이에요. Then 같은 부사가 앞으로 나오면서 동사(came)가 주어(the turn of the Sun) 앞으로 나간 도치 문장이에요. 이야기의 장면 전환을 생생하게 보여 줘요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "the 비교급 ~, the 비교급 … (~할수록 더 …하다)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "the harder he blew, the more closely the man wrapped it"
+      ],
+      "explanation": "'the + 비교급 + 주어 + 동사, the + 비교급 + 주어 + 동사' 형태로 '~하면 할수록 더 …하다'라는 뜻이에요. 바람이 세게 불수록(the harder) 남자가 더 꽁꽁(the more closely) 외투를 감쌌다는 것이죠.",
+      "example": {
+        "en": "The more you practice, the better you get.",
+        "ko": "연습을 많이 할수록 더 잘하게 된다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as though + 가정 (마치 ~인 것처럼)",
+      "tags": [
+        "가정법",
+        "접속사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "as though he would wrest it from him"
+      ],
+      "explanation": "as though(= as if)는 '마치 ~인 것처럼'이라는 뜻이에요. 실제로 단번에 빼앗은 건 아니지만 그럴 기세였다는 느낌을 would로 표현했어요.",
+      "example": {
+        "en": "He talks as though he knew everything.",
+        "ko": "그는 마치 모든 걸 아는 것처럼 말한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "with + 목적어 + 분사 (~한 채로)",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "with it hanging loosely about his shoulders"
+      ],
+      "explanation": "'with + 명사 + -ing/p.p.'는 '~가 …한 채로'라는 동시 상황을 나타내요. 여기서는 외투(it)가 어깨에 느슨하게 걸쳐진(hanging) 채로 걸어갔다는 뜻이에요.",
+      "example": {
+        "en": "She sat with her eyes closed.",
+        "ko": "그녀는 눈을 감은 채 앉아 있었다."
+      },
+      "note": null
+    }
+  ]
+}
