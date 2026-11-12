@@ -40,8 +40,9 @@ export default defineConfig({
           },
           {
             urlPattern: ({ url }) => /\/lessons\/(general|toeic)\/[^/]+\.json$/.test(url.pathname),
-            handler: 'StaleWhileRevalidate',
-            options: { cacheName: 'lessons', expiration: { maxEntries: 2000 } },
+            // 온라인이면 항상 새 파일(형식이 바뀌어도 옛 사본 때문에 사라지지 않게), 오프라인이면 저장본
+            handler: 'NetworkFirst',
+            options: { cacheName: 'lessons', networkTimeoutSeconds: 5, expiration: { maxEntries: 2000 } },
           },
         ],
       },

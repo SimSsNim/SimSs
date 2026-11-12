@@ -532,3 +532,36 @@ async function qTab(page: Page) {
   const t = page.getByTestId('p7-tab-question');
   if (await t.isVisible()) await t.click();
 }
+
+test('v24. 옛 레슨 사본(형식이 바뀌기 전)이 와도 지문이 사라지지 않음', async ({ page }) => {
+  let staleServed = 0;
+  // 서비스 워커·브라우저 캐시에 남은 옛 사본 흉내: 쿼리 없이 요청하면 glossary 없는 파일을 준다
+  await page.route(/\/lessons\/toeic\/2026-11-12-L1-part5\.json(\?.*)?$/, async (route) => {
+    const url = route.request().url();
+    const res = await route.fetch();
+    const d = (await res.json()) as Record<string, unknown>;
+    if (!url.includes('?r=')) { delete d.glossary; staleServed++; }
+    await route.fulfill({ response: res, json: d });
+  });
+  await start(page, './#/toeic');
+  await expect(page.getByTestId('part-card-part5')).toBeVisible();
+  await page.reload();
+  await page.waitForTimeout(1500);
+  await expect(page.getByTestId('part-card-part5')).toBeVisible();
+  await expect(page.getByTestId('no-lesson')).toHaveCount(0);
+  expect(staleServed).toBeGreaterThan(0);
+});
+
+test('v25. 새 파일이 검증에 실패해도 전에 받아 둔 정상 사본은 계속 보임', async ({ page }) => {
+  await start(page, './#/toeic');
+  await expect(page.getByTestId('part-card-part5')).toBeVisible();
+  await page.route(/\/lessons\/toeic\/2026-11-12-L1-part5\.json(\?.*)?$/, async (route) => {
+    const res = await route.fetch();
+    const d = (await res.json()) as Record<string, unknown>;
+    delete d.glossary;
+    await route.fulfill({ response: res, json: d });
+  });
+  await page.reload();
+  await page.waitForTimeout(1500);
+  await expect(page.getByTestId('part-card-part5')).toBeVisible();
+});

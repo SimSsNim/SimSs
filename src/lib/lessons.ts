@@ -133,14 +133,29 @@ async function doLoad() {
 
   await mapLimit(entries, 4, async (e) => {
     const key = lessonKeyOf(e.track, e.id);
-    try {
-      const res = await fetch(`${base()}lessons/${e.file}`);
+    const [folder, file] = e.file.split('/');
+    const check = (data: unknown) => validateLesson(data, { folderTrack: folder, fileStem: file.replace(/\.json$/, ''), requireGlossary: true });
+    const get = async (bust: boolean) => {
+      // bust: 서비스 워커·브라우저에 남은 옛 사본을 건너뛰고 서버에서 새로 받는다
+      const res = await fetch(`${base()}lessons/${e.file}${bust ? `?r=${Date.now()}` : ''}`, bust ? { cache: 'no-store' } : undefined);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data: unknown = await res.json();
-      const [folder, file] = e.file.split('/');
-      const errors = validateLesson(data, { folderTrack: folder, fileStem: file.replace(/\.json$/, ''), requireGlossary: true });
+      return (await res.json()) as unknown;
+    };
+    try {
+      let data = await get(false);
+      let errors = check(data);
       if (errors.length) {
-        byKey.set(key, summarizeEntry(e, errors));
+        // 옛 사본일 수 있음(레슨 형식이 바뀐 직후) → 한 번 새로 받아 본다
+        try {
+          const fresh = await get(true);
+          const freshErr = check(fresh);
+          if (freshErr.length < errors.length || !freshErr.length) { data = fresh; errors = freshErr; }
+        } catch { /* 오프라인 */ }
+      }
+      if (errors.length) {
+        // 전에 받아 둔 정상 사본이 있으면 그걸 계속 보여 준다(사라지지 않게)
+        if (!lessons[key]) byKey.set(key, summarizeEntry(e, errors));
+        else console.warn(`레슨 ${key} 새 파일 검증 실패, 저장된 사본 사용`, errors);
       } else {
         const raw = data as RawLesson;
         const l = toViewLesson(raw);

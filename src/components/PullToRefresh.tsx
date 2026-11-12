@@ -71,8 +71,17 @@ export function PullToRefresh() {
 async function refresh() {
   try {
     const reg = await navigator.serviceWorker?.getRegistration();
-    // 새 버전 앱이 있으면 받아 두고(최대 1.5초) 다시 불러온다
+    // 새 버전 앱이 있으면 받아 두고(최대 1.5초)
     await Promise.race([reg?.update(), new Promise((r) => setTimeout(r, 1500))]);
+    // 기다리는 새 버전이 있으면 바로 적용한 뒤 다시 불러온다
+    if (reg?.waiting && navigator.serviceWorker.controller) {
+      const switched = new Promise((r) => {
+        navigator.serviceWorker.addEventListener('controllerchange', r, { once: true });
+        setTimeout(r, 3000);
+      });
+      reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+      await switched;
+    }
   } catch { /* 오프라인 등 */ }
   window.location.reload();
 }
