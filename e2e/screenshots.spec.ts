@@ -23,11 +23,11 @@ test('주요 화면 캡처', async ({ page }) => {
   await page.screenshot({ path: `${dir}/01-home.png` });
 
   await page.goto(`${G}/full`);
-  await page.getByRole('button', { name: '문장마다 번역' }).click();
-  await page.getByRole('button', { name: '끊어 읽기 /' }).click();
+  await page.getByRole('button', { name: '문장별 번역' }).click();
+  await page.getByRole('button', { name: '끊어읽기 /' }).click();
   await page.screenshot({ path: `${dir}/02-full-text.png` });
-  await page.getByRole('button', { name: '영어만' }).click();
-  await page.getByRole('button', { name: '✓ 끊어 읽기 /' }).click();
+  await page.getByRole('button', { name: '영어', exact: true }).click();
+  await page.getByRole('button', { name: '✓끊어읽기 /' }).click();
 
   await page.goto(`${G}/vocab`);
   await page.getByTestId('vocab-flash').click();

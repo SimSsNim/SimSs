@@ -41,12 +41,21 @@ for (const track of ['general', 'toeic'] as const) {
       ps.map((p) => [...p.querySelectorAll('[data-sentence]')].map((s) => s.textContent).join(' ')));
     expect(paras).toEqual(paraTexts(L[track]));
     // 끊어 읽기 표시를 켜도 텍스트는 그대로(/ 는 CSS 의사 요소)
-    await page.getByRole('button', { name: '끊어 읽기 /' }).click();
+    await page.getByRole('button', { name: '끊어읽기 /' }).click();
     const again = await article.locator('[data-sentence]').evaluateAll((ss) => ss.map((s) => s.textContent).join(' '));
     expect(again).toBe(paraTexts(L[track]).join(' '));
     await noHScroll(page);
   });
 }
+
+test('읽기 설정은 두 줄 안에 들어간다(모든 토글을 켜도)', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  for (const name of ['문법', '끊어읽기 /', '번역 숨김']) await page.getByRole('button', { name, exact: true }).click();
+  const rows = async (tid: string) => page.getByTestId(tid).locator('> *').evaluateAll((els) => new Set(els.map((e) => Math.round(e.getBoundingClientRect().top))).size);
+  expect(await rows('display-modes')).toBe(1);
+  expect(await rows('reading-toggles')).toBe(1);
+  await noHScroll(page);
+});
 
 test('1-1. 트랙 전환: 목록·오늘 카드가 바뀌고 마지막 위치와 진행 기록은 따로', async ({ page }) => {
   await start(page, './#/general');

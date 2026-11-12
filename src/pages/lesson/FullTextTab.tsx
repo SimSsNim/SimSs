@@ -13,10 +13,10 @@ import { autoCheck } from '../../lib/progress';
 import { blankedSentence } from '../../lib/validateLesson';
 
 const MODES: { id: DisplayMode; label: string }[] = [
-  { id: 'en', label: '영어만' },
-  { id: 'ko', label: '한글만' },
-  { id: 'both-sentence', label: '문장마다 번역' },
-  { id: 'both-paragraph', label: '단락 뒤 번역' },
+  { id: 'en', label: '영어' },
+  { id: 'ko', label: '한글' },
+  { id: 'both-sentence', label: '문장별 번역' },
+  { id: 'both-paragraph', label: '단락별 번역' },
 ];
 
 export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
@@ -55,19 +55,20 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
 
   return (
     <div>
-      <div className={s.chips} role="group" aria-label="표시 모드">
+      {/* 두 줄: ① 표시 모드 ② 켜고 끄기 */}
+      <div className={`${s.seg} ${r.modeSeg}`} role="group" aria-label="표시 모드" data-testid="display-modes">
         {MODES.map((m) => (
-          <button key={m.id} type="button" className={s.chip} aria-pressed={st.displayMode === m.id} onClick={() => setSetting('displayMode', m.id)}>{m.label}</button>
+          <button key={m.id} type="button" className={s.segBtn} aria-pressed={st.displayMode === m.id} onClick={() => setSetting('displayMode', m.id)}>{m.label}</button>
         ))}
       </div>
-      <div className={r.toolbar}>
-        <Toggle on={st.hlVocab} set={(v) => setSetting('hlVocab', v)} label="단어 강조" />
-        <Toggle on={st.hlGrammar} set={(v) => setSetting('hlGrammar', v)} label="문법 강조" />
-        <Toggle on={st.showSlashes} set={(v) => setSetting('showSlashes', v)} label="끊어 읽기 /" />
-        <Toggle on={st.hideTranslation} set={(v) => { setSetting('hideTranslation', v); setRevealed(new Set()); }} label="번역 가리기" />
-        <details>
-          <summary className={s.chip} style={{ listStyle: 'none' }}>Aa 글자</summary>
-          <div className={s.card} style={{ position: 'absolute', zIndex: 30, marginTop: 4, width: 260 }}>
+      <div className={r.toolbar} data-testid="reading-toggles">
+        <Toggle on={st.hlVocab} set={(v) => setSetting('hlVocab', v)} label="단어" title="핵심 단어 강조" />
+        <Toggle on={st.hlGrammar} set={(v) => setSetting('hlGrammar', v)} label="문법" title="문법 강조" />
+        <Toggle on={st.showSlashes} set={(v) => setSetting('showSlashes', v)} label="끊어읽기 /" title="끊어 읽기 표시" />
+        <Toggle on={st.hideTranslation} set={(v) => { setSetting('hideTranslation', v); setRevealed(new Set()); }} label="번역 숨김" title="번역 가리기(탭하면 그 문장만 보임)" />
+        <details className={r.fontMenu}>
+          <summary className={`${s.chip} ${r.tchip}`} style={{ listStyle: 'none' }} title="글자 크기·줄 간격·글꼴">Aa</summary>
+          <div className={s.card} style={{ position: 'absolute', zIndex: 30, marginTop: 4, width: 260, right: 0 }}>
             <div className={s.row}>
               {[0, 1, 2, 3].map((n) => (
                 <button key={n} type="button" className={s.chip} aria-pressed={st.fontSize === n} onClick={() => setSetting('fontSize', n as 0 | 1 | 2 | 3)}
@@ -84,7 +85,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
           </div>
         </details>
       </div>
-      <p className={s.small + ' ' + s.muted} style={{ marginTop: 0 }}>단어를 누르면 뜻, 문장을 길게 누르면(또는 Enter) 메뉴가 열려요.</p>
+      <p className={s.small + ' ' + s.muted} style={{ marginTop: 0 }}>단어 누르기 → 뜻 · 문장 길게 누르기 → 메뉴</p>
 
       <article className={`${s.reading} ${st.serif ? '' : s.sansReading}`} lang="en" data-testid="full-text">
         {(() => {
@@ -155,10 +156,10 @@ function SentenceSpan({ sentence, current, bookmarked, hard, onLong, children }:
   );
 }
 
-export function Toggle({ on, set, label }: { on: boolean; set: (v: boolean) => void; label: string }) {
+export function Toggle({ on, set, label, title }: { on: boolean; set: (v: boolean) => void; label: string; title?: string }) {
   return (
-    <button type="button" className={s.chip} aria-pressed={on} onClick={() => set(!on)}>
-      {on ? '✓ ' : ''}{label}
+    <button type="button" className={`${s.chip} ${r.tchip}`} aria-pressed={on} onClick={() => set(!on)} title={title}>
+      {on ? '✓' : ''}{label}
     </button>
   );
 }
