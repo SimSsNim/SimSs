@@ -47,6 +47,8 @@ npm run build        # 타입 검사 + 프로덕션 빌드(dist/)
 
 파일을 하나 추가해서 `main` 에 push 하세요(예약 작업이 매일 자동으로 올립니다).
 
+예약 작업 프롬프트는 [`prompts/general_daily.md`](prompts/general_daily.md)(일반 필사)와 [`prompts/toeic_daily.md`](prompts/toeic_daily.md)(토익 Part 5·6·7)입니다. 작업은 4개로 나눠 첫 줄만 `처리할 레벨: 1, 2` / `처리할 레벨: 3, 4` 로 바꿔 씁니다. 저장소 `SimSsNim/SimSs` 를 연결해야 레슨이 자동으로 올라갑니다.
+
 ```
 public/lessons/general/2026-11-13-L1.json          # 일반 필사 L1 (L1~L4)
 public/lessons/toeic/2026-11-13-L1-part5.json      # 토익 L1 Part 5 (10문제)
