@@ -8,3 +8,4 @@ coverage
 *.local
 *.tsbuildinfo
 tests/.tmp-id
+__pycache__/
