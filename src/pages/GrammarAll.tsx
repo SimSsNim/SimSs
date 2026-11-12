@@ -5,7 +5,7 @@ import { DatePick } from '../components/DatePick';
 import { AppHeader } from '../components/AppHeader';
 import { useLessons } from '../lib/lessons';
 import { db } from '../lib/db';
-import { GrammarCard } from '../components/GrammarCard';
+import { GrammarCard, ExamplesToggleAll } from '../components/GrammarCard';
 import { useSettings } from '../lib/settings';
 import { lessonKeyOf } from '../lib/types';
 import { TrackFilterSeg, LevelFilterChips, type TrackFilter, type LevelFilter } from './Wordbook';
@@ -41,6 +41,7 @@ export function GrammarAll() {
           ))}
         </div>
         <label className={s.check}><input type="checkbox" checked={reviewOnly} onChange={(e) => setReviewOnly(e.target.checked)} />"다시 볼래요"만 보기</label>
+        <ExamplesToggleAll />
         <ul className={s.list}>
           {shown.map((p) => <GrammarCard key={`${p.lk}:${p.g.id}`} lesson={p.l} g={p.g} lessonKey={p.lk} state={stMap.get(`${p.lk}:${p.g.id}`)} showLesson />)}
           {shown.length === 0 && <li className={s.empty}>문법 포인트가 없어요.</li>}

@@ -3,7 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../../styles/ui.module.css';
 import type { TabProps } from './LessonPage';
 import { db } from '../../lib/db';
-import { GrammarCard } from '../../components/GrammarCard';
+import { GrammarCard, ExamplesToggleAll } from '../../components/GrammarCard';
 import { autoCheck, logPractice } from '../../lib/progress';
 import { answerEq } from '../../lib/text';
 import type { Lesson } from '../../lib/types';
@@ -17,6 +17,7 @@ export function GrammarTab({ lesson, lessonKey }: TabProps) {
   if (!lesson.grammar.length) return <p className={s.empty}>이 레슨에는 문법 포인트가 없어요.</p>;
   return (
     <div>
+      <ExamplesToggleAll />
       <ul className={s.list}>
         {lesson.grammar.map((g) => (
           <GrammarCard key={g.id} lesson={lesson} g={g} lessonKey={lessonKey} state={states?.find((x) => x.grammarId === g.id)} onChange={() => void check()} />

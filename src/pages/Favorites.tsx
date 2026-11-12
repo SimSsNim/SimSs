@@ -10,7 +10,7 @@ import { useSettings } from '../lib/settings';
 import { db } from '../lib/db';
 import { mergeWords } from '../lib/words';
 import { WordRow } from '../components/WordList';
-import { GrammarCard } from '../components/GrammarCard';
+import { GrammarCard, ExamplesToggleAll } from '../components/GrammarCard';
 import { SpeakBtn } from '../components/SentenceView';
 import { toggleSentenceMark } from '../lib/marks';
 import { QuestionContext, QuestionDrill, type DrillItem } from './Review';
@@ -126,6 +126,7 @@ export function Favorites() {
         {show('grammar') && (
           <section aria-label="문법">
             {heading('grammar')}
+            <ExamplesToggleAll />
             <ul className={s.list}>
               {grammarItems.map((x) => <GrammarCard key={x.key} lesson={x.l} g={x.g} lessonKey={x.lk} state={x.st} showLesson />)}
             </ul>

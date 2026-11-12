@@ -38,6 +38,14 @@ test('v1. 처음 실행 → 레벨 고르기(일반 L1, 토익 L1) → 오늘 �
   await page.getByTestId('onb-toeic').getByTestId('level-1').click();
   await page.getByTestId('onb-start').click();
   await expect(page.getByTestId('today-card')).toContainText('The Fox and the Crow');
+  // 레벨이 저장될 때까지 기다린 뒤 새로고침
+  await expect.poll(() => page.evaluate(() => new Promise<unknown>((res) => {
+    const r = indexedDB.open('pilsa');
+    r.onsuccess = () => {
+      const q = r.result.transaction('settings').objectStore('settings').get('levelByTrack');
+      q.onsuccess = () => res((q.result as { value?: { general?: number } } | undefined)?.value?.general ?? null);
+    };
+  }))).toBe(1);
   await page.reload();
   await expect(page.getByTestId('level-onboarding')).toHaveCount(0);
   await page.getByTestId('track-toeic').click();
@@ -411,4 +419,22 @@ test('v19. 홈 전체: 이야기와 토익을 한 화면에, 트랙 버튼이 �
   await page.waitForTimeout(400);
   await page.goto('./');
   await expect(page).toHaveURL(/#\/toeic$/);
+});
+
+test('v20. 문법 카드: 예시는 맨 아래에 닫힌 채로, 하나씩·전체 열고 닫기', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/grammar');
+  const cards = page.getByTestId('grammar-card');
+  await expect(cards.first()).toBeVisible();
+  const n = await cards.count();
+  expect(n).toBeGreaterThan(1);
+  await expect(page.getByTestId('examples')).toHaveCount(0);
+  await cards.first().getByTestId('examples-toggle').click();
+  await expect(page.getByTestId('examples')).toHaveCount(1);
+  await expect(cards.first().getByTestId('examples')).toContainText('지문 속 문장');
+  await cards.first().getByTestId('examples-toggle').click();
+  await expect(page.getByTestId('examples')).toHaveCount(0);
+  await page.getByTestId('examples-open-all').click();
+  await expect(page.getByTestId('examples')).toHaveCount(n);
+  await page.getByTestId('examples-close-all').click();
+  await expect(page.getByTestId('examples')).toHaveCount(0);
 });
