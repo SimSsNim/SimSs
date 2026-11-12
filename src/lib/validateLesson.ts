@@ -94,6 +94,11 @@ export function validateLesson(data: unknown, opts: ValidateOptions = {}): strin
     if (!s) err(`${v.id}: 없는 문장 ${v.sentenceId}`);
     else if (!s.en.includes(v.matchText)) err(`${v.id}: matchText '${v.matchText}'가 ${v.sentenceId}에 없음`);
     if (track === 'toeic' && !(1 <= (v.synonyms ?? []).length && (v.synonyms ?? []).length <= 3)) err(`${v.id}: 토익 단어는 synonyms 1~3개`);
+    // 저장소 레슨(requireGlossary): 모든 단어에 발음기호와 유사 단어. 가져오기·옛 사본은 검사 안 함
+    if (opts.requireGlossary) {
+      if (!v.ipa) err(`${v.id}: ipa(발음기호) 없음`);
+      if (track === 'general' && !(1 <= (v.synonyms ?? []).length && (v.synonyms ?? []).length <= 3)) err(`${v.id}: synonyms(유사 단어) 1~3개`);
+    }
   }
   const nv = d.vocab.length;
   if (kind === 'part5') {

@@ -110,7 +110,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
       {vocab ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
           <div style={{ fontWeight: 700 }}>{vocab.meaningKo}</div>
-          {vocab.synonyms?.length ? <div className={s.small}>바꿔 쓰기: {vocab.synonyms.join(', ')}</div> : null}
+          {vocab.synonyms?.length ? <div className={s.small}>유사 단어: {vocab.synonyms.join(', ')}</div> : null}
           {vocab.example && (
             <div className={s.small}>
               <div style={{ fontFamily: 'var(--serif)' }}>{vocab.example.en} <SpeakBtn text={vocab.example.en} label="예문 듣기" /></div>

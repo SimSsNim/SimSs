@@ -50,7 +50,7 @@
   "wordCount": 109,
   "paragraphs": [ { "id": "p1", "sentenceIds": ["s1"], "ko": "번역" } ],
   "sentences":  [ { "id": "s1", "paragraphId": "p1", "en": "The new coffee machine in the break room is very easy to use.", "ko": "번역", "audioStartSec": null, "audioEndSec": null } ],
-  "vocab": [ { "id": "v1", "term": "break room", "pos": "noun", "meaningKo": "휴게실", "ipa": null, "synonyms": ["lounge"],
+  "vocab": [ { "id": "v1", "term": "break room", "pos": "noun", "meaningKo": "휴게실", "ipa": "/ˈbreɪk ruːm/", "synonyms": ["lounge"],
                "matchText": "break room", "sentenceId": "s1", "example": { "en": "", "ko": "" } } ],
   "structures": [ { "id": "st1", "sentenceId": "s7", "chunks": [ { "text": "The hotel", "role": "S", "ko": "그 호텔은" } ], "skeleton": "", "explanation": "" } ],
   "grammar": [ { "id": "g1", "title": "", "tags": ["품사"], "sentenceId": "s5", "highlight": ["is responsible"], "explanation": "", "example": { "en": "", "ko": "" }, "note": "토익 포인트 한 줄" } ],
@@ -71,7 +71,7 @@ Part 6 문장 넣기는 `"type": "part6-sentence"`, `blank.answerText` = 그 문
 2. **Part 5**: 문장 10개, 문단 10개(문단마다 한 문장), 문장마다 문제 하나. genre = "sentences".
 3. **Part 5·6 빈칸**: `blank.answerText`는 그 문장 안에 **정확히 한 번** 나오고, 정답 보기 text와 같다(대소문자 무시). 앱이 이 부분을 `-------`로 바꿔 문제를 만든다. `prompt`는 null.
 4. 문제 수: Part 5 = 10, Part 6 = 5(그중 part6-sentence 정확히 1개), Part 7 = 3. `number`는 1부터 차례대로. type은 그 Part 접두사(part5-/part6-/part7-)만.
-5. `vocab`: Part 5는 3~5개, Part 6·7은 5개. 모든 토익 단어에 `synonyms` 1~3개. `matchText`는 그 문장 안에 그대로.
+5. `vocab`: Part 5는 3~5개, Part 6·7은 5개. 모든 토익 단어에 `synonyms` 1~3개와 `ipa`(미국식 발음기호, 구는 전체를 `/ˈkæri aʊt/`처럼). `matchText`는 그 문장 안에 그대로.
 6. `structures`: Part 5는 1~3개, Part 6·7은 2~3개. `chunks[].text`를 공백 하나로 이으면 그 문장과 정확히 같다(구두점은 앞 조각에). 명령문은 V부터, 종속절 성분은 `"sub": true`, 접속사·관계사는 `CONJ`.
 7. `grammar` 2~3개. `highlight`는 그 문장 안에 그대로. `note`에 토익 포인트. tags: 시제, 조동사, 수동태, to부정사, 동명사, 분사, 분사구문, 관계사, 접속사, 가정법, 비교, 도치, 강조, 생략, 일치, 명사절, 부사절, 전치사, 어순, 품사, 대명사, 어휘, 기타.
 8. `wordCount` = 전체 문장을 공백으로 이어 공백 기준으로 센 수, 위 표의 범위 안.

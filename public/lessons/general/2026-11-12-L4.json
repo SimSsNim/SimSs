@@ -151,13 +151,18 @@
       "term": "bring forth",
       "pos": "phrasal-verb",
       "meaningKo": "낳다, 탄생시키다, 세우다",
-      "ipa": null,
+      "ipa": "/brɪŋ fɔːrθ/",
       "matchText": "brought forth",
       "sentenceId": "s1",
       "example": {
         "en": "The new century brought forth many inventions.",
         "ko": "새로운 세기는 많은 발명품을 낳았다."
-      }
+      },
+      "synonyms": [
+        "create",
+        "produce",
+        "give birth to"
+      ]
     },
     {
       "id": "v2",
@@ -170,7 +175,12 @@
       "example": {
         "en": "The theory is based on a simple proposition.",
         "ko": "그 이론은 간단한 명제에 바탕을 두고 있다."
-      }
+      },
+      "synonyms": [
+        "idea",
+        "principle",
+        "statement"
+      ]
     },
     {
       "id": "v3",
@@ -183,7 +193,12 @@
       "example": {
         "en": "Their friendship endured for fifty years.",
         "ko": "그들의 우정은 50년 동안 이어졌다."
-      }
+      },
+      "synonyms": [
+        "last",
+        "survive",
+        "withstand"
+      ]
     },
     {
       "id": "v4",
@@ -196,20 +211,30 @@
       "example": {
         "en": "The church was consecrated in 1850.",
         "ko": "그 교회는 1850년에 봉헌되었다."
-      }
+      },
+      "synonyms": [
+        "dedicate",
+        "sanctify",
+        "bless"
+      ]
     },
     {
       "id": "v5",
       "term": "in vain",
       "pos": "idiom",
       "meaningKo": "헛되이, 보람 없이",
-      "ipa": null,
+      "ipa": "/ɪn veɪn/",
       "matchText": "in vain",
       "sentenceId": "s10",
       "example": {
         "en": "We tried in vain to stop the fire.",
         "ko": "우리는 불을 끄려 애썼지만 허사였다."
-      }
+      },
+      "synonyms": [
+        "for nothing",
+        "uselessly",
+        "to no avail"
+      ]
     }
   ],
   "structures": [

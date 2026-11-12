@@ -108,59 +108,83 @@
       "example": {
         "en": "I observed a cat on the wall.",
         "ko": "나는 담 위의 고양이를 보았다."
-      }
+      },
+      "synonyms": [
+        "watch",
+        "notice",
+        "see"
+      ]
     },
     {
       "id": "v2",
       "term": "set one's wits to work",
       "pos": "idiom",
       "meaningKo": "머리를 굴리다, 궁리하다 (wits = 지혜, 꾀)",
-      "ipa": null,
+      "ipa": "/sɛt wʌnz wɪts tə wɜːrk/",
       "matchText": "set his wits to work",
       "sentenceId": "s1",
       "example": {
         "en": "She set her wits to work to solve the puzzle.",
         "ko": "그녀는 퍼즐을 풀려고 머리를 굴렸다."
-      }
+      },
+      "synonyms": [
+        "think hard",
+        "figure out",
+        "scheme"
+      ]
     },
     {
       "id": "v3",
       "term": "without equal",
       "pos": "phrase",
       "meaningKo": "견줄 데가 없는, 최고의",
-      "ipa": null,
+      "ipa": "/wɪˈðaʊt ˈiːkwəl/",
       "matchText": "without equal",
       "sentenceId": "s3",
       "example": {
         "en": "His kindness is without equal.",
         "ko": "그의 친절함은 비할 데가 없다."
-      }
+      },
+      "synonyms": [
+        "unmatched",
+        "unrivaled",
+        "peerless"
+      ]
     },
     {
       "id": "v4",
       "term": "be flattered",
       "pos": "phrase",
       "meaningKo": "(칭찬에) 우쭐해지다, 기분이 좋아지다",
-      "ipa": "/ˈflætərd/",
+      "ipa": "/bi ˈflætərd/",
       "matchText": "flattered",
       "sentenceId": "s5",
       "example": {
         "en": "I was flattered by her words.",
         "ko": "나는 그녀의 말에 우쭐해졌다."
-      }
+      },
+      "synonyms": [
+        "be pleased",
+        "be delighted"
+      ]
     },
     {
       "id": "v5",
       "term": "snatch up",
       "pos": "phrasal-verb",
       "meaningKo": "잽싸게 낚아채다",
-      "ipa": "/snætʃ/",
+      "ipa": "/snætʃ ʌp/",
       "matchText": "snatching it up",
       "sentenceId": "s6",
       "example": {
         "en": "The boy snatched up the ball.",
         "ko": "소년이 공을 잽싸게 낚아챘다."
-      }
+      },
+      "synonyms": [
+        "grab",
+        "seize",
+        "snap up"
+      ]
     }
   ],
   "structures": [

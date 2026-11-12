@@ -38,7 +38,7 @@
   "paragraphs": [ { "id": "p1", "sentenceIds": ["s1","s2"], "ko": "단락 번역" } ],
   "sentences":  [ { "id": "s1", "paragraphId": "p1", "en": "원문 문장", "ko": "문장 번역", "audioStartSec": null, "audioEndSec": null } ],
   "vocab": [ { "id": "v1", "term": "사전형", "pos": "verb|noun|adjective|adverb|preposition|conjunction|phrase|idiom|phrasal-verb",
-               "meaningKo": "", "ipa": "/.../ 또는 null", "matchText": "지문 속 실제 형태", "sentenceId": "s1",
+               "meaningKo": "", "ipa": "/.../", "synonyms": ["유사 단어 1~3개"], "matchText": "지문 속 실제 형태", "sentenceId": "s1",
                "example": { "en": "", "ko": "" } } ],
   "structures": [ { "id": "st1", "sentenceId": "s1",
                     "chunks": [ { "text": "A Crow", "role": "S|V|O|IO|C|OC|M|CONJ", "sub": false, "ko": "직독직해 조각" } ],
@@ -53,7 +53,7 @@
 **반드시 지킬 규칙**
 1. 문장 나누기: `. ! ?`(따옴표 안 포함)에서 나눈다. 단 Mr. Mrs. Ms. Dr. St. a.m. p.m. U.S. 같은 약어의 마침표에서는 나누지 않는다. 닫는 따옴표는 앞 문장에 붙인다. 한 문단의 `sentences[].en`을 공백 하나로 이으면 원문 문단과 **글자·구두점·따옴표까지 정확히** 같아야 한다. 단락 구분은 원문 그대로.
 2. `wordCount` = 전체 문장을 공백으로 이은 뒤 공백 기준으로 센 수.
-3. `vocab`은 정확히 5개. `matchText`는 그 문장 안에 그대로 있는 문자열.
+3. `vocab`은 정확히 5개. `matchText`는 그 문장 안에 그대로 있는 문자열. 모든 단어에 `ipa`(미국식 발음기호, 구·숙어는 전체를 `/ˈkæri aʊt/`처럼)와 `synonyms`(뜻이 비슷한 영어 단어·표현 1~3개)를 넣는다.
 4. `structures`는 2~3개. `chunks[].text`를 공백 하나로 이으면 그 문장 `en`과 정확히 같아야 한다(쉼표·마침표·따옴표는 앞 조각에 붙인다). 종속절·삽입절 안 성분은 `"sub": true`. 접속사·관계사는 `CONJ`.
 5. `grammar`는 2~3개. `highlight`의 각 문자열은 그 문장 안에 그대로 있어야 한다. tags는 다음 중에서: 시제, 조동사, 수동태, to부정사, 동명사, 분사, 분사구문, 관계사, 접속사, 가정법, 비교, 도치, 강조, 생략, 일치, 명사절, 부사절, 전치사, 어순, 품사, 대명사, 어휘, 기타.
 6. 문장 번역(`sentences[].ko`)을 이어 읽으면 단락 번역(`paragraphs[].ko`)과 같은 내용이 되게 직접 자연스럽게 번역한다.

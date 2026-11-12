@@ -81,7 +81,7 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
         {item.mine && <span className={s.badge}>내 단어</span>}
         {state && state.wrongCount > 0 && <span className={s.small + ' ' + s.muted}>틀림 {state.wrongCount}</span>}
       </div>
-      {item.synonyms.length > 0 && <div className={s.small}>바꿔 쓰기: <span lang="en">{item.synonyms.join(', ')}</span></div>}
+      {item.synonyms.length > 0 && <div className={s.small}>유사 단어: <span lang="en">{item.synonyms.join(', ')}</span></div>}
       {item.sentence && <div className={w.sent} lang="en">{highlightIn(item.sentence, item.matchText)}</div>}
       {item.example && (
         <div className={s.small}>

@@ -208,20 +208,30 @@
       "example": {
         "en": "He was famous for his parsimony and never bought anyone a coffee.",
         "ko": "그는 인색하기로 유명해서 누구에게도 커피 한 잔 사지 않았다."
-      }
+      },
+      "synonyms": [
+        "stinginess",
+        "frugality",
+        "thrift"
+      ]
     },
     {
       "id": "v2",
       "term": "flop down",
       "pos": "phrasal-verb",
       "meaningKo": "털썩 주저앉다(눕다)",
-      "ipa": null,
+      "ipa": "/flɑːp daʊn/",
       "matchText": "flop down",
       "sentenceId": "s8",
       "example": {
         "en": "After work, I just want to flop down on the sofa.",
         "ko": "퇴근하면 그냥 소파에 털썩 눕고 싶다."
-      }
+      },
+      "synonyms": [
+        "slump down",
+        "drop down",
+        "collapse"
+      ]
     },
     {
       "id": "v3",
@@ -234,7 +244,12 @@
       "example": {
         "en": "She wore a shabby old coat.",
         "ko": "그녀는 낡고 허름한 코트를 입고 있었다."
-      }
+      },
+      "synonyms": [
+        "worn",
+        "run-down",
+        "threadbare"
+      ]
     },
     {
       "id": "v4",
@@ -247,20 +262,30 @@
       "example": {
         "en": "The weather gradually got warmer.",
         "ko": "날씨가 점점 따뜻해졌다."
-      }
+      },
+      "synonyms": [
+        "slowly",
+        "little by little",
+        "step by step"
+      ]
     },
     {
       "id": "v5",
       "term": "beggar description",
       "pos": "idiom",
       "meaningKo": "말로 표현할 수 없을 정도다",
-      "ipa": null,
+      "ipa": "/ˈbɛɡər dɪˈskrɪpʃn/",
       "matchText": "beggar description",
       "sentenceId": "s13",
       "example": {
         "en": "The beauty of the sunset beggared description.",
         "ko": "그 노을의 아름다움은 이루 말할 수 없었다."
-      }
+      },
+      "synonyms": [
+        "defy description",
+        "be beyond words",
+        "be indescribable"
+      ]
     }
   ],
   "structures": [

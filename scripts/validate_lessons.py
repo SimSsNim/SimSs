@@ -131,6 +131,11 @@ def check(path, data):
             errs.append(f"{v['id']}: matchText '{v['matchText']}'가 {v['sentenceId']}에 없음")
         if track == "toeic" and not (1 <= len(v.get("synonyms", [])) <= 3):
             errs.append(f"{v['id']}: 토익 단어는 synonyms 1~3개")
+        # 저장소 레슨: 모든 단어에 발음기호와 유사 단어 (앱 가져오기·옛 사본은 검사 안 함)
+        if not v.get("ipa"):
+            errs.append(f"{v['id']}: ipa(발음기호) 없음")
+        if track == "general" and not (1 <= len(v.get("synonyms") or []) <= 3):
+            errs.append(f"{v['id']}: synonyms(유사 단어) 1~3개")
     nv = len(data["vocab"])
     if kind == "part5":
         if not 3 <= nv <= 5:

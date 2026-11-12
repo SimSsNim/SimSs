@@ -149,7 +149,7 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
       <div className={s.stack} style={{ alignItems: 'center' }}>
         {mode !== 'term' && mode !== 'both' && <div className={w.flashBig} lang="en">{card.term}</div>}
         {mode !== 'meaning' && <div className={w.flashMeaning}>{card.meaningKo}</div>}
-        {card.synonyms.length > 0 && <div className={s.small}>바꿔 쓰기: {card.synonyms.join(', ')}</div>}
+        {card.synonyms.length > 0 && <div className={s.small}>유사 단어: {card.synonyms.join(', ')}</div>}
         {card.example && <div className={s.small} lang="en" style={{ fontFamily: 'var(--serif)' }}>{card.example.en}</div>}
       </div>
     );

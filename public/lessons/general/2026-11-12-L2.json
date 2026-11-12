@@ -99,7 +99,12 @@
       "example": {
         "en": "They had a dispute about money.",
         "ko": "그들은 돈 문제로 말다툼을 했다."
-      }
+      },
+      "synonyms": [
+        "argument",
+        "quarrel",
+        "disagreement"
+      ]
     },
     {
       "id": "v2",
@@ -112,20 +117,30 @@
       "example": {
         "en": "He claims that he saw a ghost.",
         "ko": "그는 유령을 봤다고 주장한다."
-      }
+      },
+      "synonyms": [
+        "insist",
+        "assert",
+        "maintain"
+      ]
     },
     {
       "id": "v3",
       "term": "strip A of B",
       "pos": "phrase",
       "meaningKo": "A에게서 B를 벗기다·빼앗다",
-      "ipa": null,
+      "ipa": "/strɪp ... əv .../",
       "matchText": "strip him of his cloak",
       "sentenceId": "s2",
       "example": {
         "en": "The storm stripped the tree of its leaves.",
         "ko": "폭풍이 나무에서 잎을 다 떨어뜨렸다."
-      }
+      },
+      "synonyms": [
+        "take B from A",
+        "deprive A of B",
+        "rob A of B"
+      ]
     },
     {
       "id": "v4",
@@ -138,7 +153,12 @@
       "example": {
         "en": "She wrested the bag from the thief.",
         "ko": "그녀는 도둑에게서 가방을 비틀어 빼앗았다."
-      }
+      },
+      "synonyms": [
+        "wrench",
+        "seize",
+        "snatch"
+      ]
     },
     {
       "id": "v5",
@@ -151,7 +171,12 @@
       "example": {
         "en": "The children were clad in warm coats.",
         "ko": "아이들은 따뜻한 외투를 입고 있었다."
-      }
+      },
+      "synonyms": [
+        "dressed",
+        "clothed",
+        "covered"
+      ]
     }
   ],
   "structures": [

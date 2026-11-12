@@ -161,7 +161,12 @@
       "example": {
         "en": "The stone made ripples on the pond.",
         "ko": "돌이 연못에 잔물결을 일으켰다."
-      }
+      },
+      "synonyms": [
+        "wave",
+        "wavelet",
+        "undulation"
+      ]
     },
     {
       "id": "v2",
@@ -174,7 +179,12 @@
       "example": {
         "en": "The test revealed a small problem.",
         "ko": "그 검사가 작은 문제를 드러냈다."
-      }
+      },
+      "synonyms": [
+        "show",
+        "uncover",
+        "disclose"
+      ]
     },
     {
       "id": "v3",
@@ -187,7 +197,12 @@
       "example": {
         "en": "The memory was imprinted on her mind.",
         "ko": "그 기억은 그녀의 마음에 새겨졌다."
-      }
+      },
+      "synonyms": [
+        "stamp",
+        "mark",
+        "engrave"
+      ]
     },
     {
       "id": "v4",
@@ -200,20 +215,30 @@
       "example": {
         "en": "She proposed a new plan at the meeting.",
         "ko": "그녀는 회의에서 새 계획을 제안했다."
-      }
+      },
+      "synonyms": [
+        "suggest",
+        "put forward",
+        "recommend"
+      ]
     },
     {
       "id": "v5",
       "term": "be slated for",
       "pos": "phrase",
       "meaningKo": "~로 예정되어 있다",
-      "ipa": null,
+      "ipa": "/bi ˈsleɪtɪd fɔːr/",
       "matchText": "is slated for",
       "sentenceId": "s9",
       "example": {
         "en": "The new library is slated for opening next spring.",
         "ko": "새 도서관은 내년 봄에 문을 열 예정이다."
-      }
+      },
+      "synonyms": [
+        "be scheduled for",
+        "be planned for",
+        "be set for"
+      ]
     }
   ],
   "structures": [
