@@ -88,7 +88,10 @@ test('1-1. 트랙 전환: 목록·오늘 카드가 바뀌고 마지막 위치와
   await expect(page.getByTestId('step-check-listen')).toHaveAttribute('aria-checked', 'true');
   await page.goto('./#/general');
   await expect(page.getByTestId('summary-general')).toContainText('1/6');
+  await expect(page.getByTestId('summary-toeic')).toHaveCount(0);
+  await page.goto('./#/toeic');
   await expect(page.getByTestId('summary-toeic')).toContainText('P5 –');
+  await expect(page.getByTestId('summary-general')).toHaveCount(0);
 });
 
 test('1-2. 토익 듣기: 음원 없음 → TTS 모드, 문장 강조가 따라간다', async ({ page }) => {

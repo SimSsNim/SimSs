@@ -128,14 +128,9 @@ export function Home({ all = false }: { all?: boolean }) {
     <>
       <AppHeader track={all ? 'all' : track} levels={!all} />
       <main className={s.page}>
-        {!all && <section aria-label="두 트랙 요약" className={s.stack} style={{ marginTop: 8, gap: 4 }}>
-          {TRACKS.map((t) => (
-            <Link key={t} to={`/${t}`} onClick={() => setSetting('track', t)} className={s.small}
-              style={{ color: 'inherit', textDecoration: 'none', fontWeight: t === track ? 700 : 400, display: 'block', minHeight: 28, paddingTop: 4 }} data-testid={`summary-${t}`}>
-              {summaryLine(t)}
-            </Link>
-          ))}
-        </section>}
+        {!all && (
+          <p className={s.small} style={{ fontWeight: 700, margin: '8px 0 0' }} data-testid={`summary-${track}`}>{summaryLine(track)}</p>
+        )}
 
         <DatePick value={day} onChange={setDay} dates={[...lessonDates, today]} allowAll={false} todayBtn label="날짜 고르기" />
         <h1 className={s.title}>{formatKo(day)} · {all ? '전체' : `${TRACK_LABEL[track]} ${what(track)}`}</h1>
