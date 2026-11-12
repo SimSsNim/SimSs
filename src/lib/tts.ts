@@ -39,7 +39,6 @@ let inited = false;
 export function initTTS() {
   if (inited || typeof window === 'undefined') return;
   inited = true;
-  preferPlaybackAudioSession();
   refresh();
   const synth = window.speechSynthesis;
   if (synth) {
@@ -90,6 +89,7 @@ export function speak(text: string, o: SpeakOptions = {}): Promise<boolean> {
   if (!synth || !state.supported) return Promise.resolve(false);
   const my = ++speakSeq;
   // iOS Safari: cancel() 바로 뒤의 speak()는 소리 없이 버려질 때가 있어, 말하는 중일 때만 끊고 조금 뒤에 말한다
+  if (synth.paused) synth.resume(); // iOS 에서 멈춤 상태로 굳는 경우
   const busy = synth.speaking || synth.pending;
   if (busy) synth.cancel();
   return new Promise((resolve) => {
@@ -122,7 +122,8 @@ export function speak(text: string, o: SpeakOptions = {}): Promise<boolean> {
       synth.speak(u);
       // 시작조차 안 되면(음성이 조용히 버려짐) 기본 음성으로 다시 시도
       setTimeout(() => {
-        if (done || started || my !== speakSeq) return;
+        // speaking 이 true 면 소리가 나고 있는 것(onstart 를 안 보내는 기기도 있음)
+        if (done || started || synth.speaking || my !== speakSeq) return;
         if (useVoice) {
           synth.cancel();
           setTimeout(() => attempt(false), 60);
@@ -147,12 +148,35 @@ function failedOnce() {
   onSilent?.();
 }
 
-/** iOS 16.4+: 무음 스위치를 켜 두어도 음성이 들리게(재생 용도 오디오로 표시) */
-export function preferPlaybackAudioSession() {
+/** iOS 16.4+: 오디오 세션 종류(실험 설정). 'playback' = 무음 스위치를 켜도 소리, 'auto' = 기본 */
+export function setAudioSession(type: 'auto' | 'playback') {
   const n = navigator as Navigator & { audioSession?: { type: string } };
   try {
-    if (n.audioSession) n.audioSession.type = 'playback';
+    if (n.audioSession) n.audioSession.type = type;
   } catch { /* 지원 안 함 */ }
+}
+export const audioSessionSupported = () => 'audioSession' in navigator;
+
+/** 음성 점검: 실제로 한 번 말해 보고 일어난 일을 기록 */
+export function diagnoseSpeech(o: { accent: Accent; voiceURI?: string; rate: number }, log: (line: string) => void) {
+  const synth = window.speechSynthesis;
+  const t0 = performance.now();
+  const at = () => `${Math.round(performance.now() - t0)}ms`;
+  if (!synth) return log('speechSynthesis 없음(이 브라우저는 음성 합성을 지원하지 않음)');
+  log(`음성 ${state.voices.length}개(영어), 지원=${state.supported}, speaking=${synth.speaking}, pending=${synth.pending}, paused=${synth.paused}`);
+  const v = pickVoice(o.accent, o.voiceURI);
+  log(`고른 음성: ${v ? `${v.name} (${v.lang}, ${v.localService ? '기기 내장' : '온라인'})` : '없음 → 언어만 지정'}`);
+  if (synth.speaking || synth.pending) synth.cancel();
+  if (synth.paused) synth.resume();
+  const u = new SpeechSynthesisUtterance('This is a sound test.');
+  if (v) { u.voice = v; u.lang = v.lang; } else u.lang = o.accent;
+  u.rate = o.rate;
+  u.onstart = () => log(`${at()} 시작(onstart)`);
+  u.onend = () => log(`${at()} 끝(onend) — 소리가 들렸나요?`);
+  u.onerror = (e) => log(`${at()} 오류: ${(e as SpeechSynthesisErrorEvent).error}`);
+  synth.speak(u);
+  log(`${at()} speak() 호출 → speaking=${synth.speaking}, pending=${synth.pending}`);
+  setTimeout(() => log(`${at()} 3초 뒤 speaking=${synth.speaking}, pending=${synth.pending}`), 3000);
 }
 
 export function cancelSpeech() {

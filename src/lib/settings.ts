@@ -55,6 +55,8 @@ export interface Settings {
   newsEnabled: boolean;
   /** 화면 꺼짐 방지 */
   keepAwake: 'off' | 'lesson' | 'always';
+  /** iOS: 무음 스위치를 켜도 소리 내기(실험) */
+  playbackSession: boolean;
   /** 단어를 누르면 바로 발음 읽기(듣기 재생 중에는 안 읽음) */
   wordAutoSpeak: boolean;
 }
@@ -67,6 +69,7 @@ export const DEFAULT_SETTINGS: Settings = {
   enabledLevels: { general: [1, 2, 3, 4], toeic: [1, 2, 3, 4] },
   newsEnabled: true,
   keepAwake: 'lesson',
+  playbackSession: false,
   wordAutoSpeak: true,
   track: 'general',
   levelByTrack: { general: null, toeic: null },

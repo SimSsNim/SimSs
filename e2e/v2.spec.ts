@@ -621,3 +621,16 @@ test('v27. 단어 듣기: 고른 음성이 실패하면 기본 음성으로 다�
   await page.getByRole('dialog').getByRole('button', { name: 'sitting 발음 듣기' }).click();
   await expect(page.getByText('무음 스위치')).toBeVisible({ timeout: 8000 });
 });
+
+test('v28. 음성 점검: 설정에서 실제로 말해 보고 기록을 보여 줌', async ({ page }) => {
+  await start(page, './#/records/settings');
+  const box = page.getByTestId('speech-check');
+  await box.scrollIntoViewIfNeeded();
+  await box.locator('summary').click();
+  await page.getByTestId('speech-check-run').click();
+  const log = page.getByTestId('speech-check-log');
+  await expect(log).toContainText('고른 음성: Mock US');
+  await expect(log).toContainText('시작(onstart)');
+  await expect(log).toContainText('끝(onend)');
+  await expect.poll(() => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken)).toContain('This is a sound test.');
+});

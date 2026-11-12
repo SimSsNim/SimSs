@@ -1,6 +1,7 @@
+import { useState } from 'react';
 import s from '../styles/ui.module.css';
 import { useSettings, setSetting, type Theme, type DisplayMode, type Accent } from '../lib/settings';
-import { ACCENTS, useVoices, speak } from '../lib/tts';
+import { ACCENTS, useVoices, speak, diagnoseSpeech, audioSessionSupported, setAudioSession } from '../lib/tts';
 import { LevelChips, enabledLevelsOf } from '../components/LevelChips';
 import { TRACKS, TRACK_LABEL, LEVELS, LEVEL_DESC, type Level, type Track } from '../lib/types';
 import { toast } from '../components/Toast';
@@ -78,6 +79,7 @@ export function SettingsPanel() {
             <button type="button" className={s.btn} onClick={() => void speak('Thank you for your interest in the workshop.', { rate: st.ttsRate, accent: st.ttsAccent, voiceURI: st.ttsVoiceURI })}>🔊 들어 보기</button>
           </>
         )}
+        <SpeechCheck />
       </section>
 
       <section className={s.card + ' ' + s.stack}>
@@ -184,5 +186,38 @@ function LevelToggleSection() {
         );
       })}
     </section>
+  );
+}
+
+/** 음성 점검: 소리가 안 날 때 무엇이 문제인지 화면에 기록(캡처해서 보내기 좋게) */
+function SpeechCheck() {
+  const st = useSettings();
+  const [lines, setLines] = useState<string[]>([]);
+  return (
+    <details data-testid="speech-check">
+      <summary className={s.small} style={{ cursor: 'pointer', minHeight: 36, fontWeight: 700 }}>🔧 소리가 안 나요(음성 점검)</summary>
+      <div className={s.stack} style={{ marginTop: 6 }}>
+        <ol className={s.small} style={{ margin: 0, paddingLeft: 18 }}>
+          <li>아이폰 옆 무음 스위치를 끄고 소리 크기를 올려요.</li>
+          <li>아래 [점검 시작]을 눌러 "This is a sound test."가 들리는지 봐요.</li>
+          <li>안 들리면 위에서 억양이나 음성을 바꿔 다시 눌러 봐요. 그래도 안 되면 이 화면을 캡처해서 보내 주세요.</li>
+        </ol>
+        <button type="button" className={s.primary} data-testid="speech-check-run" onClick={() => {
+          const out: string[] = [];
+          const push = (l: string) => { out.push(l); setLines([...out]); };
+          const n = navigator as Navigator & { standalone?: boolean };
+          push(`기기: ${navigator.userAgent.replace(/^Mozilla\/5.0 /, '').slice(0, 120)}`);
+          push(`홈 화면 앱: ${matchMedia('(display-mode: standalone)').matches || n.standalone ? '예' : '아니오'} · 무음 무시 설정: ${st.playbackSession ? '켬' : '끔'}`);
+          diagnoseSpeech({ accent: st.ttsAccent, voiceURI: st.ttsVoiceURI, rate: st.ttsRate }, push);
+        }}>점검 시작</button>
+        {lines.length > 0 && <pre className={s.small} data-testid="speech-check-log" style={{ whiteSpace: 'pre-wrap', margin: 0, background: 'var(--surface-2)', padding: 8, borderRadius: 8 }}>{lines.join('\n')}</pre>}
+        {audioSessionSupported() && (
+          <label className={s.check}>
+            <input type="checkbox" checked={st.playbackSession} onChange={(e) => { setSetting('playbackSession', e.target.checked); setAudioSession(e.target.checked ? 'playback' : 'auto'); }} />
+            무음 스위치를 켜도 소리 내기(실험 — 켜서 소리가 더 안 나면 다시 끄세요)
+          </label>
+        )}
+      </div>
+    </details>
   );
 }
