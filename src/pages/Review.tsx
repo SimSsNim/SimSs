@@ -3,6 +3,7 @@ import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
 import qz from '../styles/quiz.module.css';
+import { DatePick } from '../components/DatePick';
 import { AppHeader } from '../components/AppHeader';
 import { WordbookPanel, TrackFilterSeg, LevelFilterChips, type TrackFilter, type LevelFilter } from './Wordbook';
 import { useLessons } from '../lib/lessons';
@@ -25,6 +26,8 @@ export function Review() {
   const tab = params.get('tab') === 'wrong' ? 'wrong' : 'words';
   const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
   const [level, setLevel] = useState<LevelFilter>('all');
+  const [day, setDay] = useState('');
+  const { summaries } = useLessons();
   return (
     <>
       <AppHeader right={tab === 'words' ? <TrackFilterSeg value={trackF} onChange={setTrackF} /> : undefined} />
@@ -36,12 +39,13 @@ export function Review() {
             <button type="button" role="tab" className={s.segBtn} aria-selected={tab === 'wrong'} onClick={() => setParams({ tab: 'wrong' }, { replace: true })} data-testid="review-wrong">오답노트</button>
           </div>
         </div>
+        <DatePick value={day} onChange={setDay} dates={summaries.filter((x) => tab === 'words' || x.track === 'toeic').map((x) => x.date)} />
         {tab === 'words' ? (
           <>
             <LevelFilterChips value={level} onChange={setLevel} />
-            <WordbookPanel trackF={trackF} level={level} />
+            <WordbookPanel trackF={trackF} level={level} day={day} />
           </>
-        ) : <WrongNotePanel level={level} setLevel={setLevel} />}
+        ) : <WrongNotePanel level={level} setLevel={setLevel} day={day} />}
       </main>
     </>
   );
@@ -49,7 +53,7 @@ export function Review() {
 
 export interface DrillItem { key: string; lesson: Lesson; q: Question; state?: QuestionStateRow }
 
-function WrongNotePanel({ level, setLevel }: { level: LevelFilter; setLevel: (v: LevelFilter) => void }) {
+function WrongNotePanel({ level, setLevel, day }: { level: LevelFilter; setLevel: (v: LevelFilter) => void; day: string }) {
   const [params] = useSearchParams();
   const { lessons, status } = useLessons();
   const rows = useLiveQuery(() => db.questionState.where('inWrongNote').equals(1).toArray(), []);
@@ -58,7 +62,6 @@ function WrongNotePanel({ level, setLevel }: { level: LevelFilter; setLevel: (v:
   const [chapter, setChapter] = useState<string>('all');
   const [skill, setSkill] = useState<string>('all');
   const [sort, setSort] = useState<'recent' | 'wrong'>('recent');
-  const [from, setFrom] = useState('');
   const today = kstDate();
   const items: DrillItem[] = useMemo(() => {
     const out: DrillItem[] = [];
@@ -71,7 +74,7 @@ function WrongNotePanel({ level, setLevel }: { level: LevelFilter; setLevel: (v:
   }, [rows, lessons]);
   const filtered = items.filter((it) =>
     (level === 'all' || it.lesson.level === level) && (chapter === 'all' || it.lesson.chapter === chapter)
-    && (skill === 'all' || skillOf(it.q) === skill) && (!from || it.lesson.date >= from) && (!onlyUnsure || it.state!.unsure));
+    && (skill === 'all' || skillOf(it.q) === skill) && (!day || it.lesson.date === day) && (!onlyUnsure || it.state!.unsure));
   const loading = rows === undefined || (rows.length > items.length && status === 'loading');
   const unsureCount = items.filter((it) => it.state!.unsure).length;
   const sorted = filtered.slice().sort((a, b) => (sort === 'wrong' ? b.state!.wrongCount - a.state!.wrongCount : b.state!.addedAt - a.state!.addedAt));
@@ -81,6 +84,7 @@ function WrongNotePanel({ level, setLevel }: { level: LevelFilter; setLevel: (v:
   const levelCounts: Record<string, number> = { all: 0 };
   const chapterCounts: Record<string, number> = { all: 0 };
   for (const it of items) {
+    if (day && it.lesson.date !== day) continue;
     if (chapter === 'all' || it.lesson.chapter === chapter) {
       levelCounts.all++;
       levelCounts[it.lesson.level] = (levelCounts[it.lesson.level] ?? 0) + 1;
@@ -112,7 +116,6 @@ function WrongNotePanel({ level, setLevel }: { level: LevelFilter; setLevel: (v:
             <select className={s.chip} value={sort} onChange={(e) => setSort(e.target.value as 'recent' | 'wrong')} aria-label="정렬">
               <option value="recent">최근</option><option value="wrong">많이 틀린 순</option>
             </select>
-            <input className={s.chip} type="date" value={from} onChange={(e) => setFrom(e.target.value)} aria-label="이 날짜 이후" />
             <button type="button" className={s.chip} aria-pressed={onlyUnsure} onClick={() => setOnlyUnsure(!onlyUnsure)} data-testid="filter-unsure">🤔 헷갈림만 {unsureCount}</button>
           </div>
           <ul className={s.list}>

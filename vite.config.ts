@@ -12,8 +12,8 @@ export default defineConfig({
       injectRegister: false,
       includeAssets: ['icon.svg', 'apple-touch-icon.png'],
       manifest: {
-        name: '필사 노트 — 영어 필사 학습',
-        short_name: '필사 노트',
+        name: '심쓰 영어 — 영어 필사·토익 학습',
+        short_name: '심쓰 영어',
         description: '매일 한 지문, 듣고 읽고 필사하는 개인용 영어 학습 앱',
         lang: 'ko',
         start_url: './',

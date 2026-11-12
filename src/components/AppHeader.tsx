@@ -13,7 +13,7 @@ export function AppHeader({ track, target = 'home', right, children, sticky = tr
     <header className={sticky && !levels ? s.header : s.headerStatic}>
       <div className={s.headerInner}>
         <div className={sh.top} style={{ width: '100%' }}>
-          {track ? <TrackSwitch current={track} target={target} /> : <span className={sh.brand}>필사 노트</span>}
+          {track ? <TrackSwitch current={track} target={target} /> : <span className={sh.brand}>심쓰 영어</span>}
           {right}
         </div>
       </div>

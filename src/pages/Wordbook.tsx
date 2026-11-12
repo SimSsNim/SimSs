@@ -39,7 +39,7 @@ export function LevelFilterChips({ value, onChange, counts }: { value: LevelFilt
 type Sort = 'recent' | 'ko' | 'abc' | 'wrong';
 
 /** 복습 탭의 '단어장' 칸 */
-export function WordbookPanel({ trackF, level }: { trackF: TrackFilter; level: LevelFilter }) {
+export function WordbookPanel({ trackF, level, day = '' }: { trackF: TrackFilter; level: LevelFilter; day?: string }) {
   const settings = useSettings();
   const [params] = useSearchParams();
   const { lessons, summaries } = useLessons();
@@ -47,8 +47,6 @@ export function WordbookPanel({ trackF, level }: { trackF: TrackFilter; level: L
   const [view, setView] = useState<'list' | 'flash' | 'review'>(params.get('review') ? 'review' : 'list');
   const [q, setQ] = useState('');
   const [sort, setSort] = useState<Sort>('recent');
-  const [from, setFrom] = useState('');
-  const [to, setTo] = useState('');
   const myWords = useLiveQuery(() => db.myWords.toArray(), []);
   const rows = useLiveQuery(() => db.wordState.toArray(), []);
   const states = useMemo(() => new Map((rows ?? []).map((r) => [r.key, r])), [rows]);
@@ -63,8 +61,7 @@ export function WordbookPanel({ trackF, level }: { trackF: TrackFilter; level: L
       if (w.mine && tracks[0] && tracks[0] !== trackF) return false;
     }
     if (level !== 'all' && !w.sources.some((x) => x.level === level)) return false;
-    if (from && !w.sources.some((x) => x.date >= from)) return false;
-    if (to && !w.sources.some((x) => x.date <= to)) return false;
+    if (day && !w.sources.some((x) => x.date === day)) return false;
     if (q) {
       const n = q.toLowerCase();
       if (!w.term.toLowerCase().includes(n) && !w.meaningKo.includes(q) && !w.synonyms.some((x) => x.toLowerCase().includes(n))) return false;
@@ -102,13 +99,6 @@ export function WordbookPanel({ trackF, level }: { trackF: TrackFilter; level: L
                 <option value="recent">최근</option><option value="ko">가나다</option><option value="abc">abc</option><option value="wrong">틀린 횟수</option>
               </select>
             </div>
-            <details style={{ margin: '6px 0' }}>
-              <summary className={s.small} style={{ minHeight: 36, cursor: 'pointer' }}>범위: 날짜</summary>
-              <div className={s.row}>
-                <input className={s.input} style={{ width: 'auto' }} type="date" value={from} onChange={(e) => setFrom(e.target.value)} aria-label="시작 날짜" />
-                <input className={s.input} style={{ width: 'auto' }} type="date" value={to} onChange={(e) => setTo(e.target.value)} aria-label="끝 날짜" />
-              </div>
-            </details>
             <FilterChips items={scoped} states={states} value={filter} onChange={setFilter} />
             {view === 'list' ? (
               <ul className={s.list}>
@@ -116,7 +106,7 @@ export function WordbookPanel({ trackF, level }: { trackF: TrackFilter; level: L
                 {shown.length === 0 && <li className={s.empty}>단어가 없어요.</li>}
               </ul>
             ) : (
-              <Flashcards items={shown} deckKey={`${filter}|${trackF}|${level}|${from}|${to}|${q}|${sort}`} />
+              <Flashcards items={shown} deckKey={`${filter}|${trackF}|${level}|${day}|${q}|${sort}`} />
             )}
           </>
         )}

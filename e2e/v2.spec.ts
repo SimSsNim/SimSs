@@ -273,3 +273,47 @@ test('v12. 맨 위에서 아래로 당기면 새로고침', async ({ page }) => 
   await expect.poll(() => page.evaluate(() => (window as unknown as { __mark?: number }).__mark ?? 0)).toBe(0);
   await expect(page.getByTestId('part-cards')).toBeVisible();
 });
+
+test('v13. 하단 탭: 홈·단어 추가, 제목 심쓰 영어', async ({ page }) => {
+  await start(page, './#/review');
+  const nav = page.getByRole('navigation', { name: '주 메뉴' });
+  await expect(nav.getByRole('link')).toHaveText(['홈', '지문', '단어', '복습', '문법 모음', '즐겨찾기', '기록/설정']);
+  await expect(page.getByText('심쓰 영어')).toBeVisible();
+  await expect(page).toHaveTitle('심쓰 영어');
+});
+
+test('v14. 단어 탭: 전체·묶음별(레벨/지문/상태) 보기', async ({ page }) => {
+  await start(page, './#/words');
+  await page.getByTestId('track-filter-all').or(page.getByRole('group', { name: '트랙 필터' }).getByRole('button', { name: '전체' })).first().click();
+  const total = await page.getByTestId('word-row').count();
+  expect(total).toBeGreaterThan(5);
+  await page.getByTestId('group-level').click();
+  await expect(page.getByTestId('word-group')).toHaveCount(1);
+  await expect(page.getByTestId('gsel-L1')).toContainText(String(total));
+  await page.getByTestId('group-lesson').click();
+  await expect(page.getByTestId('word-group')).toHaveCount(4);
+  await page.getByTestId('gsel-all').locator('xpath=following-sibling::button[1]').click();
+  await expect(page.getByTestId('word-group')).toHaveCount(1);
+  await page.getByTestId('group-status').click();
+  await expect(page.getByTestId('gsel-new')).toContainText(String(total));
+  await page.getByTestId('group-none').click();
+  await expect(page.getByTestId('word-row')).toHaveCount(total);
+});
+
+test('v15. 날짜 고르기: 홈·지문·문법에서 날짜를 바꾸면 그 날짜 것만', async ({ page }) => {
+  await start(page, './#/toeic');
+  await expect(page.getByTestId('date-pick')).toBeVisible();
+  await page.getByTestId('date-input').fill('2026-11-11');
+  await expect(page.getByTestId('not-arrived')).toContainText('11월 11일');
+  await page.getByTestId('date-today').click();
+  await expect(page.getByTestId('not-arrived')).toHaveCount(0);
+  await page.goto('./#/toeic/list');
+  await page.getByTestId('list-level-all').click();
+  await page.getByTestId('date-input').fill('2026-11-10');
+  await expect(page.getByText('조건에 맞는 지문이 없어요.')).toBeVisible();
+  await page.getByTestId('date-all').click();
+  await expect(page.getByTestId('lesson-item')).toHaveCount(3);
+  await page.goto('./#/grammar');
+  await page.getByTestId('date-prev').click();
+  await expect(page.getByTestId('grammar-card').first()).toBeVisible();
+});

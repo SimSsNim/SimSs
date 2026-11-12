@@ -266,7 +266,7 @@ test('8. 레슨 가져오기: 깨진 JSON → 오류, 정상 JSON → 목록에 
 
 test('9. 모든 화면 가로 스크롤 없음', async ({ page }) => {
   await start(page);
-  const routes = ['/general', '/toeic', '/general/list', '/toeic/list', '/review?tab=words', '/review?tab=wrong', '/grammar', '/records/stats', '/records/settings', '/records/backup', '/records/import', '/drill?skill=%ED%98%95%EC%9A%A9%EC%82%AC%20%EC%9E%90%EB%A6%AC'];
+  const routes = ['/general', '/toeic', '/general/list', '/toeic/list', '/review?tab=words', '/review?tab=wrong', '/grammar', '/words', '/favorites', '/records/stats', '/records/settings', '/records/backup', '/records/import', '/drill?skill=%ED%98%95%EC%9A%A9%EC%82%AC%20%EC%9E%90%EB%A6%AC'];
   for (const tab of ['full', 'one', 'vocab', 'grammar', 'structure', 'listen', 'practice']) routes.push(`/general/lesson/2026-11-12-L1/${tab}`);
   for (const p of ['part5', 'part6', 'part7']) for (const tab of ['quiz', 'full', 'one', 'vocab', 'grammar', 'structure', 'listen', 'practice']) routes.push(`/toeic/lesson/2026-11-12-L1-${p}/${tab}`);
   for (const r of routes) {

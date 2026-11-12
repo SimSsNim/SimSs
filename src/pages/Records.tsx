@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
+import { DatePick } from '../components/DatePick';
 import { AppHeader } from '../components/AppHeader';
 import { db } from '../lib/db';
 import { kstDate, addDays, weekdayOf, formatKo } from '../lib/date';
@@ -113,6 +114,7 @@ function Stats() {
               }} />
           ))}
         </div>
+        <DatePick value={picked ?? ''} onChange={(d) => setPicked(d || null)} label="기록 날짜" />
         <div className={s.row + ' ' + s.small + ' ' + s.muted} style={{ marginTop: 6 }}>적게 {[0, 1, 2, 3, 4].map((l) => <span key={l} aria-hidden="true" style={{ width: 12, height: 12, borderRadius: 3, display: 'inline-block', background: l === 0 ? 'var(--surface-2)' : `color-mix(in srgb, var(--accent) ${[0, 35, 55, 75, 100][l]}%, var(--surface))` }} />)} 많이 (10·20·30분)</div>
         {picked && (
           <div style={{ marginTop: 10 }} aria-live="polite">

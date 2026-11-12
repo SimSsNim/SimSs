@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
+import { DatePick } from '../components/DatePick';
 import { AppHeader } from '../components/AppHeader';
 import { useLessons } from '../lib/lessons';
 import { db } from '../lib/db';
@@ -16,12 +17,13 @@ export function GrammarAll() {
   const [levelF, setLevelF] = useState<LevelFilter>('all');
   const [tag, setTag] = useState<string | null>(null);
   const [reviewOnly, setReviewOnly] = useState(false);
+  const [day, setDay] = useState('');
   const states = useLiveQuery(() => db.grammarState.toArray(), []);
   const stMap = new Map((states ?? []).map((x) => [x.key, x]));
   const points = useMemo(() => Object.values(lessons)
-    .filter((l) => (trackF === 'all' || l.track === trackF) && (levelF === 'all' || l.level === levelF))
+    .filter((l) => (trackF === 'all' || l.track === trackF) && (levelF === 'all' || l.level === levelF) && (!day || l.date === day))
     .sort((a, b) => (a.date < b.date ? 1 : -1))
-    .flatMap((l) => l.grammar.map((g) => ({ l, g, lk: lessonKeyOf(l.track, l.id) }))), [lessons, trackF, levelF]);
+    .flatMap((l) => l.grammar.map((g) => ({ l, g, lk: lessonKeyOf(l.track, l.id) }))), [lessons, trackF, levelF, day]);
   const tags = new Map<string, number>();
   for (const p of points) for (const t of p.g.tags) tags.set(t, (tags.get(t) ?? 0) + 1);
   const shown = points.filter((p) => (!tag || p.g.tags.includes(tag)) && (!reviewOnly || stMap.get(`${p.lk}:${p.g.id}`)?.review));
@@ -30,6 +32,7 @@ export function GrammarAll() {
       <AppHeader right={<TrackFilterSeg value={trackF} onChange={setTrackF} />} />
       <main className={s.page}>
         <h1 className={s.title}>문법 모음 <span className={s.muted + ' ' + s.small}>{points.length}개</span></h1>
+        <DatePick value={day} onChange={setDay} dates={Object.values(lessons).filter((l) => trackF === 'all' || l.track === trackF).map((l) => l.date)} />
         <LevelFilterChips value={levelF} onChange={setLevelF} />
         <div className={s.chips} role="group" aria-label="태그">
           <button type="button" className={s.chip} aria-pressed={tag === null} onClick={() => setTag(null)}>전체 {points.length}</button>

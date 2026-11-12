@@ -189,7 +189,7 @@ export function setSegments(segments: Segment[], introSkipSec: number | null) {
 function setMediaSession() {
   if (!('mediaSession' in navigator)) return;
   try {
-    navigator.mediaSession.metadata = new MediaMetadata({ title: state.title, artist: state.artist || '필사 노트', album: '필사 노트' });
+    navigator.mediaSession.metadata = new MediaMetadata({ title: state.title, artist: state.artist || '심쓰 영어', album: '심쓰 영어' });
     navigator.mediaSession.setActionHandler('play', () => play());
     navigator.mediaSession.setActionHandler('pause', () => pause());
     navigator.mediaSession.setActionHandler('seekbackward', () => skip(-5));

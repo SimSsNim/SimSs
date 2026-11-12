@@ -2,6 +2,7 @@ import { Fragment, useEffect, useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
+import { DatePick } from '../components/DatePick';
 import { AppHeader } from '../components/AppHeader';
 import { useLessons, markTrackSeen, groupByDate, type LessonSummary } from '../lib/lessons';
 import { LEVELS, CHAPTERS, CHAPTER_LABEL, type Chapter, type Level, type Track } from '../lib/types';
@@ -22,6 +23,7 @@ export function LessonList() {
   const [done, setDone] = useState<'all' | 'done' | 'todo'>('all');
   const [bm, setBm] = useState(false);
   const [view, setView] = useState<'list' | 'date'>('list');
+  const [day, setDay] = useState('');
   useEffect(() => setLevel(my), [my, track]);
   useEffect(() => setChapter('all'), [track]);
   const progress = useLiveQuery(() => db.lessonProgress.where('key').startsWith(`${track}/`).toArray(), [track]);
@@ -45,6 +47,7 @@ export function LessonList() {
     return list.filter((x) => {
       if (view === 'list' && level !== 'all' && x.level !== level) return false;
       if (view === 'list' && track === 'toeic' && chapter !== 'all' && x.chapter !== chapter) return false;
+      if (day && x.date !== day) return false;
       if (genre !== 'all' && x.genre !== genre) return false;
       if (done === 'done' && !doneSet.has(x.key)) return false;
       if (done === 'todo' && doneSet.has(x.key)) return false;
@@ -56,7 +59,7 @@ export function LessonList() {
       }
       return true;
     });
-  }, [list, lessons, q, level, chapter, genre, done, bm, doneSet, bmSet, view, track]);
+  }, [list, lessons, q, level, chapter, genre, done, bm, doneSet, bmSet, view, track, day]);
 
   return (
     <>
@@ -69,6 +72,7 @@ export function LessonList() {
             <button type="button" className={s.segBtn} aria-pressed={view === 'date'} onClick={() => setView('date')} data-testid="view-date">날짜별</button>
           </div>
         </div>
+        <DatePick value={day} onChange={setDay} dates={list.map((x) => x.date)} />
         <input className={s.input} type="search" placeholder="제목·본문·번역·단어 검색" value={q} onChange={(e) => setQ(e.target.value)} aria-label="지문 검색" />
         <div className={s.chips} role="group" aria-label="필터">
           {view === 'list' && (

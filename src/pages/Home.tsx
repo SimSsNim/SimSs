@@ -1,4 +1,5 @@
-import { Link, useNavigate, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { DatePick } from '../components/DatePick';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { useEffect, useState } from 'react';
 import s from '../styles/ui.module.css';
@@ -40,7 +41,11 @@ export function Home() {
   const settings = useSettings();
   const level = useMyLevel(track);
   const today = kstDate();
-  const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t, settings.levelByTrack[t] ?? 1, today)])) as Record<Track, ReturnType<typeof pickToday>>;
+  const [params, setParams] = useSearchParams();
+  const day = params.get('d') || today;
+  const setDay = (d: string) => setParams(d && d !== today ? { d } : {}, { replace: true });
+  const lessonDates = summaries.filter((x) => x.track === track && !x.errors).map((x) => x.date);
+  const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t, settings.levelByTrack[t] ?? 1, day)])) as Record<Track, ReturnType<typeof pickToday>>;
   const mine = picks[track];
   const generalLesson = picks.general.lessons[0];
   const toeicKeys = picks.toeic.lessons.map((l) => l.key);
@@ -104,7 +109,8 @@ export function Home() {
           ))}
         </section>
 
-        <h1 className={s.title}>{formatKo(today)} · {TRACK_LABEL[track]} L{level}</h1>
+        <DatePick value={day} onChange={setDay} dates={[...lessonDates, today]} allowAll={false} todayBtn label="날짜 고르기" />
+        <h1 className={s.title}>{formatKo(day)} · {TRACK_LABEL[track]} L{level}</h1>
         {track === 'toeic' && <LevelTip />}
 
         {!mine.lessons.length ? (
@@ -113,7 +119,7 @@ export function Home() {
           </div>
         ) : (
           <>
-            {!mine.isToday && <p className={s.muted} role="note" data-testid="not-arrived">오늘 지문은 아직 도착하지 않았어요. 가장 최근({formatKo(mine.date!)}) 레벨 {level} 지문을 보여 드려요.</p>}
+            {!mine.isToday && <p className={s.muted} role="note" data-testid="not-arrived">{day === today ? '오늘 지문은 아직 도착하지 않았어요.' : `${formatKo(day)} 레벨 ${level} 지문이 없어요.`} 가장 가까운 이전({formatKo(mine.date!)}) 레벨 {level} 지문을 보여 드려요.</p>}
             {track === 'general' ? (
               <GeneralToday lesson={mine.lessons[0]} checklist={progOf(mine.lessons[0].key)?.checklist ?? emptyChecklist()} />
             ) : (

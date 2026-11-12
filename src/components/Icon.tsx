@@ -3,6 +3,8 @@ const paths: Record<string, string> = {
   today: 'M4 6h16v14H4zM4 10h16M8 3v5M16 3v5',
   list: 'M5 6h14M5 12h14M5 18h9',
   words: 'M5 4h10l4 4v12H5zM9 11h6M9 15h6',
+  abc: 'M3 17l3-9 3 9M4 14.5h4M12 8v9h3a2.2 2.2 0 0 0 0-4.5H12M12 12.5h2.5a2.2 2.2 0 0 0 0-4.5H12M22 9a3 3 0 1 0 0 6',
+  review: 'M4 12a8 8 0 1 0 3-6.2M4 4v4h4M12 8v4l3 2',
   grammar: 'M6 4h12v16H6zM9 8h6M9 12h6M9 16h3',
   records: 'M4 20V10M10 20V4M16 20v-7M22 20H2',
   play: 'M8 5v14l11-7z',

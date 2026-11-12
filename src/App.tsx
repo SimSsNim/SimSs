@@ -16,6 +16,7 @@ const Review = lazy(() => import('./pages/Review').then((m) => ({ default: m.Rev
 const Drill = lazy(() => import('./pages/Review').then((m) => ({ default: m.Drill })));
 const GrammarAll = lazy(() => import('./pages/GrammarAll').then((m) => ({ default: m.GrammarAll })));
 const Favorites = lazy(() => import('./pages/Favorites').then((m) => ({ default: m.Favorites })));
+const Words = lazy(() => import('./pages/Words').then((m) => ({ default: m.Words })));
 const Records = lazy(() => import('./pages/Records').then((m) => ({ default: m.Records })));
 const LessonPage = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonPage })));
 const LessonRedirect = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonRedirect })));
@@ -86,7 +87,7 @@ export function App() {
       <Routes>
         <Route path="/" element={<Navigate to={`/${track}`} replace />} />
         <Route path="/review" element={<Review />} />
-        <Route path="/words" element={<Navigate to="/review?tab=words" replace />} />
+        <Route path="/words" element={<Words />} />
         <Route path="/drill" element={<Drill />} />
         <Route path="/grammar" element={<GrammarAll />} />
         <Route path="/favorites" element={<Favorites />} />

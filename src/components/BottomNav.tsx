@@ -6,9 +6,10 @@ import { useSettings } from '../lib/settings';
 export function BottomNav() {
   const { track } = useSettings();
   const items = [
-    { to: `/${track}`, label: '오늘', icon: 'today', end: true },
+    { to: `/${track}`, label: '홈', icon: 'today', end: true },
     { to: `/${track}/list`, label: '지문', icon: 'list' },
-    { to: '/review', label: '복습', icon: 'words' },
+    { to: '/words', label: '단어', icon: 'abc' },
+    { to: '/review', label: '복습', icon: 'review' },
     { to: '/grammar', label: '문법 모음', icon: 'grammar' },
     { to: '/favorites', label: '즐겨찾기', icon: 'star' },
     { to: '/records', label: '기록/설정', icon: 'records' },

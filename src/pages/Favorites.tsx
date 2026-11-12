@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
+import { DatePick } from '../components/DatePick';
 import { AppHeader } from '../components/AppHeader';
 import { TrackFilterSeg, type TrackFilter } from './Wordbook';
 import { useLessons } from '../lib/lessons';
@@ -25,6 +26,7 @@ export function Favorites() {
   const settings = useSettings();
   const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
   const [kind, setKind] = useState<Kind>('all');
+  const [day, setDay] = useState('');
   const { lessons, status } = useLessons();
   const marks = useLiveQuery(() => db.sentenceMarks.filter((m) => m.bookmark).toArray(), []);
   const words = useLiveQuery(() => db.wordState.filter((w) => w.starred).toArray(), []);
@@ -32,34 +34,34 @@ export function Favorites() {
   const grammars = useLiveQuery(() => db.grammarState.filter((g) => !!g.starred).toArray(), []);
   const questions = useLiveQuery(() => db.questionState.filter((q) => !!q.starred).toArray(), []);
 
-  const inTrack = (l: Lesson) => trackF === 'all' || l.track === trackF;
+  const inTrack = (l: Lesson) => (trackF === 'all' || l.track === trackF) && (!day || l.date === day);
 
   const sentenceItems = useMemo(() => (marks ?? []).flatMap((m) => {
     const l = lessons[m.lessonKey];
     const sen = l?.paragraphs.flatMap((p) => p.sentences).find((x) => x.id === m.sentenceId);
     return l && sen && inTrack(l) ? [{ key: m.key, l, lk: m.lessonKey, sen, at: m.bookmarkedAt ?? 0 }] : [];
-  }).sort((a, b) => b.at - a.at), [marks, lessons, trackF]);
+  }).sort((a, b) => b.at - a.at), [marks, lessons, trackF, day]);
 
   const wordItems = useMemo(() => {
     const starred = new Map((words ?? []).map((w) => [w.key, w]));
     return mergeWords(Object.values(lessons), myWords ?? [])
       .filter((w) => starred.has(w.key))
-      .filter((w) => trackF === 'all' || w.mine || w.sources.some((x) => x.track === trackF))
+      .filter((w) => (trackF === 'all' || w.mine || w.sources.some((x) => x.track === trackF)) && (!day || w.sources.some((x) => x.date === day)))
       .map((w) => ({ item: w, state: starred.get(w.key)! }))
       .sort((a, b) => b.state.updatedAt - a.state.updatedAt);
-  }, [words, myWords, lessons, trackF]);
+  }, [words, myWords, lessons, trackF, day]);
 
   const grammarItems = useMemo(() => (grammars ?? []).flatMap((st) => {
     const l = lessons[st.lessonKey];
     const g = l?.grammar.find((x) => x.id === st.grammarId);
     return l && g && inTrack(l) ? [{ key: st.key, l, lk: st.lessonKey, g, st }] : [];
-  }).sort((a, b) => (b.st.starredAt ?? 0) - (a.st.starredAt ?? 0)), [grammars, lessons, trackF]);
+  }).sort((a, b) => (b.st.starredAt ?? 0) - (a.st.starredAt ?? 0)), [grammars, lessons, trackF, day]);
 
   const questionItems: DrillItem[] = useMemo(() => (questions ?? []).flatMap((st) => {
     const l = lessons[st.lessonKey];
     const q = l?.questions.find((x) => x.id === st.qid);
     return l && q && inTrack(l) ? [{ key: st.key, lesson: l, q, state: st }] : [];
-  }).sort((a, b) => (b.state!.starredAt ?? 0) - (a.state!.starredAt ?? 0)), [questions, lessons, trackF]);
+  }).sort((a, b) => (b.state!.starredAt ?? 0) - (a.state!.starredAt ?? 0)), [questions, lessons, trackF, day]);
 
   const counts: Record<Kind, number> = {
     sentence: sentenceItems.length, word: wordItems.length, grammar: grammarItems.length, question: questionItems.length,
@@ -74,6 +76,7 @@ export function Favorites() {
       <AppHeader right={<TrackFilterSeg value={trackF} onChange={setTrackF} />} />
       <main className={s.page} data-testid="favorites">
         <h1 className={s.title}>즐겨찾기</h1>
+        <DatePick value={day} onChange={setDay} dates={Object.values(lessons).map((l) => l.date)} />
         <div className={s.chips} role="group" aria-label="항목">
           {KINDS.map(([k, label]) => (
             <button key={k} type="button" className={s.chip} aria-pressed={kind === k} onClick={() => setKind(k)} data-testid={`fav-${k}`}>
