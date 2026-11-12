@@ -138,7 +138,7 @@ async function doLoad() {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data: unknown = await res.json();
       const [folder, file] = e.file.split('/');
-      const errors = validateLesson(data, { folderTrack: folder, fileStem: file.replace(/\.json$/, '') });
+      const errors = validateLesson(data, { folderTrack: folder, fileStem: file.replace(/\.json$/, ''), requireGlossary: true });
       if (errors.length) {
         byKey.set(key, summarizeEntry(e, errors));
       } else {

@@ -30,6 +30,8 @@ export interface Vocab {
   id: string; term: string; pos: string; meaningKo: string; ipa?: string | null; synonyms?: string[];
   matchText: string; sentenceId: string; example?: Example;
 }
+export interface GlossEntry { lemma: string; pos: string; ko: string; form?: string | null }
+export type Glossary = Record<string, GlossEntry>;
 export interface Chunk { text: string; role: Role; sub?: boolean; ko: string }
 export interface RawStructure { id: string; sentenceId: string; chunks: Chunk[]; skeleton: string; explanation: string }
 export interface RawGrammar { id: string; title: string; tags: string[]; sentenceId: string; highlight: string[]; explanation: string; example: Example; note?: string | null }
@@ -46,7 +48,7 @@ export interface RawLesson {
   title: string; titleKo: string; genre: string; tags?: string[];
   source: RawSource; audio: RawAudio | null; wordCount: number;
   paragraphs: RawParagraph[]; sentences: Sentence[]; vocab: Vocab[];
-  structures: RawStructure[]; grammar: RawGrammar[]; questions?: Question[];
+  structures: RawStructure[]; grammar: RawGrammar[]; glossary?: Glossary; questions?: Question[];
 }
 
 // ---- 화면에서 쓰는 형태 ----
@@ -58,7 +60,7 @@ export interface Lesson {
   schemaVersion: 2; id: string; track: Track; chapter: Chapter | null; date: string; level: Level;
   title: string; titleKo: string; genre: string; genreKo: string; tags: string[]; wordCount: number;
   source: RawSource; audio: Audio | null;
-  paragraphs: Paragraph[]; vocab: Vocab[]; structures: Structure[]; grammar: GrammarPoint[]; questions: Question[];
+  paragraphs: Paragraph[]; vocab: Vocab[]; structures: Structure[]; grammar: GrammarPoint[]; glossary: Glossary; questions: Question[];
   raw: RawLesson;
 }
 

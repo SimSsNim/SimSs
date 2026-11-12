@@ -6,7 +6,8 @@ import type { TabProps } from './LessonPage';
 import { useSettings, setSetting, type DisplayMode } from '../../lib/settings';
 import { SentenceText, WordPopup, SentenceMenu, useLongPress } from '../../components/SentenceView';
 import { grammarOf, structureOf, vocabOf } from '../../lib/lessonUtils';
-import type { Sentence, Vocab } from '../../lib/types';
+import type { GlossEntry, Sentence, Vocab } from '../../lib/types';
+import { wordKey } from '../../lib/text';
 import { db } from '../../lib/db';
 import { usePlayer } from '../../store/player';
 import { autoCheck } from '../../lib/progress';
@@ -24,7 +25,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
   const numbered = lesson.chapter === 'part5';
   const st = useSettings();
   const player = usePlayer();
-  const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; sentence: string } | null>(null);
+  const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; gloss?: GlossEntry; sentence: string } | null>(null);
   const [menu, setMenu] = useState<Sentence | null>(null);
   const marks = useLiveQuery(() => db.sentenceMarks.where('lessonKey').equals(lessonKey).toArray(), [lessonKey]);
   const endRef = useRef<HTMLDivElement>(null);
@@ -100,7 +101,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
                         bookmarked={!!mark?.bookmark} hard={!!mark?.hard} onLong={() => setMenu(sen)}>
                         <SentenceText sentence={sen} vocab={st.hlVocab ? vocabOf(lesson, sen.id) : []}
                           grammar={st.hlGrammar ? grammarOf(lesson, sen.id) : []} structure={structureOf(lesson, sen.id)} slashes={st.showSlashes}
-                          onWord={(w, v) => setPopup({ word: w, vocab: v ?? findVocab(lesson.vocab, sen.id, w), sentence: sen.en })} />
+                          onWord={(w, v) => setPopup({ word: w, vocab: v ?? findVocab(lesson.vocab, sen.id, w), gloss: lesson.glossary[wordKey(w)], sentence: sen.en })} />
                       </SentenceSpan>
                     ) : (
                       <>{i > 0 ? ' ' : null}{renderKo(sen.id, sen.ko, '')}</>
@@ -121,7 +122,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
       <div ref={endRef} aria-hidden="true" style={{ height: 1 }} />
       <Source lesson={lesson} />
 
-      {popup && <WordPopup word={popup.word} vocab={popup.vocab} sentence={popup.sentence} lessonKey={lessonKey} onClose={() => setPopup(null)} />}
+      {popup && <WordPopup word={popup.word} vocab={popup.vocab} gloss={popup.gloss} sentence={popup.sentence} lessonKey={lessonKey} onClose={() => setPopup(null)} />}
       {menu && <SentenceMenu lesson={lesson} lessonKey={lessonKey} sentence={menu} mark={marks?.find((m) => m.sentenceId === menu.id)} onClose={() => setMenu(null)} />}
     </div>
   );

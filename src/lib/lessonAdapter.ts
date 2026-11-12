@@ -11,6 +11,12 @@ export const POS_SHORT: Record<string, string> = {
   phrase: '구', idiom: '숙어', 'phrasal-verb': '구동사',
 };
 
+export const POS_KO: Record<string, string> = {
+  noun: '명사', verb: '동사', adjective: '형용사', adverb: '부사', preposition: '전치사', conjunction: '접속사',
+  pronoun: '대명사', determiner: '한정사', auxiliary: '조동사', interjection: '감탄사', 'proper-noun': '고유명사',
+  number: '수사', phrase: '구', idiom: '숙어', 'phrasal-verb': '구동사',
+};
+
 /** 검증을 통과한 원본 레슨 → 화면용 형태. 원문 문자열은 바꾸지 않는다. */
 export function toViewLesson(raw: RawLesson): Lesson {
   const byId = new Map(raw.sentences.map((s) => [s.id, s]));
@@ -41,6 +47,7 @@ export function toViewLesson(raw: RawLesson): Lesson {
       id: g.id, title: g.title, tags: g.tags, sentenceId: g.sentenceId, highlight: g.highlight,
       explanationKo: g.explanation, examples: g.example ? [g.example] : [], note: g.note ?? undefined,
     })),
+    glossary: raw.glossary ?? {},
     questions: raw.questions ?? [],
     raw,
   };

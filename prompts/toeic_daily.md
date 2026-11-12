@@ -54,6 +54,7 @@
                "matchText": "break room", "sentenceId": "s1", "example": { "en": "", "ko": "" } } ],
   "structures": [ { "id": "st1", "sentenceId": "s7", "chunks": [ { "text": "The hotel", "role": "S", "ko": "그 호텔은" } ], "skeleton": "", "explanation": "" } ],
   "grammar": [ { "id": "g1", "title": "", "tags": ["품사"], "sentenceId": "s5", "highlight": ["is responsible"], "explanation": "", "example": { "en": "", "ko": "" }, "note": "토익 포인트 한 줄" } ],
+  "glossary": { "단어key": { "lemma": "", "pos": "noun", "ko": "", "form": null } },
   "questions": [
     { "id": "q1", "number": 1, "type": "part5-word-form", "prompt": null,
       "blank": { "sentenceId": "s1", "answerText": "easy" },
@@ -76,9 +77,14 @@ Part 6 문장 넣기는 `"type": "part6-sentence"`, `blank.answerText` = 그 문
 8. `wordCount` = 전체 문장을 공백으로 이어 공백 기준으로 센 수, 위 표의 범위 안.
 9. `audio`는 null. id·파일명·폴더 규칙은 1번 표대로.
 
+**모든 단어 뜻 (`glossary`, 필수)** — 앱에서 지문의 아무 단어나 누르면 이 뜻이 나온다.
+- 단어 목록: `python3 scripts/glossary_words.py <파일>` (저장소를 못 받으면 같은 규칙으로 직접: 문장 `en`에서 정규식 `[A-Za-z0-9]+(?:[’'\-][A-Za-z0-9]+)*`로 뽑고, ’ → ', 소문자, 숫자만 된 것은 빼고, 처음 나온 순서, 중복 없이).
+- 목록의 **모든 key를 빠짐없이, 더도 덜도 없이** 넣는다: `"glossary": { "ripples": { "lemma": "ripple", "pos": "noun", "ko": "잔물결, 파문", "form": "복수형" }, "the": { "lemma": "the", "pos": "determiner", "ko": "그 (정관사)" } }`
+- `lemma` 사전형(고유명사는 원래 대소문자), `pos`: noun, verb, adjective, adverb, preposition, conjunction, pronoun, determiner, auxiliary, interjection, proper-noun, number, phrase 중 하나. `ko`: **이 지문에서 쓰인 뜻**을 짧게(1~3개, 30자 안팎). `form`: 사전형이 아닐 때만(복수형, 과거형, 과거분사, 현재분사(-ing), 3인칭 단수, 비교급, 최상급, 소유격, 줄임말 …). 고유명사는 한글 읽기 + 무엇인지.
+
 **검증 (통과해야 올린다)**
 - `gh repo clone SimSsNim/SimSs` → `pip install jsonschema --break-system-packages` → `python3 scripts/validate_lessons.py public/lessons/toeic/<id>.json`.
-- 저장소를 못 받으면 위 1~9번을 Python으로 직접 확인한다.
+- 저장소를 못 받으면 위 1~9번과 glossary key 목록을 Python으로 직접 확인한다.
 - 실패하면 고치고 다시 검증한다.
 
 ## 5. 내보내기

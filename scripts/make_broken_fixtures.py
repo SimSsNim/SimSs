@@ -39,6 +39,12 @@ d = copy.deepcopy(gen); d["structures"][0]["chunks"][0]["text"] = "A Dog"
 case("chunks-mismatch", d, "general", "chunks를 이은 문장이 원문과 다름")
 d = copy.deepcopy(gen); d["wordCount"] += 1
 case("wordcount", d, "general", "wordCount")
+d = copy.deepcopy(gen); del d["glossary"][next(iter(d["glossary"]))]
+case("glossary-missing", d, "general", "glossary에 없는 단어 1개")
+d = copy.deepcopy(p7); d["glossary"]["zebra"] = {"lemma": "zebra", "pos": "noun", "ko": "얼룩말"}
+case("glossary-extra", d, "toeic", "glossary에 지문에 없는 단어: zebra")
+d = copy.deepcopy(gen); d["glossary"][next(iter(d["glossary"]))]["pos"] = "verbs"
+case("glossary-bad-pos", d, "general", "스키마")
 
 if OUT.exists():
     import shutil; shutil.rmtree(OUT)

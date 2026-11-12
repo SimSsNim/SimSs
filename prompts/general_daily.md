@@ -44,7 +44,8 @@
                     "chunks": [ { "text": "A Crow", "role": "S|V|O|IO|C|OC|M|CONJ", "sub": false, "ko": "직독직해 조각" } ],
                     "skeleton": "핵심 S+V", "explanation": "" } ],
   "grammar": [ { "id": "g1", "title": "", "tags": ["시제"], "sentenceId": "s1", "highlight": ["was sitting"],
-                 "explanation": "", "example": { "en": "", "ko": "" }, "note": null } ]
+                 "explanation": "", "example": { "en": "", "ko": "" }, "note": null } ],
+  "glossary": { "단어key": { "lemma": "", "pos": "noun", "ko": "", "form": null } }
 }
 ```
 (위 `//` 주석과 "또는 …" 설명은 실제 파일에 넣지 않는다.)
@@ -59,9 +60,14 @@
 7. id 규칙: 단락 p1…, 문장 s1…(전체 지문에서 이어서 번호), 단어 v1…, 구조 st1…, 문법 g1….
 8. 설명 난이도는 레벨에 맞춘다.
 
+**모든 단어 뜻 (`glossary`, 필수)** — 앱에서 지문의 아무 단어나 누르면 이 뜻이 나온다.
+- 단어 목록: `python3 scripts/glossary_words.py <파일>` (저장소를 못 받으면 같은 규칙으로 직접: 문장 `en`에서 정규식 `[A-Za-z0-9]+(?:[’'\-][A-Za-z0-9]+)*`로 뽑고, ’ → ', 소문자, 숫자만 된 것은 빼고, 처음 나온 순서, 중복 없이).
+- 목록의 **모든 key를 빠짐없이, 더도 덜도 없이** 넣는다: `"glossary": { "ripples": { "lemma": "ripple", "pos": "noun", "ko": "잔물결, 파문", "form": "복수형" }, "the": { "lemma": "the", "pos": "determiner", "ko": "그 (정관사)" } }`
+- `lemma` 사전형(고유명사는 원래 대소문자), `pos`: noun, verb, adjective, adverb, preposition, conjunction, pronoun, determiner, auxiliary, interjection, proper-noun, number, phrase 중 하나. `ko`: **이 지문에서 쓰인 뜻**을 짧게(1~3개, 30자 안팎). `form`: 사전형이 아닐 때만(복수형, 과거형, 과거분사, 현재분사(-ing), 3인칭 단수, 비교급, 최상급, 소유격, 줄임말 …). 고유명사는 한글 읽기 + 무엇인지.
+
 **검증 (통과해야 내보낸다)**
 - 가능하면 `gh repo clone SimSsNim/SimSs` 후 `pip install jsonschema --break-system-packages` 하고 `python3 scripts/validate_lessons.py public/lessons/general/<id>.json`을 실행한다.
-- 저장소를 못 받으면 Python으로 직접 확인한다: JSON 문법, 1~5번 규칙(문장 잇기 = 원문, chunks 잇기 = 문장, matchText·highlight 포함 여부, wordCount, 개수), 모든 sentenceId가 실제로 있는지, id 규칙(위 1번) = 파일명, track = "general", 폴더 = general, 단어 수가 그 레벨 범위 안.
+- 저장소를 못 받으면 Python으로 직접 확인한다: JSON 문법, 1~5번 규칙(문장 잇기 = 원문, chunks 잇기 = 문장, matchText·highlight 포함 여부, wordCount, 개수, glossary key = 지문 단어 목록), 모든 sentenceId가 실제로 있는지, id 규칙(위 1번) = 파일명, track = "general", 폴더 = general, 단어 수가 그 레벨 범위 안.
 - 실패하면 고쳐서 다시 검증한다. 원문 자체를 고쳐서 맞추는 것은 금지.
 
 ## 5. 내보내기

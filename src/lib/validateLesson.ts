@@ -3,6 +3,7 @@
 import schema from '../../lesson.schema.json';
 import { validateSchema } from './jsonSchema';
 import type { RawLesson } from './types';
+import { wordKey, wordTokens } from './text';
 
 const TOL = 15;
 const WORDS: Record<string, Record<number, [number, number]>> = {
@@ -22,6 +23,8 @@ export interface ValidateOptions {
   folderTrack?: string;
   /** 파일 이름(확장자 제외, = id 여야 함) */
   fileStem?: string;
+  /** glossary(모든 단어 뜻)가 아예 없어도 오류로 볼지. 저장소 파일은 true(파이썬 검사기와 같음), 가져오기·옛 캐시는 false */
+  requireGlossary?: boolean;
 }
 
 export function validateLesson(data: unknown, opts: ValidateOptions = {}): string[] {
@@ -96,6 +99,14 @@ export function validateLesson(data: unknown, opts: ValidateOptions = {}): strin
   if (kind === 'part5') {
     if (!(3 <= nv && nv <= 5)) err(`part5 vocab은 3~5개 (현재 ${nv})`);
   } else if (nv !== 5) err(`vocab은 5개 (현재 ${nv})`);
+
+  // 모든 단어 뜻(glossary): key 목록이 지문 단어와 정확히 같아야 함
+  const gkeys = d.glossary || opts.requireGlossary ? glossaryKeys(d) : [];
+  const gl = d.glossary ?? {};
+  const missing = gkeys.filter((k) => !(k in gl));
+  const extra = Object.keys(gl).filter((k) => !gkeys.includes(k));
+  if (missing.length) err(`glossary에 없는 단어 ${missing.length}개: ${missing.slice(0, 20).join(', ')}`);
+  if (extra.length) err(`glossary에 지문에 없는 단어: ${extra.slice(0, 20).join(', ')}`);
 
   for (const st of d.structures) {
     const s = sents.get(st.sentenceId);
@@ -197,4 +208,17 @@ export function blankedSentence(en: string, answerText: string): string {
   const i = en.indexOf(answerText);
   if (i < 0) return en;
   return en.slice(0, i) + BLANK + en.slice(i + answerText.length);
+}
+
+/** glossary 에 있어야 할 단어 key(지문 등장 순서). scripts/glossary_words.py 의 glossary_keys 와 같다. */
+export function glossaryKeys(d: Pick<RawLesson, 'sentences'>): string[] {
+  const out: string[] = [];
+  for (const s of d.sentences) {
+    for (const t of wordTokens(s.en)) {
+      const k = wordKey(t.text);
+      if (/^[0-9]+$/.test(k) || out.includes(k)) continue;
+      out.push(k);
+    }
+  }
+  return out;
 }

@@ -58,6 +58,7 @@ export function validateSchema(schema: S, value: unknown, path: (string | number
     for (const [k, v] of Object.entries(obj)) {
       if (props[k]) errs.push(...validateSchema(props[k], v, [...path, k]));
       else if (schema.additionalProperties === false) add(`Additional properties are not allowed ('${k}' was unexpected)`);
+      else if (schema.additionalProperties && typeof schema.additionalProperties === 'object') errs.push(...validateSchema(schema.additionalProperties as S, v, [...path, k]));
     }
   }
   if (Array.isArray(schema.oneOf)) {

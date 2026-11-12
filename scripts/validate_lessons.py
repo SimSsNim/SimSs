@@ -21,6 +21,8 @@ import re
 import sys
 from pathlib import Path
 
+from glossary_words import glossary_keys
+
 try:
     from jsonschema import Draft202012Validator, FormatChecker
 except ImportError:
@@ -135,6 +137,19 @@ def check(path, data):
             errs.append(f"part5 vocab은 3~5개 (현재 {nv})")
     elif nv != 5:
         errs.append(f"vocab은 5개 (현재 {nv})")
+
+    # 모든 단어 뜻(glossary): key 목록이 지문 단어와 정확히 같아야 함
+    gkeys = glossary_keys(data)
+    gl = data.get("glossary")
+    if gl is None:
+        errs.append("glossary(모든 단어 뜻) 없음 — scripts/glossary_words.py 로 단어 목록을 뽑아 채울 것")
+        gl = {}
+    missing = [k for k in gkeys if k not in gl]
+    extra = [k for k in gl if k not in gkeys]
+    if missing:
+        errs.append(f"glossary에 없는 단어 {len(missing)}개: {', '.join(missing[:20])}")
+    if extra:
+        errs.append(f"glossary에 지문에 없는 단어: {', '.join(extra[:20])}")
 
     # 구조 분석
     for st in data["structures"]:

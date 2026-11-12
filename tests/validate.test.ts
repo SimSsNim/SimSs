@@ -17,7 +17,7 @@ describe('validateLesson (v2) — 샘플 통과', () => {
   for (const f of SAMPLES) {
     it(f, () => {
       const [folder, name] = f.split('/');
-      expect(validateLesson(read(`public/lessons/${f}`), { folderTrack: folder, fileStem: name.replace('.json', '') })).toEqual([]);
+      expect(validateLesson(read(`public/lessons/${f}`), { folderTrack: folder, fileStem: name.replace('.json', ''), requireGlossary: true })).toEqual([]);
     });
   }
 });
@@ -33,7 +33,7 @@ describe('깨진 레슨: TS 와 파이썬이 같이 실패', () => {
     const file = join(caseDir, folder, readdirSync(join(caseDir, folder))[0]);
     const expected = readFileSync(join(caseDir, 'expect.txt'), 'utf-8').trim();
     it(`${name} (TS)`, () => {
-      const errs = validateLesson(JSON.parse(readFileSync(file, 'utf-8')), { folderTrack: basename(dirname(file)), fileStem: basename(file, '.json') });
+      const errs = validateLesson(JSON.parse(readFileSync(file, 'utf-8')), { folderTrack: basename(dirname(file)), fileStem: basename(file, '.json'), requireGlossary: true });
       expect(errs.length).toBeGreaterThan(0);
       expect(errs.join('\n')).toContain(expected);
     });

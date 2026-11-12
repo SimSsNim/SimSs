@@ -3,7 +3,8 @@ import { useNavigate } from 'react-router-dom';
 import s from '../styles/ui.module.css';
 import r from '../styles/reading.module.css';
 import { segmentSentence } from '../lib/lessonUtils';
-import type { GrammarPoint, Lesson, Sentence, Structure, Vocab } from '../lib/types';
+import type { GlossEntry, GrammarPoint, Lesson, Sentence, Structure, Vocab } from '../lib/types';
+import { POS_KO } from '../lib/lessonAdapter';
 import { speak, useVoices } from '../lib/tts';
 import { getSettings } from '../lib/settings';
 import { addMyWord } from '../lib/words';
@@ -64,8 +65,11 @@ export function SpeakBtn({ text, label = '발음 듣기', rate }: { text: string
   );
 }
 
-export function WordPopup({ word, vocab, sentence, lessonKey, onClose }: { word: string; vocab?: Vocab; sentence?: string; lessonKey: string; onClose: () => void }) {
-  const [meaning, setMeaning] = useState('');
+/** 네이버 영어사전 검색 주소(인터넷 연결 시 더 자세한 뜻·예문) */
+export const dictUrl = (term: string) => `https://en.dict.naver.com/#/search?query=${encodeURIComponent(term)}`;
+
+export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: { word: string; vocab?: Vocab; gloss?: GlossEntry; sentence?: string; lessonKey: string; onClose: () => void }) {
+  const [meaning, setMeaning] = useState(gloss?.ko ?? '');
   const [adding, setAdding] = useState(false);
   return (
     <Sheet onClose={onClose} label={`단어 ${word}`}>
@@ -73,6 +77,7 @@ export function WordPopup({ word, vocab, sentence, lessonKey, onClose }: { word:
         <div>
           <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>{' '}
           {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && `[${vocab.ipa}]`}</span>}
+          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
         </div>
         <div className={s.row}>
           <SpeakBtn text={vocab?.term ?? word} />
@@ -90,6 +95,24 @@ export function WordPopup({ word, vocab, sentence, lessonKey, onClose }: { word:
             </div>
           )}
         </div>
+      ) : gloss && !adding ? (
+        <div className={s.stack} style={{ marginTop: 6 }}>
+          <div style={{ fontWeight: 700 }}>{gloss.ko}</div>
+          {(gloss.form || gloss.lemma.toLowerCase() !== word.toLowerCase()) && (
+            <div className={s.small + ' ' + s.muted}>
+              기본형 <b style={{ fontFamily: 'var(--serif)' }}>{gloss.lemma}</b>{gloss.form ? ` · ${gloss.form}` : ''}
+            </div>
+          )}
+          <div className={s.row}>
+            <button type="button" className={s.btn} onClick={async () => {
+              const term = gloss.pos === 'proper-noun' ? gloss.lemma : gloss.lemma.toLowerCase();
+              await addMyWord({ term, meaningKo: gloss.ko, sentence, lessonKey });
+              toast(`'${term}' 를 내 단어에 추가했어요`);
+              onClose();
+            }}>＋ 내 단어로 추가</button>
+            <a className={s.ghost} href={dictUrl(gloss.lemma)} target="_blank" rel="noopener noreferrer">사전에서 더 보기 ↗</a>
+          </div>
+        </div>
       ) : adding ? (
         <form className={s.stack} style={{ marginTop: 8 }}
           onSubmit={async (e) => {
@@ -105,8 +128,9 @@ export function WordPopup({ word, vocab, sentence, lessonKey, onClose }: { word:
         </form>
       ) : (
         <div className={s.row} style={{ marginTop: 8 }}>
-          <span className={s.muted + ' ' + s.small}>이 레슨의 핵심 단어가 아니에요.</span>
+          <span className={s.muted + ' ' + s.small}>이 레슨 파일에는 이 단어의 뜻 정보가 없어요.</span>
           <button type="button" className={s.btn} onClick={() => setAdding(true)}>＋ 내 단어로 추가</button>
+          <a className={s.ghost} href={dictUrl(word)} target="_blank" rel="noopener noreferrer">사전에서 찾기 ↗</a>
         </div>
       )}
     </Sheet>

@@ -147,6 +147,21 @@
         }
       }
     },
+    "glossary": {
+      "description": "지문의 모든 단어 뜻(앱에서 아무 단어나 누르면 나옴). key = 지문 속 단어를 소문자로(’ → '), 숫자만 된 토큰은 제외. scripts/glossary_words.py 로 목록을 뽑는다. 지문 단어와 key 목록이 정확히 같아야 함. 저장소 레슨은 필수(validate_lessons.py), 앱 가져오기는 없어도 됨",
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["lemma", "pos", "ko"],
+        "properties": {
+          "lemma": { "type": "string", "minLength": 1, "description": "사전형(고유명사는 원래 대소문자)" },
+          "pos": { "enum": ["noun", "verb", "adjective", "adverb", "preposition", "conjunction", "pronoun", "determiner", "auxiliary", "interjection", "proper-noun", "number", "phrase"] },
+          "ko": { "type": "string", "minLength": 1, "description": "이 지문에서의 뜻(짧게)" },
+          "form": { "type": ["string", "null"], "description": "사전형이 아닐 때: 복수형, 과거형, 과거분사, 현재분사(-ing), 3인칭 단수, 비교급, 줄임말 …" }
+        }
+      }
+    },
     "questions": {
       "description": "토익만. part5 = 10문제, part6 = 5문제, part7 = 3문제",
       "type": "array", "minItems": 3, "maxItems": 10,
