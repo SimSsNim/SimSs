@@ -89,11 +89,12 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
   const say = (text: string, slow = false) => speakWord(text, slow);
   return (
     <Sheet onClose={onClose} label={`단어 ${word}`}>
-      <div className={s.between}>
-        <div>
+      <div className={s.between} style={{ alignItems: 'flex-start' }}>
+        <div style={{ minWidth: 0, flex: 1 }}>
           <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>{' '}
-          {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && <span className={s.ipa} data-testid="ipa">{fmtIpa(vocab.ipa)}</span>}</span>}
-          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos} {gloss.ipa && <span className={s.ipa} data-testid="ipa">{fmtIpa(gloss.ipa)}</span>}</span>}
+          {vocab && <span className={s.muted}>{vocab.pos}</span>}
+          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
+          {(vocab?.ipa || (!vocab && gloss?.ipa)) && <span className={s.ipaLine} data-testid="ipa">{fmtIpa(vocab?.ipa ?? gloss?.ipa)}</span>}
         </div>
         <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
       </div>

@@ -63,10 +63,12 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
   return (
     <li className={`${s.card} ${w.item}`} data-testid="word-row">
       <div className={s.between}>
-        <div className={s.row}>
-          <span className={w.term} lang="en">{item.term}</span>
-          {item.pos && <span className={s.muted}>{item.pos}</span>}
-          {item.ipa && <span className={s.muted + ' ' + s.ipa} data-testid="ipa">{fmtIpa(item.ipa)}</span>}
+        <div style={{ minWidth: 0, flex: 1 }}>
+          <div className={s.row}>
+            <span className={w.term} lang="en">{item.term}</span>
+            {item.pos && <span className={s.muted}>{item.pos}</span>}
+          </div>
+          {item.ipa && <span className={s.ipaLine} data-testid="ipa">{fmtIpa(item.ipa)}</span>}
         </div>
         <div className={s.row}>
           <SpeakBtn text={item.term} />

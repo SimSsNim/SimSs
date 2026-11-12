@@ -634,3 +634,18 @@ test('v28. 음성 점검: 설정에서 실제로 말해 보고 기록을 보여 
   await expect(log).toContainText('끝(onend)');
   await expect.poll(() => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken)).toContain('This is a sound test.');
 });
+
+test('v30. 단어 탭: 발음기호는 단어 아래 한 줄(긴 구도 줄바꿈 없음)', async ({ page }) => {
+  await page.setViewportSize({ width: 360, height: 740 });
+  await start(page, './#/words');
+  await page.getByRole('group', { name: '트랙 필터' }).getByRole('button', { name: '전체' }).click();
+  const rows = page.getByTestId('word-row');
+  await expect(rows.first()).toBeVisible();
+  const n = await rows.count();
+  for (let i = 0; i < n; i++) {
+    const ipa = rows.nth(i).getByTestId('ipa');
+    if (!(await ipa.count())) continue;
+    const b = (await ipa.boundingBox())!;
+    expect(b.height, await ipa.textContent() ?? '').toBeLessThan(26);
+  }
+});
