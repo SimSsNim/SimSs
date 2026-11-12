@@ -50,7 +50,7 @@ for (const track of ['general', 'toeic'] as const) {
 
 test('읽기 설정은 두 줄 안에 들어간다(모든 토글을 켜도)', async ({ page }) => {
   await start(page, './#/general/lesson/2026-11-12-L1/full');
-  for (const name of ['문법', '끊어읽기 /', '번역 숨김']) await page.getByRole('button', { name, exact: true }).click();
+  for (const name of ['문법', '끊어읽기 /']) await page.getByRole('button', { name, exact: true }).click();
   const rows = async (tid: string) => page.getByTestId(tid).locator('> *').evaluateAll((els) => new Set(els.map((e) => Math.round(e.getBoundingClientRect().top))).size);
   expect(await rows('display-modes')).toBe(1);
   expect(await rows('reading-toggles')).toBe(1);

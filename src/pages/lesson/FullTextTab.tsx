@@ -26,7 +26,6 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
   const player = usePlayer();
   const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; sentence: string } | null>(null);
   const [menu, setMenu] = useState<Sentence | null>(null);
-  const [revealed, setRevealed] = useState<Set<string>>(new Set());
   const marks = useLiveQuery(() => db.sentenceMarks.where('lessonKey').equals(lessonKey).toArray(), [lessonKey]);
   const endRef = useRef<HTMLDivElement>(null);
   const showEn = st.displayMode !== 'ko';
@@ -42,16 +41,8 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
     return () => io.disconnect();
   }, [lessonKey]);
 
-  const renderKo = (id: string, text: string, cls: string) => {
-    const hidden = st.hideTranslation && !revealed.has(id);
-    return (
-      <span className={`${cls} ${hidden ? r.hidden : ''}`} lang="ko" onClick={hidden ? () => setRevealed(new Set(revealed).add(id)) : undefined}
-        role={hidden ? 'button' : undefined} tabIndex={hidden ? 0 : undefined} aria-label={hidden ? '번역 보기' : undefined}
-        onKeyDown={hidden ? (e) => e.key === 'Enter' && setRevealed(new Set(revealed).add(id)) : undefined}>
-        {text}
-      </span>
-    );
-  };
+  // 번역은 '표시 모드'(영어/한글/문장별/단락별)로만 고른다
+  const renderKo = (_id: string, text: string, cls: string) => <span className={cls} lang="ko">{text}</span>;
 
   return (
     <div>
@@ -65,7 +56,6 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
         <Toggle on={st.hlVocab} set={(v) => setSetting('hlVocab', v)} label="단어" title="핵심 단어 강조" />
         <Toggle on={st.hlGrammar} set={(v) => setSetting('hlGrammar', v)} label="문법" title="문법 강조" />
         <Toggle on={st.showSlashes} set={(v) => setSetting('showSlashes', v)} label="끊어읽기 /" title="끊어 읽기 표시" />
-        <Toggle on={st.hideTranslation} set={(v) => { setSetting('hideTranslation', v); setRevealed(new Set()); }} label="번역 숨김" title="번역 가리기(탭하면 그 문장만 보임)" />
         <details className={r.fontMenu}>
           <summary className={`${s.chip} ${r.tchip}`} style={{ listStyle: 'none' }} title="글자 크기·줄 간격·글꼴">Aa</summary>
           <div className={s.card} style={{ position: 'absolute', zIndex: 30, marginTop: 4, width: 260, right: 0 }}>
