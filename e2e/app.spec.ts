@@ -63,7 +63,7 @@ test('1-1. 트랙 전환: 목록·오늘 카드가 바뀌고 마지막 위치와
   await page.getByTestId('track-toeic').click();
   await expect(page).toHaveURL(/#\/toeic$/);
   await expect(page.getByTestId('part-cards')).toContainText('Workshop Registration Confirmation');
-  await page.getByRole('link', { name: '지문', exact: true }).click();
+  await page.goto('./#/toeic/list');
   await page.getByRole('combobox', { name: 'Part' }).selectOption('all');
   await expect(page.getByTestId('lesson-item')).toHaveCount(3);
   await expect(page.getByTestId('lesson-item').first()).toContainText('AI 작성 연습 지문');

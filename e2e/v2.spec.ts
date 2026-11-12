@@ -51,7 +51,7 @@ test('v2. 일반 L2: 샘플에 없으므로 "아직 없음", 앱이 죽지 않�
   await expect(page.getByText('오늘 다른 레벨')).toHaveCount(0);
   await page.getByRole('group', { name: '내 레벨' }).getByTestId('level-2').click();
   await expect(page.getByTestId('no-lesson')).toBeVisible();
-  await page.getByRole('link', { name: '지문', exact: true }).click();
+  await page.goto('./#/general/list');
   await expect(page.getByText('조건에 맞는 지문이 없어요.')).toBeVisible();
   await page.getByTestId('list-level-all').click();
   await expect(page.getByTestId('lesson-item')).toHaveCount(1);
@@ -277,7 +277,7 @@ test('v12. 맨 위에서 아래로 당기면 새로고침', async ({ page }) => 
 test('v13. 하단 탭: 홈·단어 추가, 제목 심쓰 영어', async ({ page }) => {
   await start(page, './#/review');
   const nav = page.getByRole('navigation', { name: '주 메뉴' });
-  await expect(nav.getByRole('link')).toHaveText(['홈', '지문', '단어', '복습', '문법 모음', '즐겨찾기', '기록/설정']);
+  await expect(nav.getByRole('link')).toHaveText(['홈', '단어', '복습', '문법 모음', '즐겨찾기', '기록/설정']);
   await expect(page.getByText('심쓰 영어')).toBeVisible();
   await expect(page).toHaveTitle('심쓰 영어');
 });
@@ -318,13 +318,13 @@ test('v15. 날짜 고르기: 홈·지문·문법에서 날짜를 바꾸면 그 �
   await expect(page.getByTestId('grammar-card').first()).toBeVisible();
 });
 
-test('v16. 하단 탭: 지금 보는 탭이 표시됨(레슨 화면은 지문)', async ({ page }) => {
+test('v16. 하단 탭: 지금 보는 탭이 표시됨(레슨 화면은 홈)', async ({ page }) => {
   await start(page, './#/toeic');
   await expect(page.getByTestId('nav-active')).toHaveText('홈');
   await page.getByRole('navigation', { name: '주 메뉴' }).getByRole('link', { name: '단어' }).click();
   await expect(page.getByTestId('nav-active')).toHaveText('단어');
   await page.goto(URL5);
-  await expect(page.getByTestId('nav-active')).toHaveText('지문');
+  await expect(page.getByTestId('nav-active')).toHaveText('홈');
   await page.goto('./#/records/settings');
   await expect(page.getByTestId('nav-active')).toHaveText('기록/설정');
 });

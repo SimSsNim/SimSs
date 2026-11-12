@@ -7,9 +7,8 @@ export function BottomNav() {
   const { track } = useSettings();
   const { pathname } = useLocation();
   const items = [
-    { to: `/${track}`, label: '홈', icon: 'today', match: /^\/(general|toeic)\/?$/ },
-    // 레슨 화면도 '지문' 탭 안으로 본다
-    { to: `/${track}/list`, label: '지문', icon: 'list', match: /^\/(general|toeic)\/(list|lesson)(\/|$)/ },
+    // 레슨 화면도 '홈' 탭 안으로 본다
+    { to: `/${track}`, label: '홈', icon: 'today', match: /^\/(general|toeic)(\/?$|\/(list|lesson)(\/|$))/ },
     { to: '/words', label: '단어', icon: 'abc', match: /^\/words/ },
     { to: '/review', label: '복습', icon: 'review', match: /^\/(review|drill)/ },
     { to: '/grammar', label: '문법 모음', icon: 'grammar', match: /^\/grammar/ },
