@@ -1,0 +1,56 @@
+# 예약 작업(클라우드 세션)은 main 에 직접 쓰지 못하고 자기 브랜치(ccr-…)에만 push 할 수 있을 때가 있다.
+# 그 브랜치에 새로 생긴 레슨 JSON 만 골라 검증한 뒤 main 에 올리고, 배포를 시작한다.
+name: Copy routine lessons to main
+
+on:
+  push:
+    branches: ['ccr-**']
+    paths:
+      - 'public/lessons/general/*.json'
+      - 'public/lessons/toeic/*.json'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: lessons-to-main
+  cancel-in-progress: false
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install jsonschema
+      - name: Copy lesson files added or changed on the routine branch
+        env:
+          BR: ${{ github.ref_name }}
+        run: |
+          git fetch origin "$BR"
+          base=$(git merge-base origin/main "origin/$BR")
+          files=$(git diff --name-only --diff-filter=AM "$base" "origin/$BR" -- 'public/lessons/general/*.json' 'public/lessons/toeic/*.json' | grep -v '/index.json$' || true)
+          echo "files: $files"
+          for f in $files; do git show "origin/$BR:$f" > "$f"; done
+          echo "FILES<<EOF" >> "$GITHUB_ENV"; echo "$files" >> "$GITHUB_ENV"; echo "EOF" >> "$GITHUB_ENV"
+      - name: Validate every lesson (a broken file stops here, main is untouched)
+        run: python scripts/validate_lessons.py public/lessons
+      - name: Commit to main and start deploy
+        env:
+          BR: ${{ github.ref_name }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain -- public/lessons)" ]; then echo "새 레슨 없음(이미 main 에 있음)"; exit 0; fi
+          git config user.name "lesson-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/lessons/general/*.json public/lessons/toeic/*.json
+          git commit -m "lesson: copy from $BR" -m "$FILES"
+          for i in 1 2 3; do git push origin HEAD:main && break; git pull --rebase origin main; done
+          # GITHUB_TOKEN 으로 push 하면 배포 워크플로가 자동으로 안 돌아서 직접 시작
+          gh workflow run deploy.yml --ref main

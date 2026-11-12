@@ -92,7 +92,8 @@ Part 6 문장 넣기는 `"type": "part6-sentence"`, `blank.answerText` = 그 문
 ## 5. 내보내기
 - `gh` 명령이 인증 오류를 내면 같은 요청을 `curl -sS -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/SimSsNim/SimSs/contents/...` 로 다시 시도한다(PUT은 `-X PUT -d '{"message":"...","content":"<base64>"}'`). 저장소 단위 경로(`repos/...`)만 쓸 수 있다.
 1. **저장소에 올리기**: 파일마다 `gh api -X PUT repos/SimSsNim/SimSs/contents/public/lessons/toeic/<id>.json -f message="lesson(toeic): <id>" -f content="$(base64 -w0 <파일>)"`. index.json은 올리지 않는다(CI가 만든다).
-2. **올리지 못했으면**: 만든 JSON 파일들을 SendUserFile로 한 번에 보내고 메시지 끝에 "앱 → 기록/설정 → 백업 → 레슨 가져오기로 이 파일들을 넣어 주세요"를 붙인다.
+2. **PUT 이 403(쓰기 막힘) 등으로 안 되면 — git 으로 자기 브랜치에 push**: 저장소를 clone 한 폴더에서 레슨 파일만 `git add public/lessons/toeic/<id>.json …` → `git commit -m "lesson(toeic): <id> …"` → `git push -u origin HEAD`(지금 세션의 작업 브랜치 그대로, 이름을 바꾸지 않는다). 저장소의 GitHub Action(`Copy routine lessons to main`)이 `ccr-…` 브랜치에 들어온 레슨을 검증해 1~2분 안에 main 에 올리고 배포한다. 이 경우 메시지 마지막 줄은 "📱 앱에 반영됨(1~2분 뒤)".
+3. **git push 도 안 되면**: 만든 JSON 파일들을 SendUserFile로 한 번에 보내고 메시지 끝에 "앱 → 기록/설정 → 백업 → 레슨 가져오기로 이 파일들을 넣어 주세요"를 붙인다.
 
 ## 6. 한국어 안내 메시지 (최종 답변으로 한 번)
 인사말·작업 과정 설명 없이:
