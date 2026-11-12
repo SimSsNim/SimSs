@@ -21,6 +21,7 @@ import { ListenTab } from './ListenTab';
 import { PracticeTab } from './PracticeTab';
 import { useState } from 'react';
 import { backTarget } from '../../lib/backTarget';
+import { LessonSteps } from '../../components/LessonSteps';
 
 export interface TabProps {
   lesson: Lesson;
@@ -139,6 +140,7 @@ export function LessonPage() {
             </button>
           ))}
         </nav>
+        {track === 'general' && <LessonSteps lessonKey={key} track={track} id={id!} tab={tab} />}
       </div>
       <main className={s.page}><div role="tabpanel" key={key} aria-label={TABS.find((t) => t.id === tab)?.label}>{body}</div></main>
     </>

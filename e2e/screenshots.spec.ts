@@ -18,8 +18,6 @@ test('주요 화면 캡처', async ({ page }) => {
   await page.screenshot({ path: `${dir}/09-level-picker.png` });
   await page.getByTestId('onb-start').click();
 
-  await page.getByTestId('check-listen').check();
-  await page.getByTestId('check-read').check();
   await page.screenshot({ path: `${dir}/01-home.png` });
 
   await page.goto(`${G}/full`);

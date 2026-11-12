@@ -116,7 +116,7 @@ export function Home({ all = false }: { all?: boolean }) {
       <>
         {!p.isToday && <p className={s.muted} role="note" data-testid="not-arrived">{day === today ? '오늘 지문은 아직 도착하지 않았어요.' : `${formatKo(day)} ${isNews ? '뉴스가' : `레벨 ${lv} 지문이`} 없어요.`} 가장 가까운 이전({formatKo(p.date!)}) {isNews ? '뉴스' : `레벨 ${lv} 지문`}를 보여 드려요.</p>}
         {t === 'general' ? (
-          <StoryPicker key={`${p.date}|${what(t)}`} lessons={p.lessons} checklistOf={(k) => progOf(k)?.checklist ?? emptyChecklist()} />
+          <StoryPicker key={`${p.date}|${what(t)}`} lessons={p.lessons} checklistOf={(k) => progOf(k)?.checklist ?? emptyChecklist()} steps={all ? 'collapsed' : 'none'} />
         ) : (
           <ToeicToday lessons={p.lessons} attempts={attempts ?? []} />
         )}
@@ -172,7 +172,7 @@ export function Home({ all = false }: { all?: boolean }) {
 }
 
 /** 같은 날 이야기가 여러 편이면 위에 고르는 칩 */
-function StoryPicker({ lessons, checklistOf }: { lessons: LessonSummary[]; checklistOf: (key: string) => Record<string, boolean> }) {
+function StoryPicker({ lessons, checklistOf, steps }: { lessons: LessonSummary[]; checklistOf: (key: string) => Record<string, boolean>; steps: 'none' | 'collapsed' }) {
   const [i, setI] = useState(0);
   const cur = lessons[Math.min(i, lessons.length - 1)];
   return (
@@ -189,12 +189,12 @@ function StoryPicker({ lessons, checklistOf }: { lessons: LessonSummary[]; check
           })}
         </div>
       )}
-      <GeneralToday lesson={cur} checklist={checklistOf(cur.key)} />
+      <GeneralToday lesson={cur} checklist={checklistOf(cur.key)} steps={steps} />
     </>
   );
 }
 
-function GeneralToday({ lesson, checklist }: { lesson: LessonSummary; checklist: Record<string, boolean> }) {
+function GeneralToday({ lesson, checklist, steps }: { lesson: LessonSummary; checklist: Record<string, boolean>; steps: 'none' | 'collapsed' }) {
   const [optimistic, setOptimistic] = useState<Record<string, boolean>>({});
   useEffect(() => setOptimistic({}), [checklist, lesson.key]);
   const list = { ...checklist, ...optimistic };
@@ -209,8 +209,11 @@ function GeneralToday({ lesson, checklist }: { lesson: LessonSummary; checklist:
         </div>
         <div style={{ fontFamily: 'var(--serif)', fontSize: 22, fontWeight: 700 }}>{lesson.title}</div>
         <div className={s.muted}>{lesson.titleKo} · {formatKo(lesson.date)}</div>
+        <div className={s.small} style={{ marginTop: 4 }} data-testid="today-steps">학습 순서 {CHECKLIST_KEYS.filter((k) => list[k]).length}/6 단계 · 들어가서 진행해요 ›</div>
       </Link>
-      <h2 className={s.h2}>오늘의 학습 순서</h2>
+      {steps === 'collapsed' && (
+      <details style={{ marginTop: 8 }} data-testid="steps-collapsed">
+      <summary className={s.small} style={{ cursor: 'pointer', minHeight: 36, fontWeight: 700 }}>오늘의 학습 순서 펼치기</summary>
       <ol className={s.list}>
         {CHECKLIST.map((c, i) => (
           <li key={c.key} className={s.card} style={{ padding: '6px 12px' }}>
@@ -228,6 +231,8 @@ function GeneralToday({ lesson, checklist }: { lesson: LessonSummary; checklist:
           </li>
         ))}
       </ol>
+      </details>
+      )}
     </>
   );
 }

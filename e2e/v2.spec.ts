@@ -438,3 +438,26 @@ test('v20. 문법 카드: 예시는 맨 아래에 닫힌 채로, 하나씩·전�
   await page.getByTestId('examples-close-all').click();
   await expect(page.getByTestId('examples')).toHaveCount(0);
 });
+
+test('v21. 이야기 학습 순서: 홈엔 없음, 전체 보기는 접힘, 레슨 안 가로 줄에서 이동·체크', async ({ page }) => {
+  await start(page, './#/general');
+  await expect(page.getByTestId('today-card')).toBeVisible();
+  await expect(page.getByTestId('check-listen')).toHaveCount(0);
+  await page.getByTestId('track-all').click();
+  await expect(page.getByTestId('steps-collapsed')).toBeVisible();
+  await expect(page.getByTestId('check-listen')).toBeHidden();
+  await page.getByTestId('steps-collapsed').locator('summary').click();
+  await expect(page.getByTestId('check-listen')).toBeVisible();
+  await page.goto('./#/general/lesson/2026-11-12-L1/vocab');
+  const steps = page.getByTestId('lesson-steps');
+  await expect(steps).toContainText('순서 0/6');
+  await expect(page.getByTestId('step-vocab')).toHaveAttribute('aria-current', 'step');
+  await page.getByTestId('step-grammar').click();
+  await expect(page).toHaveURL(/\/grammar$/);
+  await page.getByTestId('step-check-listen').click();
+  await expect(steps).toContainText('순서 1/6');
+  await page.getByTestId('step-check-listen').click();
+  await expect(steps).toContainText('순서 0/6');
+  await page.goto('./#/toeic/lesson/2026-11-12-L1-part5/quiz');
+  await expect(page.getByTestId('lesson-steps')).toHaveCount(0);
+});
