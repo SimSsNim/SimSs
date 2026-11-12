@@ -2,7 +2,7 @@ import { useState } from 'react';
 import s from '../styles/ui.module.css';
 import { exportBackup, importBackup, parseBackup } from '../lib/backup';
 import { useSettings, setSetting, loadSettings } from '../lib/settings';
-import { importLessonTexts, useLessons, removeImported, loadLessons, type ImportResult } from '../lib/lessons';
+import { importLessonTexts, importSummaryText, useLessons, removeImported, loadLessons, type ImportResult } from '../lib/lessons';
 import { db } from '../lib/db';
 import { download } from './lesson/ListenTab';
 import { toast } from '../components/Toast';
@@ -106,6 +106,7 @@ export function ImportPanel() {
         </label>
         <textarea className={s.textarea} value={text} onChange={(e) => setText(e.target.value)} placeholder="또는 레슨 JSON을 여기에 붙여넣기" aria-label="레슨 JSON 붙여넣기" data-testid="import-text" />
         <button type="button" className={s.primary} disabled={!text.trim()} onClick={() => void run([{ name: '붙여넣기', text }])} data-testid="import-run">검증하고 가져오기</button>
+        {results.length > 1 && <p role="status" data-testid="import-summary" style={{ fontWeight: 700, margin: 0 }}>{importSummaryText(results)}</p>}
         {results.map((r, i) => (
           <div key={i} className={s.card} role="status" data-testid="import-result">
             <div className={s.row}>
@@ -113,7 +114,7 @@ export function ImportPanel() {
               <b>{r.name}</b> {r.key && <span className={s.muted}>{r.key}</span>}
             </div>
             {r.shadowed && <p className={s.small}>저장소에 같은 레슨이 있어 저장소 것을 계속 써요.</p>}
-            {!r.ok && <ul className={s.small}>{r.errors.map((e, k) => <li key={k}>{e}</li>)}</ul>}
+            {!r.ok && <ul className={s.small}>{r.errors.map((e, k) => <li key={k} style={{ whiteSpace: 'pre-wrap' }}>{e}</li>)}</ul>}
           </div>
         ))}
       </section>

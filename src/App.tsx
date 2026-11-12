@@ -5,11 +5,13 @@ import { isTrack } from './lib/types';
 import { BottomNav } from './components/BottomNav';
 import { MiniPlayer } from './components/MiniPlayer';
 import { Toasts } from './components/Toast';
+import { LevelOnboarding } from './components/LevelOnboarding';
 import { Home } from './pages/Home';
 import { LessonList } from './pages/LessonList';
 
 // 첫 화면(홈·목록) 밖은 나눠서 불러온다
-const Wordbook = lazy(() => import('./pages/Wordbook').then((m) => ({ default: m.Wordbook })));
+const Review = lazy(() => import('./pages/Review').then((m) => ({ default: m.Review })));
+const Drill = lazy(() => import('./pages/Review').then((m) => ({ default: m.Drill })));
 const GrammarAll = lazy(() => import('./pages/GrammarAll').then((m) => ({ default: m.GrammarAll })));
 const Records = lazy(() => import('./pages/Records').then((m) => ({ default: m.Records })));
 const LessonPage = lazy(() => import('./pages/lesson/LessonPage').then((m) => ({ default: m.LessonPage })));
@@ -73,7 +75,9 @@ export function App() {
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>
         <Route path="/" element={<Navigate to={`/${track}`} replace />} />
-        <Route path="/words" element={<Wordbook />} />
+        <Route path="/review" element={<Review />} />
+        <Route path="/words" element={<Navigate to="/review?tab=words" replace />} />
+        <Route path="/drill" element={<Drill />} />
         <Route path="/grammar" element={<GrammarAll />} />
         <Route path="/records" element={<Records />} />
         <Route path="/records/:section" element={<Records />} />
@@ -89,6 +93,7 @@ export function App() {
       <MiniPlayer />
       <BottomNav />
       <Toasts />
+      <LevelOnboarding />
     </HashRouter>
   );
 }

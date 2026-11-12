@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-12-L1-part6",
+  "date": "2026-11-12",
+  "level": 1,
+  "title": "Elevator Inspection Notice",
+  "titleKo": "엘리베이터 점검 안내",
+  "genre": "notice",
+  "tags": [
+    "TOEIC Part 6",
+    "공지",
+    "시설 보수"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 89,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "전 직원께:"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "다음 주 화요일에 우리 건물 엘리베이터 점검이 있습니다. 점검은 오전 8시에 시작해 정오까지 끝날 예정입니다. 작업이 일찍 끝나면 이메일로 알려 드리겠습니다. 이 시간 동안에는 건물 동쪽 계단을 이용해 주세요. 일부 직원분들께는 불편할 수 있다는 점 이해합니다. 무거운 물건을 옮기는 데 도움이 필요한 직원은 안내 데스크에 연락하시면 됩니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "양해와 협조에 감사드립니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "시설 관리팀"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To all employees:",
+      "ko": "전 직원께:",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The elevators in our building will be inspected next Tuesday.",
+      "ko": "다음 주 화요일에 우리 건물 엘리베이터 점검이 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The inspection will begin at 8:00 in the morning and should be finished by noon.",
+      "ko": "점검은 오전 8시에 시작해 정오까지 끝날 예정입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "If the work finishes early, we will send an e-mail to let you know.",
+      "ko": "작업이 일찍 끝나면 이메일로 알려 드리겠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "During this time, please use the stairs on the east side of the building.",
+      "ko": "이 시간 동안에는 건물 동쪽 계단을 이용해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "We understand that this may be inconvenient for some of you.",
+      "ko": "일부 직원분들께는 불편할 수 있다는 점 이해합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Employees who need help carrying heavy items can contact the front desk.",
+      "ko": "무거운 물건을 옮기는 데 도움이 필요한 직원은 안내 데스크에 연락하시면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Thank you for your patience and cooperation.",
+      "ko": "양해와 협조에 감사드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Facilities Management Team",
+      "ko": "시설 관리팀",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "inspect",
+      "pos": "verb",
+      "meaningKo": "점검하다, 검사하다",
+      "ipa": "/ɪnˈspekt/",
+      "synonyms": [
+        "examine",
+        "check"
+      ],
+      "matchText": "inspected",
+      "sentenceId": "s2",
+      "example": {
+        "en": "They inspect the machines every month.",
+        "ko": "그들은 매달 기계를 점검한다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "inconvenient",
+      "pos": "adjective",
+      "meaningKo": "불편한",
+      "ipa": "/ˌɪnkənˈviːniənt/",
+      "synonyms": [
+        "troublesome"
+      ],
+      "matchText": "inconvenient",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Is Monday inconvenient for you?",
+        "ko": "월요일은 불편하세요?"
+      }
+    },
+    {
+      "id": "v3",
+      "term": "contact",
+      "pos": "verb",
+      "meaningKo": "연락하다",
+      "ipa": "/ˈkɑːntækt/",
+      "synonyms": [
+        "get in touch with",
+        "reach"
+      ],
+      "matchText": "contact",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please contact me by e-mail.",
+        "ko": "이메일로 연락 주세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "front desk",
+      "pos": "noun",
+      "meaningKo": "안내 데스크, 프런트",
+      "ipa": null,
+      "synonyms": [
+        "reception desk"
+      ],
+      "matchText": "front desk",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Leave the key at the front desk.",
+        "ko": "열쇠는 안내 데스크에 맡기세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "cooperation",
+      "pos": "noun",
+      "meaningKo": "협조, 협력",
+      "ipa": "/koʊˌɑːpəˈreɪʃn/",
+      "synonyms": [
+        "collaboration",
+        "help"
+      ],
+      "matchText": "cooperation",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Thank you for your cooperation.",
+        "ko": "협조해 주셔서 감사합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "During this time,",
+          "role": "M",
+          "ko": "이 시간 동안"
+        },
+        {
+          "text": "please use",
+          "role": "V",
+          "ko": "이용해 주세요"
+        },
+        {
+          "text": "the stairs",
+          "role": "O",
+          "ko": "계단을"
+        },
+        {
+          "text": "on the east side of the building.",
+          "role": "M",
+          "ko": "건물 동쪽에 있는"
+        }
+      ],
+      "skeleton": "(you) please use the stairs",
+      "explanation": "주어 you가 빠진 명령문. During this time은 때를 나타내는 전치사구."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Employees",
+          "role": "S",
+          "ko": "직원들은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그 직원들은)"
+        },
+        {
+          "text": "need",
+          "role": "V",
+          "sub": true,
+          "ko": "필요로 한다"
+        },
+        {
+          "text": "help",
+          "role": "O",
+          "sub": true,
+          "ko": "도움을"
+        },
+        {
+          "text": "carrying heavy items",
+          "role": "M",
+          "sub": true,
+          "ko": "무거운 물건 옮기는 데"
+        },
+        {
+          "text": "can contact",
+          "role": "V",
+          "ko": "연락할 수 있다"
+        },
+        {
+          "text": "the front desk.",
+          "role": "O",
+          "ko": "안내 데스크에"
+        }
+      ],
+      "skeleton": "Employees can contact the front desk",
+      "explanation": "who ~ items가 주어 Employees를 꾸며서 주어가 길어졌다. 진짜 동사는 can contact."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "during + 명사 / while + 주어 + 동사",
+      "tags": [
+        "전치사",
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "During this time"
+      ],
+      "explanation": "뜻은 둘 다 '~하는 동안'이지만 during은 전치사라 명사가, while은 접속사라 문장이 뒤에 온다.",
+      "example": {
+        "en": "I slept during the movie.",
+        "ko": "나는 영화 보는 동안 잤다."
+      },
+      "note": "빈칸 뒤가 명사구인지 '주어+동사'인지부터 본다."
+    },
+    {
+      "id": "g2",
+      "title": "긴 주어 속 진짜 동사 찾기 (관계대명사절)",
+      "tags": [
+        "관계사",
+        "일치"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "Employees who need help",
+        "can contact"
+      ],
+      "explanation": "주어 뒤에 who절이 붙어 길어져도 문장 동사는 하나(can contact). 동사 자리 문제에서 자주 나온다.",
+      "example": {
+        "en": "The man who lives next door is a doctor.",
+        "ko": "옆집에 사는 남자는 의사다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "미래 수동태 will be + p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "will be inspected"
+      ],
+      "explanation": "사물 주어(The elevators)가 동작을 '받는' 경우 수동태. 미래 시점 표현(next Tuesday)이 있으면 will be + p.p..",
+      "example": {
+        "en": "The road will be repaired soon.",
+        "ko": "그 도로는 곧 수리될 것이다."
+      },
+      "note": "Part 6는 빈칸 문장만이 아니라 앞뒤 문장에서 시제 단서를 찾아야 한다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "will be inspected"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "inspected"
+        },
+        {
+          "key": "B",
+          "text": "will be inspected"
+        },
+        {
+          "key": "C",
+          "text": "are inspecting"
+        },
+        {
+          "key": "D",
+          "text": "inspect"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "next Tuesday(미래) + 엘리베이터는 '점검받는' 대상 → 미래 수동태 will be inspected.",
+      "skill": "시제 + 수동태"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "During"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "While"
+        },
+        {
+          "key": "B",
+          "text": "During"
+        },
+        {
+          "key": "C",
+          "text": "Since"
+        },
+        {
+          "key": "D",
+          "text": "Between"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "뒤에 명사구 this time만 있으니 전치사 During. While은 접속사라 뒤에 '주어+동사'.",
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "inconvenient"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "inconvenient"
+        },
+        {
+          "key": "B",
+          "text": "inconvenience"
+        },
+        {
+          "key": "C",
+          "text": "inconveniently"
+        },
+        {
+          "key": "D",
+          "text": "inconveniences"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "be동사(may be) 뒤 보어 자리 + for some of you → 형용사 inconvenient.",
+      "skill": "형용사 자리"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "Employees who need help carrying heavy items can contact the front desk."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The cafeteria will offer a special lunch menu."
+        },
+        {
+          "key": "B",
+          "text": "The new elevators were installed last year."
+        },
+        {
+          "key": "C",
+          "text": "Please send your reports to the manager by Friday."
+        },
+        {
+          "key": "D",
+          "text": "Employees who need help carrying heavy items can contact the front desk."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장에서 '불편할 수 있다'고 했으니, 이어서 불편을 덜어 줄 도움 방법(안내 데스크에 연락)이 와야 자연스럽다.",
+      "skill": "문장 넣기(앞뒤 흐름)",
+      "choiceNotesKo": {
+        "A": "식당 메뉴는 점검 이야기와 상관없다.",
+        "B": "엘리베이터 설치 시기는 흐름과 맞지 않는다.",
+        "C": "보고서 제출은 다른 주제다."
+      }
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "cooperation"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "cooperate"
+        },
+        {
+          "key": "B",
+          "text": "cooperative"
+        },
+        {
+          "key": "C",
+          "text": "cooperation"
+        },
+        {
+          "key": "D",
+          "text": "cooperatively"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "your patience and ------- : and로 명사 patience와 나란히 → 명사 cooperation.",
+      "skill": "병렬 구조 + 품사"
+    }
+  ]
+}

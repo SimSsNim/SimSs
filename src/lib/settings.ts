@@ -1,6 +1,6 @@
 import { useSyncExternalStore } from 'react';
 import { db } from './db';
-import type { Track } from './types';
+import type { Chapter, Level, Track } from './types';
 
 export type Theme = 'system' | 'light' | 'dark';
 export type DisplayMode = 'en' | 'ko' | 'both-sentence' | 'both-paragraph';
@@ -8,6 +8,10 @@ export type Accent = 'en-US' | 'en-GB' | 'en-AU' | 'en-CA';
 
 export interface Settings {
   track: Track;
+  /** 트랙마다 따로 고른 '내 레벨'. null = 아직 안 고름(첫 실행 화면) */
+  levelByTrack: Record<Track, Level | null>;
+  toeicChapter: Chapter;
+  quizMode: 'practice' | 'exam';
   theme: Theme;
   fontSize: 0 | 1 | 2 | 3;
   lineHeight: number;
@@ -41,6 +45,9 @@ export interface Settings {
 
 export const DEFAULT_SETTINGS: Settings = {
   track: 'general',
+  levelByTrack: { general: null, toeic: null },
+  toeicChapter: 'part5',
+  quizMode: 'practice',
   theme: 'system',
   fontSize: 1,
   lineHeight: 1.8,

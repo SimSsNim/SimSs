@@ -10,6 +10,11 @@ import { useLessons } from '../lib/lessons';
 import { TRACK_LABEL } from '../lib/types';
 import { SettingsPanel } from './SettingsPanel';
 import { BackupPanel, ImportPanel, ResetPanel } from './DataPanels';
+import { LevelFilterChips, type LevelFilter } from './Wordbook';
+import { quizStats, weakest, pct } from '../lib/stats';
+import { CHAPTERS, CHAPTER_LABEL, LEVELS } from '../lib/types';
+import { Link } from 'react-router-dom';
+import { mmss } from './lesson/practice/Transcribe';
 
 const SECTIONS = [
   { id: 'stats', label: '기록' },
@@ -47,6 +52,7 @@ const ACTION_LABEL: Record<string, string> = {
 };
 
 function Stats() {
+  const [levelF, setLevelF] = useState<LevelFilter>('all');
   const daily = useLiveQuery(() => db.dailyLog.toArray(), []);
   const progress = useLiveQuery(() => db.lessonProgress.toArray(), []);
   const words = useLiveQuery(() => db.wordState.toArray(), []);
@@ -87,6 +93,9 @@ function Stats() {
 
   return (
     <div className={s.stack}>
+      <LevelFilterChips value={levelF} onChange={setLevelF} />
+      <QuizStatsSection levelF={levelF} />
+      <GeneralLevelSection levelF={levelF} />
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 8 }}>
         <Tile label="완료한 레슨" value={completed} />
         <Tile label="아는 단어" value={known.length} />
@@ -176,5 +185,70 @@ function LineChart({ data, max: maxIn, unit = '' }: { data: Pt[]; max?: number; 
         </g>
       ))}
     </svg>
+  );
+}
+
+function RateBar({ label, ok, n, testid }: { label: string; ok: number; n: number; testid?: string }) {
+  const p = n ? Math.round((ok / n) * 100) : 0;
+  return (
+    <div style={{ display: 'grid', gridTemplateColumns: '8.5em 1fr 5.5em', gap: 8, alignItems: 'center', fontSize: 14 }} data-testid={testid}>
+      <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{label}</span>
+      <div className={s.progressBar} aria-hidden="true"><span style={{ width: `${p}%` }} /></div>
+      <span style={{ textAlign: 'right' }}>{n ? `${p}% (${ok}/${n})` : '–'}</span>
+    </div>
+  );
+}
+
+/** 토익: Part별·유형별·레벨별 정답률, 풀이 시간 vs 권장, 이번 주 약점 (첫 시도 기준) */
+function QuizStatsSection({ levelF }: { levelF: LevelFilter }) {
+  const attempts = useLiveQuery(() => db.quizAttempt.toArray(), []);
+  const { lessons } = useLessons();
+  if (!attempts) return null;
+  const st = quizStats(attempts, lessons, (a) => levelF === 'all' || a.level === levelF);
+  const weekAgo = Date.now() - 7 * 86400000;
+  const week = quizStats(attempts, lessons, (a) => (a.finishedAt ?? 0) >= weekAgo && (levelF === 'all' || a.level === levelF));
+  const weak = weakest(week.bySkill);
+  return (
+    <section className={s.card + ' ' + s.stack} data-testid="quiz-stats">
+      <b>토익 문제 풀이 <span className={s.small + ' ' + s.muted}>첫 시도 기준 · {st.attempts}세트</span></b>
+      {st.attempts === 0 ? <p className={s.small + ' ' + s.muted} style={{ margin: 0 }}>아직 푼 세트가 없어요.</p> : (
+        <>
+          <div className={s.small} style={{ fontWeight: 700 }}>Part별 정답률</div>
+          {CHAPTERS.map((c) => { const r = st.byChapter.get(c); return <RateBar key={c} label={CHAPTER_LABEL[c]} ok={r?.ok ?? 0} n={r?.n ?? 0} testid={`rate-${c}`} />; })}
+          <div className={s.small} style={{ fontWeight: 700 }}>레벨별 정답률</div>
+          {LEVELS.map((l) => { const r = st.byLevel.get(l); return r ? <RateBar key={l} label={`L${l}`} ok={r.ok} n={r.n} /> : null; })}
+          <div className={s.small} style={{ fontWeight: 700 }}>유형별 정답률</div>
+          {[...st.bySkill.entries()].sort((a, b) => pct(a[1]) - pct(b[1])).map(([k, r]) => <RateBar key={k} label={k} ok={r.ok} n={r.n} />)}
+          <div className={s.small} style={{ fontWeight: 700 }}>평균 풀이 시간 / 권장 시간</div>
+          <table className={s.table}><tbody>
+            {CHAPTERS.map((c) => { const t = st.time.get(c); return t ? <tr key={c}><td>{CHAPTER_LABEL[c]}</td><td>{mmss(t.avgSec)} / {mmss(t.recSec)}</td><td style={{ color: t.avgSec > t.recSec ? 'var(--danger)' : 'var(--ok)' }}>{t.avgSec > t.recSec ? '느림' : '여유'}</td></tr> : null; })}
+          </tbody></table>
+        </>
+      )}
+      <div className={s.small} style={{ fontWeight: 700 }}>이번 주 약점</div>
+      {weak.length === 0 ? <p className={s.small + ' ' + s.muted} style={{ margin: 0 }}>이번 주 약점 유형이 아직 없어요(유형마다 2문제 이상 풀면 나와요).</p> : (
+        <div className={s.row}>
+          {weak.map(([k, r]) => <Link key={k} className={s.chip} to={`/drill?skill=${encodeURIComponent(k)}`} data-testid="weak-skill">{k} {pct(r)}% ›</Link>)}
+        </div>
+      )}
+    </section>
+  );
+}
+
+/** 일반: 레벨별 학습 레슨 수 */
+function GeneralLevelSection({ levelF }: { levelF: LevelFilter }) {
+  const progress = useLiveQuery(() => db.lessonProgress.where('key').startsWith('general/').toArray(), []);
+  if (!progress) return null;
+  const lv = (k: string) => Number(/-L(\d)/.exec(k)?.[1] ?? 0);
+  return (
+    <section className={s.card}>
+      <b>일반 필사: 레벨별 학습 레슨</b>
+      <table className={s.table} style={{ marginTop: 6 }}><thead><tr><th>레벨</th><th>연 레슨</th><th>완료</th></tr></thead><tbody>
+        {LEVELS.filter((l) => levelF === 'all' || l === levelF).map((l) => {
+          const rows = progress.filter((p) => lv(p.key) === l);
+          return <tr key={l}><td>L{l}</td><td>{rows.filter((p) => p.openedAt).length}</td><td>{rows.filter((p) => p.completedAt).length}</td></tr>;
+        })}
+      </tbody></table>
+    </section>
   );
 }

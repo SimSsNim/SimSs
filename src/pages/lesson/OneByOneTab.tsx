@@ -12,9 +12,9 @@ import { getProgress, updateProgress, autoCheck } from '../../lib/progress';
 import { toggleSentenceMark } from '../../lib/marks';
 import { playSentence, hasSentenceAudio, usePlayer } from '../../store/player';
 import { cancelSpeech, useVoices } from '../../lib/tts';
-import { countWords } from '../../lib/validateLesson';
+import { countWords, blankedSentence } from '../../lib/validateLesson';
 
-export function OneByOneTab({ lesson, lessonKey }: TabProps) {
+export function OneByOneTab({ lesson, lessonKey, gate }: TabProps) {
   const sents = flatSentences(lesson);
   const n = sents.length;
   const st = useSettings();
@@ -83,7 +83,7 @@ export function OneByOneTab({ lesson, lessonKey }: TabProps) {
   };
 
   if (idx === null) return null;
-  const canListen = voices.supported || (sen && hasSentenceAudio(sen.id));
+  const canListenBase = voices.supported || (sen && hasSentenceAudio(sen.id));
 
   if (i >= n) {
     return (
@@ -98,7 +98,9 @@ export function OneByOneTab({ lesson, lessonKey }: TabProps) {
   }
   const mark = marks?.find((m) => m.sentenceId === sen.id);
   const hasStruct = !!structureOf(lesson, sen.id) || grammarOf(lesson, sen.id).length > 0;
-  const showKo = show || st.alwaysShowTranslation;
+  const hiddenQ = gate?.hidden.has(sen.id) ? lesson.questions.find((x) => x.blank?.sentenceId === sen.id) : undefined;
+  const showKo = (show || st.alwaysShowTranslation) && !hiddenQ;
+  const canListen = canListenBase && !hiddenQ;
   return (
     <div>
       <div className={s.between} style={{ marginBottom: 8 }}>
@@ -110,8 +112,10 @@ export function OneByOneTab({ lesson, lessonKey }: TabProps) {
       </div>
       <div className={s.progressBar} aria-hidden="true"><span style={{ width: `${((i + 1) / n) * 100}%` }} /></div>
       <div key={i} className={`${s.card} ${r.oneCard} ${r.slideIn}`} {...swipe} data-testid="one-card" style={{ marginTop: 10 }}>
-        <div className={`${r.oneEn} ${st.serif ? '' : s.sansReading}`} lang="en" data-testid="one-en">{sen.en}</div>
-        {showKo ? (
+        <div className={`${r.oneEn} ${st.serif ? '' : s.sansReading}`} lang="en" data-testid="one-en">{hiddenQ ? blankedSentence(sen.en, hiddenQ.blank!.answerText) : sen.en}</div>
+        {hiddenQ ? (
+          <div className={s.small + ' ' + s.muted}>문제를 풀면 완성 문장과 번역이 열려요.</div>
+        ) : showKo ? (
           <div className={s.ko} lang="ko">{sen.ko}</div>
         ) : (
           <button type="button" className={r.reveal} onClick={(e) => { e.stopPropagation(); setShow(true); }} onPointerUp={(e) => e.stopPropagation()}>번역 보기 (탭)</button>

@@ -7,8 +7,8 @@ export function BottomNav() {
   const { track } = useSettings();
   const items = [
     { to: `/${track}`, label: '오늘', icon: 'today', end: true },
-    { to: `/${track}/list`, label: '지문 목록', icon: 'list' },
-    { to: '/words', label: '단어장', icon: 'words' },
+    { to: `/${track}/list`, label: '지문', icon: 'list' },
+    { to: '/review', label: '복습', icon: 'words' },
     { to: '/grammar', label: '문법 모음', icon: 'grammar' },
     { to: '/records', label: '기록/설정', icon: 'records' },
   ];

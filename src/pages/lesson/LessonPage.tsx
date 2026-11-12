@@ -5,7 +5,9 @@ import s from '../../styles/ui.module.css';
 import { AppHeader } from '../../components/AppHeader';
 import { useLessons } from '../../lib/lessons';
 import { lessonKeyOf, type Lesson, type Track } from '../../lib/types';
-import { TABS } from '../../lib/checklist';
+import { tabsFor, defaultTab } from '../../lib/checklist';
+import { QuizTab } from './QuizTab';
+import { useQuizGate, type QuizGate } from '../../lib/quizGate';
 import { db } from '../../lib/db';
 import { getProgress, updateProgress, setActiveLesson, logAction } from '../../lib/progress';
 import { getSettings, setSetting } from '../../lib/settings';
@@ -22,13 +24,15 @@ import { useState } from 'react';
 export interface TabProps {
   lesson: Lesson;
   lessonKey: string;
+  /** 토익: 풀이 전 가릴 문장 */
+  gate?: QuizGate;
 }
 
 export function LessonRedirect() {
   const { track, id } = useParams();
   const [tab, setTab] = useState<string | null>(null);
   useEffect(() => {
-    void getProgress(lessonKeyOf(track as Track, id!)).then((p) => setTab(p.lastTab && TABS.some((t) => t.id === p.lastTab) ? p.lastTab : 'full'));
+    void getProgress(lessonKeyOf(track as Track, id!)).then((p) => setTab(p.lastTab && tabsFor(track as Track).some((t) => t.id === p.lastTab) ? p.lastTab : defaultTab(track as Track)));
   }, [track, id]);
   if (!tab) return null;
   return <Navigate to={`/${track}/lesson/${id}/${tab}`} replace />;
@@ -43,6 +47,8 @@ export function LessonPage() {
   const lesson = lessons[key];
   const summary = summaries.find((x) => x.key === key);
   const marks = useLiveQuery(() => db.audioMarks.get(key), [key]);
+  const gate = useQuizGate(lesson);
+  const TABS = tabsFor(track);
 
   useEffect(() => {
     if (!lesson) return;
@@ -61,13 +67,13 @@ export function LessonPage() {
   }, [lesson, marks]);
 
   useEffect(() => {
-    if (!tab || !TABS.some((t) => t.id === tab)) return;
+    if (!tab || !tabsFor(track).some((t) => t.id === tab)) return;
     void updateProgress(key, { lastTab: tab });
     setSetting('lastLesson', { ...getSettings().lastLesson, [track]: { id: id!, tab } });
     window.scrollTo(0, 0);
   }, [key, tab, track, id]);
 
-  if (!TABS.some((t) => t.id === tab)) return <Navigate to={`/${track}/lesson/${id}/full`} replace />;
+  if (!TABS.some((t) => t.id === tab)) return <Navigate to={`/${track}/lesson/${id}/${defaultTab(track)}`} replace />;
 
   let body;
   if (!lesson) {
@@ -81,8 +87,9 @@ export function LessonPage() {
       <p className={s.empty}>{status === 'loading' || summary ? '레슨을 불러오는 중…' : '레슨을 찾을 수 없어요.'}</p>
     );
   } else {
-    const props = { lesson, lessonKey: key };
+    const props = { lesson, lessonKey: key, gate };
     body = {
+      quiz: <QuizTab {...props} />,
       full: <FullTextTab {...props} />,
       one: <OneByOneTab {...props} />,
       vocab: <VocabTab {...props} />,
@@ -91,6 +98,20 @@ export function LessonPage() {
       listen: <ListenTab {...props} />,
       practice: <PracticeTab {...props} />,
     }[tab!];
+    // 실전 모드 풀이 중 / 연습 모드에서 아직 안 푼 문장이 있으면 다른 탭을 가린다(전체 문장·한 문장씩은 빈칸으로 보여 줌)
+    const partial = tab === 'full' || tab === 'one';
+    if (tab !== 'quiz' && (gate.gated || (!partial && gate.hidden.size > 0))) {
+      body = (
+        <div className={s.card} style={{ textAlign: 'center', padding: '40px 16px' }} data-testid="quiz-gate">
+          <p style={{ fontWeight: 700 }}>문제를 먼저 풀어 보세요</p>
+          <p className={s.small + ' ' + s.muted}>{gate.mode === 'exam' ? '실전 모드에서는 채점이 끝날 때까지 완성 문장과 번역을 가려요.' : '아직 안 푼 문제의 정답 문장이 들어 있어요.'}</p>
+          <div className={s.row} style={{ justifyContent: 'center' }}>
+            <button type="button" className={s.primary} onClick={() => nav(`/${track}/lesson/${id}/quiz`, { replace: true })}>문제 풀러 가기</button>
+            <button type="button" className={s.btn} onClick={gate.reveal} data-testid="gate-reveal">그냥 보기</button>
+          </div>
+        </div>
+      );
+    }
   }
 
   return (
@@ -118,7 +139,7 @@ export function LessonPage() {
           ))}
         </nav>
       </div>
-      <main className={s.page}><div role="tabpanel" aria-label={TABS.find((t) => t.id === tab)?.label}>{body}</div></main>
+      <main className={s.page}><div role="tabpanel" key={key} aria-label={TABS.find((t) => t.id === tab)?.label}>{body}</div></main>
     </>
   );
 }

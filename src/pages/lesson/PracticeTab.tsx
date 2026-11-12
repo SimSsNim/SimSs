@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import s from '../../styles/ui.module.css';
 import type { TabProps } from './LessonPage';
 import { PaperMode, TypingMode } from './practice/Transcribe';
@@ -16,7 +17,9 @@ const MODES = [
 type Mode = (typeof MODES)[number]['id'];
 
 export function PracticeTab(props: TabProps) {
-  const [mode, setMode] = useState<Mode>('paper');
+  const [params] = useSearchParams();
+  const initial = MODES.some((m) => m.id === params.get('mode')) ? (params.get('mode') as Mode) : 'paper';
+  const [mode, setMode] = useState<Mode>(initial);
   const shadowOk = typeof window !== 'undefined' && 'MediaRecorder' in window && !!navigator.mediaDevices?.getUserMedia;
   return (
     <div>
@@ -26,7 +29,7 @@ export function PracticeTab(props: TabProps) {
         ))}
       </div>
       {mode === 'paper' && <PaperMode {...props} />}
-      {mode === 'typing' && <TypingMode {...props} />}
+      {mode === 'typing' && <TypingMode {...props} sentenceId={params.get('s') ?? undefined} />}
       {mode === 'dictation' && <DictationMode {...props} />}
       {mode === 'blank' && <BlankMode {...props} />}
       {mode === 'arrange' && <ArrangeMode {...props} />}

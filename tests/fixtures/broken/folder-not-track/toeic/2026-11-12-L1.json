@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-12-L1",
+  "date": "2026-11-12",
+  "level": 1,
+  "title": "The Fox and the Crow",
+  "titleKo": "여우와 까마귀",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_09_aesop.mp3",
+    "mp3Low": "https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_09_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-1-fables-1-25",
+    "reader": "Kara Shallenberg",
+    "durationSec": 96,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 01, 09번 트랙. 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 136,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "까마귀 한 마리가 부리에 치즈 한 조각을 물고 나뭇가지에 앉아 있었는데, 여우가 그 모습을 보고는 치즈를 손에 넣을 방법을 찾으려고 머리를 굴리기 시작했다. 여우는 나무 아래로 와서 서더니 위를 올려다보며 말했다. \"내 위에 정말 고귀한 새가 있구나! 그 아름다움은 견줄 데가 없고, 깃털 빛깔도 더없이 곱구나. 목소리마저 외모만큼 고와야 할 텐데, 그렇다면 틀림없이 새들의 여왕이 될 만하지.\" 까마귀는 이 말에 몹시 우쭐해져서, 노래할 줄 안다는 걸 여우에게 보여 주려고 \"까악!\" 하고 크게 울었다. 당연히 치즈는 아래로 떨어졌고, 여우는 그것을 잽싸게 낚아채며 말했다. \"부인, 목소리는 있으시군요. 부족한 건 지혜랍니다.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Crow was sitting on a branch of a tree with a piece of cheese in her beak when a Fox observed her and set his wits to work to discover some way of getting the cheese.",
+      "ko": "까마귀 한 마리가 부리에 치즈 한 조각을 물고 나뭇가지에 앉아 있었는데, 여우가 그 모습을 보고는 치즈를 손에 넣을 방법을 찾으려고 머리를 굴리기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Coming and standing under the tree he looked up and said, \"What a noble bird I see above me!",
+      "ko": "여우는 나무 아래로 와서 서더니 위를 올려다보며 말했다. \"내 위에 정말 고귀한 새가 있구나!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Her beauty is without equal, the hue of her plumage exquisite.",
+      "ko": "그 아름다움은 견줄 데가 없고, 깃털 빛깔도 더없이 곱구나.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "If only her voice is as sweet as her looks are fair, she ought without doubt to be Queen of the Birds.\"",
+      "ko": "목소리마저 외모만큼 고와야 할 텐데, 그렇다면 틀림없이 새들의 여왕이 될 만하지.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The Crow was hugely flattered by this, and just to show the Fox that she could sing she gave a loud caw.",
+      "ko": "까마귀는 이 말에 몹시 우쭐해져서, 노래할 줄 안다는 걸 여우에게 보여 주려고 \"까악!\" 하고 크게 울었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Down came the cheese, of course, and the Fox, snatching it up, said, \"You have a voice, madam, I see: what you want is wits.\"",
+      "ko": "당연히 치즈는 아래로 떨어졌고, 여우는 그것을 잽싸게 낚아채며 말했다. \"부인, 목소리는 있으시군요. 부족한 건 지혜랍니다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "observe",
+      "pos": "verb",
+      "meaningKo": "(주의 깊게) 보다, 관찰하다",
+      "ipa": "/əbˈzɜːrv/",
+      "matchText": "observed",
+      "sentenceId": "s1",
+      "example": {
+        "en": "I observed a cat on the wall.",
+        "ko": "나는 담 위의 고양이를 보았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "set one's wits to work",
+      "pos": "idiom",
+      "meaningKo": "머리를 굴리다, 궁리하다 (wits = 지혜, 꾀)",
+      "ipa": null,
+      "matchText": "set his wits to work",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She set her wits to work to solve the puzzle.",
+        "ko": "그녀는 퍼즐을 풀려고 머리를 굴렸다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "without equal",
+      "pos": "phrase",
+      "meaningKo": "견줄 데가 없는, 최고의",
+      "ipa": null,
+      "matchText": "without equal",
+      "sentenceId": "s3",
+      "example": {
+        "en": "His kindness is without equal.",
+        "ko": "그의 친절함은 비할 데가 없다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "be flattered",
+      "pos": "phrase",
+      "meaningKo": "(칭찬에) 우쭐해지다, 기분이 좋아지다",
+      "ipa": "/ˈflætərd/",
+      "matchText": "flattered",
+      "sentenceId": "s5",
+      "example": {
+        "en": "I was flattered by her words.",
+        "ko": "나는 그녀의 말에 우쭐해졌다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "snatch up",
+      "pos": "phrasal-verb",
+      "meaningKo": "잽싸게 낚아채다",
+      "ipa": "/snætʃ/",
+      "matchText": "snatching it up",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The boy snatched up the ball.",
+        "ko": "소년이 공을 잽싸게 낚아챘다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Crow",
+          "role": "S",
+          "ko": "까마귀 한 마리가"
+        },
+        {
+          "text": "was sitting",
+          "role": "V",
+          "ko": "앉아 있었다"
+        },
+        {
+          "text": "on a branch of a tree",
+          "role": "M",
+          "ko": "나뭇가지 위에"
+        },
+        {
+          "text": "with a piece of cheese in her beak",
+          "role": "M",
+          "ko": "부리에 치즈 한 조각을 문 채로"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "그때"
+        },
+        {
+          "text": "a Fox",
+          "role": "S",
+          "sub": true,
+          "ko": "여우가"
+        },
+        {
+          "text": "observed",
+          "role": "V",
+          "sub": true,
+          "ko": "보았다"
+        },
+        {
+          "text": "her",
+          "role": "O",
+          "sub": true,
+          "ko": "그녀를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "set",
+          "role": "V",
+          "sub": true,
+          "ko": "(작동하게) 했다"
+        },
+        {
+          "text": "his wits",
+          "role": "O",
+          "sub": true,
+          "ko": "자기 머리를"
+        },
+        {
+          "text": "to work",
+          "role": "M",
+          "sub": true,
+          "ko": "일하도록"
+        },
+        {
+          "text": "to discover some way of getting the cheese.",
+          "role": "M",
+          "sub": true,
+          "ko": "치즈를 얻을 방법을 찾기 위해"
+        }
+      ],
+      "skeleton": "A Crow was sitting",
+      "explanation": "when절이 '그때 ~했다'라는 사건을 이어 주고, when절 안에서 동사 observed와 set이 and로 연결된다. 맨 끝 to discover는 '~하기 위해(목적)'."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "If only",
+          "role": "CONJ",
+          "ko": "~하기만 하다면"
+        },
+        {
+          "text": "her voice",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀의 목소리가"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "sub": true,
+          "ko": "~이다"
+        },
+        {
+          "text": "as sweet",
+          "role": "C",
+          "sub": true,
+          "ko": "그만큼 고운"
+        },
+        {
+          "text": "as her looks are fair,",
+          "role": "M",
+          "sub": true,
+          "ko": "외모가 아름다운 만큼"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "ko": "그녀는"
+        },
+        {
+          "text": "ought",
+          "role": "V",
+          "ko": "~해야 한다"
+        },
+        {
+          "text": "without doubt",
+          "role": "M",
+          "ko": "틀림없이"
+        },
+        {
+          "text": "to be",
+          "role": "V",
+          "ko": "~이 되다"
+        },
+        {
+          "text": "Queen of the Birds.\"",
+          "role": "C",
+          "ko": "새들의 여왕"
+        }
+      ],
+      "skeleton": "she ought to be Queen",
+      "explanation": "앞의 If절이 조건이고, without doubt는 ought와 to be 사이에 끼어든 수식어다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Down",
+          "role": "M",
+          "ko": "아래로"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "ko": "떨어졌다"
+        },
+        {
+          "text": "the cheese,",
+          "role": "S",
+          "ko": "치즈가"
+        },
+        {
+          "text": "of course,",
+          "role": "M",
+          "ko": "당연히"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "the Fox,",
+          "role": "S",
+          "ko": "여우는"
+        },
+        {
+          "text": "snatching it up,",
+          "role": "M",
+          "ko": "그것을 낚아채면서"
+        },
+        {
+          "text": "said,",
+          "role": "V",
+          "ko": "말했다"
+        },
+        {
+          "text": "\"You have a voice, madam, I see: what you want is wits.\"",
+          "role": "O",
+          "ko": "\"목소리는 있으시군요, 부족한 건 지혜예요\""
+        }
+      ],
+      "skeleton": "The cheese came down / the Fox said",
+      "explanation": "앞 절은 원래 The cheese came down인데 Down을 앞으로 빼며 주어·동사 순서가 바뀌었다(도치). 뒤 절의 뼈대는 the Fox said이고, snatching it up은 쉼표 사이에 끼어든 분사구문이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거진행형 + when (~하고 있었는데, 그때 …했다)",
+      "tags": [
+        "시제",
+        "접속사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "was sitting",
+        "when",
+        "observed"
+      ],
+      "explanation": "계속 진행 중이던 일(was sitting)에 짧은 사건(observed)이 끼어들 때 쓴다.",
+      "example": {
+        "en": "I was watching TV when my mom called me.",
+        "ko": "엄마가 나를 불렀을 때 나는 TV를 보고 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as + 형용사 + as (~만큼 …한)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "as sweet as"
+      ],
+      "explanation": "두 대상이 같은 정도임을 나타내는 동등 비교. 두 번째 as 뒤에 명사뿐 아니라 '주어+동사'가 올 수도 있다.",
+      "example": {
+        "en": "My brother is as tall as my dad.",
+        "ko": "내 남동생은 아빠만큼 키가 크다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "장소 부사 문두 도치 (Down came the cheese)",
+      "tags": [
+        "도치",
+        "어순"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "Down came the cheese"
+      ],
+      "explanation": "down, up, here, there 같은 부사가 문장 맨 앞에 오면 '동사 + 주어' 순서가 되어 장면이 생생해진다.",
+      "example": {
+        "en": "Here comes the bus!",
+        "ko": "버스가 온다!"
+      },
+      "note": "주어가 it, he 같은 대명사면 도치하지 않는다: Down it came."
+    }
+  ]
+}

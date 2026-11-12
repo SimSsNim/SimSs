@@ -22,6 +22,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - run: pip install jsonschema
       # 레슨이 하나라도 잘못되면 여기서 실패 → 배포 중단
       - name: Validate lessons and write index.json
         run: python scripts/validate_lessons.py public/lessons --write-index public/lessons/index.json
@@ -30,6 +31,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # 깨진 레슨 묶음(tests/fixtures/broken)은 파이썬·TS 검증이 둘 다 실패해야 한다(npm test 안에서 같이 확인)
       - run: npm test
       - run: npm run build
       - uses: actions/configure-pages@v5

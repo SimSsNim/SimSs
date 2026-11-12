@@ -9,6 +9,10 @@ export const CHECKLIST: { key: ChecklistKey; label: string; tab: string; hint: s
   { key: 'review', label: '복습', tab: 'practice', hint: '단어 복습을 마치거나 연습(받아쓰기·빈칸·배열·해석)을 하나 끝내면 체크' },
 ];
 
+export const QUIZ_TAB = { id: 'quiz', label: '문제' };
+export const tabsFor = (track: 'general' | 'toeic') => (track === 'toeic' ? [QUIZ_TAB, ...TABS] : TABS);
+export const defaultTab = (track: 'general' | 'toeic') => (track === 'toeic' ? 'quiz' : 'full');
+
 export const TABS: { id: string; label: string }[] = [
   { id: 'full', label: '전체 문장' },
   { id: 'one', label: '한 문장씩' },

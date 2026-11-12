@@ -72,7 +72,7 @@ export function mergeWords(lessons: Lesson[], myWords: { id?: number; term: stri
         for (const s of v.synonyms ?? []) if (!ex.synonyms.includes(s)) ex.synonyms.push(s);
       } else {
         map.set(key, {
-          key, term: v.term, pos: v.pos, ipa: v.ipa, meaningKo: v.meaningKo, synonyms: [...(v.synonyms ?? [])], example: v.example,
+          key, term: v.term, pos: v.pos, ipa: v.ipa ?? undefined, meaningKo: v.meaningKo, synonyms: [...(v.synonyms ?? [])], example: v.example,
           sentence: sents.get(v.sentenceId), matchText: v.matchText, sources: [src], mine: false, createdAt: Date.parse(l.date),
         });
       }
@@ -92,7 +92,7 @@ export function mergeWords(lessons: Lesson[], myWords: { id?: number; term: stri
 export function vocabToItem(l: Lesson, v: Vocab): WordItem {
   const s = l.paragraphs.flatMap((p) => p.sentences).find((x) => x.id === v.sentenceId);
   return {
-    key: wordKey(v.term), term: v.term, pos: v.pos, ipa: v.ipa, meaningKo: v.meaningKo, synonyms: v.synonyms ?? [], example: v.example,
+    key: wordKey(v.term), term: v.term, pos: v.pos, ipa: v.ipa ?? undefined, meaningKo: v.meaningKo, synonyms: v.synonyms ?? [], example: v.example,
     sentence: s?.en, matchText: v.matchText,
     sources: [{ lessonKey: lessonKeyOf(l.track, l.id), track: l.track, date: l.date, level: l.level, title: l.title, vocabId: v.id }],
     mine: false, createdAt: Date.parse(l.date),

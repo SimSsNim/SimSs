@@ -1,334 +1,273 @@
 #!/usr/bin/env python3
-"""레슨 JSON 검증 + index.json 생성.
+"""레슨 JSON 검증 + index.json 생성 (schemaVersion 2).
 
-사용법:
-  python scripts/validate_lessons.py public/lessons
-  python scripts/validate_lessons.py public/lessons --write-index public/lessons/index.json
-  python scripts/validate_lessons.py public/lessons --write-index public/lessons/index.json --keep-going
+파일 위치
+  public/lessons/general/YYYY-MM-DD-L<레벨>.json
+  public/lessons/toeic/YYYY-MM-DD-L<레벨>-part5.json   (10문제)
+  public/lessons/toeic/YYYY-MM-DD-L<레벨>-part6.json   (5문제)
+  public/lessons/toeic/YYYY-MM-DD-L<레벨>-part7.json   (3문제)
 
-외부 패키지 없이 표준 라이브러리만 쓴다. 규칙은 src/lib/validateLesson.ts 와 같다.
---keep-going: 오류가 있어도 index.json 을 쓰고(오류 레슨은 errors 필드 포함) 종료 코드 0.
-              개발 서버용. CI에서는 쓰지 않는다(오류가 있으면 종료 코드 1 → 배포 중단).
+사용법
+  python3 scripts/validate_lessons.py public/lessons/
+  python3 scripts/validate_lessons.py public/lessons/ --write-index public/lessons/index.json
+  python3 scripts/validate_lessons.py public/lessons/toeic/2026-11-12-L1-part5.json
+
+필요: pip install jsonschema      종료 코드 0 = 통과, 1 = 오류 (CI 배포 차단용)
 """
-from __future__ import annotations
-
-import argparse
 import json
-import re
 import sys
-from datetime import datetime, timezone
 from pathlib import Path
 
-TRACKS = ("general", "toeic")
-ROLES = {"S", "V", "O", "C", "M", "CONJ"}
-DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-LICENSE_BY_TRACK = {"general": {"public-domain", "us-government-work"}, "toeic": {"original"}}
+try:
+    from jsonschema import Draft202012Validator, FormatChecker
+except ImportError:
+    sys.exit("jsonschema가 필요합니다: pip install jsonschema")
 
-TOP_KEYS = {
-    "schemaVersion", "id", "track", "date", "level", "title", "titleKo", "genre", "genreKo",
-    "wordCount", "source", "audio", "paragraphs", "vocab", "structures", "grammar",
+ROOT = Path(__file__).resolve().parent.parent
+SCHEMA = json.loads((ROOT / "lesson.schema.json").read_text(encoding="utf-8"))
+VALIDATOR = Draft202012Validator(SCHEMA, format_checker=FormatChecker())
+
+TOL = 15  # 자연스러운 곳에서 끊느라 범위를 조금 넘는 것은 허용
+# 단어 수 범위 (레벨별)
+WORDS = {
+    "general": {1: (100, 150), 2: (150, 200), 3: (200, 250), 4: (250, 300)},
+    "part7":   {1: (100, 150), 2: (150, 200), 3: (200, 250), 4: (250, 300)},
+    "part6":   {1: (80, 130), 2: (100, 150), 3: (120, 170), 4: (140, 190)},
+    "part5":   {1: (80, 150), 2: (100, 180), 3: (120, 220), 4: (150, 260)},  # 10문장 합계
 }
-REQUIRED_TOP = TOP_KEYS - {"genreKo"}
+Q_COUNT = {"part5": 10, "part6": 5, "part7": 3}
+Q_TYPES = {"part5": "part5-", "part6": "part6-", "part7": "part7-"}
+BLANK = "-------"
 
 
-def count_words(text: str) -> int:
-    return len(text.split())
+def kind_of(data):
+    return data.get("chapter") if data["track"] == "toeic" else "general"
 
 
-def is_str(v, allow_empty=False) -> bool:
-    return isinstance(v, str) and (allow_empty or len(v) > 0)
+def check(path, data):
+    errs = []
+    for e in sorted(VALIDATOR.iter_errors(data), key=lambda e: list(e.path)):
+        loc = "/".join(str(p) for p in e.path) or "(root)"
+        errs.append(f"스키마: {loc}: {e.message}")
+    if errs:
+        return errs
 
+    track, lv, kind = data["track"], data["level"], kind_of(data)
 
-def validate_lesson(data, folder_track: str | None = None, file_stem: str | None = None) -> list[str]:
-    errors: list[str] = []
-    err = errors.append
+    # 위치와 id
+    exp_id = f"{data['date']}-L{lv}" + (f"-{data['chapter']}" if track == "toeic" else "")
+    if data["id"] != exp_id:
+        errs.append(f"id는 {exp_id} 이어야 함 (현재 {data['id']})")
+    if path.stem != data["id"]:
+        errs.append(f"파일명({path.stem})과 id가 다름")
+    if path.parent.name != track:
+        errs.append(f"폴더({path.parent.name})와 track({track})이 다름")
 
-    if not isinstance(data, dict):
-        return ["레슨 최상위는 객체여야 합니다"]
+    lic = data["source"]["license"]
+    if track == "general" and lic == "original":
+        errs.append("일반 필사는 퍼블릭 도메인 원문만")
+    if track == "toeic" and lic != "original":
+        errs.append("토익은 직접 쓴 지문만 (license=original)")
+    if lic != "original" and not data["source"].get("url"):
+        errs.append("원문 링크(source.url) 없음")
 
-    for k in REQUIRED_TOP:
-        if k not in data:
-            err(f"필수 항목 '{k}' 이(가) 없습니다")
-    for k in data:
-        if k not in TOP_KEYS:
-            err(f"알 수 없는 항목 '{k}'")
-    if errors:
-        return errors
+    for key in ("paragraphs", "sentences", "vocab", "structures", "grammar", "questions"):
+        ids = [x["id"] for x in data.get(key, [])]
+        dup = {i for i in ids if ids.count(i) > 1}
+        if dup:
+            errs.append(f"{key} id 중복: {sorted(dup)}")
 
-    if data["schemaVersion"] != 1:
-        err("schemaVersion 은 1 이어야 합니다")
-    if not (is_str(data["id"]) and DATE_RE.match(data["id"])):
-        err("id 는 YYYY-MM-DD 형식이어야 합니다")
-    if not (is_str(data["date"]) and DATE_RE.match(data["date"])):
-        err("date 는 YYYY-MM-DD 형식이어야 합니다")
-    track = data["track"]
-    if track not in TRACKS:
-        err(f"track 은 general 또는 toeic 이어야 합니다 (현재: {track!r})")
-    if folder_track is not None and track != folder_track:
-        err(f"track({track}) 이 폴더 이름({folder_track}) 과 다릅니다")
-    if file_stem is not None and data["id"] != file_stem:
-        err(f"id({data['id']}) 가 파일 이름({file_stem}) 과 다릅니다")
-    if not (isinstance(data["level"], int) and not isinstance(data["level"], bool) and 1 <= data["level"] <= 5):
-        err("level 은 1~5 정수여야 합니다")
-    for k in ("title", "titleKo", "genre"):
-        if not is_str(data[k]):
-            err(f"{k} 는 비어 있지 않은 문자열이어야 합니다")
+    sents = {s["id"]: s for s in data["sentences"]}
+    paras = {p["id"]: p for p in data["paragraphs"]}
 
-    src = data["source"]
-    if not isinstance(src, dict) or "license" not in src:
-        err("source.license 가 없습니다")
-    elif track in LICENSE_BY_TRACK and src["license"] not in LICENSE_BY_TRACK[track]:
-        allowed = ", ".join(sorted(LICENSE_BY_TRACK[track]))
-        err(f"{track} 트랙의 source.license 는 {allowed} 만 허용됩니다 (현재: {src['license']!r})")
+    order = []
+    for p in data["paragraphs"]:
+        for sid in p["sentenceIds"]:
+            if sid not in sents:
+                errs.append(f"{p['id']}: 없는 문장 {sid}")
+            elif sents[sid]["paragraphId"] != p["id"]:
+                errs.append(f"{sid}.paragraphId가 {p['id']}가 아님")
+            order.append(sid)
+    if order != [s["id"] for s in data["sentences"]]:
+        errs.append("paragraphs.sentenceIds 순서가 sentences 순서와 다름")
+    for s in data["sentences"]:
+        if s["paragraphId"] not in paras:
+            errs.append(f"{s['id']}: 없는 문단 {s['paragraphId']}")
+        if s["en"] != s["en"].strip() or "  " in s["en"]:
+            errs.append(f"{s['id']}: 앞뒤 공백이나 이중 공백")
+        a, b = s.get("audioStartSec"), s.get("audioEndSec")
+        if a is not None and b is not None and b <= a:
+            errs.append(f"{s['id']}: audioEndSec <= audioStartSec")
 
-    audio = data["audio"]
-    if audio is not None:
-        if track == "toeic":
-            err("toeic 트랙의 audio 는 null 이어야 합니다")
-        if not isinstance(audio, dict) or not is_str(audio.get("mp3")):
-            err("audio.mp3 가 없습니다")
-        elif not audio["mp3"].startswith("https://"):
-            err("audio.mp3 는 https:// 로 시작해야 합니다")
-
-    # 문단 / 문장
-    sentences: dict[str, str] = {}
-    paragraphs = data["paragraphs"]
-    if not isinstance(paragraphs, list) or not paragraphs:
-        err("paragraphs 는 1개 이상이어야 합니다")
-        paragraphs = []
-    all_en: list[str] = []
-    para_ids: set[str] = set()
-    for pi, p in enumerate(paragraphs):
-        where = f"paragraphs[{pi}]"
-        if not isinstance(p, dict):
-            err(f"{where} 는 객체여야 합니다")
-            continue
-        pid = p.get("id")
-        if not is_str(pid):
-            err(f"{where}.id 가 없습니다")
-        elif pid in para_ids:
-            err(f"문단 id '{pid}' 가 중복됩니다")
-        else:
-            para_ids.add(pid)
-        sents = p.get("sentences")
-        if not isinstance(sents, list) or not sents:
-            err(f"{where}.sentences 는 1개 이상이어야 합니다")
-            continue
-        texts = []
-        for si, s in enumerate(sents):
-            sw = f"{where}.sentences[{si}]"
-            if not isinstance(s, dict):
-                err(f"{sw} 는 객체여야 합니다")
-                continue
-            sid = s.get("id")
-            if not is_str(sid):
-                err(f"{sw}.id 가 없습니다")
-                continue
-            if sid in sentences:
-                err(f"문장 id '{sid}' 가 중복됩니다")
-            en = s.get("en")
-            if not is_str(en):
-                err(f"문장 {sid}: en 이 비어 있습니다")
-                en = ""
-            elif en != en.strip():
-                err(f"문장 {sid}: en 앞뒤에 공백이 있습니다")
-            if not is_str(s.get("ko")):
-                err(f"문장 {sid}: ko 가 비어 있습니다")
-            for k in ("audioStartSec", "audioEndSec"):
-                v = s.get(k)
-                if v is not None and (not isinstance(v, (int, float)) or isinstance(v, bool) or v < 0):
-                    err(f"문장 {sid}: {k} 는 0 이상 숫자 또는 null 이어야 합니다")
-            sentences[sid] = en
-            texts.append(en)
-        joined = " ".join(texts)
-        if p.get("en") != joined:
-            err(f"문단 {pid}: 문장들을 공백 하나로 이은 값이 문단 en 과 다릅니다")
-        all_en.append(p.get("en") or "")
-
-    wc = count_words(" ".join(all_en))
-    if data["wordCount"] != wc:
-        err(f"wordCount({data['wordCount']}) 가 실제 단어 수({wc}) 와 다릅니다")
-
-    def need_sentence(sid, where):
-        if sid not in sentences:
-            err(f"{where}: 없는 sentenceId '{sid}'")
-            return None
-        return sentences[sid]
+    wc = len(" ".join(s["en"] for s in data["sentences"]).split())
+    if wc != data["wordCount"]:
+        errs.append(f"wordCount {data['wordCount']} != 실제 {wc}")
+    lo, hi = WORDS[kind][lv]
+    if not (lo - TOL <= wc <= hi + TOL):
+        errs.append(f"단어 수 {wc}가 {kind} 레벨 {lv} 범위 {lo}~{hi}(±{TOL}) 밖")
 
     # 단어
-    vocab = data["vocab"]
-    if not isinstance(vocab, list) or not vocab:
-        err("vocab 는 1개 이상이어야 합니다")
-        vocab = []
-    vids: set[str] = set()
-    for vi, v in enumerate(vocab):
-        where = f"vocab[{vi}]"
-        if not isinstance(v, dict):
-            err(f"{where} 는 객체여야 합니다")
-            continue
-        for k in ("id", "term", "pos", "meaningKo", "sentenceId", "matchText"):
-            if not is_str(v.get(k), allow_empty=(k == "pos")):
-                err(f"{where}.{k} 가 없습니다")
-        if v.get("id") in vids:
-            err(f"단어 id '{v.get('id')}' 가 중복됩니다")
-        vids.add(v.get("id"))
-        en = need_sentence(v.get("sentenceId"), f"{where}({v.get('term')})")
-        if en is not None and is_str(v.get("matchText")) and v["matchText"] not in en:
-            err(f"{where}({v.get('term')}): matchText '{v['matchText']}' 가 문장 {v['sentenceId']} 에 없습니다")
-        syn = v.get("synonyms")
-        if syn is not None and (not isinstance(syn, list) or not all(is_str(x) for x in syn)):
-            err(f"{where}.synonyms 는 문자열 배열이어야 합니다")
+    for v in data["vocab"]:
+        s = sents.get(v["sentenceId"])
+        if not s:
+            errs.append(f"{v['id']}: 없는 문장 {v['sentenceId']}")
+        elif v["matchText"] not in s["en"]:
+            errs.append(f"{v['id']}: matchText '{v['matchText']}'가 {v['sentenceId']}에 없음")
+        if track == "toeic" and not (1 <= len(v.get("synonyms", [])) <= 3):
+            errs.append(f"{v['id']}: 토익 단어는 synonyms 1~3개")
+    nv = len(data["vocab"])
+    if kind == "part5":
+        if not 3 <= nv <= 5:
+            errs.append(f"part5 vocab은 3~5개 (현재 {nv})")
+    elif nv != 5:
+        errs.append(f"vocab은 5개 (현재 {nv})")
 
-    # 구조
-    structures = data["structures"]
-    if not isinstance(structures, list):
-        err("structures 는 배열이어야 합니다")
-        structures = []
-    seen_struct: set[str] = set()
-    for ti, st in enumerate(structures):
-        where = f"structures[{ti}]"
-        if not isinstance(st, dict):
-            err(f"{where} 는 객체여야 합니다")
+    # 구조 분석
+    for st in data["structures"]:
+        s = sents.get(st["sentenceId"])
+        if not s:
+            errs.append(f"{st['id']}: 없는 문장 {st['sentenceId']}")
             continue
-        sid = st.get("sentenceId")
-        if sid in seen_struct:
-            err(f"{where}: 문장 {sid} 의 구조 분석이 두 번 있습니다")
-        seen_struct.add(sid)
-        en = need_sentence(sid, where)
-        chunks = st.get("chunks")
-        if not isinstance(chunks, list) or len(chunks) < 2:
-            err(f"{where}.chunks 는 2개 이상이어야 합니다")
-            continue
-        texts = []
-        for ci, c in enumerate(chunks):
-            if not isinstance(c, dict) or not is_str(c.get("text")):
-                err(f"{where}.chunks[{ci}].text 가 없습니다")
-                continue
-            if c.get("role") not in ROLES:
-                err(f"{where}.chunks[{ci}].role '{c.get('role')}' 은(는) S/V/O/C/M/CONJ 중 하나여야 합니다")
-            if "sub" in c and not isinstance(c["sub"], bool):
-                err(f"{where}.chunks[{ci}].sub 는 true/false 여야 합니다")
-            if not isinstance(c.get("ko"), str):
-                err(f"{where}.chunks[{ci}].ko 가 없습니다")
-            texts.append(c["text"])
-        if en is not None and " ".join(texts) != en:
-            err(f"{where}: 청크를 공백 하나로 이은 값이 문장 {sid} 과 다릅니다")
-        if not is_str(st.get("skeleton")):
-            err(f"{where}.skeleton 이 없습니다")
-        if not isinstance(st.get("explanationKo"), str):
-            err(f"{where}.explanationKo 가 없습니다")
+        joined = " ".join(c["text"] for c in st["chunks"])
+        if joined != s["en"]:
+            errs.append(f"{st['id']}: chunks를 이은 문장이 원문과 다름\n    chunks: {joined}\n    원문  : {s['en']}")
+    lo_st = 1 if kind == "part5" else 2
+    if not lo_st <= len(data["structures"]) <= 3:
+        errs.append(f"structures는 {lo_st}~3개")
 
     # 문법
-    grammar = data["grammar"]
-    if not isinstance(grammar, list):
-        err("grammar 는 배열이어야 합니다")
-        grammar = []
-    gids: set[str] = set()
-    for gi, g in enumerate(grammar):
-        where = f"grammar[{gi}]"
-        if not isinstance(g, dict):
-            err(f"{where} 는 객체여야 합니다")
+    for g in data["grammar"]:
+        s = sents.get(g["sentenceId"])
+        if not s:
+            errs.append(f"{g['id']}: 없는 문장 {g['sentenceId']}")
             continue
-        for k in ("id", "title", "sentenceId", "explanationKo"):
-            if not is_str(g.get(k)):
-                err(f"{where}.{k} 가 없습니다")
-        if g.get("id") in gids:
-            err(f"문법 id '{g.get('id')}' 가 중복됩니다")
-        gids.add(g.get("id"))
-        tags = g.get("tags")
-        if not isinstance(tags, list) or not tags or not all(is_str(t) for t in tags):
-            err(f"{where}.tags 는 1개 이상의 문자열이어야 합니다")
-        en = need_sentence(g.get("sentenceId"), where)
-        hl = g.get("highlight")
-        if not isinstance(hl, list) or not hl:
-            err(f"{where}.highlight 는 1개 이상이어야 합니다")
-        elif en is not None:
-            for h in hl:
-                if not is_str(h) or h not in en:
-                    err(f"{where}: highlight '{h}' 가 문장 {g.get('sentenceId')} 에 없습니다")
+        for h in g["highlight"]:
+            if h not in s["en"]:
+                errs.append(f"{g['id']}: highlight '{h}'가 {g['sentenceId']}에 없음")
+    if not 2 <= len(data["grammar"]) <= 3:
+        errs.append("grammar는 2~3개")
 
-    return errors
+    # 문제 (토익)
+    if track == "toeic":
+        qs = data["questions"]
+        if len(qs) != Q_COUNT[kind]:
+            errs.append(f"{kind} 문제는 {Q_COUNT[kind]}개 (현재 {len(qs)})")
+        if [q["number"] for q in qs] != list(range(1, len(qs) + 1)):
+            errs.append("questions.number는 1부터 차례대로")
+        used_blank = []
+        for q in qs:
+            tag = q["id"]
+            if not q["type"].startswith(Q_TYPES[kind]):
+                errs.append(f"{tag}: type {q['type']}은 {kind}에 맞지 않음")
+            keys = [c["key"] for c in q["choices"]]
+            if keys != ["A", "B", "C", "D"]:
+                errs.append(f"{tag}: 보기 key는 A,B,C,D 순서")
+            texts = [c["text"].strip().lower() for c in q["choices"]]
+            if len(set(texts)) != 4:
+                errs.append(f"{tag}: 같은 보기가 있음")
+            ans = next((c["text"] for c in q["choices"] if c["key"] == q["answer"]), None)
+            if kind in ("part5", "part6"):
+                b = q.get("blank")
+                if not b:
+                    errs.append(f"{tag}: Part 5·6은 blank 필요")
+                    continue
+                if q.get("prompt") not in (None, ""):
+                    errs.append(f"{tag}: Part 5·6은 prompt를 null로 (앱이 빈칸 문장을 만듦)")
+                s = sents.get(b["sentenceId"])
+                if not s:
+                    errs.append(f"{tag}: 없는 문장 {b['sentenceId']}")
+                    continue
+                cnt = s["en"].count(b["answerText"])
+                if cnt != 1:
+                    errs.append(f"{tag}: answerText '{b['answerText']}'가 {b['sentenceId']}에 {cnt}번 있음 (정확히 1번이어야 빈칸 위치가 정해짐)")
+                if ans is None or ans.strip().lower() != b["answerText"].strip().lower():
+                    errs.append(f"{tag}: 정답 보기 '{ans}'와 answerText '{b['answerText']}'가 다름")
+                if q["type"] == "part6-sentence" and b["answerText"] != s["en"]:
+                    errs.append(f"{tag}: 문장 넣기 문제는 answerText가 문장 전체여야 함")
+                if b["sentenceId"] in used_blank and kind == "part5":
+                    errs.append(f"{tag}: Part 5는 문장 하나에 문제 하나")
+                used_blank.append(b["sentenceId"])
+            else:  # part7
+                if not q.get("prompt"):
+                    errs.append(f"{tag}: Part 7은 질문(prompt) 필요")
+                ev = q.get("evidenceSentenceIds") or []
+                if not ev:
+                    errs.append(f"{tag}: Part 7은 근거 문장(evidenceSentenceIds) 필요")
+                for sid in ev:
+                    if sid not in sents:
+                        errs.append(f"{tag}: 없는 근거 문장 {sid}")
+        if kind == "part5":
+            if len(data["sentences"]) != 10 or any(len(p["sentenceIds"]) != 1 for p in data["paragraphs"]):
+                errs.append("Part 5는 문장 10개, 문단마다 문장 1개")
+            if sorted(used_blank) != sorted(sents):
+                errs.append("Part 5는 모든 문장에 문제가 하나씩")
+        if kind == "part6" and sum(q["type"] == "part6-sentence" for q in qs) != 1:
+            errs.append("Part 6은 문장 넣기 문제(part6-sentence)가 정확히 1개")
+        if kind == "part6":
+            idx = {s["id"]: i for i, s in enumerate(data["sentences"])}
+            pos = [idx.get(q["blank"]["sentenceId"], -1) for q in qs if q.get("blank")]
+            if pos != sorted(pos):
+                errs.append("Part 6 문제 순서는 지문 속 빈칸 순서와 같아야 함")
+        answers = [q["answer"] for q in qs]
+        if len(qs) >= 5 and max(answers.count(k) for k in "ABCD") > len(qs) // 2:
+            errs.append(f"정답이 한 보기에 몰림: {answers}")
+
+    au = data["audio"]
+    if track == "toeic" and au is not None:
+        errs.append("토익은 audio = null (앱 TTS 사용)")
+    if au and au.get("startSec") is not None and au.get("endSec") is not None:
+        if au["endSec"] <= au["startSec"] or au["endSec"] > au["durationSec"] + 1:
+            errs.append("audio startSec/endSec 범위 오류")
+    return errs
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("root", help="lessons 폴더 (예: public/lessons)")
-    ap.add_argument("--write-index", metavar="PATH", help="index.json 을 쓸 경로")
-    ap.add_argument("--keep-going", action="store_true", help="오류가 있어도 index 를 쓰고 0 으로 종료(개발용)")
-    args = ap.parse_args()
-
-    root = Path(args.root)
-    entries = []
-    bad = 0
-    total = 0
-    for track in TRACKS:
-        folder = root / track
-        if not folder.is_dir():
-            continue
-        for path in sorted(folder.glob("*.json")):
-            total += 1
-            rel = f"{track}/{path.name}"
-            try:
-                data = json.loads(path.read_text(encoding="utf-8"))
-            except (json.JSONDecodeError, UnicodeDecodeError) as e:
-                errors = [f"JSON 을 읽을 수 없습니다: {e}"]
-                data = {}
-            else:
-                errors = validate_lesson(data, folder_track=track, file_stem=path.stem)
-            if errors:
-                bad += 1
-                print(f"✗ {rel}")
-                for e in errors:
-                    print(f"    - {e}")
-            else:
-                print(f"✓ {rel}")
-            entry = {
-                "track": track,
-                "id": path.stem,
-                "file": rel,
-            }
-            if isinstance(data, dict) and not errors:
-                entry.update({
-                    "date": data["date"],
-                    "level": data["level"],
-                    "title": data["title"],
-                    "titleKo": data["titleKo"],
-                    "genre": data["genre"],
-                    "genreKo": data.get("genreKo"),
-                    "wordCount": data["wordCount"],
-                    "hasAudio": data["audio"] is not None,
-                })
-            else:
-                entry.update({
-                    "date": path.stem,
-                    "title": (data.get("title") if isinstance(data, dict) else None) or path.stem,
-                    "errors": errors,
-                })
-            entries.append(entry)
-
-    for p in root.rglob("*.json"):
-        if p.name == "index.json" or p.parent.name in TRACKS:
-            continue
-        print(f"! 무시됨(트랙 폴더 밖): {p.relative_to(root)}")
-
-    print(f"\n{total}개 중 {total - bad}개 통과, {bad}개 오류")
-
-    if args.write_index and (bad == 0 or args.keep_going):
-        entries.sort(key=lambda e: (e["track"], e["date"], e["id"]), reverse=True)
-        index = {
-            "version": 1,
-            "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "lessons": entries,
-        }
-        out = Path(args.write_index)
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"index 작성: {out}")
-
-    if bad and not args.keep_going:
+def main(argv):
+    if len(argv) < 2:
+        print(__doc__)
         return 1
-    return 0
+    target = Path(argv[1])
+    index_out = Path(argv[argv.index("--write-index") + 1]) if "--write-index" in argv else None
+
+    files = sorted(target.rglob("*.json")) if target.is_dir() else [target]
+    files = [f for f in files if f.name != "index.json"]
+    bad, index, seen = 0, [], {}
+    for f in files:
+        name = f"{f.parent.name}/{f.name}"
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            print(f"✗ {name}: JSON 문법 오류 {e}")
+            bad += 1
+            continue
+        errs = check(f, data)
+        if data.get("track") == "general":  # 같은 작품·같은 부분을 두 번 보내지 않기
+            key = (data.get("title", "").lower(), (data.get("source") or {}).get("excerptNote"))
+            if key in seen:
+                errs.append(f"같은 작품·같은 부분이 이미 있음: {seen[key]}")
+            seen[key] = name
+        if errs:
+            bad += 1
+            print(f"✗ {name}")
+            for e in errs:
+                print("   -", e)
+            continue
+        extra = f", {len(data['questions'])}문제" if data["track"] == "toeic" else ""
+        print(f"✓ {name}  ({data['title']}, L{data['level']}, {data['wordCount']}단어{extra})")
+        index.append({
+            "track": data["track"], "chapter": data.get("chapter"), "id": data["id"], "date": data["date"],
+            "level": data["level"], "genre": data["genre"], "title": data["title"], "titleKo": data["titleKo"],
+            "wordCount": data["wordCount"], "hasAudio": data["audio"] is not None,
+            "questionCount": len(data.get("questions", [])),
+            "grammarTags": sorted({t for g in data["grammar"] for t in g["tags"]}),
+            "file": f"{data['track']}/{f.name}",
+        })
+    if index_out and not bad:
+        index.sort(key=lambda x: (x["date"], x["track"], x["level"], x["chapter"] or ""), reverse=True)
+        index_out.write_text(json.dumps({"schemaVersion": 2, "lessons": index}, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"→ {index_out} ({len(index)}개)")
+    print(f"\n{len(files) - bad}/{len(files)} 통과")
+    return 1 if bad else 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(main(sys.argv))

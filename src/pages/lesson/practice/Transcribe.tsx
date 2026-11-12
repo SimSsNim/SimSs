@@ -102,14 +102,17 @@ export function PaperMode({ lesson, lessonKey }: TabProps) {
   );
 }
 
-export function TypingMode({ lesson, lessonKey }: TabProps) {
+export function TypingMode({ lesson, lessonKey, sentenceId }: TabProps & { sentenceId?: string }) {
   const st = useSettings();
-  const [scope, setScope] = useState<number>(-1); // -1 = 전체
+  const sentList = flatSentences(lesson);
+  const sIdx = sentenceId ? sentList.findIndex((x) => x.id === sentenceId) : -1;
+  // -1 = 전체, 0.. = 단락, 1000+ = 문장 하나
+  const [scope, setScope] = useState<number>(sIdx >= 0 ? 1000 + sIdx : -1);
   const [hide, setHide] = useState(false);
   const [typed, setTyped] = useState('');
   const [startAt, setStartAt] = useState<number | null>(null);
   const [result, setResult] = useState<(TypingResult & { wpm: number; sec: number }) | null>(null);
-  const target = useMemo(() => (scope < 0 ? lesson.paragraphs.map((x) => x.en).join('\n') : lesson.paragraphs[scope].en), [lesson, scope]);
+  const target = useMemo(() => (scope < 0 ? lesson.paragraphs.map((x) => x.en).join('\n') : scope >= 1000 ? sentList[scope - 1000].en : lesson.paragraphs[scope].en), [lesson, scope, sentList]);
   const opts = { ignoreCase: st.typingIgnoreCase, ignorePunctuation: st.typingIgnorePunct };
   const diff = diffChars(target, typed, opts);
   const wrongNow = diff.filter((d) => d.state === 'bad').length;
@@ -136,6 +139,7 @@ export function TypingMode({ lesson, lessonKey }: TabProps) {
         <select className={s.select} style={{ width: 'auto' }} value={scope} onChange={(e) => { setScope(Number(e.target.value)); reset(); }} aria-label="범위">
           <option value={-1}>전체 지문</option>
           {lesson.paragraphs.map((x, i) => <option key={x.id} value={i}>{i + 1}번째 단락</option>)}
+          {sentList.map((x, i) => <option key={x.id} value={1000 + i}>{i + 1}번째 문장</option>)}
         </select>
         <button type="button" className={s.chip} aria-pressed={hide} onClick={() => setHide(!hide)}>원문 가리기</button>
       </div>

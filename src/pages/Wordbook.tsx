@@ -2,7 +2,6 @@ import { useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
-import { AppHeader } from '../components/AppHeader';
 import { useLessons } from '../lib/lessons';
 import { db } from '../lib/db';
 import { mergeWords, type WordItem } from '../lib/words';
@@ -13,7 +12,7 @@ import { TRACK_LABEL, type Track } from '../lib/types';
 import { isDue } from '../lib/leitner';
 import { kstDate } from '../lib/date';
 import { autoCheck } from '../lib/progress';
-import { pickToday } from './Home';
+import { pickToday } from '../lib/lessons';
 
 export type TrackFilter = 'all' | Track;
 export function TrackFilterSeg({ value, onChange }: { value: TrackFilter; onChange: (v: TrackFilter) => void }) {
@@ -26,18 +25,28 @@ export function TrackFilterSeg({ value, onChange }: { value: TrackFilter; onChan
   );
 }
 
+export type LevelFilter = 'all' | number;
+export function LevelFilterChips({ value, onChange }: { value: LevelFilter; onChange: (v: LevelFilter) => void }) {
+  return (
+    <div className={s.chips} role="group" aria-label="레벨 필터" style={{ paddingBottom: 2 }}>
+      {(['all', 1, 2, 3, 4] as const).map((l) => (
+        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)} style={{ minHeight: 36 }}>{l === 'all' ? '전체' : `L${l}`}</button>
+      ))}
+    </div>
+  );
+}
+
 type Sort = 'recent' | 'ko' | 'abc' | 'wrong';
 
-export function Wordbook() {
+/** 복습 탭의 '단어장' 칸 */
+export function WordbookPanel({ trackF, level }: { trackF: TrackFilter; level: LevelFilter }) {
   const settings = useSettings();
   const [params] = useSearchParams();
   const { lessons, summaries } = useLessons();
-  const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
   const [filter, setFilter] = useState<WordFilter>('all');
   const [view, setView] = useState<'list' | 'flash' | 'review'>(params.get('review') ? 'review' : 'list');
   const [q, setQ] = useState('');
   const [sort, setSort] = useState<Sort>('recent');
-  const [level, setLevel] = useState<number | 'all'>('all');
   const [from, setFrom] = useState('');
   const [to, setTo] = useState('');
   const myWords = useLiveQuery(() => db.myWords.toArray(), []);
@@ -69,13 +78,9 @@ export function Wordbook() {
     return b.createdAt - a.createdAt;
   });
   const due = all.filter((w) => { const r = states.get(w.key); return r && isDue(r, today); });
-  const levels = [...new Set(all.flatMap((w) => w.sources.map((x) => x.level)))].sort();
 
   return (
     <>
-      <AppHeader right={<TrackFilterSeg value={trackF} onChange={setTrackF} />} />
-      <main className={s.page}>
-        <h1 className={s.title}>단어장 <span className={s.muted + ' ' + s.small}>{all.length}개</span></h1>
         <div className={s.seg} role="tablist" aria-label="보기">
           <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'list'} onClick={() => setView('list')}>목록</button>
           <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'flash'} onClick={() => setView('flash')}>플래시카드</button>
@@ -85,7 +90,7 @@ export function Wordbook() {
           due.length ? (
             <Flashcards items={due} deckKey="review" title="오늘 복습할 단어" onFinish={(n) => {
               if (n === 0) return;
-              const t = pickToday(summaries, settings.track).lesson;
+              const t = pickToday(summaries, settings.track, settings.levelByTrack[settings.track] ?? 1).lessons[0];
               if (t) void autoCheck(t.key, 'review');
             }} />
           ) : <p className={s.empty}>오늘 복습할 단어가 없어요 🎉</p>
@@ -98,12 +103,8 @@ export function Wordbook() {
               </select>
             </div>
             <details style={{ margin: '6px 0' }}>
-              <summary className={s.small} style={{ minHeight: 36, cursor: 'pointer' }}>범위: 레벨·날짜</summary>
+              <summary className={s.small} style={{ minHeight: 36, cursor: 'pointer' }}>범위: 날짜</summary>
               <div className={s.row}>
-                <select className={s.select} style={{ width: 'auto' }} value={level} onChange={(e) => setLevel(e.target.value === 'all' ? 'all' : Number(e.target.value))} aria-label="레벨">
-                  <option value="all">모든 레벨</option>
-                  {levels.map((l) => <option key={l} value={l}>레벨 {l}</option>)}
-                </select>
                 <input className={s.input} style={{ width: 'auto' }} type="date" value={from} onChange={(e) => setFrom(e.target.value)} aria-label="시작 날짜" />
                 <input className={s.input} style={{ width: 'auto' }} type="date" value={to} onChange={(e) => setTo(e.target.value)} aria-label="끝 날짜" />
               </div>
@@ -119,7 +120,6 @@ export function Wordbook() {
             )}
           </>
         )}
-      </main>
     </>
   );
 }

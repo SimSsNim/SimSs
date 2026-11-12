@@ -10,6 +10,7 @@ import type { Sentence, Vocab } from '../../lib/types';
 import { db } from '../../lib/db';
 import { usePlayer } from '../../store/player';
 import { autoCheck } from '../../lib/progress';
+import { blankedSentence } from '../../lib/validateLesson';
 
 const MODES: { id: DisplayMode; label: string }[] = [
   { id: 'en', label: '영어만' },
@@ -18,7 +19,9 @@ const MODES: { id: DisplayMode; label: string }[] = [
   { id: 'both-paragraph', label: '단락 뒤 번역' },
 ];
 
-export function FullTextTab({ lesson, lessonKey }: TabProps) {
+export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
+  const hidden = gate?.hidden ?? new Set<string>();
+  const numbered = lesson.chapter === 'part5';
   const st = useSettings();
   const player = usePlayer();
   const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; sentence: string } | null>(null);
@@ -84,15 +87,24 @@ export function FullTextTab({ lesson, lessonKey }: TabProps) {
       <p className={s.small + ' ' + s.muted} style={{ marginTop: 0 }}>단어를 누르면 뜻, 문장을 길게 누르면(또는 Enter) 메뉴가 열려요.</p>
 
       <article className={`${s.reading} ${st.serif ? '' : s.sansReading}`} lang="en" data-testid="full-text">
-        {lesson.paragraphs.map((p) => (
-          <div key={p.id}>
+        {(() => {
+          const Wrap = numbered ? 'ol' : 'div';
+          return <Wrap style={numbered ? { paddingLeft: '1.6em', margin: 0 } : undefined}>
+        {lesson.paragraphs.map((p) => {
+          const Item = numbered ? 'li' : 'div';
+          return (
+          <Item key={p.id}>
             <p className={r.para} data-paragraph={p.id}>
               {p.sentences.map((sen, i) => {
                 const mark = marks?.find((m) => m.sentenceId === sen.id);
                 return (
                   <span key={sen.id}>
                     {i > 0 && showEn && st.displayMode !== 'both-sentence' ? ' ' : null}
-                    {showEn ? (
+                    {hidden.has(sen.id) ? (
+                      <span className={r.sentence} data-hidden-sentence={sen.id} title="문제를 풀면 공개돼요">
+                        {(() => { const q = lesson.questions.find((x) => x.blank?.sentenceId === sen.id)!; return showEn ? blankedSentence(sen.en, q.blank!.answerText) : '(문제를 풀면 공개)'; })()}
+                      </span>
+                    ) : showEn ? (
                       <SentenceSpan sentence={sen} current={playingHere && player.currentSentenceId === sen.id}
                         bookmarked={!!mark?.bookmark} hard={!!mark?.hard} onLong={() => setMenu(sen)}>
                         <SentenceText sentence={sen} vocab={st.hlVocab ? vocabOf(lesson, sen.id) : []}
@@ -103,14 +115,17 @@ export function FullTextTab({ lesson, lessonKey }: TabProps) {
                       <>{i > 0 ? ' ' : null}{renderKo(sen.id, sen.ko, '')}</>
                     )}
                     {mark?.memo && showEn && <span className={r.memo}>📝 {mark.memo}</span>}
-                    {st.displayMode === 'both-sentence' && renderKo(sen.id, sen.ko, r.koLine)}
+                    {st.displayMode === 'both-sentence' && !hidden.has(sen.id) && renderKo(sen.id, sen.ko, r.koLine)}
                   </span>
                 );
               })}
             </p>
-            {st.displayMode === 'both-paragraph' && <p className={r.koPara}>{renderKo(p.id, p.ko, '')}</p>}
-          </div>
-        ))}
+            {st.displayMode === 'both-paragraph' && !p.sentences.some((x) => hidden.has(x.id)) && <p className={r.koPara}>{renderKo(p.id, p.ko, '')}</p>}
+          </Item>
+          );
+        })}
+          </Wrap>;
+        })()}
       </article>
       <div ref={endRef} aria-hidden="true" style={{ height: 1 }} />
       <Source lesson={lesson} />
@@ -153,12 +168,13 @@ export function Source({ lesson }: { lesson: TabProps['lesson'] }) {
   return (
     <footer className={s.small + ' ' + s.muted} style={{ marginTop: 24, borderTop: '1px solid var(--line)', paddingTop: 10 }}>
       {lesson.track === 'toeic' ? (
-        <p>AI 작성 연습 지문 · 토익 스타일 연습용으로 새로 쓴 글이며 실제 시험 지문이 아닙니다.{src.note ? ` ${src.note}` : ''}</p>
+        <p>AI 작성 연습 지문 · 토익 스타일 연습용으로 새로 쓴 글이며 실제 시험 지문이 아닙니다.</p>
       ) : (
         <p>
           출처: {[src.author, src.work, src.translator && `tr. ${src.translator}`, src.year].filter(Boolean).join(', ')} · {src.license === 'us-government-work' ? '미국 정부 저작물' : '퍼블릭 도메인'}
           {src.url && <> · <a href={src.url} target="_blank" rel="noreferrer">원문</a></>}
-          {src.note ? ` · ${src.note}` : ''}
+          {src.edition ? ` · ${src.edition}` : ''}
+          {src.excerptNote ? ` · ${src.excerptNote}` : ''}
           {lesson.audio?.librivoxUrl && <> · 낭독: <a href={lesson.audio.librivoxUrl} target="_blank" rel="noreferrer">LibriVox</a></>}
         </p>
       )}

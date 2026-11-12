@@ -1,50 +1,61 @@
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { useEffect, useState } from 'react';
 import s from '../styles/ui.module.css';
 import { AppHeader } from '../components/AppHeader';
-import { useLessons, markTrackSeen, type LessonSummary } from '../lib/lessons';
-import { TRACKS, TRACK_LABEL, type Track } from '../lib/types';
-import { db, CHECKLIST_KEYS, emptyChecklist } from '../lib/db';
+import { useLessons, markTrackSeen, pickToday, levelsOn, type LessonSummary } from '../lib/lessons';
+import { TRACKS, TRACK_LABEL, LEVELS, LEVEL_DESC, CHAPTER_LABEL, CHAPTER_COUNT, type Level, type Track } from '../lib/types';
+import { db, CHECKLIST_KEYS, emptyChecklist, type QuizAttemptRow } from '../lib/db';
 import { CHECKLIST } from '../lib/checklist';
-import { kstDate, addDays, weekdayOf, formatKo } from '../lib/date';
+import { kstDate, addDays, weekdayOf, formatKo, diffDays } from '../lib/date';
 import { setChecklist, computeStreak, isStudyDay } from '../lib/progress';
 import { isDue } from '../lib/leitner';
 import { useSettings, setSetting } from '../lib/settings';
+import { setMyLevel, useMyLevel } from '../components/LevelChips';
+import { firstAttempts } from '../lib/quiz';
 import { toast } from '../components/Toast';
-
-export function pickToday(summaries: LessonSummary[], track: Track): { lesson: LessonSummary | null; isToday: boolean } {
-  const list = summaries.filter((x) => x.track === track && !x.errors);
-  const today = kstDate();
-  const t = list.find((x) => x.date === today);
-  if (t) return { lesson: t, isToday: true };
-  const past = list.filter((x) => x.date <= today);
-  return { lesson: past[0] ?? list[0] ?? null, isToday: false };
-}
+import { mmss } from './lesson/practice/Transcribe';
 
 export function LevelBadge({ level }: { level: number | null }) {
   if (!level) return null;
-  return <span className={s.badgeAccent}>레벨 {level}</span>;
+  return <span className={s.badgeAccent}>L{level}</span>;
+}
+
+export function attemptStatus(rows: QuizAttemptRow[] | undefined, total: number) {
+  const list = (rows ?? []).slice().sort((a, b) => a.attemptNo - b.attemptNo);
+  const first = list.find((a) => a.inProgress === 0);
+  const open = list.find((a) => a.inProgress === 1);
+  if (first) return { kind: 'done' as const, text: `완료 ${first.score}/${first.total}`, sec: first.durationSec };
+  if (open) {
+    const n = open.mode === 'practice' ? open.checked.length : Object.keys(open.answers).length;
+    return { kind: 'doing' as const, text: `푸는 중 ${n}/${total}`, sec: null };
+  }
+  return { kind: 'todo' as const, text: '안 풂', sec: null };
 }
 
 export function Home() {
   const { track: tp } = useParams();
   const track = tp as Track;
+  const nav = useNavigate();
   const { summaries, status } = useLessons();
   const settings = useSettings();
+  const level = useMyLevel(track);
   const today = kstDate();
-  const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t)])) as Record<Track, ReturnType<typeof pickToday>>;
+  const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t, settings.levelByTrack[t] ?? 1, today)])) as Record<Track, ReturnType<typeof pickToday>>;
   const mine = picks[track];
-  const keys = TRACKS.map((t) => picks[t].lesson?.key).filter(Boolean) as string[];
-  const progress = useLiveQuery(() => db.lessonProgress.bulkGet(keys), [keys.join(',')]);
+  const generalLesson = picks.general.lessons[0];
+  const toeicKeys = picks.toeic.lessons.map((l) => l.key);
+  const allKeys = [generalLesson?.key, ...toeicKeys].filter(Boolean) as string[];
+  const progress = useLiveQuery(() => db.lessonProgress.bulkGet(allKeys), [allKeys.join(',')]);
+  const attempts = useLiveQuery(() => db.quizAttempt.where('lessonKey').anyOf(toeicKeys.length ? toeicKeys : ['-']).toArray(), [toeicKeys.join(',')]);
   const daily = useLiveQuery(() => db.dailyLog.toArray(), []);
   const dueWords = useLiveQuery(() => db.wordState.where('due').belowOrEqual(today).toArray(), [today]);
+  const dueWrong = useLiveQuery(() => db.questionState.where('inWrongNote').equals(1).toArray(), []);
 
   useEffect(() => {
     if (status !== 'loading') markTrackSeen(track);
   }, [track, status, summaries.length]);
 
-  // 백업 알림(14일)
   useEffect(() => {
     const since = Math.max(settings.lastBackupAt ?? 0, settings.backupReminderShownAt ?? 0);
     if (since && Date.now() - since > 14 * 86400000) {
@@ -60,74 +71,80 @@ export function Home() {
   let weekDays = 0;
   for (let i = 0; i < 7; i++) if (days.has(addDays(monday, i))) weekDays++;
   const due = (dueWords ?? []).filter((w) => isDue(w, today)).length;
+  const wrongDue = (dueWrong ?? []).filter((w) => isDue(w, today)).length;
   const todayLog = (daily ?? []).find((d) => d.date === today);
   const todayMin = Math.round((todayLog?.seconds ?? 0) / 60);
-
   const progOf = (key?: string) => progress?.find((p) => p?.key === key);
-  const mineProg = progOf(mine.lesson?.key);
-  const [optimistic, setOptimistic] = useState<Record<string, boolean>>({});
-  const checklist = { ...(mineProg?.checklist ?? emptyChecklist()), ...optimistic };
-  useEffect(() => setOptimistic({}), [mineProg, track]);
+
+  const summaryLine = (t: Track) => {
+    const p = picks[t];
+    const lv = settings.levelByTrack[t] ?? 1;
+    if (!p.lessons.length) return `${TRACK_LABEL[t]} L${lv}: 지문 없음`;
+    if (t === 'general') {
+      const pr = progOf(p.lessons[0].key);
+      const done = pr ? CHECKLIST_KEYS.filter((k) => pr.checklist[k]).length : 0;
+      return `${TRACK_LABEL[t]} L${lv}: 「${p.lessons[0].title}」 ${done === 6 ? '✓완료' : `${done}/6 단계`}`;
+    }
+    const parts = p.lessons.map((l) => {
+      const st = attemptStatus(attempts?.filter((a) => a.lessonKey === l.key), l.questionCount);
+      return `${CHAPTER_LABEL[l.chapter!].replace('Part ', 'P')} ${st.kind === 'done' ? st.text.replace('완료 ', '') : st.kind === 'doing' ? '…' : '–'}`;
+    });
+    return `${TRACK_LABEL[t]} L${lv}: ${parts.join(' · ')}`;
+  };
+
+  const otherLevelDate = mine.date ?? today;
+  const available = levelsOn(summaries, track, otherLevelDate);
+  const openLevel = (lv: Level) => {
+    const list = summaries.filter((x) => x.track === track && x.level === lv && x.date === otherLevelDate && !x.errors);
+    const l = track === 'toeic' ? list.find((x) => x.chapter === settings.toeicChapter) ?? list[0] : list[0];
+    if (l) nav(`/${track}/lesson/${l.id}`);
+  };
 
   return (
     <>
-      <AppHeader track={track} />
+      <AppHeader track={track} levels />
       <main className={s.page}>
-        <section aria-label="두 트랙 요약" className={s.stack} style={{ marginTop: 8 }}>
-          {TRACKS.map((t) => {
-            const l = picks[t].lesson;
-            const p = progOf(l?.key);
-            const done = p ? CHECKLIST_KEYS.filter((k) => p.checklist[k]).length : 0;
-            return (
-              <Link key={t} to={`/${t}`} onClick={() => setSetting('track', t)} className={s.small}
-                style={{ color: 'inherit', textDecoration: 'none', fontWeight: t === track ? 700 : 400 }} data-testid={`summary-${t}`}>
-                {TRACK_LABEL[t]}: {l ? <>「{l.title}」 {done === 6 ? '✓완료' : `${done}/6 단계`}</> : '지문 없음'}
-              </Link>
-            );
-          })}
+        <section aria-label="두 트랙 요약" className={s.stack} style={{ marginTop: 8, gap: 4 }}>
+          {TRACKS.map((t) => (
+            <Link key={t} to={`/${t}`} onClick={() => setSetting('track', t)} className={s.small}
+              style={{ color: 'inherit', textDecoration: 'none', fontWeight: t === track ? 700 : 400, display: 'block', minHeight: 28, paddingTop: 4 }} data-testid={`summary-${t}`}>
+              {summaryLine(t)}
+            </Link>
+          ))}
         </section>
 
-        <h1 className={s.title}>{formatKo(today)} · {TRACK_LABEL[track]}</h1>
+        <h1 className={s.title}>{formatKo(today)} · {TRACK_LABEL[track]} L{level}</h1>
+        {track === 'toeic' && <LevelTip />}
 
-        {!mine.lesson ? (
+        {!mine.lessons.length ? (
           <div className={s.card}>
-            <p className={s.empty}>{status === 'loading' ? '지문을 불러오는 중…' : '아직 지문이 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)'}</p>
+            <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `레벨 ${level} 지문이 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)`}</p>
           </div>
         ) : (
           <>
-            {!mine.isToday && <p className={s.muted} role="note">오늘 지문은 아직 도착하지 않았어요. 가장 최근 지문을 보여 드려요.</p>}
-            <Link to={`/${track}/lesson/${mine.lesson.id}`} className={s.cardLink} data-testid="today-card">
-              <div className={s.row} style={{ marginBottom: 6 }}>
-                <LevelBadge level={mine.lesson.level} />
-                <span className={s.badge}>{mine.lesson.genreKo}</span>
-                <span className={s.badge}>{mine.lesson.wordCount}단어</span>
-                <span className={s.badge}>{mine.lesson.hasAudio ? '🔊 원음' : '🗣 TTS'}</span>
-                {track === 'toeic' && <span className={s.badge}>AI 작성 연습 지문</span>}
-              </div>
-              <div style={{ fontFamily: 'var(--serif)', fontSize: 22, fontWeight: 700 }}>{mine.lesson.title}</div>
-              <div className={s.muted}>{mine.lesson.titleKo} · {formatKo(mine.lesson.date)}</div>
-            </Link>
-
-            <h2 className={s.h2}>오늘의 학습 순서</h2>
-            <ol className={s.list} style={{ counterReset: 'none' }}>
-              {CHECKLIST.map((c, i) => (
-                <li key={c.key} className={s.card} style={{ padding: '6px 12px' }}>
-                  <div className={s.between}>
-                    <label className={s.check} title={c.hint}>
-                      <input type="checkbox" checked={checklist[c.key]} data-testid={`check-${c.key}`}
-                        onChange={(e) => {
-                        setOptimistic({ ...optimistic, [c.key]: e.target.checked });
-                        void setChecklist(mine.lesson!.key, c.key, e.target.checked);
-                      }} />
-                      <span>{'①②③④⑤⑥'[i]} {c.label}</span>
-                    </label>
-                    <Link className={s.ghost} to={`/${track}/lesson/${mine.lesson!.id}/${c.tab}`}>하기 ›</Link>
-                  </div>
-                </li>
-              ))}
-            </ol>
+            {!mine.isToday && <p className={s.muted} role="note" data-testid="not-arrived">오늘 지문은 아직 도착하지 않았어요. 가장 최근({formatKo(mine.date!)}) 레벨 {level} 지문을 보여 드려요.</p>}
+            {track === 'general' ? (
+              <GeneralToday lesson={mine.lessons[0]} checklist={progOf(mine.lessons[0].key)?.checklist ?? emptyChecklist()} />
+            ) : (
+              <ToeicToday lessons={mine.lessons} attempts={attempts ?? []} />
+            )}
           </>
         )}
+
+        <div className={s.card} style={{ marginTop: 12, padding: 10 }} aria-label="오늘 다른 레벨">
+          <div className={s.small} style={{ fontWeight: 700, marginBottom: 6 }}>오늘 다른 레벨</div>
+          <div className={s.row}>
+            {LEVELS.map((lv) => {
+              const has = available.has(lv);
+              return (
+                <button key={lv} type="button" className={s.chip} disabled={!has} aria-current={lv === level ? 'true' : undefined} data-testid={`other-level-${lv}`}
+                  onClick={() => openLevel(lv)} title={LEVEL_DESC[track][lv]} style={!has ? { opacity: 0.5 } : undefined}>
+                  L{lv} {has ? '' : <span className={s.small}>아직 없음</span>}
+                </button>
+              );
+            })}
+          </div>
+        </div>
 
         <h2 className={s.h2}>기록</h2>
         <div className={s.card} style={{ padding: 10, marginBottom: 8 }} aria-label="하루 목표">
@@ -137,13 +154,123 @@ export function Home() {
           </div>
           <div className={s.progressBar} style={{ marginTop: 6 }}><span style={{ width: `${Math.min(100, (todayMin / settings.dailyGoalMinutes) * 100)}%` }} /></div>
         </div>
-        <div className={s.row} style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 8 }}>
           <Stat label="연속 학습" value={`${streak}일`} />
-          <Link to="/words?review=1" style={{ textDecoration: 'none', color: 'inherit' }}><Stat label="오늘 복습 단어" value={`${due}개`} /></Link>
           <Stat label="이번 주" value={`${weekDays}/7일`} />
+          <Link to="/review?tab=words&review=1" style={{ textDecoration: 'none', color: 'inherit' }}><Stat label="오늘 복습 단어" value={`${due}개`} /></Link>
+          <Link to="/review?tab=wrong&review=1" style={{ textDecoration: 'none', color: 'inherit' }} data-testid="home-wrong-due"><Stat label="오늘 복습 오답" value={`${wrongDue}개`} /></Link>
         </div>
       </main>
     </>
+  );
+}
+
+function GeneralToday({ lesson, checklist }: { lesson: LessonSummary; checklist: Record<string, boolean> }) {
+  const [optimistic, setOptimistic] = useState<Record<string, boolean>>({});
+  useEffect(() => setOptimistic({}), [checklist, lesson.key]);
+  const list = { ...checklist, ...optimistic };
+  return (
+    <>
+      <Link to={`/general/lesson/${lesson.id}`} className={s.cardLink} data-testid="today-card">
+        <div className={s.row} style={{ marginBottom: 6 }}>
+          <LevelBadge level={lesson.level} />
+          <span className={s.badge}>{lesson.genreKo}</span>
+          <span className={s.badge}>{lesson.wordCount}단어</span>
+          <span className={s.badge}>{lesson.hasAudio ? '🔊 원음' : '🗣 TTS'}</span>
+        </div>
+        <div style={{ fontFamily: 'var(--serif)', fontSize: 22, fontWeight: 700 }}>{lesson.title}</div>
+        <div className={s.muted}>{lesson.titleKo} · {formatKo(lesson.date)}</div>
+      </Link>
+      <h2 className={s.h2}>오늘의 학습 순서</h2>
+      <ol className={s.list}>
+        {CHECKLIST.map((c, i) => (
+          <li key={c.key} className={s.card} style={{ padding: '6px 12px' }}>
+            <div className={s.between}>
+              <label className={s.check} title={c.hint}>
+                <input type="checkbox" checked={!!list[c.key]} data-testid={`check-${c.key}`}
+                  onChange={(e) => {
+                    setOptimistic({ ...optimistic, [c.key]: e.target.checked });
+                    void setChecklist(lesson.key, c.key, e.target.checked);
+                  }} />
+                <span>{'①②③④⑤⑥'[i]} {c.label}</span>
+              </label>
+              <Link className={s.ghost} to={`/general/lesson/${lesson.id}/${c.tab}`}>하기 ›</Link>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </>
+  );
+}
+
+function ToeicToday({ lessons, attempts }: { lessons: LessonSummary[]; attempts: QuizAttemptRow[] }) {
+  const st = useSettings();
+  const nav = useNavigate();
+  const ordered = lessons.slice().sort((a, b) => (a.chapter! < b.chapter! ? -1 : 1));
+  const first = ordered[0];
+  return (
+    <>
+      <ul className={s.list} data-testid="part-cards">
+        {ordered.map((l) => {
+          const status = attemptStatus(attempts.filter((a) => a.lessonKey === l.key), l.questionCount);
+          return (
+            <li key={l.key}>
+              <Link to={`/toeic/lesson/${l.id}/quiz`} className={s.cardLink} data-testid={`part-card-${l.chapter}`} onClick={() => setSetting('toeicChapter', l.chapter!)}
+                style={st.toeicChapter === l.chapter ? { borderColor: 'var(--accent)', borderWidth: 2 } : undefined}>
+                <div className={s.between}>
+                  <b>{CHAPTER_LABEL[l.chapter!]} · {CHAPTER_COUNT[l.chapter!]}문제</b>
+                  <span className={status.kind === 'done' ? s.badgeOk : status.kind === 'doing' ? s.badgeAccent : s.badge} data-testid={`part-status-${l.chapter}`}>{status.text}</span>
+                </div>
+                <div style={{ fontFamily: 'var(--serif)', fontSize: 18, fontWeight: 700, marginTop: 4 }}>{l.title}</div>
+                <div className={s.small + ' ' + s.muted}>
+                  {l.titleKo} · {l.genreKo} · {l.wordCount}단어{status.sec !== null ? ` · ${mmss(status.sec)} 걸림` : ''}
+                </div>
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
+      <p className={s.small + ' ' + s.muted}>AI 작성 토익 스타일 연습 문제 · 실제 시험 문제가 아닙니다.</p>
+      {first && (
+        <button type="button" className={s.primary + ' ' + s.big + ' ' + s.full} data-testid="solve-all"
+          onClick={() => nav(`/toeic/lesson/${first.id}/quiz?set=${ordered.map((l) => l.id).join(',')}`)}>
+          ▶ 오늘 세트 전부 풀기 (Part 5 → 6 → 7)
+        </button>
+      )}
+    </>
+  );
+}
+
+/** 레벨 추천(제안만): 최근 5개 토익 레슨 첫 시도 정답률 */
+function LevelTip() {
+  const level = useMyLevel('toeic');
+  const today = kstDate();
+  const attempts = useLiveQuery(() => db.quizAttempt.where('track').equals('toeic').toArray(), []);
+  const dismissed = useLiveQuery(() => db.dismissedTips.get('levelTip:toeic'), []);
+  if (!attempts) return null;
+  if (dismissed && diffDays(today, dismissed.date) < 7) return null;
+  const firsts = firstAttempts(attempts.filter((a) => a.level === level)).sort((a, b) => (b.finishedAt ?? 0) - (a.finishedAt ?? 0)).slice(0, 5);
+  if (firsts.length < 3) return null;
+  const rate = firsts.reduce((x, a) => x + a.score, 0) / Math.max(1, firsts.reduce((x, a) => x + a.total, 0));
+  let target: Level | null = null;
+  let text = '';
+  if (rate >= 0.9 && level < 4) {
+    target = (level + 1) as Level;
+    text = `최근 ${firsts.length}개 레슨 정답률 ${Math.round(rate * 100)}%! L${target}에 도전해 볼까요?`;
+  } else if (rate < 0.5 && level > 1) {
+    target = (level - 1) as Level;
+    text = `최근 ${firsts.length}개 레슨 정답률 ${Math.round(rate * 100)}%. L${target}로 복습해 볼까요?`;
+  }
+  if (!target) return null;
+  const close = () => void db.dismissedTips.put({ key: 'levelTip:toeic', date: today });
+  return (
+    <div className={s.card} role="status" data-testid="level-tip" style={{ marginBottom: 12, borderColor: 'var(--accent)' }}>
+      <p style={{ margin: '0 0 8px' }}>{text}</p>
+      <div className={s.row}>
+        <button type="button" className={s.primary} onClick={() => { setMyLevel('toeic', target!); close(); }}>L{target}로 바꾸기</button>
+        <button type="button" className={s.ghost} onClick={close}>닫기</button>
+      </div>
+    </div>
   );
 }
 

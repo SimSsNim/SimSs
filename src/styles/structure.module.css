@@ -6,6 +6,8 @@
 .r_S { color: var(--role-S); } .r_S .chunkText { text-decoration: underline solid var(--role-S); }
 .r_V { color: var(--role-V); } .r_V .chunkText { text-decoration: underline double var(--role-V); }
 .r_O { color: var(--role-O); } .r_O .chunkText { text-decoration: underline dashed var(--role-O); }
+.r_IO { color: var(--role-O); } .r_IO .chunkText { text-decoration: underline dashed var(--role-O); text-decoration-thickness: 3px; }
+.r_OC { color: var(--role-C); } .r_OC .chunkText { text-decoration: underline dotted var(--role-C); text-decoration-thickness: 3px; }
 .r_C { color: var(--role-C); } .r_C .chunkText { text-decoration: underline dotted var(--role-C); }
 .r_M { color: var(--role-M); } .r_M .chunkText { text-decoration: underline wavy var(--role-M); }
 .r_CONJ { color: var(--role-CONJ); } .r_CONJ .chunkText { text-decoration: overline solid var(--role-CONJ); }

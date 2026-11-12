@@ -10,7 +10,7 @@ import { GrammarCard } from '../../components/GrammarCard';
 import { db } from '../../lib/db';
 import { SpeakBtn } from '../../components/SentenceView';
 
-export const ROLE_NAME: Record<Role, string> = { S: '주어', V: '동사', O: '목적어', C: '보어', M: '수식어', CONJ: '접속사' };
+export const ROLE_NAME: Record<Role, string> = { S: '주어', V: '동사', O: '목적어', IO: '간접목적어', C: '보어', OC: '목적격 보어', M: '수식어', CONJ: '접속사' };
 export const roleLabel = (c: Pick<Chunk, 'role' | 'sub'>) => (c.sub && c.role !== 'CONJ' ? `${c.role}′` : c.role);
 export const isCore = (c: Chunk) => !c.sub && c.role !== 'M';
 

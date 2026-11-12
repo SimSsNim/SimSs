@@ -1,187 +1,188 @@
-// scripts/validate_lessons.py 와 같은 규칙. 둘 중 하나를 바꾸면 다른 쪽도 바꾼다.
-import type { Lesson, Track } from './types';
+// scripts/validate_lessons.py 의 check() 를 그대로 옮긴 것. 둘 중 하나를 바꾸면 다른 쪽도 바꾼다.
+// tests/validate.test.ts 가 같은 파일(정상 샘플 + tests/fixtures/broken)로 파이썬과 결과가 같은지 확인한다.
+import schema from '../../lesson.schema.json';
+import { validateSchema } from './jsonSchema';
+import type { RawLesson } from './types';
 
-const ROLES = new Set(['S', 'V', 'O', 'C', 'M', 'CONJ']);
-const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-const LICENSE_BY_TRACK: Record<Track, string[]> = { general: ['public-domain', 'us-government-work'], toeic: ['original'] };
-const TOP_KEYS = new Set([
-  'schemaVersion', 'id', 'track', 'date', 'level', 'title', 'titleKo', 'genre', 'genreKo',
-  'wordCount', 'source', 'audio', 'paragraphs', 'vocab', 'structures', 'grammar',
-]);
-
-type Obj = Record<string, unknown>;
-const isObj = (v: unknown): v is Obj => typeof v === 'object' && v !== null && !Array.isArray(v);
-const isStr = (v: unknown, allowEmpty = false): v is string => typeof v === 'string' && (allowEmpty || v.length > 0);
-const isNum = (v: unknown): v is number => typeof v === 'number' && Number.isFinite(v);
+const TOL = 15;
+const WORDS: Record<string, Record<number, [number, number]>> = {
+  general: { 1: [100, 150], 2: [150, 200], 3: [200, 250], 4: [250, 300] },
+  part7: { 1: [100, 150], 2: [150, 200], 3: [200, 250], 4: [250, 300] },
+  part6: { 1: [80, 130], 2: [100, 150], 3: [120, 170], 4: [140, 190] },
+  part5: { 1: [80, 150], 2: [100, 180], 3: [120, 220], 4: [150, 260] },
+};
+const Q_COUNT: Record<string, number> = { part5: 10, part6: 5, part7: 3 };
+export const BLANK = '-------';
 
 export const countWords = (text: string) => text.split(/\s+/).filter(Boolean).length;
 
 export interface ValidateOptions {
+  /** 들어 있는 폴더 이름(= track 이어야 함). 가져오기처럼 경로가 없으면 생략 */
   folderTrack?: string;
+  /** 파일 이름(확장자 제외, = id 여야 함) */
   fileStem?: string;
 }
 
 export function validateLesson(data: unknown, opts: ValidateOptions = {}): string[] {
-  const errors: string[] = [];
-  const err = (m: string) => errors.push(m);
-  if (!isObj(data)) return ['레슨 최상위는 객체여야 합니다'];
+  const schemaErrs = validateSchema(schema as Record<string, unknown>, data);
+  if (schemaErrs.length) return schemaErrs.map((e) => `스키마: ${e.path}: ${e.message}`);
+  const d = data as RawLesson;
+  const errs: string[] = [];
+  const err = (m: string) => errs.push(m);
+  const track = d.track;
+  const lv = d.level;
+  const kind = track === 'toeic' ? (d.chapter as string) : 'general';
 
-  for (const k of TOP_KEYS) if (k !== 'genreKo' && !(k in data)) err(`필수 항목 '${k}' 이(가) 없습니다`);
-  for (const k of Object.keys(data)) if (!TOP_KEYS.has(k)) err(`알 수 없는 항목 '${k}'`);
-  if (errors.length) return errors;
+  const expId = `${d.date}-L${lv}` + (track === 'toeic' ? `-${d.chapter}` : '');
+  if (d.id !== expId) err(`id는 ${expId} 이어야 함 (현재 ${d.id})`);
+  if (opts.fileStem !== undefined && opts.fileStem !== d.id) err(`파일명(${opts.fileStem})과 id가 다름`);
+  if (opts.folderTrack !== undefined && opts.folderTrack !== track) err(`폴더(${opts.folderTrack})와 track(${track})이 다름`);
 
-  if (data.schemaVersion !== 1) err('schemaVersion 은 1 이어야 합니다');
-  if (!(isStr(data.id) && DATE_RE.test(data.id))) err('id 는 YYYY-MM-DD 형식이어야 합니다');
-  if (!(isStr(data.date) && DATE_RE.test(data.date))) err('date 는 YYYY-MM-DD 형식이어야 합니다');
-  const track = data.track as Track;
-  if (track !== 'general' && track !== 'toeic') err(`track 은 general 또는 toeic 이어야 합니다 (현재: ${JSON.stringify(track)})`);
-  if (opts.folderTrack !== undefined && track !== opts.folderTrack) err(`track(${track}) 이 폴더 이름(${opts.folderTrack}) 과 다릅니다`);
-  if (opts.fileStem !== undefined && data.id !== opts.fileStem) err(`id(${String(data.id)}) 가 파일 이름(${opts.fileStem}) 과 다릅니다`);
-  if (!(Number.isInteger(data.level) && (data.level as number) >= 1 && (data.level as number) <= 5)) err('level 은 1~5 정수여야 합니다');
-  for (const k of ['title', 'titleKo', 'genre']) if (!isStr(data[k])) err(`${k} 는 비어 있지 않은 문자열이어야 합니다`);
+  const lic = d.source.license;
+  if (track === 'general' && lic === 'original') err('일반 필사는 퍼블릭 도메인 원문만');
+  if (track === 'toeic' && lic !== 'original') err('토익은 직접 쓴 지문만 (license=original)');
+  if (lic !== 'original' && !d.source.url) err('원문 링크(source.url) 없음');
 
-  const src = data.source;
-  if (!isObj(src) || !('license' in src)) err('source.license 가 없습니다');
-  else if (LICENSE_BY_TRACK[track] && !LICENSE_BY_TRACK[track].includes(src.license as string)) {
-    err(`${track} 트랙의 source.license 는 ${LICENSE_BY_TRACK[track].join(', ')} 만 허용됩니다 (현재: ${JSON.stringify(src.license)})`);
+  for (const key of ['paragraphs', 'sentences', 'vocab', 'structures', 'grammar', 'questions'] as const) {
+    const ids = ((d[key] ?? []) as { id: string }[]).map((x) => x.id);
+    const dup = [...new Set(ids.filter((i, k) => ids.indexOf(i) !== k))].sort();
+    if (dup.length) err(`${key} id 중복: ${JSON.stringify(dup)}`);
   }
 
-  const audio = data.audio;
-  if (audio !== null) {
-    if (track === 'toeic') err('toeic 트랙의 audio 는 null 이어야 합니다');
-    if (!isObj(audio) || !isStr(audio.mp3)) err('audio.mp3 가 없습니다');
-    else if (!audio.mp3.startsWith('https://')) err('audio.mp3 는 https:// 로 시작해야 합니다');
+  const sents = new Map(d.sentences.map((s) => [s.id, s]));
+  const paras = new Map(d.paragraphs.map((p) => [p.id, p]));
+  const order: string[] = [];
+  for (const p of d.paragraphs) {
+    for (const sid of p.sentenceIds) {
+      const s = sents.get(sid);
+      if (!s) err(`${p.id}: 없는 문장 ${sid}`);
+      else if (s.paragraphId !== p.id) err(`${sid}.paragraphId가 ${p.id}가 아님`);
+      order.push(sid);
+    }
+  }
+  if (order.join('\u0000') !== d.sentences.map((s) => s.id).join('\u0000')) err('paragraphs.sentenceIds 순서가 sentences 순서와 다름');
+  for (const s of d.sentences) {
+    if (!paras.has(s.paragraphId!)) err(`${s.id}: 없는 문단 ${s.paragraphId}`);
+    if (s.en !== s.en.trim() || s.en.includes('  ')) err(`${s.id}: 앞뒤 공백이나 이중 공백`);
+    const a = s.audioStartSec;
+    const b = s.audioEndSec;
+    if (a != null && b != null && b <= a) err(`${s.id}: audioEndSec <= audioStartSec`);
   }
 
-  const sentences = new Map<string, string>();
-  let paragraphs = data.paragraphs as unknown[];
-  if (!Array.isArray(paragraphs) || paragraphs.length === 0) {
-    err('paragraphs 는 1개 이상이어야 합니다');
-    paragraphs = [];
+  const wc = countWords(d.sentences.map((s) => s.en).join(' '));
+  if (wc !== d.wordCount) err(`wordCount ${d.wordCount} != 실제 ${wc}`);
+  const [lo, hi] = WORDS[kind][lv];
+  if (!(lo - TOL <= wc && wc <= hi + TOL)) err(`단어 수 ${wc}가 ${kind} 레벨 ${lv} 범위 ${lo}~${hi}(±${TOL}) 밖`);
+
+  for (const v of d.vocab) {
+    const s = sents.get(v.sentenceId);
+    if (!s) err(`${v.id}: 없는 문장 ${v.sentenceId}`);
+    else if (!s.en.includes(v.matchText)) err(`${v.id}: matchText '${v.matchText}'가 ${v.sentenceId}에 없음`);
+    if (track === 'toeic' && !(1 <= (v.synonyms ?? []).length && (v.synonyms ?? []).length <= 3)) err(`${v.id}: 토익 단어는 synonyms 1~3개`);
   }
-  const allEn: string[] = [];
-  const paraIds = new Set<string>();
-  paragraphs.forEach((p, pi) => {
-    const where = `paragraphs[${pi}]`;
-    if (!isObj(p)) return err(`${where} 는 객체여야 합니다`);
-    const pid = p.id;
-    if (!isStr(pid)) err(`${where}.id 가 없습니다`);
-    else if (paraIds.has(pid)) err(`문단 id '${pid}' 가 중복됩니다`);
-    else paraIds.add(pid);
-    const sents = p.sentences;
-    if (!Array.isArray(sents) || sents.length === 0) return err(`${where}.sentences 는 1개 이상이어야 합니다`);
-    const texts: string[] = [];
-    sents.forEach((s, si) => {
-      const sw = `${where}.sentences[${si}]`;
-      if (!isObj(s)) return err(`${sw} 는 객체여야 합니다`);
-      const sid = s.id;
-      if (!isStr(sid)) return err(`${sw}.id 가 없습니다`);
-      if (sentences.has(sid)) err(`문장 id '${sid}' 가 중복됩니다`);
-      let en = s.en;
-      if (!isStr(en)) {
-        err(`문장 ${sid}: en 이 비어 있습니다`);
-        en = '';
-      } else if (en !== en.trim()) err(`문장 ${sid}: en 앞뒤에 공백이 있습니다`);
-      if (!isStr(s.ko)) err(`문장 ${sid}: ko 가 비어 있습니다`);
-      for (const k of ['audioStartSec', 'audioEndSec']) {
-        const v = s[k];
-        if (v !== undefined && v !== null && (!isNum(v) || v < 0)) err(`문장 ${sid}: ${k} 는 0 이상 숫자 또는 null 이어야 합니다`);
+  const nv = d.vocab.length;
+  if (kind === 'part5') {
+    if (!(3 <= nv && nv <= 5)) err(`part5 vocab은 3~5개 (현재 ${nv})`);
+  } else if (nv !== 5) err(`vocab은 5개 (현재 ${nv})`);
+
+  for (const st of d.structures) {
+    const s = sents.get(st.sentenceId);
+    if (!s) {
+      err(`${st.id}: 없는 문장 ${st.sentenceId}`);
+      continue;
+    }
+    const joined = st.chunks.map((c) => c.text).join(' ');
+    if (joined !== s.en) err(`${st.id}: chunks를 이은 문장이 원문과 다름\n    chunks: ${joined}\n    원문  : ${s.en}`);
+  }
+  const loSt = kind === 'part5' ? 1 : 2;
+  if (!(loSt <= d.structures.length && d.structures.length <= 3)) err(`structures는 ${loSt}~3개`);
+
+  for (const g of d.grammar) {
+    const s = sents.get(g.sentenceId);
+    if (!s) {
+      err(`${g.id}: 없는 문장 ${g.sentenceId}`);
+      continue;
+    }
+    for (const h of g.highlight) if (!s.en.includes(h)) err(`${g.id}: highlight '${h}'가 ${g.sentenceId}에 없음`);
+  }
+  if (!(2 <= d.grammar.length && d.grammar.length <= 3)) err('grammar는 2~3개');
+
+  if (track === 'toeic') {
+    const qs = d.questions ?? [];
+    if (qs.length !== Q_COUNT[kind]) err(`${kind} 문제는 ${Q_COUNT[kind]}개 (현재 ${qs.length})`);
+    if (qs.map((q) => q.number).join(',') !== qs.map((_, i) => i + 1).join(',')) err('questions.number는 1부터 차례대로');
+    const usedBlank: string[] = [];
+    for (const q of qs) {
+      const tag = q.id;
+      if (!q.type.startsWith(`${kind}-`)) err(`${tag}: type ${q.type}은 ${kind}에 맞지 않음`);
+      if (q.choices.map((c) => c.key).join(',') !== 'A,B,C,D') err(`${tag}: 보기 key는 A,B,C,D 순서`);
+      const texts = q.choices.map((c) => c.text.trim().toLowerCase());
+      if (new Set(texts).size !== 4) err(`${tag}: 같은 보기가 있음`);
+      const ans = q.choices.find((c) => c.key === q.answer)?.text;
+      if (kind === 'part5' || kind === 'part6') {
+        const b = q.blank;
+        if (!b) {
+          err(`${tag}: Part 5·6은 blank 필요`);
+          continue;
+        }
+        if (q.prompt !== null && q.prompt !== undefined && q.prompt !== '') err(`${tag}: Part 5·6은 prompt를 null로 (앱이 빈칸 문장을 만듦)`);
+        const s = sents.get(b.sentenceId);
+        if (!s) {
+          err(`${tag}: 없는 문장 ${b.sentenceId}`);
+          continue;
+        }
+        const cnt = countOccurrences(s.en, b.answerText);
+        if (cnt !== 1) err(`${tag}: answerText '${b.answerText}'가 ${b.sentenceId}에 ${cnt}번 있음 (정확히 1번이어야 빈칸 위치가 정해짐)`);
+        if (ans === undefined || ans.trim().toLowerCase() !== b.answerText.trim().toLowerCase()) err(`${tag}: 정답 보기 '${ans}'와 answerText '${b.answerText}'가 다름`);
+        if (q.type === 'part6-sentence' && b.answerText !== s.en) err(`${tag}: 문장 넣기 문제는 answerText가 문장 전체여야 함`);
+        if (usedBlank.includes(b.sentenceId) && kind === 'part5') err(`${tag}: Part 5는 문장 하나에 문제 하나`);
+        usedBlank.push(b.sentenceId);
+      } else {
+        if (!q.prompt) err(`${tag}: Part 7은 질문(prompt) 필요`);
+        const ev = q.evidenceSentenceIds ?? [];
+        if (!ev.length) err(`${tag}: Part 7은 근거 문장(evidenceSentenceIds) 필요`);
+        for (const sid of ev) if (!sents.has(sid)) err(`${tag}: 없는 근거 문장 ${sid}`);
       }
-      sentences.set(sid, en as string);
-      texts.push(en as string);
-    });
-    if (p.en !== texts.join(' ')) err(`문단 ${String(pid)}: 문장들을 공백 하나로 이은 값이 문단 en 과 다릅니다`);
-    allEn.push(isStr(p.en, true) ? p.en : '');
-  });
-
-  const wc = countWords(allEn.join(' '));
-  if (data.wordCount !== wc) err(`wordCount(${String(data.wordCount)}) 가 실제 단어 수(${wc}) 와 다릅니다`);
-
-  const needSentence = (sid: unknown, where: string): string | null => {
-    if (!isStr(sid) || !sentences.has(sid)) {
-      err(`${where}: 없는 sentenceId '${String(sid)}'`);
-      return null;
     }
-    return sentences.get(sid)!;
-  };
-
-  let vocab = data.vocab as unknown[];
-  if (!Array.isArray(vocab) || vocab.length === 0) {
-    err('vocab 는 1개 이상이어야 합니다');
-    vocab = [];
+    if (kind === 'part5') {
+      if (d.sentences.length !== 10 || d.paragraphs.some((p) => p.sentenceIds.length !== 1)) err('Part 5는 문장 10개, 문단마다 문장 1개');
+      if ([...usedBlank].sort().join(',') !== [...sents.keys()].sort().join(',')) err('Part 5는 모든 문장에 문제가 하나씩');
+    }
+    if (kind === 'part6' && qs.filter((q) => q.type === 'part6-sentence').length !== 1) err('Part 6은 문장 넣기 문제(part6-sentence)가 정확히 1개');
+    if (kind === 'part6') {
+      const idx = new Map(d.sentences.map((s, i) => [s.id, i]));
+      const pos = qs.filter((q) => q.blank).map((q) => idx.get(q.blank!.sentenceId) ?? -1);
+      if (pos.join(',') !== [...pos].sort((a, b) => a - b).join(',')) err('Part 6 문제 순서는 지문 속 빈칸 순서와 같아야 함');
+    }
+    const answers = qs.map((q) => q.answer);
+    if (qs.length >= 5 && Math.max(...['A', 'B', 'C', 'D'].map((k) => answers.filter((a) => a === k).length)) > Math.floor(qs.length / 2)) {
+      err(`정답이 한 보기에 몰림: ${JSON.stringify(answers)}`);
+    }
   }
-  const vids = new Set<unknown>();
-  vocab.forEach((v, vi) => {
-    const where = `vocab[${vi}]`;
-    if (!isObj(v)) return err(`${where} 는 객체여야 합니다`);
-    for (const k of ['id', 'term', 'pos', 'meaningKo', 'sentenceId', 'matchText']) {
-      if (!isStr(v[k], k === 'pos')) err(`${where}.${k} 가 없습니다`);
-    }
-    if (vids.has(v.id)) err(`단어 id '${String(v.id)}' 가 중복됩니다`);
-    vids.add(v.id);
-    const en = needSentence(v.sentenceId, `${where}(${String(v.term)})`);
-    if (en !== null && isStr(v.matchText) && !en.includes(v.matchText)) {
-      err(`${where}(${String(v.term)}): matchText '${v.matchText}' 가 문장 ${String(v.sentenceId)} 에 없습니다`);
-    }
-    if (v.synonyms !== undefined && (!Array.isArray(v.synonyms) || !v.synonyms.every((x) => isStr(x)))) {
-      err(`${where}.synonyms 는 문자열 배열이어야 합니다`);
-    }
-  });
 
-  let structures = data.structures as unknown[];
-  if (!Array.isArray(structures)) {
-    err('structures 는 배열이어야 합니다');
-    structures = [];
+  const au = d.audio;
+  if (track === 'toeic' && au !== null) err('토익은 audio = null (앱 TTS 사용)');
+  if (au && au.startSec != null && au.endSec != null) {
+    if (au.endSec <= au.startSec || au.endSec > au.durationSec + 1) err('audio startSec/endSec 범위 오류');
   }
-  const seenStruct = new Set<unknown>();
-  structures.forEach((st, ti) => {
-    const where = `structures[${ti}]`;
-    if (!isObj(st)) return err(`${where} 는 객체여야 합니다`);
-    const sid = st.sentenceId;
-    if (seenStruct.has(sid)) err(`${where}: 문장 ${String(sid)} 의 구조 분석이 두 번 있습니다`);
-    seenStruct.add(sid);
-    const en = needSentence(sid, where);
-    const chunks = st.chunks;
-    if (!Array.isArray(chunks) || chunks.length < 2) return err(`${where}.chunks 는 2개 이상이어야 합니다`);
-    const texts: string[] = [];
-    chunks.forEach((c, ci) => {
-      if (!isObj(c) || !isStr(c.text)) return err(`${where}.chunks[${ci}].text 가 없습니다`);
-      if (!ROLES.has(c.role as string)) err(`${where}.chunks[${ci}].role '${String(c.role)}' 은(는) S/V/O/C/M/CONJ 중 하나여야 합니다`);
-      if ('sub' in c && typeof c.sub !== 'boolean') err(`${where}.chunks[${ci}].sub 는 true/false 여야 합니다`);
-      if (typeof c.ko !== 'string') err(`${where}.chunks[${ci}].ko 가 없습니다`);
-      texts.push(c.text);
-    });
-    if (en !== null && texts.join(' ') !== en) err(`${where}: 청크를 공백 하나로 이은 값이 문장 ${String(sid)} 과 다릅니다`);
-    if (!isStr(st.skeleton)) err(`${where}.skeleton 이 없습니다`);
-    if (typeof st.explanationKo !== 'string') err(`${where}.explanationKo 가 없습니다`);
-  });
-
-  let grammar = data.grammar as unknown[];
-  if (!Array.isArray(grammar)) {
-    err('grammar 는 배열이어야 합니다');
-    grammar = [];
-  }
-  const gids = new Set<unknown>();
-  grammar.forEach((g, gi) => {
-    const where = `grammar[${gi}]`;
-    if (!isObj(g)) return err(`${where} 는 객체여야 합니다`);
-    for (const k of ['id', 'title', 'sentenceId', 'explanationKo']) if (!isStr(g[k])) err(`${where}.${k} 가 없습니다`);
-    if (gids.has(g.id)) err(`문법 id '${String(g.id)}' 가 중복됩니다`);
-    gids.add(g.id);
-    const tags = g.tags;
-    if (!Array.isArray(tags) || tags.length === 0 || !tags.every((t) => isStr(t))) err(`${where}.tags 는 1개 이상의 문자열이어야 합니다`);
-    const en = needSentence(g.sentenceId, where);
-    const hl = g.highlight;
-    if (!Array.isArray(hl) || hl.length === 0) err(`${where}.highlight 는 1개 이상이어야 합니다`);
-    else if (en !== null) {
-      for (const h of hl) if (!isStr(h) || !en.includes(h)) err(`${where}: highlight '${String(h)}' 가 문장 ${String(g.sentenceId)} 에 없습니다`);
-    }
-  });
-
-  return errors;
+  return errs;
 }
 
-export function asLesson(data: unknown, opts?: ValidateOptions): { lesson: Lesson | null; errors: string[] } {
-  const errors = validateLesson(data, opts);
-  return { lesson: errors.length ? null : (data as Lesson), errors };
+/** 파이썬 str.count 와 같게: 겹치지 않는 횟수 */
+export function countOccurrences(s: string, sub: string): number {
+  if (!sub) return s.length + 1;
+  let n = 0;
+  let i = s.indexOf(sub);
+  while (i >= 0) {
+    n++;
+    i = s.indexOf(sub, i + sub.length);
+  }
+  return n;
+}
+
+/** 빈칸 문장 만들기: answerText(정확히 한 번)를 -------로 */
+export function blankedSentence(en: string, answerText: string): string {
+  const i = en.indexOf(answerText);
+  if (i < 0) return en;
+  return en.slice(0, i) + BLANK + en.slice(i + answerText.length);
 }

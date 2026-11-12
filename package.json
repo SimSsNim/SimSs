@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "lessons:index": "python3 scripts/validate_lessons.py public/lessons --write-index public/lessons/index.json --keep-going",
-    "predev": "npm run lessons:index",
+    "lessons:index": "python3 scripts/validate_lessons.py public/lessons/ --write-index public/lessons/index.json",
+    "predev": "npm run lessons:index || echo '레슨 검증 오류가 있어요(위 목록 참고). index.json 은 갱신되지 않았어요.'",
     "dev": "vite",
     "build": "tsc -p tsconfig.json --noEmit && vite build",
     "preview": "vite preview",

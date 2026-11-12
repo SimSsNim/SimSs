@@ -1,6 +1,8 @@
 import s from '../styles/ui.module.css';
 import { useSettings, setSetting, type Theme, type DisplayMode, type Accent } from '../lib/settings';
 import { ACCENTS, useVoices, speak } from '../lib/tts';
+import { LevelChips } from '../components/LevelChips';
+import { TRACKS, TRACK_LABEL } from '../lib/types';
 
 export function SettingsPanel() {
   const st = useSettings();
@@ -8,6 +10,17 @@ export function SettingsPanel() {
   const accentVoices = voices.byAccent[st.ttsAccent] ?? [];
   return (
     <div className={s.stack}>
+      <section className={s.card + ' ' + s.stack}>
+        <b>내 레벨</b>
+        {TRACKS.map((t) => (
+          <div key={t}><div className={s.small} style={{ marginBottom: 4 }}>{TRACK_LABEL[t]}</div><LevelChips track={t} label={`${TRACK_LABEL[t]} 레벨`} /></div>
+        ))}
+        <label className={s.label}>토익 문제 기본 모드
+          <select className={s.select} value={st.quizMode} onChange={(e) => setSetting('quizMode', e.target.value as 'practice' | 'exam')}>
+            <option value="practice">연습 모드(한 문제씩 바로 채점)</option><option value="exam">실전 모드(타이머, 끝나고 한꺼번에 채점)</option>
+          </select>
+        </label>
+      </section>
       <section className={s.card + ' ' + s.stack}>
         <b>화면</b>
         <div className={s.seg} role="group" aria-label="테마">

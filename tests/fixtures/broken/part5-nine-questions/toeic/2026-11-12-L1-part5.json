@@ -1,0 +1,674 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-12-L1-part5",
+  "date": "2026-11-12",
+  "level": 1,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 109,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "휴게실에 새로 들어온 커피 머신은 사용하기 아주 쉽다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "분기별 매출 보고서가 어제 모든 관리자에게 발송되었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "폭우 때문에 야외 행사가 취소되었다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "금요일까지 경비 보고서를 회계 부서에 제출해 주세요."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "김 씨는 신입 사원 교육을 맡고 있다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "우리 고객 서비스 팀은 전화를 빠르고 정중하게 받는다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "그 호텔은 이틀 넘게 묵는 모든 투숙객에게 무료 조식을 제공한다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "리베라 씨는 2019년부터 그 회사에서 일해 왔다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "방문객은 건물에 들어가기 전에 안내 데스크에서 방문 기록을 해야 한다."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "마케팅 팀은 새 광고 계획을 논의하기 위해 회의를 열 것이다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The new coffee machine in the break room is very easy to use.",
+      "ko": "휴게실에 새로 들어온 커피 머신은 사용하기 아주 쉽다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The quarterly sales report was sent to all managers yesterday.",
+      "ko": "분기별 매출 보고서가 어제 모든 관리자에게 발송되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "The outdoor event was canceled because of the heavy rain.",
+      "ko": "폭우 때문에 야외 행사가 취소되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Please submit your expense report to the accounting department by Friday.",
+      "ko": "금요일까지 경비 보고서를 회계 부서에 제출해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Mr. Kim is responsible for training new employees.",
+      "ko": "김 씨는 신입 사원 교육을 맡고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "Our customer service team answers calls quickly and politely.",
+      "ko": "우리 고객 서비스 팀은 전화를 빠르고 정중하게 받는다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "The hotel offers free breakfast to all guests who stay more than two nights.",
+      "ko": "그 호텔은 이틀 넘게 묵는 모든 투숙객에게 무료 조식을 제공한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "Ms. Rivera has worked at the company since 2019.",
+      "ko": "리베라 씨는 2019년부터 그 회사에서 일해 왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "Visitors must sign in at the front desk before entering the building.",
+      "ko": "방문객은 건물에 들어가기 전에 안내 데스크에서 방문 기록을 해야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "The marketing team will hold a meeting to discuss the new advertising plan.",
+      "ko": "마케팅 팀은 새 광고 계획을 논의하기 위해 회의를 열 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "break room",
+      "pos": "noun",
+      "meaningKo": "(회사) 휴게실",
+      "ipa": null,
+      "synonyms": [
+        "lounge",
+        "staff room"
+      ],
+      "matchText": "break room",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Let's have lunch in the break room.",
+        "ko": "휴게실에서 점심 먹자."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "quarterly",
+      "pos": "adjective",
+      "meaningKo": "분기별의(3개월마다)",
+      "ipa": "/ˈkwɔːrtərli/",
+      "synonyms": [
+        "every three months"
+      ],
+      "matchText": "quarterly",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We have a quarterly meeting.",
+        "ko": "우리는 분기별 회의가 있다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "expense report",
+      "pos": "noun",
+      "meaningKo": "경비 보고서",
+      "ipa": null,
+      "synonyms": [
+        "expense claim"
+      ],
+      "matchText": "expense report",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I forgot to send my expense report.",
+        "ko": "경비 보고서 보내는 걸 잊었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "be responsible for",
+      "pos": "phrase",
+      "meaningKo": "~을 책임지다, 담당하다",
+      "ipa": null,
+      "synonyms": [
+        "be in charge of"
+      ],
+      "matchText": "is responsible for",
+      "sentenceId": "s5",
+      "example": {
+        "en": "She is responsible for the budget.",
+        "ko": "그녀가 예산을 담당한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "politely",
+      "pos": "adverb",
+      "meaningKo": "정중하게",
+      "ipa": "/pəˈlaɪtli/",
+      "synonyms": [
+        "courteously"
+      ],
+      "matchText": "politely",
+      "sentenceId": "s6",
+      "example": {
+        "en": "He answered politely.",
+        "ko": "그는 정중하게 대답했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "The hotel",
+          "role": "S",
+          "ko": "그 호텔은"
+        },
+        {
+          "text": "offers",
+          "role": "V",
+          "ko": "제공한다"
+        },
+        {
+          "text": "free breakfast",
+          "role": "O",
+          "ko": "무료 조식을"
+        },
+        {
+          "text": "to all guests",
+          "role": "M",
+          "ko": "모든 투숙객에게"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그 투숙객은)"
+        },
+        {
+          "text": "stay",
+          "role": "V",
+          "sub": true,
+          "ko": "묵는다"
+        },
+        {
+          "text": "more than two nights.",
+          "role": "M",
+          "sub": true,
+          "ko": "이틀 넘게"
+        }
+      ],
+      "skeleton": "The hotel offers free breakfast",
+      "explanation": "who stay more than two nights가 앞의 guests를 꾸미는 관계대명사절이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Visitors",
+          "role": "S",
+          "ko": "방문객은"
+        },
+        {
+          "text": "must sign in",
+          "role": "V",
+          "ko": "방문 기록을 해야 한다"
+        },
+        {
+          "text": "at the front desk",
+          "role": "M",
+          "ko": "안내 데스크에서"
+        },
+        {
+          "text": "before entering the building.",
+          "role": "M",
+          "ko": "건물에 들어가기 전에"
+        }
+      ],
+      "skeleton": "Visitors must sign in",
+      "explanation": "must + 동사원형으로 의무를 나타낸다. before 뒤에 동명사 entering이 와서 '들어가기 전에'."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "품사 자리: be동사 뒤 형용사, 동사 뒤 부사",
+      "tags": [
+        "품사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "is responsible"
+      ],
+      "explanation": "Part 5에서 가장 많이 나오는 유형. be동사 뒤 보어 자리는 형용사, 동사를 꾸미는 자리는 부사(-ly)다.",
+      "example": {
+        "en": "The test was difficult.",
+        "ko": "시험이 어려웠다."
+      },
+      "note": "보기 4개가 같은 어근(respons-)이면 품사 문제다. 빈칸 앞뒤만 보고 빨리 푼다."
+    },
+    {
+      "id": "g2",
+      "title": "현재완료 + since / for",
+      "tags": [
+        "시제",
+        "전치사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "has worked",
+        "since 2019"
+      ],
+      "explanation": "과거부터 지금까지 계속된 일은 have/has + p.p.. since 뒤에는 시작 시점, for 뒤에는 기간.",
+      "example": {
+        "en": "I have lived here for three years.",
+        "ko": "나는 여기 3년째 살고 있다."
+      },
+      "note": "since가 보이면 현재완료, 현재완료가 보이면 since/for를 찾는다."
+    },
+    {
+      "id": "g3",
+      "title": "주격 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "guests who stay"
+      ],
+      "explanation": "사람 선행사 + who + 동사. 뒤에 주어가 빠져 있으면 주격 관계대명사 자리다.",
+      "example": {
+        "en": "I know a man who speaks French.",
+        "ko": "나는 프랑스어를 하는 남자를 안다."
+      },
+      "note": "사물이면 which, 소유면 whose."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "easy"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "ease"
+        },
+        {
+          "key": "B",
+          "text": "easy"
+        },
+        {
+          "key": "C",
+          "text": "easily"
+        },
+        {
+          "key": "D",
+          "text": "easiness"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "be동사 + very 뒤에는 형용사 자리. easy to use = 사용하기 쉬운.",
+      "skill": "형용사 자리"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "was sent"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "sends"
+        },
+        {
+          "key": "B",
+          "text": "will send"
+        },
+        {
+          "key": "C",
+          "text": "was sent"
+        },
+        {
+          "key": "D",
+          "text": "is sending"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "yesterday가 있으니 과거, 보고서는 '보내지는' 것이니 수동태 → was sent.",
+      "skill": "시제 + 수동태"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "because of"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "because"
+        },
+        {
+          "key": "B",
+          "text": "because of"
+        },
+        {
+          "key": "C",
+          "text": "although"
+        },
+        {
+          "key": "D",
+          "text": "so"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "뒤에 명사구(the heavy rain)만 있으니 전치사 because of. because는 뒤에 '주어+동사'가 온다.",
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "submit"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "submit"
+        },
+        {
+          "key": "B",
+          "text": "submits"
+        },
+        {
+          "key": "C",
+          "text": "submitted"
+        },
+        {
+          "key": "D",
+          "text": "submitting"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "Please 뒤 명령문은 동사원형.",
+      "skill": "명령문 동사원형"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "responsible"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "responsibly"
+        },
+        {
+          "key": "B",
+          "text": "responsibility"
+        },
+        {
+          "key": "C",
+          "text": "responsible"
+        },
+        {
+          "key": "D",
+          "text": "responsibilities"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "be responsible for = ~을 책임지다. be동사 뒤 보어 자리에 형용사.",
+      "skill": "형용사 자리"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "quickly"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "quick"
+        },
+        {
+          "key": "B",
+          "text": "quickly"
+        },
+        {
+          "key": "C",
+          "text": "quicker"
+        },
+        {
+          "key": "D",
+          "text": "quickness"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "동사 answers를 꾸미는 자리라 부사. 뒤의 politely와 and로 나란히 이어진다.",
+      "skill": "부사 자리"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "who"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "who"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "선행사 guests가 사람이고 뒤에 주어 없이 동사 stay가 오므로 주격 관계대명사 who.",
+      "skill": "관계대명사"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "since"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "since"
+        },
+        {
+          "key": "C",
+          "text": "during"
+        },
+        {
+          "key": "D",
+          "text": "ago"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "현재완료 + since + 시작 시점(2019). for 뒤에는 기간(five years)이 온다.",
+      "skill": "since vs for"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "before"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "before"
+        },
+        {
+          "key": "B",
+          "text": "until"
+        },
+        {
+          "key": "C",
+          "text": "between"
+        },
+        {
+          "key": "D",
+          "text": "among"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'건물에 들어가기 전에' — before + -ing. until은 계속되는 동작에 쓴다.",
+      "skill": "전치사 의미"
+    }
+  ]
+}
