@@ -313,8 +313,29 @@ test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 �
   const gl = (G as { glossary: Record<string, { lemma: string; ko: string }> }).glossary;
   await page.locator('span', { hasText: /^sitting$/ }).first().click();
   const dlg = page.getByRole('dialog');
+  // 누르자마자 한 번 읽고, 듣기·천천히·기본형 버튼으로 다시 듣기
+  const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
+  await expect.poll(spoken).toEqual(['sitting']);
+  await dlg.getByRole('button', { name: 'sitting 천천히 듣기' }).click();
+  await dlg.getByRole('button', { name: `기본형 ${gl['sitting'].lemma} 발음 듣기` }).click();
+  await expect.poll(spoken).toEqual(['sitting', 'sitting', gl['sitting'].lemma]);
   await expect(dlg).toContainText(gl['sitting'].ko);
   await expect(dlg).toContainText(`기본형 ${gl['sitting'].lemma}`);
   await dlg.getByRole('button', { name: '＋ 내 단어로 추가' }).click();
   await expect(page.getByText(`'${gl['sitting'].lemma}' 를 내 단어에 추가했어요`)).toBeVisible();
+});
+
+test('설정에서 끄면 단어를 눌러도 자동으로 읽지 않는다(버튼으로는 들림)', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.goto('./#/records/settings');
+  const box = page.getByTestId('word-auto-speak');
+  await box.scrollIntoViewIfNeeded();
+  await box.uncheck();
+  await page.goto('./#/general/lesson/2026-11-12-L1/full');
+  await page.locator('span', { hasText: /^sitting$/ }).first().click();
+  const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
+  await page.waitForTimeout(300);
+  expect(await spoken()).toEqual([]);
+  await page.getByRole('dialog').getByRole('button', { name: 'sitting 발음 듣기' }).click();
+  await expect.poll(spoken).toEqual(['sitting']);
 });

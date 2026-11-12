@@ -55,6 +55,8 @@ export interface Settings {
   newsEnabled: boolean;
   /** 화면 꺼짐 방지 */
   keepAwake: 'off' | 'lesson' | 'always';
+  /** 단어를 누르면 바로 발음 읽기(듣기 재생 중에는 안 읽음) */
+  wordAutoSpeak: boolean;
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -65,6 +67,7 @@ export const DEFAULT_SETTINGS: Settings = {
   enabledLevels: { general: [1, 2, 3, 4], toeic: [1, 2, 3, 4] },
   newsEnabled: true,
   keepAwake: 'lesson',
+  wordAutoSpeak: true,
   track: 'general',
   levelByTrack: { general: null, toeic: null },
   toeicChapter: 'part5',

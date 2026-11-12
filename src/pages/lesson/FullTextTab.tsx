@@ -4,7 +4,7 @@ import s from '../../styles/ui.module.css';
 import r from '../../styles/reading.module.css';
 import type { TabProps } from './LessonPage';
 import { useSettings, setSetting, type DisplayMode } from '../../lib/settings';
-import { SentenceText, WordPopup, SentenceMenu, useLongPress } from '../../components/SentenceView';
+import { SentenceText, WordPopup, SentenceMenu, useLongPress, autoSpeakWord } from '../../components/SentenceView';
 import { grammarOf, structureOf, vocabOf } from '../../lib/lessonUtils';
 import type { GlossEntry, Sentence, Vocab } from '../../lib/types';
 import { wordKey } from '../../lib/text';
@@ -101,7 +101,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
                         bookmarked={!!mark?.bookmark} hard={!!mark?.hard} onLong={() => setMenu(sen)}>
                         <SentenceText sentence={sen} vocab={st.hlVocab ? vocabOf(lesson, sen.id) : []}
                           grammar={st.hlGrammar ? grammarOf(lesson, sen.id) : []} structure={structureOf(lesson, sen.id)} slashes={st.showSlashes}
-                          onWord={(w, v) => setPopup({ word: w, vocab: v ?? findVocab(lesson.vocab, sen.id, w), gloss: lesson.glossary[wordKey(w)], sentence: sen.en })} />
+                          onWord={(w, v) => { const vv = v ?? findVocab(lesson.vocab, sen.id, w); autoSpeakWord(vv?.term ?? w); setPopup({ word: w, vocab: vv, gloss: lesson.glossary[wordKey(w)], sentence: sen.en }); }} />
                       </SentenceSpan>
                     ) : (
                       <>{i > 0 ? ' ' : null}{renderKo(sen.id, sen.ko, '')}</>

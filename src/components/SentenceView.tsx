@@ -5,12 +5,12 @@ import r from '../styles/reading.module.css';
 import { segmentSentence } from '../lib/lessonUtils';
 import type { GlossEntry, GrammarPoint, Lesson, Sentence, Structure, Vocab } from '../lib/types';
 import { POS_KO } from '../lib/lessonAdapter';
-import { speak, useVoices } from '../lib/tts';
+import { getVoiceState, speak, useVoices } from '../lib/tts';
 import { getSettings } from '../lib/settings';
 import { addMyWord } from '../lib/words';
 import { toggleSentenceMark, setMemo } from '../lib/marks';
 import type { SentenceMarkRow } from '../lib/db';
-import { playSentence } from '../store/player';
+import { getPlayer, playSentence } from '../store/player';
 import { toast } from './Toast';
 
 export function SentenceText(props: {
@@ -65,12 +65,27 @@ export function SpeakBtn({ text, label = '발음 듣기', rate }: { text: string
   );
 }
 
+/** 단어 발음 읽기(설정의 억양·음성·속도). slow = 느리게 */
+export function speakWord(text: string, slow = false) {
+  const st = getSettings();
+  void speak(text, { rate: slow ? Math.min(st.ttsRate, 1) * 0.6 : st.ttsRate, accent: st.ttsAccent, voiceURI: st.ttsVoiceURI });
+}
+
+/** 단어를 눌렀을 때 바로 한 번 읽기(설정에서 끌 수 있음). 듣기 재생 중이면 끊지 않으려고 읽지 않는다.
+ *  iOS 는 탭 이벤트 안에서 시작한 음성만 허용하므로 클릭 핸들러에서 바로 부른다. */
+export function autoSpeakWord(text: string) {
+  if (getVoiceState().supported && getSettings().wordAutoSpeak && !getPlayer().playing) speakWord(text);
+}
+
 /** 네이버 영어사전 검색 주소(인터넷 연결 시 더 자세한 뜻·예문) */
 export const dictUrl = (term: string) => `https://en.dict.naver.com/#/search?query=${encodeURIComponent(term)}`;
 
 export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: { word: string; vocab?: Vocab; gloss?: GlossEntry; sentence?: string; lessonKey: string; onClose: () => void }) {
   const [meaning, setMeaning] = useState(gloss?.ko ?? '');
   const [adding, setAdding] = useState(false);
+  const voices = useVoices();
+  const sayText = vocab?.term ?? word;
+  const say = (text: string, slow = false) => speakWord(text, slow);
   return (
     <Sheet onClose={onClose} label={`단어 ${word}`}>
       <div className={s.between}>
@@ -79,18 +94,26 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
           {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && `[${vocab.ipa}]`}</span>}
           {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
         </div>
-        <div className={s.row}>
-          <SpeakBtn text={vocab?.term ?? word} />
-          <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
-        </div>
+        <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
       </div>
+      {voices.supported ? (
+        <div className={s.row} style={{ marginTop: 4 }} data-testid="word-speak">
+          <button type="button" className={s.btn} onClick={() => say(sayText)} aria-label={`${sayText} 발음 듣기`}>🔊 듣기</button>
+          <button type="button" className={s.btn} onClick={() => say(sayText, true)} aria-label={`${sayText} 천천히 듣기`}>🐢 천천히</button>
+          {!vocab && gloss && gloss.lemma.toLowerCase() !== word.toLowerCase() && !gloss.lemma.includes(' ') && (
+            <button type="button" className={s.btn} onClick={() => say(gloss.lemma)} aria-label={`기본형 ${gloss.lemma} 발음 듣기`}>🔊 {gloss.lemma}</button>
+          )}
+        </div>
+      ) : (
+        <div className={s.small + ' ' + s.muted} style={{ marginTop: 4 }}>이 기기에서 영어 음성을 찾지 못해 발음을 들을 수 없어요.</div>
+      )}
       {vocab ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
           <div style={{ fontWeight: 700 }}>{vocab.meaningKo}</div>
           {vocab.synonyms?.length ? <div className={s.small}>바꿔 쓰기: {vocab.synonyms.join(', ')}</div> : null}
           {vocab.example && (
             <div className={s.small}>
-              <div style={{ fontFamily: 'var(--serif)' }}>{vocab.example.en}</div>
+              <div style={{ fontFamily: 'var(--serif)' }}>{vocab.example.en} <SpeakBtn text={vocab.example.en} label="예문 듣기" /></div>
               <div className={s.muted}>{vocab.example.ko}</div>
             </div>
           )}

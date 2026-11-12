@@ -74,6 +74,7 @@ export function SettingsPanel() {
               <input className={s.range} type="range" min={0.5} max={1.5} step={0.05} value={st.ttsRate} onChange={(e) => setSetting('ttsRate', Number(e.target.value))} />
             </label>
             <label className={s.check}><input type="checkbox" checked={st.ttsRotateAccent} onChange={(e) => setSetting('ttsRotateAccent', e.target.checked)} />문장마다 억양 바꾸기</label>
+            <label className={s.check}><input type="checkbox" checked={st.wordAutoSpeak} onChange={(e) => setSetting('wordAutoSpeak', e.target.checked)} data-testid="word-auto-speak" />단어를 누르면 바로 발음 듣기</label>
             <button type="button" className={s.btn} onClick={() => void speak('Thank you for your interest in the workshop.', { rate: st.ttsRate, accent: st.ttsAccent, voiceURI: st.ttsVoiceURI })}>🔊 들어 보기</button>
           </>
         )}
