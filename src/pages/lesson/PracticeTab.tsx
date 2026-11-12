@@ -3,10 +3,12 @@ import { useSearchParams } from 'react-router-dom';
 import s from '../../styles/ui.module.css';
 import type { TabProps } from './LessonPage';
 import { PaperMode, TypingMode } from './practice/Transcribe';
+import { HandwriteMode } from './practice/Handwrite';
 import { DictationMode, BlankMode, ArrangeMode, TranslateMode, ShadowMode } from './practice/Exercises';
 
 const MODES = [
   { id: 'paper', label: '종이 필사' },
+  { id: 'handwrite', label: '✏️ 손글씨 필사' },
   { id: 'typing', label: '타이핑 필사' },
   { id: 'dictation', label: '받아쓰기' },
   { id: 'blank', label: '빈칸 채우기' },
@@ -29,6 +31,7 @@ export function PracticeTab(props: TabProps) {
         ))}
       </div>
       {mode === 'paper' && <PaperMode {...props} />}
+      {mode === 'handwrite' && <HandwriteMode {...props} />}
       {mode === 'typing' && <TypingMode {...props} sentenceId={params.get('s') ?? undefined} />}
       {mode === 'dictation' && <DictationMode {...props} />}
       {mode === 'blank' && <BlankMode {...props} />}

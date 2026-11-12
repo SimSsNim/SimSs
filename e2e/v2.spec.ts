@@ -384,7 +384,7 @@ test('v18. 기록 첫 화면: 공부 기록 초기화(항목 선택, 전체 선�
   await page.goto('./#/records');
   await page.getByTestId('study-reset').locator('summary').click();
   await page.getByTestId('reset-all').click();
-  await expect(page.getByTestId('reset-run')).toHaveText('선택한 10개 초기화');
+  await expect(page.getByTestId('reset-run')).toHaveText('선택한 11개 초기화');
   await page.getByTestId('reset-none').click();
   await expect(page.getByTestId('reset-run')).toBeDisabled();
   await page.getByTestId('reset-wrong').check();
@@ -648,4 +648,71 @@ test('v30. 단어 탭: 발음기호는 단어 아래 한 줄(긴 구도 줄바�
     const b = (await ipa.boundingBox())!;
     expect(b.height, await ipa.textContent() ?? '').toBeLessThan(26);
   }
+});
+
+async function drawLine(page: Page, testid: string, fx1: number, fy1: number, fx2: number, fy2: number) {
+  const b = (await page.getByTestId(testid).boundingBox())!;
+  await page.mouse.move(b.x + b.width * fx1, b.y + Math.min(b.height, 600) * fy1);
+  await page.mouse.down();
+  for (let k = 1; k <= 8; k++) {
+    await page.mouse.move(b.x + b.width * (fx1 + ((fx2 - fx1) * k) / 8), b.y + Math.min(b.height, 600) * (fy1 + ((fy2 - fy1) * k) / 8));
+  }
+  await page.mouse.up();
+}
+
+test('v31. 화면 위 손글씨 메모: 그리기·되돌리기·지우개·저장 후 다시 보임', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.getByTestId('ink-toggle').click();
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible();
+  await drawLine(page, 'ink-box', 0.1, 0.1, 0.6, 0.15);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
+  await page.getByTestId('ink-undo').click();
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(0);
+  await drawLine(page, 'ink-box', 0.1, 0.2, 0.7, 0.2);
+  await page.getByTestId('ink-hl').click();
+  await drawLine(page, 'ink-box', 0.1, 0.4, 0.5, 0.4);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(2);
+  await page.getByTestId('ink-eraser').click();
+  await drawLine(page, 'ink-box', 0.3, 0.35, 0.3, 0.45);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
+  await page.getByTestId('ink-done').click();
+  await expect(page.getByTestId('ink-toggle')).toContainText('메모 1');
+  await page.reload();
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
+  // 메모 끈 동안 단어 누르기는 그대로
+  await page.locator('span', { hasText: /^sitting$/ }).first().click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+});
+
+test('v32. 본문 + 메모를 PDF로 저장', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.getByTestId('ink-toggle').click();
+  await drawLine(page, 'ink-box', 0.1, 0.1, 0.6, 0.15);
+  const dl = page.waitForEvent('download', { timeout: 30000 });
+  await page.getByTestId('ink-pdf').click();
+  const d = await dl;
+  expect(d.suggestedFilename()).toMatch(/\.pdf$/);
+  const buf = await readFileSync(await d.path());
+  expect(buf.subarray(0, 4).toString()).toBe('%PDF');
+  expect(buf.length).toBeGreaterThan(20000);
+});
+
+test('v33. 손글씨 필사: 문장마다 쓰고 모아 보기·PDF', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/practice');
+  await page.getByTestId('practice-handwrite').click();
+  await expect(page.getByTestId('hw-sentence')).toBeVisible();
+  await drawLine(page, 'hw-pad', 0.1, 0.3, 0.8, 0.35);
+  await expect(page.getByTestId('hw-pad').getByTestId('ink-stroke')).toHaveCount(1);
+  await expect(page.getByTestId('hw-s-1')).toContainText('✓');
+  await page.getByTestId('hw-next').click();
+  await expect(page.getByTestId('hw-pad').getByTestId('ink-stroke')).toHaveCount(0);
+  await drawLine(page, 'hw-pad', 0.2, 0.5, 0.7, 0.5);
+  await page.getByTestId('hw-all').click();
+  await expect(page.getByTestId('hw-all')).toContainText('2/');
+  await expect(page.getByTestId('hw-page').first().locator('canvas')).toBeVisible();
+  const dl = page.waitForEvent('download', { timeout: 30000 });
+  await page.getByTestId('hw-pdf').click();
+  const d = await dl;
+  const buf = readFileSync(await d.path());
+  expect(buf.subarray(0, 4).toString()).toBe('%PDF');
 });

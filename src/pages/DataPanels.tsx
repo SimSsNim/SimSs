@@ -94,6 +94,7 @@ const STUDY_ITEMS = [
   { id: 'practice', label: '연습 기록', hint: '타이핑·받아쓰기 등 점수', tables: ['practiceLog'] },
   { id: 'daily', label: '학습 시간·캘린더', hint: '하루 학습 시간, 연속 학습일', tables: ['dailyLog'] },
   { id: 'recordings', label: '녹음', hint: '섀도잉 녹음 파일', tables: ['recordings'] },
+  { id: 'ink', label: '손글씨', hint: '화면 위 메모, 손글씨 필사', tables: ['inkNotes'] },
 ] as const;
 
 export function StudyResetPanel() {

@@ -22,6 +22,7 @@ import { PracticeTab } from './PracticeTab';
 import { useState } from 'react';
 import { backTarget } from '../../lib/backTarget';
 import { LessonSteps } from '../../components/LessonSteps';
+import { ScreenInk } from '../../components/ScreenInk';
 
 export interface TabProps {
   lesson: Lesson;
@@ -142,7 +143,9 @@ export function LessonPage() {
         </nav>
         {track === 'general' && <LessonSteps lessonKey={key} track={track} id={id!} tab={tab} />}
       </div>
-      <main className={s.page}><div role="tabpanel" key={key} aria-label={TABS.find((t) => t.id === tab)?.label}>{body}</div></main>
+      <main className={s.page}><div role="tabpanel" key={key} aria-label={TABS.find((t) => t.id === tab)?.label}>
+        {lesson ? <ScreenInk key={`${key}:${tab}`} lesson={lesson} lessonKey={key} tab={tab!} tabLabel={TABS.find((t) => t.id === tab)?.label ?? ''}>{body}</ScreenInk> : body}
+      </div></main>
     </>
   );
 }

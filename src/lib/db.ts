@@ -4,7 +4,7 @@ import type { WordStatus } from './leitner';
 import { migrateRow } from './migrate';
 
 /** IndexedDB 버전 = 백업 파일 버전 */
-export const DB_VERSION = 2;
+export const DB_VERSION = 3;
 
 export interface SettingRow { key: string; value: unknown }
 export interface LessonCacheRow { key: string; track: Track; id: string; lesson: RawLesson; source: 'repo' | 'import'; savedAt: number }
@@ -38,6 +38,14 @@ export interface QuestionStateRow {
   /** 즐겨찾기 */ starred?: boolean; starredAt?: number;
 }
 export interface DismissedTipRow { key: string; date: string }
+/** 손글씨: 화면 위 메모(kind 'screen', key = lessonKey:tab) / 손글씨 필사(kind 'hw', key = lessonKey:hw:sentenceId).
+ *  strokes 의 좌표는 그린 칸 너비를 1 로 둔 비율(화면 크기가 바뀌어도 비율대로) */
+export interface InkStroke { t: 'pen' | 'hl'; c: string; w: number; p: number[] }
+export interface InkNoteRow {
+  key: string; lessonKey: string; kind: 'screen' | 'hw'; ref: string; strokes: InkStroke[];
+  /** 메모할 때의 보기 설정(글자 크기 등) — 다르면 위치가 어긋날 수 있음 */ view?: Record<string, unknown>;
+  updatedAt: number; date: string;
+}
 export interface RecordingRow { id?: number; lessonKey: string; sentenceId: string; blob: Blob; mime: string; at: number }
 
 export class PilsaDB extends Dexie {
@@ -55,6 +63,7 @@ export class PilsaDB extends Dexie {
   quizAttempt!: Table<QuizAttemptRow, number>;
   questionState!: Table<QuestionStateRow, string>;
   dismissedTips!: Table<DismissedTipRow, string>;
+  inkNotes!: Table<InkNoteRow, string>;
 
   constructor(name = 'pilsa') {
     super(name);
@@ -93,6 +102,8 @@ export class PilsaDB extends Dexie {
           });
         }
       });
+    // v3: 손글씨 메모·손글씨 필사
+    this.version(3).stores({ inkNotes: 'key, lessonKey, kind, updatedAt' });
   }
 }
 
@@ -101,7 +112,7 @@ export const db = new PilsaDB();
 /** 백업 대상 테이블(녹음·레슨 캐시 중 저장소 것은 제외) */
 export const BACKUP_TABLES = [
   'settings', 'wordState', 'myWords', 'lessonProgress', 'sentenceMarks', 'grammarState', 'audioMarks', 'practiceLog', 'dailyLog',
-  'quizAttempt', 'questionState', 'dismissedTips',
+  'quizAttempt', 'questionState', 'dismissedTips', 'inkNotes',
 ] as const;
 export type BackupTable = (typeof BACKUP_TABLES)[number];
 
