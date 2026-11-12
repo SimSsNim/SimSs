@@ -317,3 +317,14 @@ test('v15. 날짜 고르기: 홈·지문·문법에서 날짜를 바꾸면 그 �
   await page.getByTestId('date-prev').click();
   await expect(page.getByTestId('grammar-card').first()).toBeVisible();
 });
+
+test('v16. 하단 탭: 지금 보는 탭이 표시됨(레슨 화면은 지문)', async ({ page }) => {
+  await start(page, './#/toeic');
+  await expect(page.getByTestId('nav-active')).toHaveText('홈');
+  await page.getByRole('navigation', { name: '주 메뉴' }).getByRole('link', { name: '단어' }).click();
+  await expect(page.getByTestId('nav-active')).toHaveText('단어');
+  await page.goto(URL5);
+  await expect(page.getByTestId('nav-active')).toHaveText('지문');
+  await page.goto('./#/records/settings');
+  await expect(page.getByTestId('nav-active')).toHaveText('기록/설정');
+});
