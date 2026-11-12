@@ -8,7 +8,8 @@ import { mergeWords, type WordItem } from '../lib/words';
 import { FilterChips, WordRow, matchFilter, type WordFilter } from '../components/WordList';
 import { Flashcards } from '../components/Flashcards';
 import { useSettings } from '../lib/settings';
-import { TRACK_LABEL, type Track } from '../lib/types';
+import { TRACK_LABEL, TRACKS, type Level, type Track } from '../lib/types';
+import { enabledLevelsOf, myLevel } from '../components/LevelChips';
 import { isDue } from '../lib/leitner';
 import { kstDate } from '../lib/date';
 import { autoCheck } from '../lib/progress';
@@ -27,9 +28,10 @@ export function TrackFilterSeg({ value, onChange }: { value: TrackFilter; onChan
 
 export type LevelFilter = 'all' | number;
 export function LevelFilterChips({ value, onChange, counts }: { value: LevelFilter; onChange: (v: LevelFilter) => void; counts?: Record<string, number> }) {
+  const st = useSettings();
   return (
     <div className={s.chips} role="group" aria-label="레벨 필터" style={{ paddingBottom: 2 }}>
-      {(['all', 1, 2, 3, 4] as const).map((l) => (
+      {(['all', ...[1, 2, 3, 4].filter((l) => TRACKS.some((t) => enabledLevelsOf(st, t).includes(l as Level)))] as const).map((l) => (
         <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)} style={{ minHeight: 36 }}>{l === 'all' ? '전체' : `L${l}`}{counts ? ` ${counts[l] ?? 0}` : ''}</button>
       ))}
     </div>
@@ -87,7 +89,7 @@ export function WordbookPanel({ trackF, level, day = '' }: { trackF: TrackFilter
           due.length ? (
             <Flashcards items={due} deckKey="review" title="오늘 복습할 단어" onFinish={(n) => {
               if (n === 0) return;
-              const t = pickToday(summaries, settings.track, settings.levelByTrack[settings.track] ?? 1).lessons[0];
+              const t = pickToday(summaries, settings.track, myLevel(settings.track)).lessons[0];
               if (t) void autoCheck(t.key, 'review');
             }} />
           ) : <p className={s.empty}>오늘 복습할 단어가 없어요 🎉</p>

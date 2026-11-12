@@ -7,6 +7,7 @@ import type { RawLesson } from './types';
 const TOL = 15;
 const WORDS: Record<string, Record<number, [number, number]>> = {
   general: { 1: [100, 150], 2: [150, 200], 3: [200, 250], 4: [250, 300] },
+  news: { 1: [100, 200], 2: [150, 250], 3: [200, 300], 4: [250, 350] },
   part7: { 1: [100, 150], 2: [150, 200], 3: [200, 250], 4: [250, 300] },
   part6: { 1: [80, 130], 2: [100, 150], 3: [120, 170], 4: [140, 190] },
   part5: { 1: [80, 150], 2: [100, 180], 3: [120, 220], 4: [150, 260] },
@@ -31,10 +32,21 @@ export function validateLesson(data: unknown, opts: ValidateOptions = {}): strin
   const err = (m: string) => errs.push(m);
   const track = d.track;
   const lv = d.level;
-  const kind = track === 'toeic' ? (d.chapter as string) : 'general';
+  const kind = track === 'toeic' ? (d.chapter as string) : d.genre === 'news' ? 'news' : 'general';
 
-  const expId = `${d.date}-L${lv}` + (track === 'toeic' ? `-${d.chapter}` : '');
-  if (d.id !== expId) err(`id는 ${expId} 이어야 함 (현재 ${d.id})`);
+  const base = `${d.date}-L${lv}`;
+  let expId: string;
+  let idOk: boolean;
+  if (track === 'toeic') {
+    expId = `${base}-${d.chapter}`;
+    idOk = d.id === expId;
+  } else {
+    // 이야기: base, base-2 … base-9 / 뉴스(genre=news): base-news, base-news2 …
+    expId = base + (kind === 'news' ? '-news(2~9)' : '(-2~9)');
+    const sfx = d.id.startsWith(base) ? d.id.slice(base.length) : null;
+    idOk = sfx !== null && (kind === 'news' ? /^-news[2-9]?$/ : /^(-[2-9])?$/).test(sfx);
+  }
+  if (!idOk) err(`id는 ${expId} 이어야 함 (현재 ${d.id})`);
   if (opts.fileStem !== undefined && opts.fileStem !== d.id) err(`파일명(${opts.fileStem})과 id가 다름`);
   if (opts.folderTrack !== undefined && opts.folderTrack !== track) err(`폴더(${opts.folderTrack})와 track(${track})이 다름`);
 

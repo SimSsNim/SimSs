@@ -1,6 +1,7 @@
 // v2: 레벨 선택, 토익 Part 5·6·7 문제 풀이, 오답노트
 import { test, expect, type Page } from '@playwright/test';
 import { setupMocks } from './mocks';
+import { readFileSync } from 'node:fs';
 
 const P5_ANSWERS = ['B', 'C', 'B', 'A', 'C', 'B', 'D', 'B', 'A', 'C'];
 const P6_ANSWERS = ['B', 'B', 'A', 'D', 'C'];
@@ -327,4 +328,42 @@ test('v16. 하단 탭: 지금 보는 탭이 표시됨(레슨 화면은 홈)', as
   await expect(page.getByTestId('nav-active')).toHaveText('홈');
   await page.goto('./#/records/settings');
   await expect(page.getByTestId('nav-active')).toHaveText('기록/설정');
+});
+
+test('v17. 이야기: 하루 여러 편 고르기, 뉴스 칩, 레벨 켜고 끄기, 우선순위', async ({ page }) => {
+  const G = JSON.parse(readFileSync('public/lessons/general/2026-11-12-L1.json', 'utf-8'));
+  await start(page, './#/records/import');
+  for (const d of [{ ...G, id: '2026-11-12-L1-2', title: 'Second Story' }, { ...G, id: '2026-11-12-L1-news', genre: 'news', title: 'Sample News' }]) {
+    await page.getByTestId('import-text').fill(JSON.stringify(d));
+    await page.getByTestId('import-run').click();
+    await expect(page.getByTestId('import-result')).toContainText('통과');
+  }
+  await page.goto('./#/general');
+  await expect(page.getByTestId('track-general')).toHaveText(/이야기/);
+  await expect(page.getByTestId('story-1')).toBeVisible();
+  await expect(page.getByTestId('today-card')).toContainText('The Fox and the Crow');
+  await page.getByTestId('story-2').click();
+  await expect(page.getByTestId('today-card')).toContainText('Second Story');
+  await page.getByTestId('level-news').click();
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('이야기 뉴스');
+  await expect(page.getByTestId('today-card')).toContainText('Sample News');
+  await expect(page.getByTestId('story-1')).toHaveCount(0);
+
+  // 레벨 켜고 끄기: 끈 것은 안 보임
+  await page.goto('./#/records/settings');
+  await page.getByTestId('toggle-general-2').click();
+  await page.getByTestId('toggle-news').click();
+  await page.goto('./#/general');
+  await expect(page.getByTestId('level-2')).toHaveCount(0);
+  await expect(page.getByTestId('level-news')).toHaveCount(0);
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('이야기 L1');
+
+  // 우선순위: 토익 먼저 → 주소 없이 열면 토익, 트랙 버튼도 토익이 앞
+  await page.goto('./#/records/settings');
+  await page.getByTestId('start-track').selectOption('toeic');
+  await page.getByTestId('start-level-toeic').selectOption('1');
+  await page.goto('./');
+  await page.reload();
+  await expect(page).toHaveURL(/#\/toeic$/);
+  await expect(page.getByRole('group', { name: '학습 트랙' }).getByRole('button').first()).toHaveText(/토익/);
 });

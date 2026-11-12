@@ -244,7 +244,7 @@ function GeneralLevelSection({ levelF }: { levelF: LevelFilter }) {
   const lv = (k: string) => Number(/-L(\d)/.exec(k)?.[1] ?? 0);
   return (
     <section className={s.card}>
-      <b>일반 필사: 레벨별 학습 레슨</b>
+      <b>이야기: 레벨별 학습 레슨</b>
       <table className={s.table} style={{ marginTop: 6 }}><thead><tr><th>레벨</th><th>연 레슨</th><th>완료</th></tr></thead><tbody>
         {LEVELS.filter((l) => levelF === 'all' || l === levelF).map((l) => {
           const rows = progress.filter((p) => lv(p.key) === l);

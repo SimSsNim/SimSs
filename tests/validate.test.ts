@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs';
 import { resolve, join, basename, dirname } from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { validateLesson, blankedSentence, countOccurrences } from '../src/lib/validateLesson';
@@ -47,6 +47,35 @@ describe('깨진 레슨: TS 와 파이썬이 같이 실패', () => {
     const r = runPy('public/lessons/');
     expect(r.status, r.stdout).toBe(0);
   });
+});
+
+describe('이야기 여러 개·뉴스 id (TS·파이썬 같은 결과)', () => {
+  const base = read('public/lessons/general/2026-11-12-L1.json');
+  const cases: [string, string, boolean][] = [
+    ['2026-11-12-L1-2', 'fable', true],
+    ['2026-11-12-L1-3', 'fable', true],
+    ['2026-11-12-L1-news', 'news', true],
+    ['2026-11-12-L1-news2', 'news', true],
+    ['2026-11-12-L1-news', 'fable', false], // 뉴스 id인데 genre가 news가 아님
+    ['2026-11-12-L1', 'news', false], // 뉴스인데 -news가 없음
+    ['2026-11-12-L1-1', 'fable', false],
+    ['2026-11-12-L2-2', 'fable', false], // 레벨과 다름
+  ];
+  for (const [id, genre, ok] of cases) {
+    it(`${id} / ${genre} → ${ok ? '통과' : '실패'}`, () => {
+      const d = { ...structuredClone(base), id, genre };
+      const errs = validateLesson(d, { folderTrack: 'general', fileStem: id });
+      expect(errs.length === 0, errs.join('\n')).toBe(ok);
+      if (!hasPy) return;
+      const dir = resolve(root, `tests/.tmp-id/${id}-${genre}/general`);
+      spawnSync('mkdir', ['-p', dir]);
+      const file = join(dir, `${id}.json`);
+      writeFileSync(file, JSON.stringify(d));
+      const r = runPy(file);
+      expect(r.status === 0, r.stdout).toBe(ok);
+      if (!ok && !errs[0].startsWith('스키마')) expect(r.stdout).toContain(errs[0]);
+    });
+  }
 });
 
 describe('빈칸 만들기', () => {

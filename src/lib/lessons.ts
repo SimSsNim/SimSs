@@ -60,7 +60,14 @@ export const sortSummaries = (a: LessonSummary, b: LessonSummary) =>
   a.date !== b.date ? (a.date < b.date ? 1 : -1)
     : a.track !== b.track ? (a.track < b.track ? -1 : 1)
       : a.level !== b.level ? a.level - b.level
-        : (CH_ORDER[a.chapter ?? ''] ?? 0) - (CH_ORDER[b.chapter ?? ''] ?? 0);
+        : a.chapter || b.chapter ? (CH_ORDER[a.chapter ?? ''] ?? 0) - (CH_ORDER[b.chapter ?? ''] ?? 0)
+          : storyNo(a.id) - storyNo(b.id);
+/** 같은 날 같은 레벨 이야기 순서: -L1 = 1, -L1-2 = 2 … 뉴스는 그 뒤 */
+export const storyNo = (id: string) => {
+  const m = /-L\d(?:-(news)?(\d)?)?$/.exec(id);
+  if (!m) return 0;
+  return (m[1] ? 100 : 0) + (m[2] ? Number(m[2]) : 1);
+};
 
 const base = () => import.meta.env.BASE_URL || './';
 
@@ -186,8 +193,10 @@ export function groupByDate(list: LessonSummary[]): DayGroup[] {
 
 export interface TodayPick { date: string | null; isToday: boolean; lessons: LessonSummary[] }
 /** 오늘(KST) 그 트랙·레벨 레슨. 없으면 가장 최근 날짜. toeic 은 Part 5·6·7 묶음 */
-export function pickToday(summaries: LessonSummary[], track: Track, level: Level, today = kstDate()): TodayPick {
-  const mine = summaries.filter((s) => s.track === track && s.level === level && !s.errors);
+/** 그날 볼 레슨. 이야기 트랙은 news=true면 뉴스(레벨 무관), 아니면 그 레벨의 이야기(뉴스 제외) */
+export function pickToday(summaries: LessonSummary[], track: Track, level: Level, today = kstDate(), news = false): TodayPick {
+  const mine = summaries.filter((s) => s.track === track && !s.errors && (
+    track !== 'general' ? s.level === level : news ? s.genre === 'news' : s.genre !== 'news' && s.level === level));
   const todays = mine.filter((s) => s.date === today);
   if (todays.length) return { date: today, isToday: true, lessons: todays.sort(sortSummaries) };
   const past = mine.filter((s) => s.date <= today);

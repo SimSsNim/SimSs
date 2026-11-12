@@ -12,7 +12,7 @@ import { kstDate, addDays, weekdayOf, formatKo, diffDays } from '../lib/date';
 import { setChecklist, computeStreak, isStudyDay } from '../lib/progress';
 import { isDue } from '../lib/leitner';
 import { useSettings, setSetting } from '../lib/settings';
-import { setMyLevel, useMyLevel } from '../components/LevelChips';
+import { setMyLevel, useMyLevel, myLevel, isNewsView } from '../components/LevelChips';
 import { firstAttempts } from '../lib/quiz';
 import { toast } from '../components/Toast';
 import { mmss } from './lesson/practice/Transcribe';
@@ -45,11 +45,12 @@ export function Home() {
   const day = params.get('d') || today;
   const setDay = (d: string) => setParams(d && d !== today ? { d } : {}, { replace: true });
   const lessonDates = summaries.filter((x) => x.track === track && !x.errors).map((x) => x.date);
-  const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t, settings.levelByTrack[t] ?? 1, day)])) as Record<Track, ReturnType<typeof pickToday>>;
+  const news = isNewsView(settings, 'general');
+  const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t, myLevel(t), day, t === 'general' && news)])) as Record<Track, ReturnType<typeof pickToday>>;
   const mine = picks[track];
-  const generalLesson = picks.general.lessons[0];
+  const what = (t: Track) => (t === 'general' && news ? '뉴스' : `L${myLevel(t)}`);
   const toeicKeys = picks.toeic.lessons.map((l) => l.key);
-  const allKeys = [generalLesson?.key, ...toeicKeys].filter(Boolean) as string[];
+  const allKeys = [...picks.general.lessons.map((l) => l.key), ...toeicKeys];
   const progress = useLiveQuery(() => db.lessonProgress.bulkGet(allKeys), [allKeys.join(',')]);
   const attempts = useLiveQuery(() => db.quizAttempt.where('lessonKey').anyOf(toeicKeys.length ? toeicKeys : ['-']).toArray(), [toeicKeys.join(',')]);
   const daily = useLiveQuery(() => db.dailyLog.toArray(), []);
@@ -82,18 +83,22 @@ export function Home() {
 
   const summaryLine = (t: Track) => {
     const p = picks[t];
-    const lv = settings.levelByTrack[t] ?? 1;
-    if (!p.lessons.length) return `${TRACK_LABEL[t]} L${lv}: 지문 없음`;
+    const lv = what(t);
+    if (!p.lessons.length) return `${TRACK_LABEL[t]} ${lv}: 지문 없음`;
     if (t === 'general') {
+      if (p.lessons.length > 1) {
+        const doneN = p.lessons.filter((l) => CHECKLIST_KEYS.every((k) => progOf(l.key)?.checklist[k])).length;
+        return `${TRACK_LABEL[t]} ${lv}: ${p.lessons.length}편 중 ${doneN}편 완료`;
+      }
       const pr = progOf(p.lessons[0].key);
       const done = pr ? CHECKLIST_KEYS.filter((k) => pr.checklist[k]).length : 0;
-      return `${TRACK_LABEL[t]} L${lv}: 「${p.lessons[0].title}」 ${done === 6 ? '✓완료' : `${done}/6 단계`}`;
+      return `${TRACK_LABEL[t]} ${lv}: 「${p.lessons[0].title}」 ${done === 6 ? '✓완료' : `${done}/6 단계`}`;
     }
     const parts = p.lessons.map((l) => {
       const st = attemptStatus(attempts?.filter((a) => a.lessonKey === l.key), l.questionCount);
       return `${CHAPTER_LABEL[l.chapter!].replace('Part ', 'P')} ${st.kind === 'done' ? st.text.replace('완료 ', '') : st.kind === 'doing' ? '…' : '–'}`;
     });
-    return `${TRACK_LABEL[t]} L${lv}: ${parts.join(' · ')}`;
+    return `${TRACK_LABEL[t]} ${lv}: ${parts.join(' · ')}`;
   };
 
   return (
@@ -110,18 +115,18 @@ export function Home() {
         </section>
 
         <DatePick value={day} onChange={setDay} dates={[...lessonDates, today]} allowAll={false} todayBtn label="날짜 고르기" />
-        <h1 className={s.title}>{formatKo(day)} · {TRACK_LABEL[track]} L{level}</h1>
+        <h1 className={s.title}>{formatKo(day)} · {TRACK_LABEL[track]} {what(track)}</h1>
         {track === 'toeic' && <LevelTip />}
 
         {!mine.lessons.length ? (
           <div className={s.card}>
-            <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `레벨 ${level} 지문이 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)`}</p>
+            <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `${what(track) === '뉴스' ? '뉴스가' : `레벨 ${level} 지문이`} 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)`}</p>
           </div>
         ) : (
           <>
-            {!mine.isToday && <p className={s.muted} role="note" data-testid="not-arrived">{day === today ? '오늘 지문은 아직 도착하지 않았어요.' : `${formatKo(day)} 레벨 ${level} 지문이 없어요.`} 가장 가까운 이전({formatKo(mine.date!)}) 레벨 {level} 지문을 보여 드려요.</p>}
+            {!mine.isToday && <p className={s.muted} role="note" data-testid="not-arrived">{day === today ? '오늘 지문은 아직 도착하지 않았어요.' : `${formatKo(day)} ${what(track) === '뉴스' ? '뉴스가' : `레벨 ${level} 지문이`} 없어요.`} 가장 가까운 이전({formatKo(mine.date!)}) {what(track) === '뉴스' ? '뉴스' : `레벨 ${level} 지문`}를 보여 드려요.</p>}
             {track === 'general' ? (
-              <GeneralToday lesson={mine.lessons[0]} checklist={progOf(mine.lessons[0].key)?.checklist ?? emptyChecklist()} />
+              <StoryPicker key={`${mine.date}|${what(track)}`} lessons={mine.lessons} checklistOf={(k) => progOf(k)?.checklist ?? emptyChecklist()} />
             ) : (
               <ToeicToday lessons={mine.lessons} attempts={attempts ?? []} />
             )}
@@ -143,6 +148,29 @@ export function Home() {
           <Link to="/review?tab=wrong&review=1" style={{ textDecoration: 'none', color: 'inherit' }} data-testid="home-wrong-due"><Stat label="오늘 복습 오답" value={`${wrongDue}개`} /></Link>
         </div>
       </main>
+    </>
+  );
+}
+
+/** 같은 날 이야기가 여러 편이면 위에 고르는 칩 */
+function StoryPicker({ lessons, checklistOf }: { lessons: LessonSummary[]; checklistOf: (key: string) => Record<string, boolean> }) {
+  const [i, setI] = useState(0);
+  const cur = lessons[Math.min(i, lessons.length - 1)];
+  return (
+    <>
+      {lessons.length > 1 && (
+        <div className={s.chips} role="group" aria-label="오늘의 이야기" style={{ marginBottom: 8 }}>
+          {lessons.map((l, k) => {
+            const done = CHECKLIST_KEYS.every((c) => checklistOf(l.key)[c]);
+            return (
+              <button key={l.key} type="button" className={s.chip} aria-pressed={l.key === cur.key} onClick={() => setI(k)} data-testid={`story-${k + 1}`}>
+                {done ? '✓ ' : ''}{l.genre === 'news' ? `뉴스 ${k + 1}` : `이야기 ${k + 1}`}
+              </button>
+            );
+          })}
+        </div>
+      )}
+      <GeneralToday lesson={cur} checklist={checklistOf(cur.key)} />
     </>
   );
 }

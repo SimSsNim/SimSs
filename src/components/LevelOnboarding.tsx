@@ -18,7 +18,7 @@ export function LevelOnboarding() {
         {TRACKS.map((t) => (
           <section key={t} className={s.card} style={{ marginBottom: 12 }} data-testid={`onb-${t}`}>
             <h2 className={s.h2} style={{ marginTop: 0 }}>{TRACK_LABEL[t]}</h2>
-            <LevelChips track={t} value={pick[t]} onChange={(l) => setPick({ ...pick, [t]: l })} label={`${TRACK_LABEL[t]} 레벨`} />
+            <LevelChips track={t} all value={pick[t]} onChange={(l) => setPick({ ...pick, [t]: l })} label={`${TRACK_LABEL[t]} 레벨`} />
           </section>
         ))}
         <button type="button" className={s.primary + ' ' + s.big + ' ' + s.full} data-testid="onb-start"

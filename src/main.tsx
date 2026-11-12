@@ -2,16 +2,37 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles/global.css';
 import { App } from './App';
-import { loadSettings, getSettings, setSetting } from './lib/settings';
+import { loadSettings, getSettings, setSetting, type Settings } from './lib/settings';
 import { initTTS } from './lib/tts';
 import { loadLessons } from './lib/lessons';
 import { startTimeTracking } from './lib/progress';
 import { toast } from './components/Toast';
 
+/** 우선순위 설정: 앱을 처음 열 때(특정 화면 주소 없이 열 때)만 시작 트랙·레벨을 맞춘다. 새로고침은 그대로 둔다 */
+function applyStartPriority(st: Settings) {
+  if (!['', '#', '#/'].includes(location.hash)) return;
+  if (st.startTrack !== 'last') setSetting('track', st.startTrack);
+  const lv = { ...st.levelByTrack };
+  let changed = false;
+  for (const t of ['general', 'toeic'] as const) {
+    const want = st.startLevel?.[t] ?? 'last';
+    if (want === 'last' || lv[t] === null) continue; // 처음 실행(레벨 고르기 전)은 건드리지 않음
+    if (want === 'news') {
+      if (t === 'general' && st.newsEnabled) setSetting('generalView', 'news');
+    } else {
+      lv[t] = want;
+      changed = true;
+      if (t === 'general') setSetting('generalView', 'level');
+    }
+  }
+  if (changed) setSetting('levelByTrack', lv);
+}
+
 async function boot() {
   await loadSettings();
   const st = getSettings();
   if (st.backupReminderShownAt === null && st.lastBackupAt === null) setSetting('backupReminderShownAt', Date.now());
+  applyStartPriority(st);
   initTTS();
   void navigator.storage?.persist?.().catch(() => undefined);
   void loadLessons();

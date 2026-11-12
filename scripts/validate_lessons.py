@@ -2,7 +2,9 @@
 """레슨 JSON 검증 + index.json 생성 (schemaVersion 2).
 
 파일 위치
-  public/lessons/general/YYYY-MM-DD-L<레벨>.json
+  public/lessons/general/YYYY-MM-DD-L<레벨>.json          (그날 그 레벨 첫 이야기)
+  public/lessons/general/YYYY-MM-DD-L<레벨>-2.json        (두 번째, -3 … -9)
+  public/lessons/general/YYYY-MM-DD-L<레벨>-news.json     (뉴스, genre=news. 같은 날 더 있으면 -news2 …)
   public/lessons/toeic/YYYY-MM-DD-L<레벨>-part5.json   (10문제)
   public/lessons/toeic/YYYY-MM-DD-L<레벨>-part6.json   (5문제)
   public/lessons/toeic/YYYY-MM-DD-L<레벨>-part7.json   (3문제)
@@ -15,6 +17,7 @@
 필요: pip install jsonschema      종료 코드 0 = 통과, 1 = 오류 (CI 배포 차단용)
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -31,6 +34,7 @@ TOL = 15  # 자연스러운 곳에서 끊느라 범위를 조금 넘는 것은 �
 # 단어 수 범위 (레벨별)
 WORDS = {
     "general": {1: (100, 150), 2: (150, 200), 3: (200, 250), 4: (250, 300)},
+    "news":    {1: (100, 200), 2: (150, 250), 3: (200, 300), 4: (250, 350)},
     "part7":   {1: (100, 150), 2: (150, 200), 3: (200, 250), 4: (250, 300)},
     "part6":   {1: (80, 130), 2: (100, 150), 3: (120, 170), 4: (140, 190)},
     "part5":   {1: (80, 150), 2: (100, 180), 3: (120, 220), 4: (150, 260)},  # 10문장 합계
@@ -41,7 +45,9 @@ BLANK = "-------"
 
 
 def kind_of(data):
-    return data.get("chapter") if data["track"] == "toeic" else "general"
+    if data["track"] == "toeic":
+        return data.get("chapter")
+    return "news" if data["genre"] == "news" else "general"
 
 
 def check(path, data):
@@ -55,8 +61,16 @@ def check(path, data):
     track, lv, kind = data["track"], data["level"], kind_of(data)
 
     # 위치와 id
-    exp_id = f"{data['date']}-L{lv}" + (f"-{data['chapter']}" if track == "toeic" else "")
-    if data["id"] != exp_id:
+    base = f"{data['date']}-L{lv}"
+    if track == "toeic":
+        exp_id = base + f"-{data['chapter']}"
+        ok = data["id"] == exp_id
+    else:
+        # 이야기: base, base-2 … base-9 / 뉴스(genre=news): base-news, base-news2 …
+        exp_id = base + ("-news(2~9)" if kind == "news" else "(-2~9)")
+        sfx = data["id"][len(base):] if data["id"].startswith(base) else None
+        ok = sfx is not None and re.fullmatch(r"-news[2-9]?" if kind == "news" else r"(-[2-9])?", sfx) is not None
+    if not ok:
         errs.append(f"id는 {exp_id} 이어야 함 (현재 {data['id']})")
     if path.stem != data["id"]:
         errs.append(f"파일명({path.stem})과 id가 다름")

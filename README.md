@@ -1,8 +1,9 @@
-# 심쓰 영어 — 영어 필사 학습 PWA (일반 필사 + 토익 스타일 Part 5·6·7)
+# 심쓰 영어 — 영어 필사 학습 PWA (이야기·뉴스 + 토익 스타일 Part 5·6·7)
 
 한국인 영어 학습자 1명을 위한 **개인용 영어 필사 학습 앱**입니다. 서버·로그인 없이 GitHub Pages에서 돌아가고, 홈 화면에 설치하면 오프라인에서도 쓸 수 있습니다.
 
-- **일반 필사** (`general`): 퍼블릭 도메인 고전 + LibriVox 낭독 음원. 매일 **레벨 1~4** 지문 4개.
+- **이야기** (`general`): 퍼블릭 도메인 고전 + LibriVox 낭독 음원. 매일 **레벨 1~4**, 레벨마다 여러 편(기본 3편).
+- **뉴스** (`general`, `genre: "news"`): VOA Learning English(미국 정부 저작물) 기사 발췌. 이야기 트랙의 '뉴스' 칩.
 - **토익** (`toeic`): 토익 Part 5·6·7 스타일로 새로 쓴 **AI 작성 연습 문제**(실제 시험 문제 아님, 음원 없음 → 브라우저 TTS). 매일 레벨마다 Part 5(10문제)·Part 6(5문제)·Part 7(3문제) 세 레슨.
 - 트랙마다 **내 레벨**을 따로 고르고(처음 실행 때 한 번), 언제든 다른 레벨도 볼 수 있습니다. 레벨은 앱이 몰래 바꾸지 않습니다(추천 카드만).
 - 토익 레슨은 **문제** 탭(연습/실전 모드)으로 풀고, 같은 레슨으로 전체 문장·한 문장씩·단어·문법·문장+문법·듣기·필사·연습 탭을 그대로 씁니다.
@@ -47,10 +48,12 @@ npm run build        # 타입 검사 + 프로덕션 빌드(dist/)
 
 파일을 하나 추가해서 `main` 에 push 하세요(예약 작업이 매일 자동으로 올립니다).
 
-예약 작업 프롬프트는 [`prompts/general_daily.md`](prompts/general_daily.md)(일반 필사)와 [`prompts/toeic_daily.md`](prompts/toeic_daily.md)(토익 Part 5·6·7)입니다. 작업은 4개로 나눠 첫 줄만 `처리할 레벨: 1, 2` / `처리할 레벨: 3, 4` 로 바꿔 씁니다. 저장소 `SimSsNim/SimSs` 를 연결해야 레슨이 자동으로 올라갑니다.
+예약 작업 프롬프트는 [`prompts/general_daily.md`](prompts/general_daily.md)(이야기, 레벨당 `레벨당 이야기 수` 편), [`prompts/news_daily.md`](prompts/news_daily.md)(뉴스)와 [`prompts/toeic_daily.md`](prompts/toeic_daily.md)(토익 Part 5·6·7)입니다. 작업은 4개로 나눠 첫 줄만 `처리할 레벨: 1, 2` / `처리할 레벨: 3, 4` 로 바꿔 씁니다. 저장소 `SimSsNim/SimSs` 를 연결해야 레슨이 자동으로 올라갑니다.
 
 ```
-public/lessons/general/2026-11-13-L1.json          # 일반 필사 L1 (L1~L4)
+public/lessons/general/2026-11-13-L1.json          # 이야기 L1 1편 (L1~L4)
+public/lessons/general/2026-11-13-L1-2.json        # 이야기 L1 2편 (-3 … -9)
+public/lessons/general/2026-11-13-L3-news.json     # 뉴스 (genre=news, 같은 날 더 있으면 -news2 …)
 public/lessons/toeic/2026-11-13-L1-part5.json      # 토익 L1 Part 5 (10문제)
 public/lessons/toeic/2026-11-13-L1-part6.json      # 토익 L1 Part 6 (5문제)
 public/lessons/toeic/2026-11-13-L1-part7.json      # 토익 L1 Part 7 (3문제)

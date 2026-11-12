@@ -1,8 +1,9 @@
 import s from '../styles/ui.module.css';
 import { useSettings, setSetting, type Theme, type DisplayMode, type Accent } from '../lib/settings';
 import { ACCENTS, useVoices, speak } from '../lib/tts';
-import { LevelChips } from '../components/LevelChips';
-import { TRACKS, TRACK_LABEL } from '../lib/types';
+import { LevelChips, enabledLevelsOf } from '../components/LevelChips';
+import { TRACKS, TRACK_LABEL, LEVELS, LEVEL_DESC, type Level, type Track } from '../lib/types';
+import { toast } from '../components/Toast';
 
 export function SettingsPanel() {
   const st = useSettings();
@@ -21,6 +22,8 @@ export function SettingsPanel() {
           </select>
         </label>
       </section>
+      <PrioritySection />
+      <LevelToggleSection />
       <section className={s.card + ' ' + s.stack}>
         <b>화면</b>
         <div className={s.seg} role="group" aria-label="테마">
@@ -101,5 +104,74 @@ export function SettingsPanel() {
         </label>
       </section>
     </div>
+  );
+}
+
+/** 우선순위: 앱을 열 때 먼저 볼 트랙·레벨 */
+function PrioritySection() {
+  const st = useSettings();
+  const levelOpts = (t: Track) => [
+    ['last', '마지막에 본 것'],
+    ...enabledLevelsOf(st, t).map((l) => [String(l), `L${l} (${LEVEL_DESC[t][l]})`]),
+    ...(t === 'general' && st.newsEnabled ? [['news', '뉴스']] : []),
+  ];
+  return (
+    <section className={s.card + ' ' + s.stack} aria-label="우선순위" data-testid="priority">
+      <b>우선순위 <span className={s.small + ' ' + s.muted}>앱을 열 때 먼저 볼 것</span></b>
+      <label className={s.label}>먼저 볼 트랙
+        <select className={s.select} value={st.startTrack} onChange={(e) => setSetting('startTrack', e.target.value as 'last' | Track)} data-testid="start-track">
+          <option value="last">마지막에 본 트랙</option>
+          {TRACKS.map((t) => <option key={t} value={t}>{TRACK_LABEL[t]} 먼저</option>)}
+        </select>
+      </label>
+      {TRACKS.map((t) => (
+        <label key={t} className={s.label}>{TRACK_LABEL[t]}: 먼저 볼 레벨
+          <select className={s.select} value={String(st.startLevel?.[t] ?? 'last')} data-testid={`start-level-${t}`}
+            onChange={(e) => {
+              const v = e.target.value;
+              setSetting('startLevel', { ...st.startLevel, [t]: v === 'last' || v === 'news' ? v : (Number(v) as Level) });
+            }}>
+            {levelOpts(t).map(([v, l]) => <option key={v} value={v}>{l}</option>)}
+          </select>
+        </label>
+      ))}
+      <p className={s.small + ' ' + s.muted} style={{ margin: 0 }}>트랙 버튼도 먼저 볼 트랙이 앞에 와요. 앱을 새로 열 때 적용돼요.</p>
+    </section>
+  );
+}
+
+/** 레벨 켜고 끄기: 켠 것만 레벨 칩·필터에 보인다 */
+function LevelToggleSection() {
+  const st = useSettings();
+  const toggle = (t: Track, l: Level) => {
+    const on = enabledLevelsOf(st, t);
+    const next = on.includes(l) ? on.filter((x) => x !== l) : [...on, l].sort();
+    if (!next.length) return toast('레벨을 하나는 켜 두어야 해요');
+    setSetting('enabledLevels', { ...st.enabledLevels, [t]: next });
+  };
+  return (
+    <section className={s.card + ' ' + s.stack} aria-label="레벨 켜고 끄기" data-testid="level-toggles">
+      <b>레벨 켜고 끄기 <span className={s.small + ' ' + s.muted}>켠 것만 보여요</span></b>
+      {TRACKS.map((t) => {
+        const on = enabledLevelsOf(st, t);
+        return (
+          <div key={t}>
+            <div className={s.small} style={{ marginBottom: 4 }}>{TRACK_LABEL[t]}</div>
+            <div className={s.row}>
+              {LEVELS.map((l) => (
+                <button key={l} type="button" className={s.chip} aria-pressed={on.includes(l)} onClick={() => toggle(t, l)} data-testid={`toggle-${t}-${l}`}>
+                  {on.includes(l) ? '✓ ' : ''}L{l}
+                </button>
+              ))}
+              {t === 'general' && (
+                <button type="button" className={s.chip} aria-pressed={st.newsEnabled} onClick={() => setSetting('newsEnabled', !st.newsEnabled)} data-testid="toggle-news">
+                  {st.newsEnabled ? '✓ ' : ''}뉴스
+                </button>
+              )}
+            </div>
+          </div>
+        );
+      })}
+    </section>
   );
 }

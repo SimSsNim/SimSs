@@ -9,12 +9,14 @@ import { LEVELS, CHAPTERS, CHAPTER_LABEL, type Chapter, type Level, type Track }
 import { db } from '../lib/db';
 import { formatKo } from '../lib/date';
 import { LevelBadge } from './Home';
-import { useMyLevel } from '../components/LevelChips';
+import { useMyLevel, enabledLevelsOf } from '../components/LevelChips';
+import { useSettings } from '../lib/settings';
 
 export function LessonList() {
   const { track: tp } = useParams();
   const track = tp as Track;
   const my = useMyLevel(track);
+  const st = useSettings();
   const { summaries, lessons, status } = useLessons();
   const [q, setQ] = useState('');
   const [level, setLevel] = useState<Level | 'all'>(my);
@@ -78,7 +80,7 @@ export function LessonList() {
           {view === 'list' && (
             <>
               <button type="button" className={s.chip} aria-pressed={level === 'all'} onClick={() => setLevel('all')} data-testid="list-level-all">전체 레벨</button>
-              {LEVELS.map((lv) => (
+              {enabledLevelsOf(st, track).map((lv) => (
                 <button key={lv} type="button" className={s.chip} aria-pressed={level === lv} onClick={() => setLevel(lv)}>L{lv}{lv === my ? ' (내 레벨)' : ''}</button>
               ))}
               {track === 'toeic' && (

@@ -71,7 +71,7 @@ export interface LessonIndex { schemaVersion: 2; lessons: IndexEntry[] }
 export const lessonKeyOf = (track: Track, id: string) => `${track}/${id}`;
 export const isTrack = (v: unknown): v is Track => v === 'general' || v === 'toeic';
 export const isChapter = (v: unknown): v is Chapter => v === 'part5' || v === 'part6' || v === 'part7';
-export const TRACK_LABEL: Record<Track, string> = { general: '일반 필사', toeic: '토익' };
+export const TRACK_LABEL: Record<Track, string> = { general: '이야기', toeic: '토익' };
 export const CHAPTER_LABEL: Record<Chapter, string> = { part5: 'Part 5', part6: 'Part 6', part7: 'Part 7' };
 export const CHAPTER_COUNT: Record<Chapter, number> = { part5: 10, part6: 5, part7: 3 };
 /** 권장 풀이 시간(초/문항) */
