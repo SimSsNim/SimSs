@@ -415,6 +415,588 @@
       "note": "plan/decide/hope/agree + to V는 토익 단골 짝꿍."
     }
   ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "marketing": {
+      "lemma": "marketing",
+      "pos": "noun",
+      "ko": "마케팅"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(발표를) 하다, 주다",
+      "form": "과거형"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "detailed": {
+      "lemma": "detailed",
+      "pos": "adjective",
+      "ko": "상세한, 자세한"
+    },
+    "presentation": {
+      "lemma": "presentation",
+      "pos": "noun",
+      "ko": "발표, 프레젠테이션"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 관한"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "advertising": {
+      "lemma": "advertising",
+      "pos": "noun",
+      "ko": "광고"
+    },
+    "campaign": {
+      "lemma": "campaign",
+      "pos": "noun",
+      "ko": "캠페인, (광고) 활동"
+    },
+    "yesterday": {
+      "lemma": "yesterday",
+      "pos": "adverb",
+      "ko": "어제"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "출장, 여행"
+    },
+    "expenses": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "비용, 경비",
+      "form": "복수형"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)"
+    },
+    "approved": {
+      "lemma": "approve",
+      "pos": "verb",
+      "ko": "승인하다",
+      "form": "과거분사"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 부장"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에"
+    },
+    "tickets": {
+      "lemma": "ticket",
+      "pos": "noun",
+      "ko": "표, 티켓",
+      "form": "복수형"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": "현재형 (복수)"
+    },
+    "booked": {
+      "lemma": "book",
+      "pos": "verb",
+      "ko": "예약하다",
+      "form": "과거분사"
+    },
+    "although": {
+      "lemma": "although",
+      "pos": "conjunction",
+      "ko": "비록 ~이지만"
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~있다",
+      "form": "3인칭 단수 현재"
+    },
+    "located": {
+      "lemma": "locate",
+      "pos": "verb",
+      "ko": "위치하다 (be located)",
+      "form": "과거분사"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "멀리 (far from: ~에서 먼)"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터"
+    },
+    "airport": {
+      "lemma": "airport",
+      "pos": "noun",
+      "ko": "공항"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은"
+    },
+    "guests": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "투숙객, 손님",
+      "form": "복수형"
+    },
+    "choose": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "선택하다, 고르다"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (호텔)"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 때문에, ~으로 인해"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": "it의 소유격"
+    },
+    "excellent": {
+      "lemma": "excellent",
+      "pos": "adjective",
+      "ko": "훌륭한, 탁월한"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨, ~님 (여성 경칭)",
+      "form": "줄임말"
+    },
+    "patel's": {
+      "lemma": "Patel",
+      "pos": "proper-noun",
+      "ko": "파텔의 (사람 성)",
+      "form": "소유격"
+    },
+    "successfully": {
+      "lemma": "successfully",
+      "pos": "adverb",
+      "ko": "성공적으로",
+      "form": "부사형"
+    },
+    "completed": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "완료하다, 끝마치다",
+      "form": "과거형"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실"
+    },
+    "relocation": {
+      "lemma": "relocation",
+      "pos": "noun",
+      "ko": "이전, 재배치"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형"
+    },
+    "ahead": {
+      "lemma": "ahead",
+      "pos": "adverb",
+      "ko": "앞서 (ahead of schedule: 예정보다 일찍)"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~보다 (ahead of)"
+    },
+    "schedule": {
+      "lemma": "schedule",
+      "pos": "noun",
+      "ko": "일정, 예정"
+    },
+    "applicants": {
+      "lemma": "applicant",
+      "pos": "noun",
+      "ko": "지원자",
+      "form": "복수형"
+    },
+    "whose": {
+      "lemma": "whose",
+      "pos": "pronoun",
+      "ko": "그의 ~ (소유격 관계대명사)"
+    },
+    "resumes": {
+      "lemma": "resume",
+      "pos": "noun",
+      "ko": "이력서",
+      "form": "복수형"
+    },
+    "selected": {
+      "lemma": "select",
+      "pos": "verb",
+      "ko": "선발하다, 선택하다",
+      "form": "과거분사"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "contacted": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": "과거분사"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)"
+    },
+    "interview": {
+      "lemma": "interview",
+      "pos": "noun",
+      "ko": "면접"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사"
+    },
+    "plans": {
+      "lemma": "plan",
+      "pos": "verb",
+      "ko": "계획하다",
+      "form": "3인칭 단수"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기를 (to부정사 표시)"
+    },
+    "open": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열다, 개점하다"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "지점, 지사",
+      "form": "복수형"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~에서"
+    },
+    "busan": {
+      "lemma": "Busan",
+      "pos": "proper-noun",
+      "ko": "부산 (한국의 도시)"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝, 말"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 연도"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다"
+    },
+    "exchange": {
+      "lemma": "exchange",
+      "pos": "verb",
+      "ko": "교환하다"
+    },
+    "defective": {
+      "lemma": "defective",
+      "pos": "adjective",
+      "ko": "결함 있는, 불량의"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물품, 상품",
+      "form": "복수형"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들 (고객들)"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "보관하다, 가지고 있다"
+    },
+    "original": {
+      "lemma": "original",
+      "pos": "adjective",
+      "ko": "원래의, 원본의"
+    },
+    "receipt": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증"
+    },
+    "scheduling": {
+      "lemma": "scheduling",
+      "pos": "noun",
+      "ko": "일정 관리"
+    },
+    "software": {
+      "lemma": "software",
+      "pos": "noun",
+      "ko": "소프트웨어"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다",
+      "form": "3인칭 단수"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~였다",
+      "form": "과거분사"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주"
+    },
+    "effective": {
+      "lemma": "effective",
+      "pos": "adjective",
+      "ko": "효과적인"
+    },
+    "reducing": {
+      "lemma": "reduce",
+      "pos": "verb",
+      "ko": "줄이다, 감소시키다",
+      "form": "현재분사(-ing)"
+    },
+    "delays": {
+      "lemma": "delay",
+      "pos": "noun",
+      "ko": "지연",
+      "form": "복수형"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서 (장소), ~에 (at all times)"
+    },
+    "warehouse": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, ~해 주세요"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": "you의 소유격"
+    },
+    "identification": {
+      "lemma": "identification",
+      "pos": "noun",
+      "ko": "신원 확인, 신분증"
+    },
+    "badge": {
+      "lemma": "badge",
+      "pos": "noun",
+      "ko": "배지, 명찰"
+    },
+    "visible": {
+      "lemma": "visible",
+      "pos": "adjective",
+      "ko": "눈에 보이는"
+    },
+    "times": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때 (at all times: 항상)",
+      "form": "복수형"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분"
+    },
+    "inside": {
+      "lemma": "inside",
+      "pos": "preposition",
+      "ko": "~ 안에"
+    },
+    "factory": {
+      "lemma": "factory",
+      "pos": "noun",
+      "ko": "공장"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "회의 (conference room: 회의실)"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실"
+    },
+    "third": {
+      "lemma": "third",
+      "pos": "number",
+      "ko": "세 번째의, 3층의"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "이용 가능한"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원"
+    },
+    "meetings": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의",
+      "form": "복수형"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "매 ~, 모든"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후"
+    }
+  },
   "questions": [
     {
       "id": "q1",

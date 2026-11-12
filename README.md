@@ -83,6 +83,7 @@ public/lessons/toeic/2026-11-13-L1-part7.json      # 토익 L1 Part 7 (3문제)
   "vocab": [ { "id": "v1", "term": "…", "pos": "noun", "meaningKo": "…", "synonyms": ["…"], "matchText": "…", "sentenceId": "s1", "example": { "en": "…", "ko": "…" } } ],
   "structures": [ { "id": "st1", "sentenceId": "s7", "chunks": [ { "text": "…", "role": "S|V|O|IO|C|OC|M|CONJ", "sub": false, "ko": "…" } ], "skeleton": "…", "explanation": "…" } ],
   "grammar": [ { "id": "g1", "title": "…", "tags": ["품사"], "sentenceId": "s5", "highlight": ["…"], "explanation": "…", "example": { "en": "…", "ko": "…" }, "note": "…" } ],
+  "glossary": { "ripples": { "lemma": "ripple", "pos": "noun", "ko": "잔물결", "form": "복수형" } }, // 지문의 모든 단어 뜻(필수). 목록: python3 scripts/glossary_words.py <파일>
   "questions": [ {                                                     // 토익만: part5 10개, part6 5개, part7 3개
     "id": "q1", "number": 1, "type": "part5-word-form", "prompt": null,  // Part 7 은 prompt = 질문
     "blank": { "sentenceId": "s1", "answerText": "easy" },             // Part 5·6: 문장 속 answerText(정확히 1번) → "-------"

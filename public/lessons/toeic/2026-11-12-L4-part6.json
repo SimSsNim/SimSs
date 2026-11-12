@@ -386,6 +386,588 @@
       "note": "빈칸 뒤에 명사가 바로 오면 whichever/whatever 같은 복합관계형용사."
     }
   ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨, ~님 (남성 존칭)",
+      "form": "Mister의 줄임말"
+    },
+    "haldane": {
+      "lemma": "Haldane",
+      "pos": "proper-noun",
+      "ko": "홀데인 (수신인의 성)"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 위해"
+    },
+    "selecting": {
+      "lemma": "select",
+      "pos": "verb",
+      "ko": "선택하다, 고르다",
+      "form": "동명사(-ing)"
+    },
+    "westbury": {
+      "lemma": "Westbury",
+      "pos": "proper-noun",
+      "ko": "웨스트버리 (부동산 회사 이름의 일부)"
+    },
+    "property": {
+      "lemma": "property",
+      "pos": "noun",
+      "ko": "부동산, 건물"
+    },
+    "partners": {
+      "lemma": "partner",
+      "pos": "noun",
+      "ko": "파트너, 동업자 (회사명의 일부)",
+      "form": "복수형"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~하기 위해 (to부정사 표시)"
+    },
+    "assist": {
+      "lemma": "assist",
+      "pos": "verb",
+      "ko": "돕다, 지원하다"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~에 관해, ~와 함께, ~한 채로"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 귀하의"
+    },
+    "firm's": {
+      "lemma": "firm",
+      "pos": "noun",
+      "ko": "회사의",
+      "form": "소유격"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "noun",
+      "ko": "이전, 이사"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "fenwick": {
+      "lemma": "Fenwick",
+      "pos": "proper-noun",
+      "ko": "펜윅 (거리 이름)"
+    },
+    "street": {
+      "lemma": "street",
+      "pos": "noun",
+      "ko": "거리, ~가(街)"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 사무소"
+    },
+    "complex": {
+      "lemma": "complex",
+      "pos": "noun",
+      "ko": "단지, 복합 건물"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~한 대로, ~처럼"
+    },
+    "discussed": {
+      "lemma": "discuss",
+      "pos": "verb",
+      "ko": "논의하다, 상의하다",
+      "form": "과거분사"
+    },
+    "suite": {
+      "lemma": "suite",
+      "pos": "noun",
+      "ko": "(사무실) 호실, 스위트"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료 조동사)",
+      "form": "3인칭 단수"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (수동태)",
+      "form": "과거분사"
+    },
+    "reserved": {
+      "lemma": "reserve",
+      "pos": "verb",
+      "ko": "예약하다, 확보해 두다",
+      "form": "과거분사"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사"
+    },
+    "lease": {
+      "lemma": "lease",
+      "pos": "noun",
+      "ko": "임대차 계약, 임대"
+    },
+    "taking": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(효력을) 발생하다 (take effect)",
+      "form": "현재분사(-ing)"
+    },
+    "effect": {
+      "lemma": "effect",
+      "pos": "noun",
+      "ko": "효력, 효과"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜 앞)"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월"
+    },
+    "enclosed": {
+      "lemma": "enclose",
+      "pos": "verb",
+      "ko": "동봉된, 동봉하다",
+      "form": "과거분사"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다, 찾다"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2"
+    },
+    "copies": {
+      "lemma": "copy",
+      "pos": "noun",
+      "ko": "사본, 부(部)",
+      "form": "복수형"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의"
+    },
+    "agreement": {
+      "lemma": "agreement",
+      "pos": "noun",
+      "ko": "계약(서), 합의"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, ~해 주세요"
+    },
+    "sign": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "서명하다"
+    },
+    "both": {
+      "lemma": "both",
+      "pos": "determiner",
+      "ko": "둘 다, 양쪽의"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌려보내다, 반환하다"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, 한 부"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "~않게 (no later than: 늦어도 ~까지)"
+    },
+    "later": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "더 늦게",
+      "form": "비교급"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "preposition",
+      "ko": "~보다"
+    },
+    "february": {
+      "lemma": "February",
+      "pos": "proper-noun",
+      "ko": "2월"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "adverb",
+      "ko": "안으로 (move in: 입주하다)"
+    },
+    "maintenance": {
+      "lemma": "maintenance",
+      "pos": "noun",
+      "ko": "유지 보수, 관리"
+    },
+    "crew": {
+      "lemma": "crew",
+      "pos": "noun",
+      "ko": "작업반, 팀"
+    },
+    "repaint": {
+      "lemma": "repaint",
+      "pos": "verb",
+      "ko": "다시 칠하다, 재도장하다"
+    },
+    "interior": {
+      "lemma": "interior",
+      "pos": "noun",
+      "ko": "내부, 실내"
+    },
+    "replace": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "교체하다, 바꾸다"
+    },
+    "carpeting": {
+      "lemma": "carpeting",
+      "pos": "noun",
+      "ko": "카펫 (깔린 바닥재 전체)"
+    },
+    "throughout": {
+      "lemma": "throughout",
+      "pos": "preposition",
+      "ko": "~ 전체에 걸쳐, 곳곳에"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "혹시 ~한다면 (If 생략 도치)"
+    },
+    "prefer": {
+      "lemma": "prefer",
+      "pos": "verb",
+      "ko": "선호하다, ~을 더 좋아하다"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "different": {
+      "lemma": "different",
+      "pos": "adjective",
+      "ko": "다른"
+    },
+    "color": {
+      "lemma": "color",
+      "pos": "noun",
+      "ko": "색, 색상"
+    },
+    "scheme": {
+      "lemma": "scheme",
+      "pos": "noun",
+      "ko": "배합, 구성 (color scheme: 색상 배합)"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다 (let us know: 알려 주다)"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리(에게)",
+      "form": "목적격"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝, 말(末)"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 월"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~라도, 모든"
+    },
+    "requests": {
+      "lemma": "request",
+      "pos": "noun",
+      "ko": "요청, 요구",
+      "form": "복수형"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다, 접수하다",
+      "form": "과거분사"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 이후에"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그 (지시어)"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜, 기한"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할 수도 있다"
+    },
+    "delay": {
+      "lemma": "delay",
+      "pos": "verb",
+      "ko": "지연시키다, 늦추다"
+    },
+    "move-in": {
+      "lemma": "move-in",
+      "pos": "noun",
+      "ko": "입주"
+    },
+    "addition": {
+      "lemma": "addition",
+      "pos": "noun",
+      "ko": "추가 (in addition: 게다가)"
+    },
+    "whichever": {
+      "lemma": "whichever",
+      "pos": "determiner",
+      "ko": "어느 ~이든"
+    },
+    "moving": {
+      "lemma": "moving",
+      "pos": "adjective",
+      "ko": "이사의, 이삿짐 운송의"
+    },
+    "hire": {
+      "lemma": "hire",
+      "pos": "verb",
+      "ko": "고용하다, 이용하다"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다"
+    },
+    "provide": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공하다, 제출하다"
+    },
+    "proof": {
+      "lemma": "proof",
+      "pos": "noun",
+      "ko": "증명(서), 증거"
+    },
+    "insurance": {
+      "lemma": "insurance",
+      "pos": "noun",
+      "ko": "보험"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형 (복수)"
+    },
+    "confident": {
+      "lemma": "confident",
+      "pos": "adjective",
+      "ko": "확신하는, 자신 있는"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "공간"
+    },
+    "comfortably": {
+      "lemma": "comfortably",
+      "pos": "adverb",
+      "ko": "넉넉히, 편안하게",
+      "form": "comfortable의 부사형"
+    },
+    "accommodate": {
+      "lemma": "accommodate",
+      "pos": "verb",
+      "ko": "수용하다"
+    },
+    "growing": {
+      "lemma": "grow",
+      "pos": "adjective",
+      "ko": "성장하는, 늘어나는",
+      "form": "현재분사(-ing)"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 문의",
+      "form": "복수형"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나(에게), 저",
+      "form": "목적격"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~로 (전화번호 앞)"
+    },
+    "555-0148": {
+      "lemma": "555-0148",
+      "pos": "number",
+      "ko": "전화번호"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말: ~올림)"
+    },
+    "grace": {
+      "lemma": "Grace",
+      "pos": "proper-noun",
+      "ko": "그레이스 (발신인의 이름)"
+    },
+    "whitfield": {
+      "lemma": "Whitfield",
+      "pos": "proper-noun",
+      "ko": "휘트필드 (발신인의 성)"
+    },
+    "leasing": {
+      "lemma": "leasing",
+      "pos": "noun",
+      "ko": "임대 (업무)"
+    }
+  },
   "questions": [
     {
       "id": "q1",

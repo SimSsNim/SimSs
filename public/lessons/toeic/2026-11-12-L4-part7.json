@@ -478,6 +478,790 @@
       "note": "be required/expected/encouraged to do는 공지·메모에 자주 나온다."
     }
   ],
+  "glossary": {
+    "transition": {
+      "lemma": "transition",
+      "pos": "noun",
+      "ko": "전환, 이행"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~하기 위해 (to부정사 표시)"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "expense": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "경비, 비용"
+    },
+    "reporting": {
+      "lemma": "reporting",
+      "pos": "noun",
+      "ko": "보고, 정산 보고"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 제도"
+    },
+    "beginning": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "~부터 (시작하여)",
+      "form": "현재분사(-ing)"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜 앞), ~을 위해 (on behalf of)"
+    },
+    "july": {
+      "lemma": "July",
+      "pos": "proper-noun",
+      "ko": "7월"
+    },
+    "corvane": {
+      "lemma": "Corvane",
+      "pos": "proper-noun",
+      "ko": "코베인 (회사 이름의 일부)"
+    },
+    "industries": {
+      "lemma": "industry",
+      "pos": "noun",
+      "ko": "산업 (회사명의 일부)",
+      "form": "복수형"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "replace": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "대체하다, 교체하다"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의, 자사의"
+    },
+    "paper-based": {
+      "lemma": "paper-based",
+      "pos": "adjective",
+      "ko": "종이 기반의, 서면의"
+    },
+    "process": {
+      "lemma": "process",
+      "pos": "noun",
+      "ko": "절차, 과정 / 처리하다"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~을 이용하면"
+    },
+    "expensa": {
+      "lemma": "Expensa",
+      "pos": "proper-noun",
+      "ko": "익스펜사 (온라인 경비 정산 플랫폼)"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adjective",
+      "ko": "온라인의"
+    },
+    "platform": {
+      "lemma": "platform",
+      "pos": "noun",
+      "ko": "플랫폼"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)"
+    },
+    "allows": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "~할 수 있게 하다, 허용하다",
+      "form": "3인칭 단수"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원, 사원",
+      "form": "복수형"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "track": {
+      "lemma": "track",
+      "pos": "verb",
+      "ko": "추적하다, 진행 상황을 확인하다"
+    },
+    "reimbursement": {
+      "lemma": "reimbursement",
+      "pos": "noun",
+      "ko": "환급, 상환"
+    },
+    "requests": {
+      "lemma": "request",
+      "pos": "noun",
+      "ko": "요청, 신청(서)",
+      "form": "복수형"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~으로부터"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의"
+    },
+    "computers": {
+      "lemma": "computer",
+      "pos": "noun",
+      "ko": "컴퓨터",
+      "form": "복수형"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는, 혹은"
+    },
+    "mobile": {
+      "lemma": "mobile",
+      "pos": "adjective",
+      "ko": "휴대용의, 모바일의"
+    },
+    "phones": {
+      "lemma": "phone",
+      "pos": "noun",
+      "ko": "전화기 (mobile phone: 휴대폰)",
+      "form": "복수형"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변화, 변경"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": "3인칭 단수 현재"
+    },
+    "part": {
+      "lemma": "part",
+      "pos": "noun",
+      "ko": "일부, 부분"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의"
+    },
+    "broader": {
+      "lemma": "broad",
+      "pos": "adjective",
+      "ko": "더 폭넓은, 더 광범위한",
+      "form": "비교급"
+    },
+    "effort": {
+      "lemma": "effort",
+      "pos": "noun",
+      "ko": "노력, 시도"
+    },
+    "reduce": {
+      "lemma": "reduce",
+      "pos": "verb",
+      "ko": "줄이다, 절감하다"
+    },
+    "administrative": {
+      "lemma": "administrative",
+      "pos": "adjective",
+      "ko": "관리상의, 행정의"
+    },
+    "costs": {
+      "lemma": "cost",
+      "pos": "noun",
+      "ko": "비용",
+      "form": "복수형"
+    },
+    "shorten": {
+      "lemma": "shorten",
+      "pos": "verb",
+      "ko": "단축하다, 줄이다"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(가주어) 그것"
+    },
+    "takes": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간이) 걸리다",
+      "form": "3인칭 단수"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~이 (to부정사의 주어), ~을 위해"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원(들)"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (수동태)"
+    },
+    "reimbursed": {
+      "lemma": "reimburse",
+      "pos": "verb",
+      "ko": "환급받다, 변제받다",
+      "form": "과거분사"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 하에서, ~에 따라"
+    },
+    "current": {
+      "lemma": "current",
+      "pos": "adjective",
+      "ko": "현재의, 현행의"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다"
+    },
+    "average": {
+      "lemma": "average",
+      "pos": "noun",
+      "ko": "평균"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 3"
+    },
+    "weeks": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": "복수형"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다"
+    },
+    "payment": {
+      "lemma": "payment",
+      "pos": "noun",
+      "ko": "지급, 지불금"
+    },
+    "finance": {
+      "lemma": "finance",
+      "pos": "noun",
+      "ko": "재무, 재정"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서, ~부"
+    },
+    "expects": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다, 기대하다",
+      "form": "3인칭 단수"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "determiner",
+      "ko": "대부분의"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "다섯, 5"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "업무, 사업 (business day: 영업일)"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다, 이용하다"
+    },
+    "photograph": {
+      "lemma": "photograph",
+      "pos": "verb",
+      "ko": "사진을 찍다, 촬영하다"
+    },
+    "receipts": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": "복수형"
+    },
+    "upload": {
+      "lemma": "upload",
+      "pos": "verb",
+      "ko": "업로드하다, 올리다"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들(을)",
+      "form": "목적격"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "함께 (along with: ~와 함께)"
+    },
+    "brief": {
+      "lemma": "brief",
+      "pos": "adjective",
+      "ko": "간단한, 짧은"
+    },
+    "description": {
+      "lemma": "description",
+      "pos": "noun",
+      "ko": "설명, 기술"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의"
+    },
+    "managers": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": "복수형"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러면, 그 다음에"
+    },
+    "automatic": {
+      "lemma": "automatic",
+      "pos": "adjective",
+      "ko": "자동의"
+    },
+    "notification": {
+      "lemma": "notification",
+      "pos": "noun",
+      "ko": "알림, 통지"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다"
+    },
+    "approve": {
+      "lemma": "approve",
+      "pos": "verb",
+      "ko": "승인하다"
+    },
+    "reject": {
+      "lemma": "reject",
+      "pos": "verb",
+      "ko": "거절하다, 반려하다"
+    },
+    "single": {
+      "lemma": "single",
+      "pos": "adjective",
+      "ko": "단 하나의, 한 번의"
+    },
+    "click": {
+      "lemma": "click",
+      "pos": "noun",
+      "ko": "클릭"
+    },
+    "exceed": {
+      "lemma": "exceed",
+      "pos": "verb",
+      "ko": "초과하다, 넘다"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "여전히, 그래도"
+    },
+    "require": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "필요로 하다, 요구하다"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의, 추가의"
+    },
+    "approval": {
+      "lemma": "approval",
+      "pos": "noun",
+      "ko": "승인"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~처럼, ~하듯이"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들, 그들"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다 (앞 동사 대신)"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금, 현재"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "verb",
+      "ko": "출장 가다, 여행하다"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "하다 (make a purchase: 구매하다)"
+    },
+    "purchases": {
+      "lemma": "purchase",
+      "pos": "noun",
+      "ko": "구매, 구입",
+      "form": "복수형"
+    },
+    "behalf": {
+      "lemma": "behalf",
+      "pos": "noun",
+      "ko": "대신, 대리 (on behalf of: ~을 대표하여)"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (수동태)",
+      "form": "현재형 (복수)"
+    },
+    "required": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "요구되다 (be required to: ~해야 하다)",
+      "form": "과거분사"
+    },
+    "attend": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다"
+    },
+    "one-hour": {
+      "lemma": "one-hour",
+      "pos": "adjective",
+      "ko": "1시간짜리의"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수"
+    },
+    "session": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 회차"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에 / ~ 전에"
+    },
+    "launched": {
+      "lemma": "launch",
+      "pos": "verb",
+      "ko": "시작하다, 도입하다",
+      "form": "과거분사"
+    },
+    "sessions": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 회차",
+      "form": "복수형"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "열다, 개최하다",
+      "form": "과거분사"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에 (in person: 직접)"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "주된, 본관의"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "회의"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실(室)"
+    },
+    "june": {
+      "lemma": "June",
+      "pos": "proper-noun",
+      "ko": "6월"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(~하는) 사람들"
+    },
+    "unable": {
+      "lemma": "unable",
+      "pos": "adjective",
+      "ko": "~할 수 없는"
+    },
+    "person": {
+      "lemma": "person",
+      "pos": "noun",
+      "ko": "사람 (in person: 직접)"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다, ~할 수 있다"
+    },
+    "instead": {
+      "lemma": "instead",
+      "pos": "adverb",
+      "ko": "대신에"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "완료하다, 이수하다"
+    },
+    "tutorial": {
+      "lemma": "tutorial",
+      "pos": "noun",
+      "ko": "사용 지침 강좌, 튜토리얼"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그리고 그것은 (관계대명사)"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "이용 가능한"
+    },
+    "intranet": {
+      "lemma": "intranet",
+      "pos": "noun",
+      "ko": "인트라넷, 사내 전산망"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "~부터 (시작하여)",
+      "form": "현재분사(-ing)"
+    },
+    "paper": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "종이 (paper form: 서면 양식)"
+    },
+    "forms": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": "복수형"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "더 이상 ~않다 (no longer)"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "더 오래 (no longer: 더 이상 ~않다)",
+      "form": "비교급"
+    },
+    "accepted": {
+      "lemma": "accept",
+      "pos": "verb",
+      "ko": "받아들이다, 접수하다",
+      "form": "과거분사"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 이후에"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만, 그러나"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든, 모든"
+    },
+    "submitted": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출된",
+      "form": "과거분사"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜"
+    },
+    "processed": {
+      "lemma": "process",
+      "pos": "verb",
+      "ko": "처리하다",
+      "form": "과거분사"
+    },
+    "according": {
+      "lemma": "according",
+      "pos": "adverb",
+      "ko": "~에 따라 (according to)"
+    },
+    "existing": {
+      "lemma": "existing",
+      "pos": "adjective",
+      "ko": "기존의, 현행의"
+    },
+    "procedure": {
+      "lemma": "procedure",
+      "pos": "noun",
+      "ko": "절차"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 문의",
+      "form": "복수형"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관한"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다"
+    },
+    "directed": {
+      "lemma": "direct",
+      "pos": "verb",
+      "ko": "(문의를) ~에게 보내다",
+      "form": "과거분사"
+    },
+    "marcus": {
+      "lemma": "Marcus",
+      "pos": "proper-noun",
+      "ko": "마커스 (재무부서 직원 이름)"
+    },
+    "bell": {
+      "lemma": "Bell",
+      "pos": "proper-noun",
+      "ko": "벨 (마커스의 성)"
+    }
+  },
   "questions": [
     {
       "id": "q1",

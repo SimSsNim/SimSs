@@ -307,3 +307,14 @@ test('원음 레슨 듣기 탭: 컨트롤과 구간 맞추기', async ({ page })
   await expect(page.getByText(`${G.sentences.length}개 문장 구간 있음`)).toBeVisible();
   await noHScroll(page);
 });
+
+test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 한 번에 내 단어로 추가', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  const gl = (G as { glossary: Record<string, { lemma: string; ko: string }> }).glossary;
+  await page.locator('span', { hasText: /^sitting$/ }).first().click();
+  const dlg = page.getByRole('dialog');
+  await expect(dlg).toContainText(gl['sitting'].ko);
+  await expect(dlg).toContainText(`기본형 ${gl['sitting'].lemma}`);
+  await dlg.getByRole('button', { name: '＋ 내 단어로 추가' }).click();
+  await expect(page.getByText(`'${gl['sitting'].lemma}' 를 내 단어에 추가했어요`)).toBeVisible();
+});

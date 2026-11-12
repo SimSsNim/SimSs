@@ -416,5 +416,450 @@
       },
       "note": "주어가 it, he 같은 대명사면 도치하지 않는다: Down it came."
     }
-  ]
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)"
+    },
+    "crow": {
+      "lemma": "crow",
+      "pos": "noun",
+      "ko": "까마귀"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~하고 있었다 (진행형)",
+      "form": "과거형"
+    },
+    "sitting": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉아 있다",
+      "form": "현재분사(-ing)"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에"
+    },
+    "branch": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가진 채, ~와 함께"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각, 한 덩이"
+    },
+    "cheese": {
+      "lemma": "cheese",
+      "pos": "noun",
+      "ko": "치즈"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀의, 그녀를",
+      "form": "소유격/목적격"
+    },
+    "beak": {
+      "lemma": "beak",
+      "pos": "noun",
+      "ko": "부리"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우"
+    },
+    "observed": {
+      "lemma": "observe",
+      "pos": "verb",
+      "ko": "보다, 목격하다, 관찰하다",
+      "form": "과거형"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(일에) 착수시키다, 두다",
+      "form": "과거형"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격"
+    },
+    "wits": {
+      "lemma": "wit",
+      "pos": "noun",
+      "ko": "꾀, 지혜, 기지",
+      "form": "복수형"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일, 작업 (set to work: 일에 착수시키다)"
+    },
+    "discover": {
+      "lemma": "discover",
+      "pos": "verb",
+      "ko": "찾아내다, 발견하다"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤, 무슨"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방법, 수단"
+    },
+    "getting": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다, 손에 넣다",
+      "form": "동명사(-ing)"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 다가오다",
+      "form": "현재분사(-ing)"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서다, 서 있다",
+      "form": "현재분사(-ing)"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래에"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다 (look up: 올려다보다)",
+      "form": "과거형"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "얼마나 ~한 (감탄), ~하는 것"
+    },
+    "noble": {
+      "lemma": "noble",
+      "pos": "adjective",
+      "ko": "고귀한, 훌륭한"
+    },
+    "bird": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 내가"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 알다"
+    },
+    "above": {
+      "lemma": "above",
+      "pos": "preposition",
+      "ko": "~ 위에"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나",
+      "form": "목적격"
+    },
+    "beauty": {
+      "lemma": "beauty",
+      "pos": "noun",
+      "ko": "아름다움"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하다",
+      "form": "3인칭 단수 현재"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이 (without equal: 비할 데 없는)"
+    },
+    "equal": {
+      "lemma": "equal",
+      "pos": "noun",
+      "ko": "필적하는 것, 대등한 상대"
+    },
+    "hue": {
+      "lemma": "hue",
+      "pos": "noun",
+      "ko": "빛깔, 색조"
+    },
+    "plumage": {
+      "lemma": "plumage",
+      "pos": "noun",
+      "ko": "깃털"
+    },
+    "exquisite": {
+      "lemma": "exquisite",
+      "pos": "adjective",
+      "ko": "아주 아름다운, 정교한"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면 (if only: ~하기만 하면)"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~만, 오직"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "~만큼 (as ~ as: ~만큼 …한)"
+    },
+    "sweet": {
+      "lemma": "sweet",
+      "pos": "adjective",
+      "ko": "고운, 아름다운, 달콤한"
+    },
+    "looks": {
+      "lemma": "look",
+      "pos": "noun",
+      "ko": "외모, 용모",
+      "form": "복수형"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하다",
+      "form": "복수 현재형"
+    },
+    "fair": {
+      "lemma": "fair",
+      "pos": "adjective",
+      "ko": "아름다운, 고운"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀, 그녀는"
+    },
+    "ought": {
+      "lemma": "ought",
+      "pos": "auxiliary",
+      "ko": "마땅히 ~해야 한다 (ought to)"
+    },
+    "doubt": {
+      "lemma": "doubt",
+      "pos": "noun",
+      "ko": "의심 (without doubt: 틀림없이)"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다"
+    },
+    "queen": {
+      "lemma": "queen",
+      "pos": "noun",
+      "ko": "여왕"
+    },
+    "birds": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새들",
+      "form": "복수형"
+    },
+    "hugely": {
+      "lemma": "hugely",
+      "pos": "adverb",
+      "ko": "몹시, 대단히",
+      "form": "부사형"
+    },
+    "flattered": {
+      "lemma": "flatter",
+      "pos": "verb",
+      "ko": "우쭐해진, 아첨을 받은",
+      "form": "과거분사"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 말"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "그저, 단지"
+    },
+    "show": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형"
+    },
+    "sing": {
+      "lemma": "sing",
+      "pos": "verb",
+      "ko": "노래하다"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(소리를) 내다, 주다",
+      "form": "과거형"
+    },
+    "loud": {
+      "lemma": "loud",
+      "pos": "adjective",
+      "ko": "큰, 시끄러운"
+    },
+    "caw": {
+      "lemma": "caw",
+      "pos": "noun",
+      "ko": "까악 (까마귀 울음소리)"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 떨어지다",
+      "form": "과거형"
+    },
+    "course": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "진로 (of course: 물론, 당연히)"
+    },
+    "snatching": {
+      "lemma": "snatch",
+      "pos": "verb",
+      "ko": "잡아채다, 낚아채다",
+      "form": "현재분사(-ing)"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것, 그것을"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다"
+    },
+    "madam": {
+      "lemma": "madam",
+      "pos": "noun",
+      "ko": "부인, 아가씨 (여성 호칭)"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "부족하다, 필요로 하다, 원하다"
+    }
+  }
 }

@@ -352,6 +352,349 @@
       "note": "Part 6는 빈칸 문장만이 아니라 앞뒤 문장에서 시제 단서를 찾아야 한다."
     }
   ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "elevators": {
+      "lemma": "elevator",
+      "pos": "noun",
+      "ko": "엘리베이터",
+      "form": "복수형"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안의, ~에"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "we의 소유격"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태), ~이다"
+    },
+    "inspected": {
+      "lemma": "inspect",
+      "pos": "verb",
+      "ko": "점검하다, 검사하다",
+      "form": "과거분사"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일"
+    },
+    "inspection": {
+      "lemma": "inspection",
+      "pos": "noun",
+      "ko": "점검, 검사"
+    },
+    "begin": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다, 시작되다"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (시각)"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (예상), ~해야 한다"
+    },
+    "finished": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝내다, 완료하다",
+      "form": "과거분사"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)"
+    },
+    "noon": {
+      "lemma": "noon",
+      "pos": "noun",
+      "ko": "정오, 낮 12시"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "작업, 일"
+    },
+    "finishes": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝나다",
+      "form": "3인칭 단수"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "일찍"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리"
+    },
+    "send": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다 (let ~ know: 알리다)"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "여러분, 당신"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "이용하다, 사용하다"
+    },
+    "stairs": {
+      "lemma": "stair",
+      "pos": "noun",
+      "ko": "계단",
+      "form": "복수형"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (위치)"
+    },
+    "east": {
+      "lemma": "east",
+      "pos": "adjective",
+      "ko": "동쪽의"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "쪽, 측면"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의"
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다"
+    },
+    "inconvenient": {
+      "lemma": "inconvenient",
+      "pos": "adjective",
+      "ko": "불편한"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에게"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "pronoun",
+      "ko": "일부 (some of: ~ 중 일부)"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "noun",
+      "ko": "도움"
+    },
+    "carrying": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "운반하다, 나르다",
+      "form": "현재분사(-ing)"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "무거운"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물건, 물품",
+      "form": "복수형"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "adjective",
+      "ko": "앞쪽의 (front desk: 안내 데스크)"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 접수처"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다 (thank you: 감사합니다)"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "여러분의, 당신의",
+      "form": "you의 소유격"
+    },
+    "patience": {
+      "lemma": "patience",
+      "pos": "noun",
+      "ko": "인내, 양해"
+    },
+    "cooperation": {
+      "lemma": "cooperation",
+      "pos": "noun",
+      "ko": "협조, 협력"
+    },
+    "facilities": {
+      "lemma": "facility",
+      "pos": "noun",
+      "ko": "시설",
+      "form": "복수형"
+    },
+    "management": {
+      "lemma": "management",
+      "pos": "noun",
+      "ko": "관리"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀"
+    }
+  },
   "questions": [
     {
       "id": "q1",

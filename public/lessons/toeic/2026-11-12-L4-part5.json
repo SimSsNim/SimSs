@@ -376,6 +376,673 @@
       "note": "managers에 속지 말고 Each에 동사를 맞춘다."
     }
   ],
+  "glossary": {
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, ~해서야 비로소"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "conjunction",
+      "ko": "~한 후에"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "contract": {
+      "lemma": "contract",
+      "pos": "noun",
+      "ko": "계약, 계약서"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했었다 (과거완료)",
+      "form": "과거형"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태 표시)",
+      "form": "과거분사"
+    },
+    "signed": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "서명된",
+      "form": "과거분사"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(도치 구문 조동사, 과거)",
+      "form": "과거형"
+    },
+    "client": {
+      "lemma": "client",
+      "pos": "noun",
+      "ko": "고객, 의뢰인"
+    },
+    "request": {
+      "lemma": "request",
+      "pos": "verb",
+      "ko": "요청하다"
+    },
+    "additional": {
+      "lemma": "additional",
+      "pos": "adjective",
+      "ko": "추가의"
+    },
+    "changes": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변경 사항",
+      "form": "복수형"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에 (대한), ~에게"
+    },
+    "interior": {
+      "lemma": "interior",
+      "pos": "adjective",
+      "ko": "실내의, 인테리어의"
+    },
+    "design": {
+      "lemma": "design",
+      "pos": "noun",
+      "ko": "디자인, 설계"
+    },
+    "whoever": {
+      "lemma": "whoever",
+      "pos": "pronoun",
+      "ko": "~하는 사람은 누구든지"
+    },
+    "submits": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": "3인칭 단수"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급 표시)"
+    },
+    "innovative": {
+      "lemma": "innovative",
+      "pos": "adjective",
+      "ko": "혁신적인"
+    },
+    "proposal": {
+      "lemma": "proposal",
+      "pos": "noun",
+      "ko": "제안, 제안서"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "cash": {
+      "lemma": "cash",
+      "pos": "noun",
+      "ko": "현금"
+    },
+    "bonus": {
+      "lemma": "bonus",
+      "pos": "noun",
+      "ko": "상여금, 보너스"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "invitation": {
+      "lemma": "invitation",
+      "pos": "noun",
+      "ko": "초대, 초청"
+    },
+    "annual": {
+      "lemma": "annual",
+      "pos": "adjective",
+      "ko": "연례의, 매년의"
+    },
+    "leadership": {
+      "lemma": "leadership",
+      "pos": "noun",
+      "ko": "리더십, 지도부"
+    },
+    "retreat": {
+      "lemma": "retreat",
+      "pos": "noun",
+      "ko": "수련회, 워크숍"
+    },
+    "proposed": {
+      "lemma": "propose",
+      "pos": "verb",
+      "ko": "제안된",
+      "form": "과거분사"
+    },
+    "merger": {
+      "lemma": "merger",
+      "pos": "noun",
+      "ko": "합병"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되었다 (수동태 표시)",
+      "form": "be의 과거형"
+    },
+    "approved": {
+      "lemma": "approve",
+      "pos": "verb",
+      "ko": "승인된",
+      "form": "과거분사"
+    },
+    "unanimously": {
+      "lemma": "unanimously",
+      "pos": "adverb",
+      "ko": "만장일치로"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~까지"
+    },
+    "board": {
+      "lemma": "board",
+      "pos": "noun",
+      "ko": "이사회 (board of directors)"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 대한"
+    },
+    "directors": {
+      "lemma": "director",
+      "pos": "noun",
+      "ko": "이사, 임원",
+      "form": "복수형"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서"
+    },
+    "tuesday's": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일의",
+      "form": "소유격"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "Ms.의 마침표 생략"
+    },
+    "kwon's": {
+      "lemma": "Kwon",
+      "pos": "proper-noun",
+      "ko": "권 씨의 (성)",
+      "form": "소유격"
+    },
+    "thorough": {
+      "lemma": "thorough",
+      "pos": "adjective",
+      "ko": "철저한, 꼼꼼한"
+    },
+    "analysis": {
+      "lemma": "analysis",
+      "pos": "noun",
+      "ko": "분석"
+    },
+    "regional": {
+      "lemma": "regional",
+      "pos": "adjective",
+      "ko": "지역의, 지역별"
+    },
+    "market": {
+      "lemma": "market",
+      "pos": "noun",
+      "ko": "시장"
+    },
+    "trends": {
+      "lemma": "trend",
+      "pos": "noun",
+      "ko": "동향, 추세",
+      "form": "복수형"
+    },
+    "proved": {
+      "lemma": "prove",
+      "pos": "verb",
+      "ko": "~임이 드러났다, 판명되다",
+      "form": "과거형"
+    },
+    "instrumental": {
+      "lemma": "instrumental",
+      "pos": "adjective",
+      "ko": "중요한 역할을 한, 도움이 된"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~하는 데 있어, ~에"
+    },
+    "securing": {
+      "lemma": "secure",
+      "pos": "verb",
+      "ko": "확보하다, 따내다",
+      "form": "현재분사(-ing)"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "account": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "고객, 거래처"
+    },
+    "despite": {
+      "lemma": "despite",
+      "pos": "preposition",
+      "ko": "~에도 불구하고"
+    },
+    "rising": {
+      "lemma": "rise",
+      "pos": "verb",
+      "ko": "상승하는, 오르는",
+      "form": "현재분사(-ing)"
+    },
+    "material": {
+      "lemma": "material",
+      "pos": "noun",
+      "ko": "자재, 재료"
+    },
+    "costs": {
+      "lemma": "cost",
+      "pos": "noun",
+      "ko": "비용",
+      "form": "복수형"
+    },
+    "delmont": {
+      "lemma": "Delmont",
+      "pos": "proper-noun",
+      "ko": "델몬트(물류 회사명)"
+    },
+    "logistics": {
+      "lemma": "logistics",
+      "pos": "noun",
+      "ko": "물류"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~해 왔다 (현재완료)",
+      "form": "3인칭 단수"
+    },
+    "remained": {
+      "lemma": "remain",
+      "pos": "verb",
+      "ko": "계속 ~하다, 유지하다",
+      "form": "과거분사"
+    },
+    "financially": {
+      "lemma": "financially",
+      "pos": "adverb",
+      "ko": "재정적으로",
+      "form": "부사형"
+    },
+    "stable": {
+      "lemma": "stable",
+      "pos": "adjective",
+      "ko": "안정적인"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안, ~을 위해"
+    },
+    "past": {
+      "lemma": "past",
+      "pos": "adjective",
+      "ko": "지난, 과거의"
+    },
+    "decade": {
+      "lemma": "decade",
+      "pos": "noun",
+      "ko": "10년"
+    },
+    "keynote": {
+      "lemma": "keynote",
+      "pos": "noun",
+      "ko": "기조 (keynote speech: 기조연설)"
+    },
+    "speech": {
+      "lemma": "speech",
+      "pos": "noun",
+      "ko": "연설"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "매우 (so ~ that: 너무 ~해서)"
+    },
+    "compelling": {
+      "lemma": "compelling",
+      "pos": "adjective",
+      "ko": "설득력 있는, 강렬한"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) ~할 정도로"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은"
+    },
+    "attendees": {
+      "lemma": "attendee",
+      "pos": "noun",
+      "ko": "참석자",
+      "form": "복수형"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "요청했다",
+      "form": "과거형"
+    },
+    "speaker": {
+      "lemma": "speaker",
+      "pos": "noun",
+      "ko": "연사, 발표자"
+    },
+    "copy": {
+      "lemma": "copy",
+      "pos": "noun",
+      "ko": "사본, 복사본"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의",
+      "form": "소유격"
+    },
+    "slides": {
+      "lemma": "slide",
+      "pos": "noun",
+      "ko": "슬라이드, 발표 자료",
+      "form": "복수형"
+    },
+    "provided": {
+      "lemma": "provided that",
+      "pos": "conjunction",
+      "ko": "(provided that) ~라면, ~을 조건으로"
+    },
+    "shipment": {
+      "lemma": "shipment",
+      "pos": "noun",
+      "ko": "배송품, 화물"
+    },
+    "clears": {
+      "lemma": "clear",
+      "pos": "verb",
+      "ko": "(세관을) 통과하다",
+      "form": "3인칭 단수"
+    },
+    "customs": {
+      "lemma": "customs",
+      "pos": "noun",
+      "ko": "세관"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일"
+    },
+    "products": {
+      "lemma": "product",
+      "pos": "noun",
+      "ko": "제품",
+      "form": "복수형"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~에 있다, ~이다"
+    },
+    "stores": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "매장, 상점",
+      "form": "복수형"
+    },
+    "middle": {
+      "lemma": "middle",
+      "pos": "noun",
+      "ko": "중간, 중순"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주"
+    },
+    "notwithstanding": {
+      "lemma": "notwithstanding",
+      "pos": "preposition",
+      "ko": "~에도 불구하고"
+    },
+    "delays": {
+      "lemma": "delay",
+      "pos": "noun",
+      "ko": "지연",
+      "form": "복수형"
+    },
+    "production": {
+      "lemma": "production",
+      "pos": "noun",
+      "ko": "생산"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사"
+    },
+    "met": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "(목표를) 달성했다",
+      "form": "과거형"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": "소유격"
+    },
+    "sales": {
+      "lemma": "sale",
+      "pos": "noun",
+      "ko": "매출, 판매",
+      "form": "복수형"
+    },
+    "target": {
+      "lemma": "target",
+      "pos": "noun",
+      "ko": "목표"
+    },
+    "third": {
+      "lemma": "third",
+      "pos": "number",
+      "ko": "세 번째의"
+    },
+    "consecutive": {
+      "lemma": "consecutive",
+      "pos": "adjective",
+      "ko": "연속적인, 연이은"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각각, 각자"
+    },
+    "managers": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": "복수형"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (수동태 표시)",
+      "form": "be의 3인칭 단수 현재"
+    },
+    "required": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "요구되다, ~해야 하다",
+      "form": "과거분사"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다"
+    },
+    "quarterly": {
+      "lemma": "quarterly",
+      "pos": "adjective",
+      "ko": "분기별의"
+    },
+    "performance": {
+      "lemma": "performance",
+      "pos": "noun",
+      "ko": "실적, 성과"
+    },
+    "report": {
+      "lemma": "report",
+      "pos": "noun",
+      "ko": "보고서"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "adjective",
+      "ko": "본부의 (head office: 본사)"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무소 (head office: 본사)"
+    },
+    "revised": {
+      "lemma": "revise",
+      "pos": "verb",
+      "ko": "개정된, 수정된",
+      "form": "과거분사"
+    },
+    "policy": {
+      "lemma": "policy",
+      "pos": "noun",
+      "ko": "정책, 방침"
+    },
+    "takes": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take effect) 시행되다",
+      "form": "3인칭 단수"
+    },
+    "effect": {
+      "lemma": "effect",
+      "pos": "noun",
+      "ko": "효력, 효과"
+    },
+    "immediately": {
+      "lemma": "immediately",
+      "pos": "adverb",
+      "ko": "즉시"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "earlier": {
+      "lemma": "earlier",
+      "pos": "adjective",
+      "ko": "이전의, 앞선",
+      "form": "early의 비교급"
+    },
+    "versions": {
+      "lemma": "version",
+      "pos": "noun",
+      "ko": "판, 버전",
+      "form": "복수형"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금"
+    },
+    "considered": {
+      "lemma": "consider",
+      "pos": "verb",
+      "ko": "~로 간주되다, 여겨지다",
+      "form": "과거분사"
+    },
+    "obsolete": {
+      "lemma": "obsolete",
+      "pos": "adjective",
+      "ko": "더 이상 쓰이지 않는, 구식의"
+    }
+  },
   "questions": [
     {
       "id": "q1",

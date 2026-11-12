@@ -420,5 +420,862 @@
       },
       "note": null
     }
-  ]
+  ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "lisa": {
+      "lemma": "LISA",
+      "pos": "proper-noun",
+      "ko": "리사(레이저 간섭계 우주 안테나)"
+    },
+    "laser": {
+      "lemma": "laser",
+      "pos": "noun",
+      "ko": "레이저"
+    },
+    "interferometer": {
+      "lemma": "interferometer",
+      "pos": "noun",
+      "ko": "간섭계"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "우주, 공간"
+    },
+    "antenna": {
+      "lemma": "antenna",
+      "pos": "noun",
+      "ko": "안테나"
+    },
+    "observatory": {
+      "lemma": "observatory",
+      "pos": "noun",
+      "ko": "관측소, 관측 장비"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "현재, 이제"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~(상태)에, ~ 중인"
+    },
+    "development": {
+      "lemma": "development",
+      "pos": "noun",
+      "ko": "개발"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "detect": {
+      "lemma": "detect",
+      "pos": "verb",
+      "ko": "감지하다, 탐지하다"
+    },
+    "gravitational": {
+      "lemma": "gravitational",
+      "pos": "adjective",
+      "ko": "중력의"
+    },
+    "waves": {
+      "lemma": "wave",
+      "pos": "noun",
+      "ko": "파동, 파",
+      "form": "복수형"
+    },
+    "tiny": {
+      "lemma": "tiny",
+      "pos": "adjective",
+      "ko": "아주 작은, 미세한"
+    },
+    "ripples": {
+      "lemma": "ripple",
+      "pos": "noun",
+      "ko": "잔물결, 파문",
+      "form": "복수형"
+    },
+    "space-time": {
+      "lemma": "space-time",
+      "pos": "noun",
+      "ko": "시공간"
+    },
+    "caused": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "일으키다, 야기하다",
+      "form": "과거분사"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해"
+    },
+    "orbiting": {
+      "lemma": "orbit",
+      "pos": "verb",
+      "ko": "궤도를 돌다, 공전하다",
+      "form": "현재분사(-ing)"
+    },
+    "masses": {
+      "lemma": "mass",
+      "pos": "noun",
+      "ko": "질량체, 천체",
+      "form": "복수형"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두 개의"
+    },
+    "studies": {
+      "lemma": "study",
+      "pos": "noun",
+      "ko": "연구",
+      "form": "복수형"
+    },
+    "led": {
+      "lemma": "lead",
+      "pos": "verb",
+      "ko": "이끌다, 주도하다",
+      "form": "과거분사"
+    },
+    "nasa": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "나사(미국 항공우주국)"
+    },
+    "astrophysicists": {
+      "lemma": "astrophysicist",
+      "pos": "noun",
+      "ko": "천체물리학자",
+      "form": "복수형"
+    },
+    "show": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "detail": {
+      "lemma": "detail",
+      "pos": "noun",
+      "ko": "세부 사항, 상세함"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게, ~하는 방법"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있을 것이다",
+      "form": "can의 과거형"
+    },
+    "reveal": {
+      "lemma": "reveal",
+      "pos": "verb",
+      "ko": "드러내다, 밝히다"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "unique": {
+      "lemma": "unique",
+      "pos": "adjective",
+      "ko": "독특한, 고유한"
+    },
+    "population": {
+      "lemma": "population",
+      "pos": "noun",
+      "ko": "집단, 개체군"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의"
+    },
+    "exoplanets": {
+      "lemma": "exoplanet",
+      "pos": "noun",
+      "ko": "외계 행성",
+      "form": "복수형"
+    },
+    "worlds": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세계, 행성",
+      "form": "복수형"
+    },
+    "beyond": {
+      "lemma": "beyond",
+      "pos": "preposition",
+      "ko": "~ 너머의, ~ 밖의"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "we의 소유격"
+    },
+    "solar": {
+      "lemma": "solar",
+      "pos": "adjective",
+      "ko": "태양의"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "계, 체계 (solar system: 태양계)"
+    },
+    "throughout": {
+      "lemma": "throughout",
+      "pos": "preposition",
+      "ko": "~ 전역에 걸쳐"
+    },
+    "galaxy": {
+      "lemma": "galaxy",
+      "pos": "noun",
+      "ko": "은하, 은하계"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장",
+      "form": "최상급"
+    },
+    "common": {
+      "lemma": "common",
+      "pos": "adjective",
+      "ko": "흔한, 일반적인"
+    },
+    "source": {
+      "lemma": "source",
+      "pos": "noun",
+      "ko": "원천, (신호) 발생원"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에게, ~을 위한"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재"
+    },
+    "expected": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다, 기대하다",
+      "form": "과거분사"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것 (to부정사 표시)"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다"
+    },
+    "double": {
+      "lemma": "double",
+      "pos": "adjective",
+      "ko": "이중의, 쌍(雙)의"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "흰 (white dwarf: 백색왜성)"
+    },
+    "dwarf": {
+      "lemma": "dwarf",
+      "pos": "noun",
+      "ko": "왜성 (작은 별)"
+    },
+    "systems": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "계, 체계",
+      "form": "복수형"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "~인 것 (관계대명사)"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재형"
+    },
+    "binaries": {
+      "lemma": "binary",
+      "pos": "noun",
+      "ko": "쌍성, 이중성",
+      "form": "복수형"
+    },
+    "composed": {
+      "lemma": "compose",
+      "pos": "verb",
+      "ko": "구성하다 (composed of: ~로 구성된)",
+      "form": "과거분사"
+    },
+    "dwarfs": {
+      "lemma": "dwarf",
+      "pos": "noun",
+      "ko": "왜성 (작은 별)",
+      "form": "복수형"
+    },
+    "tight": {
+      "lemma": "tight",
+      "pos": "adjective",
+      "ko": "촘촘한, 가까운"
+    },
+    "orbits": {
+      "lemma": "orbit",
+      "pos": "noun",
+      "ko": "궤도",
+      "form": "복수형"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형"
+    },
+    "casey": {
+      "lemma": "Casey",
+      "pos": "proper-noun",
+      "ko": "케이시(사람 이름)"
+    },
+    "mcgrath": {
+      "lemma": "McGrath",
+      "pos": "proper-noun",
+      "ko": "맥그래스(연구자 성)"
+    },
+    "postdoctoral": {
+      "lemma": "postdoctoral",
+      "pos": "adjective",
+      "ko": "박사 후 과정의"
+    },
+    "researcher": {
+      "lemma": "researcher",
+      "pos": "noun",
+      "ko": "연구원, 연구자"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서, ~ 소속의"
+    },
+    "university": {
+      "lemma": "university",
+      "pos": "noun",
+      "ko": "대학교"
+    },
+    "maryland": {
+      "lemma": "Maryland",
+      "pos": "proper-noun",
+      "ko": "메릴랜드(미국의 주)"
+    },
+    "baltimore": {
+      "lemma": "Baltimore",
+      "pos": "proper-noun",
+      "ko": "볼티모어(메릴랜드주 도시)"
+    },
+    "county": {
+      "lemma": "county",
+      "pos": "noun",
+      "ko": "카운티, 군(郡)"
+    },
+    "nasa's": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "나사(미국 항공우주국)의",
+      "form": "소유격"
+    },
+    "goddard": {
+      "lemma": "Goddard",
+      "pos": "proper-noun",
+      "ko": "고다드(NASA 우주비행센터 이름)"
+    },
+    "flight": {
+      "lemma": "flight",
+      "pos": "noun",
+      "ko": "비행"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터, 중심"
+    },
+    "greenbelt": {
+      "lemma": "Greenbelt",
+      "pos": "proper-noun",
+      "ko": "그린벨트(메릴랜드주 도시)"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)"
+    },
+    "exoplanet": {
+      "lemma": "exoplanet",
+      "pos": "noun",
+      "ko": "외계 행성"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한, 역시"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 안에서, ~ 내에"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나 (one of: ~ 중 하나)"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이(것)들의",
+      "form": "this의 복수형"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": "it의 소유격"
+    },
+    "presence": {
+      "lemma": "presence",
+      "pos": "noun",
+      "ko": "존재"
+    },
+    "becomes": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": "3인칭 단수"
+    },
+    "imprinted": {
+      "lemma": "imprint",
+      "pos": "verb",
+      "ko": "새기다, 각인하다",
+      "form": "과거분사"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~ 위에"
+    },
+    "wave": {
+      "lemma": "wave",
+      "pos": "noun",
+      "ko": "파동, 파"
+    },
+    "signal": {
+      "lemma": "signal",
+      "pos": "noun",
+      "ko": "신호"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방식, 방법"
+    },
+    "we'll": {
+      "lemma": "we will",
+      "pos": "phrase",
+      "ko": "우리는 ~할 것이다",
+      "form": "we will의 줄임말"
+    },
+    "able": {
+      "lemma": "able",
+      "pos": "adjective",
+      "ko": "~할 수 있는 (be able to)"
+    },
+    "uncover": {
+      "lemma": "uncover",
+      "pos": "verb",
+      "ko": "알아내다, 밝혀내다"
+    },
+    "papers": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "논문",
+      "form": "복수형"
+    },
+    "published": {
+      "lemma": "publish",
+      "pos": "verb",
+      "ko": "게재하다, 발표하다",
+      "form": "과거분사"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일"
+    },
+    "astrophysical": {
+      "lemma": "astrophysical",
+      "pos": "adjective",
+      "ko": "천체물리학의"
+    },
+    "journal": {
+      "lemma": "journal",
+      "pos": "noun",
+      "ko": "학술지, 저널"
+    },
+    "findings": {
+      "lemma": "finding",
+      "pos": "noun",
+      "ko": "연구 결과, 발견",
+      "form": "복수형"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째(것)"
+    },
+    "authored": {
+      "lemma": "author",
+      "pos": "verb",
+      "ko": "저술하다, 쓰다",
+      "form": "과거분사"
+    },
+    "solely": {
+      "lemma": "solely",
+      "pos": "adverb",
+      "ko": "단독으로, 오로지"
+    },
+    "examines": {
+      "lemma": "examine",
+      "pos": "verb",
+      "ko": "검토하다, 조사하다",
+      "form": "3인칭 단수"
+    },
+    "detection": {
+      "lemma": "detection",
+      "pos": "noun",
+      "ko": "탐지, 감지"
+    },
+    "method": {
+      "lemma": "method",
+      "pos": "noun",
+      "ko": "방법"
+    },
+    "determines": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "알아내다, 결정하다",
+      "form": "3인칭 단수"
+    },
+    "planet": {
+      "lemma": "planet",
+      "pos": "noun",
+      "ko": "행성"
+    },
+    "orbital": {
+      "lemma": "orbital",
+      "pos": "adjective",
+      "ko": "궤도의 (orbital period: 공전 주기)"
+    },
+    "periods": {
+      "lemma": "period",
+      "pos": "noun",
+      "ko": "주기, 기간",
+      "form": "복수형"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "~하는 곳/경우 (관계부사)"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (가정·추측)",
+      "form": "will의 과거형"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "효과가 있다, 작동하다"
+    },
+    "best": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "가장 잘",
+      "form": "well의 최상급"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의"
+    },
+    "paper": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "논문"
+    },
+    "coauthors": {
+      "lemma": "coauthor",
+      "pos": "noun",
+      "ko": "공동 저자",
+      "form": "복수형"
+    },
+    "investigates": {
+      "lemma": "investigate",
+      "pos": "verb",
+      "ko": "조사하다, 연구하다",
+      "form": "3인칭 단수"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그러한, 그런"
+    },
+    "planets": {
+      "lemma": "planet",
+      "pos": "noun",
+      "ko": "행성",
+      "form": "복수형"
+    },
+    "confirmed": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인하다, 입증하다",
+      "form": "과거분사"
+    },
+    "using": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다, 이용하다",
+      "form": "현재분사(-ing)"
+    },
+    "james": {
+      "lemma": "James",
+      "pos": "proper-noun",
+      "ko": "제임스(망원경 이름의 일부)"
+    },
+    "webb": {
+      "lemma": "Webb",
+      "pos": "proper-noun",
+      "ko": "웹(제임스 웹 우주망원경)"
+    },
+    "telescope": {
+      "lemma": "telescope",
+      "pos": "noun",
+      "ko": "망원경"
+    },
+    "possibility": {
+      "lemma": "possibility",
+      "pos": "noun",
+      "ko": "가능성"
+    },
+    "detecting": {
+      "lemma": "detect",
+      "pos": "verb",
+      "ko": "탐지하다, 감지하다",
+      "form": "동명사(-ing)"
+    },
+    "around": {
+      "lemma": "around",
+      "pos": "preposition",
+      "ko": "~ 주위에, ~ 주변의"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다 (수동태: ~되었다)",
+      "form": "과거형"
+    },
+    "proposed": {
+      "lemma": "propose",
+      "pos": "verb",
+      "ko": "제안하다",
+      "form": "과거분사"
+    },
+    "japanese": {
+      "lemma": "Japanese",
+      "pos": "adjective",
+      "ko": "일본의, 일본인의"
+    },
+    "astronomer": {
+      "lemma": "astronomer",
+      "pos": "noun",
+      "ko": "천문학자"
+    },
+    "naoki": {
+      "lemma": "Naoki",
+      "pos": "proper-noun",
+      "ko": "나오키(일본인 이름)"
+    },
+    "seto": {
+      "lemma": "Seto",
+      "pos": "proper-noun",
+      "ko": "세토(일본인 천문학자 성)"
+    },
+    "esa": {
+      "lemma": "ESA",
+      "pos": "proper-noun",
+      "ko": "유럽우주국"
+    },
+    "european": {
+      "lemma": "European",
+      "pos": "adjective",
+      "ko": "유럽의"
+    },
+    "agency": {
+      "lemma": "agency",
+      "pos": "noun",
+      "ko": "기관, 국(局)"
+    },
+    "mission": {
+      "lemma": "mission",
+      "pos": "noun",
+      "ko": "임무, (우주) 탐사 계획"
+    },
+    "slated": {
+      "lemma": "slate",
+      "pos": "verb",
+      "ko": "예정하다 (be slated for: ~로 예정되다)",
+      "form": "과거분사"
+    },
+    "launch": {
+      "lemma": "launch",
+      "pos": "noun",
+      "ko": "발사"
+    },
+    "mid-2030s": {
+      "lemma": "mid-2030s",
+      "pos": "noun",
+      "ko": "2030년대 중반"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~로서"
+    },
+    "collaborative": {
+      "lemma": "collaborative",
+      "pos": "adjective",
+      "ko": "협력하는, 공동의"
+    },
+    "partner": {
+      "lemma": "partner",
+      "pos": "noun",
+      "ko": "파트너, 협력자"
+    },
+    "contributing": {
+      "lemma": "contribute",
+      "pos": "verb",
+      "ko": "제공하다, 기여하다",
+      "form": "현재분사(-ing)"
+    },
+    "telescopes": {
+      "lemma": "telescope",
+      "pos": "noun",
+      "ko": "망원경",
+      "form": "복수형"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른, 그 밖의"
+    },
+    "critical": {
+      "lemma": "critical",
+      "pos": "adjective",
+      "ko": "핵심적인, 중요한"
+    },
+    "hardware": {
+      "lemma": "hardware",
+      "pos": "noun",
+      "ko": "하드웨어, 장비"
+    },
+    "engineering": {
+      "lemma": "engineering",
+      "pos": "noun",
+      "ko": "공학, 엔지니어링"
+    },
+    "scientific": {
+      "lemma": "scientific",
+      "pos": "adjective",
+      "ko": "과학적인, 과학의"
+    },
+    "support": {
+      "lemma": "support",
+      "pos": "noun",
+      "ko": "지원"
+    },
+    "part": {
+      "lemma": "part",
+      "pos": "noun",
+      "ko": "일부 (as part of: ~의 일환으로)"
+    },
+    "better": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "더 잘",
+      "form": "well의 비교급"
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다"
+    },
+    "universe": {
+      "lemma": "universe",
+      "pos": "noun",
+      "ko": "우주"
+    },
+    "works": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "작동하다, 돌아가다",
+      "form": "3인칭 단수"
+    }
+  }
 }

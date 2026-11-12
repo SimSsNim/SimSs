@@ -376,6 +376,597 @@
       "note": "명사 + ------- + by ~ 구조면 과거분사."
     }
   ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "marketing": {
+      "lemma": "marketing",
+      "pos": "noun",
+      "ko": "마케팅"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀"
+    },
+    "prepared": {
+      "lemma": "prepare",
+      "pos": "verb",
+      "ko": "준비하다, 작성하다",
+      "form": "과거형"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "remarkably": {
+      "lemma": "remarkably",
+      "pos": "adverb",
+      "ko": "놀라울 정도로, 매우",
+      "form": "부사형"
+    },
+    "detailed": {
+      "lemma": "detailed",
+      "pos": "adjective",
+      "ko": "상세한, 자세한"
+    },
+    "proposal": {
+      "lemma": "proposal",
+      "pos": "noun",
+      "ko": "제안서, 제안"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~을 받기 위해"
+    },
+    "upcoming": {
+      "lemma": "upcoming",
+      "pos": "adjective",
+      "ko": "다가오는, 곧 있을"
+    },
+    "product": {
+      "lemma": "product",
+      "pos": "noun",
+      "ko": "제품, 상품"
+    },
+    "launch": {
+      "lemma": "launch",
+      "pos": "noun",
+      "ko": "출시, 개시"
+    },
+    "having": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(완료 분사구문) ~하고 나서",
+      "form": "현재분사(-ing)"
+    },
+    "reviewed": {
+      "lemma": "review",
+      "pos": "verb",
+      "ko": "검토하다",
+      "form": "과거분사"
+    },
+    "budget": {
+      "lemma": "budget",
+      "pos": "noun",
+      "ko": "예산"
+    },
+    "figures": {
+      "lemma": "figure",
+      "pos": "noun",
+      "ko": "수치, 숫자",
+      "form": "복수형"
+    },
+    "finance": {
+      "lemma": "finance",
+      "pos": "noun",
+      "ko": "재무, 재정"
+    },
+    "director": {
+      "lemma": "director",
+      "pos": "noun",
+      "ko": "이사, 책임자"
+    },
+    "approved": {
+      "lemma": "approve",
+      "pos": "verb",
+      "ko": "승인하다",
+      "form": "과거형"
+    },
+    "purchase": {
+      "lemma": "purchase",
+      "pos": "noun",
+      "ko": "구매, 구입품"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 대한"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "laptops": {
+      "lemma": "laptop",
+      "pos": "noun",
+      "ko": "노트북 컴퓨터",
+      "form": "복수형"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "visitors": {
+      "lemma": "visitor",
+      "pos": "noun",
+      "ko": "방문객",
+      "form": "복수형"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다"
+    },
+    "present": {
+      "lemma": "present",
+      "pos": "verb",
+      "ko": "제시하다, 보여 주다"
+    },
+    "valid": {
+      "lemma": "valid",
+      "pos": "adjective",
+      "ko": "유효한"
+    },
+    "identification": {
+      "lemma": "identification",
+      "pos": "noun",
+      "ko": "신분증, 신원 확인"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서"
+    },
+    "reception": {
+      "lemma": "reception",
+      "pos": "noun",
+      "ko": "접수처, 안내 (reception desk)"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 창구"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~하자마자, ~ 시에"
+    },
+    "arrival": {
+      "lemma": "arrival",
+      "pos": "noun",
+      "ko": "도착"
+    },
+    "although": {
+      "lemma": "although",
+      "pos": "conjunction",
+      "ko": "비록 ~이지만"
+    },
+    "shipment": {
+      "lemma": "shipment",
+      "pos": "noun",
+      "ko": "배송품, 화물"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "떠나다, 출발하다",
+      "form": "과거형"
+    },
+    "warehouse": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on time) 제시간에"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간 (on time: 제시간에)"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (배송품/구매품)"
+    },
+    "arrived": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": "과거형"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형"
+    },
+    "late": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "늦게"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에 (because of: ~로 인해)"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "(눈·비가) 많은, 심한"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~였다면"
+    },
+    "renovation": {
+      "lemma": "renovation",
+      "pos": "noun",
+      "ko": "보수, 개조 공사"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": "과거분사"
+    },
+    "completed": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "완료하다, 끝마치다",
+      "form": "과거분사"
+    },
+    "earlier": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "더 일찍",
+      "form": "비교급"
+    },
+    "restaurant": {
+      "lemma": "restaurant",
+      "pos": "noun",
+      "ko": "식당, 레스토랑"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "~했을 것이다 (가정법)",
+      "form": "will의 과거형"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(would have p.p.) ~했을 것이다"
+    },
+    "reopened": {
+      "lemma": "reopen",
+      "pos": "verb",
+      "ko": "다시 문을 열다, 재개장하다",
+      "form": "과거분사"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에"
+    },
+    "holiday": {
+      "lemma": "holiday",
+      "pos": "noun",
+      "ko": "휴일, 연휴"
+    },
+    "season": {
+      "lemma": "season",
+      "pos": "noun",
+      "ko": "시즌, 시기"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨, ~님 (여성 경칭)",
+      "form": "줄임말"
+    },
+    "patel": {
+      "lemma": "Patel",
+      "pos": "proper-noun",
+      "ko": "파텔 (사람 성)"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "요청하다, 부탁하다",
+      "form": "과거분사"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하도록, ~하는 것 (to부정사 표시)"
+    },
+    "oversee": {
+      "lemma": "oversee",
+      "pos": "verb",
+      "ko": "감독하다, 관리하다"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 훈련"
+    },
+    "newly": {
+      "lemma": "newly",
+      "pos": "adverb",
+      "ko": "새로, 최근에",
+      "form": "부사형"
+    },
+    "hired": {
+      "lemma": "hire",
+      "pos": "verb",
+      "ko": "고용하다, 채용하다",
+      "form": "과거분사"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (수동태)",
+      "form": "현재형 (복수)"
+    },
+    "dissatisfied": {
+      "lemma": "dissatisfied",
+      "pos": "adjective",
+      "ko": "불만족한"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~에 (대해)"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": "they의 소유격"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다, ~할 수 있다"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "반품하다, 돌려주다"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "전액의, 완전한"
+    },
+    "refund": {
+      "lemma": "refund",
+      "pos": "noun",
+      "ko": "환불"
+    },
+    "report": {
+      "lemma": "report",
+      "pos": "noun",
+      "ko": "보고서"
+    },
+    "submitted": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": "과거분사"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해"
+    },
+    "audit": {
+      "lemma": "audit",
+      "pos": "noun",
+      "ko": "회계 감사"
+    },
+    "revealed": {
+      "lemma": "reveal",
+      "pos": "verb",
+      "ko": "밝히다, 드러내다",
+      "form": "과거형"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "몇몇의, 여러"
+    },
+    "errors": {
+      "lemma": "error",
+      "pos": "noun",
+      "ko": "오류, 실수",
+      "form": "복수형"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난"
+    },
+    "year's": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "(지난) 해의",
+      "form": "소유격"
+    },
+    "accounts": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "회계 장부, 결산",
+      "form": "복수형"
+    },
+    "construction": {
+      "lemma": "construction",
+      "pos": "noun",
+      "ko": "건설, 공사"
+    },
+    "parking": {
+      "lemma": "parking",
+      "pos": "noun",
+      "ko": "주차"
+    },
+    "garage": {
+      "lemma": "garage",
+      "pos": "noun",
+      "ko": "차고 (parking garage: 주차장 건물)"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": "3인칭 단수 현재"
+    },
+    "expected": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다 (be expected to: ~할 예정이다)",
+      "form": "과거분사"
+    },
+    "continue": {
+      "lemma": "continue",
+      "pos": "verb",
+      "ko": "계속되다"
+    },
+    "throughout": {
+      "lemma": "throughout",
+      "pos": "preposition",
+      "ko": "~ 내내"
+    },
+    "summer": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, ~해 주세요"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make sure) 확실히 하다"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확실한 (make sure: 반드시 ~하다)"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)"
+    },
+    "confidential": {
+      "lemma": "confidential",
+      "pos": "adjective",
+      "ko": "기밀의, 비밀의"
+    },
+    "documents": {
+      "lemma": "document",
+      "pos": "noun",
+      "ko": "문서, 서류",
+      "form": "복수형"
+    },
+    "stored": {
+      "lemma": "store",
+      "pos": "verb",
+      "ko": "보관하다, 저장하다",
+      "form": "과거분사"
+    },
+    "locked": {
+      "lemma": "locked",
+      "pos": "adjective",
+      "ko": "잠긴"
+    },
+    "cabinet": {
+      "lemma": "cabinet",
+      "pos": "noun",
+      "ko": "보관함, 캐비닛"
+    }
+  },
   "questions": [
     {
       "id": "q1",

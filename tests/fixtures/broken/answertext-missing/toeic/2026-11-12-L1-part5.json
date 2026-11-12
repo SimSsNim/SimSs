@@ -390,6 +390,450 @@
       "note": "사물이면 which, 소유면 whose."
     }
   ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운, 새"
+    },
+    "coffee": {
+      "lemma": "coffee",
+      "pos": "noun",
+      "ko": "커피"
+    },
+    "machine": {
+      "lemma": "machine",
+      "pos": "noun",
+      "ko": "기계"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에"
+    },
+    "break": {
+      "lemma": "break",
+      "pos": "noun",
+      "ko": "휴식 (break room: 휴게실)"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실(室)"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주"
+    },
+    "easy": {
+      "lemma": "easy",
+      "pos": "adjective",
+      "ko": "쉬운"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기에 (to부정사 표시)"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다"
+    },
+    "quarterly": {
+      "lemma": "quarterly",
+      "pos": "adjective",
+      "ko": "분기별의"
+    },
+    "sales": {
+      "lemma": "sale",
+      "pos": "noun",
+      "ko": "매출, 판매",
+      "form": "복수형"
+    },
+    "report": {
+      "lemma": "report",
+      "pos": "noun",
+      "ko": "보고서"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다 (수동태: ~되었다)",
+      "form": "과거형"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": "과거분사"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "managers": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": "복수형"
+    },
+    "yesterday": {
+      "lemma": "yesterday",
+      "pos": "adverb",
+      "ko": "어제"
+    },
+    "outdoor": {
+      "lemma": "outdoor",
+      "pos": "adjective",
+      "ko": "야외의"
+    },
+    "event": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "행사"
+    },
+    "canceled": {
+      "lemma": "cancel",
+      "pos": "verb",
+      "ko": "취소하다",
+      "form": "과거분사"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에 (because of: ~ 때문에)"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의 (because of의 일부)"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "(비가) 많은, 심한"
+    },
+    "rain": {
+      "lemma": "rain",
+      "pos": "noun",
+      "ko": "비"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": "you의 소유격"
+    },
+    "expense": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "비용, 경비 (expense report: 경비 보고서)"
+    },
+    "accounting": {
+      "lemma": "accounting",
+      "pos": "noun",
+      "ko": "회계"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "Mister의 줄임말"
+    },
+    "kim": {
+      "lemma": "Kim",
+      "pos": "proper-noun",
+      "ko": "김(사람 성)"
+    },
+    "responsible": {
+      "lemma": "responsible",
+      "pos": "adjective",
+      "ko": "책임이 있는, 담당하는"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을"
+    },
+    "training": {
+      "lemma": "train",
+      "pos": "verb",
+      "ko": "교육하다, 훈련하다",
+      "form": "동명사(-ing)"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "we의 소유격"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스 (customer service: 고객 서비스)"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀"
+    },
+    "answers": {
+      "lemma": "answer",
+      "pos": "verb",
+      "ko": "(전화를) 받다, 응답하다",
+      "form": "3인칭 단수"
+    },
+    "calls": {
+      "lemma": "call",
+      "pos": "noun",
+      "ko": "전화",
+      "form": "복수형"
+    },
+    "quickly": {
+      "lemma": "quickly",
+      "pos": "adverb",
+      "ko": "빠르게, 신속하게"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "politely": {
+      "lemma": "politely",
+      "pos": "adverb",
+      "ko": "공손하게, 정중하게"
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔"
+    },
+    "offers": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "3인칭 단수"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의"
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "pos": "noun",
+      "ko": "아침 식사, 조식"
+    },
+    "guests": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "투숙객, 손님",
+      "form": "복수형"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)"
+    },
+    "stay": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "머무르다, 숙박하다"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (more than: ~보다 많이)",
+      "form": "비교급"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두"
+    },
+    "nights": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤, 박(泊)",
+      "form": "복수형"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말"
+    },
+    "rivera": {
+      "lemma": "Rivera",
+      "pos": "proper-noun",
+      "ko": "리베라(사람 성)"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~해 왔다 (현재완료)",
+      "form": "3인칭 단수"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다, 근무하다",
+      "form": "과거분사"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "preposition",
+      "ko": "~ 이래로, ~부터"
+    },
+    "visitors": {
+      "lemma": "visitor",
+      "pos": "noun",
+      "ko": "방문객",
+      "form": "복수형"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다"
+    },
+    "sign": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "서명하다 (sign in: 방문 기록하다)"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "adjective",
+      "ko": "앞쪽의 (front desk: 안내 데스크)"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 접수처"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에"
+    },
+    "entering": {
+      "lemma": "enter",
+      "pos": "verb",
+      "ko": "들어가다",
+      "form": "동명사(-ing)"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물"
+    },
+    "marketing": {
+      "lemma": "marketing",
+      "pos": "noun",
+      "ko": "마케팅"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(회의를) 열다, 개최하다"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의"
+    },
+    "discuss": {
+      "lemma": "discuss",
+      "pos": "verb",
+      "ko": "논의하다"
+    },
+    "advertising": {
+      "lemma": "advertising",
+      "pos": "noun",
+      "ko": "광고"
+    },
+    "plan": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "계획"
+    }
+  },
   "questions": [
     {
       "id": "q1",

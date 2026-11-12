@@ -394,6 +394,571 @@
       "note": "recommend/suggest + V-ing는 to부정사와 헷갈리게 내는 단골 함정."
     }
   ],
+  "glossary": {
+    "stay": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "머물다, 숙박하다 (명사: 숙박)"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서, ~로 (번호)"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "lindell": {
+      "lemma": "Lindell",
+      "pos": "proper-noun",
+      "ko": "린델 (호텔 이름의 일부)"
+    },
+    "harbor": {
+      "lemma": "harbor",
+      "pos": "noun",
+      "ko": "항구 (호텔 이름의 일부)"
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (진행형·상태)",
+      "form": "현재형 (복수/you)"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분"
+    },
+    "traveling": {
+      "lemma": "travel",
+      "pos": "verb",
+      "ko": "여행하다, 출장 가다",
+      "form": "현재분사(-ing)"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 때문에"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "사업, 업무, 출장"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이번, 이"
+    },
+    "winter": {
+      "lemma": "winter",
+      "pos": "noun",
+      "ko": "겨울"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그것은 (관계대명사)"
+    },
+    "opened": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "개장하다, 문을 열다",
+      "form": "과거형"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~에서"
+    },
+    "city's": {
+      "lemma": "city",
+      "pos": "noun",
+      "ko": "도시의",
+      "form": "소유격"
+    },
+    "financial": {
+      "lemma": "financial",
+      "pos": "adjective",
+      "ko": "금융의, 재정의"
+    },
+    "district": {
+      "lemma": "district",
+      "pos": "noun",
+      "ko": "지구, 지역"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "봄"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하고 있다",
+      "form": "3인칭 단수 현재"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금, 현재"
+    },
+    "offering": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "현재분사(-ing)"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "special": {
+      "lemma": "special",
+      "pos": "adjective",
+      "ko": "특별한"
+    },
+    "weekday": {
+      "lemma": "weekday",
+      "pos": "noun",
+      "ko": "평일, 주중"
+    },
+    "package": {
+      "lemma": "package",
+      "pos": "noun",
+      "ko": "패키지 (상품)"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "이용 가능한"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~부터, ~에서"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~까지, ~하기 위해 (to부정사)"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월"
+    },
+    "february": {
+      "lemma": "February",
+      "pos": "proper-noun",
+      "ko": "2월"
+    },
+    "guests": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "투숙객, 손님",
+      "form": "복수형"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)"
+    },
+    "book": {
+      "lemma": "book",
+      "pos": "verb",
+      "ko": "예약하다"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다"
+    },
+    "percent": {
+      "lemma": "percent",
+      "pos": "noun",
+      "ko": "퍼센트"
+    },
+    "discount": {
+      "lemma": "discount",
+      "pos": "noun",
+      "ko": "할인"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 대해, ~에 (적용)"
+    },
+    "standard": {
+      "lemma": "standard",
+      "pos": "adjective",
+      "ko": "일반의, 표준의"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "객실, 방"
+    },
+    "rates": {
+      "lemma": "rate",
+      "pos": "noun",
+      "ko": "요금",
+      "form": "복수형"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한"
+    },
+    "includes": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함하다",
+      "form": "3인칭 단수"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의"
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "pos": "noun",
+      "ko": "아침 식사"
+    },
+    "buffet": {
+      "lemma": "buffet",
+      "pos": "noun",
+      "ko": "뷔페"
+    },
+    "high-speed": {
+      "lemma": "high-speed",
+      "pos": "adjective",
+      "ko": "고속의"
+    },
+    "internet": {
+      "lemma": "Internet",
+      "pos": "noun",
+      "ko": "인터넷"
+    },
+    "access": {
+      "lemma": "access",
+      "pos": "noun",
+      "ko": "접속, 이용"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 동안의"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "noun",
+      "ko": "사용, 이용 (동사: 사용하다)"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "we의 소유격"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의 (meeting room: 회의실)"
+    },
+    "rooms": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 객실",
+      "form": "복수형"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다, ~해야 하다"
+    },
+    "print": {
+      "lemma": "print",
+      "pos": "verb",
+      "ko": "인쇄하다, 출력하다"
+    },
+    "documents": {
+      "lemma": "document",
+      "pos": "noun",
+      "ko": "문서, 서류",
+      "form": "복수형"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터 (business center: 비즈니스 센터)"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "number",
+      "ko": "두 번째의, 2층의"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "~ 없는 (at no extra cost: 추가 비용 없이)"
+    },
+    "extra": {
+      "lemma": "extra",
+      "pos": "adjective",
+      "ko": "추가의"
+    },
+    "cost": {
+      "lemma": "cost",
+      "pos": "noun",
+      "ko": "비용"
+    },
+    "rooftop": {
+      "lemma": "rooftop",
+      "pos": "noun",
+      "ko": "옥상"
+    },
+    "restaurant": {
+      "lemma": "restaurant",
+      "pos": "noun",
+      "ko": "식당, 레스토랑"
+    },
+    "skyline": {
+      "lemma": "Skyline",
+      "pos": "proper-noun",
+      "ko": "스카이라인 (식당 이름 Skyline Grill)"
+    },
+    "grill": {
+      "lemma": "Grill",
+      "pos": "proper-noun",
+      "ko": "그릴 (식당 이름 Skyline Grill)"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "determiner",
+      "ko": "또 하나의, 또 다른"
+    },
+    "reason": {
+      "lemma": "reason",
+      "pos": "noun",
+      "ko": "이유"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~에 (곁들여)"
+    },
+    "us": {
+      "lemma": "us",
+      "pos": "pronoun",
+      "ko": "우리 (곳), 우리를",
+      "form": "we의 목적격"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (식당)"
+    },
+    "serves": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "(음식을) 제공하다",
+      "form": "3인칭 단수"
+    },
+    "fresh": {
+      "lemma": "fresh",
+      "pos": "adjective",
+      "ko": "신선한"
+    },
+    "seafood": {
+      "lemma": "seafood",
+      "pos": "noun",
+      "ko": "해산물"
+    },
+    "local": {
+      "lemma": "local",
+      "pos": "adjective",
+      "ko": "지역의, 현지의"
+    },
+    "fishing": {
+      "lemma": "fishing",
+      "pos": "noun",
+      "ko": "어업, 낚시 (fishing boat: 어선)"
+    },
+    "boats": {
+      "lemma": "boat",
+      "pos": "noun",
+      "ko": "배, 보트",
+      "form": "복수형"
+    },
+    "enjoy": {
+      "lemma": "enjoy",
+      "pos": "verb",
+      "ko": "즐기다"
+    },
+    "dessert": {
+      "lemma": "dessert",
+      "pos": "noun",
+      "ko": "디저트, 후식"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든"
+    },
+    "dinner": {
+      "lemma": "dinner",
+      "pos": "noun",
+      "ko": "저녁 식사"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "주문"
+    },
+    "visit": {
+      "lemma": "visit",
+      "pos": "verb",
+      "ko": "방문하다"
+    },
+    "web": {
+      "lemma": "Web",
+      "pos": "noun",
+      "ko": "웹 (Web site: 웹사이트)"
+    },
+    "site": {
+      "lemma": "site",
+      "pos": "noun",
+      "ko": "사이트"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다"
+    },
+    "reservations": {
+      "lemma": "reservation",
+      "pos": "noun",
+      "ko": "예약",
+      "form": "복수형"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀"
+    },
+    "555-0148": {
+      "lemma": "555-0148",
+      "pos": "number",
+      "ko": "555-0148 (전화번호)"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "한정된, 제한된"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서, 그러므로"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희"
+    },
+    "recommend": {
+      "lemma": "recommend",
+      "pos": "verb",
+      "ko": "권하다, 추천하다"
+    },
+    "reserving": {
+      "lemma": "reserve",
+      "pos": "verb",
+      "ko": "예약하다",
+      "form": "동명사(-ing)"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "일찍, 미리"
+    }
+  },
   "questions": [
     {
       "id": "q1",

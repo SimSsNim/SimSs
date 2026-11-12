@@ -359,5 +359,537 @@
       },
       "note": null
     }
-  ]
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)"
+    },
+    "dispute": {
+      "lemma": "dispute",
+      "pos": "noun",
+      "ko": "논쟁, 말다툼"
+    },
+    "arose": {
+      "lemma": "arise",
+      "pos": "verb",
+      "ko": "일어나다, 생기다",
+      "form": "과거형"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "north": {
+      "lemma": "north",
+      "pos": "adjective",
+      "ko": "북쪽의 (North Wind: 북풍)"
+    },
+    "wind": {
+      "lemma": "wind",
+      "pos": "noun",
+      "ko": "바람"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 태양"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각자, 저마다"
+    },
+    "claiming": {
+      "lemma": "claim",
+      "pos": "verb",
+      "ko": "주장하다",
+      "form": "현재분사(-ing)"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형"
+    },
+    "stronger": {
+      "lemma": "strong",
+      "pos": "adjective",
+      "ko": "더 강한",
+      "form": "비교급"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 쪽, 상대 (the other)"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at last: 마침내)"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "마지막 (at last: 마침내)"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은"
+    },
+    "agreed": {
+      "lemma": "agree",
+      "pos": "verb",
+      "ko": "합의하다, 동의하다",
+      "form": "과거형"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기로, ~하기 위해 (to부정사)"
+    },
+    "try": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "시험해 보다, 시도하다"
+    },
+    "their": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격"
+    },
+    "powers": {
+      "lemma": "power",
+      "pos": "noun",
+      "ko": "힘, 능력",
+      "form": "복수형"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에게, ~ 위에 (on의 격식체)"
+    },
+    "traveller": {
+      "lemma": "traveller",
+      "pos": "noun",
+      "ko": "나그네, 여행자"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "알아보다, 확인하다"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "어느 쪽"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": "과거형"
+    },
+    "soonest": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "가장 빨리",
+      "form": "최상급"
+    },
+    "strip": {
+      "lemma": "strip",
+      "pos": "verb",
+      "ko": "벗기다, 빼앗다 (strip A of B)"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~을 (strip A of B), ~의"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격"
+    },
+    "cloak": {
+      "lemma": "cloak",
+      "pos": "noun",
+      "ko": "망토, 외투"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가졌다, 했다 (had the first try)",
+      "form": "과거형"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의, 처음 (at first: 처음에)"
+    },
+    "gathering": {
+      "lemma": "gather",
+      "pos": "verb",
+      "ko": "모으다 (gather up: 그러모으다)",
+      "form": "현재분사(-ing)"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "완전히, 위로 (gather up, catch up)"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 전부의"
+    },
+    "force": {
+      "lemma": "force",
+      "pos": "noun",
+      "ko": "힘, 기세"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해"
+    },
+    "attack": {
+      "lemma": "attack",
+      "pos": "noun",
+      "ko": "공격"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 닥쳐오다",
+      "form": "과거형"
+    },
+    "whirling": {
+      "lemma": "whirl",
+      "pos": "verb",
+      "ko": "휘몰아치다, 소용돌이치다",
+      "form": "현재분사(-ing)"
+    },
+    "furiously": {
+      "lemma": "furiously",
+      "pos": "adverb",
+      "ko": "맹렬히, 사납게",
+      "form": "부사형"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람"
+    },
+    "caught": {
+      "lemma": "catch",
+      "pos": "verb",
+      "ko": "붙잡다 (catch up: 홱 잡아채다)",
+      "form": "과거형"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "마치 (as though: 마치 ~인 것처럼)"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "conjunction",
+      "ko": "~인 것처럼 (as though)"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하려는 듯 (의지)",
+      "form": "과거형"
+    },
+    "wrest": {
+      "lemma": "wrest",
+      "pos": "verb",
+      "ko": "비틀어 빼앗다, 억지로 떼어내다"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것, 그것을"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~로부터"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~으로, ~에 의해"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "한, 하나의"
+    },
+    "single": {
+      "lemma": "single",
+      "pos": "adjective",
+      "ko": "단 하나의, 단 한 번의"
+    },
+    "effort": {
+      "lemma": "effort",
+      "pos": "noun",
+      "ko": "노력, 시도"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만"
+    },
+    "harder": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "더 세게 (the 비교급, the 비교급)",
+      "form": "비교급"
+    },
+    "blew": {
+      "lemma": "blow",
+      "pos": "verb",
+      "ko": "(바람이) 불다",
+      "form": "과거형"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (the more ~: 더 ~할수록)",
+      "form": "비교급"
+    },
+    "closely": {
+      "lemma": "closely",
+      "pos": "adverb",
+      "ko": "꼭, 단단히, 바짝",
+      "form": "부사형"
+    },
+    "wrapped": {
+      "lemma": "wrap",
+      "pos": "verb",
+      "ko": "감싸다, 두르다",
+      "form": "과거형"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "preposition",
+      "ko": "~의 둘레에, ~을 감싸"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신, 자기 몸"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그러고 나서"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "noun",
+      "ko": "차례, 순번"
+    },
+    "beamed": {
+      "lemma": "beam",
+      "pos": "verb",
+      "ko": "(햇빛을) 비추다, 빛나다",
+      "form": "과거형"
+    },
+    "gently": {
+      "lemma": "gently",
+      "pos": "adverb",
+      "ko": "부드럽게, 은은하게",
+      "form": "부사형"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "그리고 그 사람은 (관계대명사)"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧, 이내"
+    },
+    "unclasped": {
+      "lemma": "unclasp",
+      "pos": "verb",
+      "ko": "(걸쇠를) 풀다, 끄르다",
+      "form": "과거형"
+    },
+    "walked": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다 (walk on: 계속 걷다)",
+      "form": "과거형"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "adverb",
+      "ko": "계속해서, 앞으로"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~한 채로 (with + 목적어 + -ing)"
+    },
+    "hanging": {
+      "lemma": "hang",
+      "pos": "verb",
+      "ko": "걸려 있다, 늘어지다",
+      "form": "현재분사(-ing)"
+    },
+    "loosely": {
+      "lemma": "loosely",
+      "pos": "adverb",
+      "ko": "느슨하게, 헐렁하게",
+      "form": "부사형"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~ 주위에, ~ 언저리에"
+    },
+    "shoulders": {
+      "lemma": "shoulder",
+      "pos": "noun",
+      "ko": "어깨",
+      "form": "복수형"
+    },
+    "shone": {
+      "lemma": "shine",
+      "pos": "verb",
+      "ko": "빛나다, 비추다",
+      "form": "과거형"
+    },
+    "forth": {
+      "lemma": "forth",
+      "pos": "adverb",
+      "ko": "밖으로, 앞으로 (shine forth: 환히 빛나다)"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~으로, ~의 상태로"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "온전한, 최대한의"
+    },
+    "strength": {
+      "lemma": "strength",
+      "pos": "noun",
+      "ko": "힘, 세기"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에"
+    },
+    "gone": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거분사"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은"
+    },
+    "steps": {
+      "lemma": "step",
+      "pos": "noun",
+      "ko": "걸음",
+      "form": "복수형"
+    },
+    "glad": {
+      "lemma": "glad",
+      "pos": "adjective",
+      "ko": "기꺼이 ~하는, 기쁜"
+    },
+    "throw": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던지다 (throw off: 벗어 던지다)"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adverb",
+      "ko": "완전히, 아주"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "벗어서, 떨어져"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "마치다, 끝내다"
+    },
+    "journey": {
+      "lemma": "journey",
+      "pos": "noun",
+      "ko": "여행, 여정"
+    },
+    "lightly": {
+      "lemma": "lightly",
+      "pos": "adverb",
+      "ko": "가볍게",
+      "form": "부사형"
+    },
+    "clad": {
+      "lemma": "clothe",
+      "pos": "verb",
+      "ko": "옷을 입은",
+      "form": "과거분사(고어)"
+    }
+  }
 }

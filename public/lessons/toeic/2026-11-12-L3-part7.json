@@ -462,6 +462,719 @@
       "note": "수치 + 비교급 어순을 기억."
     }
   ],
+  "glossary": {
+    "brennick": {
+      "lemma": "Brennick",
+      "pos": "proper-noun",
+      "ko": "브레닉(가전제품 회사)"
+    },
+    "unveils": {
+      "lemma": "unveil",
+      "pos": "verb",
+      "ko": "공개하다, 선보이다",
+      "form": "3인칭 단수"
+    },
+    "compact": {
+      "lemma": "compact",
+      "pos": "adjective",
+      "ko": "소형의, 작고 간편한"
+    },
+    "dishwasher": {
+      "lemma": "dishwasher",
+      "pos": "noun",
+      "ko": "식기세척기"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~용"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은, 소규모의"
+    },
+    "kitchens": {
+      "lemma": "kitchen",
+      "pos": "noun",
+      "ko": "주방, 부엌",
+      "form": "복수형"
+    },
+    "oakville": {
+      "lemma": "Oakville",
+      "pos": "proper-noun",
+      "ko": "오크빌(도시 이름)"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "noun",
+      "ko": "가정 (Home Appliances: 가전)"
+    },
+    "appliances": {
+      "lemma": "appliance",
+      "pos": "noun",
+      "ko": "가전제품, 기기",
+      "form": "복수형"
+    },
+    "announced": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "발표했다, 알렸다",
+      "form": "과거형"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜)"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (회사·제품)"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "release": {
+      "lemma": "release",
+      "pos": "verb",
+      "ko": "출시하다, 발매하다"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "designed": {
+      "lemma": "design",
+      "pos": "verb",
+      "ko": "설계된, 고안된",
+      "form": "과거분사"
+    },
+    "apartments": {
+      "lemma": "apartment",
+      "pos": "noun",
+      "ko": "아파트",
+      "form": "복수형"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "offices": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": "복수형"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운"
+    },
+    "model": {
+      "lemma": "model",
+      "pos": "noun",
+      "ko": "모델, 기종"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "~라고 불리는",
+      "form": "과거분사"
+    },
+    "mini": {
+      "lemma": "Mini",
+      "pos": "proper-noun",
+      "ko": "미니(제품명 Brennick Mini)"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "be의 3인칭 단수 현재"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "약, 대략"
+    },
+    "half": {
+      "lemma": "half",
+      "pos": "noun",
+      "ko": "절반"
+    },
+    "width": {
+      "lemma": "width",
+      "pos": "noun",
+      "ko": "폭, 너비"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의"
+    },
+    "standard": {
+      "lemma": "standard",
+      "pos": "adjective",
+      "ko": "일반적인, 표준의"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만, 그러나"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다"
+    },
+    "clean": {
+      "lemma": "clean",
+      "pos": "verb",
+      "ko": "세척하다, 닦다"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(up to) 최대 ~까지"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~까지, ~에 (to부정사 표시)"
+    },
+    "eight": {
+      "lemma": "eight",
+      "pos": "number",
+      "ko": "8, 여덟"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "자리 (place setting: 1인분 식기)"
+    },
+    "settings": {
+      "lemma": "setting",
+      "pos": "noun",
+      "ko": "(식탁의) 1인분 식기 세트",
+      "form": "복수형"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~의 (가격·시점)"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(at once) 한 번에, 동시에"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(go on sale) 판매되다"
+    },
+    "sale": {
+      "lemma": "sale",
+      "pos": "noun",
+      "ko": "판매 (on sale: 판매 중)"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~에"
+    },
+    "stores": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "매장, 상점",
+      "form": "복수형"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~ 전역에 걸쳐"
+    },
+    "country": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "나라, 국가"
+    },
+    "may": {
+      "lemma": "May",
+      "pos": "proper-noun",
+      "ko": "5월"
+    },
+    "price": {
+      "lemma": "price",
+      "pos": "noun",
+      "ko": "가격"
+    },
+    "according": {
+      "lemma": "according",
+      "pos": "adverb",
+      "ko": "(according to) ~에 따르면"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사"
+    },
+    "spokesperson": {
+      "lemma": "spokesperson",
+      "pos": "noun",
+      "ko": "대변인"
+    },
+    "rachel": {
+      "lemma": "Rachel",
+      "pos": "proper-noun",
+      "ko": "레이첼(여자 이름)"
+    },
+    "dunmore": {
+      "lemma": "Dunmore",
+      "pos": "proper-noun",
+      "ko": "던모어(성)"
+    },
+    "product": {
+      "lemma": "product",
+      "pos": "noun",
+      "ko": "제품"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다 (수동태 표시)",
+      "form": "be의 과거형"
+    },
+    "developed": {
+      "lemma": "develop",
+      "pos": "verb",
+      "ko": "개발된",
+      "form": "과거분사"
+    },
+    "response": {
+      "lemma": "response",
+      "pos": "noun",
+      "ko": "반응, 응답 (in response to: ~에 대응하여)"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객"
+    },
+    "feedback": {
+      "lemma": "feedback",
+      "pos": "noun",
+      "ko": "의견, 피드백"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "pronoun",
+      "ko": "많은 사람, 다수"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다"
+    },
+    "city": {
+      "lemma": "city",
+      "pos": "noun",
+      "ko": "도시"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "~하는 곳 (관계부사)"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "공간"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "제한된, 한정된"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말했다, 알려 주었다",
+      "form": "과거형"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리에게",
+      "form": "목적격"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원했다",
+      "form": "과거형"
+    },
+    "convenience": {
+      "lemma": "convenience",
+      "pos": "noun",
+      "ko": "편리함, 편의"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이"
+    },
+    "giving": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(give up) 포기하다",
+      "form": "현재분사(-ing)"
+    },
+    "valuable": {
+      "lemma": "valuable",
+      "pos": "adjective",
+      "ko": "귀중한, 소중한"
+    },
+    "cabinet": {
+      "lemma": "cabinet",
+      "pos": "noun",
+      "ko": "수납장, 캐비닛"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한"
+    },
+    "uses": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": "3인칭 단수"
+    },
+    "percent": {
+      "lemma": "percent",
+      "pos": "noun",
+      "ko": "퍼센트"
+    },
+    "less": {
+      "lemma": "less",
+      "pos": "adjective",
+      "ko": "더 적은",
+      "form": "little의 비교급"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "preposition",
+      "ko": "~보다"
+    },
+    "company's": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사의",
+      "form": "소유격"
+    },
+    "previous": {
+      "lemma": "previous",
+      "pos": "adjective",
+      "ko": "이전의"
+    },
+    "models": {
+      "lemma": "model",
+      "pos": "noun",
+      "ko": "모델, 기종",
+      "form": "복수형"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)"
+    },
+    "purchase": {
+      "lemma": "purchase",
+      "pos": "verb",
+      "ko": "구매하다"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝, 말"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의"
+    },
+    "installation": {
+      "lemma": "installation",
+      "pos": "noun",
+      "ko": "설치"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(~하는) 사람들"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "be의 현재형(복수)"
+    },
+    "interested": {
+      "lemma": "interested",
+      "pos": "adjective",
+      "ko": "관심 있는"
+    },
+    "reserve": {
+      "lemma": "reserve",
+      "pos": "verb",
+      "ko": "예약하다"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나 (앞의 제품을 가리킴)"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금"
+    },
+    "website": {
+      "lemma": "website",
+      "pos": "noun",
+      "ko": "웹사이트"
+    },
+    "industry": {
+      "lemma": "industry",
+      "pos": "noun",
+      "ko": "업계, 산업"
+    },
+    "analyst": {
+      "lemma": "analyst",
+      "pos": "noun",
+      "ko": "분석가"
+    },
+    "tomas": {
+      "lemma": "Tomas",
+      "pos": "proper-noun",
+      "ko": "토마스(남자 이름)"
+    },
+    "reyes": {
+      "lemma": "Reyes",
+      "pos": "proper-noun",
+      "ko": "레예스(성)"
+    },
+    "believes": {
+      "lemma": "believe",
+      "pos": "verb",
+      "ko": "믿다, 생각하다",
+      "form": "3인칭 단수"
+    },
+    "could": {
+      "lemma": "could",
+      "pos": "auxiliary",
+      "ko": "~할 수도 있다"
+    },
+    "appeal": {
+      "lemma": "appeal",
+      "pos": "verb",
+      "ko": "(appeal to) 마음을 끌다"
+    },
+    "wide": {
+      "lemma": "wide",
+      "pos": "adjective",
+      "ko": "넓은, 폭넓은"
+    },
+    "range": {
+      "lemma": "range",
+      "pos": "noun",
+      "ko": "범위 (a wide range of: 다양한)"
+    },
+    "buyers": {
+      "lemma": "buyer",
+      "pos": "noun",
+      "ko": "구매자",
+      "form": "복수형"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료)",
+      "form": "3인칭 단수"
+    },
+    "identified": {
+      "lemma": "identify",
+      "pos": "verb",
+      "ko": "찾아내다, 확인하다",
+      "form": "과거분사"
+    },
+    "group": {
+      "lemma": "group",
+      "pos": "noun",
+      "ko": "집단, 무리"
+    },
+    "consumers": {
+      "lemma": "consumer",
+      "pos": "noun",
+      "ko": "소비자",
+      "form": "복수형"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 큰, 대형의",
+      "form": "비교급"
+    },
+    "manufacturers": {
+      "lemma": "manufacturer",
+      "pos": "noun",
+      "ko": "제조업체",
+      "form": "복수형"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료)"
+    },
+    "mostly": {
+      "lemma": "mostly",
+      "pos": "adverb",
+      "ko": "대체로, 주로"
+    },
+    "ignored": {
+      "lemma": "ignore",
+      "pos": "verb",
+      "ko": "무시하다, 외면하다",
+      "form": "과거분사"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그"
+    },
+    "noted": {
+      "lemma": "note",
+      "pos": "verb",
+      "ko": "언급했다, 말했다",
+      "form": "과거형"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만, 그러나"
+    },
+    "added": {
+      "lemma": "add",
+      "pos": "verb",
+      "ko": "덧붙였다",
+      "form": "과거형"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "~할 필요가 있다"
+    },
+    "compete": {
+      "lemma": "compete",
+      "pos": "verb",
+      "ko": "경쟁하다"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "몇몇의, 여러"
+    },
+    "lower-priced": {
+      "lemma": "lower-priced",
+      "pos": "adjective",
+      "ko": "더 저렴한",
+      "form": "비교급"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "구입 가능한, 시판 중인"
+    }
+  },
   "questions": [
     {
       "id": "q1",

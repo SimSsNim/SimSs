@@ -459,6 +459,427 @@
       "note": null
     }
   ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말"
+    },
+    "park": {
+      "lemma": "Park",
+      "pos": "proper-noun",
+      "ko": "박(사람 성)"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다 (thank you: 감사합니다)"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~에 (등록)"
+    },
+    "registering": {
+      "lemma": "register",
+      "pos": "verb",
+      "ko": "등록하다",
+      "form": "동명사(-ing)"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "smart": {
+      "lemma": "smart",
+      "pos": "adjective",
+      "ko": "스마트한, 똑똑한"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실"
+    },
+    "workshop": {
+      "lemma": "workshop",
+      "pos": "noun",
+      "ko": "워크숍, 연수회"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜)"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태), ~이다"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "개최하다, 열다",
+      "form": "과거분사"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, ~호실"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의"
+    },
+    "carter": {
+      "lemma": "Carter",
+      "pos": "proper-noun",
+      "ko": "카터(건물 이름)"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물, 빌딩"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (워크숍)"
+    },
+    "starts": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "3인칭 단수"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (시각)"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서, 그러니"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사 표시)"
+    },
+    "pick": {
+      "lemma": "pick",
+      "pos": "verb",
+      "ko": "고르다 (pick up: 받아 가다)"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로 (pick up의 일부)"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": "you의 소유격"
+    },
+    "name": {
+      "lemma": "name",
+      "pos": "noun",
+      "ko": "이름 (name tag: 이름표)"
+    },
+    "tag": {
+      "lemma": "tag",
+      "pos": "noun",
+      "ko": "꼬리표, 태그"
+    },
+    "lunch": {
+      "lemma": "lunch",
+      "pos": "noun",
+      "ko": "점심 식사"
+    },
+    "provided": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "과거분사"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "participants": {
+      "lemma": "participant",
+      "pos": "noun",
+      "ko": "참가자",
+      "form": "복수형"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무슨"
+    },
+    "special": {
+      "lemma": "special",
+      "pos": "adjective",
+      "ko": "특별한"
+    },
+    "dietary": {
+      "lemma": "dietary",
+      "pos": "adjective",
+      "ko": "식단의, 식이의"
+    },
+    "needs": {
+      "lemma": "need",
+      "pos": "noun",
+      "ko": "요구 사항, 필요",
+      "form": "복수형"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다 (let ~ know: 알리다)"
+    },
+    "us": {
+      "lemma": "us",
+      "pos": "pronoun",
+      "ko": "우리(에게)",
+      "form": "we의 목적격"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다"
+    },
+    "simply": {
+      "lemma": "simply",
+      "pos": "adverb",
+      "ko": "그냥, 간단히"
+    },
+    "reply": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "답장하다 (reply to: ~에 답하다)"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일"
+    },
+    "note": {
+      "lemma": "note",
+      "pos": "verb",
+      "ko": "유의하다, 주목하다"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)"
+    },
+    "parking": {
+      "lemma": "parking",
+      "pos": "noun",
+      "ko": "주차"
+    },
+    "spaces": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "공간 (parking space: 주차 공간)",
+      "form": "복수형"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "preposition",
+      "ko": "~ 근처의"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재형"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "제한된, 한정된"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희"
+    },
+    "recommend": {
+      "lemma": "recommend",
+      "pos": "verb",
+      "ko": "추천하다, 권하다"
+    },
+    "taking": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(교통수단을) 타다, 이용하다",
+      "form": "동명사(-ing)"
+    },
+    "subway": {
+      "lemma": "subway",
+      "pos": "noun",
+      "ko": "지하철"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~ 때문에, ~이므로"
+    },
+    "station": {
+      "lemma": "station",
+      "pos": "noun",
+      "ko": "역"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "겨우, 단지"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "five-minute": {
+      "lemma": "five-minute",
+      "pos": "adjective",
+      "ko": "5분의, 5분 걸리는"
+    },
+    "walk": {
+      "lemma": "walk",
+      "pos": "noun",
+      "ko": "걷기, 도보 거리"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "떨어져, 거리에"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다 (look forward to: 고대하다)"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "앞으로 (look forward to의 일부)"
+    },
+    "seeing": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 만나다",
+      "form": "동명사(-ing)"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)"
+    },
+    "daniel": {
+      "lemma": "Daniel",
+      "pos": "proper-noun",
+      "ko": "대니얼(사람 이름)"
+    },
+    "lee": {
+      "lemma": "Lee",
+      "pos": "proper-noun",
+      "ko": "이(사람 성)"
+    },
+    "event": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "행사"
+    },
+    "coordinator": {
+      "lemma": "coordinator",
+      "pos": "noun",
+      "ko": "진행 담당자, 코디네이터"
+    }
+  },
   "questions": [
     {
       "id": "q1",

@@ -396,6 +396,446 @@
       "note": "콤마 + 빈칸 + 문장 구조에서 앞뒤가 원인→결과면 so."
     }
   ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게 (수신인), ~하도록 (to부정사)"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터 (발신인)"
+    },
+    "daniel": {
+      "lemma": "Daniel",
+      "pos": "proper-noun",
+      "ko": "대니얼 (남자 이름)"
+    },
+    "moore": {
+      "lemma": "Moore",
+      "pos": "proper-noun",
+      "ko": "무어 (사람 성)"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수"
+    },
+    "coordinator": {
+      "lemma": "coordinator",
+      "pos": "noun",
+      "ko": "담당자, 진행자"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스"
+    },
+    "workshop": {
+      "lemma": "workshop",
+      "pos": "noun",
+      "ko": "워크숍, 연수회"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "we의 소유격"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "개최하다, 열다"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜), ~에서 (페이지)"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)"
+    },
+    "session": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 세션"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태), ~이다",
+      "form": "3인칭 단수 현재"
+    },
+    "designed": {
+      "lemma": "design",
+      "pos": "verb",
+      "ko": "고안하다, 계획하다",
+      "form": "과거분사"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다"
+    },
+    "handle": {
+      "lemma": "handle",
+      "pos": "verb",
+      "ko": "처리하다, 다루다"
+    },
+    "difficult": {
+      "lemma": "difficult",
+      "pos": "adjective",
+      "ko": "어려운, 곤란한"
+    },
+    "conversations": {
+      "lemma": "conversation",
+      "pos": "noun",
+      "ko": "대화",
+      "form": "복수형"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 (함께)"
+    },
+    "clients": {
+      "lemma": "client",
+      "pos": "noun",
+      "ko": "고객, 의뢰인",
+      "form": "복수형"
+    },
+    "participants": {
+      "lemma": "participant",
+      "pos": "noun",
+      "ko": "참가자",
+      "form": "복수형"
+    },
+    "practice": {
+      "lemma": "practice",
+      "pos": "verb",
+      "ko": "연습하다"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이러한, 이",
+      "form": "this의 복수형"
+    },
+    "skills": {
+      "lemma": "skill",
+      "pos": "noun",
+      "ko": "기술, 능력",
+      "form": "복수형"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은"
+    },
+    "role-playing": {
+      "lemma": "role-playing",
+      "pos": "noun",
+      "ko": "역할극"
+    },
+    "activities": {
+      "lemma": "activity",
+      "pos": "noun",
+      "ko": "활동",
+      "form": "복수형"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원, 사원",
+      "form": "복수형"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": "현재형 (복수)"
+    },
+    "expected": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "기대하다 (be expected to: ~해야 한다)",
+      "form": "과거분사"
+    },
+    "attend": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차 (even if: 비록 ~라도)"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면, ~라도 (even if)"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들 (직원들)"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(현재완료) ~한 적 있다, 가지다"
+    },
+    "taken": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(강좌를) 듣다, 수강하다",
+      "form": "과거분사"
+    },
+    "similar": {
+      "lemma": "similar",
+      "pos": "adjective",
+      "ko": "비슷한, 유사한"
+    },
+    "course": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "강좌, 과정"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "adverb",
+      "ko": "전에, 이전에"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 열리다, 개최되다"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "장소 (take place: 열리다)"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, ~호실"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "verb",
+      "ko": "계속되다, 지속되다"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "약, 대략"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 3"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "자리, 공간"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "한정된, 제한된"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서, 그러므로"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, ~해 주세요"
+    },
+    "sign": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "서명하다 (sign up: 신청하다)"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(sign up) 등록하다, 신청하다"
+    },
+    "page": {
+      "lemma": "page",
+      "pos": "noun",
+      "ko": "(웹) 페이지"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "여러분의",
+      "form": "you의 소유격"
+    },
+    "active": {
+      "lemma": "active",
+      "pos": "adjective",
+      "ko": "적극적인, 활발한"
+    },
+    "participation": {
+      "lemma": "participation",
+      "pos": "noun",
+      "ko": "참여, 참가"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~하게 만들다"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "form": "비교급"
+    },
+    "useful": {
+      "lemma": "useful",
+      "pos": "adjective",
+      "ko": "유용한, 쓸모 있는"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에게, ~을 위해"
+    },
+    "everyone": {
+      "lemma": "everyone",
+      "pos": "pronoun",
+      "ko": "모든 사람"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무슨"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 문의",
+      "form": "복수형"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나에게, 나를",
+      "form": "I의 목적격"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~로, ~번으로 (연락처)"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (번호)"
+    }
+  },
   "questions": [
     {
       "id": "q1",
