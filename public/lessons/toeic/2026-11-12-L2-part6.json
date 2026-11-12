@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-12-L2-part6",
+  "date": "2026-11-12",
+  "level": 2,
+  "title": "Customer Service Workshop Memo",
+  "titleKo": "고객 응대 워크숍 사내 메모",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 6",
+    "메모",
+    "사내 교육"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 113,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 영업팀 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: 대니얼 무어, 교육 담당자"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "제목: 고객 응대 워크숍"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "우리 부서는 3월 5일 목요일에 고객 응대 워크숍을 엽니다. 이 교육은 직원들이 고객과의 어려운 대화를 잘 다루도록 돕기 위해 마련되었습니다. 참가자들은 짧은 역할극 활동을 통해 이런 기술을 연습하게 됩니다. 전에 비슷한 과정을 들은 적이 있더라도 영업 직원은 모두 참석해야 합니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "워크숍은 204호에서 열리며 약 세 시간 동안 진행됩니다. 자리가 한정되어 있으니 3월 2일 월요일까지 교육 페이지에서 신청해 주세요. 여러분의 적극적인 참여가 모두에게 더 유익한 교육을 만들 것입니다. 궁금한 점이 있으면 내선 312번으로 저에게 연락해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All sales staff",
+      "ko": "수신: 영업팀 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Daniel Moore, Training Coordinator",
+      "ko": "발신: 대니얼 무어, 교육 담당자",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Subject: Customer service workshop",
+      "ko": "제목: 고객 응대 워크숍",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Our department will hold a customer service workshop on Thursday, March 5.",
+      "ko": "우리 부서는 3월 5일 목요일에 고객 응대 워크숍을 엽니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "The session is designed to help staff handle difficult conversations with clients.",
+      "ko": "이 교육은 직원들이 고객과의 어려운 대화를 잘 다루도록 돕기 위해 마련되었습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "Participants will practice these skills through short role-playing activities.",
+      "ko": "참가자들은 짧은 역할극 활동을 통해 이런 기술을 연습하게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "All sales employees are expected to attend, even if they have taken a similar course before.",
+      "ko": "전에 비슷한 과정을 들은 적이 있더라도 영업 직원은 모두 참석해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "The workshop will take place in Room 204 and will last about three hours.",
+      "ko": "워크숍은 204호에서 열리며 약 세 시간 동안 진행됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Space is limited, so please sign up on the training page by Monday, March 2.",
+      "ko": "자리가 한정되어 있으니 3월 2일 월요일까지 교육 페이지에서 신청해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "Your active participation will make the session more useful for everyone.",
+      "ko": "여러분의 적극적인 참여가 모두에게 더 유익한 교육을 만들 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "If you have any questions, please contact me at extension 312.",
+      "ko": "궁금한 점이 있으면 내선 312번으로 저에게 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be designed to",
+      "pos": "phrase",
+      "meaningKo": "~하도록 만들어지다, ~하기 위한 것이다",
+      "ipa": null,
+      "synonyms": [
+        "be intended to",
+        "be meant to"
+      ],
+      "matchText": "is designed to",
+      "sentenceId": "s5",
+      "example": {
+        "en": "This app is designed to save time.",
+        "ko": "이 앱은 시간을 절약하도록 만들어졌다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "handle",
+      "pos": "verb",
+      "meaningKo": "다루다, 처리하다",
+      "ipa": "/ˈhændl/",
+      "synonyms": [
+        "deal with",
+        "manage"
+      ],
+      "matchText": "handle",
+      "sentenceId": "s5",
+      "example": {
+        "en": "She handles customer complaints well.",
+        "ko": "그녀는 고객 불만을 잘 처리한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "role-playing",
+      "pos": "noun",
+      "meaningKo": "역할극",
+      "ipa": "/ˈroʊl pleɪɪŋ/",
+      "synonyms": [
+        "acting out"
+      ],
+      "matchText": "role-playing",
+      "sentenceId": "s6",
+      "example": {
+        "en": "We learned sales skills through role-playing.",
+        "ko": "우리는 역할극으로 판매 기술을 배웠다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "be expected to",
+      "pos": "phrase",
+      "meaningKo": "~해야 한다, ~할 것으로 기대되다",
+      "ipa": null,
+      "synonyms": [
+        "be required to",
+        "be supposed to"
+      ],
+      "matchText": "are expected to",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Staff are expected to arrive by nine.",
+        "ko": "직원들은 9시까지 도착해야 한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "participation",
+      "pos": "noun",
+      "meaningKo": "참여, 참가",
+      "ipa": "/pɑːrˌtɪsɪˈpeɪʃn/",
+      "synonyms": [
+        "involvement",
+        "taking part"
+      ],
+      "matchText": "participation",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Thank you for your participation.",
+        "ko": "참여해 주셔서 감사합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "All sales employees",
+          "role": "S",
+          "ko": "영업 직원 모두는"
+        },
+        {
+          "text": "are expected",
+          "role": "V",
+          "ko": "요구된다"
+        },
+        {
+          "text": "to attend,",
+          "role": "OC",
+          "ko": "참석하도록"
+        },
+        {
+          "text": "even if",
+          "role": "CONJ",
+          "ko": "~하더라도"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그들이",
+          "sub": true
+        },
+        {
+          "text": "have taken",
+          "role": "V",
+          "ko": "들은 적이 있다",
+          "sub": true
+        },
+        {
+          "text": "a similar course",
+          "role": "O",
+          "ko": "비슷한 과정을",
+          "sub": true
+        },
+        {
+          "text": "before.",
+          "role": "M",
+          "ko": "전에",
+          "sub": true
+        }
+      ],
+      "skeleton": "All sales employees are expected to attend",
+      "explanation": "expect + 사람 + to V(~가 …하기를 기대하다)의 수동태. even if가 이끄는 부사절이 뒤에 붙었다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Space",
+          "role": "S",
+          "ko": "자리가"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "limited,",
+          "role": "C",
+          "ko": "한정된"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "ko": "그래서"
+        },
+        {
+          "text": "please sign up",
+          "role": "V",
+          "ko": "신청해 주세요"
+        },
+        {
+          "text": "on the training page",
+          "role": "M",
+          "ko": "교육 페이지에서"
+        },
+        {
+          "text": "by Monday, March 2.",
+          "role": "M",
+          "ko": "3월 2일 월요일까지"
+        }
+      ],
+      "skeleton": "Space is limited, so (you) please sign up",
+      "explanation": "앞 절은 원인, so 뒤는 결과. so 뒤 절은 주어 you가 빠진 명령문이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "be designed to V",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "is designed to help"
+      ],
+      "explanation": "design(설계하다)의 수동태 뒤에 목적을 나타내는 to부정사가 붙어 '~하도록 만들어졌다'는 뜻이 된다.",
+      "example": {
+        "en": "The program is designed to improve teamwork.",
+        "ko": "그 프로그램은 팀워크를 높이도록 만들어졌다."
+      },
+      "note": "be designed / intended / meant + to V 형태로 통째로 외워 둔다."
+    },
+    {
+      "id": "g2",
+      "title": "be expected to V",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "are expected to attend"
+      ],
+      "explanation": "expect + 목적어 + to V를 수동태로 바꾸면 be expected to V. 회사 공지에서 '~해야 한다'는 부드러운 의무 표현으로 자주 쓰인다.",
+      "example": {
+        "en": "Guests are expected to check out by noon.",
+        "ko": "투숙객은 정오까지 체크아웃해야 한다."
+      },
+      "note": "be expected / required / asked + to V: 빈칸에 to부정사를 고른다."
+    },
+    {
+      "id": "g3",
+      "title": "결과의 접속사 so",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "Space is limited, so please"
+      ],
+      "explanation": "so는 '그래서'라는 뜻으로 앞 문장이 원인, 뒤 문장이 결과다. because는 반대로 뒤에 원인이 온다.",
+      "example": {
+        "en": "It was raining, so we stayed inside.",
+        "ko": "비가 와서 우리는 안에 있었다."
+      },
+      "note": "콤마 + 빈칸 + 문장 구조에서 앞뒤가 원인→결과면 so."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "is designed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "designs"
+        },
+        {
+          "key": "B",
+          "text": "is designed"
+        },
+        {
+          "key": "C",
+          "text": "designing"
+        },
+        {
+          "key": "D",
+          "text": "has designed"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "교육(The session)은 스스로 설계하는 게 아니라 '설계된' 것이다. 뒤에 목적어 없이 to help가 오므로 수동태 is designed.",
+      "choiceNotesKo": {
+        "A": "능동태 designs는 '교육이 설계한다'가 되어 어색하다.",
+        "C": "designing만으로는 문장 동사가 될 수 없다."
+      },
+      "skill": "수동태"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Participants will practice these skills through short role-playing activities."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The new sales targets will be announced at the end of the month."
+        },
+        {
+          "key": "B",
+          "text": "Several clients have praised our team's fast delivery service."
+        },
+        {
+          "key": "C",
+          "text": "Participants will practice these skills through short role-playing activities."
+        },
+        {
+          "key": "D",
+          "text": "Room 204 was recently painted and given new furniture."
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "앞 문장에서 '어려운 대화를 다루는 법'을 소개했고, 정답 문장의 these skills가 바로 그 기술을 가리킨다. 교육 방식(역할극)을 설명하는 흐름이 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "판매 목표 발표는 워크숍과 관계없는 내용이다.",
+        "B": "고객 칭찬 이야기는 교육 안내 흐름과 맞지 않는다.",
+        "D": "204호는 뒤에서 처음 장소로 소개되므로 여기서 먼저 꺼내면 어색하다."
+      },
+      "skill": "문장 넣기(지시어 these)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "to attend"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "to attend"
+        },
+        {
+          "key": "B",
+          "text": "attend"
+        },
+        {
+          "key": "C",
+          "text": "attending"
+        },
+        {
+          "key": "D",
+          "text": "attended"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "be expected 뒤에는 to부정사가 온다. be expected to V = ~해야 한다, ~하기로 되어 있다.",
+      "choiceNotesKo": {
+        "C": "be expected 뒤에 동명사는 쓰지 않는다."
+      },
+      "skill": "be expected to V"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "so"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "or"
+        },
+        {
+          "key": "B",
+          "text": "because"
+        },
+        {
+          "key": "C",
+          "text": "although"
+        },
+        {
+          "key": "D",
+          "text": "so"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "'자리가 한정되어 있다(원인) → 그러니 일찍 신청하라(결과)'의 흐름이므로 결과 접속사 so.",
+      "choiceNotesKo": {
+        "B": "because 뒤에는 원인이 와야 하고, 명령문(please sign up)을 쓸 수 없다.",
+        "C": "although는 반대 흐름이라 뜻이 맞지 않는다."
+      },
+      "skill": "접속사 의미(원인→결과)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "participation"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "participate"
+        },
+        {
+          "key": "B",
+          "text": "participant"
+        },
+        {
+          "key": "C",
+          "text": "participation"
+        },
+        {
+          "key": "D",
+          "text": "participated"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "소유격 Your + 형용사 active 뒤는 명사 자리. 문맥상 '여러분의 적극적인 참여'가 교육을 유익하게 만든다 → participation.",
+      "choiceNotesKo": {
+        "B": "participant(참가자)도 명사지만 단수라 관사가 필요하고, '참가자가 교육을 유익하게 만든다'는 뜻도 어색하다."
+      },
+      "skill": "명사 자리 + 의미"
+    }
+  ]
+}
