@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-12",
+  "track": "general",
+  "date": "2026-11-12",
+  "level": 1,
+  "title": "The Fox and the Crow",
+  "titleKo": "여우와 까마귀",
+  "genre": "fable",
+  "genreKo": "우화",
+  "wordCount": 113,
+  "source": {
+    "author": "Aesop",
+    "work": "The Fables of Aesop",
+    "translator": "Joseph Jacobs",
+    "year": 1894,
+    "url": "https://www.gutenberg.org/ebooks/11339",
+    "license": "public-domain",
+    "note": "Joseph Jacobs(1894) 판을 바탕으로 짧게 줄인 샘플 레슨"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_one_librivox/fables_01_02_aesop_128kb.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_one_librivox/fables_01_02_aesop_64kb.mp3",
+    "reader": "LibriVox Volunteers",
+    "durationSec": null,
+    "librivoxUrl": "https://librivox.org/aesops-fables-volume-1-fables-1-25/"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A Fox once saw a Crow fly off with a piece of cheese in its beak and settle on a branch of a tree. “That’s for me, as I am a Fox,” said Master Reynard, and he walked up to the foot of the tree.",
+      "ko": "어느 날 여우는 까마귀 한 마리가 부리에 치즈 한 조각을 물고 날아가 나뭇가지에 내려앉는 것을 보았다. “내가 여우이니 저건 내 차지지.” 여우 선생은 이렇게 말하고 나무 밑동까지 걸어갔다.",
+      "sentences": [
+        {
+          "id": "s1",
+          "en": "A Fox once saw a Crow fly off with a piece of cheese in its beak and settle on a branch of a tree.",
+          "ko": "어느 날 여우는 까마귀 한 마리가 부리에 치즈 한 조각을 물고 날아가 나뭇가지에 내려앉는 것을 보았다.",
+          "audioStartSec": null,
+          "audioEndSec": null
+        },
+        {
+          "id": "s2",
+          "en": "“That’s for me, as I am a Fox,” said Master Reynard, and he walked up to the foot of the tree.",
+          "ko": "“내가 여우이니 저건 내 차지지.” 여우 선생은 이렇게 말하고 나무 밑동까지 걸어갔다.",
+          "audioStartSec": null,
+          "audioEndSec": null
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "en": "“Good-day, Mistress Crow,” he cried. “I feel sure your voice must surpass that of other birds, just as your figure does.”",
+      "ko": "“안녕하세요, 까마귀 아가씨.” 여우가 외쳤다. “당신의 모습이 그렇듯, 목소리도 분명 다른 새들보다 뛰어날 거예요.”",
+      "sentences": [
+        {
+          "id": "s3",
+          "en": "“Good-day, Mistress Crow,” he cried.",
+          "ko": "“안녕하세요, 까마귀 아가씨.” 여우가 외쳤다.",
+          "audioStartSec": null,
+          "audioEndSec": null
+        },
+        {
+          "id": "s4",
+          "en": "“I feel sure your voice must surpass that of other birds, just as your figure does.”",
+          "ko": "“당신의 모습이 그렇듯, 목소리도 분명 다른 새들보다 뛰어날 거예요.”",
+          "audioStartSec": null,
+          "audioEndSec": null
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "en": "The Crow lifted up her head and began to caw her best, but the moment she opened her mouth the piece of cheese fell to the ground. “In exchange for your cheese I will give you a piece of advice for the future: Do not trust flatterers.”",
+      "ko": "까마귀는 고개를 들고 있는 힘껏 까악 울기 시작했지만, 입을 여는 순간 치즈 조각이 땅에 떨어졌다. “치즈를 받은 대가로 앞으로를 위한 충고 하나 해 주지. 아첨하는 자를 믿지 마.”",
+      "sentences": [
+        {
+          "id": "s5",
+          "en": "The Crow lifted up her head and began to caw her best, but the moment she opened her mouth the piece of cheese fell to the ground.",
+          "ko": "까마귀는 고개를 들고 있는 힘껏 까악 울기 시작했지만, 입을 여는 순간 치즈 조각이 땅에 떨어졌다.",
+          "audioStartSec": null,
+          "audioEndSec": null
+        },
+        {
+          "id": "s6",
+          "en": "“In exchange for your cheese I will give you a piece of advice for the future: Do not trust flatterers.”",
+          "ko": "“치즈를 받은 대가로 앞으로를 위한 충고 하나 해 주지. 아첨하는 자를 믿지 마.”",
+          "audioStartSec": null,
+          "audioEndSec": null
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "settle",
+      "pos": "v",
+      "ipa": "ˈsetl",
+      "meaningKo": "(새 등이) 내려앉다; 자리 잡다",
+      "sentenceId": "s1",
+      "matchText": "settle",
+      "example": {
+        "en": "A bird settled on the roof.",
+        "ko": "새 한 마리가 지붕에 내려앉았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "surpass",
+      "pos": "v",
+      "ipa": "sərˈpæs",
+      "meaningKo": "~보다 낫다, 능가하다",
+      "sentenceId": "s4",
+      "matchText": "surpass",
+      "example": {
+        "en": "The results surpassed our hopes.",
+        "ko": "결과는 우리의 기대를 넘어섰다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "figure",
+      "pos": "n",
+      "ipa": "ˈfɪɡjər",
+      "meaningKo": "모습, 몸매; 숫자",
+      "sentenceId": "s4",
+      "matchText": "figure",
+      "example": {
+        "en": "I saw a tall figure in the dark.",
+        "ko": "어둠 속에서 키 큰 형체를 보았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "lift up",
+      "pos": "phr",
+      "ipa": "lɪft ʌp",
+      "meaningKo": "들어 올리다",
+      "sentenceId": "s5",
+      "matchText": "lifted up",
+      "example": {
+        "en": "She lifted up the box with both hands.",
+        "ko": "그녀는 두 손으로 상자를 들어 올렸다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "flatterer",
+      "pos": "n",
+      "ipa": "ˈflætərər",
+      "meaningKo": "아첨꾼",
+      "sentenceId": "s6",
+      "matchText": "flatterers",
+      "example": {
+        "en": "A flatterer only says what you want to hear.",
+        "ko": "아첨꾼은 네가 듣고 싶은 말만 한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Fox",
+          "role": "S",
+          "ko": "여우는"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "ko": "어느 날"
+        },
+        {
+          "text": "saw",
+          "role": "V",
+          "ko": "보았다"
+        },
+        {
+          "text": "a Crow",
+          "role": "O",
+          "ko": "까마귀가"
+        },
+        {
+          "text": "fly off with a piece of cheese in its beak",
+          "role": "C",
+          "ko": "부리에 치즈 한 조각을 물고 날아가"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "settle on a branch of a tree.",
+          "role": "C",
+          "ko": "나뭇가지에 내려앉는 것을"
+        }
+      ],
+      "skeleton": "A Fox saw a Crow fly off and settle",
+      "explanationKo": "지각동사 saw 뒤에 목적어(a Crow)와 동사원형 두 개(fly off, settle)가 목적격 보어로 와서 '까마귀가 ~하는 것을 보았다'가 된다."
+    },
+    {
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "“I",
+          "role": "S",
+          "ko": "나는"
+        },
+        {
+          "text": "feel",
+          "role": "V",
+          "ko": "느낀다"
+        },
+        {
+          "text": "sure",
+          "role": "C",
+          "ko": "확신하게"
+        },
+        {
+          "text": "your voice",
+          "role": "S",
+          "sub": true,
+          "ko": "당신의 목소리가"
+        },
+        {
+          "text": "must surpass",
+          "role": "V",
+          "sub": true,
+          "ko": "분명 능가할 것이라고"
+        },
+        {
+          "text": "that of other birds,",
+          "role": "O",
+          "sub": true,
+          "ko": "다른 새들의 그것(목소리)을"
+        },
+        {
+          "text": "just as",
+          "role": "CONJ",
+          "ko": "꼭 ~처럼"
+        },
+        {
+          "text": "your figure",
+          "role": "S",
+          "sub": true,
+          "ko": "당신의 모습이"
+        },
+        {
+          "text": "does.”",
+          "role": "V",
+          "sub": true,
+          "ko": "그러하듯이"
+        }
+      ],
+      "skeleton": "I feel sure (that) your voice must surpass that",
+      "explanationKo": "feel sure 뒤에 that이 생략된 명사절이 온다. that of other birds의 that은 voice를 가리키고, does는 surpasses를 대신하는 대동사다."
+    },
+    {
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The Crow",
+          "role": "S",
+          "ko": "까마귀는"
+        },
+        {
+          "text": "lifted up",
+          "role": "V",
+          "ko": "들어 올렸다"
+        },
+        {
+          "text": "her head",
+          "role": "O",
+          "ko": "고개를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "began",
+          "role": "V",
+          "ko": "시작했다"
+        },
+        {
+          "text": "to caw her best,",
+          "role": "O",
+          "ko": "힘껏 까악 우는 것을"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "ko": "하지만"
+        },
+        {
+          "text": "the moment",
+          "role": "CONJ",
+          "ko": "~하는 순간"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "opened",
+          "role": "V",
+          "sub": true,
+          "ko": "열었다"
+        },
+        {
+          "text": "her mouth",
+          "role": "O",
+          "sub": true,
+          "ko": "입을"
+        },
+        {
+          "text": "the piece of cheese",
+          "role": "S",
+          "ko": "치즈 조각이"
+        },
+        {
+          "text": "fell",
+          "role": "V",
+          "ko": "떨어졌다"
+        },
+        {
+          "text": "to the ground.",
+          "role": "M",
+          "ko": "땅으로"
+        }
+      ],
+      "skeleton": "The Crow lifted up her head and began to caw, but the cheese fell",
+      "explanationKo": "and로 동사 두 개(lifted up, began)가 이어지고, but 뒤에는 'the moment + 주어 + 동사'(~하는 순간) 부사절과 주절(the piece of cheese fell)이 온다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "지각동사 + 목적어 + 동사원형",
+      "tags": [
+        "지각동사",
+        "5형식"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "saw a Crow fly off",
+        "settle"
+      ],
+      "explanationKo": "see, watch, hear 같은 지각동사는 목적어 뒤에 동사원형을 써서 '목적어가 ~하는 것을 보다/듣다'를 나타낸다.",
+      "examples": [
+        {
+          "en": "I heard her sing.",
+          "ko": "나는 그녀가 노래하는 것을 들었다."
+        }
+      ],
+      "note": "to fly처럼 to를 붙이지 않는다. 진행 중인 동작을 강조하면 flying(현재분사)도 쓸 수 있다."
+    },
+    {
+      "id": "g2",
+      "title": "the moment + 주어 + 동사 (~하자마자)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "the moment she opened"
+      ],
+      "explanationKo": "the moment는 접속사처럼 쓰여 '~하는 순간, ~하자마자'라는 뜻의 부사절을 이끈다. as soon as와 바꿔 쓸 수 있다.",
+      "examples": [
+        {
+          "en": "The moment I saw him, I knew.",
+          "ko": "그를 본 순간 나는 알았다."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "대동사 do / does",
+      "tags": [
+        "비교",
+        "대동사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "just as your figure does"
+      ],
+      "explanationKo": "앞에 나온 동사(surpass)를 반복하지 않으려고 do/does/did로 대신한다.",
+      "examples": [
+        {
+          "en": "She runs faster than I do.",
+          "ko": "그녀는 나보다 빨리 달린다."
+        }
+      ],
+      "note": "주어의 인칭·수와 시제에 맞춰 do, does, did를 고른다."
+    }
+  ]
+}

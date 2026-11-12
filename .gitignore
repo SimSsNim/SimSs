@@ -1,0 +1,8 @@
+node_modules
+dist
+dev-dist
+public/lessons/index.json
+test-results
+playwright-report
+coverage
+*.local

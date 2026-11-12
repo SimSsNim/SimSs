@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-12",
+  "track": "toeic",
+  "date": "2026-11-12",
+  "level": 1,
+  "title": "Workshop Registration Reminder",
+  "titleKo": "워크숍 등록 안내",
+  "genre": "email",
+  "genreKo": "이메일",
+  "wordCount": 87,
+  "source": {
+    "author": "AI 작성 연습 지문",
+    "license": "original",
+    "note": "토익 Part 6·7 스타일로 새로 쓴 연습용 지문입니다. 실제 시험 지문이 아닙니다."
+  },
+  "audio": null,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Thank you for your interest in the Digital Marketing Workshop, which will be held at the Larkin Conference Center on December 4. Because space is limited to 40 participants, we encourage you to complete your registration by November 20.",
+      "ko": "12월 4일 라킨 컨퍼런스 센터에서 열리는 디지털 마케팅 워크숍에 관심을 가져 주셔서 감사합니다. 정원이 40명으로 제한되어 있으므로 11월 20일까지 등록을 마치시기를 권해 드립니다.",
+      "sentences": [
+        {
+          "id": "s1",
+          "en": "Thank you for your interest in the Digital Marketing Workshop, which will be held at the Larkin Conference Center on December 4.",
+          "ko": "12월 4일 라킨 컨퍼런스 센터에서 열리는 디지털 마케팅 워크숍에 관심을 가져 주셔서 감사합니다."
+        },
+        {
+          "id": "s2",
+          "en": "Because space is limited to 40 participants, we encourage you to complete your registration by November 20.",
+          "ko": "정원이 40명으로 제한되어 있으므로 11월 20일까지 등록을 마치시기를 권해 드립니다."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "en": "The registration fee of $120 covers all session materials, lunch, and a certificate of completion. Participants who register before November 15 will receive a 15 percent discount.",
+      "ko": "120달러의 등록비에는 모든 세션 자료, 점심 식사, 수료증이 포함됩니다. 11월 15일 전에 등록하는 참가자는 15퍼센트 할인을 받습니다.",
+      "sentences": [
+        {
+          "id": "s3",
+          "en": "The registration fee of $120 covers all session materials, lunch, and a certificate of completion.",
+          "ko": "120달러의 등록비에는 모든 세션 자료, 점심 식사, 수료증이 포함됩니다."
+        },
+        {
+          "id": "s4",
+          "en": "Participants who register before November 15 will receive a 15 percent discount.",
+          "ko": "11월 15일 전에 등록하는 참가자는 15퍼센트 할인을 받습니다."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "en": "Should you have any questions, please contact our events team at events@brightpath.example. We look forward to seeing you at the workshop.",
+      "ko": "문의 사항이 있으시면 행사팀(events@brightpath.example)으로 연락해 주십시오. 워크숍에서 뵙기를 기대합니다.",
+      "sentences": [
+        {
+          "id": "s5",
+          "en": "Should you have any questions, please contact our events team at events@brightpath.example.",
+          "ko": "문의 사항이 있으시면 행사팀(events@brightpath.example)으로 연락해 주십시오."
+        },
+        {
+          "id": "s6",
+          "en": "We look forward to seeing you at the workshop.",
+          "ko": "워크숍에서 뵙기를 기대합니다."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be held",
+      "pos": "phr",
+      "meaningKo": "(행사가) 열리다, 개최되다",
+      "sentenceId": "s1",
+      "matchText": "be held",
+      "example": {
+        "en": "The annual meeting will be held in March.",
+        "ko": "연례 회의는 3월에 열린다."
+      },
+      "synonyms": [
+        "take place",
+        "be hosted"
+      ]
+    },
+    {
+      "id": "v2",
+      "term": "limited",
+      "pos": "adj",
+      "meaningKo": "제한된, 한정된",
+      "sentenceId": "s2",
+      "matchText": "limited",
+      "example": {
+        "en": "Seating is limited, so please arrive early.",
+        "ko": "좌석이 한정되어 있으니 일찍 와 주세요."
+      },
+      "synonyms": [
+        "restricted",
+        "capped"
+      ]
+    },
+    {
+      "id": "v3",
+      "term": "encourage",
+      "pos": "v",
+      "meaningKo": "권장하다, 장려하다",
+      "sentenceId": "s2",
+      "matchText": "encourage",
+      "example": {
+        "en": "Employees are encouraged to attend the training.",
+        "ko": "직원들은 교육에 참석하도록 권장된다."
+      },
+      "synonyms": [
+        "urge",
+        "recommend"
+      ]
+    },
+    {
+      "id": "v4",
+      "term": "cover",
+      "pos": "v",
+      "meaningKo": "(비용·범위를) 포함하다, 충당하다",
+      "sentenceId": "s3",
+      "matchText": "covers",
+      "example": {
+        "en": "The fee covers travel and meals.",
+        "ko": "요금에는 교통비와 식비가 포함된다."
+      },
+      "synonyms": [
+        "include",
+        "pay for"
+      ]
+    },
+    {
+      "id": "v5",
+      "term": "certificate of completion",
+      "pos": "n",
+      "meaningKo": "수료증",
+      "sentenceId": "s3",
+      "matchText": "certificate of completion",
+      "example": {
+        "en": "You will receive a certificate of completion after the course.",
+        "ko": "과정을 마치면 수료증을 받게 됩니다."
+      },
+      "synonyms": [
+        "completion certificate"
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Thank",
+          "role": "V",
+          "ko": "감사합니다"
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "ko": "당신에게"
+        },
+        {
+          "text": "for your interest in the Digital Marketing Workshop,",
+          "role": "M",
+          "ko": "디지털 마케팅 워크숍에 대한 관심에 대해"
+        },
+        {
+          "text": "which",
+          "role": "S",
+          "sub": true,
+          "ko": "그것은(워크숍은)"
+        },
+        {
+          "text": "will be held",
+          "role": "V",
+          "sub": true,
+          "ko": "열릴 것이다"
+        },
+        {
+          "text": "at the Larkin Conference Center",
+          "role": "M",
+          "sub": true,
+          "ko": "라킨 컨퍼런스 센터에서"
+        },
+        {
+          "text": "on December 4.",
+          "role": "M",
+          "sub": true,
+          "ko": "12월 4일에"
+        }
+      ],
+      "skeleton": "Thank you for your interest, which will be held",
+      "explanationKo": "콤마 뒤 which는 앞의 the Digital Marketing Workshop을 보충 설명하는 계속적 용법 관계대명사이고, 관계절은 수동태(will be held)다."
+    },
+    {
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Because",
+          "role": "CONJ",
+          "ko": "~이므로"
+        },
+        {
+          "text": "space",
+          "role": "S",
+          "sub": true,
+          "ko": "자리가"
+        },
+        {
+          "text": "is limited",
+          "role": "V",
+          "sub": true,
+          "ko": "제한되어 있다"
+        },
+        {
+          "text": "to 40 participants,",
+          "role": "M",
+          "sub": true,
+          "ko": "40명으로"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "우리는"
+        },
+        {
+          "text": "encourage",
+          "role": "V",
+          "ko": "권한다"
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "ko": "당신이"
+        },
+        {
+          "text": "to complete your registration",
+          "role": "C",
+          "ko": "등록을 마치기를"
+        },
+        {
+          "text": "by November 20.",
+          "role": "M",
+          "ko": "11월 20일까지"
+        }
+      ],
+      "skeleton": "we encourage you to complete your registration",
+      "explanationKo": "Because 부사절이 이유를 말하고, 주절은 'encourage + 목적어 + to부정사'(목적어가 ~하도록 권하다) 5형식이다. by는 '~까지(기한)'."
+    },
+    {
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Should",
+          "role": "CONJ",
+          "ko": "만약 ~라면"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": true,
+          "ko": "당신이"
+        },
+        {
+          "text": "have",
+          "role": "V",
+          "sub": true,
+          "ko": "가지고 있다"
+        },
+        {
+          "text": "any questions,",
+          "role": "O",
+          "sub": true,
+          "ko": "질문을"
+        },
+        {
+          "text": "please contact",
+          "role": "V",
+          "ko": "연락해 주세요"
+        },
+        {
+          "text": "our events team",
+          "role": "O",
+          "ko": "저희 행사팀에"
+        },
+        {
+          "text": "at events@brightpath.example.",
+          "role": "M",
+          "ko": "이 주소로"
+        }
+      ],
+      "skeleton": "(If you have questions,) please contact our events team",
+      "explanationKo": "If you should have any questions에서 If를 생략하고 Should를 앞으로 보낸 도치 구문이다. 주절은 명령문(please contact)."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "계속적 용법 관계대명사 which",
+      "tags": [
+        "관계사",
+        "수동태"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        ", which will be held"
+      ],
+      "explanationKo": "콤마 뒤의 which는 앞 명사에 대한 정보를 덧붙인다. '그런데 그것은 ~'으로 해석하면 쉽다. that은 이 자리에 쓸 수 없다.",
+      "examples": [
+        {
+          "en": "I visited Busan, which is famous for its beaches.",
+          "ko": "나는 부산을 방문했는데, 그곳은 해변으로 유명하다."
+        }
+      ],
+      "note": "토익 Part 5·6에서 콤마 뒤 빈칸에 that을 고르면 오답이다."
+    },
+    {
+      "id": "g2",
+      "title": "encourage + 목적어 + to부정사",
+      "tags": [
+        "to부정사",
+        "5형식"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "encourage you to complete"
+      ],
+      "explanationKo": "encourage, ask, allow, require 같은 동사는 '목적어 + to부정사'를 써서 '목적어가 ~하도록'을 나타낸다.",
+      "examples": [
+        {
+          "en": "The manager asked us to arrive early.",
+          "ko": "매니저는 우리에게 일찍 오라고 했다."
+        }
+      ],
+      "note": "수동태로는 'You are encouraged to complete ~'가 되며 토익에서 자주 나온다."
+    },
+    {
+      "id": "g3",
+      "title": "If 생략 도치: Should + 주어 + 동사원형",
+      "tags": [
+        "도치",
+        "가정법"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "Should you have"
+      ],
+      "explanationKo": "If you should have ~에서 If를 빼고 Should를 주어 앞으로 보낸 형태. 비즈니스 이메일 끝에 자주 쓰는 정중한 표현이다.",
+      "examples": [
+        {
+          "en": "Should you need help, call me anytime.",
+          "ko": "도움이 필요하시면 언제든 전화 주세요."
+        }
+      ]
+    }
+  ]
+}

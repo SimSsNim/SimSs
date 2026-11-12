@@ -1,0 +1,167 @@
+import { useEffect, useRef, useState } from 'react';
+import { useLiveQuery } from 'dexie-react-hooks';
+import s from '../../styles/ui.module.css';
+import r from '../../styles/reading.module.css';
+import type { TabProps } from './LessonPage';
+import { useSettings, setSetting, type DisplayMode } from '../../lib/settings';
+import { SentenceText, WordPopup, SentenceMenu, useLongPress } from '../../components/SentenceView';
+import { grammarOf, structureOf, vocabOf } from '../../lib/lessonUtils';
+import type { Sentence, Vocab } from '../../lib/types';
+import { db } from '../../lib/db';
+import { usePlayer } from '../../store/player';
+import { autoCheck } from '../../lib/progress';
+
+const MODES: { id: DisplayMode; label: string }[] = [
+  { id: 'en', label: '영어만' },
+  { id: 'ko', label: '한글만' },
+  { id: 'both-sentence', label: '문장마다 번역' },
+  { id: 'both-paragraph', label: '단락 뒤 번역' },
+];
+
+export function FullTextTab({ lesson, lessonKey }: TabProps) {
+  const st = useSettings();
+  const player = usePlayer();
+  const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; sentence: string } | null>(null);
+  const [menu, setMenu] = useState<Sentence | null>(null);
+  const [revealed, setRevealed] = useState<Set<string>>(new Set());
+  const marks = useLiveQuery(() => db.sentenceMarks.where('lessonKey').equals(lessonKey).toArray(), [lessonKey]);
+  const endRef = useRef<HTMLDivElement>(null);
+  const showEn = st.displayMode !== 'ko';
+  const playingHere = player.lessonKey === lessonKey;
+
+  useEffect(() => {
+    const el = endRef.current;
+    if (!el || !('IntersectionObserver' in window)) return;
+    const io = new IntersectionObserver((ents) => {
+      if (ents.some((e) => e.isIntersecting)) void autoCheck(lessonKey, 'read');
+    });
+    io.observe(el);
+    return () => io.disconnect();
+  }, [lessonKey]);
+
+  const renderKo = (id: string, text: string, cls: string) => {
+    const hidden = st.hideTranslation && !revealed.has(id);
+    return (
+      <span className={`${cls} ${hidden ? r.hidden : ''}`} lang="ko" onClick={hidden ? () => setRevealed(new Set(revealed).add(id)) : undefined}
+        role={hidden ? 'button' : undefined} tabIndex={hidden ? 0 : undefined} aria-label={hidden ? '번역 보기' : undefined}
+        onKeyDown={hidden ? (e) => e.key === 'Enter' && setRevealed(new Set(revealed).add(id)) : undefined}>
+        {text}
+      </span>
+    );
+  };
+
+  return (
+    <div>
+      <div className={s.chips} role="group" aria-label="표시 모드">
+        {MODES.map((m) => (
+          <button key={m.id} type="button" className={s.chip} aria-pressed={st.displayMode === m.id} onClick={() => setSetting('displayMode', m.id)}>{m.label}</button>
+        ))}
+      </div>
+      <div className={r.toolbar}>
+        <Toggle on={st.hlVocab} set={(v) => setSetting('hlVocab', v)} label="단어 강조" />
+        <Toggle on={st.hlGrammar} set={(v) => setSetting('hlGrammar', v)} label="문법 강조" />
+        <Toggle on={st.showSlashes} set={(v) => setSetting('showSlashes', v)} label="끊어 읽기 /" />
+        <Toggle on={st.hideTranslation} set={(v) => { setSetting('hideTranslation', v); setRevealed(new Set()); }} label="번역 가리기" />
+        <details>
+          <summary className={s.chip} style={{ listStyle: 'none' }}>Aa 글자</summary>
+          <div className={s.card} style={{ position: 'absolute', zIndex: 30, marginTop: 4, width: 260 }}>
+            <div className={s.row}>
+              {[0, 1, 2, 3].map((n) => (
+                <button key={n} type="button" className={s.chip} aria-pressed={st.fontSize === n} onClick={() => setSetting('fontSize', n as 0 | 1 | 2 | 3)}
+                  aria-label={`글자 크기 ${n + 1}단계`} style={{ fontSize: 13 + n * 3 }}>가</button>
+              ))}
+            </div>
+            <label className={s.label} style={{ marginTop: 8 }}>줄 간격 {st.lineHeight.toFixed(1)}
+              <input className={s.range} type="range" min={1.4} max={2.4} step={0.1} value={st.lineHeight} onChange={(e) => setSetting('lineHeight', Number(e.target.value))} />
+            </label>
+            <div className={s.seg}>
+              <button type="button" className={s.segBtn} aria-pressed={st.serif} onClick={() => setSetting('serif', true)} style={{ fontFamily: 'var(--serif)' }}>세리프</button>
+              <button type="button" className={s.segBtn} aria-pressed={!st.serif} onClick={() => setSetting('serif', false)}>산세리프</button>
+            </div>
+          </div>
+        </details>
+      </div>
+      <p className={s.small + ' ' + s.muted} style={{ marginTop: 0 }}>단어를 누르면 뜻, 문장을 길게 누르면(또는 Enter) 메뉴가 열려요.</p>
+
+      <article className={`${s.reading} ${st.serif ? '' : s.sansReading}`} lang="en" data-testid="full-text">
+        {lesson.paragraphs.map((p) => (
+          <div key={p.id}>
+            <p className={r.para} data-paragraph={p.id}>
+              {p.sentences.map((sen, i) => {
+                const mark = marks?.find((m) => m.sentenceId === sen.id);
+                return (
+                  <span key={sen.id}>
+                    {i > 0 && showEn && st.displayMode !== 'both-sentence' ? ' ' : null}
+                    {showEn ? (
+                      <SentenceSpan sentence={sen} current={playingHere && player.currentSentenceId === sen.id}
+                        bookmarked={!!mark?.bookmark} hard={!!mark?.hard} onLong={() => setMenu(sen)}>
+                        <SentenceText sentence={sen} vocab={st.hlVocab ? vocabOf(lesson, sen.id) : []}
+                          grammar={st.hlGrammar ? grammarOf(lesson, sen.id) : []} structure={structureOf(lesson, sen.id)} slashes={st.showSlashes}
+                          onWord={(w, v) => setPopup({ word: w, vocab: v ?? findVocab(lesson.vocab, sen.id, w), sentence: sen.en })} />
+                      </SentenceSpan>
+                    ) : (
+                      <>{i > 0 ? ' ' : null}{renderKo(sen.id, sen.ko, '')}</>
+                    )}
+                    {mark?.memo && showEn && <span className={r.memo}>📝 {mark.memo}</span>}
+                    {st.displayMode === 'both-sentence' && renderKo(sen.id, sen.ko, r.koLine)}
+                  </span>
+                );
+              })}
+            </p>
+            {st.displayMode === 'both-paragraph' && <p className={r.koPara}>{renderKo(p.id, p.ko, '')}</p>}
+          </div>
+        ))}
+      </article>
+      <div ref={endRef} aria-hidden="true" style={{ height: 1 }} />
+      <Source lesson={lesson} />
+
+      {popup && <WordPopup word={popup.word} vocab={popup.vocab} sentence={popup.sentence} lessonKey={lessonKey} onClose={() => setPopup(null)} />}
+      {menu && <SentenceMenu lesson={lesson} lessonKey={lessonKey} sentence={menu} mark={marks?.find((m) => m.sentenceId === menu.id)} onClose={() => setMenu(null)} />}
+    </div>
+  );
+}
+
+function findVocab(vocab: Vocab[], sid: string, word: string): Vocab | undefined {
+  const w = word.toLowerCase();
+  return vocab.find((v) => v.sentenceId === sid && v.matchText.toLowerCase().split(/\s+/).includes(w));
+}
+
+function SentenceSpan({ sentence, current, bookmarked, hard, onLong, children }: { sentence: Sentence; current: boolean; bookmarked: boolean; hard: boolean; onLong: () => void; children: React.ReactNode }) {
+  const lp = useLongPress(onLong);
+  const ref = useRef<HTMLSpanElement>(null);
+  useEffect(() => {
+    if (current) ref.current?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  }, [current]);
+  return (
+    <span ref={ref} className={[r.sentence, current ? r.current : '', bookmarked ? r.bookmarked : '', hard ? r.hard : ''].join(' ')}
+      data-sentence={sentence.id} tabIndex={0} aria-label={undefined} {...lp}>
+      {children}
+    </span>
+  );
+}
+
+export function Toggle({ on, set, label }: { on: boolean; set: (v: boolean) => void; label: string }) {
+  return (
+    <button type="button" className={s.chip} aria-pressed={on} onClick={() => set(!on)}>
+      {on ? '✓ ' : ''}{label}
+    </button>
+  );
+}
+
+export function Source({ lesson }: { lesson: TabProps['lesson'] }) {
+  const src = lesson.source;
+  return (
+    <footer className={s.small + ' ' + s.muted} style={{ marginTop: 24, borderTop: '1px solid var(--line)', paddingTop: 10 }}>
+      {lesson.track === 'toeic' ? (
+        <p>AI 작성 연습 지문 · 토익 스타일 연습용으로 새로 쓴 글이며 실제 시험 지문이 아닙니다.{src.note ? ` ${src.note}` : ''}</p>
+      ) : (
+        <p>
+          출처: {[src.author, src.work, src.translator && `tr. ${src.translator}`, src.year].filter(Boolean).join(', ')} · 퍼블릭 도메인
+          {src.url && <> · <a href={src.url} target="_blank" rel="noreferrer">원문</a></>}
+          {src.note ? ` · ${src.note}` : ''}
+          {lesson.audio?.librivoxUrl && <> · 낭독: <a href={lesson.audio.librivoxUrl} target="_blank" rel="noreferrer">LibriVox</a></>}
+        </p>
+      )}
+    </footer>
+  );
+}

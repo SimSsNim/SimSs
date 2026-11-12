@@ -1,0 +1,171 @@
+import { useRef, useState, type ReactNode } from 'react';
+import { useNavigate } from 'react-router-dom';
+import s from '../styles/ui.module.css';
+import r from '../styles/reading.module.css';
+import { segmentSentence } from '../lib/lessonUtils';
+import type { GrammarPoint, Lesson, Sentence, Structure, Vocab } from '../lib/types';
+import { speak, useVoices } from '../lib/tts';
+import { getSettings } from '../lib/settings';
+import { addMyWord } from '../lib/words';
+import { toggleSentenceMark, setMemo } from '../lib/marks';
+import type { SentenceMarkRow } from '../lib/db';
+import { playSentence } from '../store/player';
+import { toast } from './Toast';
+
+export function SentenceText(props: {
+  sentence: Sentence;
+  vocab?: Vocab[];
+  grammar?: GrammarPoint[];
+  structure?: Structure;
+  slashes?: boolean;
+  onWord?: (word: string, vocab?: Vocab) => void;
+}) {
+  const pieces = segmentSentence(props.sentence.en, props);
+  return (
+    <>
+      {pieces.map((p, i) => {
+        const cls = [p.vocabId ? s.hlVocab : '', p.grammarId ? s.hlGrammar : '', p.slashBefore ? r.slash : '', p.word && props.onWord ? r.word : '']
+          .filter(Boolean).join(' ');
+        if (!cls) return <span key={i}>{p.text}</span>;
+        const v = p.vocabId ? props.vocab?.find((x) => x.id === p.vocabId) : undefined;
+        return (
+          <span key={i} className={cls} data-vocab={p.vocabId} data-grammar={p.grammarId}
+            onClick={p.word && props.onWord ? (e) => { e.stopPropagation(); props.onWord!(p.word!, v); } : undefined}>
+            {p.text}
+          </span>
+        );
+      })}
+    </>
+  );
+}
+
+export function Sheet({ onClose, children, label }: { onClose: () => void; children: ReactNode; label: string }) {
+  return (
+    <>
+      <div className={s.backdrop} onClick={onClose} aria-hidden="true" />
+      <div className={s.popover} role="dialog" aria-modal="true" aria-label={label}
+        onKeyDown={(e) => e.key === 'Escape' && onClose()}>
+        {children}
+      </div>
+    </>
+  );
+}
+
+export function SpeakBtn({ text, label = '발음 듣기', rate }: { text: string; label?: string; rate?: number }) {
+  const v = useVoices();
+  if (!v.supported) return null;
+  return (
+    <button type="button" className={s.iconBtn} aria-label={label}
+      onClick={(e) => { e.stopPropagation(); void speak(text, { rate: rate ?? getSettings().ttsRate, accent: getSettings().ttsAccent, voiceURI: getSettings().ttsVoiceURI }); }}>
+      🔊
+    </button>
+  );
+}
+
+export function WordPopup({ word, vocab, sentence, lessonKey, onClose }: { word: string; vocab?: Vocab; sentence?: string; lessonKey: string; onClose: () => void }) {
+  const [meaning, setMeaning] = useState('');
+  const [adding, setAdding] = useState(false);
+  return (
+    <Sheet onClose={onClose} label={`단어 ${word}`}>
+      <div className={s.between}>
+        <div>
+          <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>{' '}
+          {vocab && <span className={s.muted}>{vocab.pos} {vocab.ipa && `[${vocab.ipa}]`}</span>}
+        </div>
+        <div className={s.row}>
+          <SpeakBtn text={vocab?.term ?? word} />
+          <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
+        </div>
+      </div>
+      {vocab ? (
+        <div className={s.stack} style={{ marginTop: 6 }}>
+          <div style={{ fontWeight: 700 }}>{vocab.meaningKo}</div>
+          {vocab.synonyms?.length ? <div className={s.small}>바꿔 쓰기: {vocab.synonyms.join(', ')}</div> : null}
+          {vocab.example && (
+            <div className={s.small}>
+              <div style={{ fontFamily: 'var(--serif)' }}>{vocab.example.en}</div>
+              <div className={s.muted}>{vocab.example.ko}</div>
+            </div>
+          )}
+        </div>
+      ) : adding ? (
+        <form className={s.stack} style={{ marginTop: 8 }}
+          onSubmit={async (e) => {
+            e.preventDefault();
+            await addMyWord({ term: word, meaningKo: meaning.trim(), sentence, lessonKey });
+            toast(`'${word}' 를 내 단어에 추가했어요`);
+            onClose();
+          }}>
+          <label className={s.label}>뜻(직접 입력)
+            <input className={s.input} value={meaning} onChange={(e) => setMeaning(e.target.value)} autoFocus />
+          </label>
+          <button type="submit" className={s.primary}>추가</button>
+        </form>
+      ) : (
+        <div className={s.row} style={{ marginTop: 8 }}>
+          <span className={s.muted + ' ' + s.small}>이 레슨의 핵심 단어가 아니에요.</span>
+          <button type="button" className={s.btn} onClick={() => setAdding(true)}>＋ 내 단어로 추가</button>
+        </div>
+      )}
+    </Sheet>
+  );
+}
+
+export function SentenceMenu({ lesson, lessonKey, sentence, mark, onClose }: { lesson: Lesson; lessonKey: string; sentence: Sentence; mark?: SentenceMarkRow; onClose: () => void }) {
+  const nav = useNavigate();
+  const [memo, setMemoText] = useState(mark?.memo ?? '');
+  const [editing, setEditing] = useState(false);
+  return (
+    <Sheet onClose={onClose} label="문장 메뉴">
+      <p style={{ fontFamily: 'var(--serif)', marginTop: 0 }}>{sentence.en}</p>
+      {editing ? (
+        <form className={s.stack} onSubmit={async (e) => { e.preventDefault(); await setMemo(lessonKey, sentence.id, memo); onClose(); }}>
+          <textarea className={s.textarea} value={memo} onChange={(e) => setMemoText(e.target.value)} aria-label="메모" autoFocus />
+          <button type="submit" className={s.primary}>메모 저장</button>
+        </form>
+      ) : (
+        <div className={s.stack}>
+          <button type="button" className={s.btn} autoFocus onClick={() => { void toggleSentenceMark(lessonKey, sentence.id, 'bookmark'); onClose(); }}>
+            🔖 {mark?.bookmark ? '북마크 해제' : '북마크'}
+          </button>
+          <button type="button" className={s.btn} onClick={() => setEditing(true)}>📝 메모{mark?.memo ? ' 수정' : ''}</button>
+          <button type="button" className={s.btn} onClick={() => { void toggleSentenceMark(lessonKey, sentence.id, 'hard'); onClose(); }}>
+            ⚠️ {mark?.hard ? '"어려운 문장" 해제' : '"어려운 문장" 표시'}
+          </button>
+          <button type="button" className={s.btn} onClick={() => { void playSentence(sentence); onClose(); }}>🔊 이 문장 듣기</button>
+          <button type="button" className={s.btn} onClick={() => nav(`/${lesson.track}/lesson/${lesson.id}/structure?s=${sentence.id}`)}>🧩 문장+문법 탭에서 보기</button>
+          <button type="button" className={s.ghost} onClick={onClose}>닫기</button>
+        </div>
+      )}
+    </Sheet>
+  );
+}
+
+/** 길게 누르기(500ms) + 오른쪽 클릭 + Enter 키 */
+export function useLongPress(onLong: () => void) {
+  const t = useRef<number | null>(null);
+  const startPt = useRef<[number, number]>([0, 0]);
+  const fired = useRef(false);
+  const clear = () => {
+    if (t.current) window.clearTimeout(t.current);
+    t.current = null;
+  };
+  return {
+    onPointerDown: (e: React.PointerEvent) => {
+      if (e.button !== 0) return;
+      startPt.current = [e.clientX, e.clientY];
+      fired.current = false;
+      clear();
+      t.current = window.setTimeout(() => { fired.current = true; onLong(); }, 500);
+    },
+    onPointerMove: (e: React.PointerEvent) => {
+      if (Math.abs(e.clientX - startPt.current[0]) + Math.abs(e.clientY - startPt.current[1]) > 10) clear();
+    },
+    onPointerUp: clear,
+    onPointerLeave: clear,
+    onPointerCancel: clear,
+    onContextMenu: (e: React.MouseEvent) => { e.preventDefault(); clear(); onLong(); },
+    onKeyDown: (e: React.KeyboardEvent) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onLong(); } },
+    onClickCapture: (e: React.MouseEvent) => { if (fired.current) { e.stopPropagation(); e.preventDefault(); fired.current = false; } },
+  };
+}
