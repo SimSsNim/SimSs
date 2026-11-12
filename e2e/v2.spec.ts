@@ -278,7 +278,7 @@ test('v12. 맨 위에서 아래로 당기면 새로고침', async ({ page }) => 
 test('v13. 하단 탭: 홈·단어 추가, 제목 심쓰 영어', async ({ page }) => {
   await start(page, './#/review');
   const nav = page.getByRole('navigation', { name: '주 메뉴' });
-  await expect(nav.getByRole('link')).toHaveText(['홈', '단어', '복습', '문법 모음', '즐겨찾기', '기록/설정']);
+  await expect(nav.getByRole('link')).toHaveText(['홈', '단어', '문법 모음', '복습', '즐겨찾기', '기록/설정']);
   await expect(page.getByText('심쓰 영어')).toBeVisible();
   await expect(page).toHaveTitle('심쓰 영어');
 });
@@ -366,4 +366,26 @@ test('v17. 이야기: 하루 여러 편 고르기, 뉴스 칩, 레벨 켜고 끄
   await page.reload();
   await expect(page).toHaveURL(/#\/toeic$/);
   await expect(page.getByRole('group', { name: '학습 트랙' }).getByRole('button').first()).toHaveText(/토익/);
+});
+
+test('v18. 기록 첫 화면: 공부 기록 초기화(항목 선택, 전체 선택/해제)', async ({ page }) => {
+  await start(page, URL5);
+  await solvePractice(page, P5_ANSWERS.map((a, i) => (i === 0 ? 'A' : a)));
+  await page.goto('./#/review?tab=wrong');
+  await expect(page.getByTestId('wrong-row')).toHaveCount(1);
+  await page.goto('./#/records');
+  await page.getByTestId('study-reset').locator('summary').click();
+  await page.getByTestId('reset-all').click();
+  await expect(page.getByTestId('reset-run')).toHaveText('선택한 10개 초기화');
+  await page.getByTestId('reset-none').click();
+  await expect(page.getByTestId('reset-run')).toBeDisabled();
+  await page.getByTestId('reset-wrong').check();
+  page.once('dialog', (d) => void d.accept());
+  await page.getByTestId('reset-run').click();
+  await expect(page.getByTestId('reset-run')).toHaveText('선택한 0개 초기화');
+  await page.goto('./#/review?tab=wrong');
+  await expect(page.getByTestId('wrong-row')).toHaveCount(0);
+  // 고르지 않은 문제 풀이 기록은 남음
+  await page.goto('./#/toeic');
+  await expect(page.getByTestId('part-status-part5')).toHaveText('완료 9/10');
 });

@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import { useLiveQuery } from 'dexie-react-hooks';
+import { Link } from 'react-router-dom';
 import s from '../styles/ui.module.css';
 import { exportBackup, importBackup, parseBackup } from '../lib/backup';
 import { useSettings, setSetting, loadSettings } from '../lib/settings';
@@ -77,6 +79,85 @@ export function ResetPanel() {
         location.reload();
       }}>모든 데이터 지우기</button>
     </section>
+  );
+}
+
+/** 공부 기록 초기화: 항목을 골라서 지운다(설정·레슨·백업 시각은 그대로) */
+const STUDY_ITEMS = [
+  { id: 'progress', label: '학습 진행', hint: '오늘의 학습 순서 체크, 마지막으로 본 탭·문장', tables: ['lessonProgress'] },
+  { id: 'words', label: '단어 학습 상태', hint: '알아요/몰라요/헷갈려요, 단어 ★, 단어 복습 일정', tables: ['wordState'] },
+  { id: 'myWords', label: '내가 추가한 단어', hint: '직접 넣은 단어', tables: ['myWords'] },
+  { id: 'quiz', label: '토익 문제 풀이 기록', hint: '점수·시도·걸린 시간, 레벨 추천 닫기', tables: ['quizAttempt', 'dismissedTips'] },
+  { id: 'wrong', label: '오답노트', hint: '틀린 문제, 헷갈림, 문제 ★, 오답 복습 일정', tables: ['questionState'] },
+  { id: 'sentences', label: '문장 북마크·메모', hint: '🔖 북마크, 어려움 표시, 메모', tables: ['sentenceMarks'] },
+  { id: 'grammar', label: '문법 표시', hint: '이해함/다시 볼래요, 문법 ★', tables: ['grammarState'] },
+  { id: 'practice', label: '연습 기록', hint: '타이핑·받아쓰기 등 점수', tables: ['practiceLog'] },
+  { id: 'daily', label: '학습 시간·캘린더', hint: '하루 학습 시간, 연속 학습일', tables: ['dailyLog'] },
+  { id: 'recordings', label: '녹음', hint: '섀도잉 녹음 파일', tables: ['recordings'] },
+] as const;
+
+export function StudyResetPanel() {
+  const [sel, setSel] = useState<Set<string>>(new Set());
+  const [busy, setBusy] = useState(false);
+  const counts = useLiveQuery(async () => {
+    const out: Record<string, number> = {};
+    for (const it of STUDY_ITEMS) {
+      let n = 0;
+      for (const tb of it.tables) n += await db.table(tb).count();
+      out[it.id] = n;
+    }
+    return out;
+  }, []);
+  const toggle = (id: string) => {
+    const next = new Set(sel);
+    if (next.has(id)) next.delete(id); else next.add(id);
+    setSel(next);
+  };
+  const allOn = sel.size === STUDY_ITEMS.length;
+  const run = async () => {
+    const picked = STUDY_ITEMS.filter((it) => sel.has(it.id));
+    if (!picked.length) return;
+    if (!confirm(`${picked.map((x) => x.label).join(', ')}\n\n이 항목들을 지울까요? 되돌릴 수 없어요. (먼저 백업을 권해요)`)) return;
+    setBusy(true);
+    try {
+      const tables = [...new Set(picked.flatMap((x) => [...x.tables]))];
+      await db.transaction('rw', tables.map((n) => db.table(n)), async () => {
+        for (const n of tables) await db.table(n).clear();
+      });
+      setSel(new Set());
+      toast(`${picked.length}개 항목을 초기화했어요`);
+    } finally {
+      setBusy(false);
+    }
+  };
+  return (
+    <details className={s.card} data-testid="study-reset" style={{ padding: 0 }}>
+      <summary style={{ padding: '12px 14px', cursor: 'pointer', fontWeight: 700, minHeight: 44 }}>🗑 공부 기록 초기화</summary>
+      <div className={s.stack} style={{ padding: '0 14px 14px' }}>
+        <p className={s.small + ' ' + s.muted} style={{ margin: 0 }}>지울 항목을 고르세요. 설정과 레슨은 그대로예요. 지우기 전에 <Link to="/records/backup">백업</Link>을 권해요.</p>
+        <div className={s.row}>
+          <button type="button" className={s.chip} onClick={() => setSel(new Set(STUDY_ITEMS.map((x) => x.id)))} aria-pressed={allOn} data-testid="reset-all">전체 선택</button>
+          <button type="button" className={s.chip} onClick={() => setSel(new Set())} disabled={!sel.size} data-testid="reset-none">전체 해제</button>
+          <span className={s.small + ' ' + s.muted}>{sel.size}개 선택</span>
+        </div>
+        <ul className={s.list} style={{ gap: 4 }}>
+          {STUDY_ITEMS.map((it) => (
+            <li key={it.id}>
+              <label className={s.check} style={{ alignItems: 'flex-start' }}>
+                <input type="checkbox" checked={sel.has(it.id)} onChange={() => toggle(it.id)} data-testid={`reset-${it.id}`} />
+                <span>
+                  <b>{it.label}</b> <span className={s.small + ' ' + s.muted}>{counts ? `${counts[it.id]}개` : ''}</span>
+                  <br /><span className={s.small + ' ' + s.muted}>{it.hint}</span>
+                </span>
+              </label>
+            </li>
+          ))}
+        </ul>
+        <button type="button" className={s.danger} disabled={!sel.size || busy} onClick={() => void run()} data-testid="reset-run">
+          {busy ? '지우는 중…' : `선택한 ${sel.size}개 초기화`}
+        </button>
+      </div>
+    </details>
   );
 }
 

@@ -10,8 +10,8 @@ export function BottomNav() {
     // 레슨 화면도 '홈' 탭 안으로 본다
     { to: `/${track}`, label: '홈', icon: 'today', match: /^\/(general|toeic)(\/?$|\/(list|lesson)(\/|$))/ },
     { to: '/words', label: '단어', icon: 'abc', match: /^\/words/ },
-    { to: '/review', label: '복습', icon: 'review', match: /^\/(review|drill)/ },
     { to: '/grammar', label: '문법 모음', icon: 'grammar', match: /^\/grammar/ },
+    { to: '/review', label: '복습', icon: 'review', match: /^\/(review|drill)/ },
     { to: '/favorites', label: '즐겨찾기', icon: 'star', match: /^\/favorites/ },
     { to: '/records', label: '기록/설정', icon: 'records', match: /^\/records/ },
   ];

@@ -10,7 +10,7 @@ import { isStudyDay } from '../lib/progress';
 import { useLessons } from '../lib/lessons';
 import { TRACK_LABEL } from '../lib/types';
 import { SettingsPanel } from './SettingsPanel';
-import { BackupPanel, ImportPanel, ResetPanel } from './DataPanels';
+import { BackupPanel, ImportPanel, ResetPanel, StudyResetPanel } from './DataPanels';
 import { LevelFilterChips, type LevelFilter } from './Wordbook';
 import { quizStats, weakest, pct } from '../lib/stats';
 import { CHAPTERS, CHAPTER_LABEL, LEVELS } from '../lib/types';
@@ -36,7 +36,7 @@ export function Records() {
             <button key={x.id} type="button" role="tab" className={s.chip} aria-selected={section === x.id} onClick={() => nav(`/records/${x.id}`, { replace: true })}>{x.label}</button>
           ))}
         </div>
-        {section === 'stats' && <Stats />}
+        {section === 'stats' && <><StudyResetPanel /><div style={{ height: 10 }} /><Stats /></>}
         {section === 'settings' && <SettingsPanel />}
         {section === 'backup' && <><BackupPanel /><ResetPanel /></>}
         {section === 'import' && <ImportPanel />}
