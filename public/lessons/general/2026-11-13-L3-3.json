@@ -1,0 +1,1674 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-13-L3-3",
+  "date": "2026-11-13",
+  "level": 3,
+  "title": "The Adventures of Tom Sawyer: Work and Play",
+  "titleKo": "톰 소여의 모험: 일과 놀이 (울타리 칠하기)",
+  "genre": "short-story",
+  "tags": [
+    "Mark Twain",
+    "novel excerpt",
+    "Tom Sawyer",
+    "American literature"
+  ],
+  "source": {
+    "work": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "translator": null,
+    "year": 1876,
+    "edition": "Project Gutenberg #74",
+    "url": "https://www.gutenberg.org/ebooks/74",
+    "license": "public-domain",
+    "excerptNote": "장편소설 발췌: 제2장 마지막 세 단락 (\"He had had a nice, good, idle time…\" ~ \"…wended toward headquarters to report.\"). 울타리 칠하기 일화의 결말. 원문의 이탤릭(obliged) 표시는 일반 글자로 옮김."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/adventures_tom_sawyer_3_1903_librivox/tom_sawyer3_02_twain_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/adventures_tom_sawyer_3_1903_librivox/tom_sawyer3_02_twain_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-adventures-of-tom-sawyer-version-3-by-mark-twain/",
+    "reader": "shibe",
+    "durationSec": 662,
+    "startSec": 575,
+    "endSec": 658,
+    "note": "LibriVox 'The Adventures of Tom Sawyer (version 3)' 트랙 02 - Chapter 2 (11:02, 낭독 shibe, 텍스트 원본 Gutenberg #74). 발췌는 장 끝부분으로 대략 9:35~10:58 (단어 수로 추정한 대략적인 위치)."
+  },
+  "wordCount": 231,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "그동안 톰은 내내 즐겁고 신나게 빈둥거렸다. 어울릴 친구도 넘쳐 났다. 그런데도 울타리에는 회반죽이 세 겹이나 칠해져 있었다! 회반죽이 떨어지지만 않았더라면 그는 마을의 모든 소년을 빈털터리로 만들었을 것이다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "톰은 세상이 결국 그렇게 허무한 곳만은 아니라고 혼잣말을 했다. 그는 자기도 모르는 사이에 인간 행동의 위대한 법칙 하나를 발견한 것이다. 바로, 어른이든 아이든 어떤 것을 몹시 갖고 싶게 만들려면 그것을 얻기 어렵게 만들기만 하면 된다는 법칙이다. 만약 그가 이 책을 쓴 사람처럼 위대하고 현명한 철학자였다면, 이제 깨달았을 것이다. '일'이란 사람이 억지로 해야 하는 모든 것이고, '놀이'란 억지로 하지 않아도 되는 모든 것이라는 사실을. 그리고 이것을 알면, 조화(가짜 꽃)를 만들거나 쳇바퀴를 밟는 것은 일인데 볼링을 하거나 몽블랑에 오르는 것은 그저 즐거운 놀이인 이유도 이해할 수 있을 것이다. 영국에는 여름이면 말 네 마리가 끄는 승합 마차를 매일 20~30마일씩 정기 노선으로 모는 부자 신사들이 있다. 그 특권을 누리는 데 상당한 돈이 들기 때문이다. 하지만 그 일에 대해 품삯을 주겠다고 하면, 그것은 곧 '일'이 되어 버리고, 그들은 그만두고 말 것이다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "소년은 자기 살림살이에 일어난 엄청난 변화를 잠시 곰곰이 생각하더니, 보고를 하러 본부(집) 쪽으로 걸음을 옮겼다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "He had had a nice, good, idle time all the while—plenty of company—and the fence had three coats of whitewash on it!",
+      "ko": "그동안 톰은 내내 즐겁고 신나게 빈둥거렸다. 어울릴 친구도 넘쳐 났다. 그런데도 울타리에는 회반죽이 세 겹이나 칠해져 있었다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "If he hadn’t run out of whitewash he would have bankrupted every boy in the village.",
+      "ko": "회반죽이 떨어지지만 않았더라면 그는 마을의 모든 소년을 빈털터리로 만들었을 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Tom said to himself that it was not such a hollow world, after all.",
+      "ko": "톰은 세상이 결국 그렇게 허무한 곳만은 아니라고 혼잣말을 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "He had discovered a great law of human action, without knowing it—namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.",
+      "ko": "그는 자기도 모르는 사이에 인간 행동의 위대한 법칙 하나를 발견한 것이다. 바로, 어른이든 아이든 어떤 것을 몹시 갖고 싶게 만들려면 그것을 얻기 어렵게 만들기만 하면 된다는 법칙이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "If he had been a great and wise philosopher, like the writer of this book, he would now have comprehended that Work consists of whatever a body is obliged to do, and that Play consists of whatever a body is not obliged to do.",
+      "ko": "만약 그가 이 책을 쓴 사람처럼 위대하고 현명한 철학자였다면, 이제 깨달았을 것이다. '일'이란 사람이 억지로 해야 하는 모든 것이고, '놀이'란 억지로 하지 않아도 되는 모든 것이라는 사실을.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "And this would help him to understand why constructing artificial flowers or performing on a tread-mill is work, while rolling ten-pins or climbing Mont Blanc is only amusement.",
+      "ko": "그리고 이것을 알면, 조화(가짜 꽃)를 만들거나 쳇바퀴를 밟는 것은 일인데 볼링을 하거나 몽블랑에 오르는 것은 그저 즐거운 놀이인 이유도 이해할 수 있을 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "There are wealthy gentlemen in England who drive four-horse passenger-coaches twenty or thirty miles on a daily line, in the summer, because the privilege costs them considerable money; but if they were offered wages for the service, that would turn it into work and then they would resign.",
+      "ko": "영국에는 여름이면 말 네 마리가 끄는 승합 마차를 매일 20~30마일씩 정기 노선으로 모는 부자 신사들이 있다. 그 특권을 누리는 데 상당한 돈이 들기 때문이다. 하지만 그 일에 대해 품삯을 주겠다고 하면, 그것은 곧 '일'이 되어 버리고, 그들은 그만두고 말 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "The boy mused awhile over the substantial change which had taken place in his worldly circumstances, and then wended toward headquarters to report.",
+      "ko": "소년은 자기 살림살이에 일어난 엄청난 변화를 잠시 곰곰이 생각하더니, 보고를 하러 본부(집) 쪽으로 걸음을 옮겼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "run out of",
+      "pos": "phrasal-verb",
+      "meaningKo": "~이 다 떨어지다, 바닥나다",
+      "ipa": "/rʌn aʊt əv/",
+      "synonyms": [
+        "use up",
+        "exhaust",
+        "be out of"
+      ],
+      "matchText": "run out of",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We ran out of milk, so I went to the store.",
+        "ko": "우유가 다 떨어져서 나는 가게에 갔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "covet",
+      "pos": "verb",
+      "meaningKo": "(남의 것을) 몹시 탐내다, 갖고 싶어 하다",
+      "ipa": "/ˈkʌvɪt/",
+      "synonyms": [
+        "crave",
+        "desire",
+        "long for"
+      ],
+      "matchText": "covet",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Every child in the class coveted her new bicycle.",
+        "ko": "반 아이들 모두가 그녀의 새 자전거를 몹시 탐냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "attain",
+      "pos": "verb",
+      "meaningKo": "(노력해서) 얻다, 이루다",
+      "ipa": "/əˈteɪn/",
+      "synonyms": [
+        "achieve",
+        "obtain",
+        "reach"
+      ],
+      "matchText": "attain",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She worked hard to attain her goal.",
+        "ko": "그녀는 목표를 이루기 위해 열심히 노력했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "privilege",
+      "pos": "noun",
+      "meaningKo": "특권, 특별한 혜택",
+      "ipa": "/ˈprɪvəlɪdʒ/",
+      "synonyms": [
+        "honor",
+        "advantage",
+        "right"
+      ],
+      "matchText": "privilege",
+      "sentenceId": "s7",
+      "example": {
+        "en": "It was a privilege to meet the famous writer.",
+        "ko": "그 유명한 작가를 만난 것은 특별한 영광이었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "muse",
+      "pos": "verb",
+      "meaningKo": "곰곰이 생각하다, 깊이 생각에 잠기다",
+      "ipa": "/mjuːz/",
+      "synonyms": [
+        "ponder",
+        "reflect",
+        "think over"
+      ],
+      "matchText": "mused",
+      "sentenceId": "s8",
+      "example": {
+        "en": "He mused over the letter for a long time.",
+        "ko": "그는 그 편지에 대해 오랫동안 곰곰이 생각했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "If",
+          "role": "CONJ",
+          "ko": "만약 ~했다면",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그가",
+          "sub": true
+        },
+        {
+          "text": "hadn’t run out of",
+          "role": "V",
+          "ko": "다 떨어지지 않았다면",
+          "sub": true
+        },
+        {
+          "text": "whitewash",
+          "role": "O",
+          "ko": "회반죽이",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그는"
+        },
+        {
+          "text": "would have bankrupted",
+          "role": "V",
+          "ko": "파산시켰을 것이다"
+        },
+        {
+          "text": "every boy",
+          "role": "O",
+          "ko": "모든 소년을"
+        },
+        {
+          "text": "in the village.",
+          "role": "M",
+          "ko": "마을의"
+        }
+      ],
+      "skeleton": "he would have bankrupted every boy",
+      "explanation": "If절(종속절)이 앞에 나오고 주절이 뒤따른다. If + had p.p., 주어 + would have p.p. 는 '(과거에) ~했다면 ~했을 텐데'라는 가정법 과거완료. 실제로는 회반죽이 떨어져서 아이들을 다 털지는 못했다는 뜻이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Tom",
+          "role": "S",
+          "ko": "톰은"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "ko": "말했다"
+        },
+        {
+          "text": "to himself",
+          "role": "M",
+          "ko": "혼잣말로"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라고",
+          "sub": true
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "ko": "세상은",
+          "sub": true
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~이었다",
+          "sub": true
+        },
+        {
+          "text": "not such a hollow world,",
+          "role": "C",
+          "ko": "그렇게 허무한 세상이 아닌",
+          "sub": true
+        },
+        {
+          "text": "after all.",
+          "role": "M",
+          "ko": "결국",
+          "sub": true
+        }
+      ],
+      "skeleton": "Tom said (that ~)",
+      "explanation": "say to oneself는 '혼잣말하다'. that 이하가 said의 내용(명사절)이다. 주절이 과거(said)라서 that절 동사도 과거(was)로 맞췄다(시제 일치). after all은 '결국, 따지고 보면'."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "The boy",
+          "role": "S",
+          "ko": "소년은"
+        },
+        {
+          "text": "mused",
+          "role": "V",
+          "ko": "곰곰이 생각했다"
+        },
+        {
+          "text": "awhile",
+          "role": "M",
+          "ko": "잠시"
+        },
+        {
+          "text": "over the substantial change",
+          "role": "M",
+          "ko": "엄청난 변화에 대해"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "(그 변화는)",
+          "sub": true
+        },
+        {
+          "text": "had taken place",
+          "role": "V",
+          "ko": "일어났던",
+          "sub": true
+        },
+        {
+          "text": "in his worldly circumstances,",
+          "role": "M",
+          "ko": "자기 살림살이에",
+          "sub": true
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "then",
+          "role": "M",
+          "ko": "그다음"
+        },
+        {
+          "text": "wended",
+          "role": "V",
+          "ko": "걸어갔다"
+        },
+        {
+          "text": "toward headquarters",
+          "role": "M",
+          "ko": "본부 쪽으로"
+        },
+        {
+          "text": "to report.",
+          "role": "M",
+          "ko": "보고하러"
+        }
+      ],
+      "skeleton": "The boy mused ~ and wended ~",
+      "explanation": "주어 The boy에 동사 두 개(mused, wended)가 and로 이어진다. which절은 change를 꾸미는 관계대명사절이고, had taken place(과거완료)는 생각하던 때보다 변화가 먼저 일어났음을 보여 준다. to report는 '보고하기 위해'라는 목적의 to부정사."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "가정법 과거완료 (If + had p.p., would have p.p.)",
+      "tags": [
+        "가정법",
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "If he hadn’t run out of whitewash",
+        "would have bankrupted"
+      ],
+      "explanation": "과거 사실과 반대되는 상황을 상상할 때 쓴다. '회반죽이 떨어지지 않았더라면(실제로는 떨어졌다) 모두를 빈털터리로 만들었을 것이다(실제로는 그러지 못했다)'. s5의 If he had been ~, he would now have comprehended ~ 도 같은 구조다.",
+      "example": {
+        "en": "If I had left earlier, I would have caught the bus.",
+        "ko": "좀 더 일찍 나섰더라면 버스를 탔을 텐데."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "사역동사 make + 목적어 + 동사원형 / 형용사",
+      "tags": [
+        "to부정사",
+        "어순"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "in order to make a man or a boy covet a thing",
+        "make the thing difficult to attain"
+      ],
+      "explanation": "make + 목적어 + 동사원형은 '~가 …하게 만들다'(make a boy covet: 소년이 탐내게 만들다). make + 목적어 + 형용사는 '~를 …한 상태로 만들다'(make the thing difficult: 그것을 어렵게 만들다). in order to는 '~하기 위해서', difficult to attain은 '얻기 어려운'.",
+      "example": {
+        "en": "The sad movie made me cry.",
+        "ko": "그 슬픈 영화가 나를 울게 만들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "복합관계대명사 whatever",
+      "tags": [
+        "관계사",
+        "명사절"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "whatever a body is obliged to do"
+      ],
+      "explanation": "whatever는 '~하는 것은 무엇이든(anything that)'이라는 뜻으로 명사절을 만든다. 여기서는 consists of의 목적어 역할. a body는 옛날식 표현으로 '사람(somebody)', be obliged to do는 '어쩔 수 없이 ~해야 하다'.",
+      "example": {
+        "en": "You can eat whatever you like.",
+        "ko": "먹고 싶은 것은 무엇이든 먹어도 된다."
+      },
+      "note": "Work와 Play를 대문자로 쓴 것은 작가가 두 개념을 강조하기 위해서다."
+    }
+  ],
+  "glossary": {
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (톰)",
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) 과거완료 / 가졌다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "nice": {
+      "lemma": "nice",
+      "pos": "adjective",
+      "ko": "즐거운, 좋은",
+      "synonyms": [
+        "pleasant",
+        "enjoyable"
+      ],
+      "ipa": "/naɪs/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은, 신나는",
+      "synonyms": [
+        "fine",
+        "great"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "idle": {
+      "lemma": "idle",
+      "pos": "adjective",
+      "ko": "빈둥거리는, 한가한",
+      "synonyms": [
+        "lazy",
+        "leisurely",
+        "inactive"
+      ],
+      "ipa": "/ˈaɪdəl/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간, 때",
+      "synonyms": [
+        "period",
+        "spell"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 내내 (all the while: 그동안 내내)",
+      "ipa": "/ɔːl/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안 / ~인 반면 (all the while: 내내)",
+      "ipa": "/waɪl/"
+    },
+    "plenty": {
+      "lemma": "plenty",
+      "pos": "noun",
+      "ko": "많음, 풍부함 (plenty of: 많은)",
+      "synonyms": [
+        "lots",
+        "abundance"
+      ],
+      "ipa": "/ˈplɛnti/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의",
+      "ipa": "/ʌv/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "함께 있는 사람들, 동무",
+      "synonyms": [
+        "companions",
+        "friends"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "fence": {
+      "lemma": "fence",
+      "pos": "noun",
+      "ko": "울타리, 담장",
+      "synonyms": [
+        "barrier",
+        "railing"
+      ],
+      "ipa": "/fɛns/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 세",
+      "ipa": "/θriː/"
+    },
+    "coats": {
+      "lemma": "coat",
+      "pos": "noun",
+      "ko": "(페인트 등의) 칠, 겹",
+      "form": "복수형",
+      "synonyms": [
+        "layers",
+        "coverings"
+      ],
+      "ipa": "/koʊts/"
+    },
+    "whitewash": {
+      "lemma": "whitewash",
+      "pos": "noun",
+      "ko": "회반죽, 흰 칠 (석회 도료)",
+      "synonyms": [
+        "lime paint",
+        "paint"
+      ],
+      "ipa": "/ˈwaɪˌtwɑːʃ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에",
+      "ipa": "/ɑːn/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "ipa": "/ɪt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "ipa": "/ɪf/"
+    },
+    "hadn't": {
+      "lemma": "have not",
+      "pos": "auxiliary",
+      "ko": "~하지 않았다 (had not의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/ˈhædənt/"
+    },
+    "run": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(run out of) ~이 다 떨어지다",
+      "form": "과거분사",
+      "synonyms": [
+        "exhaust",
+        "use up"
+      ],
+      "ipa": "/rʌn/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로, 다 (run out: 바닥나다)",
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (가정의 결과)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(would have + 과거분사) ~했을 것이다",
+      "ipa": "/hæv/"
+    },
+    "bankrupted": {
+      "lemma": "bankrupt",
+      "pos": "verb",
+      "ko": "파산시키다, 빈털터리로 만들다",
+      "form": "과거분사",
+      "synonyms": [
+        "ruin",
+        "impoverish"
+      ],
+      "ipa": "/ˈbæŋkrəptɪd/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든",
+      "ipa": "/ˈɛvəri/"
+    },
+    "boy": {
+      "lemma": "boy",
+      "pos": "noun",
+      "ko": "소년, 남자아이",
+      "synonyms": [
+        "lad",
+        "youngster"
+      ],
+      "ipa": "/bɔɪ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "ipa": "/ɪn/"
+    },
+    "village": {
+      "lemma": "village",
+      "pos": "noun",
+      "ko": "마을",
+      "synonyms": [
+        "town",
+        "hamlet"
+      ],
+      "ipa": "/ˈvɪlədʒ/"
+    },
+    "tom": {
+      "lemma": "Tom",
+      "pos": "proper-noun",
+      "ko": "톰 (주인공 톰 소여)",
+      "ipa": "/tɑːm/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다 (say to oneself: 혼잣말하다)",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "stated"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게 / (to부정사) ~하는 것, ~하기 위해",
+      "ipa": "/tuː/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절) / 그것",
+      "ipa": "/ðæt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~이 아니다",
+      "ipa": "/nɑːt/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그렇게, 그토록",
+      "ipa": "/sʌtʃ/"
+    },
+    "hollow": {
+      "lemma": "hollow",
+      "pos": "adjective",
+      "ko": "공허한, 허무한",
+      "synonyms": [
+        "empty",
+        "meaningless",
+        "futile"
+      ],
+      "ipa": "/ˈhɑːloʊ/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상",
+      "synonyms": [
+        "life",
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "(after all) 결국, 어쨌든",
+      "ipa": "/ˈæftər/"
+    },
+    "discovered": {
+      "lemma": "discover",
+      "pos": "verb",
+      "ko": "발견하다",
+      "form": "과거분사",
+      "synonyms": [
+        "found",
+        "uncovered"
+      ],
+      "ipa": "/dɪˈskʌvərd/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "위대한, 큰",
+      "synonyms": [
+        "important",
+        "grand"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "law": {
+      "lemma": "law",
+      "pos": "noun",
+      "ko": "법칙",
+      "synonyms": [
+        "principle",
+        "rule"
+      ],
+      "ipa": "/lɔː/"
+    },
+    "human": {
+      "lemma": "human",
+      "pos": "adjective",
+      "ko": "인간의",
+      "synonyms": [
+        "mortal",
+        "people's"
+      ],
+      "ipa": "/ˈhjuːmən/"
+    },
+    "action": {
+      "lemma": "action",
+      "pos": "noun",
+      "ko": "행동, 행위",
+      "synonyms": [
+        "behavior",
+        "conduct"
+      ],
+      "ipa": "/ˈækʃən/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "knowing": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "realizing",
+        "being aware"
+      ],
+      "ipa": "/ˈnoʊɪŋ/"
+    },
+    "namely": {
+      "lemma": "namely",
+      "pos": "adverb",
+      "ko": "즉, 다시 말해",
+      "synonyms": [
+        "that is",
+        "specifically"
+      ],
+      "ipa": "/ˈneɪmli/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "(in order to) ~하기 위해서",
+      "synonyms": [
+        "purpose"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~하게 만들다 (make + 목적어 + 동사원형/형용사)",
+      "synonyms": [
+        "cause",
+        "get"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 어른, 사람",
+      "synonyms": [
+        "adult",
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "ipa": "/ɔːr/"
+    },
+    "covet": {
+      "lemma": "covet",
+      "pos": "verb",
+      "ko": "몹시 탐내다, 갖고 싶어 하다",
+      "synonyms": [
+        "crave",
+        "desire",
+        "long for"
+      ],
+      "ipa": "/ˈkʌvət/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "것, 물건",
+      "synonyms": [
+        "object",
+        "item"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "단지, 그저",
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "necessary": {
+      "lemma": "necessary",
+      "pos": "adjective",
+      "ko": "필요한",
+      "synonyms": [
+        "needed",
+        "required"
+      ],
+      "ipa": "/ˈnɛsəˌsɛri/"
+    },
+    "difficult": {
+      "lemma": "difficult",
+      "pos": "adjective",
+      "ko": "어려운",
+      "synonyms": [
+        "hard",
+        "tough"
+      ],
+      "ipa": "/ˈdɪfəkəlt/"
+    },
+    "attain": {
+      "lemma": "attain",
+      "pos": "verb",
+      "ko": "얻다, 이루다",
+      "synonyms": [
+        "obtain",
+        "achieve",
+        "get"
+      ],
+      "ipa": "/əˈteɪn/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다 (had been: 과거완료)",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "wise": {
+      "lemma": "wise",
+      "pos": "adjective",
+      "ko": "현명한, 지혜로운",
+      "synonyms": [
+        "sage",
+        "clever"
+      ],
+      "ipa": "/waɪz/"
+    },
+    "philosopher": {
+      "lemma": "philosopher",
+      "pos": "noun",
+      "ko": "철학자",
+      "synonyms": [
+        "thinker",
+        "sage"
+      ],
+      "ipa": "/fəˈlɑːsəfər/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼, ~와 같은",
+      "ipa": "/laɪk/"
+    },
+    "writer": {
+      "lemma": "writer",
+      "pos": "noun",
+      "ko": "작가, 글쓴이",
+      "synonyms": [
+        "author"
+      ],
+      "ipa": "/ˈraɪtər/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "ipa": "/ðɪs/"
+    },
+    "book": {
+      "lemma": "book",
+      "pos": "noun",
+      "ko": "책",
+      "synonyms": [
+        "volume"
+      ],
+      "ipa": "/bʊk/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금",
+      "synonyms": [
+        "at this point"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "comprehended": {
+      "lemma": "comprehend",
+      "pos": "verb",
+      "ko": "이해하다, 깨닫다",
+      "form": "과거분사",
+      "synonyms": [
+        "understood",
+        "grasped",
+        "realized"
+      ],
+      "ipa": "/ˌkɑːmprɪˈhɛndɪd/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일, 노동",
+      "synonyms": [
+        "labor",
+        "toil"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "consists": {
+      "lemma": "consist",
+      "pos": "verb",
+      "ko": "(consist of) ~으로 이루어지다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "comprises",
+        "is made up"
+      ],
+      "ipa": "/kənˈsɪsts/"
+    },
+    "whatever": {
+      "lemma": "whatever",
+      "pos": "pronoun",
+      "ko": "~하는 것은 무엇이든",
+      "ipa": "/ˌwʌˈtɛvər/"
+    },
+    "body": {
+      "lemma": "body",
+      "pos": "noun",
+      "ko": "(옛말) 사람, 누구",
+      "synonyms": [
+        "person",
+        "somebody"
+      ],
+      "ipa": "/ˈbɑːdi/"
+    },
+    "obliged": {
+      "lemma": "oblige",
+      "pos": "verb",
+      "ko": "(be obliged to) ~하지 않을 수 없다, 억지로 ~하다",
+      "form": "과거분사",
+      "synonyms": [
+        "forced",
+        "required",
+        "compelled"
+      ],
+      "ipa": "/əˈblaɪdʒd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "synonyms": [
+        "perform",
+        "carry out"
+      ],
+      "ipa": "/duː/"
+    },
+    "play": {
+      "lemma": "play",
+      "pos": "noun",
+      "ko": "놀이, 놀기",
+      "synonyms": [
+        "fun",
+        "recreation",
+        "amusement"
+      ],
+      "ipa": "/pleɪ/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "synonyms": [
+        "assist",
+        "aid"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "ipa": "/hɪm/"
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다",
+      "synonyms": [
+        "grasp",
+        "see"
+      ],
+      "ipa": "/ˌʌndərˈstænd/"
+    },
+    "why": {
+      "lemma": "why",
+      "pos": "adverb",
+      "ko": "왜 ~인지",
+      "ipa": "/waɪ/"
+    },
+    "constructing": {
+      "lemma": "construct",
+      "pos": "verb",
+      "ko": "만들다, 조립하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "making",
+        "building"
+      ],
+      "ipa": "/kənˈstrʌktɪŋ/"
+    },
+    "artificial": {
+      "lemma": "artificial",
+      "pos": "adjective",
+      "ko": "인공의, 가짜의",
+      "synonyms": [
+        "fake",
+        "man-made"
+      ],
+      "ipa": "/ˌɑːrtəˈfɪʃəl/"
+    },
+    "flowers": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": "복수형",
+      "synonyms": [
+        "blossoms"
+      ],
+      "ipa": "/ˈflaʊərz/"
+    },
+    "performing": {
+      "lemma": "perform",
+      "pos": "verb",
+      "ko": "(일·동작을) 하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "doing",
+        "working"
+      ],
+      "ipa": "/pərˈfɔːrmɪŋ/"
+    },
+    "tread-mill": {
+      "lemma": "treadmill",
+      "pos": "noun",
+      "ko": "쳇바퀴 (사람이 밟아 돌리는 형벌용 바퀴)",
+      "synonyms": [
+        "wheel",
+        "drudgery"
+      ],
+      "ipa": "/trɛd-mɪl/"
+    },
+    "rolling": {
+      "lemma": "roll",
+      "pos": "verb",
+      "ko": "굴리다 (rolling ten-pins: 볼링을 하다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "bowling"
+      ],
+      "ipa": "/ˈroʊlɪŋ/"
+    },
+    "ten-pins": {
+      "lemma": "tenpins",
+      "pos": "noun",
+      "ko": "텐핀 볼링 (핀 10개 볼링)",
+      "form": "복수형",
+      "synonyms": [
+        "bowling"
+      ],
+      "ipa": "/tɛn-pɪnz/"
+    },
+    "climbing": {
+      "lemma": "climb",
+      "pos": "verb",
+      "ko": "오르다, 등반하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "scaling",
+        "ascending"
+      ],
+      "ipa": "/ˈklaɪmɪŋ/"
+    },
+    "mont": {
+      "lemma": "Mont Blanc",
+      "pos": "proper-noun",
+      "ko": "몽블랑 (알프스 최고봉)",
+      "ipa": "/mɑːnt/"
+    },
+    "blanc": {
+      "lemma": "Mont Blanc",
+      "pos": "proper-noun",
+      "ko": "몽블랑 (알프스 최고봉)",
+      "ipa": "/blæŋk/"
+    },
+    "amusement": {
+      "lemma": "amusement",
+      "pos": "noun",
+      "ko": "즐거움, 오락",
+      "synonyms": [
+        "entertainment",
+        "fun",
+        "recreation"
+      ],
+      "ipa": "/əˈmjuːzmənt/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there are) ~이 있다",
+      "ipa": "/ðɛr/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 있다, ~이다",
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
+    },
+    "wealthy": {
+      "lemma": "wealthy",
+      "pos": "adjective",
+      "ko": "부유한",
+      "synonyms": [
+        "rich",
+        "affluent"
+      ],
+      "ipa": "/ˈwɛlθi/"
+    },
+    "gentlemen": {
+      "lemma": "gentleman",
+      "pos": "noun",
+      "ko": "신사",
+      "form": "복수형",
+      "synonyms": [
+        "men",
+        "nobles"
+      ],
+      "ipa": "/ˈdʒɛntəlmɪn/"
+    },
+    "england": {
+      "lemma": "England",
+      "pos": "proper-noun",
+      "ko": "잉글랜드, 영국",
+      "ipa": "/ˈɪŋɡlənd/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "ipa": "/huː/"
+    },
+    "drive": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(마차를) 몰다",
+      "synonyms": [
+        "steer",
+        "operate"
+      ],
+      "ipa": "/draɪv/"
+    },
+    "four-horse": {
+      "lemma": "four-horse",
+      "pos": "adjective",
+      "ko": "말 네 마리가 끄는",
+      "synonyms": [
+        "four-in-hand"
+      ],
+      "ipa": "/fɔːr-hɔːrs/"
+    },
+    "passenger-coaches": {
+      "lemma": "passenger-coach",
+      "pos": "noun",
+      "ko": "승합 마차",
+      "form": "복수형",
+      "synonyms": [
+        "stagecoaches",
+        "carriages"
+      ],
+      "ipa": "/ˈpæsəndʒər-ˈkoʊtʃɪz/"
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "pos": "number",
+      "ko": "20, 스물",
+      "ipa": "/ˈtwɛnti/"
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "pos": "number",
+      "ko": "30, 서른",
+      "ipa": "/ˈθɜːrˌdiː/"
+    },
+    "miles": {
+      "lemma": "mile",
+      "pos": "noun",
+      "ko": "마일 (약 1.6km)",
+      "form": "복수형",
+      "ipa": "/maɪlz/"
+    },
+    "daily": {
+      "lemma": "daily",
+      "pos": "adjective",
+      "ko": "매일의",
+      "synonyms": [
+        "everyday",
+        "regular"
+      ],
+      "ipa": "/ˈdeɪli/"
+    },
+    "line": {
+      "lemma": "line",
+      "pos": "noun",
+      "ko": "(교통) 노선",
+      "synonyms": [
+        "route",
+        "service"
+      ],
+      "ipa": "/laɪn/"
+    },
+    "summer": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름",
+      "synonyms": [
+        "summertime"
+      ],
+      "ipa": "/ˈsʌmər/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "privilege": {
+      "lemma": "privilege",
+      "pos": "noun",
+      "ko": "특권, 특별한 혜택",
+      "synonyms": [
+        "honor",
+        "right",
+        "advantage"
+      ],
+      "ipa": "/ˈprɪvlədʒ/"
+    },
+    "costs": {
+      "lemma": "cost",
+      "pos": "verb",
+      "ko": "(비용이) 들다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "requires",
+        "takes"
+      ],
+      "ipa": "/kɑːsts/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들에게, 그들을",
+      "ipa": "/ðɛm/"
+    },
+    "considerable": {
+      "lemma": "considerable",
+      "pos": "adjective",
+      "ko": "상당한, 꽤 많은",
+      "synonyms": [
+        "substantial",
+        "large",
+        "significant"
+      ],
+      "ipa": "/kənˈsɪdərəbəl/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "synonyms": [
+        "cash",
+        "funds"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만, 그러나",
+      "ipa": "/bʌt/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(가정법) ~이라면, (수동태) ~되다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "offered": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다, 주겠다고 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "given",
+        "proposed"
+      ],
+      "ipa": "/ˈɔːfərd/"
+    },
+    "wages": {
+      "lemma": "wage",
+      "pos": "noun",
+      "ko": "품삯, 임금",
+      "form": "복수형",
+      "synonyms": [
+        "pay",
+        "salary",
+        "earnings"
+      ],
+      "ipa": "/ˈweɪdʒəz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 위해",
+      "ipa": "/fɔːr/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "일, 봉사, 수고",
+      "synonyms": [
+        "work",
+        "duty",
+        "labor"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn A into B) A를 B로 바꾸다",
+      "synonyms": [
+        "change",
+        "transform",
+        "convert"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~으로 (변화)",
+      "ipa": "/ˈɪntu/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러면, 그다음에",
+      "synonyms": [
+        "afterward",
+        "next"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "resign": {
+      "lemma": "resign",
+      "pos": "verb",
+      "ko": "그만두다, 사직하다",
+      "synonyms": [
+        "quit",
+        "step down"
+      ],
+      "ipa": "/rɪˈzaɪn/"
+    },
+    "mused": {
+      "lemma": "muse",
+      "pos": "verb",
+      "ko": "곰곰이 생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "pondered",
+        "reflected",
+        "mulled"
+      ],
+      "ipa": "/mjuːzd/"
+    },
+    "awhile": {
+      "lemma": "awhile",
+      "pos": "adverb",
+      "ko": "잠시, 한동안",
+      "synonyms": [
+        "briefly",
+        "for a while"
+      ],
+      "ipa": "/əˈwaɪl/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~에 대해 (생각하다)",
+      "ipa": "/ˈoʊvər/"
+    },
+    "substantial": {
+      "lemma": "substantial",
+      "pos": "adjective",
+      "ko": "상당한, 큰",
+      "synonyms": [
+        "considerable",
+        "significant",
+        "major"
+      ],
+      "ipa": "/səbˈstænʃəl/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변화",
+      "synonyms": [
+        "shift",
+        "transformation"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "~한 (것) (관계대명사)",
+      "ipa": "/wɪtʃ/"
+    },
+    "taken": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 일어나다",
+      "form": "과거분사",
+      "synonyms": [
+        "happened",
+        "occurred"
+      ],
+      "ipa": "/ˈteɪkən/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place) 일어나다",
+      "synonyms": [
+        "occurrence"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "ipa": "/hɪz/"
+    },
+    "worldly": {
+      "lemma": "worldly",
+      "pos": "adjective",
+      "ko": "세속적인, 재산상의",
+      "synonyms": [
+        "material",
+        "financial"
+      ],
+      "ipa": "/ˈwɜːrldli/"
+    },
+    "circumstances": {
+      "lemma": "circumstance",
+      "pos": "noun",
+      "ko": "형편, 처지, 살림",
+      "form": "복수형",
+      "synonyms": [
+        "situation",
+        "condition",
+        "position"
+      ],
+      "ipa": "/ˈsɜːrkəmˌstænsəz/"
+    },
+    "wended": {
+      "lemma": "wend",
+      "pos": "verb",
+      "ko": "(천천히) 가다, 향하다",
+      "form": "과거형",
+      "synonyms": [
+        "made his way",
+        "went",
+        "headed"
+      ],
+      "ipa": "/ˈwɛndɪd/"
+    },
+    "toward": {
+      "lemma": "toward",
+      "pos": "preposition",
+      "ko": "~ 쪽으로",
+      "ipa": "/təˈwɔːrd/"
+    },
+    "headquarters": {
+      "lemma": "headquarters",
+      "pos": "noun",
+      "ko": "본부 (여기서는 집, 폴리 이모에게)",
+      "synonyms": [
+        "base",
+        "home"
+      ],
+      "ipa": "/ˈhɛdˌkwɔːrtərz/"
+    },
+    "report": {
+      "lemma": "report",
+      "pos": "verb",
+      "ko": "보고하다",
+      "synonyms": [
+        "announce",
+        "inform"
+      ],
+      "ipa": "/riˈpɔːrt/"
+    }
+  }
+}
