@@ -120,7 +120,7 @@ export function LessonPage() {
     <>
       <AppHeader track={track} target="stay" sticky={false}>
         <div className={s.row} style={{ flexWrap: 'nowrap', maxWidth: 760, margin: '6px auto 0' }}>
-          <Link to={backTarget(track)} className={s.iconBtn} aria-label="뒤로" style={{ flex: 'none' }}>‹</Link>
+          <Link to={backTarget(track)} className={s.iconSm} aria-label="뒤로" style={{ flex: 'none' }}>‹</Link>
           <div className={s.grow}>
             <div style={{ fontFamily: 'var(--serif)', fontWeight: 700, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }} data-testid="lesson-title">
               {lesson?.title ?? summary?.title ?? id}

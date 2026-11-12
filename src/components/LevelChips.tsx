@@ -35,20 +35,20 @@ export function LevelChips({ track, value, onChange, label = '내 레벨', all =
   const cur = value ?? mine;
   const levels = all ? LEVELS : enabledLevelsOf(st, track);
   const showNews = !onChange && !all && track === 'general' && st.newsEnabled;
-  const chip = { minHeight: 40, flexDirection: 'column', gap: 0, lineHeight: 1.1, padding: '2px 10px' } as const;
+  const chip = { minHeight: 32, flexDirection: 'column', gap: 0, lineHeight: 1.05, padding: '1px 9px', fontSize: 13 } as const;
   return (
-    <div role="group" aria-label={label} style={{ display: 'flex', gap: 6, flexWrap: 'wrap', alignItems: 'center' }}>
+    <div role="group" aria-label={label} style={{ display: 'flex', gap: 5, flexWrap: 'wrap', alignItems: 'center' }}>
       {levels.map((l) => (
         <button key={l} type="button" className={s.chip} aria-pressed={!news && cur === l} data-testid={`level-${l}`} title={LEVEL_DESC[track][l]}
           onClick={() => (onChange ? onChange(l) : setMyLevel(track, l))} style={chip}>
           <span>L{l}</span>
-          <span style={{ fontSize: 10, fontWeight: 500, opacity: 0.85 }}>{LEVEL_DESC[track][l]}</span>
+          <span style={{ fontSize: 9.5, fontWeight: 500, opacity: 0.85 }}>{LEVEL_DESC[track][l]}</span>
         </button>
       ))}
       {showNews && (
         <button type="button" className={s.chip} aria-pressed={news} data-testid="level-news" onClick={() => setSetting('generalView', 'news')} style={chip}>
           <span>뉴스</span>
-          <span style={{ fontSize: 10, fontWeight: 500, opacity: 0.85 }}>VOA</span>
+          <span style={{ fontSize: 9.5, fontWeight: 500, opacity: 0.85 }}>VOA</span>
         </button>
       )}
     </div>

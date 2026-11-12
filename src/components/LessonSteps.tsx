@@ -18,15 +18,15 @@ export function LessonSteps({ lessonKey, track, id, tab }: { lessonKey: string; 
         const on = !!list[c.key];
         const here = c.tab === tab;
         return (
-          <span key={c.key} className={s.chip} title={c.hint} style={{ flex: 'none', padding: 0, gap: 0, overflow: 'hidden', borderColor: here ? 'var(--accent)' : undefined, minHeight: 36 }}>
+          <span key={c.key} className={s.chip} title={c.hint} style={{ flex: 'none', padding: 0, gap: 0, overflow: 'hidden', borderColor: here ? 'var(--accent)' : undefined, minHeight: 30 }}>
             <button type="button" role="checkbox" aria-checked={on} aria-label={`${c.label} 완료`} data-testid={`step-check-${c.key}`}
               onClick={() => void setChecklist(lessonKey, c.key, !on)}
-              style={{ border: 0, background: on ? 'var(--accent)' : 'transparent', color: on ? 'var(--surface)' : 'var(--muted)', minWidth: 32, minHeight: 36, cursor: 'pointer', fontWeight: 800 }}>
+              style={{ border: 0, background: on ? 'var(--accent)' : 'transparent', color: on ? 'var(--surface)' : 'var(--muted)', minWidth: 28, minHeight: 30, cursor: 'pointer', fontWeight: 800 }}>
               {on ? '✓' : '☐'}
             </button>
             <button type="button" data-testid={`step-${c.key}`} aria-current={here ? 'step' : undefined}
               onClick={() => nav(`/${track}/lesson/${id}/${c.tab}`, { replace: true })}
-              style={{ border: 0, background: 'transparent', color: here ? 'var(--accent)' : 'inherit', fontWeight: here ? 800 : 600, padding: '0 10px 0 6px', minHeight: 36, cursor: 'pointer', whiteSpace: 'nowrap' }}>
+              style={{ border: 0, background: 'transparent', color: here ? 'var(--accent)' : 'inherit', fontWeight: here ? 800 : 600, padding: '0 9px 0 4px', minHeight: 30, fontSize: 13, cursor: 'pointer', whiteSpace: 'nowrap' }}>
               {'①②③④⑤⑥'[i]} {c.label}
             </button>
           </span>

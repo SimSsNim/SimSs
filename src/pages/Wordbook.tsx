@@ -32,7 +32,7 @@ export function LevelFilterChips({ value, onChange, counts }: { value: LevelFilt
   return (
     <div className={s.chips} role="group" aria-label="레벨 필터" style={{ paddingBottom: 2 }}>
       {(['all', ...[1, 2, 3, 4].filter((l) => TRACKS.some((t) => enabledLevelsOf(st, t).includes(l as Level)))] as const).map((l) => (
-        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)} style={{ minHeight: 36 }}>{l === 'all' ? '전체' : `L${l}`}{counts ? ` ${counts[l] ?? 0}` : ''}</button>
+        <button key={l} type="button" className={s.chip} aria-pressed={value === l} onClick={() => onChange(l)}>{l === 'all' ? '전체' : `L${l}`}{counts ? ` ${counts[l] ?? 0}` : ''}</button>
       ))}
     </div>
   );

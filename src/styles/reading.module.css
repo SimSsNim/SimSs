@@ -11,9 +11,9 @@
 .koPara { font-family: var(--sans); font-size: 0.82em; color: var(--muted); margin: -0.4em 0 1.3em; padding-left: 10px; border-left: 3px solid var(--line); }
 .hidden { filter: blur(6px); cursor: pointer; user-select: none; }
 .modeSeg { display: grid; grid-template-columns: repeat(4, 1fr); width: 100%; margin: 4px 0 6px; }
-.modeSeg > button { padding: 0 4px; font-size: 14px; min-height: 40px; }
+.modeSeg > button { padding: 0 4px; font-size: 13.5px; min-height: 32px; }
 .toolbar { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 0 10px; }
-.tchip { min-height: 40px; padding: 0 8px; font-size: 13.5px; letter-spacing: -0.2px; }
+.tchip { min-height: 32px; padding: 0 8px; font-size: 13.5px; letter-spacing: -0.2px; }
 .fontMenu { position: relative; margin-left: auto; }
 .memo { display: block; font-family: var(--sans); font-size: 13px; color: var(--warn); margin-bottom: 8px; }
 .oneCard { min-height: 46vh; display: flex; flex-direction: column; justify-content: center; gap: 16px; padding: 22px 18px; touch-action: pan-y; user-select: none; }

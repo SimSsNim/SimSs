@@ -20,15 +20,15 @@ export function DatePick({ value, onChange, dates, allowAll = true, todayBtn = f
   const canPrev = !list || (list.length > 0 && (!value || list[0] < value));
   const canNext = !list || (list.length > 0 && (!value || list[list.length - 1] > value));
   return (
-    <div className={s.row} role="group" aria-label={label} data-testid="date-pick" style={{ flexWrap: 'nowrap', gap: 6, margin: '6px 0' }}>
-      <button type="button" className={s.iconBtn} onClick={() => step(-1)} disabled={!canPrev} aria-label="이전 날짜" data-testid="date-prev" style={{ flex: 'none' }}>‹</button>
+    <div className={s.row} role="group" aria-label={label} data-testid="date-pick" style={{ flexWrap: 'nowrap', gap: 6, margin: '4px 0' }}>
+      <button type="button" className={s.iconSm} onClick={() => step(-1)} disabled={!canPrev} aria-label="이전 날짜" data-testid="date-prev" style={{ flex: 'none' }}>‹</button>
       <label className={s.chip} style={{ position: 'relative', flex: '1 1 auto', justifyContent: 'center', minWidth: 0, fontWeight: 700 }}>
         <span aria-hidden="true" style={{ whiteSpace: 'nowrap' }}>📅 {value ? `${formatKo(value)}${value === today ? ' · 오늘' : ''}` : '전체 날짜'}</span>
         <input type="date" value={value} aria-label={label} data-testid="date-input"
           onChange={(e) => { if (e.target.value || allowAll) onChange(e.target.value); }}
           style={{ position: 'absolute', inset: 0, opacity: 0, width: '100%', height: '100%', cursor: 'pointer' }} />
       </label>
-      <button type="button" className={s.iconBtn} onClick={() => step(1)} disabled={!canNext} aria-label="다음 날짜" data-testid="date-next" style={{ flex: 'none' }}>›</button>
+      <button type="button" className={s.iconSm} onClick={() => step(1)} disabled={!canNext} aria-label="다음 날짜" data-testid="date-next" style={{ flex: 'none' }}>›</button>
       {allowAll && value && <button type="button" className={s.chip} onClick={() => onChange('')} data-testid="date-all" style={{ flex: 'none' }}>전체</button>}
       {todayBtn && value !== today && <button type="button" className={s.chip} onClick={() => onChange(today)} data-testid="date-today" style={{ flex: 'none' }}>오늘</button>}
     </div>
