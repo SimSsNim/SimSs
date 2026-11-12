@@ -91,24 +91,19 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
     <Sheet onClose={onClose} label={`단어 ${word}`}>
       <div className={s.between} style={{ alignItems: 'flex-start' }}>
         <div style={{ minWidth: 0, flex: 1 }}>
-          <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>{' '}
-          {vocab && <span className={s.muted}>{vocab.pos}</span>}
-          {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexWrap: 'wrap' }}>
+            <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>
+            {vocab && <span className={s.muted}>{vocab.pos}</span>}
+            {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
+            {voices.supported && (
+              <button type="button" className={s.iconSm} onClick={() => say(sayText)} aria-label={`${sayText} 발음 듣기`} data-testid="word-speak" style={{ fontSize: 15 }}>🔊</button>
+            )}
+          </div>
           {(vocab?.ipa || (!vocab && gloss?.ipa)) && <span className={s.ipaLine} data-testid="ipa">{fmtIpa(vocab?.ipa ?? gloss?.ipa)}</span>}
+          {!voices.supported && <div className={s.small + ' ' + s.muted}>이 기기에서 영어 음성을 찾지 못해 발음을 들을 수 없어요.</div>}
         </div>
         <button type="button" className={s.iconBtn} onClick={onClose} aria-label="닫기" autoFocus>✕</button>
       </div>
-      {voices.supported ? (
-        <div className={s.row} style={{ marginTop: 4 }} data-testid="word-speak">
-          <button type="button" className={s.btn} onClick={() => say(sayText)} aria-label={`${sayText} 발음 듣기`}>🔊 듣기</button>
-          <button type="button" className={s.btn} onClick={() => say(sayText, true)} aria-label={`${sayText} 천천히 듣기`}>🐢 천천히</button>
-          {!vocab && gloss && gloss.lemma.toLowerCase() !== word.toLowerCase() && !gloss.lemma.includes(' ') && (
-            <button type="button" className={s.btn} onClick={() => say(gloss.lemma)} aria-label={`기본형 ${gloss.lemma} 발음 듣기`}>🔊 {gloss.lemma}</button>
-          )}
-        </div>
-      ) : (
-        <div className={s.small + ' ' + s.muted} style={{ marginTop: 4 }}>이 기기에서 영어 음성을 찾지 못해 발음을 들을 수 없어요.</div>
-      )}
       {vocab ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
           <div style={{ fontWeight: 700 }}>{vocab.meaningKo}</div>

@@ -321,12 +321,16 @@ test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 �
   expect(ib.y).toBeGreaterThanOrEqual(wb.y + wb.height - 2);
   expect(ib.height).toBeLessThan(26);
   await expect(dlg.getByTestId('gloss-synonyms')).toContainText(gl['sitting'].synonyms![0]);
-  // 누르자마자 한 번 읽고, 듣기·천천히·기본형 버튼으로 다시 듣기
+  // 누르자마자 한 번 읽고, 단어 옆 🔊 로 다시 듣기
   const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
   await expect.poll(spoken).toEqual(['sitting']);
-  await dlg.getByRole('button', { name: 'sitting 천천히 듣기' }).click();
-  await dlg.getByRole('button', { name: `기본형 ${gl['sitting'].lemma} 발음 듣기` }).click();
-  await expect.poll(spoken).toEqual(['sitting', 'sitting', gl['sitting'].lemma]);
+  await dlg.getByRole('button', { name: 'sitting 발음 듣기' }).click();
+  await expect.poll(spoken).toEqual(['sitting', 'sitting']);
+  await expect(dlg.getByRole('button', { name: /천천히/ })).toHaveCount(0);
+  // 🔊 는 단어와 같은 줄
+  const wb0 = (await dlg.locator('b').first().boundingBox())!;
+  const sb = (await dlg.getByTestId('word-speak').boundingBox())!;
+  expect(Math.abs((sb.y + sb.height / 2) - (wb0.y + wb0.height / 2))).toBeLessThan(12);
   await expect(dlg).toContainText(gl['sitting'].ko);
   await expect(dlg).toContainText(`기본형 ${gl['sitting'].lemma}`);
   await dlg.getByRole('button', { name: '＋ 내 단어로 추가' }).click();
