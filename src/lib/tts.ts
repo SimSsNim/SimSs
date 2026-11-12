@@ -89,7 +89,6 @@ export function speak(text: string, o: SpeakOptions = {}): Promise<boolean> {
   if (!synth || !state.supported) return Promise.resolve(false);
   const my = ++speakSeq;
   // iOS Safari: cancel() 바로 뒤의 speak()는 소리 없이 버려질 때가 있어, 말하는 중일 때만 끊고 조금 뒤에 말한다
-  kickSilent();
   if (synth.paused) synth.resume(); // iOS 에서 멈춤 상태로 굳는 경우
   const busy = synth.speaking || synth.pending;
   if (busy) synth.cancel();
@@ -149,52 +148,6 @@ function failedOnce() {
   onSilent?.();
 }
 
-/** iOS: 무음 스위치를 켜도 소리 나게(실험 설정).
- *  ① 오디오 세션을 'playback' 으로(iOS 16.4+), ② 소리 없는 짧은 음원을 반복 재생해 페이지를 '미디어 재생' 상태로 둔다.
- *  ②는 사용자가 화면을 누를 때 시작해야 해서(iOS 자동재생 제한) 첫 터치에서 켠다. */
-let silentEl: HTMLAudioElement | null = null;
-let silentWanted = false;
-function silentWavUrl(): string {
-  const rate = 8000, n = rate / 2; // 0.5초
-  const buf = new ArrayBuffer(44 + n);
-  const v = new DataView(buf);
-  const w = (o: number, s: string) => { for (let i = 0; i < s.length; i++) v.setUint8(o + i, s.charCodeAt(i)); };
-  w(0, 'RIFF'); v.setUint32(4, 36 + n, true); w(8, 'WAVE'); w(12, 'fmt '); v.setUint32(16, 16, true);
-  v.setUint16(20, 1, true); v.setUint16(22, 1, true); v.setUint32(24, rate, true); v.setUint32(28, rate, true);
-  v.setUint16(32, 1, true); v.setUint16(34, 8, true); w(36, 'data'); v.setUint32(40, n, true);
-  for (let i = 0; i < n; i++) v.setUint8(44 + i, 128); // 8비트 무음
-  return URL.createObjectURL(new Blob([buf], { type: 'audio/wav' }));
-}
-function kickSilent() {
-  if (!silentWanted || document.visibilityState !== 'visible') return;
-  if (!silentEl) {
-    silentEl = new Audio(silentWavUrl());
-    silentEl.loop = true;
-    silentEl.setAttribute('playsinline', '');
-    silentEl.setAttribute('aria-hidden', 'true');
-  }
-  if (silentEl.paused) void silentEl.play().catch(() => undefined);
-}
-let silentHooked = false;
-export function setAudioSession(type: 'auto' | 'playback') {
-  const n = navigator as Navigator & { audioSession?: { type: string } };
-  try {
-    if (n.audioSession) n.audioSession.type = type;
-  } catch { /* 지원 안 함 */ }
-  silentWanted = type === 'playback';
-  if (silentWanted) {
-    if (!silentHooked) {
-      silentHooked = true;
-      for (const ev of ['touchend', 'click', 'keydown'] as const) document.addEventListener(ev, kickSilent, { capture: true, passive: true });
-      document.addEventListener('visibilitychange', () => {
-        if (document.visibilityState !== 'visible') silentEl?.pause();
-      });
-    }
-    kickSilent();
-  } else silentEl?.pause();
-}
-export const audioSessionSupported = () => true;
-export const silentKeepAliveOn = () => !!silentEl && !silentEl.paused;
 
 /** 음성 점검: 실제로 한 번 말해 보고 일어난 일을 기록 */
 export function diagnoseSpeech(o: { accent: Accent; voiceURI?: string; rate: number }, log: (line: string) => void) {
@@ -202,8 +155,6 @@ export function diagnoseSpeech(o: { accent: Accent; voiceURI?: string; rate: num
   const t0 = performance.now();
   const at = () => `${Math.round(performance.now() - t0)}ms`;
   if (!synth) return log('speechSynthesis 없음(이 브라우저는 음성 합성을 지원하지 않음)');
-  kickSilent();
-  log(`무음 우회 음원: ${silentWanted ? (silentKeepAliveOn() ? '재생 중' : '켜짐(재생 대기)') : '끔'}`);
   log(`음성 ${state.voices.length}개(영어), 지원=${state.supported}, speaking=${synth.speaking}, pending=${synth.pending}, paused=${synth.paused}`);
   const v = pickVoice(o.accent, o.voiceURI);
   log(`고른 음성: ${v ? `${v.name} (${v.lang}, ${v.localService ? '기기 내장' : '온라인'})` : '없음 → 언어만 지정'}`);

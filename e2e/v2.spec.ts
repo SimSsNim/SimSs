@@ -619,7 +619,7 @@ test('v27. 단어 듣기: 고른 음성이 실패하면 기본 음성으로 다�
   await expect.poll(() => page.evaluate(() => (window as unknown as { __spoken2: string[] }).__spoken2)).toContain('sitting');
   await page.evaluate(() => { (window as unknown as { __mode: string }).__mode = 'silent'; });
   await page.getByRole('dialog').getByRole('button', { name: 'sitting 발음 듣기' }).click();
-  await expect(page.getByText('무음 스위치')).toBeVisible({ timeout: 8000 });
+  await expect(page.getByText('무음 스위치를 꺼 주세요')).toBeVisible({ timeout: 8000 });
 });
 
 test('v28. 음성 점검: 설정에서 실제로 말해 보고 기록을 보여 줌', async ({ page }) => {
@@ -633,19 +633,4 @@ test('v28. 음성 점검: 설정에서 실제로 말해 보고 기록을 보여 
   await expect(log).toContainText('시작(onstart)');
   await expect(log).toContainText('끝(onend)');
   await expect.poll(() => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken)).toContain('This is a sound test.');
-});
-
-test('v29. 무음에서도 소리 내기: 켜면 화면을 누를 때 무음 우회 음원이 재생됨', async ({ page }) => {
-  await start(page, './#/records/settings');
-  const box = page.getByTestId('speech-check');
-  await box.scrollIntoViewIfNeeded();
-  await box.locator('summary').click();
-  await box.getByRole('checkbox').check();
-  await page.getByTestId('speech-check-run').click();
-  await expect(page.getByTestId('speech-check-log')).toContainText(/무음 우회 음원: (재생 중|켜짐)/);
-  await page.getByTestId('speech-check-run').click();
-  await expect(page.getByTestId('speech-check-log')).toContainText('무음 우회 음원: 재생 중');
-  await box.getByRole('checkbox').uncheck();
-  await page.getByTestId('speech-check-run').click();
-  await expect(page.getByTestId('speech-check-log')).toContainText('무음 우회 음원: 끔');
 });

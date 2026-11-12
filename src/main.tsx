@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import './styles/global.css';
 import { App } from './App';
 import { loadSettings, getSettings, setSetting, type Settings } from './lib/settings';
-import { initTTS, onSpeechSilent, setAudioSession } from './lib/tts';
+import { initTTS, onSpeechSilent } from './lib/tts';
 import { loadLessons } from './lib/lessons';
 import { startTimeTracking } from './lib/progress';
 import { toast } from './components/Toast';
@@ -38,8 +38,7 @@ async function boot() {
   if (st.backupReminderShownAt === null && st.lastBackupAt === null) setSetting('backupReminderShownAt', Date.now());
   applyStartPriority(st);
   initTTS();
-  if (st.playbackSession) setAudioSession('playback');
-  onSpeechSilent(() => toast('발음이 안 들리면: 아이폰 옆 무음 스위치를 끄고, 소리 크기를 올려 주세요. 기록/설정 → 설정에서 다른 음성을 골라도 돼요.', { sticky: true }));
+  onSpeechSilent(() => toast('발음이 안 들리면 아이폰 옆 무음 스위치를 꺼 주세요. 아이폰은 무음일 때 웹 음성(TTS)을 내지 않아요.', { sticky: true }));
   void navigator.storage?.persist?.().catch(() => undefined);
   void loadLessons();
   startTimeTracking();
