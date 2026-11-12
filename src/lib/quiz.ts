@@ -92,16 +92,39 @@ async function recordQuestion(lesson: Lesson, q: Question, answer: ChoiceKey | n
 /** 약점 유형 연습 등: 결과 반영(틀리면 오답노트) */
 export const recordQuestionResult = (lesson: Lesson, q: Question, answer: ChoiceKey) => recordQuestion(lesson, q, answer, kstDate());
 
-/** 맞혔지만 "헷갈렸어요" → 오답노트에 넣기 */
+/** 맞혔지만 "헷갈렸어요" → 오답노트에 넣기. 오늘 바로 복습할 수 있게 오늘 날짜로 */
 export async function markUnsure(lesson: Lesson, q: Question) {
   const key = qKey(lessonKeyOf(lesson.track, lesson.id), q.id);
   const today = kstDate();
   await db.transaction('rw', db.questionState, async () => {
     const cur = (await db.questionState.get(key)) ?? baseState(lesson, q);
     const l = applyAnswer(cur, 'confused', today, WRONG_NOTE_SCHEME);
-    await db.questionState.put({ ...cur, ...l, unsure: true, inWrongNote: 1, graduatedAt: null, updatedAt: Date.now(), addedAt: cur.inWrongNote ? cur.addedAt : Date.now() });
+    await db.questionState.put({ ...cur, ...l, due: today, unsure: true, inWrongNote: 1, graduatedAt: null, updatedAt: Date.now(), addedAt: cur.inWrongNote ? cur.addedAt : Date.now() });
   });
 }
+
+/** "헷갈렸어요" 취소: 헷갈림으로만 들어온 문제면 오답노트에서 빼고, 틀린 적이 있으면 표시만 지운다 */
+export async function unmarkUnsure(lesson: Lesson, q: Question) {
+  const key = qKey(lessonKeyOf(lesson.track, lesson.id), q.id);
+  await db.transaction('rw', db.questionState, async () => {
+    const cur = await db.questionState.get(key);
+    if (!cur) return;
+    if (cur.wrongCount === 0) await db.questionState.put({ ...cur, ...initialLeitner(), unsure: false, inWrongNote: 0, updatedAt: Date.now() });
+    else await db.questionState.put({ ...cur, unsure: false, updatedAt: Date.now() });
+  });
+}
+
+export const isUnsure = async (lesson: Lesson, q: Question) =>
+  !!(await db.questionState.get(qKey(lessonKeyOf(lesson.track, lesson.id), q.id)))?.unsure;
+
+/** 오답노트에서 빼기(틀린 횟수 기록은 남긴다). 되돌리기용으로 지우기 전 행을 돌려준다 */
+export async function removeFromWrongNote(key: string): Promise<QuestionStateRow | undefined> {
+  const cur = await db.questionState.get(key);
+  if (!cur) return undefined;
+  await db.questionState.put({ ...cur, ...initialLeitner(), wrongCount: cur.wrongCount, unsure: false, inWrongNote: 0, updatedAt: Date.now() });
+  return cur;
+}
+export const restoreWrongNote = (row: QuestionStateRow) => db.questionState.put(row);
 
 /** 오답노트 다시 풀기 결과: 간격을 두고 2번 연속 맞히면 졸업 */
 export async function reviewQuestion(key: string, correct: boolean, answer: ChoiceKey) {

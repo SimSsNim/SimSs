@@ -29,6 +29,16 @@ export async function checkLessonVocabDone(lesson: Lesson) {
   if (rows.every((r) => r && r.status !== 'new')) await autoCheck(lessonKeyOf(lesson.track, lesson.id), 'vocab');
 }
 
+/** 단어 상태를 '새 단어'로 되돌리기(복습 일정도 지움). 되돌리기용으로 이전 행을 돌려준다 */
+export async function resetWord(term: string): Promise<WordStateRow | undefined> {
+  const key = wordKey(term);
+  const cur = await db.wordState.get(key);
+  if (!cur) return undefined;
+  await db.wordState.put({ ...cur, ...initialLeitner(), updatedAt: Date.now() });
+  return cur;
+}
+export const restoreWord = (row: WordStateRow) => db.wordState.put(row);
+
 export async function toggleStar(term: string) {
   const key = wordKey(term);
   await db.transaction('rw', db.wordState, async () => {

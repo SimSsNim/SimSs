@@ -5,7 +5,8 @@ import s from '../../styles/ui.module.css';
 import qz from '../../styles/quiz.module.css';
 import type { TabProps } from './LessonPage';
 import { db, type QuizAttemptRow } from '../../lib/db';
-import { attemptsOf, finishAttempt, isCorrect, markUnsure, questionsOf, recommendedSec, saveAttempt, startAttempt } from '../../lib/quiz';
+import { attemptsOf, finishAttempt, isCorrect, markUnsure, unmarkUnsure, questionsOf, recommendedSec, saveAttempt, startAttempt } from '../../lib/quiz';
+import { lessonKeyOf } from '../../lib/types';
 import { blankedSentence } from '../../lib/validateLesson';
 import { flatSentences } from '../../lib/lessonUtils';
 import { useSettings, setSetting } from '../../lib/settings';
@@ -344,17 +345,12 @@ export function Passage({ lesson, highlight }: { lesson: Lesson; highlight: Set<
 
 function Feedback({ lesson, q, answer }: { lesson: Lesson; q: Question; answer?: ChoiceKey }) {
   const ok = isCorrect(q, answer);
-  const [unsure, setUnsure] = useState(false);
   return (
     <div className={qz.feedback} role="status" data-testid="feedback">
       <b style={{ color: ok ? 'var(--ok)' : 'var(--danger)' }}>{ok ? '○ 정답!' : `✕ 오답 — 정답 ${q.answer}`}</b>
       <p style={{ margin: '6px 0' }}>{q.explanationKo}</p>
       <ChoiceNotes q={q} />
-      {ok && (
-        <button type="button" className={s.chip} disabled={unsure} onClick={async () => { await markUnsure(lesson, q); setUnsure(true); toast('오답노트에 넣었어요'); }}>
-          {unsure ? '✓ 오답노트에 넣음' : '🤔 헷갈렸어요'}
-        </button>
-      )}
+      {ok && <UnsureToggle lesson={lesson} q={q} />}
     </div>
   );
 }
@@ -439,7 +435,6 @@ function QuizResult({ lesson, attempt, attempts, onRetry }: { lesson: Lesson; at
 
 function ResultItem({ lesson, q, answer, onEvidence }: { lesson: Lesson; q: Question; answer?: ChoiceKey; onEvidence: (q: Question) => void }) {
   const ok = isCorrect(q, answer);
-  const [unsure, setUnsure] = useState(false);
   const sids = q.blank ? [q.blank.sentenceId] : q.evidenceSentenceIds ?? [];
   const sents = flatSentences(lesson).filter((x) => sids.includes(x.id));
   const vocab = lesson.vocab.filter((v) => sents.some((x) => x.en.includes(v.matchText)));
@@ -466,8 +461,29 @@ function ResultItem({ lesson, q, answer, onEvidence }: { lesson: Lesson; q: Ques
         {q.blank && <Link className={s.chip} to={`/${lesson.track}/lesson/${lesson.id}/practice?mode=typing&s=${q.blank.sentenceId}`}>✍️ 이 문장 필사하기</Link>}
         {vocab.map((v) => <Link key={v.id} className={s.chip} to={`/${lesson.track}/lesson/${lesson.id}/vocab`} lang="en">📘 {v.term}</Link>)}
         {grammar.map((g) => <Link key={g.id} className={s.chip} to={`/${lesson.track}/lesson/${lesson.id}/structure?s=${g.sentenceId}`}>✏️ {g.title}</Link>)}
-        {ok && <button type="button" className={s.chip} disabled={unsure} onClick={async () => { await markUnsure(lesson, q); setUnsure(true); }}>{unsure ? '✓ 오답노트에 넣음' : '🤔 헷갈렸어요'}</button>}
+        {ok && <UnsureToggle lesson={lesson} q={q} />}
       </div>
     </li>
+  );
+}
+
+/** 맞힌 문제의 "헷갈렸어요" 켜기/끄기(다시 누르면 오답노트에서 빠짐) */
+export function UnsureToggle({ lesson, q }: { lesson: Lesson; q: Question }) {
+  const key = `${lessonKeyOf(lesson.track, lesson.id)}:${q.id}`;
+  const row = useLiveQuery(() => db.questionState.get(key), [key]);
+  const on = !!row?.unsure;
+  return (
+    <button type="button" className={s.chip} aria-pressed={on} data-testid={`unsure-${q.id}`}
+      onClick={async () => {
+        if (on) {
+          await unmarkUnsure(lesson, q);
+          toast('헷갈림 표시를 지웠어요');
+        } else {
+          await markUnsure(lesson, q);
+          toast('오답노트에 넣었어요. 오늘 복습에 나와요');
+        }
+      }}>
+      {on ? '✓ 헷갈림 (누르면 취소)' : '🤔 헷갈렸어요'}
+    </button>
   );
 }

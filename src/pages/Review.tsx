@@ -10,7 +10,8 @@ import { useSettings } from '../lib/settings';
 import { db, type QuestionStateRow } from '../lib/db';
 import { isDue } from '../lib/leitner';
 import { kstDate, formatKo } from '../lib/date';
-import { isCorrect, reviewQuestion, shuffledChoices, recordQuestionResult } from '../lib/quiz';
+import { isCorrect, reviewQuestion, shuffledChoices, recordQuestionResult, removeFromWrongNote, restoreWrongNote } from '../lib/quiz';
+import { toast } from '../components/Toast';
 import { blankedSentence } from '../lib/validateLesson';
 import { CHAPTERS, CHAPTER_LABEL, lessonKeyOf, type ChoiceKey, type Lesson, type Question } from '../lib/types';
 import { Choices, Passage, sentenceOf } from './lesson/QuizTab';
@@ -46,8 +47,9 @@ export interface DrillItem { key: string; lesson: Lesson; q: Question; state?: Q
 
 function WrongNotePanel({ level }: { level: LevelFilter }) {
   const [params] = useSearchParams();
-  const { lessons } = useLessons();
+  const { lessons, status } = useLessons();
   const rows = useLiveQuery(() => db.questionState.where('inWrongNote').equals(1).toArray(), []);
+  const [onlyUnsure, setOnlyUnsure] = useState(false);
   const [view, setView] = useState<'list' | 'review'>(params.get('review') ? 'review' : 'list');
   const [chapter, setChapter] = useState<string>('all');
   const [skill, setSkill] = useState<string>('all');
@@ -65,7 +67,9 @@ function WrongNotePanel({ level }: { level: LevelFilter }) {
   }, [rows, lessons]);
   const filtered = items.filter((it) =>
     (level === 'all' || it.lesson.level === level) && (chapter === 'all' || it.lesson.chapter === chapter)
-    && (skill === 'all' || skillOf(it.q) === skill) && (!from || it.lesson.date >= from));
+    && (skill === 'all' || skillOf(it.q) === skill) && (!from || it.lesson.date >= from) && (!onlyUnsure || it.state!.unsure));
+  const loading = rows === undefined || (rows.length > items.length && status === 'loading');
+  const unsureCount = items.filter((it) => it.state!.unsure).length;
   const sorted = filtered.slice().sort((a, b) => (sort === 'wrong' ? b.state!.wrongCount - a.state!.wrongCount : b.state!.addedAt - a.state!.addedAt));
   const due = filtered.filter((it) => isDue(it.state!, today));
   const skills = [...new Set(items.map((it) => skillOf(it.q)))];
@@ -91,10 +95,11 @@ function WrongNotePanel({ level }: { level: LevelFilter }) {
               <option value="recent">최근</option><option value="wrong">많이 틀린 순</option>
             </select>
             <input className={s.chip} type="date" value={from} onChange={(e) => setFrom(e.target.value)} aria-label="이 날짜 이후" />
+            <button type="button" className={s.chip} aria-pressed={onlyUnsure} onClick={() => setOnlyUnsure(!onlyUnsure)} data-testid="filter-unsure">🤔 헷갈림만 {unsureCount}</button>
           </div>
           <ul className={s.list}>
             {sorted.map((it) => <WrongRow key={it.key} it={it} />)}
-            {sorted.length === 0 && <li className={s.empty}>오답노트가 비어 있어요. 문제를 틀리면 자동으로 들어와요.</li>}
+            {sorted.length === 0 && <li className={s.empty}>{loading ? '불러오는 중…' : items.length ? '조건에 맞는 문제가 없어요.' : '오답노트가 비어 있어요. 틀린 문제와 "헷갈렸어요"를 누른 문제가 여기에 모여요.'}</li>}
           </ul>
         </>
       )}
@@ -111,11 +116,17 @@ function WrongRow({ it }: { it: DrillItem }) {
         <span className={s.small}>
           <span className={s.badgeAccent}>{CHAPTER_LABEL[it.lesson.chapter!]} {it.q.number}번</span> <span className={s.badge}>L{it.lesson.level}</span> <span className={s.badge}>{skillOf(it.q)}</span>
         </span>
-        <span className={s.small + ' ' + s.muted}>틀림 {st.wrongCount} · {st.due ? `다음 복습 ${formatKo(st.due)}` : ''}{st.unsure ? ' · 헷갈림' : ''}</span>
+        <span className={s.small + ' ' + s.muted}>틀림 {st.wrongCount} · {st.due ? `다음 복습 ${formatKo(st.due)}` : ''}</span>
       </div>
+      {st.unsure && <span className={s.badgeAccent} style={{ alignSelf: 'flex-start' }}>🤔 헷갈림</span>}
       <QuestionContext lesson={it.lesson} q={it.q} />
       <div className={s.row}>
         <button type="button" className={s.btn} onClick={() => setRetry(!retry)}>{retry ? '접기' : '다시 풀기'}</button>
+        <button type="button" className={s.btn} data-testid="wrong-delete" aria-label={`${CHAPTER_LABEL[it.lesson.chapter!]} ${it.q.number}번 오답노트에서 삭제`}
+          onClick={async () => {
+            const prev = await removeFromWrongNote(it.key);
+            if (prev) toast('오답노트에서 뺐어요', { action: { label: '되돌리기', run: () => void restoreWrongNote(prev) }, ms: 6000 });
+          }}>🗑 삭제</button>
         <Link className={s.ghost} to={`/toeic/lesson/${it.lesson.id}/quiz`}>{it.lesson.date} {it.lesson.title} ›</Link>
       </div>
       {retry && <QuestionDrill items={[it]} mode="wrongNote" compact />}

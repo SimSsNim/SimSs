@@ -177,3 +177,42 @@ test('v8. 통계: Part별 정답률과 약점 유형 모아 풀기', async ({ pa
   await weak.click();
   await expect(page.getByTestId('drill')).toBeVisible();
 });
+
+test('v9. 헷갈렸어요 → 오늘 복습·오답노트에 나옴, 취소·삭제·되돌리기', async ({ page }) => {
+  await start(page, URL5);
+  await page.getByTestId('choice-B').click(); // q1 정답
+  await page.getByTestId('unsure-q1').click();
+  await expect(page.getByTestId('unsure-q1')).toHaveAttribute('aria-pressed', 'true');
+  await page.goto('./#/toeic');
+  await expect(page.getByTestId('home-wrong-due')).toContainText('1개');
+  await page.goto('./#/review?tab=wrong');
+  await expect(page.getByTestId('wrong-row')).toHaveCount(1);
+  await expect(page.getByTestId('wrong-row')).toContainText('헷갈림');
+  await expect(page.getByTestId('filter-unsure')).toContainText('1');
+  await page.getByTestId('wrong-review-btn').click();
+  await expect(page.getByTestId('drill')).toBeVisible();
+  // 삭제 → 되돌리기
+  await page.getByRole('tab', { name: /목록/ }).click();
+  await page.getByTestId('wrong-delete').click();
+  await expect(page.getByTestId('wrong-row')).toHaveCount(0);
+  await page.getByRole('button', { name: '되돌리기' }).click();
+  await expect(page.getByTestId('wrong-row')).toHaveCount(1);
+  // 문제 화면에서 다시 누르면 취소
+  await page.goto(URL5);
+  await page.getByTestId('quiz-dots').getByRole('button', { name: /^1\s*번/ }).click();
+  await page.getByTestId('unsure-q1').click();
+  await expect(page.getByTestId('unsure-q1')).toHaveAttribute('aria-pressed', 'false');
+  await page.goto('./#/review?tab=wrong');
+  await expect(page.getByText('오답노트가 비어 있어요', { exact: false })).toBeVisible();
+});
+
+test('v10. 단어 상태 지우기(새 단어로)', async ({ page }) => {
+  await start(page, './#/toeic/lesson/2026-11-12-L1-part7/vocab');
+  await page.getByTestId('quiz-gate').count(); // 연습 모드 Part 7 은 가리지 않음
+  const row = page.getByTestId('word-row').first();
+  await row.getByTestId('btn-unknown').click();
+  await expect(page.getByTestId('count-unknown')).toHaveText('1');
+  await row.getByTestId('btn-reset').click();
+  await expect(page.getByTestId('count-unknown')).toHaveText('0');
+  await expect(page.getByTestId('count-new')).toHaveText('5');
+});

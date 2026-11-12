@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { db } from '../src/lib/db';
 import { toViewLesson } from '../src/lib/lessonAdapter';
-import { finishAttempt, startAttempt, scoreAnswers, shuffledChoices, reviewQuestion, firstAttempts } from '../src/lib/quiz';
+import { finishAttempt, startAttempt, scoreAnswers, shuffledChoices, reviewQuestion, firstAttempts, markUnsure, unmarkUnsure, removeFromWrongNote, restoreWrongNote } from '../src/lib/quiz';
 import { quizStats, weakest, pct } from '../src/lib/stats';
 import { kstDate } from '../src/lib/date';
 import type { ChoiceKey, RawLesson } from '../src/lib/types';
@@ -45,5 +45,32 @@ describe('채점', () => {
     const sh = shuffledChoices(q, 12345);
     expect(sh.map((c) => c.key).sort()).toEqual(['A', 'B', 'C', 'D']);
     expect(sh.find((c) => c.key === q.answer)!.text).toBe('easy');
+  });
+});
+
+describe('헷갈림·삭제', () => {
+  beforeEach(async () => { await Promise.all(db.tables.map((t) => t.clear())); });
+  it('헷갈렸어요 → 오늘 바로 복습, 취소하면 오답노트에서 빠짐', async () => {
+    const q = p5.questions[1];
+    await markUnsure(p5, q);
+    const row = (await db.questionState.get(`${key}:q2`))!;
+    expect(row).toMatchObject({ inWrongNote: 1, unsure: true, due: kstDate() });
+    await unmarkUnsure(p5, q);
+    expect((await db.questionState.get(`${key}:q2`))!).toMatchObject({ inWrongNote: 0, unsure: false });
+  });
+  it('틀린 적 있는 문제는 헷갈림만 지우고 오답노트에 남김', async () => {
+    const wrong = [...ALL]; wrong[1] = 'A';
+    const a = await startAttempt(p5, 'practice');
+    await finishAttempt(p5, { ...a, answers: answersFrom(wrong) }, 10);
+    await markUnsure(p5, p5.questions[1]);
+    await unmarkUnsure(p5, p5.questions[1]);
+    expect((await db.questionState.get(`${key}:q2`))!).toMatchObject({ inWrongNote: 1, unsure: false });
+  });
+  it('삭제와 되돌리기', async () => {
+    await markUnsure(p5, p5.questions[0]);
+    const prev = (await removeFromWrongNote(`${key}:q1`))!;
+    expect((await db.questionState.get(`${key}:q1`))!.inWrongNote).toBe(0);
+    await restoreWrongNote(prev);
+    expect((await db.questionState.get(`${key}:q1`))!).toMatchObject({ inWrongNote: 1, unsure: true });
   });
 });
