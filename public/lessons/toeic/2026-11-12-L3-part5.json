@@ -1,0 +1,726 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-12-L3-part5",
+  "date": "2026-11-12",
+  "level": 3,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 143,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "마케팅팀은 다가오는 제품 출시를 위해 놀라울 만큼 상세한 제안서를 준비했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "예산 수치를 검토한 후, 재무 이사는 새 노트북 구매를 승인했다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "모든 방문객은 도착하자마자 안내 데스크에 유효한 신분증을 제시해야 한다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "화물은 제시간에 창고를 떠났지만, 폭설 때문에 이틀 늦게 도착했다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "보수 공사가 더 일찍 끝났더라면, 그 식당은 연휴 시즌 전에 다시 문을 열었을 것이다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "파텔 씨는 새로 채용된 영업 직원들의 교육을 감독해 달라는 요청을 받았다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "구매품에 만족하지 못한 고객은 30일 이내에 반품하고 전액 환불을 받을 수 있다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "감사팀이 제출한 보고서에서 작년 회계 장부의 몇 가지 오류가 드러났다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "새 주차 건물 공사는 여름 내내 계속될 것으로 예상된다."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "모든 기밀 문서가 잠긴 캐비닛에 보관되도록 꼭 확인해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The marketing team prepared a remarkably detailed proposal for the upcoming product launch.",
+      "ko": "마케팅팀은 다가오는 제품 출시를 위해 놀라울 만큼 상세한 제안서를 준비했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Having reviewed the budget figures, the finance director approved the purchase of new laptops.",
+      "ko": "예산 수치를 검토한 후, 재무 이사는 새 노트북 구매를 승인했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "All visitors must present valid identification at the reception desk upon arrival.",
+      "ko": "모든 방문객은 도착하자마자 안내 데스크에 유효한 신분증을 제시해야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Although the shipment left the warehouse on time, it arrived two days late because of heavy snow.",
+      "ko": "화물은 제시간에 창고를 떠났지만, 폭설 때문에 이틀 늦게 도착했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "If the renovation had been completed earlier, the restaurant would have reopened before the holiday season.",
+      "ko": "보수 공사가 더 일찍 끝났더라면, 그 식당은 연휴 시즌 전에 다시 문을 열었을 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "Ms. Patel has been asked to oversee the training of newly hired sales staff.",
+      "ko": "파텔 씨는 새로 채용된 영업 직원들의 교육을 감독해 달라는 요청을 받았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "Customers who are dissatisfied with their purchase may return it within 30 days for a full refund.",
+      "ko": "구매품에 만족하지 못한 고객은 30일 이내에 반품하고 전액 환불을 받을 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "The report submitted by the audit team revealed several errors in last year's accounts.",
+      "ko": "감사팀이 제출한 보고서에서 작년 회계 장부의 몇 가지 오류가 드러났다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "Construction of the new parking garage is expected to continue throughout the summer.",
+      "ko": "새 주차 건물 공사는 여름 내내 계속될 것으로 예상된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "Please make sure that all confidential documents are stored in a locked cabinet.",
+      "ko": "모든 기밀 문서가 잠긴 캐비닛에 보관되도록 꼭 확인해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "upcoming",
+      "pos": "adjective",
+      "meaningKo": "다가오는, 곧 있을",
+      "ipa": "/ˈʌpˌkʌmɪŋ/",
+      "synonyms": [
+        "forthcoming",
+        "approaching"
+      ],
+      "matchText": "upcoming",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Please check the schedule for the upcoming conference.",
+        "ko": "다가오는 학회 일정을 확인해 주세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "oversee",
+      "pos": "verb",
+      "meaningKo": "감독하다, 관리하다",
+      "ipa": "/ˌoʊvərˈsiː/",
+      "synonyms": [
+        "supervise",
+        "manage"
+      ],
+      "matchText": "oversee",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Mr. Lee oversees the company's overseas projects.",
+        "ko": "이 씨는 회사의 해외 프로젝트를 총괄한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "dissatisfied",
+      "pos": "adjective",
+      "meaningKo": "불만족한",
+      "ipa": "/dɪsˈsætɪsfaɪd/",
+      "synonyms": [
+        "unhappy",
+        "displeased"
+      ],
+      "matchText": "dissatisfied",
+      "sentenceId": "s7",
+      "example": {
+        "en": "A few dissatisfied guests left negative reviews.",
+        "ko": "불만족한 손님 몇 명이 부정적인 후기를 남겼다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "reveal",
+      "pos": "verb",
+      "meaningKo": "드러내다, 밝히다",
+      "ipa": "/rɪˈviːl/",
+      "synonyms": [
+        "show",
+        "disclose"
+      ],
+      "matchText": "revealed",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The survey revealed a growing demand for online services.",
+        "ko": "설문 조사는 온라인 서비스 수요가 커지고 있음을 보여 주었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "confidential",
+      "pos": "adjective",
+      "meaningKo": "기밀의, 비밀의",
+      "ipa": "/ˌkɑːnfɪˈdenʃl/",
+      "synonyms": [
+        "secret",
+        "private"
+      ],
+      "matchText": "confidential",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Salary information is strictly confidential.",
+        "ko": "급여 정보는 엄격히 기밀이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Having reviewed the budget figures,",
+          "role": "M",
+          "ko": "예산 수치를 검토한 후"
+        },
+        {
+          "text": "the finance director",
+          "role": "S",
+          "ko": "재무 이사는"
+        },
+        {
+          "text": "approved",
+          "role": "V",
+          "ko": "승인했다"
+        },
+        {
+          "text": "the purchase of new laptops.",
+          "role": "O",
+          "ko": "새 노트북 구매를"
+        }
+      ],
+      "skeleton": "the finance director approved the purchase",
+      "explanation": "앞의 Having reviewed ~는 분사구문(= After he had reviewed ~). 주절보다 먼저 일어난 일이라 완료형 Having p.p.를 썼다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "The report",
+          "role": "S",
+          "ko": "그 보고서는"
+        },
+        {
+          "text": "submitted by the audit team",
+          "role": "M",
+          "ko": "감사팀이 제출한"
+        },
+        {
+          "text": "revealed",
+          "role": "V",
+          "ko": "드러냈다"
+        },
+        {
+          "text": "several errors in last year's accounts.",
+          "role": "O",
+          "ko": "작년 회계 장부의 몇 가지 오류를"
+        }
+      ],
+      "skeleton": "The report revealed several errors",
+      "explanation": "submitted by the audit team은 앞의 The report를 꾸미는 과거분사구. 진짜 동사는 revealed다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "완료 분사구문 Having p.p.",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "Having reviewed"
+      ],
+      "explanation": "주절의 동작보다 먼저 끝난 일을 분사구문으로 말할 때 Having + p.p.를 쓴다. 주어(the finance director)가 직접 검토했으니 능동이다.",
+      "example": {
+        "en": "Having finished the report, she went home early.",
+        "ko": "보고서를 끝낸 뒤 그녀는 일찍 퇴근했다."
+      },
+      "note": "빈칸 뒤에 목적어가 있고 콤마 뒤에 주절이 오면 분사구문 자리 → 능동 Having p.p.가 정답 후보."
+    },
+    {
+      "id": "g2",
+      "title": "가정법 과거완료",
+      "tags": [
+        "가정법"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "had been completed",
+        "would have reopened"
+      ],
+      "explanation": "과거 사실의 반대를 말할 때 If + 주어 + had p.p., 주어 + would have p.p.를 쓴다. 실제로는 공사가 늦게 끝나서 연휴 전에 못 열었다는 뜻.",
+      "example": {
+        "en": "If we had left earlier, we would have caught the train.",
+        "ko": "더 일찍 출발했더라면 기차를 탔을 텐데."
+      },
+      "note": "주절에 would have p.p.가 보이면 if절은 had p.p."
+    },
+    {
+      "id": "g3",
+      "title": "명사를 뒤에서 꾸미는 과거분사",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "submitted by"
+      ],
+      "explanation": "보고서는 '제출되는' 대상이므로 과거분사 submitted가 명사 뒤에서 꾸민다. 뒤에 by + 행위자가 오면 과거분사가 강력한 단서.",
+      "example": {
+        "en": "The products ordered last week have arrived.",
+        "ko": "지난주에 주문한 제품들이 도착했다."
+      },
+      "note": "명사 + ------- + by ~ 구조면 과거분사."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "remarkably"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "remarkable"
+        },
+        {
+          "key": "B",
+          "text": "remarked"
+        },
+        {
+          "key": "C",
+          "text": "remarkably"
+        },
+        {
+          "key": "D",
+          "text": "remark"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "형용사 detailed를 앞에서 꾸미는 자리이므로 부사 remarkably가 정답.",
+      "choiceNotesKo": {
+        "A": "형용사는 형용사를 꾸밀 수 없다."
+      },
+      "skill": "부사 자리(형용사 수식)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "Having reviewed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Being reviewed"
+        },
+        {
+          "key": "B",
+          "text": "Having reviewed"
+        },
+        {
+          "key": "C",
+          "text": "Reviews"
+        },
+        {
+          "key": "D",
+          "text": "Has reviewed"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "콤마 뒤에 주절이 있으니 앞은 분사구문 자리. 이사가 직접 검토했으므로 능동, 승인보다 먼저 한 일이라 Having reviewed.",
+      "choiceNotesKo": {
+        "A": "수동 분사구문이라 뒤에 목적어(the budget figures)가 올 수 없다.",
+        "D": "주어 없이 동사만 올 수 없다."
+      },
+      "skill": "분사구문(능동·완료)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "valid"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "validity"
+        },
+        {
+          "key": "B",
+          "text": "validly"
+        },
+        {
+          "key": "C",
+          "text": "validate"
+        },
+        {
+          "key": "D",
+          "text": "valid"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "명사 identification을 앞에서 꾸미는 형용사 자리 → valid.",
+      "choiceNotesKo": {
+        "A": "명사 validity는 다른 명사 앞에서 수식어로 쓰지 않는다."
+      },
+      "skill": "형용사 자리"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "Although"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Despite"
+        },
+        {
+          "key": "B",
+          "text": "Unless"
+        },
+        {
+          "key": "C",
+          "text": "Although"
+        },
+        {
+          "key": "D",
+          "text": "Because"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "빈칸 뒤에 주어+동사(the shipment left)가 있으니 접속사 자리. '제시간에 떠났지만 늦게 도착했다'는 양보 관계 → Although.",
+      "choiceNotesKo": {
+        "A": "Despite는 전치사라 절을 이끌 수 없다.",
+        "D": "'제시간에 떠났기 때문에 늦었다'는 의미가 맞지 않는다."
+      },
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "had been completed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "had been completed"
+        },
+        {
+          "key": "B",
+          "text": "has been completed"
+        },
+        {
+          "key": "C",
+          "text": "will be completed"
+        },
+        {
+          "key": "D",
+          "text": "is completed"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "주절이 would have reopened(가정법 과거완료)이므로 if절은 had p.p. → had been completed.",
+      "choiceNotesKo": {
+        "B": "현재완료는 가정법 과거완료와 짝이 맞지 않는다."
+      },
+      "skill": "가정법 과거완료"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "oversee"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "overlook"
+        },
+        {
+          "key": "B",
+          "text": "oversee"
+        },
+        {
+          "key": "C",
+          "text": "overcome"
+        },
+        {
+          "key": "D",
+          "text": "overtake"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "'신입 직원 교육을 ~하다'에 맞는 말은 '감독하다' oversee.",
+      "choiceNotesKo": {
+        "A": "overlook은 '못 보고 넘어가다, 내려다보다'라는 뜻이라 어색하다.",
+        "C": "overcome은 '극복하다'."
+      },
+      "skill": "어휘(혼동 동사)"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "dissatisfied"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "dissatisfied"
+        },
+        {
+          "key": "B",
+          "text": "dissatisfy"
+        },
+        {
+          "key": "C",
+          "text": "dissatisfaction"
+        },
+        {
+          "key": "D",
+          "text": "dissatisfying"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "are 뒤 보어 자리이고 사람(고객)이 '불만을 느끼는' 것이므로 과거분사형 형용사 dissatisfied. be dissatisfied with가 한 덩어리.",
+      "choiceNotesKo": {
+        "D": "dissatisfying은 '불만을 주는'이라는 뜻으로 사물에 쓴다."
+      },
+      "skill": "감정 형용사(-ed vs -ing)"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "submitted"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "submitting"
+        },
+        {
+          "key": "B",
+          "text": "to submit"
+        },
+        {
+          "key": "C",
+          "text": "submits"
+        },
+        {
+          "key": "D",
+          "text": "submitted"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "보고서는 '제출되는' 것이고 뒤에 by the audit team이 있으니 과거분사 submitted가 The report를 꾸민다. 문장의 동사는 revealed.",
+      "choiceNotesKo": {
+        "A": "현재분사는 '제출하는'이라는 능동 의미라 맞지 않는다.",
+        "C": "동사 revealed가 이미 있어서 동사를 또 쓸 수 없다."
+      },
+      "skill": "분사(명사 후치 수식)"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "throughout"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "throughout"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "among"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "명사 the summer 앞 전치사 자리. '여름 내내'는 throughout.",
+      "choiceNotesKo": {
+        "B": "while은 접속사라 뒤에 절이 와야 한다.",
+        "D": "between은 두 대상 사이에 쓴다."
+      },
+      "skill": "전치사(기간)"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "confidential"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "consecutive"
+        },
+        {
+          "key": "B",
+          "text": "conditional"
+        },
+        {
+          "key": "C",
+          "text": "considerate"
+        },
+        {
+          "key": "D",
+          "text": "confidential"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "잠긴 캐비닛에 보관해야 하는 문서는 '기밀' 문서 → confidential.",
+      "choiceNotesKo": {
+        "C": "considerate는 '사려 깊은'으로 사람에게 쓴다."
+      },
+      "skill": "어휘(형용사)"
+    }
+  ]
+}

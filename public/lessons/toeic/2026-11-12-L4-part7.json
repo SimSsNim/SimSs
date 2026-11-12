@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-12-L4-part7",
+  "date": "2026-11-12",
+  "level": 4,
+  "title": "New Expense Reporting System",
+  "titleKo": "새 경비 보고 시스템 도입 공지",
+  "genre": "announcement",
+  "tags": [
+    "TOEIC Part 7",
+    "공지",
+    "예산·회계"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 255,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "새 경비 보고 시스템으로의 전환"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "7월 1일부터 코베인 인더스트리는 종이 기반의 경비 보고 절차를 엑스펜사로 바꿉니다. 엑스펜사는 직원들이 컴퓨터나 휴대 전화로 경비 환급 요청을 제출하고 진행 상황을 확인할 수 있는 온라인 플랫폼입니다. 이번 변경은 관리 비용을 줄이고 직원들이 환급받기까지 걸리는 시간을 단축하려는 폭넓은 노력의 일환입니다. 현재 시스템에서는 직원들이 돈을 받기까지 평균 3주를 기다리지만, 엑스펜사를 쓰면 재무부는 대부분의 요청을 영업일 5일 이내에 처리할 것으로 예상합니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "플랫폼을 이용하려면 직원들은 영수증을 사진으로 찍어 각 경비에 대한 간단한 설명과 함께 올리면 됩니다. 그러면 관리자는 자동 알림을 받고 클릭 한 번으로 요청을 승인하거나 거절할 수 있습니다. 500달러를 넘는 요청은 지금처럼 재무부의 2차 승인이 계속 필요합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "출장을 다니거나 회사를 대신해 물품을 구매하는 모든 직원은 새 시스템이 시작되기 전에 1시간짜리 교육에 참석해야 합니다. 교육은 6월 17일, 18일, 19일에 대회의실에서 열립니다. 직접 참석할 수 없는 직원은 대신 온라인 강의를 이수할 수 있으며, 이 강의는 6월 10일부터 사내 인트라넷에서 볼 수 있습니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "6월 30일 이후에는 종이 경비 양식을 더 이상 받지 않습니다. 다만 그 전에 제출된 종이 양식은 기존 절차에 따라 처리됩니다. 전환과 관련한 문의는 재무부의 마커스 벨에게 해 주십시오."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Transition to a New Expense Reporting System",
+      "ko": "새 경비 보고 시스템으로의 전환",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Beginning on July 1, Corvane Industries will replace its paper-based expense reporting process with Expensa, an online platform that allows employees to submit and track reimbursement requests from their computers or mobile phones.",
+      "ko": "7월 1일부터 코베인 인더스트리는 종이 기반의 경비 보고 절차를 엑스펜사로 바꿉니다. 엑스펜사는 직원들이 컴퓨터나 휴대 전화로 경비 환급 요청을 제출하고 진행 상황을 확인할 수 있는 온라인 플랫폼입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The change is part of a broader effort to reduce administrative costs and shorten the time it takes for staff to be reimbursed.",
+      "ko": "이번 변경은 관리 비용을 줄이고 직원들이 환급받기까지 걸리는 시간을 단축하려는 폭넓은 노력의 일환입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Under the current system, employees wait an average of three weeks to receive payment; with Expensa, the finance department expects to process most requests within five business days.",
+      "ko": "현재 시스템에서는 직원들이 돈을 받기까지 평균 3주를 기다리지만, 엑스펜사를 쓰면 재무부는 대부분의 요청을 영업일 5일 이내에 처리할 것으로 예상합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "To use the platform, employees will photograph their receipts and upload them along with a brief description of each expense.",
+      "ko": "플랫폼을 이용하려면 직원들은 영수증을 사진으로 찍어 각 경비에 대한 간단한 설명과 함께 올리면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Managers will then receive an automatic notification and can approve or reject requests with a single click.",
+      "ko": "그러면 관리자는 자동 알림을 받고 클릭 한 번으로 요청을 승인하거나 거절할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Requests that exceed $500 will still require a second approval from the finance department, as they do now.",
+      "ko": "500달러를 넘는 요청은 지금처럼 재무부의 2차 승인이 계속 필요합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "All employees who travel for business or make purchases on behalf of the company are required to attend a one-hour training session before the new system is launched.",
+      "ko": "출장을 다니거나 회사를 대신해 물품을 구매하는 모든 직원은 새 시스템이 시작되기 전에 1시간짜리 교육에 참석해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Sessions will be held in the main conference room on June 17, 18, and 19.",
+      "ko": "교육은 6월 17일, 18일, 19일에 대회의실에서 열립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Those who are unable to attend in person may instead complete an online tutorial, which will be available on the company intranet starting June 10.",
+      "ko": "직접 참석할 수 없는 직원은 대신 온라인 강의를 이수할 수 있으며, 이 강의는 6월 10일부터 사내 인트라넷에서 볼 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Paper expense forms will no longer be accepted after June 30.",
+      "ko": "6월 30일 이후에는 종이 경비 양식을 더 이상 받지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "However, any paper forms submitted before that date will be processed according to the existing procedure.",
+      "ko": "다만 그 전에 제출된 종이 양식은 기존 절차에 따라 처리됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "Questions about the transition should be directed to Marcus Bell in the finance department.",
+      "ko": "전환과 관련한 문의는 재무부의 마커스 벨에게 해 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "reimbursement",
+      "pos": "noun",
+      "meaningKo": "(비용) 환급, 상환",
+      "ipa": "/ˌriːɪmˈbɜːrsmənt/",
+      "synonyms": [
+        "repayment",
+        "refund"
+      ],
+      "matchText": "reimbursement",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Submit your receipts for reimbursement by Friday.",
+        "ko": "환급을 받으려면 금요일까지 영수증을 제출하세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "administrative",
+      "pos": "adjective",
+      "meaningKo": "관리의, 행정의",
+      "ipa": "/ədˈmɪnɪstreɪtɪv/",
+      "synonyms": [
+        "managerial",
+        "clerical"
+      ],
+      "matchText": "administrative",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She handles the office's administrative tasks.",
+        "ko": "그녀는 사무실의 행정 업무를 담당한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "exceed",
+      "pos": "verb",
+      "meaningKo": "넘다, 초과하다",
+      "ipa": "/ɪkˈsiːd/",
+      "synonyms": [
+        "go beyond",
+        "surpass"
+      ],
+      "matchText": "exceed",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Sales exceeded our expectations this quarter.",
+        "ko": "이번 분기 매출은 우리 예상을 넘어섰다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "on behalf of",
+      "pos": "phrase",
+      "meaningKo": "~을 대신하여, ~을 대표하여",
+      "ipa": null,
+      "synonyms": [
+        "for",
+        "representing"
+      ],
+      "matchText": "on behalf of",
+      "sentenceId": "s8",
+      "example": {
+        "en": "I am writing on behalf of my manager.",
+        "ko": "제 상사를 대신해 글을 씁니다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "be directed to",
+      "pos": "phrase",
+      "meaningKo": "~에게 보내지다, ~에게 문의하다",
+      "ipa": null,
+      "synonyms": [
+        "be addressed to",
+        "be sent to"
+      ],
+      "matchText": "be directed to",
+      "sentenceId": "s13",
+      "example": {
+        "en": "All complaints should be directed to customer service.",
+        "ko": "모든 불만 사항은 고객 서비스팀으로 보내 주세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Beginning on July 1,",
+          "role": "M",
+          "ko": "7월 1일부터"
+        },
+        {
+          "text": "Corvane Industries",
+          "role": "S",
+          "ko": "코베인 인더스트리는"
+        },
+        {
+          "text": "will replace",
+          "role": "V",
+          "ko": "바꿀 것이다"
+        },
+        {
+          "text": "its paper-based expense reporting process",
+          "role": "O",
+          "ko": "종이 기반 경비 보고 절차를"
+        },
+        {
+          "text": "with Expensa,",
+          "role": "M",
+          "ko": "엑스펜사로"
+        },
+        {
+          "text": "an online platform",
+          "role": "M",
+          "ko": "(즉) 온라인 플랫폼"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "(그 플랫폼은)"
+        },
+        {
+          "text": "allows",
+          "role": "V",
+          "ko": "허용한다",
+          "sub": true
+        },
+        {
+          "text": "employees",
+          "role": "O",
+          "ko": "직원들이",
+          "sub": true
+        },
+        {
+          "text": "to submit and track reimbursement requests",
+          "role": "OC",
+          "ko": "환급 요청을 제출하고 추적하도록",
+          "sub": true
+        },
+        {
+          "text": "from their computers or mobile phones.",
+          "role": "M",
+          "ko": "컴퓨터나 휴대 전화로",
+          "sub": true
+        }
+      ],
+      "skeleton": "Corvane will replace its process with Expensa",
+      "explanation": "replace A with B: A를 B로 바꾸다. Expensa 뒤 an online platform ~은 동격 설명이고, that절 안은 allow + 목적어 + to부정사(5형식)."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Sessions",
+          "role": "S",
+          "ko": "교육은"
+        },
+        {
+          "text": "will be held",
+          "role": "V",
+          "ko": "열릴 것이다"
+        },
+        {
+          "text": "in the main conference room",
+          "role": "M",
+          "ko": "대회의실에서"
+        },
+        {
+          "text": "on June 17, 18, and 19.",
+          "role": "M",
+          "ko": "6월 17, 18, 19일에"
+        }
+      ],
+      "skeleton": "Sessions will be held",
+      "explanation": "행사가 '열리는' 것이므로 수동태 will be held. 장소 → 날짜 순서로 부사구가 이어진다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "Those",
+          "role": "S",
+          "ko": "사람들은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그 사람들은)"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "unable to attend in person",
+          "role": "C",
+          "ko": "직접 참석할 수 없는",
+          "sub": true
+        },
+        {
+          "text": "may instead complete",
+          "role": "V",
+          "ko": "대신 이수할 수 있다"
+        },
+        {
+          "text": "an online tutorial,",
+          "role": "O",
+          "ko": "온라인 강의를"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "(그 강의는)"
+        },
+        {
+          "text": "will be",
+          "role": "V",
+          "ko": "~일 것이다",
+          "sub": true
+        },
+        {
+          "text": "available on the company intranet",
+          "role": "C",
+          "ko": "사내 인트라넷에서 이용 가능한",
+          "sub": true
+        },
+        {
+          "text": "starting June 10.",
+          "role": "M",
+          "ko": "6월 10일부터",
+          "sub": true
+        }
+      ],
+      "skeleton": "Those may complete an online tutorial",
+      "explanation": "Those who ~ = '~하는 사람들'. 콤마 뒤 which는 tutorial을 덧붙여 설명하는 계속적 용법 관계대명사."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "replace A with B",
+      "tags": [
+        "어휘"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "replace its paper-based expense reporting process with Expensa"
+      ],
+      "explanation": "replace A with B는 'A를 B로 교체하다'. 새것이 with 뒤에 온다. 수동태로는 A is replaced with/by B.",
+      "example": {
+        "en": "We replaced the old printer with a faster model.",
+        "ko": "우리는 낡은 프린터를 더 빠른 모델로 교체했다."
+      },
+      "note": "Part 7에서 '무엇이 무엇으로 바뀌는지' 방향을 헷갈리지 말 것."
+    },
+    {
+      "id": "g2",
+      "title": "주격 관계대명사 + 동사 수 일치",
+      "tags": [
+        "관계사",
+        "일치"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "Requests that exceed"
+      ],
+      "explanation": "that의 선행사는 복수 Requests라서 관계사절 동사도 복수형 exceed. as they do now의 do는 require를 대신한다.",
+      "example": {
+        "en": "Orders that arrive after noon are shipped the next day.",
+        "ko": "정오 이후에 들어온 주문은 다음 날 발송된다."
+      },
+      "note": "관계사절 동사의 수는 선행사에 맞춘다."
+    },
+    {
+      "id": "g3",
+      "title": "be required to + 동사원형",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "are required to attend"
+      ],
+      "explanation": "require + 목적어 + to do를 수동태로 바꾸면 be required to do('~해야 한다'). 의무를 나타내는 공지문의 단골 표현.",
+      "example": {
+        "en": "Visitors are required to sign in at the front desk.",
+        "ko": "방문객은 안내 데스크에서 방문 기록을 남겨야 한다."
+      },
+      "note": "be required/expected/encouraged to do는 공지·메모에 자주 나온다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the main purpose of the announcement?",
+      "evidenceSentenceIds": [
+        "s2",
+        "s3"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To announce a cut in travel budgets"
+        },
+        {
+          "key": "B",
+          "text": "To introduce a change in how staff request repayment"
+        },
+        {
+          "key": "C",
+          "text": "To recruit new staff for the finance department"
+        },
+        {
+          "key": "D",
+          "text": "To explain a new policy on company phones"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "첫 문단에서 종이 경비 보고를 온라인 플랫폼으로 바꾼다고 알린다. reimbursement requests → request repayment로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "A": "비용 절감은 언급되지만 출장 예산 삭감 이야기가 아니다.",
+        "D": "휴대 전화는 플랫폼을 쓰는 수단으로만 나온다."
+      },
+      "skill": "목적 찾기"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "According to the announcement, what is needed for requests of more than $500?",
+      "evidenceSentenceIds": [
+        "s7"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "A paper receipt mailed to a manager"
+        },
+        {
+          "key": "B",
+          "text": "A certificate of training"
+        },
+        {
+          "key": "C",
+          "text": "An additional review by the finance department"
+        },
+        {
+          "key": "D",
+          "text": "A signature from the company president"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "'Requests that exceed $500 will still require a second approval from the finance department'를 바꿔 말한 것이 정답. exceed → more than, second approval → additional review.",
+      "choiceNotesKo": {
+        "A": "영수증은 사진으로 올리며 우편 발송은 없다.",
+        "B": "교육 참석은 모든 해당 직원의 의무이지 500달러 초과 요청의 조건이 아니다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-not-true",
+      "prompt": "What is NOT stated about Expensa?",
+      "evidenceSentenceIds": [
+        "s2",
+        "s5",
+        "s6"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "It can be used on mobile devices."
+        },
+        {
+          "key": "B",
+          "text": "It requires users to upload images of receipts."
+        },
+        {
+          "key": "C",
+          "text": "It sends alerts to managers automatically."
+        },
+        {
+          "key": "D",
+          "text": "It converts foreign currencies into dollars."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "휴대 전화 사용(A), 영수증 사진 업로드(B), 관리자 자동 알림(C)은 모두 본문에 있다. 외화 환산 기능은 어디에도 없다.",
+      "choiceNotesKo": {
+        "B": "photograph their receipts and upload them을 바꿔 말한 것이다.",
+        "C": "receive an automatic notification을 바꿔 말한 것이다."
+      },
+      "skill": "사실이 아닌 것(NOT)"
+    }
+  ]
+}

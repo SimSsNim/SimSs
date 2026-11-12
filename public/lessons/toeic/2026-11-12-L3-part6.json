@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-12-L3-part6",
+  "date": "2026-11-12",
+  "level": 3,
+  "title": "Lobby Renovation E-mail",
+  "titleKo": "로비 보수 공사 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "시설 보수"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 157,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 하웰 타워 전 입주사"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: 레나 오르티즈, 건물 관리자"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "제목: 로비 보수 공사"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "입주사 여러분께,"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "4월 6일 월요일부터 중앙 로비 보수 공사가 시작됨을 알려 드립니다. 약 3주가 걸릴 것으로 예상되는 이번 공사에는 새 바닥재, 더 밝은 조명, 새로 단장한 보안 데스크가 포함됩니다. 이 기간에는 정문이 폐쇄됩니다. 입주사와 방문객은 대신 카버 스트리트 쪽 옆문을 이용해 주십시오."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "시공업체에 가장 시끄러운 작업은 오전 9시 이전이나 오후 6시 이후에 하도록 요청했습니다. 하지만 정규 업무 시간에도 어느 정도 소음은 피할 수 없을 수 있습니다. 이로 인해 불편을 끼칠 수 있는 점 미리 사과드립니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s12",
+        "s13",
+        "s14"
+      ],
+      "ko": "공사 기간에 대형 배송을 받을 예정이라면 최소 이틀 전에 관리 사무소에 알려 주십시오. 직원들이 화물용 엘리베이터를 쓸 수 있도록 준비해 드리겠습니다. 양해해 주셔서 감사합니다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s15"
+      ],
+      "ko": "감사합니다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s16"
+      ],
+      "ko": "레나 오르티즈"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All tenants of Harwell Tower",
+      "ko": "수신: 하웰 타워 전 입주사",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Lena Ortiz, Building Manager",
+      "ko": "발신: 레나 오르티즈, 건물 관리자",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Subject: Lobby renovation",
+      "ko": "제목: 로비 보수 공사",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Dear Tenants,",
+      "ko": "입주사 여러분께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "We are pleased to announce that the renovation of the main lobby will begin on Monday, April 6.",
+      "ko": "4월 6일 월요일부터 중앙 로비 보수 공사가 시작됨을 알려 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "The work, expected to take about three weeks, will include new flooring, brighter lighting, and an updated security desk.",
+      "ko": "약 3주가 걸릴 것으로 예상되는 이번 공사에는 새 바닥재, 더 밝은 조명, 새로 단장한 보안 데스크가 포함됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "During this period, the front entrance will be closed.",
+      "ko": "이 기간에는 정문이 폐쇄됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "Tenants and visitors should use the side entrance on Carver Street instead.",
+      "ko": "입주사와 방문객은 대신 카버 스트리트 쪽 옆문을 이용해 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "We have asked the contractor to carry out the noisiest tasks before nine in the morning or after six in the evening.",
+      "ko": "시공업체에 가장 시끄러운 작업은 오전 9시 이전이나 오후 6시 이후에 하도록 요청했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "However, some noise during regular business hours may be unavoidable.",
+      "ko": "하지만 정규 업무 시간에도 어느 정도 소음은 피할 수 없을 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "We apologize in advance for any inconvenience this may cause.",
+      "ko": "이로 인해 불편을 끼칠 수 있는 점 미리 사과드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "If you plan to receive large deliveries during the renovation, please notify the management office at least two days in advance.",
+      "ko": "공사 기간에 대형 배송을 받을 예정이라면 최소 이틀 전에 관리 사무소에 알려 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Our staff will arrange for a freight elevator to be available.",
+      "ko": "직원들이 화물용 엘리베이터를 쓸 수 있도록 준비해 드리겠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p7",
+      "en": "Thank you for your patience.",
+      "ko": "양해해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p8",
+      "en": "Best regards,",
+      "ko": "감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p9",
+      "en": "Lena Ortiz",
+      "ko": "레나 오르티즈",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "tenant",
+      "pos": "noun",
+      "meaningKo": "세입자, 입주자",
+      "ipa": "/ˈtenənt/",
+      "synonyms": [
+        "occupant",
+        "renter"
+      ],
+      "matchText": "tenants",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The tenants on the third floor complained about the heating.",
+        "ko": "3층 입주자들이 난방에 대해 불만을 제기했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "contractor",
+      "pos": "noun",
+      "meaningKo": "시공업체, 도급업자",
+      "ipa": "/ˈkɑːntræktər/",
+      "synonyms": [
+        "builder",
+        "subcontractor"
+      ],
+      "matchText": "contractor",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The contractor promised to finish the job by Friday.",
+        "ko": "시공업체는 금요일까지 작업을 끝내겠다고 약속했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "carry out",
+      "pos": "phrasal-verb",
+      "meaningKo": "수행하다, 실시하다",
+      "ipa": null,
+      "synonyms": [
+        "perform",
+        "conduct"
+      ],
+      "matchText": "carry out",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The lab will carry out several safety tests.",
+        "ko": "연구소는 몇 가지 안전 시험을 실시할 것이다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "unavoidable",
+      "pos": "adjective",
+      "meaningKo": "피할 수 없는",
+      "ipa": "/ˌʌnəˈvɔɪdəbl/",
+      "synonyms": [
+        "inevitable",
+        "unpreventable"
+      ],
+      "matchText": "unavoidable",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Some delays are unavoidable in bad weather.",
+        "ko": "날씨가 나쁘면 일부 지연은 피할 수 없다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "notify",
+      "pos": "verb",
+      "meaningKo": "알리다, 통지하다",
+      "ipa": "/ˈnoʊtɪfaɪ/",
+      "synonyms": [
+        "inform",
+        "tell"
+      ],
+      "matchText": "notify",
+      "sentenceId": "s12",
+      "example": {
+        "en": "Please notify us of any change in your address.",
+        "ko": "주소가 바뀌면 저희에게 알려 주세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "The work,",
+          "role": "S",
+          "ko": "그 공사는"
+        },
+        {
+          "text": "expected to take about three weeks,",
+          "role": "M",
+          "ko": "약 3주가 걸릴 것으로 예상되는"
+        },
+        {
+          "text": "will include",
+          "role": "V",
+          "ko": "포함할 것이다"
+        },
+        {
+          "text": "new flooring, brighter lighting, and an updated security desk.",
+          "role": "O",
+          "ko": "새 바닥재, 더 밝은 조명, 새로 단장한 보안 데스크를"
+        }
+      ],
+      "skeleton": "The work will include new flooring, lighting, and a security desk",
+      "explanation": "콤마 사이 expected ~ weeks는 The work를 덧붙여 설명하는 과거분사구(= which is expected to ~). 빼고 읽으면 뼈대가 보인다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s13",
+      "chunks": [
+        {
+          "text": "Our staff",
+          "role": "S",
+          "ko": "저희 직원들이"
+        },
+        {
+          "text": "will arrange",
+          "role": "V",
+          "ko": "준비할 것이다"
+        },
+        {
+          "text": "for a freight elevator to be available.",
+          "role": "M",
+          "ko": "화물용 엘리베이터를 쓸 수 있도록"
+        }
+      ],
+      "skeleton": "Our staff will arrange for an elevator",
+      "explanation": "arrange for + 대상 + to부정사: '~가 …하도록 준비하다'. for 뒤의 a freight elevator가 to be available의 의미상 주어."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "삽입된 과거분사구",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "expected to take"
+      ],
+      "explanation": "공사는 '예상되는' 대상이므로 과거분사 expected. 주어와 동사 사이 콤마 안에 들어가 주어를 설명한다.",
+      "example": {
+        "en": "The new menu, created by our head chef, has been very popular.",
+        "ko": "수석 셰프가 만든 새 메뉴는 큰 인기를 얻고 있다."
+      },
+      "note": "콤마로 둘러싸인 빈칸 + 뒤에 to부정사 → be expected to의 분사형 expected."
+    },
+    {
+      "id": "g2",
+      "title": "전치사 during + 기간 명사",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "During this period"
+      ],
+      "explanation": "during은 전치사라 뒤에 명사(this period)가 온다. 같은 뜻의 while은 접속사라 절이 와야 한다.",
+      "example": {
+        "en": "Please turn off your phone during the meeting.",
+        "ko": "회의 중에는 휴대 전화를 꺼 주세요."
+      },
+      "note": "빈칸 뒤가 명사구인지 절인지 먼저 확인."
+    },
+    {
+      "id": "g3",
+      "title": "any + 명사",
+      "tags": [
+        "품사"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "any inconvenience"
+      ],
+      "explanation": "한정사 any 뒤에는 명사가 온다. inconvenience는 셀 수 없는 명사로 쓰여 '불편'이라는 뜻.",
+      "example": {
+        "en": "We apologize for any delay in our reply.",
+        "ko": "답변이 늦어진 점 사과드립니다."
+      },
+      "note": "apologize for any ------- → 명사 inconvenience가 단골."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "expected"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "expecting"
+        },
+        {
+          "key": "B",
+          "text": "expects"
+        },
+        {
+          "key": "C",
+          "text": "expected"
+        },
+        {
+          "key": "D",
+          "text": "expectation"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "콤마 사이에서 주어 The work를 설명하는 자리. 공사는 '예상되는' 것이므로 과거분사 expected(= which is expected).",
+      "choiceNotesKo": {
+        "A": "현재분사는 '공사가 무언가를 예상한다'는 이상한 뜻이 된다.",
+        "B": "동사 will include가 따로 있어 동사를 또 쓸 수 없다."
+      },
+      "skill": "분사(삽입구)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "During"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "During"
+        },
+        {
+          "key": "B",
+          "text": "While"
+        },
+        {
+          "key": "C",
+          "text": "Because"
+        },
+        {
+          "key": "D",
+          "text": "Once"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "뒤에 명사구 this period만 있으므로 전치사 During. '이 기간 동안 정문이 닫힌다'.",
+      "choiceNotesKo": {
+        "B": "While은 접속사라 뒤에 주어+동사가 와야 한다."
+      },
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "However, some noise during regular business hours may be unavoidable."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The new security desk will be staffed around the clock."
+        },
+        {
+          "key": "B",
+          "text": "The side entrance on Carver Street will also be repainted."
+        },
+        {
+          "key": "C",
+          "text": "Tenants are reminded that rent is due on the first of each month."
+        },
+        {
+          "key": "D",
+          "text": "However, some noise during regular business hours may be unavoidable."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장은 '시끄러운 작업은 업무 시간 밖에 한다', 뒤 문장은 '불편에 미리 사과한다'. 그 사이에는 '그래도 업무 시간에 소음이 있을 수 있다'가 와야 사과의 이유가 생긴다. However가 앞 문장과 반대 흐름을 만든다.",
+      "choiceNotesKo": {
+        "A": "보안 데스크 이야기는 소음·사과 흐름과 맞지 않는다.",
+        "C": "임대료 안내는 공사와 관계없다."
+      },
+      "skill": "문장 넣기(흐름·연결어)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s11",
+        "answerText": "inconvenience"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "inconvenient"
+        },
+        {
+          "key": "B",
+          "text": "inconvenience"
+        },
+        {
+          "key": "C",
+          "text": "inconveniently"
+        },
+        {
+          "key": "D",
+          "text": "inconvenienced"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "any 뒤는 명사 자리이므로 inconvenience. 뒤의 this may cause는 앞 명사를 꾸미는 관계사절.",
+      "choiceNotesKo": {
+        "A": "형용사는 명사 없이 any 뒤에 혼자 올 수 없다."
+      },
+      "skill": "명사 자리"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s13",
+        "answerText": "arrange"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "arrange"
+        },
+        {
+          "key": "B",
+          "text": "assure"
+        },
+        {
+          "key": "C",
+          "text": "attend"
+        },
+        {
+          "key": "D",
+          "text": "admit"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'화물 엘리베이터를 쓸 수 있도록 준비하다'는 arrange for ~ to do.",
+      "choiceNotesKo": {
+        "B": "assure는 '(사람에게) 장담하다'로 assure for 형태로 쓰지 않는다.",
+        "C": "attend는 '참석하다'."
+      },
+      "skill": "어휘(arrange for)"
+    }
+  ]
+}
