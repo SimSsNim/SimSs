@@ -1,0 +1,1073 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-13-L1-part6",
+  "date": "2026-11-13",
+  "level": 1,
+  "title": "Same-Day Delivery Announcement",
+  "titleKo": "당일 배송 서비스 안내",
+  "genre": "announcement",
+  "tags": [
+    "TOEIC Part 6",
+    "공고",
+    "주문·배송"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 91,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "브라이트웨이브 홈 굿즈는 시내 고객을 위한 새 배송 서비스를 알려 드리게 되어 기쁩니다. 12월 1일부터 정오 전에 들어온 주문은 당일에 도착합니다. 이 서비스는 리워즈 클럽 회원에게 무료입니다. 그 밖의 고객은 5달러의 적은 요금을 내시면 됩니다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "서비스를 이용하려면 결제 페이지에서 '당일 배송'을 선택하기만 하면 됩니다. 소포가 저희 창고를 떠나면 문자 메시지를 받으실 겁니다. 이 새 서비스로 쇼핑이 더 편리해지기를 바랍니다. 브라이트웨이브 홈 굿즈를 선택해 주셔서 감사합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Brightwave Home Goods is happy to announce a new delivery service for customers in the city.",
+      "ko": "브라이트웨이브 홈 굿즈는 시내 고객을 위한 새 배송 서비스를 알려 드리게 되어 기쁩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Starting on December 1, orders placed before noon will arrive on the same day.",
+      "ko": "12월 1일부터 정오 전에 들어온 주문은 당일에 도착합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "This service is free for members of our Rewards Club.",
+      "ko": "이 서비스는 리워즈 클럽 회원에게 무료입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Other customers will pay a small fee of five dollars.",
+      "ko": "그 밖의 고객은 5달러의 적은 요금을 내시면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "To use the service, simply select Same-Day Delivery on the payment page.",
+      "ko": "서비스를 이용하려면 결제 페이지에서 '당일 배송'을 선택하기만 하면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "You will receive a text message when your package leaves our warehouse.",
+      "ko": "소포가 저희 창고를 떠나면 문자 메시지를 받으실 겁니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "We hope this new service makes your shopping more convenient.",
+      "ko": "이 새 서비스로 쇼핑이 더 편리해지기를 바랍니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "Thank you for choosing Brightwave Home Goods.",
+      "ko": "브라이트웨이브 홈 굿즈를 선택해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "announce",
+      "pos": "verb",
+      "meaningKo": "알리다, 발표하다",
+      "ipa": "/əˈnaʊns/",
+      "synonyms": [
+        "inform",
+        "declare"
+      ],
+      "matchText": "announce",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The company will announce the winner today.",
+        "ko": "회사는 오늘 수상자를 발표할 것이다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "place an order",
+      "pos": "verb",
+      "meaningKo": "주문하다",
+      "ipa": "/pleɪs ən ˈɔːrdər/",
+      "synonyms": [
+        "order",
+        "make a purchase"
+      ],
+      "matchText": "orders placed",
+      "sentenceId": "s2",
+      "example": {
+        "en": "I placed an order online yesterday.",
+        "ko": "나는 어제 온라인으로 주문했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "fee",
+      "pos": "noun",
+      "meaningKo": "요금, 수수료",
+      "ipa": "/fiː/",
+      "synonyms": [
+        "charge",
+        "cost"
+      ],
+      "matchText": "fee",
+      "sentenceId": "s4",
+      "example": {
+        "en": "There is no fee for this service.",
+        "ko": "이 서비스는 요금이 없다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "select",
+      "pos": "verb",
+      "meaningKo": "선택하다, 고르다",
+      "ipa": "/sɪˈlɛkt/",
+      "synonyms": [
+        "choose",
+        "pick"
+      ],
+      "matchText": "select",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Please select a size.",
+        "ko": "사이즈를 선택해 주세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "warehouse",
+      "pos": "noun",
+      "meaningKo": "창고",
+      "ipa": "/ˈwɛrhaʊs/",
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "matchText": "warehouse",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The boxes are kept in the warehouse.",
+        "ko": "상자들은 창고에 보관되어 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Starting on December 1,",
+          "role": "M",
+          "ko": "12월 1일부터"
+        },
+        {
+          "text": "orders",
+          "role": "S",
+          "ko": "주문은"
+        },
+        {
+          "text": "placed before noon",
+          "role": "M",
+          "ko": "정오 전에 들어온"
+        },
+        {
+          "text": "will arrive",
+          "role": "V",
+          "ko": "도착할 것이다"
+        },
+        {
+          "text": "on the same day.",
+          "role": "M",
+          "ko": "당일에"
+        }
+      ],
+      "skeleton": "orders will arrive",
+      "explanation": "주어 orders 뒤의 placed before noon은 주어를 꾸미는 과거분사구(들어온 주문). 진짜 동사는 will arrive."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "You",
+          "role": "S",
+          "ko": "여러분은"
+        },
+        {
+          "text": "will receive",
+          "role": "V",
+          "ko": "받을 것이다"
+        },
+        {
+          "text": "a text message",
+          "role": "O",
+          "ko": "문자 메시지를"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~할 때",
+          "sub": true
+        },
+        {
+          "text": "your package",
+          "role": "S",
+          "ko": "소포가",
+          "sub": true
+        },
+        {
+          "text": "leaves",
+          "role": "V",
+          "ko": "떠나다",
+          "sub": true
+        },
+        {
+          "text": "our warehouse.",
+          "role": "O",
+          "ko": "저희 창고를",
+          "sub": true
+        }
+      ],
+      "skeleton": "You will receive a text message",
+      "explanation": "when 이하가 '언제' 받는지 말하는 부사절. 시간 부사절에서는 미래 일도 현재형 leaves로 쓴다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래 시제 will + 동사원형",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "will arrive"
+      ],
+      "explanation": "Starting on December 1(12월 1일부터)처럼 앞으로의 일을 말할 때는 will + 동사원형을 쓴다.",
+      "example": {
+        "en": "The new store will open next month.",
+        "ko": "새 가게는 다음 달에 문을 연다."
+      },
+      "note": "Part 6에서는 지문 전체의 시점(앞으로 시작될 서비스)을 보고 시제를 고른다."
+    },
+    {
+      "id": "g2",
+      "title": "make + 목적어 + 형용사 (~을 …하게 만들다)",
+      "tags": [
+        "어순",
+        "품사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "makes your shopping more convenient"
+      ],
+      "explanation": "make 뒤에 '무엇을'(your shopping)이 오고, 그 상태를 말하는 형용사(more convenient)가 온다. 부사 conveniently는 이 자리에 올 수 없다.",
+      "example": {
+        "en": "The new chairs make the room comfortable.",
+        "ko": "새 의자들이 방을 편안하게 만든다."
+      },
+      "note": "make/keep/find + 목적어 뒤 빈칸은 형용사 자리."
+    },
+    {
+      "id": "g3",
+      "title": "명사를 뒤에서 꾸미는 과거분사",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "orders placed before noon"
+      ],
+      "explanation": "placed는 '(주문이) 넣어진'이라는 뜻으로 앞의 명사 orders를 꾸민다. 주문은 사람이 넣는 것이라 과거분사를 쓴다.",
+      "example": {
+        "en": "The report written by Ms. Park is very clear.",
+        "ko": "박 씨가 쓴 보고서는 아주 명확하다."
+      },
+      "note": "명사 바로 뒤의 p.p.는 동사가 아니라 꾸밈말일 수 있다. 진짜 동사를 따로 찾는다."
+    }
+  ],
+  "glossary": {
+    "brightwave": {
+      "lemma": "Brightwave",
+      "pos": "proper-noun",
+      "ko": "브라이트웨이브(지어낸 회사 이름의 일부)",
+      "ipa": null
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "noun",
+      "ko": "집, 가정 (home goods: 생활용품)",
+      "synonyms": [
+        "household",
+        "house"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "goods": {
+      "lemma": "goods",
+      "pos": "noun",
+      "ko": "상품, 물건",
+      "synonyms": [
+        "products",
+        "merchandise"
+      ],
+      "ipa": "/ɡʊdz/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "exist"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "happy": {
+      "lemma": "happy",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "synonyms": [
+        "glad",
+        "pleased"
+      ],
+      "ipa": "/ˈhæpi/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하게 되어, ~하는 것 (to부정사 표시)",
+      "ipa": "/tuː/"
+    },
+    "announce": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "알리다, 발표하다",
+      "synonyms": [
+        "inform",
+        "declare"
+      ],
+      "ipa": "/əˈnaʊns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "synonyms": [
+        "latest",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "delivery": {
+      "lemma": "delivery",
+      "pos": "noun",
+      "ko": "배송, 배달",
+      "synonyms": [
+        "shipping",
+        "shipment"
+      ],
+      "ipa": "/dɪˈlɪvəri/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스",
+      "synonyms": [
+        "program",
+        "offering"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에게",
+      "ipa": "/fɔːr/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "client",
+        "shopper"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에 있는, ~안의",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "city": {
+      "lemma": "city",
+      "pos": "noun",
+      "ko": "도시, 시내",
+      "synonyms": [
+        "town",
+        "downtown"
+      ],
+      "ipa": "/ˈsɪti/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다 (starting on: ~부터)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "begin",
+        "commence"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·요일 앞), ~에서 (페이지)",
+      "ipa": "/ɑːn/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월",
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "orders": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "주문",
+      "form": "복수형",
+      "synonyms": [
+        "purchase",
+        "request"
+      ],
+      "ipa": "/ˈɔːrdərz/"
+    },
+    "placed": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "(주문을) 넣다",
+      "form": "과거분사",
+      "synonyms": [
+        "make",
+        "submit"
+      ],
+      "ipa": "/pleɪst/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "noon": {
+      "lemma": "noon",
+      "pos": "noun",
+      "ko": "정오, 낮 12시",
+      "synonyms": [
+        "midday",
+        "twelve o'clock"
+      ],
+      "ipa": "/nuːn/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "ipa": "/wɪl/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "synonyms": [
+        "come",
+        "reach"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은 (the same day: 당일)",
+      "synonyms": [
+        "identical",
+        "very"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "ipa": "/ðɪs/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의",
+      "synonyms": [
+        "complimentary",
+        "at no cost"
+      ],
+      "ipa": "/friː/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "회원",
+      "form": "복수형",
+      "synonyms": [
+        "subscriber"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "ipa": "/ˈaʊər/"
+    },
+    "rewards": {
+      "lemma": "Rewards",
+      "pos": "proper-noun",
+      "ko": "리워즈(회원 클럽 이름의 일부)",
+      "ipa": "/rɪˈwɔːrdz/"
+    },
+    "club": {
+      "lemma": "club",
+      "pos": "noun",
+      "ko": "클럽, 모임 (Rewards Club: 회원 프로그램 이름)",
+      "synonyms": [
+        "membership program",
+        "group"
+      ],
+      "ipa": "/klʌb/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "determiner",
+      "ko": "그 밖의, 다른",
+      "ipa": "/ˈʌðər/"
+    },
+    "pay": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(돈을) 내다, 지불하다",
+      "synonyms": [
+        "spend",
+        "be charged"
+      ],
+      "ipa": "/peɪ/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "적은, 작은",
+      "synonyms": [
+        "low",
+        "little"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "fee": {
+      "lemma": "fee",
+      "pos": "noun",
+      "ko": "요금, 수수료",
+      "synonyms": [
+        "charge",
+        "cost"
+      ],
+      "ipa": "/fiː/"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "다섯, 5",
+      "ipa": "/faɪv/"
+    },
+    "dollars": {
+      "lemma": "dollar",
+      "pos": "noun",
+      "ko": "달러 (미국 등의 화폐 단위)",
+      "form": "복수형",
+      "synonyms": [
+        "buck"
+      ],
+      "ipa": "/ˈdɑːlərz/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "이용하다, 사용하다",
+      "synonyms": [
+        "try",
+        "make use of"
+      ],
+      "ipa": "/juːs/"
+    },
+    "simply": {
+      "lemma": "simply",
+      "pos": "adverb",
+      "ko": "그냥, ~하기만 하면",
+      "synonyms": [
+        "just",
+        "only"
+      ],
+      "ipa": "/ˈsɪmpli/"
+    },
+    "select": {
+      "lemma": "select",
+      "pos": "verb",
+      "ko": "선택하다, 고르다",
+      "synonyms": [
+        "choose",
+        "pick"
+      ],
+      "ipa": "/səˈlɛkt/"
+    },
+    "same-day": {
+      "lemma": "same-day",
+      "pos": "adjective",
+      "ko": "당일의",
+      "synonyms": [
+        "next-hour",
+        "express"
+      ],
+      "ipa": "/seɪm-deɪ/"
+    },
+    "payment": {
+      "lemma": "payment",
+      "pos": "noun",
+      "ko": "결제, 지불",
+      "synonyms": [
+        "checkout",
+        "paying"
+      ],
+      "ipa": "/ˈpeɪmənt/"
+    },
+    "page": {
+      "lemma": "page",
+      "pos": "noun",
+      "ko": "페이지, 화면",
+      "synonyms": [
+        "screen",
+        "web page"
+      ],
+      "ipa": "/peɪdʒ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "여러분, 당신",
+      "ipa": "/juː/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "synonyms": [
+        "get",
+        "be sent"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "text": {
+      "lemma": "text",
+      "pos": "noun",
+      "ko": "문자 (text message: 문자 메시지)",
+      "synonyms": [
+        "SMS",
+        "written message"
+      ],
+      "ipa": "/tɛkst/"
+    },
+    "message": {
+      "lemma": "message",
+      "pos": "noun",
+      "ko": "메시지",
+      "synonyms": [
+        "note",
+        "notice"
+      ],
+      "ipa": "/ˈmɛsədʒ/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "여러분의",
+      "ipa": "/jɔːr/"
+    },
+    "package": {
+      "lemma": "package",
+      "pos": "noun",
+      "ko": "소포, 택배",
+      "synonyms": [
+        "parcel",
+        "box"
+      ],
+      "ipa": "/ˈpækədʒ/"
+    },
+    "leaves": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "떠나다, 나가다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "depart from",
+        "exit"
+      ],
+      "ipa": "/liːvz/"
+    },
+    "warehouse": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고",
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "ipa": "/ˈwɛrˌhaʊs/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "ipa": "/wiː/"
+    },
+    "hope": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "바라다",
+      "synonyms": [
+        "wish",
+        "expect"
+      ],
+      "ipa": "/hoʊp/"
+    },
+    "makes": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(~을 …하게) 만들다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "render",
+        "cause to be"
+      ],
+      "ipa": "/meɪks/"
+    },
+    "shopping": {
+      "lemma": "shopping",
+      "pos": "noun",
+      "ko": "쇼핑, 장보기",
+      "synonyms": [
+        "buying",
+        "purchasing"
+      ],
+      "ipa": "/ˈʃɑːpɪŋ/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (비교급을 만드는 말)",
+      "synonyms": [
+        "further",
+        "increasingly"
+      ],
+      "ipa": "/mɔːr/"
+    },
+    "convenient": {
+      "lemma": "convenient",
+      "pos": "adjective",
+      "ko": "편리한",
+      "synonyms": [
+        "easy",
+        "handy"
+      ],
+      "ipa": "/kənˈviːnjənt/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다 (thank you: 감사합니다)",
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "choosing": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "선택하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "select",
+        "pick"
+      ],
+      "ipa": "/ˈtʃuːzɪŋ/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "will arrive"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "arrived"
+        },
+        {
+          "key": "B",
+          "text": "will arrive"
+        },
+        {
+          "key": "C",
+          "text": "have arrived"
+        },
+        {
+          "key": "D",
+          "text": "arriving"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "Starting on December 1(12월 1일부터)은 앞으로 시작될 일이므로 미래 시제 will arrive가 맞다.",
+      "choiceNotesKo": {
+        "A": "arrived는 과거라 앞으로 시작될 서비스와 맞지 않는다.",
+        "D": "arriving만으로는 문장의 동사가 될 수 없다."
+      },
+      "skill": "시제(미래)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "Other customers will pay a small fee of five dollars."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Large furniture is on sale this month."
+        },
+        {
+          "key": "B",
+          "text": "Our store first opened ten years ago."
+        },
+        {
+          "key": "C",
+          "text": "Please return damaged items within 30 days."
+        },
+        {
+          "key": "D",
+          "text": "Other customers will pay a small fee of five dollars."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장이 '회원에게는 무료'라고 했으니, 이어서 회원이 아닌 '그 밖의 고객(Other customers)'의 요금을 말하는 문장이 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "가구 할인은 배송 서비스 이야기와 상관없다.",
+        "B": "가게 역사는 흐름과 맞지 않는다.",
+        "C": "반품 안내는 다른 주제다."
+      },
+      "skill": "문장 넣기(앞뒤 흐름)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "simply"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "simply"
+        },
+        {
+          "key": "B",
+          "text": "simple"
+        },
+        {
+          "key": "C",
+          "text": "simplicity"
+        },
+        {
+          "key": "D",
+          "text": "simplify"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "동사 select 앞에서 동사를 꾸미는 말이라 부사 simply('그냥 ~하기만 하면')가 맞다.",
+      "choiceNotesKo": {
+        "B": "simple은 형용사라 동사를 꾸미지 못한다.",
+        "D": "simplify는 동사라 동사 앞에 또 올 수 없다."
+      },
+      "skill": "부사 자리"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "when"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "during"
+        },
+        {
+          "key": "B",
+          "text": "until"
+        },
+        {
+          "key": "C",
+          "text": "when"
+        },
+        {
+          "key": "D",
+          "text": "because of"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "빈칸 뒤에 주어(your package)+동사(leaves)가 있으므로 접속사가 필요하고, '소포가 떠날 때'라는 뜻의 when이 맞다.",
+      "choiceNotesKo": {
+        "A": "during은 전치사라 뒤에 문장이 올 수 없다.",
+        "D": "because of도 전치사라 문장이 올 수 없다."
+      },
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "convenient"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "convenience"
+        },
+        {
+          "key": "B",
+          "text": "convenient"
+        },
+        {
+          "key": "C",
+          "text": "conveniently"
+        },
+        {
+          "key": "D",
+          "text": "conveniences"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "make + 목적어(your shopping) + 형용사 구조. more 뒤에서 쇼핑의 상태를 말하는 형용사 convenient가 맞다.",
+      "choiceNotesKo": {
+        "C": "conveniently는 부사라 목적어의 상태를 말하지 못한다."
+      },
+      "skill": "형용사 자리(목적격 보어)"
+    }
+  ]
+}

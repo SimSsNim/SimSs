@@ -1,0 +1,1367 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-13-L2-part6",
+  "date": "2026-11-13",
+  "level": 2,
+  "title": "Welcome to the Team",
+  "titleKo": "신입 사원 환영 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "채용·인사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 129,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "노박 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "펜우드 로지스틱스를 대표해 귀하를 저희 팀에 맞이하게 되어 기쁩니다. 첫 출근일은 1월 4일 월요일입니다. 늦어도 오전 8시 30분까지 본사에 도착해 주세요. 그날은 다른 신입 직원들과 함께 오리엔테이션에 참석하는 것으로 시작합니다. 오리엔테이션에서는 회사 방침, 안전 수칙, 직원 복리후생을 다룹니다. 점심 식사 후에는 담당 매니저인 다니엘라 레예스 씨가 창고를 안내해 드릴 것입니다. 그녀는 또한 귀하를 팀원들에게 소개해 드릴 것입니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "첫 출근 전에 첨부된 서류를 작성해 제게 다시 보내 주세요. 궁금한 점이 있으면 언제든 편하게 연락 주세요. 함께 일하기를 고대합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "진심을 담아,"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "토마스 바르가"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s14"
+      ],
+      "ko": "인사 담당 매니저"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Novak,",
+      "ko": "노박 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "On behalf of Fenwood Logistics, I am pleased to welcome you to our team.",
+      "ko": "펜우드 로지스틱스를 대표해 귀하를 저희 팀에 맞이하게 되어 기쁩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Your first day of work will be Monday, January 4.",
+      "ko": "첫 출근일은 1월 4일 월요일입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Please arrive at our main office no later than 8:30 in the morning.",
+      "ko": "늦어도 오전 8시 30분까지 본사에 도착해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "You will begin the day by attending an orientation session with other new employees.",
+      "ko": "그날은 다른 신입 직원들과 함께 오리엔테이션에 참석하는 것으로 시작합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "The session will cover company policies, safety rules, and employee benefits.",
+      "ko": "오리엔테이션에서는 회사 방침, 안전 수칙, 직원 복리후생을 다룹니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "After lunch, your manager, Ms. Daniela Reyes, will show you around the warehouse.",
+      "ko": "점심 식사 후에는 담당 매니저인 다니엘라 레예스 씨가 창고를 안내해 드릴 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "She will also introduce you to the members of your team.",
+      "ko": "그녀는 또한 귀하를 팀원들에게 소개해 드릴 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "Before your first day, please complete the attached forms and return them to me.",
+      "ko": "첫 출근 전에 첨부된 서류를 작성해 제게 다시 보내 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p3",
+      "en": "If you have any questions, feel free to contact me at any time.",
+      "ko": "궁금한 점이 있으면 언제든 편하게 연락 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p3",
+      "en": "We look forward to working with you.",
+      "ko": "함께 일하기를 고대합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p4",
+      "en": "Sincerely,",
+      "ko": "진심을 담아,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "Tomas Varga",
+      "ko": "토마스 바르가",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p6",
+      "en": "Human Resources Manager",
+      "ko": "인사 담당 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "on behalf of",
+      "pos": "preposition",
+      "meaningKo": "~을 대표해, ~을 대신해",
+      "ipa": "/ɑːn bɪˈhæf əv/",
+      "synonyms": [
+        "representing",
+        "for"
+      ],
+      "matchText": "On behalf of",
+      "sentenceId": "s2",
+      "example": {
+        "en": "I am writing on behalf of my manager.",
+        "ko": "저는 매니저를 대신해 글을 씁니다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "no later than",
+      "pos": "preposition",
+      "meaningKo": "늦어도 ~까지",
+      "ipa": "/noʊ ˈleɪtər ðæn/",
+      "synonyms": [
+        "by",
+        "before"
+      ],
+      "matchText": "no later than",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Submit the report no later than Friday.",
+        "ko": "늦어도 금요일까지 보고서를 내세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "cover",
+      "pos": "verb",
+      "meaningKo": "(주제를) 다루다",
+      "ipa": "/ˈkʌvər/",
+      "synonyms": [
+        "deal with",
+        "include"
+      ],
+      "matchText": "cover",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The class will cover basic accounting.",
+        "ko": "그 수업은 기초 회계를 다룬다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "show around",
+      "pos": "verb",
+      "meaningKo": "(장소를) 안내하다, 구경시켜 주다",
+      "ipa": "/ʃoʊ əˈraʊnd/",
+      "synonyms": [
+        "give a tour",
+        "guide"
+      ],
+      "matchText": "show you around",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Let me show you around the office.",
+        "ko": "사무실을 안내해 드릴게요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "attached",
+      "pos": "adjective",
+      "meaningKo": "첨부된",
+      "ipa": "/əˈtætʃt/",
+      "synonyms": [
+        "enclosed",
+        "included"
+      ],
+      "matchText": "attached",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Please read the attached file.",
+        "ko": "첨부된 파일을 읽어 주세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "You",
+          "role": "S",
+          "ko": "귀하는"
+        },
+        {
+          "text": "will begin",
+          "role": "V",
+          "ko": "시작할 것이다"
+        },
+        {
+          "text": "the day",
+          "role": "O",
+          "ko": "그날을"
+        },
+        {
+          "text": "by attending",
+          "role": "M",
+          "ko": "참석함으로써"
+        },
+        {
+          "text": "an orientation session",
+          "role": "M",
+          "ko": "오리엔테이션에"
+        },
+        {
+          "text": "with other new employees.",
+          "role": "M",
+          "ko": "다른 신입 직원들과 함께"
+        }
+      ],
+      "skeleton": "You will begin the day",
+      "explanation": "by + 동명사(attending)는 '~함으로써, ~하는 것으로'라는 방법을 나타낸다. attending의 목적어가 an orientation session."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Before your first day,",
+          "role": "M",
+          "ko": "첫 출근 전에"
+        },
+        {
+          "text": "please complete",
+          "role": "V",
+          "ko": "작성해 주세요"
+        },
+        {
+          "text": "the attached forms",
+          "role": "O",
+          "ko": "첨부된 서류를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "return",
+          "role": "V",
+          "ko": "돌려보내 주세요"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "ko": "그것들을"
+        },
+        {
+          "text": "to me.",
+          "role": "M",
+          "ko": "제게"
+        }
+      ],
+      "skeleton": "(you) please complete the forms and return them",
+      "explanation": "주어 you가 빠진 명령문. and가 두 동사 complete와 return을 잇고, them은 앞의 forms를 가리킨다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "by + 동명사 (~함으로써)",
+      "tags": [
+        "동명사",
+        "전치사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "by attending"
+      ],
+      "explanation": "전치사 by 뒤에는 동사가 올 때 반드시 -ing(동명사)를 쓴다. by attend / by to attend는 틀린다.",
+      "example": {
+        "en": "You can save money by using the coupon.",
+        "ko": "쿠폰을 사용해서 돈을 아낄 수 있다."
+      },
+      "note": "전치사 뒤 빈칸에 동사가 와야 하면 -ing를 고른다."
+    },
+    {
+      "id": "g2",
+      "title": "감정을 나타내는 과거분사 pleased",
+      "tags": [
+        "분사",
+        "품사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "I am pleased to welcome"
+      ],
+      "explanation": "please는 '기쁘게 하다'라는 동사. 사람이 기쁜 감정을 '느낄' 때는 과거분사 pleased를 쓴다. pleasing은 '남을 기쁘게 하는'이라는 뜻.",
+      "example": {
+        "en": "We were surprised by the news.",
+        "ko": "우리는 그 소식에 놀랐다."
+      },
+      "note": "사람 주어 + be + (감정) → -ed, 사물 주어 + be + (감정) → -ing."
+    },
+    {
+      "id": "g3",
+      "title": "look forward to + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "look forward to working"
+      ],
+      "explanation": "이 to는 전치사라서 뒤에 동사원형이 아니라 동명사가 온다. look forward to work는 틀린다.",
+      "example": {
+        "en": "I look forward to hearing from you.",
+        "ko": "연락 주시기를 기다리겠습니다."
+      },
+      "note": "to 뒤에 -ing가 오는 표현: look forward to, be used to, be committed to."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "synonyms": [
+        "respected"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "synonyms": [
+        "sir"
+      ],
+      "ipa": "/ˈmɪstər/"
+    },
+    "novak": {
+      "lemma": "Novak",
+      "pos": "proper-noun",
+      "ko": "노박(사람 성)",
+      "ipa": "/ˈnoʊvæk/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on behalf of: ~을 대표해)",
+      "ipa": "/ɑːn/"
+    },
+    "behalf": {
+      "lemma": "behalf",
+      "pos": "noun",
+      "ko": "(on behalf of: ~을 대표해)",
+      "synonyms": [
+        "sake",
+        "interest"
+      ],
+      "ipa": "/bɪˈhæf/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "fenwood": {
+      "lemma": "Fenwood",
+      "pos": "proper-noun",
+      "ko": "펜우드(지어낸 회사 이름의 일부)",
+      "ipa": "/ˈfɛnˌwʊd/"
+    },
+    "logistics": {
+      "lemma": "logistics",
+      "pos": "noun",
+      "ko": "물류 (회사 이름의 일부)",
+      "synonyms": [
+        "distribution",
+        "shipping"
+      ],
+      "ipa": "/ləˈdʒɪstɪks/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 저",
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "1인칭 단수 현재형",
+      "synonyms": [
+        "exist"
+      ],
+      "ipa": "/æm/"
+    },
+    "pleased": {
+      "lemma": "pleased",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "synonyms": [
+        "glad",
+        "happy"
+      ],
+      "ipa": "/pliːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하게 되어, ~에게 (to부정사 표시 / 방향)",
+      "ipa": "/tuː/"
+    },
+    "welcome": {
+      "lemma": "welcome",
+      "pos": "verb",
+      "ko": "맞이하다, 환영하다",
+      "synonyms": [
+        "greet",
+        "receive"
+      ],
+      "ipa": "/ˈwɛlkəm/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "귀하, 당신",
+      "ipa": "/juː/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의, 저희의",
+      "ipa": "/ˈaʊər/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "synonyms": [
+        "group",
+        "staff"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "귀하의",
+      "ipa": "/jɔːr/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫, 첫 번째의",
+      "synonyms": [
+        "initial",
+        "opening"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일, 근무",
+      "synonyms": [
+        "job",
+        "employment"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "동사원형",
+      "synonyms": [
+        "exist"
+      ],
+      "ipa": "/biː/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "ipa": "/ˈmʌndi/"
+    },
+    "january": {
+      "lemma": "January",
+      "pos": "proper-noun",
+      "ko": "1월",
+      "ipa": "/ˈdʒænjuˌɛri/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "synonyms": [
+        "come",
+        "get to"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서 (at any time: 언제든)",
+      "ipa": "/æt/"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "주된 (main office: 본사)",
+      "synonyms": [
+        "head",
+        "central"
+      ],
+      "ipa": "/meɪn/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실 (main office: 본사)",
+      "synonyms": [
+        "headquarters",
+        "workplace"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "(no later than: 늦어도 ~까지)",
+      "synonyms": [
+        "not"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "later": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "더 늦게",
+      "form": "비교급",
+      "synonyms": [
+        "after"
+      ],
+      "ipa": "/ˈleɪtər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "ipa": "/ðæn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에 (in the morning: 오전에)",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "synonyms": [
+        "forenoon"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "begin": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "synonyms": [
+        "start",
+        "open"
+      ],
+      "ipa": "/bɪˈɡɪn/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~함으로써",
+      "ipa": "/baɪ/"
+    },
+    "attending": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "join",
+        "go to"
+      ],
+      "ipa": "/əˈtɛndɪŋ/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)",
+      "ipa": "/æn/"
+    },
+    "orientation": {
+      "lemma": "orientation",
+      "pos": "noun",
+      "ko": "오리엔테이션, 신입 교육",
+      "synonyms": [
+        "introduction",
+        "induction"
+      ],
+      "ipa": "/ˌɔːriɛnˈteɪʃən/"
+    },
+    "session": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 세션",
+      "synonyms": [
+        "meeting",
+        "class"
+      ],
+      "ipa": "/ˈsɛʃən/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께",
+      "ipa": "/wɪð/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "determiner",
+      "ko": "다른",
+      "ipa": "/ˈʌðər/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로 온, 신입의",
+      "synonyms": [
+        "newly hired",
+        "incoming"
+      ],
+      "ipa": "/nuː/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "cover": {
+      "lemma": "cover",
+      "pos": "verb",
+      "ko": "(주제를) 다루다",
+      "synonyms": [
+        "deal with",
+        "include"
+      ],
+      "ipa": "/ˈkʌvər/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "policies": {
+      "lemma": "policy",
+      "pos": "noun",
+      "ko": "방침, 정책",
+      "form": "복수형",
+      "synonyms": [
+        "rule",
+        "guideline"
+      ],
+      "ipa": "/ˈpɑːləsiz/"
+    },
+    "safety": {
+      "lemma": "safety",
+      "pos": "noun",
+      "ko": "안전",
+      "synonyms": [
+        "security",
+        "protection"
+      ],
+      "ipa": "/ˈseɪfti/"
+    },
+    "rules": {
+      "lemma": "rule",
+      "pos": "noun",
+      "ko": "규칙, 수칙",
+      "form": "복수형",
+      "synonyms": [
+        "regulation",
+        "guideline"
+      ],
+      "ipa": "/ruːlz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "employee": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원 (employee benefits: 직원 복리후생)",
+      "synonyms": [
+        "worker",
+        "staff"
+      ],
+      "ipa": "/ɛmˈplɔɪi/"
+    },
+    "benefits": {
+      "lemma": "benefit",
+      "pos": "noun",
+      "ko": "복리후생, 혜택",
+      "form": "복수형",
+      "synonyms": [
+        "perk",
+        "advantage"
+      ],
+      "ipa": "/ˈbɛnəfɪts/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "ipa": "/ˈæftər/"
+    },
+    "lunch": {
+      "lemma": "lunch",
+      "pos": "noun",
+      "ko": "점심 식사",
+      "synonyms": [
+        "midday meal"
+      ],
+      "ipa": "/lʌntʃ/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "매니저, 관리자",
+      "synonyms": [
+        "supervisor",
+        "boss"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "synonyms": [
+        "madam"
+      ],
+      "ipa": "/mɪz/"
+    },
+    "daniela": {
+      "lemma": "Daniela",
+      "pos": "proper-noun",
+      "ko": "다니엘라(여자 이름)",
+      "ipa": "/dænˈjɛlə/"
+    },
+    "reyes": {
+      "lemma": "Reyes",
+      "pos": "proper-noun",
+      "ko": "레예스(사람 성)",
+      "ipa": "/ˈreɪɪs/"
+    },
+    "show": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다 (show around: 안내하다)",
+      "synonyms": [
+        "guide",
+        "give a tour"
+      ],
+      "ipa": "/ʃoʊ/"
+    },
+    "around": {
+      "lemma": "around",
+      "pos": "adverb",
+      "ko": "여기저기, 둘러 (show around: 안내하다)",
+      "synonyms": [
+        "about",
+        "through"
+      ],
+      "ipa": "/əˈraʊnd/"
+    },
+    "warehouse": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고",
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "ipa": "/ˈwɛrˌhaʊs/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "ipa": "/ʃiː/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "introduce": {
+      "lemma": "introduce",
+      "pos": "verb",
+      "ko": "소개하다",
+      "synonyms": [
+        "present",
+        "acquaint"
+      ],
+      "ipa": "/ˌɪntrəˈduːs/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "구성원, 팀원",
+      "form": "복수형",
+      "synonyms": [
+        "colleague",
+        "teammate"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "(서류를) 작성하다, 완성하다",
+      "synonyms": [
+        "fill out",
+        "finish"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "attached": {
+      "lemma": "attached",
+      "pos": "adjective",
+      "ko": "첨부된",
+      "synonyms": [
+        "enclosed",
+        "included"
+      ],
+      "ipa": "/əˈtætʃt/"
+    },
+    "forms": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "서류, 양식",
+      "form": "복수형",
+      "synonyms": [
+        "document",
+        "paperwork"
+      ],
+      "ipa": "/fɔːrmz/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌려보내다",
+      "synonyms": [
+        "send back",
+        "give back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "ipa": "/ðɛm/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나에게, 저에게",
+      "ipa": "/miː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "ipa": "/ɪf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "synonyms": [
+        "hold",
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무슨; 어느 (at any time: 언제든)",
+      "ipa": "/ˈɛni/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "query",
+        "inquiry"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "feel": {
+      "lemma": "feel",
+      "pos": "verb",
+      "ko": "느끼다 (feel free to: 편하게 ~하다)",
+      "synonyms": [
+        "be",
+        "sense"
+      ],
+      "ipa": "/fiːl/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "자유로운 (feel free to: 편하게 ~하다)",
+      "synonyms": [
+        "welcome",
+        "at liberty"
+      ],
+      "ipa": "/friː/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간",
+      "synonyms": [
+        "moment",
+        "point"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "ipa": "/wiː/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look forward to: ~을 고대하다)",
+      "synonyms": [
+        "anticipate"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "앞으로 (look forward to: ~을 고대하다)",
+      "synonyms": [
+        "ahead"
+      ],
+      "ipa": "/ˈfɔːrwərd/"
+    },
+    "working": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "collaborate",
+        "labor"
+      ],
+      "ipa": "/ˈwɜːrkɪŋ/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)",
+      "synonyms": [
+        "truly",
+        "faithfully"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "tomas": {
+      "lemma": "Tomas",
+      "pos": "proper-noun",
+      "ko": "토마스(남자 이름)",
+      "ipa": "/toʊˈmɑːs/"
+    },
+    "varga": {
+      "lemma": "Varga",
+      "pos": "proper-noun",
+      "ko": "바르가(사람 성)",
+      "ipa": "/ˈvɑːrɡə/"
+    },
+    "human": {
+      "lemma": "human",
+      "pos": "adjective",
+      "ko": "인간의 (human resources: 인사부)",
+      "synonyms": [
+        "personnel"
+      ],
+      "ipa": "/ˈhjuːmən/"
+    },
+    "resources": {
+      "lemma": "resource",
+      "pos": "noun",
+      "ko": "자원 (human resources: 인사)",
+      "form": "복수형",
+      "synonyms": [
+        "personnel",
+        "staff"
+      ],
+      "ipa": "/ˈriːsɔrsɪz/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "pleased"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "please"
+        },
+        {
+          "key": "B",
+          "text": "pleasing"
+        },
+        {
+          "key": "C",
+          "text": "pleased"
+        },
+        {
+          "key": "D",
+          "text": "pleasure"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "사람 주어 I가 '기쁜 감정을 느끼는' 것이므로 과거분사 pleased. be pleased to + 동사원형 = ~하게 되어 기쁘다.",
+      "choiceNotesKo": {
+        "B": "pleasing은 '남을 기쁘게 하는'이라는 뜻이라 I와 맞지 않는다.",
+        "D": "pleasure는 명사라 be동사 뒤에서 to welcome과 이어지지 않는다."
+      },
+      "skill": "감정 분사(-ed vs -ing)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "attending"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "attending"
+        },
+        {
+          "key": "B",
+          "text": "attend"
+        },
+        {
+          "key": "C",
+          "text": "attended"
+        },
+        {
+          "key": "D",
+          "text": "to attend"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "전치사 by 뒤에는 동명사가 와야 하므로 attending. by + -ing = ~함으로써.",
+      "choiceNotesKo": {
+        "D": "전치사 by 뒤에 to부정사는 올 수 없다."
+      },
+      "skill": "전치사 + 동명사"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "The session will cover company policies, safety rules, and employee benefits."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Our warehouse was built over twenty years ago."
+        },
+        {
+          "key": "B",
+          "text": "The session will cover company policies, safety rules, and employee benefits."
+        },
+        {
+          "key": "C",
+          "text": "Please send us your résumé by next week."
+        },
+        {
+          "key": "D",
+          "text": "Many customers have praised our fast delivery."
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "앞 문장에서 오리엔테이션(an orientation session)을 소개했으므로, 이어서 그 세션(The session)에서 무엇을 다루는지 말하는 문장이 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "창고의 역사는 첫 출근 안내와 상관없다.",
+        "C": "이미 채용된 사람에게 이력서를 보내라는 말은 어색하다.",
+        "D": "고객 칭찬은 흐름과 맞지 않는다."
+      },
+      "skill": "문장 넣기(지시어 The session)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "introduce"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "describe"
+        },
+        {
+          "key": "B",
+          "text": "explain"
+        },
+        {
+          "key": "C",
+          "text": "suggest"
+        },
+        {
+          "key": "D",
+          "text": "introduce"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "introduce A to B = A를 B에게 소개하다. 매니저가 신입 직원을 팀원들에게 소개한다는 뜻이 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "describe는 'A to B' 형태로 사람을 소개하는 뜻이 없다.",
+        "B": "explain은 사람을 목적어로 바로 쓰지 않는다."
+      },
+      "skill": "동사 어휘(introduce A to B)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "them"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "them"
+        },
+        {
+          "key": "B",
+          "text": "it"
+        },
+        {
+          "key": "C",
+          "text": "its"
+        },
+        {
+          "key": "D",
+          "text": "they"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "돌려보낼 대상은 앞의 the attached forms(복수)이고, 동사 return의 목적어 자리이므로 목적격 them.",
+      "choiceNotesKo": {
+        "B": "it은 단수라 forms를 받을 수 없다.",
+        "D": "they는 주격이라 목적어 자리에 오지 못한다."
+      },
+      "skill": "대명사(수·격 일치)"
+    }
+  ]
+}
