@@ -27,7 +27,7 @@
         "translator": { "type": "string" },
         "year": { "type": "integer" },
         "url": { "type": "string" },
-        "license": { "enum": ["public-domain", "original"], "description": "general = public-domain, toeic = original" },
+        "license": { "enum": ["public-domain", "us-government-work", "original"], "description": "general = public-domain 또는 us-government-work(VOA 등), toeic = original" },
         "note": { "type": "string" }
       }
     },

@@ -66,7 +66,7 @@ export interface Source {
   translator?: string;
   year?: number;
   url?: string;
-  license: 'public-domain' | 'original';
+  license: 'public-domain' | 'us-government-work' | 'original';
   note?: string;
 }
 export interface Lesson {

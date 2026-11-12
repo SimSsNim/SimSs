@@ -156,7 +156,7 @@ export function Source({ lesson }: { lesson: TabProps['lesson'] }) {
         <p>AI 작성 연습 지문 · 토익 스타일 연습용으로 새로 쓴 글이며 실제 시험 지문이 아닙니다.{src.note ? ` ${src.note}` : ''}</p>
       ) : (
         <p>
-          출처: {[src.author, src.work, src.translator && `tr. ${src.translator}`, src.year].filter(Boolean).join(', ')} · 퍼블릭 도메인
+          출처: {[src.author, src.work, src.translator && `tr. ${src.translator}`, src.year].filter(Boolean).join(', ')} · {src.license === 'us-government-work' ? '미국 정부 저작물' : '퍼블릭 도메인'}
           {src.url && <> · <a href={src.url} target="_blank" rel="noreferrer">원문</a></>}
           {src.note ? ` · ${src.note}` : ''}
           {lesson.audio?.librivoxUrl && <> · 낭독: <a href={lesson.audio.librivoxUrl} target="_blank" rel="noreferrer">LibriVox</a></>}

@@ -3,7 +3,7 @@ import type { Lesson, Track } from './types';
 
 const ROLES = new Set(['S', 'V', 'O', 'C', 'M', 'CONJ']);
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-const LICENSE_BY_TRACK: Record<Track, string[]> = { general: ['public-domain'], toeic: ['original'] };
+const LICENSE_BY_TRACK: Record<Track, string[]> = { general: ['public-domain', 'us-government-work'], toeic: ['original'] };
 const TOP_KEYS = new Set([
   'schemaVersion', 'id', 'track', 'date', 'level', 'title', 'titleKo', 'genre', 'genreKo',
   'wordCount', 'source', 'audio', 'paragraphs', 'vocab', 'structures', 'grammar',

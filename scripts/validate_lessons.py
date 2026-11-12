@@ -22,7 +22,7 @@ from pathlib import Path
 TRACKS = ("general", "toeic")
 ROLES = {"S", "V", "O", "C", "M", "CONJ"}
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-LICENSE_BY_TRACK = {"general": {"public-domain"}, "toeic": {"original"}}
+LICENSE_BY_TRACK = {"general": {"public-domain", "us-government-work"}, "toeic": {"original"}}
 
 TOP_KEYS = {
     "schemaVersion", "id", "track", "date", "level", "title", "titleKo", "genre", "genreKo",

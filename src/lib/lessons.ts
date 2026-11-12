@@ -36,7 +36,7 @@ const emit = (patch: Partial<LessonsState>) => {
 };
 
 export const GENRE_KO: Record<string, string> = {
-  fable: '우화', story: '단편', speech: '연설', essay: '수필', poem: '시', letter: '편지',
+  fable: '우화', story: '단편', 'fairy-tale': '동화', 'short-story': '단편', news: '뉴스', speech: '연설', essay: '수필', poem: '시', letter: '편지',
   email: '이메일', notice: '공지', advertisement: '광고', article: '기사', memo: '메모', chat: '채팅',
   review: '후기', schedule: '일정표', form: '양식', announcement: '안내',
 };

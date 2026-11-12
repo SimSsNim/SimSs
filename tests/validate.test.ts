@@ -34,6 +34,11 @@ describe('validateLesson', () => {
       expect(errs.join('\n')).toMatch(re);
     });
   }
+  it('일반 트랙은 미국 정부 저작물(VOA)도 허용', () => {
+    const l = structuredClone(load('general'));
+    l.source.license = 'us-government-work';
+    expect(validateLesson(l, { folderTrack: 'general', fileStem: '2026-11-12' })).toEqual([]);
+  });
   it('객체가 아니면 실패', () => {
     expect(validateLesson(null).length).toBe(1);
     expect(validateLesson({}).length).toBeGreaterThan(5);
