@@ -585,3 +585,39 @@ test('v26. 플레이어 메뉴: 재생줄을 누르면 서랍, 한 문장 반복
   await page.getByRole('button', { name: '재생 메뉴 닫기' }).click();
   await expect(drawer).toHaveCount(0);
 });
+
+test('v27. 단어 듣기: 고른 음성이 실패하면 기본 음성으로 다시, 끝내 안 나면 무음 안내', async ({ page }) => {
+  await page.addInitScript(() => {
+    const w = window as unknown as { __spoken2: string[]; __mode: 'voiceFails' | 'silent' };
+    w.__spoken2 = [];
+    w.__mode = 'voiceFails';
+    const voices = [{ name: 'Mock US', lang: 'en-US', voiceURI: 'mock-us', localService: true, default: true }];
+    const synth = {
+      getVoices: () => voices, speaking: false, pending: false, paused: false,
+      speak(u: SpeechSynthesisUtterance & { voice: unknown }) {
+        if (w.__mode === 'silent') return; // 아무 일도 안 일어남(무음·버려짐)
+        if (u.voice) { setTimeout(() => u.onerror?.({ error: 'synthesis-failed' } as never), 10); return; }
+        w.__spoken2.push(u.text);
+        setTimeout(() => u.onstart?.(new Event('start') as never), 0);
+        setTimeout(() => u.onend?.(new Event('end') as never), 50);
+      },
+      cancel() {}, pause() {}, resume() {}, addEventListener() {}, removeEventListener() {},
+    };
+    Object.defineProperty(window, 'speechSynthesis', { value: synth, configurable: true });
+    (window as unknown as { SpeechSynthesisUtterance: unknown }).SpeechSynthesisUtterance = class {
+      text: string; lang = ''; rate = 1; voice: unknown = null;
+      onstart: ((e: Event) => void) | null = null; onend: ((e: Event) => void) | null = null; onerror: ((e: unknown) => void) | null = null;
+      constructor(t: string) { this.text = t; }
+    };
+  });
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  const dlgOpen = async () => {
+    await page.locator('span', { hasText: /^sitting$/ }).first().click();
+    await expect(page.getByRole('dialog')).toBeVisible();
+  };
+  await dlgOpen();
+  await expect.poll(() => page.evaluate(() => (window as unknown as { __spoken2: string[] }).__spoken2)).toContain('sitting');
+  await page.evaluate(() => { (window as unknown as { __mode: string }).__mode = 'silent'; });
+  await page.getByRole('dialog').getByRole('button', { name: 'sitting 발음 듣기' }).click();
+  await expect(page.getByText('무음 스위치')).toBeVisible({ timeout: 8000 });
+});
