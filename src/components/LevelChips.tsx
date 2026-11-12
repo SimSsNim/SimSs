@@ -48,7 +48,7 @@ export function LevelChips({ track, value, onChange, label = '내 레벨', all =
       {showNews && (
         <button type="button" className={s.chip} aria-pressed={news} data-testid="level-news" onClick={() => setSetting('generalView', 'news')} style={chip}>
           <span>뉴스</span>
-          <span style={{ fontSize: 9.5, fontWeight: 500, opacity: 0.85 }}>VOA</span>
+          <span style={{ fontSize: 9.5, fontWeight: 500, opacity: 0.85 }}>영문 기사</span>
         </button>
       )}
     </div>

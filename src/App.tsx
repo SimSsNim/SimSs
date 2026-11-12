@@ -1,5 +1,6 @@
 import { lazy, Suspense, useEffect } from 'react';
 import { useBackTracker } from './lib/backTarget';
+import { useWakeLock } from './lib/wakeLock';
 import { PullToRefresh } from './components/PullToRefresh';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
 import { useSettings, setSetting, getSettings } from './lib/settings';
@@ -25,6 +26,7 @@ import { loadLessons, getLessonsState } from './lib/lessons';
 
 function BackTracker() {
   useBackTracker();
+  useWakeLock();
   return null;
 }
 

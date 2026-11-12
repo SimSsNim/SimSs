@@ -53,6 +53,8 @@ export interface Settings {
   enabledLevels: Record<Track, Level[]>;
   /** 이야기 트랙의 뉴스 칩 켜기 */
   newsEnabled: boolean;
+  /** 화면 꺼짐 방지 */
+  keepAwake: 'off' | 'lesson' | 'always';
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -62,6 +64,7 @@ export const DEFAULT_SETTINGS: Settings = {
   startLevel: { general: 'last', toeic: 'last' },
   enabledLevels: { general: [1, 2, 3, 4], toeic: [1, 2, 3, 4] },
   newsEnabled: true,
+  keepAwake: 'lesson',
   track: 'general',
   levelByTrack: { general: null, toeic: null },
   toeicChapter: 'part5',

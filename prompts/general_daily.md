@@ -21,7 +21,6 @@
 - 1순위: 퍼블릭 도메인 고전 — 이솝 우화, 그림 동화, 안데르센 동화(PD 번역), 오 헨리·마크 트웨인 단편, 링컨 등 역사적 연설문 등 1929년 이전 작품. 레벨이 낮을수록 짧은 우화·동화, 높을수록 단편·에세이·연설 발췌.
 - 듣기 자료가 중요하다: 가능하면 LibriVox에 낭독 음원이 있는 작품을 고르고, 지문은 그 음원과 같은 번역본/판본에서 가져온다. (예: LibriVox 'Aesop's Fables, Volume 01~' 는 V. S. Vernon Jones 번역(1912, Project Gutenberg #11339). Volume 01 페이지: https://librivox.org/aesops-fables-volume-1-fables-1-25 , mp3: https://www.archive.org/download/aesop_fables_volume_one_librivox/fables_01_NN_aesop.mp3 , 저용량: …_NN_aesop_64kb.mp3) WebSearch로 LibriVox 페이지를 찾고 WebFetch로 트랙 번호·낭독자·길이·mp3 링크를 확인한다.
 - 원문 확보: 먼저 `curl -sSL`로 Gutenberg 원문(HTML 또는 .txt)을 직접 받아 그 텍스트에서 정확히 잘라 쓴다(이 환경에서 gutenberg.org·librivox.org·archive.org 접속이 허용돼 있다). curl이 막히면 WebFetch로 Gutenberg HTML(예: https://gutenberg.org/files/11339/11339-h/11339-h.htm)에 "N번째 문장을 120자 이하 조각으로 정확히 인용"처럼 나눠 요청해 모은 뒤, 완성한 전문을 다시 WebFetch에 "이 텍스트와 페이지 원문을 글자 단위로 비교해 다른 점을 모두 나열, 같으면 IDENTICAL"로 대조한다. IDENTICAL이 나와야 쓴다.
-- 2순위: VOA Learning English(미국 정부 저작물, 음원 포함). 전문을 정확히 확보할 수 있을 때만.
 - 원문을 정확히 알 수 없으면 지어내거나 고치지 말고 다른 작품을 고른다. 긴 글은 자연스럽게 끝나는 단락 단위로 발췌하고, 음원에서 그 부분이 대략 몇 분쯤인지 적는다.
 
 ## 4. (B) 레슨 JSON 만들기

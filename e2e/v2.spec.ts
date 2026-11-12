@@ -461,3 +461,27 @@ test('v21. 이야기 학습 순서: 홈엔 없음, 전체 보기는 접힘, 레�
   await page.goto('./#/toeic/lesson/2026-11-12-L1-part5/quiz');
   await expect(page.getByTestId('lesson-steps')).toHaveCount(0);
 });
+
+test('v22. 화면 꺼짐 방지: 기본은 레슨에서만, 설정으로 항상/끄기', async ({ page }) => {
+  await page.addInitScript(() => {
+    const w = window as unknown as { __wl: number };
+    w.__wl = 0;
+    Object.defineProperty(navigator, 'wakeLock', { configurable: true, value: { request: async () => {
+      w.__wl++;
+      const s = { released: false, release: async () => { s.released = true; w.__wl--; }, addEventListener: () => {} };
+      return s;
+    } } });
+  });
+  const held = () => page.evaluate(() => (window as unknown as { __wl: number }).__wl);
+  await start(page, './#/general');
+  await expect.poll(held).toBe(0);
+  await page.getByTestId('today-card').click();
+  await expect.poll(held).toBe(1);
+  await page.getByRole('link', { name: '뒤로' }).click();
+  await expect.poll(held).toBe(0);
+  await page.goto('./#/records/settings');
+  await page.getByTestId('keep-awake').selectOption('always');
+  await expect.poll(held).toBe(1);
+  await page.getByTestId('keep-awake').selectOption('off');
+  await expect.poll(held).toBe(0);
+});

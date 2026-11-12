@@ -14,13 +14,15 @@
 ## 2. 이미 보낸 기사 확인
 - `gh api repos/SimSsNim/SimSs/contents/public/lessons/general --jq '.[].name'`로 목록을 받고, `-news`가 들어간 파일의 `title`·`source.url`을 확인해 **같은 기사를 다시 쓰지 않는다**. 주제도 최근 3일과 겹치지 않게(과학, 건강, 환경, 교육, 문화, 기술, 미국 생활, 역사 등 돌려가며).
 
-## 3. 기사 고르기 (VOA Learning English만)
-- 출처: **VOA Learning English** (https://learningenglish.voanews.com). 미국 정부 저작물이라 퍼블릭 도메인이다(`license`: `"us-government-work"`).
-- **쓰면 안 되는 기사**: 본문이나 크레디트에 AP, Reuters, AFP 등 통신사 이름이 있는 것(그 부분은 저작권이 있다), 사진 설명만 있는 것, 퀴즈·문법 강좌 페이지. 기자 이름이 VOA 소속으로 나온 기사만 쓴다.
-- 레벨 감: 레벨 1~2 = "Level One/Level Two", "Let's Learn English" 계열·짧고 쉬운 기사, 레벨 3~4 = "As It Is", "Science & Technology", "Health & Lifestyle", "Arts & Culture", "Education" 등 일반 기사.
-- **최근 7일 안의 기사**를 고른다. 시사적으로 민감한 정치·전쟁·범죄 기사보다 과학·건강·문화·교육·생활 기사를 우선한다.
-- 원문 확보: `curl -sSL <기사 주소>`로 HTML을 받아 기사 본문 단락만 뽑아 **글자 그대로** 쓴다. 사진 설명, "Words in This Story" 단어 목록, 기자·편집자 서명 줄, 퀴즈 안내는 본문에 넣지 않는다. 뽑은 본문을 다시 페이지와 비교해 한 글자라도 다르면 고친다(원문을 고쳐 맞추는 것은 금지). curl이 막히면 WebFetch로 단락별로 정확히 인용받아 모은 뒤 "글자 단위로 비교해 다른 점 나열, 같으면 IDENTICAL"로 대조해 IDENTICAL일 때만 쓴다.
-- 음원: 기사 페이지의 mp3 링크(보통 `av.voanews.com` 또는 `voa-audio` 주소)를 `audio.mp3`에, 기사 주소를 `audio.pageUrl`에 넣는다. 발췌라면 `startSec` 0, `endSec`은 발췌 끝 대략 초. 음원이 없으면 `"audio": null`.
+## 3. 기사 고르기 (미국 정부 기관 발표문만 — 퍼블릭 도메인)
+- 1순위 **NASA**: 최신 글 목록은 RSS `curl -sSL https://www.nasa.gov/feed/` (또는 `https://science.nasa.gov/feed/`)에서 받는다. 우주·지구·기후·항공·과학 기사.
+- 2순위 **NOAA**: `curl -sSL https://www.noaa.gov/rss.xml`. 날씨·바다·기후·환경 기사.
+- 둘 다 미국 정부 저작물이라 퍼블릭 도메인이다(`license`: `"us-government-work"`). `source.author`에는 기관 이름(예: "NASA"), `source.edition`에는 "NASA News"/"NOAA News"처럼 적는다.
+- **쓰면 안 되는 글**: 본문에 다른 회사·대학·언론사가 쓴 글이라고 나오거나(예: "This article was originally published by …", "© …", 외부 기고), 통신사(AP·Reuters·AFP) 이름이 있는 것, 사진·영상 설명뿐인 것, 행사 일정·미디어 등록 안내(media accreditation)·연락처뿐인 공지, 계약·조달 공고. **기관 직원이 쓴 일반 기사·보도자료**만 쓴다.
+- **최근 7일 안의 글**을 고른다(RSS의 pubDate로 확인). 7일 안에 쓸 만한 글이 없으면 30일 안에서 고른다.
+- 레벨 감: 기관 글은 대체로 레벨 3~4다. 레벨 1~2를 맡으면 문장이 짧고 숫자·고유명사가 적은 기사(예: 교육용·학생용 글, 사진 소개 글의 본문)를 고르고, 앞부분을 짧게 발췌한다.
+- 원문 확보: `curl -sSL <기사 주소>`로 HTML을 받아 기사 본문 단락만 뽑아 **글자 그대로** 쓴다. 사진 설명, 크레디트 줄, "Related Terms"·"Explore More" 같은 메뉴, 연락처·문의처(Media contact), "-end-" 표시는 본문에 넣지 않는다. 뽑은 본문을 다시 페이지와 비교해 한 글자라도 다르면 고친다(원문을 고쳐 맞추는 것은 금지). curl이 막히면 WebFetch로 단락별로 정확히 인용받아 모은 뒤 "글자 단위로 비교해 다른 점 나열, 같으면 IDENTICAL"로 대조해 IDENTICAL일 때만 쓴다.
+- 음원: 보통 없다 → `"audio": null` (앱에서 TTS로 듣는다). 기사에 같은 내용을 읽는 기관 자체 mp3가 있을 때만 넣는다.
 - 원문을 정확히 확보할 수 없으면 지어내거나 고치지 말고 다른 기사를 고른다.
 
 ## 4. (B) 레슨 JSON 만들기
@@ -29,11 +31,10 @@
 ```json
 {
   "schemaVersion": 2, "track": "general", "id": "YYYY-MM-DD-L3-news", "date": "YYYY-MM-DD", "level": 3,
-  "title": "영어 제목", "titleKo": "한글 제목", "genre": "news", "tags": ["VOA", "science"],
-  "source": { "work": "", "author": "", "translator": null, "year": 2026,
-              "edition": "VOA Learning English", "url": "기사 주소", "license": "us-government-work", "excerptNote": "첫 N단락 발췌 또는 null" },
-  "audio": { "mp3": "", "mp3Low": "또는 null", "pageUrl": "", "reader": "VOA", "durationSec": 300,
-             "startSec": "발췌면 대략 시작 초, 아니면 null", "endSec": null, "note": "기사 음원" },   // 음원 없으면 "audio": null
+  "title": "영어 제목", "titleKo": "한글 제목", "genre": "news", "tags": ["NASA", "space"],
+  "source": { "work": "기사 제목", "author": "NASA", "translator": null, "year": 2026,
+              "edition": "NASA News", "url": "기사 주소", "license": "us-government-work", "excerptNote": "첫 N단락 발췌 또는 null" },
+  "audio": null,
   "wordCount": 136,
   "paragraphs": [ { "id": "p1", "sentenceIds": ["s1","s2"], "ko": "단락 번역" } ],
   "sentences":  [ { "id": "s1", "paragraphId": "p1", "en": "원문 문장", "ko": "문장 번역", "audioStartSec": null, "audioEndSec": null } ],
@@ -72,8 +73,8 @@
 
 ## 6. (A) 한국어 안내 메시지 (최종 답변으로 한 번)
 인사말이나 작업 과정 설명 없이:
-- 맨 위: 뉴스마다 한 줄 — `뉴스1 L3 「제목」 238단어 🎧4:51 (VOA, 11월 10일 기사)`. 실패한 것은 "뉴스2 실패: 이유".
-- 첫 번째 뉴스만 자세히: 제목, 출처(VOA Learning English, 기사 날짜, 기사 링크), 레벨, 단어 수, 🎧 듣기 링크, 영어 원문(단락 유지), 한글 번역(단락별), 핵심 단어 5개(뜻 + 짧은 예문), 📐 문장 구조 2~3개, ✏️ 문법 포인트 2~3개.
+- 맨 위: 뉴스마다 한 줄 — `뉴스1 L3 「제목」 238단어 (NASA, 11월 10일 기사)`. 실패한 것은 "뉴스2 실패: 이유".
+- 첫 번째 뉴스만 자세히: 제목, 출처(기관 이름, 기사 날짜, 기사 링크), 레벨, 단어 수, 영어 원문(단락 유지), 한글 번역(단락별), 핵심 단어 5개(뜻 + 짧은 예문), 📐 문장 구조 2~3개, ✏️ 문법 포인트 2~3개.
 - 마지막 줄: "📱 앱에 반영됨 (이야기 → 뉴스)" 또는 "📱 앱 가져오기 필요(파일 첨부)"
 
 ## 7. 알림

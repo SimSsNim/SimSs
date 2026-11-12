@@ -4,6 +4,7 @@ import { ACCENTS, useVoices, speak } from '../lib/tts';
 import { LevelChips, enabledLevelsOf } from '../components/LevelChips';
 import { TRACKS, TRACK_LABEL, LEVELS, LEVEL_DESC, type Level, type Track } from '../lib/types';
 import { toast } from '../components/Toast';
+import { wakeLockSupported } from '../lib/wakeLock';
 
 export function SettingsPanel() {
   const st = useSettings();
@@ -26,6 +27,14 @@ export function SettingsPanel() {
       <LevelToggleSection />
       <section className={s.card + ' ' + s.stack}>
         <b>화면</b>
+        <label className={s.label}>화면 꺼짐 방지
+          <select className={s.select} value={st.keepAwake} onChange={(e) => setSetting('keepAwake', e.target.value as 'off' | 'lesson' | 'always')} data-testid="keep-awake">
+            <option value="lesson">레슨 볼 때만 켜 두기</option>
+            <option value="always">앱을 보는 동안 항상 켜 두기</option>
+            <option value="off">끄기(기기 설정대로)</option>
+          </select>
+          {!wakeLockSupported() && <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>이 기기·브라우저는 지원하지 않아요(아이폰은 iOS 18.4 이상 홈 화면 앱에서 돼요).</span>}
+        </label>
         <div className={s.seg} role="group" aria-label="테마">
           {([['system', '시스템'], ['light', '라이트'], ['dark', '다크']] as [Theme, string][]).map(([v, l]) => (
             <button key={v} type="button" className={s.segBtn} aria-pressed={st.theme === v} onClick={() => setSetting('theme', v)} data-testid={`theme-${v}`}>{l}</button>
