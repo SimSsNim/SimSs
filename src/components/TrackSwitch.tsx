@@ -5,20 +5,28 @@ import { TRACKS, TRACK_LABEL, type Track } from '../lib/types';
 import { useLessons } from '../lib/lessons';
 import { setSetting, getSettings, useSettings } from '../lib/settings';
 
-export function TrackSwitch({ current, target = 'home' }: { current: Track; target?: 'home' | 'list' | 'stay' }) {
+export function TrackSwitch({ current, target = 'home' }: { current: Track | 'all'; target?: 'home' | 'list' | 'stay' }) {
   const nav = useNavigate();
   const { newKeys } = useLessons();
   const { startTrack } = useSettings();
   // 우선순위로 정한 트랙을 앞에
-  const order = startTrack === 'last' ? TRACKS : [startTrack, ...TRACKS.filter((t) => t !== startTrack)];
+  const order = startTrack === 'general' || startTrack === 'toeic' ? [startTrack, ...TRACKS.filter((t) => t !== startTrack)] : TRACKS;
+  const home = target === 'home';
   return (
-    <div className={s.seg} role="group" aria-label="학습 트랙">
+    <div className={s.seg} role="group" aria-label="학습 트랙" style={{ display: 'flex', flex: 1, width: '100%' }}>
+      {home && (
+        <button type="button" className={s.segBtn} aria-pressed={current === 'all'} data-testid="track-all" style={{ flex: 1 }}
+          onClick={() => { setSetting('homeAll', true); nav('/all'); }}>
+          전체
+        </button>
+      )}
       {order.map((t) => {
         const hasNew = newKeys.some((k) => k.startsWith(`${t}/`));
         return (
-          <button key={t} type="button" className={s.segBtn} aria-pressed={current === t} data-testid={`track-${t}`}
+          <button key={t} type="button" className={s.segBtn} aria-pressed={current === t} data-testid={`track-${t}`} style={{ flex: 1 }}
             onClick={() => {
               setSetting('track', t);
+              if (home) setSetting('homeAll', false);
               if (t === current) return;
               const last = getSettings().lastLesson[t];
               if (target === 'list') nav(`/${t}/list`);

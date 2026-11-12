@@ -78,14 +78,15 @@ function useDayWatcher() {
 export function App() {
   useThemeAndTrack();
   useDayWatcher();
-  const { track } = useSettings();
+  const { track, homeAll } = useSettings();
   return (
     <HashRouter>
       <BackTracker />
       <PullToRefresh />
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>
-        <Route path="/" element={<Navigate to={`/${track}`} replace />} />
+        <Route path="/" element={<Navigate to={homeAll ? '/all' : `/${track}`} replace />} />
+        <Route path="/all" element={<Home all />} />
         <Route path="/review" element={<Review />} />
         <Route path="/words" element={<Words />} />
         <Route path="/drill" element={<Drill />} />

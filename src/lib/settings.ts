@@ -44,7 +44,9 @@ export interface Settings {
   /** 이야기 트랙에서 레벨 대신 '뉴스'를 보는 중 */
   generalView: 'level' | 'news';
   /** 앱을 열 때 먼저 볼 트랙('last' = 마지막에 본 것) */
-  startTrack: 'last' | Track;
+  startTrack: 'last' | Track | 'all';
+  /** 홈에서 두 트랙을 함께 보는 '전체' */
+  homeAll: boolean;
   /** 앱을 열 때 먼저 볼 레벨(트랙별). 이야기는 'news'도 가능 */
   startLevel: Record<Track, 'last' | Level | 'news'>;
   /** 켜 둔 레벨(꺼진 레벨은 화면에 안 보임) */
@@ -56,6 +58,7 @@ export interface Settings {
 export const DEFAULT_SETTINGS: Settings = {
   generalView: 'level',
   startTrack: 'last',
+  homeAll: false,
   startLevel: { general: 'last', toeic: 'last' },
   enabledLevels: { general: [1, 2, 3, 4], toeic: [1, 2, 3, 4] },
   newsEnabled: true,

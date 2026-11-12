@@ -4,11 +4,11 @@ import { Icon } from './Icon';
 import { useSettings } from '../lib/settings';
 
 export function BottomNav() {
-  const { track } = useSettings();
+  const { track, homeAll } = useSettings();
   const { pathname } = useLocation();
   const items = [
     // 레슨 화면도 '홈' 탭 안으로 본다
-    { to: `/${track}`, label: '홈', icon: 'today', match: /^\/(general|toeic)(\/?$|\/(list|lesson)(\/|$))/ },
+    { to: homeAll ? '/all' : `/${track}`, label: '홈', icon: 'today', match: /^\/(all$|(general|toeic)(\/?$|\/(list|lesson)(\/|$)))/ },
     { to: '/words', label: '단어', icon: 'abc', match: /^\/words/ },
     { to: '/grammar', label: '문법 모음', icon: 'grammar', match: /^\/grammar/ },
     { to: '/review', label: '복습', icon: 'review', match: /^\/(review|drill)/ },

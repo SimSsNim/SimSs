@@ -11,7 +11,11 @@ import { toast } from './components/Toast';
 /** 우선순위 설정: 앱을 처음 열 때(특정 화면 주소 없이 열 때)만 시작 트랙·레벨을 맞춘다. 새로고침은 그대로 둔다 */
 function applyStartPriority(st: Settings) {
   if (!['', '#', '#/'].includes(location.hash)) return;
-  if (st.startTrack !== 'last') setSetting('track', st.startTrack);
+  if (st.startTrack === 'all') setSetting('homeAll', true);
+  else if (st.startTrack !== 'last') {
+    setSetting('track', st.startTrack);
+    setSetting('homeAll', false);
+  }
   const lv = { ...st.levelByTrack };
   let changed = false;
   for (const t of ['general', 'toeic'] as const) {

@@ -34,20 +34,20 @@ export function attemptStatus(rows: QuizAttemptRow[] | undefined, total: number)
   return { kind: 'todo' as const, text: '안 풂', sec: null };
 }
 
-export function Home() {
+export function Home({ all = false }: { all?: boolean }) {
   const { track: tp } = useParams();
-  const track = tp as Track;
   const { summaries, status } = useLessons();
   const settings = useSettings();
-  const level = useMyLevel(track);
+  const track = (all ? settings.track : tp) as Track;
+  // 전체 보기: 우선순위 트랙을 먼저
+  const order: Track[] = settings.startTrack === 'general' || settings.startTrack === 'toeic' ? [settings.startTrack, ...TRACKS.filter((x) => x !== settings.startTrack)] : [...TRACKS];
   const today = kstDate();
   const [params, setParams] = useSearchParams();
   const day = params.get('d') || today;
   const setDay = (d: string) => setParams(d && d !== today ? { d } : {}, { replace: true });
-  const lessonDates = summaries.filter((x) => x.track === track && !x.errors).map((x) => x.date);
+  const lessonDates = summaries.filter((x) => (all || x.track === track) && !x.errors).map((x) => x.date);
   const news = isNewsView(settings, 'general');
   const picks = Object.fromEntries(TRACKS.map((t) => [t, pickToday(summaries, t, myLevel(t), day, t === 'general' && news)])) as Record<Track, ReturnType<typeof pickToday>>;
-  const mine = picks[track];
   const what = (t: Track) => (t === 'general' && news ? '뉴스' : `L${myLevel(t)}`);
   const toeicKeys = picks.toeic.lessons.map((l) => l.key);
   const allKeys = [...picks.general.lessons.map((l) => l.key), ...toeicKeys];
@@ -58,8 +58,8 @@ export function Home() {
   const dueWrong = useLiveQuery(() => db.questionState.where('inWrongNote').equals(1).toArray(), []);
 
   useEffect(() => {
-    if (status !== 'loading') markTrackSeen(track);
-  }, [track, status, summaries.length]);
+    if (status !== 'loading') (all ? TRACKS : [track]).forEach(markTrackSeen);
+  }, [track, all, status, summaries.length]);
 
   useEffect(() => {
     const since = Math.max(settings.lastBackupAt ?? 0, settings.backupReminderShownAt ?? 0);
@@ -101,37 +101,56 @@ export function Home() {
     return `${TRACK_LABEL[t]} ${lv}: ${parts.join(' · ')}`;
   };
 
+  const trackContent = (t: Track) => {
+    const p = picks[t];
+    const lv = myLevel(t);
+    const isNews = what(t) === '뉴스';
+    if (!p.lessons.length) {
+      return (
+        <div className={s.card}>
+          <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `${isNews ? '뉴스가' : `레벨 ${lv} 지문이`} 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)`}</p>
+        </div>
+      );
+    }
+    return (
+      <>
+        {!p.isToday && <p className={s.muted} role="note" data-testid="not-arrived">{day === today ? '오늘 지문은 아직 도착하지 않았어요.' : `${formatKo(day)} ${isNews ? '뉴스가' : `레벨 ${lv} 지문이`} 없어요.`} 가장 가까운 이전({formatKo(p.date!)}) {isNews ? '뉴스' : `레벨 ${lv} 지문`}를 보여 드려요.</p>}
+        {t === 'general' ? (
+          <StoryPicker key={`${p.date}|${what(t)}`} lessons={p.lessons} checklistOf={(k) => progOf(k)?.checklist ?? emptyChecklist()} />
+        ) : (
+          <ToeicToday lessons={p.lessons} attempts={attempts ?? []} />
+        )}
+      </>
+    );
+  };
+
   return (
     <>
-      <AppHeader track={track} levels />
+      <AppHeader track={all ? 'all' : track} levels={!all} />
       <main className={s.page}>
-        <section aria-label="두 트랙 요약" className={s.stack} style={{ marginTop: 8, gap: 4 }}>
+        {!all && <section aria-label="두 트랙 요약" className={s.stack} style={{ marginTop: 8, gap: 4 }}>
           {TRACKS.map((t) => (
             <Link key={t} to={`/${t}`} onClick={() => setSetting('track', t)} className={s.small}
               style={{ color: 'inherit', textDecoration: 'none', fontWeight: t === track ? 700 : 400, display: 'block', minHeight: 28, paddingTop: 4 }} data-testid={`summary-${t}`}>
               {summaryLine(t)}
             </Link>
           ))}
-        </section>
+        </section>}
 
         <DatePick value={day} onChange={setDay} dates={[...lessonDates, today]} allowAll={false} todayBtn label="날짜 고르기" />
-        <h1 className={s.title}>{formatKo(day)} · {TRACK_LABEL[track]} {what(track)}</h1>
-        {track === 'toeic' && <LevelTip />}
+        <h1 className={s.title}>{formatKo(day)} · {all ? '전체' : `${TRACK_LABEL[track]} ${what(track)}`}</h1>
+        {(all || track === 'toeic') && <LevelTip />}
 
-        {!mine.lessons.length ? (
-          <div className={s.card}>
-            <p className={s.empty} data-testid="no-lesson">{status === 'loading' ? '지문을 불러오는 중…' : `${what(track) === '뉴스' ? '뉴스가' : `레벨 ${level} 지문이`} 아직 없어요. 레슨 파일이 추가되면 여기에 나와요. (기록/설정 → 레슨 가져오기도 가능)`}</p>
-          </div>
-        ) : (
-          <>
-            {!mine.isToday && <p className={s.muted} role="note" data-testid="not-arrived">{day === today ? '오늘 지문은 아직 도착하지 않았어요.' : `${formatKo(day)} ${what(track) === '뉴스' ? '뉴스가' : `레벨 ${level} 지문이`} 없어요.`} 가장 가까운 이전({formatKo(mine.date!)}) {what(track) === '뉴스' ? '뉴스' : `레벨 ${level} 지문`}를 보여 드려요.</p>}
-            {track === 'general' ? (
-              <StoryPicker key={`${mine.date}|${what(track)}`} lessons={mine.lessons} checklistOf={(k) => progOf(k)?.checklist ?? emptyChecklist()} />
-            ) : (
-              <ToeicToday lessons={mine.lessons} attempts={attempts ?? []} />
-            )}
-          </>
-        )}
+        {all ? order.map((t) => (
+          <section key={t} aria-label={TRACK_LABEL[t]} data-testid={`all-${t}`} style={{ marginBottom: 16 }}>
+            <h2 className={s.h2}>
+              <Link to={`/${t}`} onClick={() => { setSetting('track', t); setSetting('homeAll', false); }} style={{ color: 'inherit', textDecoration: 'none' }}>
+                {TRACK_LABEL[t]} {what(t)} ›
+              </Link>
+            </h2>
+            {trackContent(t)}
+          </section>
+        )) : trackContent(track)}
 
         <h2 className={s.h2}>기록</h2>
         <div className={s.card} style={{ padding: 10, marginBottom: 8 }} aria-label="하루 목표">

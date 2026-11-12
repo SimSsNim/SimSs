@@ -365,7 +365,7 @@ test('v17. 이야기: 하루 여러 편 고르기, 뉴스 칩, 레벨 켜고 끄
   await page.goto('./');
   await page.reload();
   await expect(page).toHaveURL(/#\/toeic$/);
-  await expect(page.getByRole('group', { name: '학습 트랙' }).getByRole('button').first()).toHaveText(/토익/);
+  await expect(page.getByRole('group', { name: '학습 트랙' }).getByRole('button')).toHaveText(['전체', /토익/, /이야기/]);
 });
 
 test('v18. 기록 첫 화면: 공부 기록 초기화(항목 선택, 전체 선택/해제)', async ({ page }) => {
@@ -388,4 +388,27 @@ test('v18. 기록 첫 화면: 공부 기록 초기화(항목 선택, 전체 선�
   // 고르지 않은 문제 풀이 기록은 남음
   await page.goto('./#/toeic');
   await expect(page.getByTestId('part-status-part5')).toHaveText('완료 9/10');
+});
+
+test('v19. 홈 전체: 이야기와 토익을 한 화면에, 트랙 버튼이 화면 폭을 채움', async ({ page }) => {
+  await start(page, './#/general');
+  const seg = page.getByRole('group', { name: '학습 트랙' });
+  const box = await seg.boundingBox();
+  const vw = page.viewportSize()!.width;
+  expect(box!.width).toBeGreaterThan(Math.min(vw, 760) - 60);
+  await page.getByTestId('track-all').click();
+  await expect(page).toHaveURL(/#\/all$/);
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('전체');
+  await expect(page.getByTestId('all-general').getByTestId('today-card')).toContainText('The Fox and the Crow');
+  await expect(page.getByTestId('all-toeic').getByTestId('part-cards')).toBeVisible();
+  await expect(page.getByTestId('nav-active')).toHaveText('홈');
+  // 다시 열어도 전체 유지, 트랙을 고르면 그 트랙으로 (설정 저장을 잠깐 기다림)
+  await page.waitForTimeout(400);
+  await page.goto('./');
+  await expect(page).toHaveURL(/#\/all$/);
+  await page.getByTestId('track-toeic').click();
+  await expect(page).toHaveURL(/#\/toeic$/);
+  await page.waitForTimeout(400);
+  await page.goto('./');
+  await expect(page).toHaveURL(/#\/toeic$/);
 });

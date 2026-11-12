@@ -119,8 +119,9 @@ function PrioritySection() {
     <section className={s.card + ' ' + s.stack} aria-label="우선순위" data-testid="priority">
       <b>우선순위 <span className={s.small + ' ' + s.muted}>앱을 열 때 먼저 볼 것</span></b>
       <label className={s.label}>먼저 볼 트랙
-        <select className={s.select} value={st.startTrack} onChange={(e) => setSetting('startTrack', e.target.value as 'last' | Track)} data-testid="start-track">
+        <select className={s.select} value={st.startTrack} onChange={(e) => setSetting('startTrack', e.target.value as 'last' | Track | 'all')} data-testid="start-track">
           <option value="last">마지막에 본 트랙</option>
+          <option value="all">전체(두 트랙 함께)</option>
           {TRACKS.map((t) => <option key={t} value={t}>{TRACK_LABEL[t]} 먼저</option>)}
         </select>
       </label>
