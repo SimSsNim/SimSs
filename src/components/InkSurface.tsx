@@ -5,18 +5,23 @@ export type InkTool = 'pen' | 'hl' | 'eraser';
 
 /**
  * 손글씨 층(SVG). 부모 칸을 꽉 덮는다(부모는 position: relative).
- * - 애플펜슬(pen)·마우스는 그리고, 손가락은 스크롤(fingerDraw 면 손가락도 그림)
- * - 좌표는 칸 너비를 1 로 둔 비율 → 화면 폭이 바뀌어도 비율대로 따라감
+ * 입력은 부모 칸에서 받는다 → 그리지 않는 손가락 탭·스크롤은 아래 글자에 그대로 간다.
+ * - active: 메모 모드(마우스·펜, fingerDraw 면 손가락도 그림)
+ * - penAlways: 메모 모드가 아니어도 애플펜슬이 닿으면 바로 그림(onPenStart 로 알림)
+ * 좌표는 칸 너비를 1 로 둔 비율 → 화면 폭이 바뀌어도 비율대로 따라감
  */
-export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw, testid = 'ink-surface' }: {
-  strokes: InkStroke[]; onChange: (next: InkStroke[]) => void; active: boolean; tool: InkTool; color: string; fingerDraw: boolean; testid?: string;
+export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw, penAlways = false, onPenStart, testid = 'ink-surface' }: {
+  strokes: InkStroke[]; onChange: (next: InkStroke[]) => void; active: boolean; tool: InkTool; color: string; fingerDraw: boolean;
+  penAlways?: boolean; onPenStart?: () => void; testid?: string;
 }) {
   const ref = useRef<SVGSVGElement>(null);
   const [W, setW] = useState(0);
   const [live, setLive] = useState<InkStroke | null>(null);
   const cur = useRef<{ id: number; stroke: InkStroke | null; erased: InkStroke[] | null } | null>(null);
-  const latest = useRef(strokes);
-  latest.current = strokes;
+  const lastEnd = useRef({ at: 0, x: 0, y: 0 });
+  // 리스너에서 최신 값을 쓰도록
+  const st = useRef({ strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart });
+  st.current = { strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart };
 
   useEffect(() => {
     const el = ref.current;
@@ -27,78 +32,99 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
     return () => ro.disconnect();
   }, []);
 
-  // iPad Safari: 펜슬이 닿으면 스크롤 대신 그리기(손가락은 그대로 스크롤)
   useEffect(() => {
-    const el = ref.current;
-    if (!el || !active) return;
-    const stop = (e: TouchEvent) => {
+    const svg = ref.current;
+    const box = svg?.parentElement;
+    if (!svg || !box) return;
+    const accept = (e: PointerEvent) => {
+      const s = st.current;
+      if (e.pointerType === 'pen') return s.active || s.penAlways;
+      return s.active && (e.pointerType === 'mouse' || (e.pointerType === 'touch' && s.fingerDraw));
+    };
+    const pt = (e: { clientX: number; clientY: number; pressure: number; pointerType: string }) => {
+      const r = svg.getBoundingClientRect();
+      return [(e.clientX - r.left) / r.width, (e.clientY - r.top) / r.width, e.pointerType === 'pen' ? e.pressure || 0.5 : 0.5];
+    };
+    const eraseAt = (x: number, y: number) => {
+      const c = cur.current!;
+      const base = c.erased ?? st.current.strokes;
+      const hit = hitStrokes(base, x, y, 0.02);
+      if (hit.length) {
+        c.erased = base.filter((_, i) => !hit.includes(i));
+        st.current.onChange(c.erased);
+      }
+    };
+    const down = (e: PointerEvent) => {
+      if (!accept(e) || e.button > 0) return;
+      e.preventDefault();
+      e.stopPropagation();
+      const s = st.current;
+      if (!s.active && e.pointerType === 'pen') s.onPenStart?.(); // 펜슬이 닿으면 메모 모드 켜짐
+      try { box.setPointerCapture(e.pointerId); } catch { /* */ }
+      const [x, y, p] = pt(e);
+      if (s.tool === 'eraser' && s.active) {
+        cur.current = { id: e.pointerId, stroke: null, erased: null };
+        eraseAt(x, y);
+        return;
+      }
+      const tool = s.active ? s.tool : 'pen';
+      const stroke: InkStroke = tool === 'hl' ? { t: 'hl', c: HL_COLOR, w: HL_W, p: [x, y, p] } : { t: 'pen', c: s.color, w: PEN_W, p: [x, y, p] };
+      cur.current = { id: e.pointerId, stroke, erased: null };
+      setLive({ ...stroke });
+    };
+    const move = (e: PointerEvent) => {
+      const c = cur.current;
+      if (!c || c.id !== e.pointerId) return;
+      e.preventDefault();
+      const evs = e.getCoalescedEvents?.().length ? e.getCoalescedEvents() : [e];
+      if (!c.stroke) {
+        for (const ev of evs) { const [x, y] = pt(ev); eraseAt(x, y); }
+        return;
+      }
+      for (const ev of evs) c.stroke.p.push(...pt(ev));
+      setLive({ ...c.stroke, p: c.stroke.p.slice() });
+    };
+    const up = (e: PointerEvent) => {
+      const c = cur.current;
+      if (!c || c.id !== e.pointerId) return;
+      cur.current = null;
+      setLive(null);
+      lastEnd.current = { at: Date.now(), x: e.clientX, y: e.clientY };
+      if (c.stroke) st.current.onChange([...st.current.strokes, c.stroke]);
+    };
+    const cancel = () => { cur.current = null; setLive(null); };
+    // 그린 직후 따라오는 click(단어 창 열림)을 막는다
+    const click = (e: MouseEvent) => {
+      const l = lastEnd.current;
+      if (Date.now() - l.at < 400 && Math.hypot(e.clientX - l.x, e.clientY - l.y) < 24) { e.preventDefault(); e.stopPropagation(); }
+    };
+    // iPad Safari: 펜슬이 닿으면 스크롤 대신 그리기(손가락은 그대로 스크롤)
+    const touch = (e: TouchEvent) => {
+      const s = st.current;
       const t = e.touches[0] as (Touch & { touchType?: string }) | undefined;
-      if (fingerDraw || t?.touchType === 'stylus') e.preventDefault();
+      if (t?.touchType === 'stylus' ? s.active || s.penAlways : s.active && s.fingerDraw) e.preventDefault();
     };
-    el.addEventListener('touchstart', stop, { passive: false });
-    el.addEventListener('touchmove', stop, { passive: false });
+    box.addEventListener('pointerdown', down, { capture: true });
+    box.addEventListener('pointermove', move, { capture: true });
+    box.addEventListener('pointerup', up, { capture: true });
+    box.addEventListener('pointercancel', cancel, { capture: true });
+    box.addEventListener('click', click, { capture: true });
+    box.addEventListener('touchstart', touch, { passive: false });
+    box.addEventListener('touchmove', touch, { passive: false });
     return () => {
-      el.removeEventListener('touchstart', stop);
-      el.removeEventListener('touchmove', stop);
+      box.removeEventListener('pointerdown', down, { capture: true });
+      box.removeEventListener('pointermove', move, { capture: true });
+      box.removeEventListener('pointerup', up, { capture: true });
+      box.removeEventListener('pointercancel', cancel, { capture: true });
+      box.removeEventListener('click', click, { capture: true });
+      box.removeEventListener('touchstart', touch);
+      box.removeEventListener('touchmove', touch);
     };
-  }, [active, fingerDraw]);
-
-  const accept = (e: React.PointerEvent) => active && (e.pointerType === 'pen' || e.pointerType === 'mouse' || (e.pointerType === 'touch' && fingerDraw));
-  const pt = (e: { clientX: number; clientY: number; pressure: number; pointerType: string }) => {
-    const r = ref.current!.getBoundingClientRect();
-    return [(e.clientX - r.left) / r.width, (e.clientY - r.top) / r.width, e.pointerType === 'pen' ? e.pressure || 0.5 : 0.5];
-  };
-  const eraseAt = (x: number, y: number) => {
-    const c = cur.current!;
-    const base = c.erased ?? latest.current;
-    const hit = hitStrokes(base, x, y, 0.02);
-    if (hit.length) {
-      c.erased = base.filter((_, i) => !hit.includes(i));
-      onChange(c.erased);
-    }
-  };
+  }, []);
 
   return (
     <svg ref={ref} data-ink="1" data-testid={testid} aria-hidden="true"
-      style={{
-        position: 'absolute', inset: 0, width: '100%', height: '100%', zIndex: 5, overflow: 'visible',
-        pointerEvents: active ? 'auto' : 'none', touchAction: active ? (fingerDraw ? 'none' : 'pan-x pan-y pinch-zoom') : 'auto',
-        cursor: active ? (tool === 'eraser' ? 'cell' : 'crosshair') : 'auto',
-      }}
-      onPointerDown={(e) => {
-        if (!accept(e)) return;
-        e.preventDefault();
-        e.currentTarget.setPointerCapture(e.pointerId);
-        const [x, y, p] = pt(e);
-        if (tool === 'eraser') {
-          cur.current = { id: e.pointerId, stroke: null, erased: null };
-          eraseAt(x, y);
-          return;
-        }
-        const stroke: InkStroke = tool === 'hl' ? { t: 'hl', c: HL_COLOR, w: HL_W, p: [x, y, p] } : { t: 'pen', c: color, w: PEN_W, p: [x, y, p] };
-        cur.current = { id: e.pointerId, stroke, erased: null };
-        setLive({ ...stroke });
-      }}
-      onPointerMove={(e) => {
-        const c = cur.current;
-        if (!c || c.id !== e.pointerId) return;
-        const evs = (e.nativeEvent.getCoalescedEvents?.() ?? []).length ? e.nativeEvent.getCoalescedEvents() : [e.nativeEvent];
-        if (!c.stroke) {
-          for (const ev of evs) { const [x, y] = pt(ev); eraseAt(x, y); }
-          return;
-        }
-        for (const ev of evs) c.stroke.p.push(...pt(ev));
-        setLive({ ...c.stroke, p: c.stroke.p.slice() });
-      }}
-      onPointerUp={(e) => {
-        const c = cur.current;
-        if (!c || c.id !== e.pointerId) return;
-        cur.current = null;
-        setLive(null);
-        if (c.stroke) onChange([...latest.current, c.stroke]);
-      }}
-      onPointerCancel={() => { cur.current = null; setLive(null); }}
-    >
+      style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', zIndex: 5, overflow: 'visible', pointerEvents: 'none' }}>
       {W > 0 && [...strokes, ...(live ? [live] : [])].map((s, i) => (
         <path key={i} d={strokePath(s.p, W)} fill="none" stroke={s.c} strokeWidth={strokeWidth(s, W)} strokeLinecap="round" strokeLinejoin="round"
           opacity={s.t === 'hl' ? 0.35 : 1} data-testid="ink-stroke" />

@@ -52,9 +52,10 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
           <button type="button" className={s.chip} onClick={() => VIEW_KEYS.forEach((k) => saved![k] !== undefined && setSetting(k, saved![k] as never))}>메모할 때 설정으로 보기</button>
         </div>
       )}
-      <div ref={box} style={{ position: 'relative' }} data-testid="ink-box">
+      <div ref={box} style={{ position: 'relative', cursor: on ? (tool === 'eraser' ? 'cell' : 'crosshair') : undefined, touchAction: on && finger ? 'none' : undefined, userSelect: on ? 'none' : undefined }} data-testid="ink-box">
         {children}
-        <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger} />
+        <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger}
+          penAlways={st.penAuto} onPenStart={() => { setTool((t) => (t === 'eraser' ? 'pen' : t)); setOn(true); }} />
       </div>
       <div data-pdf-skip="1" style={{ position: 'fixed', right: 12, bottom: 'calc(var(--nav-h) + var(--player-h) + 12px + env(safe-area-inset-bottom))', zIndex: 36, maxWidth: 'calc(100vw - 24px)' }}>
         {on ? (

@@ -824,3 +824,41 @@ test('v37. 문법 표시를 켜고 문법 음영 위 단어를 누르면 단어 
   await expect(page.getByRole('dialog', { name: /단어/ }).getByTestId('popup-grammar')).toHaveCount(0);
   expect(gid).toBeTruthy();
 });
+
+async function penLine(page: Page, testid: string, fx1: number, fy: number, fx2: number) {
+  const b = (await page.getByTestId(testid).boundingBox())!;
+  await page.evaluate(({ b, fx1, fy, fx2 }) => {
+    const at = (fx: number) => ({ x: b.x + b.width * fx, y: b.y + 120 * fy });
+    const p0 = at(fx1);
+    const target = document.elementFromPoint(p0.x, p0.y)!;
+    const fire = (type: string, p: { x: number; y: number }) => target.dispatchEvent(new PointerEvent(type, {
+      pointerType: 'pen', pointerId: 7, isPrimary: true, clientX: p.x, clientY: p.y, pressure: 0.6, bubbles: true, cancelable: true, button: 0, buttons: 1,
+    }));
+    fire('pointerdown', p0);
+    for (let k = 1; k <= 8; k++) fire('pointermove', at(fx1 + ((fx2 - fx1) * k) / 8));
+    fire('pointerup', at(fx2));
+  }, { b, fx1, fy, fx2 });
+}
+
+test('v38. 애플펜슬이 닿으면 바로 메모(버튼 없이), 손가락·마우스 탭은 그대로 단어 창', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await expect(page.getByTestId('ink-toolbar')).toHaveCount(0);
+  await penLine(page, 'ink-box', 0.1, 1.2, 0.6);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible(); // 펜슬로 쓰면 도구 줄이 자동으로
+  await page.getByTestId('ink-done').click();
+  // 메모 모드가 꺼져 있어도 펜슬은 계속 그려짐
+  await penLine(page, 'ink-box', 0.2, 2, 0.7);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(2);
+  await page.getByTestId('ink-done').click();
+  // 손가락(마우스) 탭은 단어 창
+  await page.locator('span', { hasText: /^sitting$/ }).first().click();
+  await expect(page.getByRole('dialog', { name: /단어/ })).toBeVisible();
+  await page.getByRole('dialog', { name: /단어/ }).getByRole('button', { name: '닫기' }).click();
+  // 설정에서 끄면 펜슬도 버튼을 눌러야
+  await page.goto('./#/records/settings');
+  await page.getByTestId('pen-auto').uncheck();
+  await page.goto('./#/general/lesson/2026-11-12-L1/full');
+  await penLine(page, 'ink-box', 0.1, 3, 0.5);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(2);
+});

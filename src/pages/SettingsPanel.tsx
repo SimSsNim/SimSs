@@ -28,6 +28,7 @@ export function SettingsPanel() {
       <LevelToggleSection />
       <section className={s.card + ' ' + s.stack}>
         <b>화면</b>
+        <label className={s.check}><input type="checkbox" checked={st.penAuto} onChange={(e) => setSetting('penAuto', e.target.checked)} data-testid="pen-auto" />애플펜슬로 바로 메모(펜슬이 닿으면 메모가 켜지고, 손가락은 그대로 단어 누르기·스크롤)</label>
         <label className={s.label}>화면 꺼짐 방지
           <select className={s.select} value={st.keepAwake} onChange={(e) => setSetting('keepAwake', e.target.value as 'off' | 'lesson' | 'always')} data-testid="keep-awake">
             <option value="lesson">레슨 볼 때만 켜 두기</option>
