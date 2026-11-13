@@ -1,0 +1,1076 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-14-L1-3",
+  "date": "2026-11-14",
+  "level": 1,
+  "title": "The Fox and the Stork",
+  "titleKo": "여우와 황새",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_01_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_01_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-2-fables-26-50",
+    "reader": "Kristin LeMoine",
+    "durationSec": 71,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 02, 01번 트랙(전체 26번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 111,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "여우가 황새를 저녁 식사에 초대했는데, 차려 나온 음식이라고는 넓적하고 평평한 접시에 담긴 수프뿐이었다. 여우는 아주 맛있게 그것을 핥아 먹었지만, 황새는 긴 부리로 그 맛 좋은 국물을 먹으려 애썼으나 헛수고였다. 황새가 눈에 띄게 곤란해하는 모습은 교활한 여우를 무척 즐겁게 했다. 그러나 얼마 지나지 않아 이번에는 황새가 여우를 초대했고, 그 앞에 목이 길고 좁은 항아리를 내놓았는데, 그 안에 황새는 쉽게 부리를 넣을 수 있었다. 그래서 황새가 저녁을 즐기는 동안, 여우는 배고프고 어쩔 도리 없이 옆에 앉아 있었다. 그 그릇에 든 맛있어 보이는 음식에 닿을 수가 없었기 때문이다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Fox invited a Stork to dinner, at which the only fare provided was a large flat dish of soup.",
+      "ko": "여우가 황새를 저녁 식사에 초대했는데, 차려 나온 음식이라고는 넓적하고 평평한 접시에 담긴 수프뿐이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The Fox lapped it up with great relish, but the Stork with her long bill tried in vain to partake of the savoury broth.",
+      "ko": "여우는 아주 맛있게 그것을 핥아 먹었지만, 황새는 긴 부리로 그 맛 좋은 국물을 먹으려 애썼으나 헛수고였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Her evident distress caused the sly Fox much amusement.",
+      "ko": "황새가 눈에 띄게 곤란해하는 모습은 교활한 여우를 무척 즐겁게 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But not long after the Stork invited him in turn, and set before him a pitcher with a long and narrow neck, into which she could get her bill with ease.",
+      "ko": "그러나 얼마 지나지 않아 이번에는 황새가 여우를 초대했고, 그 앞에 목이 길고 좁은 항아리를 내놓았는데, 그 안에 황새는 쉽게 부리를 넣을 수 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Thus, while she enjoyed her dinner, the Fox sat by hungry and helpless, for it was impossible for him to reach the tempting contents of the vessel.",
+      "ko": "그래서 황새가 저녁을 즐기는 동안, 여우는 배고프고 어쩔 도리 없이 옆에 앉아 있었다. 그 그릇에 든 맛있어 보이는 음식에 닿을 수가 없었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "invite",
+      "pos": "verb",
+      "meaningKo": "초대하다",
+      "ipa": "/ɪnˈvaɪt/",
+      "synonyms": [
+        "ask",
+        "welcome"
+      ],
+      "matchText": "invited",
+      "sentenceId": "s1",
+      "example": {
+        "en": "I invited my friends to my birthday party.",
+        "ko": "나는 친구들을 생일 파티에 초대했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "relish",
+      "pos": "noun",
+      "meaningKo": "즐거움, 맛있게 먹음",
+      "ipa": "/ˈrɛlɪʃ/",
+      "synonyms": [
+        "enjoyment",
+        "delight",
+        "pleasure"
+      ],
+      "matchText": "relish",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He ate the pizza with relish.",
+        "ko": "그는 피자를 맛있게 먹었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in vain",
+      "pos": "phrase",
+      "meaningKo": "헛되이, 보람 없이",
+      "ipa": "/ɪn veɪn/",
+      "synonyms": [
+        "uselessly",
+        "without success"
+      ],
+      "matchText": "in vain",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We looked for the key in vain.",
+        "ko": "우리는 열쇠를 찾았지만 헛수고였다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "in turn",
+      "pos": "phrase",
+      "meaningKo": "이번에는 (차례로), 답례로",
+      "ipa": "/ɪn tɜrn/",
+      "synonyms": [
+        "in return",
+        "next"
+      ],
+      "matchText": "in turn",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She helped me, and I helped her in turn.",
+        "ko": "그녀가 나를 도왔고, 이번에는 내가 그녀를 도왔다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "helpless",
+      "pos": "adjective",
+      "meaningKo": "어쩔 도리가 없는, 무력한",
+      "ipa": "/ˈhɛlpləs/",
+      "synonyms": [
+        "powerless",
+        "weak"
+      ],
+      "matchText": "helpless",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The baby bird was helpless without its mother.",
+        "ko": "아기 새는 어미 없이는 무력했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Fox",
+          "role": "S",
+          "sub": false,
+          "ko": "여우가"
+        },
+        {
+          "text": "invited",
+          "role": "V",
+          "sub": false,
+          "ko": "초대했다"
+        },
+        {
+          "text": "a Stork",
+          "role": "O",
+          "sub": false,
+          "ko": "황새를"
+        },
+        {
+          "text": "to dinner,",
+          "role": "M",
+          "sub": false,
+          "ko": "저녁 식사에"
+        },
+        {
+          "text": "at which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그 식사에서"
+        },
+        {
+          "text": "the only fare provided",
+          "role": "S",
+          "sub": true,
+          "ko": "차려 나온 유일한 음식은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~이었다"
+        },
+        {
+          "text": "a large flat dish of soup.",
+          "role": "C",
+          "sub": true,
+          "ko": "넓적하고 평평한 접시의 수프"
+        }
+      ],
+      "skeleton": "A Fox invited a Stork to dinner",
+      "explanation": "뼈대는 \"A Fox invited a Stork(여우가 황새를 초대했다)\"이다. at which 이하는 dinner를 보충 설명하는 관계사절로, \"그 저녁 식사에서는 ~이었다\"라고 이어서 해석한다. provided는 fare를 뒤에서 꾸미는 과거분사다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Her evident distress",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀(황새)의 눈에 띄는 곤란함이"
+        },
+        {
+          "text": "caused",
+          "role": "V",
+          "sub": false,
+          "ko": "일으켰다(주었다)"
+        },
+        {
+          "text": "the sly Fox",
+          "role": "IO",
+          "sub": false,
+          "ko": "교활한 여우에게"
+        },
+        {
+          "text": "much amusement.",
+          "role": "O",
+          "sub": false,
+          "ko": "많은 즐거움을"
+        }
+      ],
+      "skeleton": "Her distress caused the Fox amusement",
+      "explanation": "cause + 사람 + 사물은 \"~에게 …을 일으키다/주다\"라는 4형식 문장이다. 사물(distress)이 주어인 문장은 \"황새가 곤란해하는 것을 보고 여우는 무척 즐거웠다\"처럼 풀어서 해석하면 자연스럽다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Thus,",
+          "role": "M",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "while",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는 동안"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "enjoyed",
+          "role": "V",
+          "sub": true,
+          "ko": "즐겼다"
+        },
+        {
+          "text": "her dinner,",
+          "role": "O",
+          "sub": true,
+          "ko": "그녀의 저녁을"
+        },
+        {
+          "text": "the Fox",
+          "role": "S",
+          "sub": false,
+          "ko": "여우는"
+        },
+        {
+          "text": "sat",
+          "role": "V",
+          "sub": false,
+          "ko": "앉아 있었다"
+        },
+        {
+          "text": "by",
+          "role": "M",
+          "sub": false,
+          "ko": "옆에"
+        },
+        {
+          "text": "hungry and helpless,",
+          "role": "C",
+          "sub": false,
+          "ko": "배고프고 어쩔 도리 없이"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~이었다"
+        },
+        {
+          "text": "impossible",
+          "role": "C",
+          "sub": true,
+          "ko": "불가능한"
+        },
+        {
+          "text": "for him",
+          "role": "M",
+          "sub": true,
+          "ko": "그에게는"
+        },
+        {
+          "text": "to reach the tempting contents of the vessel.",
+          "role": "S",
+          "sub": true,
+          "ko": "그 그릇의 맛있어 보이는 내용물에 닿는 것이"
+        }
+      ],
+      "skeleton": "the Fox sat by hungry and helpless",
+      "explanation": "핵심은 \"the Fox sat(여우는 앉아 있었다)\"이고, hungry and helpless는 그때 여우의 상태를 나타내는 보어다. while절은 시간, for절은 이유를 덧붙인다. for절 안의 it은 가주어, to reach ... 가 진주어다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거분사의 뒤 수식",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "the only fare provided"
+      ],
+      "explanation": "provided(제공된)는 과거분사로, 앞의 명사 fare(음식)를 뒤에서 꾸민다. the only fare provided = 제공된 유일한 음식. 분사가 다른 말과 함께 길어지면 명사 뒤에 온다.",
+      "example": {
+        "en": "Look at the picture painted by my sister.",
+        "ko": "내 여동생이 그린 그림을 봐."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "it ~ for 사람 to부정사 (가주어·진주어)",
+      "tags": [
+        "to부정사",
+        "대명사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "it was impossible for him to reach"
+      ],
+      "explanation": "to reach ... 가 진짜 주어인데 너무 길어서 뒤로 보내고 그 자리에 it을 썼다. for him은 to reach의 의미상 주어(누가 닿는지)다. \"그가 ~에 닿는 것은 불가능했다\".",
+      "example": {
+        "en": "It is easy for me to ride a bike.",
+        "ko": "내가 자전거를 타는 것은 쉽다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "while: ~하는 동안",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "while she enjoyed her dinner"
+      ],
+      "explanation": "while은 \"~하는 동안\"이라는 뜻의 접속사다. 두 일이 같은 시간에 일어남을 보여 준다: 황새가 먹는 동안 여우는 앉아만 있었다.",
+      "example": {
+        "en": "I listened to music while I cleaned my room.",
+        "ko": "나는 방을 청소하는 동안 음악을 들었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": null,
+      "synonyms": [
+        "vixen"
+      ],
+      "ipa": "/fɑːks/"
+    },
+    "invited": {
+      "lemma": "invite",
+      "pos": "verb",
+      "ko": "초대하다",
+      "form": "과거형",
+      "synonyms": [
+        "ask",
+        "welcome"
+      ],
+      "ipa": "/ˌɪnˈvaɪtəd/"
+    },
+    "stork": {
+      "lemma": "stork",
+      "pos": "noun",
+      "ko": "황새",
+      "form": null,
+      "synonyms": [
+        "wading bird"
+      ],
+      "ipa": "/stɔːrk/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에, ~으로; (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "dinner": {
+      "lemma": "dinner",
+      "pos": "noun",
+      "ko": "저녁 식사",
+      "form": null,
+      "synonyms": [
+        "supper",
+        "meal"
+      ],
+      "ipa": "/ˈdɪnər/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adjective",
+      "ko": "유일한",
+      "form": null,
+      "synonyms": [
+        "sole",
+        "single"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "fare": {
+      "lemma": "fare",
+      "pos": "noun",
+      "ko": "(차려진) 음식",
+      "form": null,
+      "synonyms": [
+        "food",
+        "meal"
+      ],
+      "ipa": "/fɛr/"
+    },
+    "provided": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공하다, 내놓다",
+      "form": "과거분사",
+      "synonyms": [
+        "supply",
+        "serve"
+      ],
+      "ipa": "/prəˈvaɪdɪd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰, 넓은",
+      "form": null,
+      "synonyms": [
+        "big",
+        "wide"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "flat": {
+      "lemma": "flat",
+      "pos": "adjective",
+      "ko": "평평한, 납작한",
+      "form": null,
+      "synonyms": [
+        "level",
+        "shallow"
+      ],
+      "ipa": "/flæt/"
+    },
+    "dish": {
+      "lemma": "dish",
+      "pos": "noun",
+      "ko": "접시",
+      "form": null,
+      "synonyms": [
+        "plate",
+        "bowl"
+      ],
+      "ipa": "/dɪʃ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~이 담긴",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "soup": {
+      "lemma": "soup",
+      "pos": "noun",
+      "ko": "수프",
+      "form": null,
+      "synonyms": [
+        "broth"
+      ],
+      "ipa": "/suːp/"
+    },
+    "lapped": {
+      "lemma": "lap",
+      "pos": "verb",
+      "ko": "(혀로) 핥아 먹다",
+      "form": "과거형",
+      "synonyms": [
+        "lick",
+        "slurp"
+      ],
+      "ipa": "/læpt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것; (가주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(lap up) 다, 깨끗이",
+      "form": null,
+      "synonyms": [
+        "completely"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~하며",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 대단한",
+      "form": null,
+      "synonyms": [
+        "much",
+        "huge"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "relish": {
+      "lemma": "relish",
+      "pos": "noun",
+      "ko": "즐거움, 맛있게 먹음",
+      "form": null,
+      "synonyms": [
+        "enjoyment",
+        "delight"
+      ],
+      "ipa": "/ˈrɛlɪʃ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만; (not long after) ~가 아닌",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의",
+      "form": "소유격",
+      "ipa": "/hɜːr/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴; (not long after) 오래지 않아",
+      "form": null,
+      "synonyms": [
+        "lengthy"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "bill": {
+      "lemma": "bill",
+      "pos": "noun",
+      "ko": "(새의) 부리",
+      "form": null,
+      "synonyms": [
+        "beak"
+      ],
+      "ipa": "/bɪl/"
+    },
+    "tried": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "애쓰다, 시도하다",
+      "form": "과거형",
+      "synonyms": [
+        "attempt",
+        "strive"
+      ],
+      "ipa": "/traɪd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in vain/in turn) ~하게; ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "vain": {
+      "lemma": "vain",
+      "pos": "adjective",
+      "ko": "(in vain) 헛된",
+      "form": null,
+      "synonyms": [
+        "useless",
+        "futile"
+      ],
+      "ipa": "/veɪn/"
+    },
+    "partake": {
+      "lemma": "partake",
+      "pos": "verb",
+      "ko": "(of) 먹다, 함께 들다",
+      "form": null,
+      "synonyms": [
+        "eat",
+        "share"
+      ],
+      "ipa": "/pɑrˈteɪk/"
+    },
+    "savoury": {
+      "lemma": "savoury",
+      "pos": "adjective",
+      "ko": "맛 좋은, 풍미 있는 (영국식 철자)",
+      "form": null,
+      "synonyms": [
+        "tasty",
+        "delicious"
+      ],
+      "ipa": "/ˈseɪvəri/"
+    },
+    "broth": {
+      "lemma": "broth",
+      "pos": "noun",
+      "ko": "(묽은) 국물, 수프",
+      "form": null,
+      "synonyms": [
+        "soup",
+        "stock"
+      ],
+      "ipa": "/brɔːθ/"
+    },
+    "evident": {
+      "lemma": "evident",
+      "pos": "adjective",
+      "ko": "눈에 띄는, 분명한",
+      "form": null,
+      "synonyms": [
+        "obvious",
+        "clear"
+      ],
+      "ipa": "/ˈɛvədənt/"
+    },
+    "distress": {
+      "lemma": "distress",
+      "pos": "noun",
+      "ko": "곤란, 괴로움",
+      "form": null,
+      "synonyms": [
+        "trouble",
+        "misery"
+      ],
+      "ipa": "/dɪˈstrɛs/"
+    },
+    "caused": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "일으키다, ~하게 하다",
+      "form": "과거형",
+      "synonyms": [
+        "bring",
+        "create"
+      ],
+      "ipa": "/kɑːzd/"
+    },
+    "sly": {
+      "lemma": "sly",
+      "pos": "adjective",
+      "ko": "교활한, 약삭빠른",
+      "form": null,
+      "synonyms": [
+        "cunning",
+        "crafty"
+      ],
+      "ipa": "/slaɪ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "amusement": {
+      "lemma": "amusement",
+      "pos": "noun",
+      "ko": "즐거움, 재미",
+      "form": null,
+      "synonyms": [
+        "fun",
+        "enjoyment"
+      ],
+      "ipa": "/əˈmjuːzmənt/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "adverb",
+      "ko": "후에, 뒤에",
+      "form": null,
+      "synonyms": [
+        "later",
+        "afterward"
+      ],
+      "ipa": "/ˈæftər/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "noun",
+      "ko": "차례, 순서",
+      "form": null,
+      "synonyms": [
+        "go",
+        "chance"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "놓다, 차려 내놓다",
+      "form": "과거형",
+      "synonyms": [
+        "place",
+        "put"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 앞에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "pitcher": {
+      "lemma": "pitcher",
+      "pos": "noun",
+      "ko": "물주전자, 항아리",
+      "form": null,
+      "synonyms": [
+        "jug",
+        "jar"
+      ],
+      "ipa": "/ˈpɪtʃər/"
+    },
+    "narrow": {
+      "lemma": "narrow",
+      "pos": "adjective",
+      "ko": "좁은",
+      "form": null,
+      "synonyms": [
+        "thin",
+        "slim"
+      ],
+      "ipa": "/ˈnɛroʊ/"
+    },
+    "neck": {
+      "lemma": "neck",
+      "pos": "noun",
+      "ko": "(병·항아리의) 목",
+      "form": null,
+      "synonyms": [
+        "throat",
+        "spout"
+      ],
+      "ipa": "/nɛk/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(어디에) 넣다, 집어넣다",
+      "form": null,
+      "synonyms": [
+        "put",
+        "insert"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "ease": {
+      "lemma": "ease",
+      "pos": "noun",
+      "ko": "쉬움, 용이함",
+      "form": null,
+      "synonyms": [
+        "simplicity",
+        "comfort"
+      ],
+      "ipa": "/iːz/"
+    },
+    "thus": {
+      "lemma": "thus",
+      "pos": "adverb",
+      "ko": "그래서, 이렇게 하여",
+      "form": null,
+      "synonyms": [
+        "so",
+        "therefore"
+      ],
+      "ipa": "/ðʌs/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "enjoyed": {
+      "lemma": "enjoy",
+      "pos": "verb",
+      "ko": "즐기다, 맛있게 먹다",
+      "form": "과거형",
+      "synonyms": [
+        "relish",
+        "savor"
+      ],
+      "ipa": "/ˌɛnˈdʒɔɪd/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉아 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "stay"
+      ],
+      "ipa": "/sæt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "adverb",
+      "ko": "옆에, 곁에",
+      "form": null,
+      "synonyms": [
+        "nearby",
+        "beside"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "hungry": {
+      "lemma": "hungry",
+      "pos": "adjective",
+      "ko": "배고픈",
+      "form": null,
+      "synonyms": [
+        "starving",
+        "famished"
+      ],
+      "ipa": "/ˈhʌŋɡri/"
+    },
+    "helpless": {
+      "lemma": "helpless",
+      "pos": "adjective",
+      "ko": "어쩔 도리가 없는, 무력한",
+      "form": null,
+      "synonyms": [
+        "powerless",
+        "weak"
+      ],
+      "ipa": "/ˈhɛlpləs/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면; (전치사) ~에게는",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "impossible": {
+      "lemma": "impossible",
+      "pos": "adjective",
+      "ko": "불가능한",
+      "form": null,
+      "synonyms": [
+        "hopeless",
+        "unachievable"
+      ],
+      "ipa": "/ˌɪmˈpɑːsəbəl/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "verb",
+      "ko": "~에 닿다",
+      "form": null,
+      "synonyms": [
+        "get to",
+        "touch"
+      ],
+      "ipa": "/riːtʃ/"
+    },
+    "tempting": {
+      "lemma": "tempting",
+      "pos": "adjective",
+      "ko": "먹음직스러운, 유혹하는",
+      "form": null,
+      "synonyms": [
+        "appetizing",
+        "inviting"
+      ],
+      "ipa": "/ˈtɛmptɪŋ/"
+    },
+    "contents": {
+      "lemma": "content",
+      "pos": "noun",
+      "ko": "내용물, 안에 든 것",
+      "form": "복수형",
+      "synonyms": [
+        "insides",
+        "filling"
+      ],
+      "ipa": "/ˈkɑːntɛnts/"
+    },
+    "vessel": {
+      "lemma": "vessel",
+      "pos": "noun",
+      "ko": "그릇, 용기",
+      "form": null,
+      "synonyms": [
+        "container",
+        "jar"
+      ],
+      "ipa": "/ˈvɛsəl/"
+    }
+  }
+}
