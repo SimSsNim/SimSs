@@ -66,7 +66,14 @@ async function boot() {
     const update = registerSW({
       onNeedRefresh() {
         // 자동 강제 새로고침 금지: 필사 중 입력을 지키기 위해 사용자가 누를 때만
-        toast('새 버전이 있어요', { sticky: true, action: { label: '새로고침', run: () => void update(true) } });
+        toast('새 버전이 있어요', { sticky: true, action: { label: '업데이트', run: () => void update(true) } });
+      },
+      onRegisteredSW(_url, reg) {
+        if (!reg) return;
+        // 홈 화면 앱은 오래 켜 두어도 새 버전을 잘 안 찾아서: 앱으로 돌아올 때와 30분마다 확인
+        const check = () => { if (navigator.onLine) void reg.update().catch(() => undefined); };
+        document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') check(); });
+        setInterval(check, 30 * 60 * 1000);
       },
     });
   }
