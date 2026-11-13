@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { setFavorite } from '../../lib/favorites';
+import { logQuestions } from '../../lib/progress';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../../styles/ui.module.css';
@@ -137,6 +138,7 @@ function Solver({ lesson, draft, setDraft, attempts, onFinished, onRestart, onOp
     setDraft(next);
     await ensureRow();
     await persist(ref.current);
+    if (!exam) void logQuestions(1, lessonKeyOf(lesson.track, lesson.id)); // 연습 모드: 확인한 문제마다
   };
 
   const finish = async () => {
@@ -145,6 +147,7 @@ function Solver({ lesson, draft, setDraft, attempts, onFinished, onRestart, onOp
     const id = await ensureRow();
     const row = await db.quizAttempt.get(id);
     const done = await finishAttempt(lesson, { ...row!, answers: ref.current.answers, checked: ref.current.checked }, ref.current.durationSec);
+    if (exam) void logQuestions(Object.keys(ref.current.answers).length, lessonKeyOf(lesson.track, lesson.id)); // 실전 모드: 채점할 때 푼 만큼
     onFinished(done.id!);
   };
 

@@ -35,6 +35,10 @@ export interface Settings {
   typingIgnoreCase: boolean;
   typingIgnorePunct: boolean;
   dailyGoalMinutes: number;
+  /** 하루 목표: 이야기 화면 수(15초 넘게 머문 화면) */
+  dailyGoalViews: number;
+  /** 하루 목표: 토익 문제 수 */
+  dailyGoalQuestions: number;
   dailyGoalLessons: number;
   lastBackupAt: number | null;
   backupReminderShownAt: number | null;
@@ -95,6 +99,8 @@ export const DEFAULT_SETTINGS: Settings = {
   typingIgnoreCase: false,
   typingIgnorePunct: false,
   dailyGoalMinutes: 20,
+  dailyGoalViews: 6,
+  dailyGoalQuestions: 18,
   dailyGoalLessons: 1,
   lastBackupAt: null,
   backupReminderShownAt: null,

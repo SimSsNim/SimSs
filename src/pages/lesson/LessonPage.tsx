@@ -9,7 +9,10 @@ import { tabsFor, defaultTab } from '../../lib/checklist';
 import { QuizTab } from './QuizTab';
 import { useQuizGate, type QuizGate } from '../../lib/quizGate';
 import { db } from '../../lib/db';
-import { getProgress, updateProgress, setActiveLesson, logAction } from '../../lib/progress';
+import { getProgress, updateProgress, setActiveLesson, logAction, logView } from '../../lib/progress';
+
+/** 이 시간(초) 넘게 머물면 '본 화면'으로 기록 */
+export const VIEW_SEC = 15;
 import { getSettings, setSetting } from '../../lib/settings';
 import { loadLesson, setSegments, buildSegments } from '../../store/player';
 import { FullTextTab } from './FullTextTab';
@@ -75,6 +78,18 @@ export function LessonPage() {
     setSetting('lastLesson', { ...getSettings().lastLesson, [track]: { id: id!, tab } });
     window.scrollTo(0, 0);
   }, [key, tab, track, id]);
+
+  // 이야기: 한 화면(탭)에 15초 넘게 머물면 그날 기록에 남김(화면이 보일 때만 셈)
+  useEffect(() => {
+    if (track !== 'general' || !lesson || !tab) return;
+    let sec = 0;
+    const id = setInterval(() => {
+      if (document.visibilityState !== 'visible') return;
+      sec += 1;
+      if (sec === VIEW_SEC) void logView(key, tab);
+    }, 1000);
+    return () => clearInterval(id);
+  }, [track, lesson, key, tab]);
 
   if (!TABS.some((t) => t.id === tab)) return <Navigate to={`/${track}/lesson/${id}/${defaultTab(track)}`} replace />;
 

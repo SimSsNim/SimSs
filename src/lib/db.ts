@@ -23,7 +23,11 @@ export interface SentenceMarkRow { key: string; lessonKey: string; sentenceId: s
 export interface GrammarStateRow { key: string; lessonKey: string; grammarId: string; understood: boolean; review: boolean; starred?: boolean; starredAt?: number }
 export interface AudioMarkRow { key: string; introSkipSec?: number | null; sentenceStarts: Record<string, number> }
 export interface PracticeLogRow { id?: number; lessonKey: string; track: Track; kind: string; score: number | null; durationSec: number; detail?: unknown; at: number; date: string }
-export interface DailyLogRow { date: string; seconds: number; lessonsTouched: string[]; actions: Record<string, number> }
+export interface DailyLogRow {
+  date: string; seconds: number; lessonsTouched: string[]; actions: Record<string, number>;
+  /** 이야기에서 15초 넘게 머문 화면: 'lessonKey|tab' */ views?: string[];
+  /** 그날 푼 토익 문제 수(문제 풀이·오답 복습·약점 연습) */ questions?: number;
+}
 export interface QuizAttemptRow {
   id?: number; lessonKey: string; track: Track; level: number; chapter: Chapter; attemptNo: number; mode: 'practice' | 'exam';
   startedAt: number; finishedAt: number | null; durationSec: number; answers: Record<string, ChoiceKey>;

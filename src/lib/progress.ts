@@ -1,4 +1,4 @@
-import { db, emptyChecklist, CHECKLIST_KEYS, type ChecklistKey, type LessonProgressRow, type PracticeLogRow } from './db';
+import { db, emptyChecklist, CHECKLIST_KEYS, type ChecklistKey, type LessonProgressRow, type PracticeLogRow, type DailyLogRow } from './db';
 import { kstDate, addDays } from './date';
 import type { Track } from './types';
 
@@ -52,9 +52,38 @@ export async function logPractice(row: Omit<PracticeLogRow, 'id' | 'at' | 'date'
   await logAction(`practice:${row.kind}`, row.lessonKey);
 }
 
-/** 학습일 = 1분 이상 머물렀거나 행동 기록이 있는 날 */
-export const isStudyDay = (r?: { seconds: number; actions: Record<string, number> }) =>
-  !!r && (r.seconds >= 60 || Object.keys(r.actions).length > 0);
+/** 이야기 화면에 머문 것 기록(같은 날 같은 화면은 한 번) */
+export async function logView(lessonKey: string, tab: string) {
+  const date = kstDate();
+  const v = `${lessonKey}|${tab}`;
+  await db.transaction('rw', db.dailyLog, async () => {
+    const cur = (await db.dailyLog.get(date)) ?? { date, seconds: 0, lessonsTouched: [], actions: {} };
+    if ((cur.views ?? []).includes(v)) return;
+    cur.views = [...(cur.views ?? []), v];
+    if (!cur.lessonsTouched.includes(lessonKey)) cur.lessonsTouched = [...cur.lessonsTouched, lessonKey];
+    await db.dailyLog.put(cur);
+  });
+}
+
+/** 토익 문제를 푼 수 더하기 */
+export async function logQuestions(n: number, lessonKey?: string) {
+  if (n <= 0) return;
+  const date = kstDate();
+  await db.transaction('rw', db.dailyLog, async () => {
+    const cur = (await db.dailyLog.get(date)) ?? { date, seconds: 0, lessonsTouched: [], actions: {} };
+    cur.questions = (cur.questions ?? 0) + n;
+    if (lessonKey && !cur.lessonsTouched.includes(lessonKey)) cur.lessonsTouched = [...cur.lessonsTouched, lessonKey];
+    await db.dailyLog.put(cur);
+  });
+}
+
+/** 그날 활동: 이야기 화면 수 + 토익 문제 수 */
+export const viewsOf = (r?: DailyLogRow) => r?.views?.length ?? 0;
+export const questionsOf = (r?: DailyLogRow) => r?.questions ?? 0;
+
+/** 학습일 = 이야기 화면에 머물렀거나, 토익 문제를 풀었거나, 학습 단계를 체크·연습한 날(그냥 열어 보기만 한 건 아님) */
+export const isStudyDay = (r?: DailyLogRow) =>
+  !!r && (viewsOf(r) > 0 || questionsOf(r) > 0 || Object.keys(r.actions).some((a) => a !== 'open'));
 
 export function computeStreak(days: Set<string>, today = kstDate()): number {
   let d = days.has(today) ? today : addDays(today, -1);

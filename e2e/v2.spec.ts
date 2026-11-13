@@ -782,3 +782,23 @@ test('v35. 즐겨찾기 폴더: 고를 때 새 폴더, 폴더별 보기, 이동,
   await expect(folders).not.toContainText('중요 동사');
   await expect(folders).toContainText('📁 기본 2');
 });
+
+test('v36. 기록은 시간이 아니라 활동: 이야기 화면 15초 머묾 · 토익 푼 문제', async ({ page }, info) => {
+  test.skip(info.project.name !== 'desktop-light', '15초를 실제로 기다리는 테스트라 한 번만');
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.waitForTimeout(16500);
+  await page.goto(URL5);
+  await page.getByTestId(`choice-${P5_ANSWERS[0]}`).click();
+  await page.getByTestId('quiz-next').click();
+  await page.getByTestId(`choice-${P5_ANSWERS[1]}`).click();
+  await page.goto('./#/general');
+  const goal = page.getByTestId('today-goal');
+  await expect(goal).toContainText('이야기 화면 1 /');
+  await expect(goal).toContainText('토익 문제 2 /');
+  await expect(goal).not.toContainText('분 /');
+  await page.goto('./#/records');
+  await expect(page.getByText('푼 토익 문제', { exact: true })).toBeVisible();
+  await page.getByTestId('date-pick').getByTestId('date-input').fill('2026-11-12');
+  await expect(page.getByTestId('day-lesson').first()).toContainText('전체 문장');
+  await expect(page.getByText('✏️ 토익 문제 2문제')).toBeVisible();
+});

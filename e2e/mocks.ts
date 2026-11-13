@@ -60,10 +60,14 @@ export async function setupMocks(page: Page) {
   await page.route(/archive\.org\//, (route) => route.fulfill({ status: 200, body: wav, headers: { 'content-type': 'audio/wav', 'access-control-allow-origin': '*' } }));
   // 테스트는 샘플 4개(일반 L1, 토익 L1 Part 5·6·7)로 고정: 매일 추가되는 레슨에 영향받지 않게
   await page.route(/\/lessons\/index\.json/, async (route) => {
-    const res = await route.fetch();
-    const idx = (await res.json()) as { lessons: { id: string }[] };
-    idx.lessons = idx.lessons.filter((l) => SAMPLE_IDS.includes(l.id));
-    await route.fulfill({ response: res, json: idx });
+    try {
+      const res = await route.fetch();
+      const idx = (await res.json()) as { lessons: { id: string }[] };
+      idx.lessons = idx.lessons.filter((l) => SAMPLE_IDS.includes(l.id));
+      await route.fulfill({ response: res, json: idx });
+    } catch {
+      // 테스트가 곧바로 다른 주소로 이동하면 응답이 사라진다(이 요청은 이미 필요 없음)
+    }
   });
 }
 

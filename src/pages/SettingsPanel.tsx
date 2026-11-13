@@ -108,11 +108,11 @@ export function SettingsPanel() {
 
       <section className={s.card + ' ' + s.stack}>
         <b>하루 목표</b>
-        <label className={s.label}>학습 시간 {st.dailyGoalMinutes}분
-          <input className={s.range} type="range" min={5} max={60} step={5} value={st.dailyGoalMinutes} onChange={(e) => setSetting('dailyGoalMinutes', Number(e.target.value))} />
+        <label className={s.label}>이야기 화면 {st.dailyGoalViews}곳 <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>(전체 문장·단어·문법 등 한 화면에 15초 넘게 머물면 1곳)</span>
+          <input className={s.range} type="range" min={1} max={20} step={1} value={st.dailyGoalViews} onChange={(e) => setSetting('dailyGoalViews', Number(e.target.value))} />
         </label>
-        <label className={s.label}>레슨 수 {st.dailyGoalLessons}개
-          <input className={s.range} type="range" min={1} max={4} step={1} value={st.dailyGoalLessons} onChange={(e) => setSetting('dailyGoalLessons', Number(e.target.value))} />
+        <label className={s.label}>토익 문제 {st.dailyGoalQuestions}문제
+          <input className={s.range} type="range" min={3} max={90} step={3} value={st.dailyGoalQuestions} onChange={(e) => setSetting('dailyGoalQuestions', Number(e.target.value))} />
         </label>
       </section>
     </div>

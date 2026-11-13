@@ -7,7 +7,12 @@ import { GridTabs } from '../components/GridTabs';
 import { AppHeader } from '../components/AppHeader';
 import { db } from '../lib/db';
 import { kstDate, addDays, weekdayOf, formatKo } from '../lib/date';
-import { isStudyDay } from '../lib/progress';
+import { isStudyDay, viewsOf, questionsOf } from '../lib/progress';
+import { TABS as LESSON_TABS } from '../lib/checklist';
+import type { DailyLogRow } from '../lib/db';
+
+const TAB_LABEL: Record<string, string> = Object.fromEntries(LESSON_TABS.map((x) => [x.id, x.label]));
+const activity = (r?: DailyLogRow) => viewsOf(r) + questionsOf(r) / 3;
 import { useLessons } from '../lib/lessons';
 import { TRACK_LABEL } from '../lib/types';
 import { SettingsPanel } from './SettingsPanel';
@@ -74,12 +79,14 @@ function Stats() {
   for (let i = 0; i < weeks * 7; i++) {
     const d = addDays(start, i);
     const r = byDate.get(d);
-    const m = (r?.seconds ?? 0) / 60;
-    cells.push({ date: d, level: d > today ? -1 : !isStudyDay(r) ? 0 : m < 10 ? 1 : m < 20 ? 2 : m < 30 ? 3 : 4 });
+    // 활동량 = 이야기 화면 수 + 토익 문제 수 ÷ 3 (한 세트 18문제 ≈ 화면 6곳)
+    const a = activity(r);
+    cells.push({ date: d, level: d > today ? -1 : !isStudyDay(r) ? 0 : a < 3 ? 1 : a < 6 ? 2 : a < 12 ? 3 : 4 });
   }
   const completed = (progress ?? []).filter((p) => p.completedAt).length;
   const known = (words ?? []).filter((w) => w.status === 'known');
-  const totalMin = Math.round((daily ?? []).reduce((a, d) => a + d.seconds, 0) / 60);
+  const totalQs = (daily ?? []).reduce((a, d) => a + questionsOf(d), 0);
+  const totalViews = (daily ?? []).reduce((a, d) => a + viewsOf(d), 0);
 
   // 아는 단어 수 추이(최근 8주, 주 단위 누적)
   const knownTrend = Array.from({ length: 8 }, (_, i) => {
@@ -89,11 +96,10 @@ function Stats() {
   // 연습 정확도 추이(최근 10회, 타이핑·받아쓰기)
   const acc = (practice ?? []).filter((x) => (x.kind === 'typing' || x.kind === 'dictation') && x.score !== null).sort((a, b) => a.at - b.at).slice(-10)
     .map((x) => ({ label: x.date.slice(5), value: x.score ?? 0 }));
-  // 최근 14일 학습 시간
-  const minutes = Array.from({ length: 14 }, (_, i) => {
-    const d = addDays(today, i - 13);
-    return { label: d.slice(8), value: Math.round((byDate.get(d)?.seconds ?? 0) / 60) };
-  });
+  // 최근 14일: 이야기 화면 수, 토익 문제 수
+  const last14 = Array.from({ length: 14 }, (_, i) => addDays(today, i - 13));
+  const viewsChart = last14.map((d) => ({ label: d.slice(8), value: viewsOf(byDate.get(d)) }));
+  const qsChart = last14.map((d) => ({ label: d.slice(8), value: questionsOf(byDate.get(d)) }));
   const pickedLog = picked ? byDate.get(picked) : undefined;
   const pickedPractice = (practice ?? []).filter((x) => x.date === picked);
 
@@ -102,10 +108,11 @@ function Stats() {
       <LevelFilterChips value={levelF} onChange={setLevelF} />
       <QuizStatsSection levelF={levelF} />
       <GeneralLevelSection levelF={levelF} />
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 8 }}>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 8 }}>
         <Tile label="완료한 레슨" value={completed} />
         <Tile label="아는 단어" value={known.length} />
-        <Tile label="총 학습(분)" value={totalMin} />
+        <Tile label="본 이야기 화면" value={totalViews} />
+        <Tile label="푼 토익 문제" value={totalQs} />
       </div>
       <section className={s.card}>
         <b>학습 캘린더</b> <span className={s.small + ' ' + s.muted}>최근 {weeks}주 · 날짜를 누르면 그날 한 일</span>
@@ -120,16 +127,17 @@ function Stats() {
           ))}
         </div>
         <DatePick value={picked ?? ''} onChange={(d) => setPicked(d || null)} label="기록 날짜" />
-        <div className={s.row + ' ' + s.small + ' ' + s.muted} style={{ marginTop: 6 }}>적게 {[0, 1, 2, 3, 4].map((l) => <span key={l} aria-hidden="true" style={{ width: 12, height: 12, borderRadius: 3, display: 'inline-block', background: l === 0 ? 'var(--surface-2)' : `color-mix(in srgb, var(--accent) ${[0, 35, 55, 75, 100][l]}%, var(--surface))` }} />)} 많이 (10·20·30분)</div>
+        <div className={s.row + ' ' + s.small + ' ' + s.muted} style={{ marginTop: 6 }}>적게 {[0, 1, 2, 3, 4].map((l) => <span key={l} aria-hidden="true" style={{ width: 12, height: 12, borderRadius: 3, display: 'inline-block', background: l === 0 ? 'var(--surface-2)' : `color-mix(in srgb, var(--accent) ${[0, 35, 55, 75, 100][l]}%, var(--surface))` }} />)} 많이 (이야기 화면 수 + 토익 문제 ÷ 3)</div>
         {picked && (
           <div style={{ marginTop: 10 }} aria-live="polite">
             <b>{formatKo(picked)}</b>
             {!pickedLog ? <p className={s.muted}>기록이 없어요.</p> : (
               <ul className={s.small}>
-                <li>학습 시간 {Math.round(pickedLog.seconds / 60)}분</li>
+                {questionsOf(pickedLog) > 0 && <li>✏️ 토익 문제 {questionsOf(pickedLog)}문제</li>}
                 {pickedLog.lessonsTouched.map((k) => {
                   const sm = summaries.find((x) => x.key === k);
-                  return <li key={k}>{TRACK_LABEL[k.split('/')[0] as 'general']} · {sm?.title ?? k}</li>;
+                  const tabs = (pickedLog.views ?? []).filter((v) => v.startsWith(`${k}|`)).map((v) => TAB_LABEL[v.split('|')[1]] ?? v.split('|')[1]);
+                  return <li key={k} data-testid="day-lesson">{TRACK_LABEL[k.split('/')[0] as 'general']} · {sm?.title ?? k}{tabs.length ? ` — ${tabs.join(', ')}` : ''}</li>;
                 })}
                 {Object.entries(pickedLog.actions).map(([a, n]) => <li key={a}>{ACTION_LABEL[a] ?? a} × {n}</li>)}
                 {pickedPractice.filter((x) => x.score !== null).map((x) => <li key={x.id}>{ACTION_LABEL[`practice:${x.kind}`]} {x.score}점</li>)}
@@ -138,7 +146,8 @@ function Stats() {
           </div>
         )}
       </section>
-      <section className={s.card}><b>최근 14일 학습 시간(분)</b><BarChart data={minutes} /></section>
+      <section className={s.card}><b>최근 14일 본 이야기 화면</b> <span className={s.small + ' ' + s.muted}>(15초 넘게 머문 화면)</span><BarChart data={viewsChart} /></section>
+      <section className={s.card}><b>최근 14일 푼 토익 문제</b><BarChart data={qsChart} /></section>
       <section className={s.card}><b>아는 단어 수 추이(주)</b><LineChart data={knownTrend} /></section>
       <section className={s.card}><b>타이핑·받아쓰기 정확도(최근 10회)</b>{acc.length ? <LineChart data={acc} max={100} unit="%" /> : <p className={s.muted + ' ' + s.small}>아직 기록이 없어요.</p>}</section>
     </div>

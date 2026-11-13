@@ -4,6 +4,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
 import qz from '../styles/quiz.module.css';
 import { DatePick } from '../components/DatePick';
+import { logQuestions } from '../lib/progress';
 import { AppHeader } from '../components/AppHeader';
 import { WordbookPanel, TrackFilterSeg, LevelFilterChips, type TrackFilter, type LevelFilter } from './Wordbook';
 import { useLessons } from '../lib/lessons';
@@ -200,6 +201,7 @@ export function QuestionDrill({ items, title, mode, compact }: { items: DrillIte
     if (ok) setRight((x) => x + 1);
     if (mode === 'wrongNote') await reviewQuestion(it.key, ok, k);
     else await recordQuestionResult(it.lesson, it.q, k);
+    void logQuestions(1, it.key.split(':')[0]);
   };
   return (
     <div className={compact ? '' : s.card} style={{ marginTop: 8 }} data-testid="drill">

@@ -9,7 +9,7 @@ import { TRACKS, TRACK_LABEL, CHAPTER_LABEL, CHAPTER_COUNT, type Level, type Tra
 import { db, CHECKLIST_KEYS, emptyChecklist, type QuizAttemptRow } from '../lib/db';
 import { CHECKLIST } from '../lib/checklist';
 import { kstDate, addDays, weekdayOf, formatKo, diffDays } from '../lib/date';
-import { setChecklist, computeStreak, isStudyDay } from '../lib/progress';
+import { setChecklist, computeStreak, isStudyDay, viewsOf, questionsOf } from '../lib/progress';
 import { isDue } from '../lib/leitner';
 import { useSettings, setSetting } from '../lib/settings';
 import { setMyLevel, useMyLevel, myLevel, isNewsView } from '../components/LevelChips';
@@ -78,7 +78,9 @@ export function Home({ all = false }: { all?: boolean }) {
   const due = (dueWords ?? []).filter((w) => isDue(w, today)).length;
   const wrongDue = (dueWrong ?? []).filter((w) => isDue(w, today)).length;
   const todayLog = (daily ?? []).find((d) => d.date === today);
-  const todayMin = Math.round((todayLog?.seconds ?? 0) / 60);
+  const todayViews = viewsOf(todayLog);
+  const todayQs = questionsOf(todayLog);
+  const todayLessons = new Set((todayLog?.views ?? []).map((v) => v.split('|')[0])).size;
   const progOf = (key?: string) => progress?.find((p) => p?.key === key);
 
   const summaryLine = (t: Track) => {
@@ -148,12 +150,17 @@ export function Home({ all = false }: { all?: boolean }) {
         )) : trackContent(track)}
 
         <h2 className={s.h2}>기록</h2>
-        <div className={s.card} style={{ padding: 10, marginBottom: 8 }} aria-label="하루 목표">
+        <div className={s.card} style={{ padding: 10, marginBottom: 8 }} aria-label="하루 목표" data-testid="today-goal">
           <div className={s.between + ' ' + s.small}>
-            <span>오늘 {todayMin}분 / 목표 {settings.dailyGoalMinutes}분</span>
-            <span>레슨 {todayLog?.lessonsTouched.length ?? 0} / {settings.dailyGoalLessons}개</span>
+            <span>📖 이야기 화면 {todayViews} / {settings.dailyGoalViews}곳{todayLessons ? ` · ${todayLessons}편` : ''}</span>
+            <span className={s.muted}>15초 넘게 본 화면</span>
           </div>
-          <div className={s.progressBar} style={{ marginTop: 6 }}><span style={{ width: `${Math.min(100, (todayMin / settings.dailyGoalMinutes) * 100)}%` }} /></div>
+          <div className={s.progressBar} style={{ margin: '4px 0 8px' }}><span style={{ width: `${Math.min(100, (todayViews / Math.max(1, settings.dailyGoalViews)) * 100)}%` }} /></div>
+          <div className={s.between + ' ' + s.small}>
+            <span>✏️ 토익 문제 {todayQs} / {settings.dailyGoalQuestions}문제</span>
+            <span className={s.muted}>문제 풀이·오답 복습 포함</span>
+          </div>
+          <div className={s.progressBar} style={{ marginTop: 4 }}><span style={{ width: `${Math.min(100, (todayQs / Math.max(1, settings.dailyGoalQuestions)) * 100)}%` }} /></div>
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 8 }}>
           <Stat label="연속 학습" value={`${streak}일`} />
