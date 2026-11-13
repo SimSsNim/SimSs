@@ -269,22 +269,6 @@ test('v11. 즐겨찾기 탭: 문제·문법 ☆ → 전체/항목별로 보임, 
   await expect(page.getByTestId('fav-count-all')).toHaveText('1');
 });
 
-test('v12. 맨 위에서 아래로 당기면 새로고침', async ({ page }) => {
-  await start(page, './#/toeic');
-  await page.evaluate(() => ((window as unknown as { __mark: number }).__mark = 1));
-  const touch = (type: string, y: number) => page.evaluate(({ type, y }) => {
-    const t = new Touch({ identifier: 1, target: document.body, clientX: 150, clientY: y });
-    document.body.dispatchEvent(new TouchEvent(type, { touches: type === 'touchend' ? [] : [t], changedTouches: [t], cancelable: true, bubbles: true }));
-  }, { type, y });
-  await touch('touchstart', 100);
-  await touch('touchmove', 140);
-  await touch('touchmove', 320);
-  await expect(page.getByTestId('ptr')).toContainText('놓으면 새로고침');
-  await touch('touchend', 320);
-  await expect.poll(() => page.evaluate(() => (window as unknown as { __mark?: number }).__mark ?? 0)).toBe(0);
-  await expect(page.getByTestId('part-cards')).toBeVisible();
-});
-
 test('v13. 하단 탭: 홈·단어 추가, 제목 심쓰 영어', async ({ page }) => {
   await start(page, './#/review');
   const nav = page.getByRole('navigation', { name: '주 메뉴' });
@@ -666,6 +650,14 @@ test('v31. 화면 위 손글씨 메모: 그리기·되돌리기·지우개·저�
   await start(page, './#/general/lesson/2026-11-12-L1/full');
   await page.getByTestId('ink-toggle').click();
   await expect(page.getByTestId('ink-toolbar')).toBeVisible();
+  // 첫째 줄: 색·굵기·완료 / 둘째 줄: 형광펜~PDF
+  await expect(page.getByTestId('ink-row1').getByTestId('ink-done')).toBeVisible();
+  await expect(page.getByTestId('ink-row1').getByTestId('ink-size-1')).toBeVisible();
+  await expect(page.getByTestId('ink-row2').getByTestId('ink-hl')).toBeVisible();
+  await expect(page.getByTestId('ink-row2').getByTestId('ink-pdf')).toBeVisible();
+  const r1 = (await page.getByTestId('ink-row1').boundingBox())!;
+  const r2 = (await page.getByTestId('ink-row2').boundingBox())!;
+  expect(r2.y).toBeGreaterThanOrEqual(r1.y + r1.height - 1);
   await drawLine(page, 'ink-box', 0.1, 0.1, 0.6, 0.15);
   await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
   await page.getByTestId('ink-undo').click();

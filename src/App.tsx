@@ -2,7 +2,6 @@ import { lazy, Suspense, useEffect } from 'react';
 import { FolderPicker } from './components/FavFolders';
 import { useBackTracker } from './lib/backTarget';
 import { useWakeLock } from './lib/wakeLock';
-import { PullToRefresh } from './components/PullToRefresh';
 import { PdfReady } from './components/PdfReady';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
 import { useSettings, setSetting, getSettings } from './lib/settings';
@@ -88,7 +87,6 @@ export function App() {
       <BackTracker />
       <PdfReady />
       <FolderPicker />
-      <PullToRefresh />
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>
         <Route path="/" element={<Navigate to={homeAll ? '/all' : `/${track}`} replace />} />

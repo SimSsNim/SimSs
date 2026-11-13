@@ -92,33 +92,38 @@ export function usePen() {
 }
 
 /** 펜 도구 줄: 색·형광펜·지우개·되돌리기·모두 지우기·손가락으로도 쓰기 */
-export function InkToolbar({ tool, setTool, color, setColor, size, setSize, fingerDraw, setFingerDraw, onUndo, onRedo, canUndo, canRedo, eraseMode, setEraseMode, onClear, extra }: {
+export function InkToolbar({ tool, setTool, color, setColor, size, setSize, fingerDraw, setFingerDraw, onUndo, onRedo, canUndo, canRedo, eraseMode, setEraseMode, onClear, extra, done }: {
   tool: InkTool; setTool: (t: InkTool) => void; color: string; setColor: (c: string) => void; size: number; setSize: (n: number) => void;
   fingerDraw: boolean; setFingerDraw: (v: boolean) => void; onUndo: () => void; onRedo: () => void; canUndo: boolean; canRedo: boolean;
   eraseMode: EraseMode; setEraseMode: (m: EraseMode) => void; onClear: () => void; extra?: React.ReactNode;
+  /** 첫째 줄 끝(완료 등) */ done?: React.ReactNode;
 }) {
   const btn = { flex: 'none', minWidth: 34, padding: '0 8px', justifyContent: 'center' } as const;
   return (
-    <div className={s.chips} role="toolbar" aria-label="펜 도구" data-testid="ink-toolbar" style={{ alignItems: 'center', paddingBottom: 2, flexWrap: 'wrap', overflow: 'visible' }}>
+    <div role="toolbar" aria-label="펜 도구" data-testid="ink-toolbar" style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
+    <div className={s.chips} data-testid="ink-row1" style={{ alignItems: 'center', padding: 0, flexWrap: 'nowrap', overflow: 'visible', gap: 3 }}>
       {INK_COLORS.map((c) => (
         <button key={c} type="button" className={s.chip} aria-pressed={tool === 'pen' && color === c} aria-label={`펜 ${c}`} data-testid={`ink-pen-${c.slice(1)}`}
-          onClick={() => { setTool('pen'); setColor(c); }} style={{ ...btn, minWidth: 32, padding: 0 }}>
+          onClick={() => { setTool('pen'); setColor(c); }} style={{ ...btn, minWidth: 29, padding: 0 }}>
           <span aria-hidden="true" style={{ width: 16, height: 16, borderRadius: 8, background: c, display: 'block', outline: tool === 'pen' && color === c ? '2px solid var(--accent-ink)' : 'none' }} />
         </button>
       ))}
-      <label className={s.chip} aria-pressed={tool === 'pen' && !INK_COLORS.includes(color as never)} title="색 직접 고르기" style={{ ...btn, position: 'relative', gap: 4 }} data-testid="ink-color-custom">
+      <label className={s.chip} aria-pressed={tool === 'pen' && !INK_COLORS.includes(color as never)} title="색 직접 고르기" style={{ ...btn, position: 'relative', gap: 2, padding: '0 6px' }} data-testid="ink-color-custom">
         <span aria-hidden="true" style={{ width: 16, height: 16, borderRadius: 8, display: 'block', background: INK_COLORS.includes(color as never) ? 'conic-gradient(red, yellow, lime, cyan, blue, magenta, red)' : color }} />🎨
         <input type="color" value={color} aria-label="펜 색 직접 고르기" data-testid="ink-color-input" onChange={(e) => { setTool('pen'); setColor(e.target.value); }}
           style={{ position: 'absolute', inset: 0, opacity: 0, width: '100%', height: '100%', cursor: 'pointer' }} />
       </label>
-      <span role="group" aria-label="굵기" style={{ display: 'inline-flex', gap: 2, flex: 'none' }}>
+      <span role="group" aria-label="굵기" style={{ display: 'inline-flex', gap: 2, flex: 'none', marginLeft: 3 }}>
         {PEN_SIZES.map((n, i) => (
           <button key={n} type="button" className={s.chip} aria-pressed={Math.abs(size - n) < 0.01} aria-label={`굵기 ${PEN_SIZE_LABEL[i]}`} title={PEN_SIZE_LABEL[i]}
-            onClick={() => setSize(n)} data-testid={`ink-size-${i}`} style={{ ...btn, minWidth: 30, padding: 0 }}>
+            onClick={() => setSize(n)} data-testid={`ink-size-${i}`} style={{ ...btn, minWidth: 27, padding: 0 }}>
             <span aria-hidden="true" style={{ width: 4 + i * 4, height: 4 + i * 4, borderRadius: 99, background: 'currentColor', display: 'block' }} />
           </button>
         ))}
       </span>
+      {done}
+    </div>
+    <div className={s.chips} data-testid="ink-row2" style={{ alignItems: 'center', padding: 0, flexWrap: 'wrap', overflow: 'visible' }}>
       <button type="button" className={s.chip} aria-pressed={tool === 'hl'} onClick={() => setTool('hl')} style={btn} data-testid="ink-hl">🖍 형광펜</button>
       <button type="button" className={s.chip} aria-pressed={tool === 'eraser' && eraseMode === 'stroke'} onClick={() => { setTool('eraser'); setEraseMode('stroke'); }} style={btn} data-testid="ink-eraser" title="닿은 획을 통째로 지움">지우개(획)</button>
       <button type="button" className={s.chip} aria-pressed={tool === 'eraser' && eraseMode === 'part'} onClick={() => { setTool('eraser'); setEraseMode('part'); }} style={btn} data-testid="ink-eraser-part" title="지우개가 지나간 부분만 지움">지우개(부분)</button>
@@ -129,6 +134,7 @@ export function InkToolbar({ tool, setTool, color, setColor, size, setSize, fing
         ✋ 손가락
       </button>
       {extra}
+    </div>
     </div>
   );
 }

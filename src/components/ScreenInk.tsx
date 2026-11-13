@@ -62,10 +62,8 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
           <div className={s.card} style={{ padding: '6px 8px', boxShadow: '0 6px 24px rgb(0 0 0 / 18%)', maxWidth: 'min(740px, calc(100vw - 24px))' }}>
             <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} size={size} setSize={setSize} fingerDraw={finger} setFingerDraw={setFinger}
               onUndo={note.undo} onRedo={note.redo} canUndo={note.canUndo} canRedo={note.canRedo} eraseMode={eraseMode} setEraseMode={setEraseMode} onClear={note.clear}
-              extra={<>
-                <button type="button" className={s.chip} onClick={() => void pdf()} disabled={busy} style={{ flex: 'none' }} data-testid="ink-pdf">{busy ? '만드는 중…' : '📄 PDF'}</button>
-                <button type="button" className={s.chip} aria-pressed="true" onClick={() => setOn(false)} style={{ flex: 'none' }} data-testid="ink-done">완료</button>
-              </>} />
+              extra={<button type="button" className={s.chip} onClick={() => void pdf()} disabled={busy} style={{ flex: 'none' }} data-testid="ink-pdf">{busy ? '만드는 중…' : '📄 PDF'}</button>}
+              done={<button type="button" className={s.chip} aria-pressed="true" onClick={() => setOn(false)} style={{ flex: 'none', marginLeft: 'auto' }} data-testid="ink-done">완료</button>} />
           </div>
         ) : (
           <div className={s.row} style={{ gap: 6 }}>
