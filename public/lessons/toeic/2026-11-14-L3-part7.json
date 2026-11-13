@@ -1,0 +1,1780 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-14-L3-part7",
+  "date": "2026-11-14",
+  "level": 3,
+  "title": "Delayed Oven Shipment",
+  "titleKo": "오븐 배송 지연 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 7",
+    "이메일",
+    "주문·배송"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 216,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "받는 사람: 마르코 벨리니"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "보낸 사람: 그레이스 린드크비스트, 할보슨 키친 서플라이"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 4월 9일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 4월 2일 주문 건"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "벨리니 씨께,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "하버 가에 여시는 새 식당을 위해 업소용 오븐 두 대와 스테인리스 조리대 하나를 최근 주문해 주셔서 감사합니다. 유감스럽게도 오븐이 처음 약속드린 대로 4월 15일에 도착하지 못한다는 것을 알려 드리려고 이 글을 씁니다. 제조사에서 핵심 전기 부품이 부족해져 생산이 일시 중단되었습니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "현재 오븐은 4월 24일까지 출고될 것으로 예상되며, 그러면 그로부터 약 3일 뒤에 도착할 것입니다. 하지만 조리대는 이미 재고가 있어 원래 날짜에 배송할 수 있습니다. 세 품목을 한꺼번에 받기를 원하시면 알려 주십시오. 그에 맞춰 배송 일정을 조정하겠습니다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s12",
+        "s13",
+        "s14"
+      ],
+      "ko": "개업 준비 중이신 것을 알기에 대안을 하나 제안드리고자 합니다. 주문하신 오븐이 도착할 때까지 저희 전시장의 더 작은 모델을 무료로 빌려 드릴 수 있습니다. 저희 기술자가 설치해 드리고, 주문하신 제품이 배송되면 수거해 가겠습니다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s15",
+        "s16"
+      ],
+      "ko": "불편을 드려 죄송합니다. 출고 날짜가 확정되는 대로 다시 연락드리겠습니다."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s17"
+      ],
+      "ko": "드림,"
+    },
+    {
+      "id": "p11",
+      "sentenceIds": [
+        "s18"
+      ],
+      "ko": "그레이스 린드크비스트"
+    },
+    {
+      "id": "p12",
+      "sentenceIds": [
+        "s19"
+      ],
+      "ko": "할보슨 키친 서플라이 고객 지원팀"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: Marco Bellini",
+      "ko": "받는 사람: 마르코 벨리니",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Grace Lindqvist, Halvorsen Kitchen Supply",
+      "ko": "보낸 사람: 그레이스 린드크비스트, 할보슨 키친 서플라이",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: April 9",
+      "ko": "날짜: 4월 9일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: Your order of April 2",
+      "ko": "제목: 4월 2일 주문 건",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Dear Mr. Bellini,",
+      "ko": "벨리니 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "Thank you for your recent order of two commercial ovens and a stainless steel prep table for your new restaurant on Harbor Street.",
+      "ko": "하버 가에 여시는 새 식당을 위해 업소용 오븐 두 대와 스테인리스 조리대 하나를 최근 주문해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p6",
+      "en": "Unfortunately, I am writing to let you know that the ovens will not arrive on April 15 as originally promised.",
+      "ko": "유감스럽게도 오븐이 처음 약속드린 대로 4월 15일에 도착하지 못한다는 것을 알려 드리려고 이 글을 씁니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p6",
+      "en": "Our manufacturer has experienced a shortage of a key electrical component, and production has been temporarily suspended.",
+      "ko": "제조사에서 핵심 전기 부품이 부족해져 생산이 일시 중단되었습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p7",
+      "en": "We now expect the ovens to ship by April 24, which means they should reach you about three days later.",
+      "ko": "현재 오븐은 4월 24일까지 출고될 것으로 예상되며, 그러면 그로부터 약 3일 뒤에 도착할 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p7",
+      "en": "The prep table, however, is already in stock and can be delivered on the original date.",
+      "ko": "하지만 조리대는 이미 재고가 있어 원래 날짜에 배송할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p7",
+      "en": "If you would prefer to receive all three items together, please let me know, and I will adjust the delivery schedule accordingly.",
+      "ko": "세 품목을 한꺼번에 받기를 원하시면 알려 주십시오. 그에 맞춰 배송 일정을 조정하겠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p8",
+      "en": "We understand that you are preparing for your grand opening, so we would like to offer you an alternative.",
+      "ko": "개업 준비 중이신 것을 알기에 대안을 하나 제안드리고자 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p8",
+      "en": "Until your ovens arrive, we can lend you a smaller model from our showroom at no cost.",
+      "ko": "주문하신 오븐이 도착할 때까지 저희 전시장의 더 작은 모델을 무료로 빌려 드릴 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "Our technicians would install it and remove it once your order is delivered.",
+      "ko": "저희 기술자가 설치해 드리고, 주문하신 제품이 배송되면 수거해 가겠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p9",
+      "en": "Please accept our apologies for this inconvenience.",
+      "ko": "불편을 드려 죄송합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p9",
+      "en": "I will contact you again as soon as the shipping date is confirmed.",
+      "ko": "출고 날짜가 확정되는 대로 다시 연락드리겠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s17",
+      "paragraphId": "p10",
+      "en": "Sincerely,",
+      "ko": "드림,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s18",
+      "paragraphId": "p11",
+      "en": "Grace Lindqvist",
+      "ko": "그레이스 린드크비스트",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s19",
+      "paragraphId": "p12",
+      "en": "Customer Support, Halvorsen Kitchen Supply",
+      "ko": "할보슨 키친 서플라이 고객 지원팀",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "shortage",
+      "pos": "noun",
+      "meaningKo": "부족, 품귀",
+      "ipa": "/ˈʃɔːrtɪdʒ/",
+      "synonyms": [
+        "lack",
+        "scarcity",
+        "deficiency"
+      ],
+      "matchText": "shortage",
+      "sentenceId": "s8",
+      "example": {
+        "en": "A shortage of drivers has slowed deliveries across the region.",
+        "ko": "운전기사 부족으로 지역 전체의 배송이 느려졌다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "suspend",
+      "pos": "verb",
+      "meaningKo": "(일시) 중단하다",
+      "ipa": "/səˈspɛnd/",
+      "synonyms": [
+        "halt",
+        "pause",
+        "stop"
+      ],
+      "matchText": "suspended",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Train service was suspended because of the storm.",
+        "ko": "폭풍 때문에 열차 운행이 중단되었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in stock",
+      "pos": "phrase",
+      "meaningKo": "재고가 있는",
+      "ipa": "/ɪn ˈstɑːk/",
+      "synonyms": [
+        "available",
+        "on hand"
+      ],
+      "matchText": "in stock",
+      "sentenceId": "s10",
+      "example": {
+        "en": "We will ship the item as soon as it is back in stock.",
+        "ko": "재고가 다시 들어오는 대로 상품을 발송하겠습니다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "accordingly",
+      "pos": "adverb",
+      "meaningKo": "그에 맞춰, 그에 따라",
+      "ipa": "/əˈkɔːrdɪŋli/",
+      "synonyms": [
+        "correspondingly",
+        "appropriately"
+      ],
+      "matchText": "accordingly",
+      "sentenceId": "s11",
+      "example": {
+        "en": "The meeting moved to Friday, so please plan accordingly.",
+        "ko": "회의가 금요일로 옮겨졌으니 그에 맞춰 계획해 주세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "at no cost",
+      "pos": "phrase",
+      "meaningKo": "무료로",
+      "ipa": "/æt noʊ ˈkɔːst/",
+      "synonyms": [
+        "free of charge",
+        "for free",
+        "at no charge"
+      ],
+      "matchText": "at no cost",
+      "sentenceId": "s13",
+      "example": {
+        "en": "Members can attend the workshop at no cost.",
+        "ko": "회원은 워크숍에 무료로 참석할 수 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "now",
+          "role": "M",
+          "ko": "현재"
+        },
+        {
+          "text": "expect",
+          "role": "V",
+          "ko": "예상한다"
+        },
+        {
+          "text": "the ovens",
+          "role": "O",
+          "ko": "오븐이"
+        },
+        {
+          "text": "to ship by April 24,",
+          "role": "C",
+          "ko": "4월 24일까지 출고되기를"
+        },
+        {
+          "text": "which",
+          "role": "S",
+          "ko": "그리고 그것은",
+          "sub": true
+        },
+        {
+          "text": "means",
+          "role": "V",
+          "ko": "의미한다",
+          "sub": true
+        },
+        {
+          "text": "they should reach you",
+          "role": "O",
+          "ko": "여러분에게 도착할 것이라는 것을",
+          "sub": true
+        },
+        {
+          "text": "about three days later.",
+          "role": "M",
+          "ko": "약 3일 뒤에",
+          "sub": true
+        }
+      ],
+      "skeleton": "We expect the ovens to ship, which means ~",
+      "explanation": "expect + 목적어 + to부정사(5형식). 콤마 뒤 which는 앞 절 전체(4월 24일 출고)를 받는 계속적 용법 관계대명사."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "If",
+          "role": "CONJ",
+          "ko": "만약",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "당신이",
+          "sub": true
+        },
+        {
+          "text": "would prefer",
+          "role": "V",
+          "ko": "선호하신다면",
+          "sub": true
+        },
+        {
+          "text": "to receive all three items together,",
+          "role": "O",
+          "ko": "세 품목을 함께 받는 것을",
+          "sub": true
+        },
+        {
+          "text": "please let",
+          "role": "V",
+          "ko": "~하게 해 주십시오"
+        },
+        {
+          "text": "me",
+          "role": "O",
+          "ko": "제가"
+        },
+        {
+          "text": "know,",
+          "role": "C",
+          "ko": "알도록"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그러면"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "ko": "저는"
+        },
+        {
+          "text": "will adjust",
+          "role": "V",
+          "ko": "조정하겠다"
+        },
+        {
+          "text": "the delivery schedule",
+          "role": "O",
+          "ko": "배송 일정을"
+        },
+        {
+          "text": "accordingly.",
+          "role": "M",
+          "ko": "그에 맞춰"
+        }
+      ],
+      "skeleton": "If S V, please let me know, and I will adjust O",
+      "explanation": "조건절 + 명령문(let + 목적어 + 동사원형) + and로 이어진 평서문. would prefer는 want를 공손하게 말한 표현."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료 수동태 has been p.p.",
+      "tags": [
+        "시제",
+        "수동태"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "has been temporarily suspended"
+      ],
+      "explanation": "생산은 '중단되는' 대상이라 수동태이고, 과거에 중단되어 지금도 멈춰 있다는 뜻이라 현재완료. 부사(temporarily)는 been과 p.p. 사이에 들어간다.",
+      "example": {
+        "en": "The event has been postponed until further notice.",
+        "ko": "행사는 추후 공지가 있을 때까지 연기되었다."
+      },
+      "note": "has been + 부사 + p.p. 형태에서 빈칸이면 부사 자리."
+    },
+    {
+      "id": "g2",
+      "title": "앞 절 전체를 받는 , which",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        ", which means"
+      ],
+      "explanation": "콤마 뒤 which는 바로 앞 명사가 아니라 앞 문장 내용 전체(4월 24일까지 출고된다는 것)를 가리킬 수 있다. 이때 동사는 단수(means).",
+      "example": {
+        "en": "The flight was canceled, which caused a lot of confusion.",
+        "ko": "항공편이 취소되었고, 그 때문에 큰 혼란이 생겼다."
+      },
+      "note": "콤마 뒤 관계사 자리에 that은 쓸 수 없다."
+    },
+    {
+      "id": "g3",
+      "title": "시간 접속사 Until·as soon as + 현재 시제",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s13",
+      "highlight": [
+        "Until your ovens arrive"
+      ],
+      "explanation": "Until(~할 때까지), as soon as(~하자마자) 같은 시간 접속사 뒤에서는 미래의 일도 현재 시제로 쓴다. arrive, is confirmed가 그 예.",
+      "example": {
+        "en": "Please wait here until your name is called.",
+        "ko": "이름이 불릴 때까지 여기서 기다려 주세요."
+      },
+      "note": "시간 부사절 안에 will이 있는 보기는 오답."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "ipa": "/tuː/"
+    },
+    "marco": {
+      "lemma": "Marco",
+      "pos": "proper-noun",
+      "ko": "마르코 (사람 이름)",
+      "ipa": "/ˈmɑːrkoʊ/"
+    },
+    "bellini": {
+      "lemma": "Bellini",
+      "pos": "proper-noun",
+      "ko": "벨리니 (사람 성)",
+      "ipa": "/bɛˈliːni/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "ipa": "/frʌm/"
+    },
+    "grace": {
+      "lemma": "Grace",
+      "pos": "proper-noun",
+      "ko": "그레이스 (사람 이름)",
+      "ipa": "/ɡreɪs/"
+    },
+    "lindqvist": {
+      "lemma": "Lindqvist",
+      "pos": "proper-noun",
+      "ko": "린드크비스트 (사람 성)",
+      "ipa": null
+    },
+    "halvorsen": {
+      "lemma": "Halvorsen",
+      "pos": "proper-noun",
+      "ko": "할보슨 (회사 이름)",
+      "ipa": "/hælˈvɔːrsən/"
+    },
+    "kitchen": {
+      "lemma": "kitchen",
+      "pos": "noun",
+      "ko": "주방",
+      "synonyms": [
+        "cookhouse",
+        "galley"
+      ],
+      "ipa": "/ˈkɪtʃən/"
+    },
+    "supply": {
+      "lemma": "supply",
+      "pos": "noun",
+      "ko": "용품, 공급 (회사 이름의 일부)",
+      "synonyms": [
+        "provision",
+        "equipment"
+      ],
+      "ipa": "/səˈplaɪ/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "synonyms": [
+        "day"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "april": {
+      "lemma": "April",
+      "pos": "proper-noun",
+      "ko": "4월",
+      "ipa": "/ˈeɪprəl/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "주문",
+      "synonyms": [
+        "purchase",
+        "request"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의",
+      "ipa": "/ʌv/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "ipa": "/dɪr/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 호칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 동안, ~에 대해",
+      "ipa": "/fɔːr/"
+    },
+    "recent": {
+      "lemma": "recent",
+      "pos": "adjective",
+      "ko": "최근의",
+      "synonyms": [
+        "latest",
+        "new"
+      ],
+      "ipa": "/ˈriːsənt/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두 개의",
+      "ipa": "/tuː/"
+    },
+    "commercial": {
+      "lemma": "commercial",
+      "pos": "adjective",
+      "ko": "업소용의, 상업용의",
+      "synonyms": [
+        "industrial",
+        "professional"
+      ],
+      "ipa": "/kəˈmɜːrʃəl/"
+    },
+    "ovens": {
+      "lemma": "oven",
+      "pos": "noun",
+      "ko": "오븐",
+      "form": "복수형",
+      "synonyms": [
+        "stove",
+        "cooker"
+      ],
+      "ipa": "/ˈʌvənz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "stainless": {
+      "lemma": "stainless",
+      "pos": "adjective",
+      "ko": "녹슬지 않는 (stainless steel: 스테인리스강)",
+      "synonyms": [
+        "rustproof"
+      ],
+      "ipa": "/ˈsteɪnləs/"
+    },
+    "steel": {
+      "lemma": "steel",
+      "pos": "noun",
+      "ko": "강철",
+      "synonyms": [
+        "metal"
+      ],
+      "ipa": "/stiːl/"
+    },
+    "prep": {
+      "lemma": "prep",
+      "pos": "noun",
+      "ko": "(음식) 준비 (prep table: 조리대)",
+      "form": "줄임말",
+      "synonyms": [
+        "preparation"
+      ],
+      "ipa": "/prɛp/"
+    },
+    "table": {
+      "lemma": "table",
+      "pos": "noun",
+      "ko": "테이블, 대",
+      "synonyms": [
+        "counter",
+        "bench"
+      ],
+      "ipa": "/ˈteɪbəl/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "synonyms": [
+        "newly opened",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "restaurant": {
+      "lemma": "restaurant",
+      "pos": "noun",
+      "ko": "식당",
+      "synonyms": [
+        "eatery",
+        "dining establishment"
+      ],
+      "ipa": "/ˈrɛstəˌrɑːnt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·층·장소)",
+      "ipa": "/ɑːn/"
+    },
+    "harbor": {
+      "lemma": "Harbor",
+      "pos": "proper-noun",
+      "ko": "하버 (거리 이름의 일부)",
+      "ipa": "/ˈhɑːrbər/"
+    },
+    "street": {
+      "lemma": "street",
+      "pos": "noun",
+      "ko": "거리, ~가",
+      "synonyms": [
+        "road",
+        "avenue"
+      ],
+      "ipa": "/striːt/"
+    },
+    "unfortunately": {
+      "lemma": "unfortunately",
+      "pos": "adverb",
+      "ko": "유감스럽게도",
+      "synonyms": [
+        "regrettably",
+        "sadly"
+      ],
+      "ipa": "/ənˈfɔːrtʃənətli/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 내가",
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형을 만드는 조동사)",
+      "form": "1인칭 현재형",
+      "ipa": "/æm/"
+    },
+    "writing": {
+      "lemma": "write",
+      "pos": "verb",
+      "ko": "(글을) 쓰다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "compose"
+      ],
+      "ipa": "/ˈraɪtɪŋ/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다 (let me know: 알려 주다)",
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "synonyms": [
+        "be aware",
+        "understand"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)",
+      "ipa": "/ðæt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "ipa": "/wɪl/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다 (부정)",
+      "ipa": "/nɑːt/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "synonyms": [
+        "come",
+        "be delivered"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~대로, ~처럼 (as soon as: ~하자마자)",
+      "ipa": "/æz/"
+    },
+    "originally": {
+      "lemma": "originally",
+      "pos": "adverb",
+      "ko": "원래, 처음에",
+      "synonyms": [
+        "initially",
+        "at first"
+      ],
+      "ipa": "/əˈrɪdʒənəli/"
+    },
+    "promised": {
+      "lemma": "promise",
+      "pos": "verb",
+      "ko": "약속하다",
+      "form": "과거분사",
+      "synonyms": [
+        "guarantee",
+        "pledge"
+      ],
+      "ipa": "/ˈprɑːməst/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "we의 소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "manufacturer": {
+      "lemma": "manufacturer",
+      "pos": "noun",
+      "ko": "제조사",
+      "synonyms": [
+        "maker",
+        "producer"
+      ],
+      "ipa": "/ˌmænjəˈfæktʃərər/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료를 만드는 조동사)",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "experienced": {
+      "lemma": "experience",
+      "pos": "verb",
+      "ko": "겪다",
+      "form": "과거분사",
+      "synonyms": [
+        "undergo",
+        "face",
+        "encounter"
+      ],
+      "ipa": "/ɪkˈspɪriənst/"
+    },
+    "shortage": {
+      "lemma": "shortage",
+      "pos": "noun",
+      "ko": "부족, 품귀",
+      "synonyms": [
+        "lack",
+        "scarcity"
+      ],
+      "ipa": "/ˈʃɔːrtədʒ/"
+    },
+    "key": {
+      "lemma": "key",
+      "pos": "adjective",
+      "ko": "핵심적인",
+      "synonyms": [
+        "essential",
+        "crucial",
+        "main"
+      ],
+      "ipa": "/kiː/"
+    },
+    "electrical": {
+      "lemma": "electrical",
+      "pos": "adjective",
+      "ko": "전기의",
+      "synonyms": [
+        "electric"
+      ],
+      "ipa": "/ɪˈlɛktrɪkəl/"
+    },
+    "component": {
+      "lemma": "component",
+      "pos": "noun",
+      "ko": "부품",
+      "synonyms": [
+        "part",
+        "element"
+      ],
+      "ipa": "/kəmˈpoʊnənt/"
+    },
+    "production": {
+      "lemma": "production",
+      "pos": "noun",
+      "ko": "생산",
+      "synonyms": [
+        "manufacturing",
+        "output"
+      ],
+      "ipa": "/prəˈdʌkʃən/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(완료 수동태를 만드는 be의 과거분사)",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "temporarily": {
+      "lemma": "temporarily",
+      "pos": "adverb",
+      "ko": "일시적으로",
+      "synonyms": [
+        "for now",
+        "briefly"
+      ],
+      "ipa": "/ˌtɛmpəˈrɛrəli/"
+    },
+    "suspended": {
+      "lemma": "suspend",
+      "pos": "verb",
+      "ko": "(일시) 중단하다",
+      "form": "과거분사",
+      "synonyms": [
+        "halt",
+        "pause"
+      ],
+      "ipa": "/səˈspɛndɪd/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 우리는",
+      "ipa": "/wiː/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금, 현재",
+      "synonyms": [
+        "currently",
+        "at present"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "expect": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다",
+      "synonyms": [
+        "anticipate",
+        "predict"
+      ],
+      "ipa": "/ɪkˈspɛkt/"
+    },
+    "ship": {
+      "lemma": "ship",
+      "pos": "verb",
+      "ko": "출고되다, 발송되다",
+      "synonyms": [
+        "be sent",
+        "be dispatched"
+      ],
+      "ipa": "/ʃɪp/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; ~까지",
+      "ipa": "/baɪ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그리고 그것은 (관계대명사)",
+      "ipa": "/wɪtʃ/"
+    },
+    "means": {
+      "lemma": "mean",
+      "pos": "verb",
+      "ko": "의미하다, ~라는 뜻이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "indicate",
+        "signify"
+      ],
+      "ipa": "/miːnz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "ipa": "/ðeɪ/"
+    },
+    "should": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (예상)",
+      "ipa": "/ʃʊd/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "verb",
+      "ko": "~에 도착하다, 닿다",
+      "synonyms": [
+        "get to",
+        "arrive at"
+      ],
+      "ipa": "/riːtʃ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "약, 대략; ~에 관해",
+      "ipa": "/əˈbaʊt/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "ipa": "/θriː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "later": {
+      "lemma": "later",
+      "pos": "adverb",
+      "ko": "뒤에, 나중에",
+      "synonyms": [
+        "afterward",
+        "after"
+      ],
+      "ipa": "/ˈleɪtər/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만, 그러나",
+      "synonyms": [
+        "nevertheless",
+        "on the other hand"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미",
+      "synonyms": [
+        "by now",
+        "previously"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "stock": {
+      "lemma": "stock",
+      "pos": "noun",
+      "ko": "재고 (in stock: 재고가 있는)",
+      "synonyms": [
+        "inventory",
+        "supply"
+      ],
+      "ipa": "/stɑːk/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태를 만드는 조동사)",
+      "ipa": "/biː/"
+    },
+    "delivered": {
+      "lemma": "deliver",
+      "pos": "verb",
+      "ko": "배달하다, 배송하다",
+      "form": "과거분사",
+      "synonyms": [
+        "bring",
+        "ship",
+        "send"
+      ],
+      "ipa": "/dɪˈlɪvərd/"
+    },
+    "original": {
+      "lemma": "original",
+      "pos": "adjective",
+      "ko": "원래의, 처음의",
+      "synonyms": [
+        "initial",
+        "first"
+      ],
+      "ipa": "/əˈrɪdʒənəl/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면 (if only: ~하기만 하면)",
+      "ipa": "/ɪf/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (과거 시점에서 본 미래·추측)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "prefer": {
+      "lemma": "prefer",
+      "pos": "verb",
+      "ko": "선호하다, 더 원하다",
+      "synonyms": [
+        "favor",
+        "choose"
+      ],
+      "ipa": "/prəˈfɜːr/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "synonyms": [
+        "get",
+        "accept"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 전부의",
+      "ipa": "/ɔːl/"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "품목, 물품",
+      "form": "복수형",
+      "synonyms": [
+        "product",
+        "article"
+      ],
+      "ipa": "/ˈaɪtəmz/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께, 한꺼번에",
+      "synonyms": [
+        "at once",
+        "at the same time"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주십시오 (공손한 요청)",
+      "ipa": "/pliːz/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "adjust": {
+      "lemma": "adjust",
+      "pos": "verb",
+      "ko": "조정하다",
+      "synonyms": [
+        "change",
+        "modify",
+        "rearrange"
+      ],
+      "ipa": "/əˈdʒʌst/"
+    },
+    "delivery": {
+      "lemma": "delivery",
+      "pos": "noun",
+      "ko": "배송, 배달",
+      "synonyms": [
+        "shipment",
+        "dispatch"
+      ],
+      "ipa": "/dɪˈlɪvəri/"
+    },
+    "schedule": {
+      "lemma": "schedule",
+      "pos": "noun",
+      "ko": "일정",
+      "synonyms": [
+        "timetable",
+        "plan"
+      ],
+      "ipa": "/ˈskɛdʒʊl/"
+    },
+    "accordingly": {
+      "lemma": "accordingly",
+      "pos": "adverb",
+      "ko": "그에 맞춰",
+      "synonyms": [
+        "correspondingly",
+        "appropriately"
+      ],
+      "ipa": "/əˈkɔːrdɪŋli/"
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "알다, 이해하다",
+      "synonyms": [
+        "realize",
+        "recognize"
+      ],
+      "ipa": "/ˌʌndərˈstænd/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형을 만드는 조동사)",
+      "form": "현재형(2인칭)",
+      "ipa": "/ɑːr/"
+    },
+    "preparing": {
+      "lemma": "prepare",
+      "pos": "verb",
+      "ko": "준비하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "get ready",
+        "plan"
+      ],
+      "ipa": "/priˈpɛrɪŋ/"
+    },
+    "grand": {
+      "lemma": "grand",
+      "pos": "adjective",
+      "ko": "성대한 (grand opening: 개업, 개장)",
+      "synonyms": [
+        "big",
+        "official"
+      ],
+      "ipa": "/ɡrænd/"
+    },
+    "opening": {
+      "lemma": "opening",
+      "pos": "noun",
+      "ko": "개점, 개업",
+      "synonyms": [
+        "launch",
+        "debut"
+      ],
+      "ipa": "/ˈoʊpənɪŋ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "ipa": "/soʊ/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "원하다 (would like to: ~하고 싶다)",
+      "synonyms": [
+        "wish",
+        "want"
+      ],
+      "ipa": "/laɪk/"
+    },
+    "offer": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제안하다, 제공하다",
+      "synonyms": [
+        "propose",
+        "provide"
+      ],
+      "ipa": "/ˈɔːfər/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)",
+      "ipa": "/æn/"
+    },
+    "alternative": {
+      "lemma": "alternative",
+      "pos": "noun",
+      "ko": "대안",
+      "synonyms": [
+        "option",
+        "substitute"
+      ],
+      "ipa": "/ɔlˈtɜːrnətɪv/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "ipa": "/ənˈtɪl/"
+    },
+    "lend": {
+      "lemma": "lend",
+      "pos": "verb",
+      "ko": "빌려주다",
+      "synonyms": [
+        "loan",
+        "provide temporarily"
+      ],
+      "ipa": "/lɛnd/"
+    },
+    "smaller": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": "비교급",
+      "synonyms": [
+        "more compact",
+        "littler"
+      ],
+      "ipa": "/ˈsmɔːlər/"
+    },
+    "model": {
+      "lemma": "model",
+      "pos": "noun",
+      "ko": "모델, 제품 종류",
+      "synonyms": [
+        "version",
+        "type"
+      ],
+      "ipa": "/ˈmɑːdəl/"
+    },
+    "showroom": {
+      "lemma": "showroom",
+      "pos": "noun",
+      "ko": "전시장, 쇼룸",
+      "synonyms": [
+        "display room",
+        "exhibition hall"
+      ],
+      "ipa": "/ˈʃoʊˌrʊm/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "ipa": "/æt/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는 (at no cost: 무료로)",
+      "ipa": "/noʊ/"
+    },
+    "cost": {
+      "lemma": "cost",
+      "pos": "noun",
+      "ko": "비용 (at no cost: 무료로)",
+      "synonyms": [
+        "charge",
+        "fee",
+        "price"
+      ],
+      "ipa": "/kɑːst/"
+    },
+    "technicians": {
+      "lemma": "technician",
+      "pos": "noun",
+      "ko": "기술자",
+      "form": "복수형",
+      "synonyms": [
+        "engineer",
+        "specialist"
+      ],
+      "ipa": "/tɛkˈnɪʃənz/"
+    },
+    "install": {
+      "lemma": "install",
+      "pos": "verb",
+      "ko": "설치하다",
+      "synonyms": [
+        "set up",
+        "put in"
+      ],
+      "ipa": "/ˌɪnˈstɔːl/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것, 그것을",
+      "ipa": "/ɪt/"
+    },
+    "remove": {
+      "lemma": "remove",
+      "pos": "verb",
+      "ko": "치우다, 가져가다",
+      "synonyms": [
+        "take away",
+        "take out"
+      ],
+      "ipa": "/riˈmuːv/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "conjunction",
+      "ko": "일단 ~하면, ~하자마자",
+      "ipa": "/wʌns/"
+    },
+    "accept": {
+      "lemma": "accept",
+      "pos": "verb",
+      "ko": "받아들이다",
+      "synonyms": [
+        "receive",
+        "take"
+      ],
+      "ipa": "/ækˈsɛpt/"
+    },
+    "apologies": {
+      "lemma": "apology",
+      "pos": "noun",
+      "ko": "사과",
+      "form": "복수형",
+      "synonyms": [
+        "regret",
+        "excuse"
+      ],
+      "ipa": "/əˈpɑːləˌdʒiːz/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이, 이번",
+      "ipa": "/ðɪs/"
+    },
+    "inconvenience": {
+      "lemma": "inconvenience",
+      "pos": "noun",
+      "ko": "불편",
+      "synonyms": [
+        "trouble",
+        "disruption"
+      ],
+      "ipa": "/ˌɪnkənˈviːnjəns/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧 (as soon as: ~하자마자)",
+      "synonyms": [
+        "shortly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "shipping": {
+      "lemma": "shipping",
+      "pos": "noun",
+      "ko": "출고, 발송",
+      "synonyms": [
+        "dispatch",
+        "delivery"
+      ],
+      "ipa": "/ˈʃɪpɪŋ/"
+    },
+    "confirmed": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확정하다, 확인하다",
+      "form": "과거분사",
+      "synonyms": [
+        "finalize",
+        "verify"
+      ],
+      "ipa": "/kənˈfɜːrmd/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "~ 드림 (편지 맺음말)",
+      "synonyms": [
+        "truly"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "support": {
+      "lemma": "support",
+      "pos": "noun",
+      "ko": "지원(팀)",
+      "synonyms": [
+        "service",
+        "help",
+        "assistance"
+      ],
+      "ipa": "/səˈpɔːrt/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "Why did Ms. Lindqvist send the e-mail?",
+      "evidenceSentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To confirm that a payment has been received"
+        },
+        {
+          "key": "B",
+          "text": "To report that part of an order will be late"
+        },
+        {
+          "key": "C",
+          "text": "To promote a new line of kitchen equipment"
+        },
+        {
+          "key": "D",
+          "text": "To request information about a restaurant"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "'오븐이 약속한 4월 15일에 도착하지 못한다'(will not arrive on April 15)를 알리려고 쓴 글이다. 주문 일부(오븐)가 늦어진다고 바꿔 말한 B가 정답.",
+      "choiceNotesKo": {
+        "C": "새 제품 홍보가 아니라 이미 주문한 제품의 지연 안내다."
+      },
+      "skill": "목적 찾기"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What does Ms. Lindqvist offer to do for Mr. Bellini?",
+      "evidenceSentenceIds": [
+        "s13",
+        "s14"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Refund the cost of shipping"
+        },
+        {
+          "key": "B",
+          "text": "Upgrade his order to a larger oven"
+        },
+        {
+          "key": "C",
+          "text": "Provide a temporary replacement free of charge"
+        },
+        {
+          "key": "D",
+          "text": "Send a technician to repair his current oven"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "'오븐이 올 때까지 전시장의 더 작은 모델을 무료로 빌려준다'(lend you a smaller model ~ at no cost). lend → temporary replacement, at no cost → free of charge로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "B": "빌려주는 것은 더 작은(smaller) 모델이다.",
+        "D": "기술자는 수리가 아니라 대여 제품을 설치·수거하러 온다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "What is suggested about Mr. Bellini?",
+      "evidenceSentenceIds": [
+        "s6",
+        "s12"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "His restaurant has not opened yet."
+        },
+        {
+          "key": "B",
+          "text": "He has placed orders with Halvorsen before."
+        },
+        {
+          "key": "C",
+          "text": "He wants all of the items delivered together."
+        },
+        {
+          "key": "D",
+          "text": "He recently visited the Halvorsen showroom."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'새 식당(your new restaurant)', '개업을 준비 중(preparing for your grand opening)'이라는 말에서 아직 문을 열지 않았음을 알 수 있다.",
+      "choiceNotesKo": {
+        "C": "함께 받고 싶으면 알려 달라는 선택지를 제시했을 뿐, 그가 원한다는 말은 없다.",
+        "B": "이전 주문 이력은 나오지 않는다."
+      },
+      "skill": "추론"
+    }
+  ]
+}
