@@ -27,10 +27,26 @@ function headerCanvas(widthPx: number, title: string, sub: string): HTMLCanvasEl
 }
 
 /** 세로로 긴 캔버스들을 A4 페이지에 이어 붙인다(넘치면 다음 장) */
-function toPdf(jsPDF: typeof import('jspdf').jsPDF, blocks: HTMLCanvasElement[]) {
+export interface MadePdf { blob: Blob; pages: string[] }
+
+/** 세로로 긴 캔버스들을 A4 페이지에 이어 붙인다(넘치면 다음 장). 앱 안 미리보기용 페이지 그림도 같이 만든다 */
+function toPdf(jsPDF: typeof import('jspdf').jsPDF, blocks: HTMLCanvasElement[]): MadePdf {
   const doc = new jsPDF({ unit: 'mm', format: 'a4', compress: true });
   const contentW = A4.w - A4.m * 2;
   const contentH = A4.h - A4.m * 2;
+  const PX = 900 / A4.w; // 미리보기: mm → px
+  const pages: HTMLCanvasElement[] = [];
+  const newPage = () => {
+    const c = document.createElement('canvas');
+    c.width = Math.round(A4.w * PX);
+    c.height = Math.round(A4.h * PX);
+    const g = c.getContext('2d')!;
+    g.fillStyle = '#fff';
+    g.fillRect(0, 0, c.width, c.height);
+    pages.push(c);
+  };
+  newPage();
+  const addPage = () => { doc.addPage(); newPage(); };
   let y = A4.m;
   let first = true;
   for (const cv of blocks) {
@@ -38,29 +54,30 @@ function toPdf(jsPDF: typeof import('jspdf').jsPDF, blocks: HTMLCanvasElement[])
     let srcY = 0;
     while (srcY < cv.height) {
       const room = A4.m + contentH - y;
-      if (room < 15 && !first) { doc.addPage(); y = A4.m; continue; }
+      if (room < 15 && !first) { addPage(); y = A4.m; continue; }
       const sliceH = Math.min(cv.height - srcY, Math.floor(room / mmPerPx));
       const part = document.createElement('canvas');
       part.width = cv.width;
       part.height = sliceH;
       part.getContext('2d')!.drawImage(cv, 0, srcY, cv.width, sliceH, 0, 0, cv.width, sliceH);
       doc.addImage(part.toDataURL('image/jpeg', 0.92), 'JPEG', A4.m, y, contentW, sliceH * mmPerPx);
+      pages[pages.length - 1].getContext('2d')!.drawImage(part, A4.m * PX, y * PX, contentW * PX, sliceH * mmPerPx * PX);
       first = false;
       y += sliceH * mmPerPx;
       srcY += sliceH;
-      if (srcY < cv.height) { doc.addPage(); y = A4.m; }
+      if (srcY < cv.height) { addPage(); y = A4.m; }
     }
     y += 4;
   }
-  return doc.output('blob');
+  return { blob: doc.output('blob'), pages: pages.map((c) => c.toDataURL('image/jpeg', 0.85)) };
 }
 
-/** 만든 PDF 를 '준비됨' 칸에 올린다. 공유 시트는 사용자가 그 칸의 버튼을 누를 때 연다
- *  (아이패드는 PDF 를 만드는 몇 초가 지나면 공유를 거절해, 내려받기로 넘어가며 앱이 처음 화면으로 돌아가 버림) */
-type Ready = { blob: Blob; filename: string } | null;
+/** 만든 PDF 를 앱 안 PDF 보기에 띄운다. 공유는 그 화면의 버튼을 누를 때 연다
+ *  (아이패드는 PDF 를 만드는 몇 초가 지나면 공유를 거절하고, 앱 밖 PDF 보기는 닫을 때 앱이 처음부터 다시 열림) */
+type Ready = { blob: Blob; filename: string; pages: string[] } | null;
 let ready: Ready = null;
 const subs = new Set<() => void>();
-export const offerPdf = (blob: Blob, filename: string) => { ready = { blob, filename }; subs.forEach((f) => f()); };
+export const offerPdf = (pdf: MadePdf, filename: string) => { ready = { ...pdf, filename }; subs.forEach((f) => f()); };
 export const clearPdf = () => { ready = null; subs.forEach((f) => f()); };
 export const subscribePdf = (f: () => void) => { subs.add(f); return () => { subs.delete(f); }; };
 export const getReadyPdf = () => ready;
@@ -101,7 +118,7 @@ export async function deliverPdf(blob: Blob, filename: string): Promise<'shared'
 }
 
 /** 화면 PDF: el(본문 칸)을 그대로 그림으로 + 그 위에 손글씨 */
-export async function screenPdf(el: HTMLElement, strokes: InkStroke[], title: string, sub: string): Promise<Blob> {
+export async function screenPdf(el: HTMLElement, strokes: InkStroke[], title: string, sub: string): Promise<MadePdf> {
   const { jsPDF, h2i } = await libs();
   const opts = {
     pixelRatio: SCALE, backgroundColor: '#ffffff', cacheBust: true,
@@ -114,7 +131,7 @@ export async function screenPdf(el: HTMLElement, strokes: InkStroke[], title: st
 }
 
 /** 손글씨 필사 PDF: 문장마다 원문 + 손으로 쓴 칸 */
-export async function handwritingPdf(pages: { en: string; ko?: string; strokes: InkStroke[]; aspect: number; date?: string }[], title: string, sub: string): Promise<Blob> {
+export async function handwritingPdf(pages: { en: string; ko?: string; strokes: InkStroke[]; aspect: number; date?: string }[], title: string, sub: string): Promise<MadePdf> {
   const { jsPDF } = await libs();
   const W = 760 * SCALE;
   const blocks: HTMLCanvasElement[] = [headerCanvas(W, title, sub)];

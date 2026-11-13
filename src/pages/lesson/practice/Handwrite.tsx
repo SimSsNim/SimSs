@@ -44,8 +44,8 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
     if (!pages.length) return toast('아직 손으로 쓴 문장이 없어요');
     setBusy(true);
     try {
-      const blob = await handwritingPdf(pages, `${lesson.title} — 손글씨 필사`, `${formatKo(lesson.date)} · 레벨 ${lesson.level} · ${pages.length}/${sents.length}문장`);
-      offerPdf(blob, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-손글씨.pdf`);
+      const made = await handwritingPdf(pages, `${lesson.title} — 손글씨 필사`, `${formatKo(lesson.date)} · 레벨 ${lesson.level} · ${pages.length}/${sents.length}문장`);
+      offerPdf(made, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-손글씨.pdf`);
     } catch (e) {
       toast(`PDF를 만들지 못했어요: ${String(e)}`);
     } finally {

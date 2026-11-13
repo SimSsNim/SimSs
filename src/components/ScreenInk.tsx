@@ -34,8 +34,8 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
     if (!box.current) return;
     setBusy(true);
     try {
-      const blob = await screenPdf(box.current, note.strokes, lesson.title, `${tabLabel} · ${formatKo(lesson.date)} · 레벨 ${lesson.level}`);
-      offerPdf(blob, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-${tab}.pdf`);
+      const made = await screenPdf(box.current, note.strokes, lesson.title, `${tabLabel} · ${formatKo(lesson.date)} · 레벨 ${lesson.level}`);
+      offerPdf(made, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-${tab}.pdf`);
     } catch (e) {
       toast(`PDF를 만들지 못했어요: ${String(e)}`);
     } finally {

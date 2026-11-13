@@ -693,7 +693,12 @@ test('v32. 본문 + 메모를 PDF로 저장', async ({ page }) => {
   const dl = page.waitForEvent('download', { timeout: 30000 });
   await page.getByTestId('pdf-save').click();
   const d = await dl;
+  // PDF 보기는 그대로 → ✕ 로 닫으면 보던 화면
+  await expect(page.getByTestId('pdf-pages').locator('img').first()).toBeVisible();
+  await page.getByTestId('pdf-close').click();
   await expect(page.getByTestId('pdf-ready')).toHaveCount(0);
+  await expect(page).toHaveURL(/lesson\/2026-11-12-L1\/full$/);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
   expect(d.suggestedFilename()).toMatch(/\.pdf$/);
   const buf = await readFileSync(await d.path());
   expect(buf.subarray(0, 4).toString()).toBe('%PDF');
