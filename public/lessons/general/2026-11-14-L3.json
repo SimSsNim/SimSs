@@ -1,0 +1,1720 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-14-L3",
+  "date": "2026-11-14",
+  "level": 3,
+  "title": "The Selfish Giant",
+  "titleKo": "욕심쟁이 거인",
+  "genre": "fairy-tale",
+  "tags": [
+    "Oscar Wilde",
+    "fairy tale",
+    "literary fairy tale"
+  ],
+  "source": {
+    "work": "The Selfish Giant (The Happy Prince and Other Tales)",
+    "author": "Oscar Wilde",
+    "translator": null,
+    "year": 1888,
+    "edition": "Project Gutenberg #902",
+    "url": "https://www.gutenberg.org/ebooks/902",
+    "license": "public-domain",
+    "excerptNote": "첫머리 1~5단락 (\"Every afternoon, as they were coming from school…\" ~ \"…and put up a notice-board.\"). Gutenberg 텍스트의 첫 단어 'EVERY'는 장식용 대문자라 'Every'로 적음. 삽화 표시([Picture: …])는 뺐고, 문장 사이 두 칸 띄어쓰기는 한 칸으로 바꿈"
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/thehappyprinceandothertales_1411_librivox/thehappyprinceandothertales_03_wilde_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/thehappyprinceandothertales_1411_librivox/thehappyprinceandothertales_03_wilde_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-happy-prince-and-other-tales-by-oscar-wilde-2/",
+    "reader": "Phil Chenevert",
+    "durationSec": 681,
+    "startSec": 15,
+    "endSec": 105,
+    "note": "트랙 03 'The Selfish Giant'(11:20) 중 첫머리. LibriVox 안내 멘트 뒤 약 0:15~1:45 부분 (대략적인 위치). 음원 대본은 Project Gutenberg #30120(같은 책의 다른 전자판)으로, 이 발췌 부분의 단어·구두점은 #902와 같음(따옴표 모양만 다름). 아카이브 mp3 주소는 302로 실제 파일 서버에 연결됨"
+  },
+  "wordCount": 220,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "매일 오후, 학교에서 돌아오는 길에 아이들은 거인의 정원에 가서 놀곤 했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "그곳은 부드러운 초록 잔디가 깔린, 크고 아름다운 정원이었다. 잔디 위 여기저기에는 별처럼 생긴 예쁜 꽃들이 피어 있었고, 복숭아나무도 열두 그루 있었는데, 그 나무들은 봄이 되면 분홍빛과 진줏빛의 여린 꽃을 활짝 피웠고 가을이면 탐스러운 열매를 맺었다. 새들은 나무 위에 앉아 어찌나 아름답게 노래하는지, 아이들은 새소리를 듣느라 하던 놀이를 멈추곤 했다. \"우리는 여기서 정말 행복해!\" 아이들은 서로에게 이렇게 외쳤다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "어느 날 거인이 돌아왔다. 거인은 친구인 콘월의 도깨비를 만나러 가서 7년 동안 그와 함께 지냈었다. 7년이 지나자 거인은 할 말을 다 해 버렸다. 원래 말주변이 별로 없었기 때문이다. 그래서 거인은 자기 성으로 돌아가기로 마음먹었다. 집에 도착해 보니 아이들이 정원에서 놀고 있었다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s11",
+        "s12"
+      ],
+      "ko": "\"너희 여기서 뭐 하는 거냐?\" 거인이 아주 거칠고 퉁명스러운 목소리로 소리치자 아이들은 달아나 버렸다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s13",
+        "s14"
+      ],
+      "ko": "\"내 정원은 내 정원이야.\" 거인이 말했다. \"그건 누구라도 알 수 있지. 나 말고는 아무도 여기서 놀게 하지 않겠어.\" 그래서 거인은 정원 둘레에 높은 담을 쌓고 게시판을 세웠다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Every afternoon, as they were coming from school, the children used to go and play in the Giant’s garden.",
+      "ko": "매일 오후, 학교에서 돌아오는 길에 아이들은 거인의 정원에 가서 놀곤 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "It was a large lovely garden, with soft green grass.",
+      "ko": "그곳은 부드러운 초록 잔디가 깔린, 크고 아름다운 정원이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Here and there over the grass stood beautiful flowers like stars, and there were twelve peach-trees that in the spring-time broke out into delicate blossoms of pink and pearl, and in the autumn bore rich fruit.",
+      "ko": "잔디 위 여기저기에는 별처럼 생긴 예쁜 꽃들이 피어 있었고, 복숭아나무도 열두 그루 있었는데, 그 나무들은 봄이 되면 분홍빛과 진줏빛의 여린 꽃을 활짝 피웠고 가을이면 탐스러운 열매를 맺었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "The birds sat on the trees and sang so sweetly that the children used to stop their games in order to listen to them.",
+      "ko": "새들은 나무 위에 앉아 어찌나 아름답게 노래하는지, 아이들은 새소리를 듣느라 하던 놀이를 멈추곤 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "“How happy we are here!”",
+      "ko": "\"우리는 여기서 정말 행복해!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "they cried to each other.",
+      "ko": "아이들은 서로에게 이렇게 외쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "One day the Giant came back.",
+      "ko": "어느 날 거인이 돌아왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "He had been to visit his friend the Cornish ogre, and had stayed with him for seven years.",
+      "ko": "거인은 친구인 콘월의 도깨비를 만나러 가서 7년 동안 그와 함께 지냈었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "After the seven years were over he had said all that he had to say, for his conversation was limited, and he determined to return to his own castle.",
+      "ko": "7년이 지나자 거인은 할 말을 다 해 버렸다. 원래 말주변이 별로 없었기 때문이다. 그래서 거인은 자기 성으로 돌아가기로 마음먹었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p3",
+      "en": "When he arrived he saw the children playing in the garden.",
+      "ko": "집에 도착해 보니 아이들이 정원에서 놀고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "“What are you doing here?”",
+      "ko": "\"너희 여기서 뭐 하는 거냐?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p4",
+      "en": "he cried in a very gruff voice, and the children ran away.",
+      "ko": "거인이 아주 거칠고 퉁명스러운 목소리로 소리치자 아이들은 달아나 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "“My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.”",
+      "ko": "\"내 정원은 내 정원이야.\" 거인이 말했다. \"그건 누구라도 알 수 있지. 나 말고는 아무도 여기서 놀게 하지 않겠어.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p5",
+      "en": "So he built a high wall all round it, and put up a notice-board.",
+      "ko": "그래서 거인은 정원 둘레에 높은 담을 쌓고 게시판을 세웠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "used to",
+      "pos": "phrase",
+      "meaningKo": "(과거에) ~하곤 했다",
+      "ipa": "/ˈjuːst tuː/",
+      "synonyms": [
+        "would",
+        "was in the habit of"
+      ],
+      "matchText": "used to go",
+      "sentenceId": "s1",
+      "example": {
+        "en": "We used to swim in the river every summer.",
+        "ko": "우리는 여름마다 그 강에서 수영하곤 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "break out",
+      "pos": "phrasal-verb",
+      "meaningKo": "(꽃·잎이) 갑자기 피어나다; (일이) 갑자기 일어나다",
+      "ipa": "/breɪk aʊt/",
+      "synonyms": [
+        "burst out",
+        "appear suddenly"
+      ],
+      "matchText": "broke out",
+      "sentenceId": "s3",
+      "example": {
+        "en": "In April the cherry trees broke out into white flowers.",
+        "ko": "4월이 되자 벚나무에 하얀 꽃이 활짝 피었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "delicate",
+      "pos": "adjective",
+      "meaningKo": "여린, 섬세한",
+      "ipa": "/ˈdɛlɪkət/",
+      "synonyms": [
+        "fine",
+        "fragile",
+        "dainty"
+      ],
+      "matchText": "delicate",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Be careful with that cup. It is very delicate.",
+        "ko": "그 컵 조심해. 아주 깨지기 쉬워."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "determine",
+      "pos": "verb",
+      "meaningKo": "결심하다, 마음먹다",
+      "ipa": "/dɪˈtɜːrmɪn/",
+      "synonyms": [
+        "decide",
+        "resolve",
+        "make up one's mind"
+      ],
+      "matchText": "determined",
+      "sentenceId": "s9",
+      "example": {
+        "en": "She determined to finish the book by Friday.",
+        "ko": "그녀는 금요일까지 그 책을 다 읽기로 마음먹었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "gruff",
+      "pos": "adjective",
+      "meaningKo": "(목소리가) 거칠고 퉁명스러운",
+      "ipa": "/ɡrʌf/",
+      "synonyms": [
+        "rough",
+        "harsh",
+        "hoarse"
+      ],
+      "matchText": "gruff",
+      "sentenceId": "s12",
+      "example": {
+        "en": "The old man answered in a gruff voice, but he was kind.",
+        "ko": "노인은 퉁명스러운 목소리로 대답했지만 마음은 따뜻했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Here and there",
+          "role": "M",
+          "ko": "여기저기에"
+        },
+        {
+          "text": "over the grass",
+          "role": "M",
+          "ko": "잔디 위"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "ko": "서 있었다(피어 있었다)"
+        },
+        {
+          "text": "beautiful flowers like stars,",
+          "role": "S",
+          "ko": "별 같은 예쁜 꽃들이"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "there were",
+          "role": "V",
+          "ko": "~이 있었다"
+        },
+        {
+          "text": "twelve peach-trees",
+          "role": "S",
+          "ko": "복숭아나무 열두 그루가"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "(그 나무들은)",
+          "sub": true
+        },
+        {
+          "text": "in the spring-time",
+          "role": "M",
+          "ko": "봄에는",
+          "sub": true
+        },
+        {
+          "text": "broke out",
+          "role": "V",
+          "ko": "활짝 피어났다",
+          "sub": true
+        },
+        {
+          "text": "into delicate blossoms of pink and pearl,",
+          "role": "M",
+          "ko": "분홍빛과 진줏빛의 여린 꽃으로",
+          "sub": true
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고",
+          "sub": true
+        },
+        {
+          "text": "in the autumn",
+          "role": "M",
+          "ko": "가을에는",
+          "sub": true
+        },
+        {
+          "text": "bore",
+          "role": "V",
+          "ko": "맺었다",
+          "sub": true
+        },
+        {
+          "text": "rich fruit.",
+          "role": "O",
+          "ko": "탐스러운 열매를",
+          "sub": true
+        }
+      ],
+      "skeleton": "stood beautiful flowers (= beautiful flowers stood), and there were twelve peach-trees",
+      "explanation": "장소 부사구(Here and there over the grass)가 앞으로 나오면서 동사 stood가 주어 beautiful flowers보다 먼저 왔다(도치). 뒤의 'there were + 주어'는 '~이 있었다'. that은 twelve peach-trees를 꾸미는 관계대명사로, that 뒤에서 동사 두 개(broke out, bore)가 and로 이어진다. bore는 bear(열매를 맺다)의 과거형."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "The birds",
+          "role": "S",
+          "ko": "새들은"
+        },
+        {
+          "text": "sat",
+          "role": "V",
+          "ko": "앉았다"
+        },
+        {
+          "text": "on the trees",
+          "role": "M",
+          "ko": "나무 위에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "sang",
+          "role": "V",
+          "ko": "노래했다"
+        },
+        {
+          "text": "so sweetly",
+          "role": "M",
+          "ko": "너무나 아름답게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "그래서",
+          "sub": true
+        },
+        {
+          "text": "the children",
+          "role": "S",
+          "ko": "아이들은",
+          "sub": true
+        },
+        {
+          "text": "used to stop",
+          "role": "V",
+          "ko": "멈추곤 했다",
+          "sub": true
+        },
+        {
+          "text": "their games",
+          "role": "O",
+          "ko": "자기들의 놀이를",
+          "sub": true
+        },
+        {
+          "text": "in order to listen to them.",
+          "role": "M",
+          "ko": "새소리를 듣기 위해",
+          "sub": true
+        }
+      ],
+      "skeleton": "The birds sat and sang so sweetly that the children used to stop their games",
+      "explanation": "주어 The birds에 동사 두 개(sat, sang)가 and로 이어졌다. 'so + 부사 + that ~'은 '너무 ~해서 …하다'라는 결과를 나타낸다. that 뒤 절이 결과이고, in order to listen은 '듣기 위해'라는 목적을 나타내는 to부정사다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "After",
+          "role": "CONJ",
+          "ko": "~한 뒤에",
+          "sub": true
+        },
+        {
+          "text": "the seven years",
+          "role": "S",
+          "ko": "7년이",
+          "sub": true
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "ko": "~였다",
+          "sub": true
+        },
+        {
+          "text": "over",
+          "role": "C",
+          "ko": "끝난",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그는"
+        },
+        {
+          "text": "had said",
+          "role": "V",
+          "ko": "말해 버렸다"
+        },
+        {
+          "text": "all",
+          "role": "O",
+          "ko": "모든 것을"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "(~하는)",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그가",
+          "sub": true
+        },
+        {
+          "text": "had to say,",
+          "role": "V",
+          "ko": "해야 했던(할 수 있었던)",
+          "sub": true
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "ko": "왜냐하면",
+          "sub": true
+        },
+        {
+          "text": "his conversation",
+          "role": "S",
+          "ko": "그의 대화(말솜씨)가",
+          "sub": true
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~였다",
+          "sub": true
+        },
+        {
+          "text": "limited,",
+          "role": "C",
+          "ko": "한정되어 있는",
+          "sub": true
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그는"
+        },
+        {
+          "text": "determined",
+          "role": "V",
+          "ko": "결심했다"
+        },
+        {
+          "text": "to return to his own castle.",
+          "role": "O",
+          "ko": "자기 성으로 돌아가기로"
+        }
+      ],
+      "skeleton": "he had said all ..., and he determined to return",
+      "explanation": "After가 이끄는 시간의 부사절(7년이 끝난 뒤) 다음에 주절 he had said all이 온다. all that he had to say는 '그가 할 말 전부'로, that은 all을 꾸미는 관계대명사. for는 '왜냐하면'이라는 이유의 접속사로 말이 다 떨어진 까닭을 설명한다. and 뒤 두 번째 주절에서 determined의 목적어는 to부정사(to return)다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "used to + 동사원형: (예전에) ~하곤 했다",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "used to go and play"
+      ],
+      "explanation": "'used to + 동사원형'은 과거에 되풀이하던 습관이나 예전 상태를 말할 때 쓴다. 지금은 그렇지 않다는 느낌이 함께 담긴다. 여기서는 아이들이 매일 거인의 정원에 가서 놀곤 했다는 뜻이고, 4번째 문장의 used to stop도 같은 쓰임이다. be used to + -ing(~에 익숙하다)와 헷갈리지 않도록 주의하자.",
+      "example": {
+        "en": "My grandfather used to walk to school every day.",
+        "ko": "할아버지는 예전에 매일 걸어서 학교에 다니셨다."
+      },
+      "note": "go and play = go to play. '가서 놀다'처럼 동사 두 개를 and로 잇는 구어적 표현."
+    },
+    {
+      "id": "g2",
+      "title": "so ~ that …: 너무 ~해서 …하다",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "so sweetly that the children used to stop their games"
+      ],
+      "explanation": "'so + 형용사/부사 + that + 주어 + 동사'는 '너무 ~해서 …하다'라는 원인과 결과를 나타낸다. so 뒤가 원인(새들이 아주 아름답게 노래함), that 뒤가 결과(아이들이 놀이를 멈춤)다. 문장 끝의 in order to listen은 '듣기 위해서'라는 목적을 나타낸다.",
+      "example": {
+        "en": "The soup was so hot that I could not eat it.",
+        "ko": "수프가 너무 뜨거워서 먹을 수가 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거완료 had + 과거분사: 그보다 더 이전의 일",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "had been to visit",
+        "had stayed"
+      ],
+      "explanation": "'had + 과거분사'(과거완료)는 이야기 속 과거 시점(거인이 돌아온 때)보다 더 먼저 일어난 일을 나타낸다. 거인이 돌아오기 전에 이미 친구를 찾아가(had been to visit) 7년 동안 머물렀다(had stayed)는 뜻이다. 다음 문장의 had said도 같은 과거완료다.",
+      "example": {
+        "en": "When I got to the station, the train had already left.",
+        "ko": "내가 역에 도착했을 때 기차는 이미 떠난 뒤였다."
+      },
+      "note": "had been to + 동사원형 = ~하러 갔다 왔다. (have been to: ~에 다녀왔다)"
+    }
+  ],
+  "glossary": {
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "매 ~, ~마다",
+      "ipa": "/ˈɛvəri/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "synonyms": [
+        "midday",
+        "p.m."
+      ],
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하면서",
+      "ipa": "/æz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하고 있다(진행형)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come from: ~에서 오다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "return",
+        "walk"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "ipa": "/frʌm/"
+    },
+    "school": {
+      "lemma": "school",
+      "pos": "noun",
+      "ko": "학교",
+      "synonyms": [
+        "class",
+        "classes"
+      ],
+      "ipa": "/skuːl/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이들",
+      "form": "복수형",
+      "synonyms": [
+        "kids",
+        "youngsters"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "(used to) ~하곤 했다",
+      "form": "과거형",
+      "synonyms": [
+        "would"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기, ~하러; ~로",
+      "ipa": "/tuː/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "synonyms": [
+        "head",
+        "walk"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~하고",
+      "ipa": "/ənd/"
+    },
+    "play": {
+      "lemma": "play",
+      "pos": "verb",
+      "ko": "놀다",
+      "synonyms": [
+        "have fun",
+        "amuse oneself"
+      ],
+      "ipa": "/pleɪ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에서, ~에",
+      "ipa": "/ɪn/"
+    },
+    "giant's": {
+      "lemma": "giant",
+      "pos": "noun",
+      "ko": "거인의",
+      "form": "소유격",
+      "synonyms": [
+        "ogre's"
+      ],
+      "ipa": "/ˈdʒaɪənts/"
+    },
+    "garden": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원",
+      "synonyms": [
+        "yard",
+        "grounds"
+      ],
+      "ipa": "/ˈɡɑːrdən/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "ipa": "/ɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (수동) ~되다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰, 넓은",
+      "synonyms": [
+        "big",
+        "spacious"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "lovely": {
+      "lemma": "lovely",
+      "pos": "adjective",
+      "ko": "아름다운, 사랑스러운",
+      "synonyms": [
+        "beautiful",
+        "pretty",
+        "charming"
+      ],
+      "ipa": "/ˈlʌvli/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~이 있는, ~와 함께",
+      "ipa": "/wɪð/"
+    },
+    "soft": {
+      "lemma": "soft",
+      "pos": "adjective",
+      "ko": "부드러운",
+      "synonyms": [
+        "gentle",
+        "smooth"
+      ],
+      "ipa": "/sɑːft/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "초록색의",
+      "synonyms": [
+        "verdant"
+      ],
+      "ipa": "/ɡriːn/"
+    },
+    "grass": {
+      "lemma": "grass",
+      "pos": "noun",
+      "ko": "잔디, 풀",
+      "synonyms": [
+        "lawn",
+        "turf"
+      ],
+      "ipa": "/ɡræs/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기 (here and there: 여기저기)",
+      "synonyms": [
+        "in this place"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기 (there were: ~이 있었다)",
+      "synonyms": [
+        "in that place"
+      ],
+      "ipa": "/ðɛr/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 위에; (부사) 끝난",
+      "ipa": "/ˈoʊvər/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다, (꽃이) 피어 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rise",
+        "grow"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "flowers": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": "복수형",
+      "synonyms": [
+        "bloom",
+        "blossom"
+      ],
+      "ipa": "/ˈflaʊərz/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~ 같은, ~처럼",
+      "ipa": "/laɪk/"
+    },
+    "stars": {
+      "lemma": "star",
+      "pos": "noun",
+      "ko": "별",
+      "form": "복수형",
+      "synonyms": [
+        "heavenly body"
+      ],
+      "ipa": "/stɑːrz/"
+    },
+    "twelve": {
+      "lemma": "twelve",
+      "pos": "number",
+      "ko": "열둘, 12",
+      "ipa": "/twɛlv/"
+    },
+    "peach-trees": {
+      "lemma": "peach-tree",
+      "pos": "noun",
+      "ko": "복숭아나무",
+      "form": "복수형",
+      "synonyms": [
+        "fruit tree"
+      ],
+      "ipa": "/piːtʃ-triːz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사); (접속사) 그래서",
+      "ipa": "/ðæt/"
+    },
+    "spring-time": {
+      "lemma": "spring-time",
+      "pos": "noun",
+      "ko": "봄철",
+      "synonyms": [
+        "spring",
+        "springtide"
+      ],
+      "ipa": "/sprɪŋ-taɪm/"
+    },
+    "broke": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "(break out) 갑자기 피어나다",
+      "form": "과거형",
+      "synonyms": [
+        "burst"
+      ],
+      "ipa": "/broʊk/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로; (break out) 터져 나와",
+      "ipa": "/aʊt/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~으로 (변하여)",
+      "ipa": "/ˈɪntu/"
+    },
+    "delicate": {
+      "lemma": "delicate",
+      "pos": "adjective",
+      "ko": "여린, 섬세한",
+      "synonyms": [
+        "fine",
+        "fragile",
+        "dainty"
+      ],
+      "ipa": "/ˈdɛləkət/"
+    },
+    "blossoms": {
+      "lemma": "blossom",
+      "pos": "noun",
+      "ko": "(과일나무의) 꽃",
+      "form": "복수형",
+      "synonyms": [
+        "bloom",
+        "flower"
+      ],
+      "ipa": "/ˈblɑːsəmz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~로 된",
+      "ipa": "/ʌv/"
+    },
+    "pink": {
+      "lemma": "pink",
+      "pos": "noun",
+      "ko": "분홍색",
+      "synonyms": [
+        "rose",
+        "rosy color"
+      ],
+      "ipa": "/pɪŋk/"
+    },
+    "pearl": {
+      "lemma": "pearl",
+      "pos": "noun",
+      "ko": "진줏빛, 진주",
+      "synonyms": [
+        "pearly white",
+        "ivory"
+      ],
+      "ipa": "/pɜːrl/"
+    },
+    "autumn": {
+      "lemma": "autumn",
+      "pos": "noun",
+      "ko": "가을",
+      "synonyms": [
+        "fall"
+      ],
+      "ipa": "/ˈɔːtəm/"
+    },
+    "bore": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(열매를) 맺다",
+      "form": "과거형",
+      "synonyms": [
+        "produce",
+        "yield"
+      ],
+      "ipa": "/bɔːr/"
+    },
+    "rich": {
+      "lemma": "rich",
+      "pos": "adjective",
+      "ko": "풍성한, 탐스러운",
+      "synonyms": [
+        "plentiful",
+        "abundant",
+        "juicy"
+      ],
+      "ipa": "/rɪtʃ/"
+    },
+    "fruit": {
+      "lemma": "fruit",
+      "pos": "noun",
+      "ko": "열매, 과일",
+      "synonyms": [
+        "crop",
+        "harvest"
+      ],
+      "ipa": "/fruːt/"
+    },
+    "birds": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새",
+      "form": "복수형",
+      "synonyms": [
+        "songbird"
+      ],
+      "ipa": "/bɜːrdz/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다",
+      "form": "과거형",
+      "synonyms": [
+        "perch",
+        "rest"
+      ],
+      "ipa": "/sæt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "ipa": "/ɑːn/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "synonyms": [
+        "plant"
+      ],
+      "ipa": "/triːz/"
+    },
+    "sang": {
+      "lemma": "sing",
+      "pos": "verb",
+      "ko": "노래하다",
+      "form": "과거형",
+      "synonyms": [
+        "chirp",
+        "warble"
+      ],
+      "ipa": "/sæŋ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무나, 그렇게; (접속사) 그래서",
+      "synonyms": [
+        "very",
+        "such"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "sweetly": {
+      "lemma": "sweetly",
+      "pos": "adverb",
+      "ko": "아름답게, 듣기 좋게",
+      "synonyms": [
+        "beautifully",
+        "pleasantly"
+      ],
+      "ipa": "/ˈswiːtli/"
+    },
+    "stop": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다, 그만두다",
+      "synonyms": [
+        "quit",
+        "halt",
+        "pause"
+      ],
+      "ipa": "/stɑːp/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "ipa": "/ðɛr/"
+    },
+    "games": {
+      "lemma": "game",
+      "pos": "noun",
+      "ko": "놀이, 게임",
+      "form": "복수형",
+      "synonyms": [
+        "play",
+        "sport"
+      ],
+      "ipa": "/ɡeɪmz/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "(in order to) ~하기 위하여",
+      "synonyms": [
+        "purpose"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "listen": {
+      "lemma": "listen",
+      "pos": "verb",
+      "ko": "듣다, 귀 기울이다",
+      "synonyms": [
+        "hear",
+        "pay attention"
+      ],
+      "ipa": "/ˈlɪsən/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들을, 그것들을",
+      "ipa": "/ðɛm/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "ipa": "/haʊ/"
+    },
+    "happy": {
+      "lemma": "happy",
+      "pos": "adjective",
+      "ko": "행복한",
+      "synonyms": [
+        "joyful",
+        "glad",
+        "cheerful"
+      ],
+      "ipa": "/ˈhæpi/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다, 소리치다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "call out",
+        "exclaim"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각 (each other: 서로)",
+      "ipa": "/iːtʃ/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 것 (each other: 서로)",
+      "ipa": "/ˈʌðər/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의 (one day: 어느 날)",
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "giant": {
+      "lemma": "giant",
+      "pos": "noun",
+      "ko": "거인",
+      "synonyms": [
+        "ogre",
+        "titan"
+      ],
+      "ipa": "/ˈdʒaɪənt/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come back: 돌아오다)",
+      "form": "과거형",
+      "synonyms": [
+        "return",
+        "arrive"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "돌아와, 원래 자리로",
+      "synonyms": [
+        "home"
+      ],
+      "ipa": "/bæk/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (남성 3인칭)",
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다; (had to) ~해야 했다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(have been to) ~에 다녀오다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "visit": {
+      "lemma": "visit",
+      "pos": "verb",
+      "ko": "방문하다, 찾아가다",
+      "synonyms": [
+        "call on",
+        "see"
+      ],
+      "ipa": "/ˈvɪzɪt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "ipa": "/hɪz/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "cornish": {
+      "lemma": "Cornish",
+      "pos": "adjective",
+      "ko": "콘월(Cornwall, 영국 남서부 지방)의",
+      "ipa": "/ˈkɔːrnɪʃ/"
+    },
+    "ogre": {
+      "lemma": "ogre",
+      "pos": "noun",
+      "ko": "(사람을 잡아먹는) 거인 도깨비",
+      "synonyms": [
+        "monster",
+        "giant"
+      ],
+      "ipa": "/ˈoʊɡər/"
+    },
+    "stayed": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "머무르다, 지내다",
+      "form": "과거형",
+      "synonyms": [
+        "remain",
+        "live"
+      ],
+      "ipa": "/steɪd/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그와",
+      "ipa": "/hɪm/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안; (접속사) 왜냐하면",
+      "ipa": "/fɔːr/"
+    },
+    "seven": {
+      "lemma": "seven",
+      "pos": "number",
+      "ko": "일곱, 7",
+      "ipa": "/ˈsɛvən/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "synonyms": [
+        "twelvemonth"
+      ],
+      "ipa": "/jɪrz/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "conjunction",
+      "ko": "~한 뒤에",
+      "ipa": "/ˈæftər/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형/과거분사",
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것; (부사) 빙 둘러 (all round)",
+      "ipa": "/ɔːl/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "conversation": {
+      "lemma": "conversation",
+      "pos": "noun",
+      "ko": "대화, 말솜씨",
+      "synonyms": [
+        "talk",
+        "chat"
+      ],
+      "ipa": "/ˌkɑːnvərˈseɪʃən/"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "한정된, 많지 않은",
+      "synonyms": [
+        "restricted",
+        "small",
+        "narrow"
+      ],
+      "ipa": "/ˈlɪmətəd/"
+    },
+    "determined": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "결심하다, 마음먹다",
+      "form": "과거형",
+      "synonyms": [
+        "decide",
+        "resolve"
+      ],
+      "ipa": "/dɪˈtɜːrmənd/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌아가다",
+      "synonyms": [
+        "go back",
+        "come back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "synonyms": [
+        "personal",
+        "private"
+      ],
+      "ipa": "/oʊn/"
+    },
+    "castle": {
+      "lemma": "castle",
+      "pos": "noun",
+      "ko": "성",
+      "synonyms": [
+        "fortress",
+        "palace"
+      ],
+      "ipa": "/ˈkæsəl/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "arrived": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": "과거형",
+      "synonyms": [
+        "reach",
+        "get there"
+      ],
+      "ipa": "/əˈraɪvd/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "notice",
+        "spot"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "playing": {
+      "lemma": "play",
+      "pos": "verb",
+      "ko": "놀다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "having fun"
+      ],
+      "ipa": "/ˈpleɪɪŋ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "ipa": "/wʌt/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "ipa": "/juː/"
+    },
+    "doing": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "make",
+        "perform"
+      ],
+      "ipa": "/ˈduːɪŋ/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주, 매우",
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "gruff": {
+      "lemma": "gruff",
+      "pos": "adjective",
+      "ko": "(목소리가) 거칠고 퉁명스러운",
+      "synonyms": [
+        "rough",
+        "harsh",
+        "hoarse"
+      ],
+      "ipa": "/ɡrʌf/"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "synonyms": [
+        "tone",
+        "sound"
+      ],
+      "ipa": "/vɔɪs/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "달리다 (run away: 달아나다)",
+      "form": "과거형",
+      "synonyms": [
+        "flee",
+        "rush"
+      ],
+      "ipa": "/ræn/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떠나서",
+      "synonyms": [
+        "off"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "ipa": "/maɪ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재형",
+      "ipa": "/ɪz/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~라도 (any one: 누구든지)",
+      "ipa": "/ˈɛni/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다, 알다",
+      "synonyms": [
+        "see",
+        "grasp",
+        "know"
+      ],
+      "ipa": "/ˌʌndərˈstænd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "ipa": "/aɪ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하겠다, ~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "allow": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "허락하다 (allow A to ~: A가 ~하게 두다)",
+      "synonyms": [
+        "let",
+        "permit"
+      ],
+      "ipa": "/əˈlaʊ/"
+    },
+    "nobody": {
+      "lemma": "nobody",
+      "pos": "pronoun",
+      "ko": "아무도 ~ 않다",
+      "ipa": "/ˈnoʊˌbɑːˌdiː/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "preposition",
+      "ko": "~ 말고는, ~ 외에",
+      "ipa": "/bʌt/"
+    },
+    "myself": {
+      "lemma": "myself",
+      "pos": "pronoun",
+      "ko": "나 자신",
+      "ipa": "/ˌmaɪˈsɛlf/"
+    },
+    "built": {
+      "lemma": "build",
+      "pos": "verb",
+      "ko": "짓다, 쌓다",
+      "form": "과거형",
+      "synonyms": [
+        "construct",
+        "put up",
+        "raise"
+      ],
+      "ipa": "/bɪlt/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "높은",
+      "synonyms": [
+        "tall",
+        "lofty"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "wall": {
+      "lemma": "wall",
+      "pos": "noun",
+      "ko": "담, 벽",
+      "synonyms": [
+        "fence",
+        "barrier"
+      ],
+      "ipa": "/wɔːl/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "preposition",
+      "ko": "~ 둘레에 (all round: 빙 둘러)",
+      "ipa": "/raʊnd/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "놓다 (put up: 세우다, 내걸다)",
+      "form": "과거형",
+      "synonyms": [
+        "set",
+        "place"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로, 세워서",
+      "ipa": "/ʌp/"
+    },
+    "notice-board": {
+      "lemma": "notice-board",
+      "pos": "noun",
+      "ko": "게시판, 안내판",
+      "synonyms": [
+        "sign",
+        "signboard",
+        "bulletin board"
+      ],
+      "ipa": "/ˈnoʊtəs-bɔːrd/"
+    }
+  }
+}
