@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { setFavorite } from '../../lib/favorites';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../../styles/ui.module.css';
@@ -541,7 +542,7 @@ export function QuestionStar({ lesson, q }: { lesson: Lesson; q: Question }) {
   return (
     <button type="button" className={s.chip} aria-pressed={on} data-testid={`qstar-${q.id}`}
       onClick={async () => {
-        await toggleQuestionStar(lesson, q);
+        if (!(await setFavorite('question', key, !on, () => toggleQuestionStar(lesson, q)))) return;
         toast(on ? '즐겨찾기에서 뺐어요' : '즐겨찾기에 넣었어요');
       }}>
       {on ? '★ 즐겨찾기됨' : '☆ 즐겨찾기'}

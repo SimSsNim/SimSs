@@ -1,4 +1,5 @@
 import { fmtIpa } from '../lib/text';
+import { setFavorite } from '../lib/favorites';
 import s from '../styles/ui.module.css';
 import w from '../styles/words.module.css';
 import type { WordStateRow } from '../lib/db';
@@ -73,7 +74,7 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
         <div className={s.row}>
           <SpeakBtn text={item.term} />
           <button type="button" className={s.iconBtn} aria-pressed={!!state?.starred} aria-label={state?.starred ? '즐겨찾기 해제' : '즐겨찾기'}
-            onClick={() => void toggleStar(item.term)} style={{ color: state?.starred ? 'var(--warn)' : undefined }}>
+            onClick={() => void setFavorite('word', item.key, !state?.starred, () => toggleStar(item.term), { term: item.term, meaningKo: item.meaningKo, pos: item.pos, ipa: item.ipa ?? null, synonyms: item.synonyms, sentence: item.sentence, lessonKey: item.sources[0]?.lessonKey })} style={{ color: state?.starred ? 'var(--warn)' : undefined }}>
             <Icon name="star" filled={!!state?.starred} />
           </button>
         </div>

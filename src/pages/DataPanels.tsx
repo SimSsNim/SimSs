@@ -95,6 +95,7 @@ const STUDY_ITEMS = [
   { id: 'daily', label: '학습 시간·캘린더', hint: '하루 학습 시간, 연속 학습일', tables: ['dailyLog'] },
   { id: 'recordings', label: '녹음', hint: '섀도잉 녹음 파일', tables: ['recordings'] },
   { id: 'ink', label: '손글씨', hint: '화면 위 메모, 손글씨 필사', tables: ['inkNotes'] },
+  { id: 'favFolders', label: '즐겨찾기 폴더', hint: '폴더와 폴더 나누기(즐겨찾기 표시는 남고 모두 기본 폴더로)', tables: ['favFolders', 'favAssign'] },
 ] as const;
 
 export function StudyResetPanel() {

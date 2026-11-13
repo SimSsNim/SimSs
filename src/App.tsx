@@ -1,4 +1,5 @@
 import { lazy, Suspense, useEffect } from 'react';
+import { FolderPicker } from './components/FavFolders';
 import { useBackTracker } from './lib/backTarget';
 import { useWakeLock } from './lib/wakeLock';
 import { PullToRefresh } from './components/PullToRefresh';
@@ -86,6 +87,7 @@ export function App() {
     <HashRouter>
       <BackTracker />
       <PdfReady />
+      <FolderPicker />
       <PullToRefresh />
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>

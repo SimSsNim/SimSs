@@ -4,7 +4,7 @@ import type { WordStatus } from './leitner';
 import { migrateRow } from './migrate';
 
 /** IndexedDB 버전 = 백업 파일 버전 */
-export const DB_VERSION = 3;
+export const DB_VERSION = 4;
 
 export interface SettingRow { key: string; value: unknown }
 export interface LessonCacheRow { key: string; track: Track; id: string; lesson: RawLesson; source: 'repo' | 'import'; savedAt: number }
@@ -40,6 +40,14 @@ export interface QuestionStateRow {
 export interface DismissedTipRow { key: string; date: string }
 /** 손글씨: 화면 위 메모(kind 'screen', key = lessonKey:tab) / 손글씨 필사(kind 'hw', key = lessonKey:hw:sentenceId).
  *  strokes 의 좌표는 그린 칸 너비를 1 로 둔 비율(화면 크기가 바뀌어도 비율대로) */
+export type FavKind = 'sentence' | 'word' | 'grammar' | 'question';
+/** 즐겨찾기 폴더(종류마다 따로). '기본' 폴더는 id '' 로, 따로 저장하지 않음 */
+export interface FavFolderRow { id: string; kind: FavKind; name: string; order: number; createdAt: number }
+/** 즐겨찾기 항목이 들어 있는 폴더. key = kind:ref (ref = 그 항목의 원래 키). snap = 레슨 단어장에 없는 단어의 표시용 정보 */
+export interface FavAssignRow {
+  key: string; kind: FavKind; ref: string; folderId: string; addedAt: number;
+  snap?: { term: string; meaningKo: string; pos?: string; ipa?: string | null; synonyms?: string[]; sentence?: string; lessonKey?: string };
+}
 export interface InkStroke { t: 'pen' | 'hl'; c: string; w: number; p: number[] }
 export interface InkNoteRow {
   key: string; lessonKey: string; kind: 'screen' | 'hw'; ref: string; strokes: InkStroke[];
@@ -64,6 +72,8 @@ export class PilsaDB extends Dexie {
   questionState!: Table<QuestionStateRow, string>;
   dismissedTips!: Table<DismissedTipRow, string>;
   inkNotes!: Table<InkNoteRow, string>;
+  favFolders!: Table<FavFolderRow, string>;
+  favAssign!: Table<FavAssignRow, string>;
 
   constructor(name = 'pilsa') {
     super(name);
@@ -104,6 +114,8 @@ export class PilsaDB extends Dexie {
       });
     // v3: 손글씨 메모·손글씨 필사
     this.version(3).stores({ inkNotes: 'key, lessonKey, kind, updatedAt' });
+    // v4: 즐겨찾기 폴더
+    this.version(4).stores({ favFolders: 'id, kind, order', favAssign: 'key, kind, folderId' });
   }
 }
 
@@ -112,7 +124,7 @@ export const db = new PilsaDB();
 /** 백업 대상 테이블(녹음·레슨 캐시 중 저장소 것은 제외) */
 export const BACKUP_TABLES = [
   'settings', 'wordState', 'myWords', 'lessonProgress', 'sentenceMarks', 'grammarState', 'audioMarks', 'practiceLog', 'dailyLog',
-  'quizAttempt', 'questionState', 'dismissedTips', 'inkNotes',
+  'quizAttempt', 'questionState', 'dismissedTips', 'inkNotes', 'favFolders', 'favAssign',
 ] as const;
 export type BackupTable = (typeof BACKUP_TABLES)[number];
 

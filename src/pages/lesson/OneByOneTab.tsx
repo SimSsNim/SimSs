@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { setFavorite } from '../../lib/favorites';
 import { Link } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../../styles/ui.module.css';
@@ -124,7 +125,7 @@ export function OneByOneTab({ lesson, lessonKey, gate }: TabProps) {
       <div className={s.row} style={{ marginTop: 10, justifyContent: 'center' }}>
         {canListen && <button type="button" className={s.btn} onClick={() => void playSentence(sen)}>🔊 듣기</button>}
         {canListen && <button type="button" className={s.btn} aria-pressed={repeating} onClick={() => void repeatSlow()}>{repeating ? '■ 반복 정지' : '🐢 0.75× 반복'}</button>}
-        <button type="button" className={s.btn} aria-pressed={!!mark?.bookmark} onClick={() => void toggleSentenceMark(lessonKey, sen.id, 'bookmark')}>
+        <button type="button" className={s.btn} aria-pressed={!!mark?.bookmark} onClick={() => void setFavorite('sentence', `${lessonKey}:${sen.id}`, !mark?.bookmark, () => toggleSentenceMark(lessonKey, sen.id, 'bookmark'))}>
           {mark?.bookmark ? '🔖 북마크됨' : '🔖 북마크'}
         </button>
         {hasStruct && <Link className={s.btn} to={`/${lesson.track}/lesson/${lesson.id}/structure?s=${sen.id}`}>🧩 구조·문법</Link>}

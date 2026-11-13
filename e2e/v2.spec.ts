@@ -249,9 +249,11 @@ test('v11. 즐겨찾기 탭: 문제·문법 ☆ → 전체/항목별로 보임, 
   await start(page, URL5);
   await page.getByTestId(`choice-${P5_ANSWERS[0]}`).click();
   await page.getByTestId('qstar-q1').click();
+  await page.getByTestId('pick-folder-default').click();
   await expect(page.getByTestId('qstar-q1')).toHaveText('★ 즐겨찾기됨');
   await page.goto('./#/grammar');
   await page.getByTestId('grammar-star').first().click();
+  await page.getByTestId('pick-folder-default').click();
   await page.getByRole('navigation', { name: '주 메뉴' }).getByRole('link', { name: '즐겨찾기' }).click();
   await expect(page.getByTestId('fav-count-all')).toHaveText('2');
   await expect(page.getByTestId('fav-count-question')).toHaveText('1');
@@ -384,7 +386,7 @@ test('v18. 기록 첫 화면: 공부 기록 초기화(항목 선택, 전체 선�
   await page.goto('./#/records');
   await page.getByTestId('study-reset').locator('summary').click();
   await page.getByTestId('reset-all').click();
-  await expect(page.getByTestId('reset-run')).toHaveText('선택한 11개 초기화');
+  await expect(page.getByTestId('reset-run')).toHaveText('선택한 12개 초기화');
   await page.getByTestId('reset-none').click();
   await expect(page.getByTestId('reset-run')).toBeDisabled();
   await page.getByTestId('reset-wrong').check();
@@ -736,4 +738,47 @@ test('v34. PDF를 열었다 닫아 앱이 처음부터 다시 열려도 보던 �
   // 한 번만: 다시 열면 평소대로
   await page.goto('./');
   await expect(page).not.toHaveURL(/lesson/);
+});
+
+test('v35. 즐겨찾기 폴더: 고를 때 새 폴더, 폴더별 보기, 이동, 이름 바꾸기, 삭제(기본으로)', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  // 본문 단어(단어장에 없는 것)를 ☆ → 새 폴더 만들며 넣기
+  await page.locator('span', { hasText: /^sitting$/ }).first().click();
+  await page.getByRole('dialog', { name: /단어/ }).getByTestId('word-fav').click();
+  await page.getByTestId('new-folder-name').fill('동사');
+  await page.getByTestId('new-folder-add').click();
+  await expect(page.getByTestId('folder-picker')).toHaveCount(0);
+  // 단어장 단어 ☆ → 취소하면 안 들어감, 다시 → 기본
+  await page.goto('./#/words');
+  const first = page.getByTestId('word-row').first();
+  await first.getByRole('button', { name: '즐겨찾기' }).click();
+  await page.getByRole('button', { name: '취소' }).click();
+  await expect(first.getByRole('button', { name: '즐겨찾기', exact: true })).toBeVisible();
+  await first.getByRole('button', { name: '즐겨찾기' }).click();
+  await page.getByTestId('pick-folder-default').click();
+  await page.goto('./#/favorites');
+  await page.getByTestId('fav-word').click();
+  await expect(page.getByTestId('fav-count-word')).toHaveText('2');
+  const folders = page.getByTestId('fav-folders');
+  await expect(folders).toContainText('📁 동사 1');
+  await expect(folders).toContainText('📁 기본 1');
+  await folders.getByRole('button', { name: /동사/ }).click();
+  await expect(page.getByTestId('word-row')).toHaveCount(1);
+  await expect(page.getByTestId('word-row')).toContainText('sit');
+  // 기본에 있던 단어를 동사로 이동
+  await page.getByTestId('fav-folder-default').click();
+  await page.getByTestId('fav-move').click();
+  await page.getByTestId('folder-picker').getByRole('button', { name: /동사/ }).click();
+  await expect(page.getByTestId('fav-folder-empty')).toBeVisible();
+  await expect(folders).toContainText('📁 동사 2');
+  // 이름 바꾸기·삭제
+  await page.getByTestId('fav-manage').click();
+  await page.getByTestId('folder-rename').click();
+  await page.getByTestId('folder-rename-input').fill('중요 동사');
+  await page.getByTestId('folder-rename-save').click();
+  await expect(folders).toContainText('📁 중요 동사 2');
+  page.once('dialog', (d) => void d.accept());
+  await page.getByTestId('folder-delete').click();
+  await expect(folders).not.toContainText('중요 동사');
+  await expect(folders).toContainText('📁 기본 2');
 });

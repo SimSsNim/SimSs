@@ -1,4 +1,7 @@
 import { useMemo, useState } from 'react';
+import { setFavorite, moveFavorite, assignKey, sortFolders, DEFAULT_FOLDER, DEFAULT_FOLDER_NAME, type FavKind } from '../lib/favorites';
+import { FolderManager } from '../components/FavFolders';
+import type { WordItem } from '../lib/words';
 import { Link } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
@@ -34,6 +37,15 @@ export function Favorites() {
   const myWords = useLiveQuery(() => db.myWords.toArray(), []);
   const grammars = useLiveQuery(() => db.grammarState.filter((g) => !!g.starred).toArray(), []);
   const questions = useLiveQuery(() => db.questionState.filter((q) => !!q.starred).toArray(), []);
+  const assigns = useLiveQuery(() => db.favAssign.toArray(), []);
+  const folders = useLiveQuery(() => db.favFolders.toArray(), []);
+  const [folder, setFolder] = useState<string>('all');
+  const [manage, setManage] = useState(false);
+  const folderOf = useMemo(() => new Map((assigns ?? []).map((a) => [a.key, a.folderId])), [assigns]);
+  const snapOf = useMemo(() => new Map((assigns ?? []).map((a) => [a.key, a.snap])), [assigns]);
+  const fid = (k: FavKind, ref: string) => folderOf.get(assignKey(k, ref)) ?? DEFAULT_FOLDER;
+  const folderName = (id: string) => (id === DEFAULT_FOLDER ? DEFAULT_FOLDER_NAME : folders?.find((f) => f.id === id)?.name ?? DEFAULT_FOLDER_NAME);
+  const inFolder = (k: FavKind, ref: string) => kind === 'all' || folder === 'all' || fid(k, ref) === folder;
 
   const inTrack = (l: Lesson) => (trackF === 'all' || l.track === trackF) && (!day || l.date === day);
 
@@ -45,12 +57,26 @@ export function Favorites() {
 
   const wordItems = useMemo(() => {
     const starred = new Map((words ?? []).map((w) => [w.key, w]));
-    return mergeWords(Object.values(lessons), myWords ?? [])
-      .filter((w) => starred.has(w.key))
-      .filter((w) => (trackF === 'all' || w.mine || w.sources.some((x) => x.track === trackF)) && (!day || w.sources.some((x) => x.date === day)))
-      .map((w) => ({ item: w, state: starred.get(w.key)! }))
+    const merged = new Map(mergeWords(Object.values(lessons), myWords ?? []).map((w) => [w.key, w]));
+    const items: { item: WordItem; state: (typeof words & object)[number] }[] = [];
+    for (const [key, state] of starred) {
+      let item = merged.get(key);
+      if (!item) {
+        // 레슨 단어장에 없는 단어(본문에서 아무 단어나 ☆): 즐겨찾기할 때 저장한 뜻으로
+        const sn = snapOf.get(assignKey('word', key));
+        const l = sn?.lessonKey ? lessons[sn.lessonKey] : undefined;
+        item = {
+          key, term: sn?.term ?? state.term, pos: sn?.pos ?? '', ipa: sn?.ipa ?? undefined, meaningKo: sn?.meaningKo || '(뜻 없음)', synonyms: sn?.synonyms ?? [],
+          sentence: sn?.sentence, matchText: sn?.term, mine: !l, createdAt: state.updatedAt,
+          sources: l ? [{ lessonKey: sn!.lessonKey!, track: l.track, date: l.date, level: l.level, title: l.title, vocabId: '' }] : [],
+        };
+      }
+      items.push({ item, state });
+    }
+    return items
+      .filter(({ item: w }) => (trackF === 'all' || w.mine || w.sources.some((x) => x.track === trackF)) && (!day || w.sources.some((x) => x.date === day)))
       .sort((a, b) => b.state.updatedAt - a.state.updatedAt);
-  }, [words, myWords, lessons, trackF, day]);
+  }, [words, myWords, lessons, trackF, day, snapOf]);
 
   const grammarItems = useMemo(() => (grammars ?? []).flatMap((st) => {
     const l = lessons[st.lessonKey];
@@ -64,13 +90,29 @@ export function Favorites() {
     return l && q && inTrack(l) ? [{ key: st.key, lesson: l, q, state: st }] : [];
   }).sort((a, b) => (b.state!.starredAt ?? 0) - (a.state!.starredAt ?? 0)), [questions, lessons, trackF, day]);
 
+  const fSent = sentenceItems.filter((x) => inFolder('sentence', x.key));
+  const fWord = wordItems.filter((x) => inFolder('word', x.item.key));
+  const fGram = grammarItems.filter((x) => inFolder('grammar', x.key));
+  const fQues = questionItems.filter((x) => inFolder('question', x.key));
+  const kindItems: Record<FavKind, { ref: string }[]> = {
+    sentence: sentenceItems.map((x) => ({ ref: x.key })), word: wordItems.map((x) => ({ ref: x.item.key })),
+    grammar: grammarItems.map((x) => ({ ref: x.key })), question: questionItems.map((x) => ({ ref: x.key })),
+  };
   const counts: Record<Kind, number> = {
     sentence: sentenceItems.length, word: wordItems.length, grammar: grammarItems.length, question: questionItems.length,
     all: sentenceItems.length + wordItems.length + grammarItems.length + questionItems.length,
   };
+  const pickKind = (k: Kind) => { setKind(k); setFolder('all'); setManage(false); };
+  const tag = (k: FavKind, ref: string) => (
+    <div className={s.row} style={{ gap: 6, margin: '0 0 4px' }}>
+      <span className={s.badge} data-testid="fav-folder-tag">📁 {folderName(fid(k, ref))}</span>
+      <button type="button" className={s.chip} style={{ minHeight: 26, fontSize: 12, padding: '0 8px' }} onClick={() => void moveFavorite(k, ref)} data-testid="fav-move">폴더 이동</button>
+    </div>
+  );
   const loading = status === 'loading' && counts.all === 0;
-  const show = (k: Kind) => (kind === 'all' || kind === k) && counts[k] > 0;
-  const heading = (k: Kind) => kind === 'all' && <h2 className={s.h2}>{KINDS.find((x) => x[0] === k)![1]} {counts[k]}</h2>;
+  const shownLen: Record<FavKind, number> = { sentence: fSent.length, word: fWord.length, grammar: fGram.length, question: fQues.length };
+  const show = (k: FavKind) => (kind === 'all' || kind === k) && shownLen[k] > 0;
+  const heading = (k: FavKind) => kind === 'all' && <h2 className={s.h2}>{KINDS.find((x) => x[0] === k)![1]} {counts[k]}</h2>;
 
   return (
     <>
@@ -78,9 +120,28 @@ export function Favorites() {
       <main className={s.page} data-testid="favorites">
         <h1 className={s.title}>즐겨찾기</h1>
         <DatePick value={day} onChange={setDay} dates={Object.values(lessons).map((l) => l.date)} />
-        <GridTabs label="항목" value={kind} onChange={setKind} testid="fav"
+        <GridTabs label="항목" value={kind} onChange={pickKind} testid="fav"
           options={KINDS.map(([k, label]) => [k, <>{label} <span data-testid={`fav-count-${k}`}>{counts[k]}</span></>] as [Kind, React.ReactNode])} />
 
+        {kind !== 'all' && (() => {
+          const k = kind as FavKind;
+          const list = sortFolders((folders ?? []).filter((f) => f.kind === k));
+          const n = (id: string) => kindItems[k].filter((x) => fid(k, x.ref) === id).length;
+          return (
+            <>
+              <div className={s.chips} role="group" aria-label="폴더" data-testid="fav-folders">
+                <button type="button" className={s.chip} aria-pressed={folder === 'all'} onClick={() => setFolder('all')}>모든 폴더 {counts[kind]}</button>
+                {[{ id: DEFAULT_FOLDER, name: DEFAULT_FOLDER_NAME }, ...list].map((f) => (
+                  <button key={f.id || 'default'} type="button" className={s.chip} aria-pressed={folder === f.id} onClick={() => setFolder(f.id)} data-testid={`fav-folder-${f.id || 'default'}`}>📁 {f.name} {n(f.id)}</button>
+                ))}
+                <button type="button" className={s.chip} aria-pressed={manage} onClick={() => setManage(!manage)} data-testid="fav-manage">⚙ 폴더 관리</button>
+              </div>
+              {manage && <FolderManager kind={k} onClose={() => setManage(false)} />}
+            </>
+          );
+        })()}
+
+        {counts[kind] > 0 && kind !== 'all' && shownLen[kind as FavKind] === 0 && <p className={s.empty} data-testid="fav-folder-empty">이 폴더는 비어 있어요. 항목의 '폴더 이동'으로 옮겨 넣을 수 있어요.</p>}
         {counts[kind] === 0 && (
           <p className={s.empty} data-testid="fav-empty">
             {loading ? '불러오는 중…' : '아직 즐겨찾기가 없어요. 문장은 🔖 북마크, 단어·문법·문제는 ☆를 누르면 여기에 모여요.'}
@@ -91,8 +152,9 @@ export function Favorites() {
           <section aria-label="문장">
             {heading('sentence')}
             <ul className={s.list}>
-              {sentenceItems.map((x) => (
+              {fSent.map((x) => (
                 <li key={x.key} className={s.card} data-testid="fav-sentence-item">
+                  {tag('sentence', x.key)}
                   <div className={s.row} style={{ flexWrap: 'nowrap', alignItems: 'flex-start' }}>
                     <div className={s.grow}>
                       <p className={s.reading} lang="en" style={{ margin: 0 }}>{x.sen.en}</p>
@@ -101,7 +163,7 @@ export function Favorites() {
                     <SpeakBtn text={x.sen.en} label="문장 듣기" />
                   </div>
                   <div className={s.row} style={{ marginTop: 6 }}>
-                    <button type="button" className={s.btn} onClick={() => void toggleSentenceMark(x.lk, x.sen.id, 'bookmark')}>🔖 북마크 해제</button>
+                    <button type="button" className={s.btn} onClick={() => void setFavorite('sentence', x.key, false, () => toggleSentenceMark(x.lk, x.sen.id, 'bookmark'))}>🔖 북마크 해제</button>
                     <Link className={s.ghost} to={`/${x.l.track}/lesson/${x.l.id}/structure?s=${x.sen.id}`}>{x.l.date} {x.l.title} ›</Link>
                   </div>
                 </li>
@@ -114,7 +176,7 @@ export function Favorites() {
           <section aria-label="단어">
             {heading('word')}
             <ul className={s.list}>
-              {wordItems.map((x) => <WordRow key={x.item.key} item={x.item} state={x.state} showSources />)}
+              {fWord.map((x) => <li key={x.item.key} style={{ listStyle: 'none' }}>{tag('word', x.item.key)}<ul className={s.list}><WordRow item={x.item} state={x.state} showSources /></ul></li>)}
             </ul>
           </section>
         )}
@@ -124,7 +186,7 @@ export function Favorites() {
             {heading('grammar')}
             <ExamplesToggleAll />
             <ul className={s.list}>
-              {grammarItems.map((x) => <GrammarCard key={x.key} lesson={x.l} g={x.g} lessonKey={x.lk} state={x.st} showLesson />)}
+              {fGram.map((x) => <li key={x.key} style={{ listStyle: 'none' }}>{tag('grammar', x.key)}<ul className={s.list}><GrammarCard lesson={x.l} g={x.g} lessonKey={x.lk} state={x.st} showLesson /></ul></li>)}
             </ul>
           </section>
         )}
@@ -133,7 +195,7 @@ export function Favorites() {
           <section aria-label="문제">
             {heading('question')}
             <ul className={s.list}>
-              {questionItems.map((it) => <FavQuestion key={it.key} it={it} />)}
+              {fQues.map((it) => <li key={it.key} style={{ listStyle: 'none' }}>{tag('question', it.key)}<ul className={s.list}><FavQuestion it={it} /></ul></li>)}
             </ul>
           </section>
         )}

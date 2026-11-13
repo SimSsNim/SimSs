@@ -308,7 +308,7 @@ test('원음 레슨 듣기 탭: 컨트롤과 구간 맞추기', async ({ page })
   await noHScroll(page);
 });
 
-test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 한 번에 내 단어로 추가', async ({ page }) => {
+test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 ☆ 즐겨찾기(폴더 고르기)', async ({ page }) => {
   await start(page, './#/general/lesson/2026-11-12-L1/full');
   const gl = (G as { glossary: Record<string, { lemma: string; ko: string; ipa?: string; synonyms?: string[] }> }).glossary;
   await page.locator('span', { hasText: /^sitting$/ }).first().click();
@@ -333,8 +333,10 @@ test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 �
   expect(Math.abs((sb.y + sb.height / 2) - (wb0.y + wb0.height / 2))).toBeLessThan(12);
   await expect(dlg).toContainText(gl['sitting'].ko);
   await expect(dlg).toContainText(`기본형 ${gl['sitting'].lemma}`);
-  await dlg.getByRole('button', { name: '＋ 내 단어로 추가' }).click();
-  await expect(page.getByText(`'${gl['sitting'].lemma}' 를 내 단어에 추가했어요`)).toBeVisible();
+  await expect(dlg.getByRole('button', { name: /내 단어/ })).toHaveCount(0);
+  await dlg.getByTestId('word-fav').click();
+  await page.getByTestId('pick-folder-default').click();
+  await expect(dlg.getByTestId('word-fav')).toHaveText('★ 즐겨찾기됨');
 });
 
 test('설정에서 끄면 단어를 눌러도 자동으로 읽지 않는다(버튼으로는 들림)', async ({ page }) => {

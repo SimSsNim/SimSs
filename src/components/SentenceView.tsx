@@ -1,4 +1,7 @@
-import { fmtIpa } from '../lib/text';
+import { fmtIpa, wordKey } from '../lib/text';
+import { setFavorite } from '../lib/favorites';
+import { useLiveQuery } from 'dexie-react-hooks';
+import { db } from '../lib/db';
 import { useRef, useState, type ReactNode } from 'react';
 import { useNavigate } from 'react-router-dom';
 import s from '../styles/ui.module.css';
@@ -8,7 +11,7 @@ import type { GlossEntry, GrammarPoint, Lesson, Sentence, Structure, Vocab } fro
 import { POS_KO } from '../lib/lessonAdapter';
 import { getVoiceState, speak, useVoices } from '../lib/tts';
 import { getSettings } from '../lib/settings';
-import { addMyWord } from '../lib/words';
+import { toggleStar } from '../lib/words';
 import { toggleSentenceMark, setMemo } from '../lib/marks';
 import type { SentenceMarkRow } from '../lib/db';
 import { getPlayer, playSentence } from '../store/player';
@@ -82,8 +85,6 @@ export function autoSpeakWord(text: string) {
 export const dictUrl = (term: string) => `https://en.dict.naver.com/#/search?query=${encodeURIComponent(term)}`;
 
 export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: { word: string; vocab?: Vocab; gloss?: GlossEntry; sentence?: string; lessonKey: string; onClose: () => void }) {
-  const [meaning, setMeaning] = useState(gloss?.ko ?? '');
-  const [adding, setAdding] = useState(false);
   const voices = useVoices();
   const sayText = vocab?.term ?? word;
   const say = (text: string, slow = false) => speakWord(text, slow);
@@ -108,6 +109,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
         <div className={s.stack} style={{ marginTop: 6 }}>
           <div style={{ fontWeight: 700 }}>{vocab.meaningKo}</div>
           {vocab.synonyms?.length ? <div className={s.small}>유사 단어: {vocab.synonyms.join(', ')}</div> : null}
+          <div><FavWordButton term={vocab.term} snap={{ meaningKo: vocab.meaningKo, pos: vocab.pos, ipa: vocab.ipa ?? null, synonyms: vocab.synonyms, sentence, lessonKey }} /></div>
           {vocab.example && (
             <div className={s.small}>
               <div style={{ fontFamily: 'var(--serif)' }}>{vocab.example.en} <SpeakBtn text={vocab.example.en} label="예문 듣기" /></div>
@@ -115,7 +117,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
             </div>
           )}
         </div>
-      ) : gloss && !adding ? (
+      ) : gloss ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
           <div style={{ fontWeight: 700 }}>{gloss.ko}</div>
           {gloss.synonyms?.length ? <div className={s.small} data-testid="gloss-synonyms">유사 단어: <span lang="en">{gloss.synonyms.join(', ')}</span></div> : null}
@@ -125,32 +127,15 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
             </div>
           )}
           <div className={s.row}>
-            <button type="button" className={s.btn} onClick={async () => {
-              const term = gloss.pos === 'proper-noun' ? gloss.lemma : gloss.lemma.toLowerCase();
-              await addMyWord({ term, meaningKo: gloss.ko, sentence, lessonKey });
-              toast(`'${term}' 를 내 단어에 추가했어요`);
-              onClose();
-            }}>＋ 내 단어로 추가</button>
+            <FavWordButton term={gloss.pos === 'proper-noun' ? gloss.lemma : gloss.lemma.toLowerCase()}
+              snap={{ meaningKo: gloss.ko, pos: POS_KO[gloss.pos] ?? gloss.pos, ipa: gloss.ipa ?? null, synonyms: gloss.synonyms, sentence, lessonKey }} />
             <a className={s.ghost} href={dictUrl(gloss.lemma)} target="_blank" rel="noopener noreferrer">사전에서 더 보기 ↗</a>
           </div>
         </div>
-      ) : adding ? (
-        <form className={s.stack} style={{ marginTop: 8 }}
-          onSubmit={async (e) => {
-            e.preventDefault();
-            await addMyWord({ term: word, meaningKo: meaning.trim(), sentence, lessonKey });
-            toast(`'${word}' 를 내 단어에 추가했어요`);
-            onClose();
-          }}>
-          <label className={s.label}>뜻(직접 입력)
-            <input className={s.input} value={meaning} onChange={(e) => setMeaning(e.target.value)} autoFocus />
-          </label>
-          <button type="submit" className={s.primary}>추가</button>
-        </form>
       ) : (
         <div className={s.row} style={{ marginTop: 8 }}>
           <span className={s.muted + ' ' + s.small}>이 레슨 파일에는 이 단어의 뜻 정보가 없어요.</span>
-          <button type="button" className={s.btn} onClick={() => setAdding(true)}>＋ 내 단어로 추가</button>
+          <FavWordButton term={word.toLowerCase()} snap={{ meaningKo: '', sentence, lessonKey }} />
           <a className={s.ghost} href={dictUrl(word)} target="_blank" rel="noopener noreferrer">사전에서 찾기 ↗</a>
         </div>
       )}
@@ -172,7 +157,7 @@ export function SentenceMenu({ lesson, lessonKey, sentence, mark, onClose }: { l
         </form>
       ) : (
         <div className={s.stack}>
-          <button type="button" className={s.btn} autoFocus onClick={() => { void toggleSentenceMark(lessonKey, sentence.id, 'bookmark'); onClose(); }}>
+          <button type="button" className={s.btn} autoFocus onClick={() => { onClose(); void setFavorite('sentence', `${lessonKey}:${sentence.id}`, !mark?.bookmark, () => toggleSentenceMark(lessonKey, sentence.id, 'bookmark')); }}>
             🔖 {mark?.bookmark ? '북마크 해제' : '북마크'}
           </button>
           <button type="button" className={s.btn} onClick={() => setEditing(true)}>📝 메모{mark?.memo ? ' 수정' : ''}</button>
@@ -215,4 +200,19 @@ export function useLongPress(onLong: () => void) {
     onKeyDown: (e: React.KeyboardEvent) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onLong(); } },
     onClickCapture: (e: React.MouseEvent) => { if (fired.current) { e.stopPropagation(); e.preventDefault(); fired.current = false; } },
   };
+}
+
+/** 단어 창의 ☆ 즐겨찾기(누르면 폴더 고르기). 레슨 단어장에 없는 단어도 뜻을 함께 저장 */
+function FavWordButton({ term, snap }: { term: string; snap: { meaningKo: string; pos?: string; ipa?: string | null; synonyms?: string[]; sentence?: string; lessonKey?: string } }) {
+  const key = wordKey(term);
+  const st = useLiveQuery(() => db.wordState.get(key), [key]);
+  const on = !!st?.starred;
+  return (
+    <button type="button" className={on ? s.primary : s.btn} aria-pressed={on} data-testid="word-fav"
+      onClick={async () => {
+        if (await setFavorite('word', key, !on, () => toggleStar(term), { term, ...snap })) toast(on ? '즐겨찾기에서 뺐어요' : '즐겨찾기에 넣었어요');
+      }}>
+      {on ? '★ 즐겨찾기됨' : '☆ 즐겨찾기'}
+    </button>
+  );
 }
