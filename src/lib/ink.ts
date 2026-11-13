@@ -7,6 +7,9 @@ export const INK_COLORS = ['#1f2937', '#d14343', '#2563eb', '#15803d'] as const;
 export const HL_COLOR = '#facc15';
 export const PEN_W = 0.0045; // 칸 너비 대비 굵기
 export const HL_W = 0.022;
+/** 굵기 단계(기본 굵기의 배수) */
+export const PEN_SIZES = [0.5, 1, 1.7, 2.6] as const;
+export const PEN_SIZE_LABEL = ['가늘게', '보통', '굵게', '아주 굵게'] as const;
 
 export const screenKey = (lessonKey: string, tab: string) => `${lessonKey}:${tab}`;
 export const hwKey = (lessonKey: string, sentenceId: string) => `${lessonKey}:hw:${sentenceId}`;

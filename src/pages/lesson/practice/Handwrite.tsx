@@ -3,9 +3,10 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../../../styles/ui.module.css';
 import type { TabProps } from '../LessonPage';
 import { flatSentences } from '../../../lib/lessonUtils';
-import { InkSurface, type InkTool, type EraseMode } from '../../../components/InkSurface';
-import { InkToolbar, useInkNote } from '../../../components/InkTools';
-import { INK_COLORS, hwKey, drawStrokes } from '../../../lib/ink';
+import { InkSurface } from '../../../components/InkSurface';
+import { useSettings } from '../../../lib/settings';
+import { InkToolbar, useInkNote, usePen } from '../../../components/InkTools';
+import { hwKey, drawStrokes } from '../../../lib/ink';
 import { db } from '../../../lib/db';
 import { autoCheck } from '../../../lib/progress';
 import { handwritingPdf, offerPdf, ruled } from '../../../lib/pdf';
@@ -22,11 +23,10 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
   const sents = flatSentences(lesson);
   const [i, setI] = useState(0);
   const [view, setView] = useState<'write' | 'all'>('write');
-  const [tool, setTool] = useState<InkTool>('pen');
-  const [color, setColor] = useState<string>(INK_COLORS[0]);
-  const [finger, setFinger] = useState(false);
-  const [eraseMode, setEraseMode] = useState<EraseMode>('stroke');
   const [busy, setBusy] = useState(false);
+  const pen = usePen();
+  const { tool, setTool, color, setColor, size, setSize, eraseMode, setEraseMode, finger, setFinger } = pen;
+  const dtOn = useSettings().penDoubleTap !== 'none';
   const sen = sents[i];
   const note = useInkNote(hwKey(lessonKey, sen.id), { lessonKey, kind: 'hw', ref: sen.id });
   const rows = useLiveQuery(() => db.inkNotes.where('lessonKey').equals(lessonKey).filter((r) => r.kind === 'hw').toArray(), [lessonKey]);
@@ -74,9 +74,9 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
           <p lang="en" style={{ fontFamily: 'var(--serif)', fontSize: 'var(--read-size)', lineHeight: 1.5, margin: 0 }} data-testid="hw-sentence">{sen.en}</p>
           <div style={{ position: 'relative', width: '100%', aspectRatio: `1 / ${PAD_ASPECT}`, backgroundColor: '#fff', backgroundImage: padBg, border: '1px solid var(--line)', borderRadius: 10, touchAction: 'pan-y' }}
             data-testid="hw-pad">
-            <InkSurface strokes={note.strokes} onChange={note.set} active tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} testid="hw-surface" />
+            <InkSurface strokes={note.strokes} onChange={note.set} active tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn ? () => pen.doubleTap(note) : undefined} testid="hw-surface" />
           </div>
-          <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} fingerDraw={finger} setFingerDraw={setFinger} onUndo={note.undo} onRedo={note.redo} canUndo={note.canUndo} canRedo={note.canRedo} eraseMode={eraseMode} setEraseMode={setEraseMode} onClear={note.clear} />
+          <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} size={size} setSize={setSize} fingerDraw={finger} setFingerDraw={setFinger} onUndo={note.undo} onRedo={note.redo} canUndo={note.canUndo} canRedo={note.canRedo} eraseMode={eraseMode} setEraseMode={setEraseMode} onClear={note.clear} />
           <div className={s.row}>
             <button type="button" className={s.btn} disabled={i === 0} onClick={() => setI(i - 1)}>‹ 이전 문장</button>
             <button type="button" className={s.primary} disabled={i === sents.length - 1} onClick={() => setI(i + 1)} data-testid="hw-next">다음 문장 ›</button>

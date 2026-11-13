@@ -61,6 +61,8 @@ export interface Settings {
   keepAwake: 'off' | 'lesson' | 'always';
   /** 애플펜슬이 닿으면 바로 메모(메모 모드 자동으로 켜짐) */
   penAuto: boolean;
+  /** 펜슬 끝으로 두 번 톡: 지우개로 바꾸기 / 이전 / 형광펜으로 바꾸기 / 없음 */
+  penDoubleTap: 'eraser' | 'undo' | 'hl' | 'none';
   /** 단어를 누르면 바로 발음 읽기(듣기 재생 중에는 안 읽음) */
   wordAutoSpeak: boolean;
 }
@@ -74,6 +76,7 @@ export const DEFAULT_SETTINGS: Settings = {
   newsEnabled: true,
   keepAwake: 'lesson',
   penAuto: true,
+  penDoubleTap: 'eraser',
   wordAutoSpeak: true,
   track: 'general',
   levelByTrack: { general: null, toeic: null },

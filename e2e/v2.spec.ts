@@ -894,3 +894,46 @@ test('v39. 지우개(획/부분), 이전·되살리기', async ({ page }) => {
   await drawLine(page, 'ink-box', 0.1, 0.5, 0.5, 0.5);
   await expect(page.getByTestId('ink-redo')).toBeDisabled();
 });
+
+async function penTap(page: Page, testid: string, fx: number, fy: number) {
+  const b = (await page.getByTestId(testid).boundingBox())!;
+  await page.evaluate(({ x, y }) => {
+    const target = document.elementFromPoint(x, y)!;
+    const o = { pointerType: 'pen', pointerId: 9, isPrimary: true, clientX: x, clientY: y, pressure: 0.5, bubbles: true, cancelable: true, button: 0, buttons: 1 };
+    target.dispatchEvent(new PointerEvent('pointerdown', o));
+    target.dispatchEvent(new PointerEvent('pointerup', o));
+  }, { x: b.x + b.width * fx, y: b.y + 120 * fy });
+}
+
+test('v40. 펜 색 직접 고르기·굵기, 펜슬 두 번 톡 = 지우개 ↔ 펜(점은 안 남김)', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.getByTestId('ink-toggle').click();
+  await page.getByTestId('ink-color-input').fill('#ff00aa');
+  await page.getByTestId('ink-size-3').click();
+  await drawLine(page, 'ink-box', 0.1, 0.1, 0.8, 0.1);
+  const s1 = page.getByTestId('ink-stroke').first();
+  await expect(s1).toHaveAttribute('stroke', '#ff00aa');
+  await page.getByTestId('ink-size-0').click();
+  await drawLine(page, 'ink-box', 0.1, 0.4, 0.8, 0.4);
+  const w = async (i: number) => Number(await page.getByTestId('ink-stroke').nth(i).getAttribute('stroke-width'));
+  expect(await w(0)).toBeGreaterThan((await w(1)) * 3);
+  // 펜슬 한 번 톡 = 점 하나(잠깐 뒤 저장)
+  await penTap(page, 'ink-box', 0.5, 1.5);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(3);
+  await page.waitForTimeout(600);
+  // 두 번 톡 = 지우개로(점 안 남김)
+  await penTap(page, 'ink-box', 0.6, 2.2);
+  await penTap(page, 'ink-box', 0.6, 2.2);
+  await expect(page.getByText('🧽 지우개로')).toBeVisible();
+  await page.waitForTimeout(500);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(3);
+  await expect(page.getByTestId('ink-eraser')).toHaveAttribute('aria-pressed', 'true');
+  // 다시 두 번 톡 = 펜으로
+  await penTap(page, 'ink-box', 0.6, 2.6);
+  await penTap(page, 'ink-box', 0.6, 2.6);
+  await expect(page.getByText('✏️ 펜으로')).toBeVisible();
+  // 설정 확인: 색·굵기는 기억됨
+  await page.reload();
+  await page.getByTestId('ink-toggle').click();
+  await expect(page.getByTestId('ink-size-0')).toHaveAttribute('aria-pressed', 'true');
+});

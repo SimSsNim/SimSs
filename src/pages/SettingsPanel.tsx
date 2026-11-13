@@ -29,6 +29,15 @@ export function SettingsPanel() {
       <section className={s.card + ' ' + s.stack}>
         <b>화면</b>
         <label className={s.check}><input type="checkbox" checked={st.penAuto} onChange={(e) => setSetting('penAuto', e.target.checked)} data-testid="pen-auto" />애플펜슬로 바로 메모(펜슬이 닿으면 메모가 켜지고, 손가락은 그대로 단어 누르기·스크롤)</label>
+        <label className={s.label}>펜슬로 화면을 두 번 톡 치면
+          <select className={s.select} value={st.penDoubleTap} onChange={(e) => setSetting('penDoubleTap', e.target.value as 'eraser' | 'undo' | 'hl' | 'none')} data-testid="pen-double-tap">
+            <option value="eraser">지우개 ↔ 펜 바꾸기</option>
+            <option value="undo">이전(직전 획 지우기)</option>
+            <option value="hl">형광펜 ↔ 펜 바꾸기</option>
+            <option value="none">아무것도 안 함</option>
+          </select>
+          <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>펜슬 몸통 두 번 톡(애플펜슬 2·Pro)은 웹 앱에서 받을 수 없어서, 펜슬 끝으로 화면을 빠르게 두 번 톡 치는 방식이에요.</span>
+        </label>
         <label className={s.label}>화면 꺼짐 방지
           <select className={s.select} value={st.keepAwake} onChange={(e) => setSetting('keepAwake', e.target.value as 'off' | 'lesson' | 'always')} data-testid="keep-awake">
             <option value="lesson">레슨 볼 때만 켜 두기</option>
