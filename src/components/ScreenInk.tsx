@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import s from '../styles/ui.module.css';
-import { InkSurface, type InkTool } from './InkSurface';
+import { InkSurface, type InkTool, type EraseMode } from './InkSurface';
 import { InkToolbar, useInkNote } from './InkTools';
 import { INK_COLORS, screenKey } from '../lib/ink';
 import { useSettings, setSetting } from '../lib/settings';
@@ -21,6 +21,7 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
   const [tool, setTool] = useState<InkTool>('pen');
   const [color, setColor] = useState<string>(INK_COLORS[0]);
   const [finger, setFinger] = useState(false);
+  const [eraseMode, setEraseMode] = useState<EraseMode>('stroke');
   const [busy, setBusy] = useState(false);
   const view = Object.fromEntries(VIEW_KEYS.map((k) => [k, st[k]]));
   const note = useInkNote(screenKey(lessonKey, tab), { lessonKey, kind: 'screen', ref: tab, view });
@@ -54,14 +55,14 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
       )}
       <div ref={box} style={{ position: 'relative', cursor: on ? (tool === 'eraser' ? 'cell' : 'crosshair') : undefined, touchAction: on && finger ? 'none' : undefined, userSelect: on ? 'none' : undefined }} data-testid="ink-box">
         {children}
-        <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger}
+        <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode}
           penAlways={st.penAuto} onPenStart={() => { setTool((t) => (t === 'eraser' ? 'pen' : t)); setOn(true); }} />
       </div>
       <div data-pdf-skip="1" style={{ position: 'fixed', right: 12, bottom: 'calc(var(--nav-h) + var(--player-h) + 12px + env(safe-area-inset-bottom))', zIndex: 36, maxWidth: 'calc(100vw - 24px)' }}>
         {on ? (
           <div className={s.card} style={{ padding: '6px 8px', boxShadow: '0 6px 24px rgb(0 0 0 / 18%)', maxWidth: 'min(740px, calc(100vw - 24px))' }}>
             <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} fingerDraw={finger} setFingerDraw={setFinger}
-              onUndo={note.undo} onClear={note.clear}
+              onUndo={note.undo} onRedo={note.redo} canUndo={note.canUndo} canRedo={note.canRedo} eraseMode={eraseMode} setEraseMode={setEraseMode} onClear={note.clear}
               extra={<>
                 <button type="button" className={s.chip} onClick={() => void pdf()} disabled={busy} style={{ flex: 'none' }} data-testid="ink-pdf">{busy ? '만드는 중…' : '📄 PDF'}</button>
                 <button type="button" className={s.chip} aria-pressed="true" onClick={() => setOn(false)} style={{ flex: 'none' }} data-testid="ink-done">완료</button>

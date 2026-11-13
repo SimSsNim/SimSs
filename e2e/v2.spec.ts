@@ -862,3 +862,35 @@ test('v38. 애플펜슬이 닿으면 바로 메모(버튼 없이), 손가락·�
   await penLine(page, 'ink-box', 0.1, 3, 0.5);
   await expect(page.getByTestId('ink-stroke')).toHaveCount(2);
 });
+
+test('v39. 지우개(획/부분), 이전·되살리기', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.getByTestId('ink-toggle').click();
+  const strokes = page.getByTestId('ink-stroke');
+  await drawLine(page, 'ink-box', 0.1, 0.1, 0.8, 0.1);
+  await drawLine(page, 'ink-box', 0.1, 0.3, 0.8, 0.3);
+  await expect(strokes).toHaveCount(2);
+  // 이전·되살리기: 한 획씩
+  await page.getByTestId('ink-undo').click();
+  await expect(strokes).toHaveCount(1);
+  await page.getByTestId('ink-redo').click();
+  await expect(strokes).toHaveCount(2);
+  await expect(page.getByTestId('ink-redo')).toBeDisabled();
+  // 부분 지우개: 가운데를 세로로 지나가면 획이 둘로 나뉨(통째로 사라지지 않음)
+  await page.getByTestId('ink-eraser-part').click();
+  await drawLine(page, 'ink-box', 0.45, 0.05, 0.45, 0.15);
+  await expect(strokes).toHaveCount(3);
+  // 지우개 한 번은 '이전' 한 번으로 통째로 되돌아감
+  await page.getByTestId('ink-undo').click();
+  await expect(strokes).toHaveCount(2);
+  // 획 지우개: 닿은 획 전체가 사라짐
+  await page.getByTestId('ink-eraser').click();
+  await drawLine(page, 'ink-box', 0.45, 0.25, 0.45, 0.35);
+  await expect(strokes).toHaveCount(1);
+  await page.getByTestId('ink-undo').click();
+  await expect(strokes).toHaveCount(2);
+  // 새로 쓰면 되살리기 목록은 비워짐
+  await page.getByTestId('ink-pen-1f2937').click();
+  await drawLine(page, 'ink-box', 0.1, 0.5, 0.5, 0.5);
+  await expect(page.getByTestId('ink-redo')).toBeDisabled();
+});

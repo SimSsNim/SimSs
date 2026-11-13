@@ -81,3 +81,38 @@ export function hitStrokes(strokes: InkStroke[], x: number, y: number, r: number
   });
   return out;
 }
+
+/** 부분 지우개: (x,y) 반경 r 안의 점을 지우고, 끊긴 곳에서 획을 나눈다(점 간격이 넓으면 먼저 촘촘하게) */
+export function eraseAtPoint(strokes: InkStroke[], x: number, y: number, r: number): InkStroke[] | null {
+  let changed = false;
+  const out: InkStroke[] = [];
+  const r2 = r * r;
+  for (const s of strokes) {
+    // 빠르게 그어 점이 듬성한 획: 지우개 반경의 절반 간격으로 채움
+    const pts: number[] = [];
+    for (let i = 0; i < s.p.length; i += 3) {
+      if (i > 0) {
+        const [x0, y0, p0] = [s.p[i - 3], s.p[i - 2], s.p[i - 1]];
+        const [x1, y1, p1] = [s.p[i], s.p[i + 1], s.p[i + 2]];
+        const n = Math.floor(Math.hypot(x1 - x0, y1 - y0) / (r / 2));
+        for (let k = 1; k < n; k++) pts.push(x0 + ((x1 - x0) * k) / n, y0 + ((y1 - y0) * k) / n, p0 + ((p1 - p0) * k) / n);
+      }
+      pts.push(s.p[i], s.p[i + 1], s.p[i + 2]);
+    }
+    let seg: number[] = [];
+    let hit = false;
+    for (let i = 0; i < pts.length; i += 3) {
+      const dx = pts[i] - x;
+      const dy = pts[i + 1] - y;
+      if (dx * dx + dy * dy <= r2) {
+        hit = true;
+        if (seg.length >= 6) out.push({ ...s, p: seg });
+        seg = [];
+      } else seg.push(pts[i], pts[i + 1], pts[i + 2]);
+    }
+    if (!hit) { out.push(s); continue; }
+    changed = true;
+    if (seg.length >= 6) out.push({ ...s, p: seg });
+  }
+  return changed ? out : null;
+}

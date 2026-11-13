@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
-import { strokePath, strokeWidth, hitStrokes, PEN_W, HL_W, HL_COLOR, type InkStroke } from '../lib/ink';
+import { strokePath, strokeWidth, hitStrokes, eraseAtPoint, PEN_W, HL_W, HL_COLOR, type InkStroke } from '../lib/ink';
 
 export type InkTool = 'pen' | 'hl' | 'eraser';
+export type EraseMode = 'stroke' | 'part';
 
 /**
  * 손글씨 층(SVG). 부모 칸을 꽉 덮는다(부모는 position: relative).
@@ -10,18 +11,20 @@ export type InkTool = 'pen' | 'hl' | 'eraser';
  * - penAlways: 메모 모드가 아니어도 애플펜슬이 닿으면 바로 그림(onPenStart 로 알림)
  * 좌표는 칸 너비를 1 로 둔 비율 → 화면 폭이 바뀌어도 비율대로 따라감
  */
-export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw, penAlways = false, onPenStart, testid = 'ink-surface' }: {
-  strokes: InkStroke[]; onChange: (next: InkStroke[]) => void; active: boolean; tool: InkTool; color: string; fingerDraw: boolean;
+export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw, penAlways = false, onPenStart, eraseMode = 'stroke', testid = 'ink-surface' }: {
+  strokes: InkStroke[]; onChange: (next: InkStroke[]) => void; active: boolean; tool: InkTool; color: string; fingerDraw: boolean; eraseMode?: EraseMode;
   penAlways?: boolean; onPenStart?: () => void; testid?: string;
 }) {
   const ref = useRef<SVGSVGElement>(null);
   const [W, setW] = useState(0);
   const [live, setLive] = useState<InkStroke | null>(null);
+  /** 지우는 중 미리보기(손을 뗄 때 한 번에 저장 → '이전'이 지우개 한 번을 통째로 되돌림) */
+  const [preview, setPreview] = useState<InkStroke[] | null>(null);
   const cur = useRef<{ id: number; stroke: InkStroke | null; erased: InkStroke[] | null } | null>(null);
   const lastEnd = useRef({ at: 0, x: 0, y: 0 });
   // 리스너에서 최신 값을 쓰도록
-  const st = useRef({ strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart });
-  st.current = { strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart };
+  const st = useRef({ strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode });
+  st.current = { strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode };
 
   useEffect(() => {
     const el = ref.current;
@@ -48,10 +51,15 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
     const eraseAt = (x: number, y: number) => {
       const c = cur.current!;
       const base = c.erased ?? st.current.strokes;
-      const hit = hitStrokes(base, x, y, 0.02);
-      if (hit.length) {
-        c.erased = base.filter((_, i) => !hit.includes(i));
-        st.current.onChange(c.erased);
+      let next: InkStroke[] | null = null;
+      if (st.current.eraseMode === 'part') next = eraseAtPoint(base, x, y, 0.014);
+      else {
+        const hit = hitStrokes(base, x, y, 0.02);
+        if (hit.length) next = base.filter((_, i) => !hit.includes(i));
+      }
+      if (next) {
+        c.erased = next;
+        setPreview(next);
       }
     };
     const down = (e: PointerEvent) => {
@@ -91,8 +99,10 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
       setLive(null);
       lastEnd.current = { at: Date.now(), x: e.clientX, y: e.clientY };
       if (c.stroke) st.current.onChange([...st.current.strokes, c.stroke]);
+      else if (c.erased) st.current.onChange(c.erased);
+      setPreview(null);
     };
-    const cancel = () => { cur.current = null; setLive(null); };
+    const cancel = () => { const c = cur.current; cur.current = null; setLive(null); if (c?.erased) st.current.onChange(c.erased); setPreview(null); };
     // 그린 직후 따라오는 click(단어 창 열림)을 막는다
     const click = (e: MouseEvent) => {
       const l = lastEnd.current;
@@ -125,7 +135,7 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
   return (
     <svg ref={ref} data-ink="1" data-testid={testid} aria-hidden="true"
       style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', zIndex: 5, overflow: 'visible', pointerEvents: 'none' }}>
-      {W > 0 && [...strokes, ...(live ? [live] : [])].map((s, i) => (
+      {W > 0 && [...(preview ?? strokes), ...(live ? [live] : [])].map((s, i) => (
         <path key={i} d={strokePath(s.p, W)} fill="none" stroke={s.c} strokeWidth={strokeWidth(s, W)} strokeLinecap="round" strokeLinejoin="round"
           opacity={s.t === 'hl' ? 0.35 : 1} data-testid="ink-stroke" />
       ))}
