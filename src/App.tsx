@@ -2,6 +2,7 @@ import { lazy, Suspense, useEffect } from 'react';
 import { useBackTracker } from './lib/backTarget';
 import { useWakeLock } from './lib/wakeLock';
 import { PullToRefresh } from './components/PullToRefresh';
+import { PdfReady } from './components/PdfReady';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
 import { useSettings, setSetting, getSettings } from './lib/settings';
 import { isTrack } from './lib/types';
@@ -84,6 +85,7 @@ export function App() {
   return (
     <HashRouter>
       <BackTracker />
+      <PdfReady />
       <PullToRefresh />
       <Suspense fallback={<div style={{ minHeight: '100dvh' }} />}>
       <Routes>

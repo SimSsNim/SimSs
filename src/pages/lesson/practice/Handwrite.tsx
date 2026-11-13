@@ -8,7 +8,7 @@ import { InkToolbar, useInkNote } from '../../../components/InkTools';
 import { INK_COLORS, hwKey, drawStrokes } from '../../../lib/ink';
 import { db } from '../../../lib/db';
 import { autoCheck } from '../../../lib/progress';
-import { handwritingPdf, deliverPdf, ruled } from '../../../lib/pdf';
+import { handwritingPdf, offerPdf, ruled } from '../../../lib/pdf';
 import { toast } from '../../../components/Toast';
 import { formatKo } from '../../../lib/date';
 import { useEffect, useRef } from 'react';
@@ -45,7 +45,7 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
     setBusy(true);
     try {
       const blob = await handwritingPdf(pages, `${lesson.title} — 손글씨 필사`, `${formatKo(lesson.date)} · 레벨 ${lesson.level} · ${pages.length}/${sents.length}문장`);
-      await deliverPdf(blob, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-손글씨.pdf`);
+      offerPdf(blob, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-손글씨.pdf`);
     } catch (e) {
       toast(`PDF를 만들지 못했어요: ${String(e)}`);
     } finally {

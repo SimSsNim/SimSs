@@ -688,9 +688,12 @@ test('v32. 본문 + 메모를 PDF로 저장', async ({ page }) => {
   await start(page, './#/general/lesson/2026-11-12-L1/full');
   await page.getByTestId('ink-toggle').click();
   await drawLine(page, 'ink-box', 0.1, 0.1, 0.6, 0.15);
-  const dl = page.waitForEvent('download', { timeout: 30000 });
   await page.getByTestId('ink-pdf').click();
+  await expect(page.getByTestId('pdf-ready')).toBeVisible({ timeout: 30000 });
+  const dl = page.waitForEvent('download', { timeout: 30000 });
+  await page.getByTestId('pdf-save').click();
   const d = await dl;
+  await expect(page.getByTestId('pdf-ready')).toHaveCount(0);
   expect(d.suggestedFilename()).toMatch(/\.pdf$/);
   const buf = await readFileSync(await d.path());
   expect(buf.subarray(0, 4).toString()).toBe('%PDF');
@@ -710,9 +713,22 @@ test('v33. 손글씨 필사: 문장마다 쓰고 모아 보기·PDF', async ({ p
   await page.getByTestId('hw-all').click();
   await expect(page.getByTestId('hw-all')).toContainText('2/');
   await expect(page.getByTestId('hw-page').first().locator('canvas')).toBeVisible();
-  const dl = page.waitForEvent('download', { timeout: 30000 });
   await page.getByTestId('hw-pdf').click();
+  await expect(page.getByTestId('pdf-ready')).toBeVisible({ timeout: 30000 });
+  const dl = page.waitForEvent('download', { timeout: 30000 });
+  await page.getByTestId('pdf-save').click();
   const d = await dl;
   const buf = readFileSync(await d.path());
   expect(buf.subarray(0, 4).toString()).toBe('%PDF');
+});
+
+test('v34. PDF를 열었다 닫아 앱이 처음부터 다시 열려도 보던 화면으로 돌아옴', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/vocab');
+  // 아이패드에서 PDF 보기를 닫으면 앱이 시작 주소로 다시 열리는 상황 흉내
+  await page.evaluate(() => localStorage.setItem('pilsa.resumeRoute', JSON.stringify({ hash: '#/general/lesson/2026-11-12-L1/vocab', at: Date.now() })));
+  await page.goto('./');
+  await expect(page).toHaveURL(/#\/general\/lesson\/2026-11-12-L1\/vocab$/);
+  // 한 번만: 다시 열면 평소대로
+  await page.goto('./');
+  await expect(page).not.toHaveURL(/lesson/);
 });

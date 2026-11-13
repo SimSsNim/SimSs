@@ -55,15 +55,37 @@ function toPdf(jsPDF: typeof import('jspdf').jsPDF, blocks: HTMLCanvasElement[])
   return doc.output('blob');
 }
 
-/** 만든 PDF: 공유 시트(아이패드 → '파일에 저장')가 되면 그걸로, 아니면 내려받기 */
-export async function deliverPdf(blob: Blob, filename: string): Promise<'shared' | 'downloaded'> {
+/** 만든 PDF 를 '준비됨' 칸에 올린다. 공유 시트는 사용자가 그 칸의 버튼을 누를 때 연다
+ *  (아이패드는 PDF 를 만드는 몇 초가 지나면 공유를 거절해, 내려받기로 넘어가며 앱이 처음 화면으로 돌아가 버림) */
+type Ready = { blob: Blob; filename: string } | null;
+let ready: Ready = null;
+const subs = new Set<() => void>();
+export const offerPdf = (blob: Blob, filename: string) => { ready = { blob, filename }; subs.forEach((f) => f()); };
+export const clearPdf = () => { ready = null; subs.forEach((f) => f()); };
+export const subscribePdf = (f: () => void) => { subs.add(f); return () => { subs.delete(f); }; };
+export const getReadyPdf = () => ready;
+
+/** 앱이 다시 시작되면(아이패드에서 PDF 를 닫을 때 등) 보던 화면으로 돌아오게 기억 */
+export const RESUME_KEY = 'pilsa.resumeRoute';
+export function rememberRoute() {
+  try { localStorage.setItem(RESUME_KEY, JSON.stringify({ hash: location.hash, at: Date.now() })); } catch { /* 저장 불가 */ }
+}
+
+const forgetRoute = () => { try { localStorage.removeItem(RESUME_KEY); } catch { /* */ } };
+
+/** 버튼을 누른 그 순간에 부른다: 공유 시트(아이패드 → '파일에 저장'), 안 되면 내려받기 */
+export async function deliverPdf(blob: Blob, filename: string): Promise<'shared' | 'downloaded' | 'cancelled'> {
   const file = new File([blob], filename, { type: 'application/pdf' });
   const nav = navigator as Navigator & { canShare?: (d: { files: File[] }) => boolean };
+  rememberRoute();
   if (nav.canShare?.({ files: [file] }) && typeof nav.share === 'function') {
     try {
       await nav.share({ files: [file], title: filename });
+      forgetRoute();
       return 'shared';
-    } catch { /* 취소하면 내려받기로 */ }
+    } catch (e) {
+      if ((e as DOMException).name === 'AbortError') { forgetRoute(); return 'cancelled'; }
+    }
   }
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
@@ -72,7 +94,9 @@ export async function deliverPdf(blob: Blob, filename: string): Promise<'shared'
   document.body.appendChild(a);
   a.click();
   a.remove();
-  setTimeout(() => URL.revokeObjectURL(url), 30000);
+  setTimeout(() => URL.revokeObjectURL(url), 60000);
+  // 화면이 그대로 살아 있으면(내려받기만 됨) 기억을 지운다. 앱이 다시 시작됐다면 이 타이머는 안 돈다
+  setTimeout(forgetRoute, 4000);
   return 'downloaded';
 }
 

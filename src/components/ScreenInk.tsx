@@ -4,7 +4,7 @@ import { InkSurface, type InkTool } from './InkSurface';
 import { InkToolbar, useInkNote } from './InkTools';
 import { INK_COLORS, screenKey } from '../lib/ink';
 import { useSettings, setSetting } from '../lib/settings';
-import { screenPdf, deliverPdf } from '../lib/pdf';
+import { screenPdf, offerPdf } from '../lib/pdf';
 import { toast } from './Toast';
 import { formatKo } from '../lib/date';
 import type { Lesson } from '../lib/types';
@@ -35,8 +35,7 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
     setBusy(true);
     try {
       const blob = await screenPdf(box.current, note.strokes, lesson.title, `${tabLabel} · ${formatKo(lesson.date)} · 레벨 ${lesson.level}`);
-      const how = await deliverPdf(blob, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-${tab}.pdf`);
-      toast(how === 'shared' ? 'PDF를 만들었어요' : 'PDF를 내려받았어요');
+      offerPdf(blob, `${lesson.date}-${lesson.title.replace(/[^\w가-힣 -]/g, '').slice(0, 40)}-${tab}.pdf`);
     } catch (e) {
       toast(`PDF를 만들지 못했어요: ${String(e)}`);
     } finally {

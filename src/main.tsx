@@ -32,7 +32,19 @@ function applyStartPriority(st: Settings) {
   if (changed) setSetting('levelByTrack', lv);
 }
 
+/** PDF 를 열었다 닫으며 앱이 처음부터 다시 열렸으면(아이패드 홈 화면 앱) 15분 안이면 보던 화면으로 */
+function resumeAfterPdf() {
+  try {
+    const raw = localStorage.getItem('pilsa.resumeRoute');
+    if (!raw) return;
+    localStorage.removeItem('pilsa.resumeRoute');
+    const r = JSON.parse(raw) as { hash: string; at: number };
+    if (['', '#', '#/'].includes(location.hash) && r.hash && Date.now() - r.at < 15 * 60 * 1000) location.replace(r.hash);
+  } catch { /* 무시 */ }
+}
+
 async function boot() {
+  resumeAfterPdf();
   await loadSettings();
   const st = getSettings();
   if (st.backupReminderShownAt === null && st.lastBackupAt === null) setSetting('backupReminderShownAt', Date.now());
