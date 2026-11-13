@@ -802,3 +802,25 @@ test('v36. 기록은 시간이 아니라 활동: 이야기 화면 15초 머묾 �
   await expect(page.getByTestId('day-lesson').first()).toContainText('전체 문장');
   await expect(page.getByText('✏️ 토익 문제 2문제')).toBeVisible();
 });
+
+test('v37. 문법 표시를 켜고 문법 음영 위 단어를 누르면 단어 뜻과 문법을 함께', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await page.getByRole('button', { name: '문법', exact: true }).click();
+  const g = page.locator('[data-grammar]').first();
+  await expect(g).toBeVisible();
+  const gid = await g.getAttribute('data-grammar');
+  const word = (await g.textContent())!.trim();
+  await g.click();
+  const dlg = page.getByRole('dialog', { name: /단어/ });
+  await expect(dlg.getByTestId('popup-grammar')).toBeVisible();
+  await expect(dlg.getByTestId('popup-grammar')).toContainText('✏️ 문법 ·');
+  await expect(dlg).not.toContainText('뜻 정보가 없어요');
+  await dlg.getByRole('button', { name: '닫기' }).click();
+  // 문법 표시를 끄면 같은 단어도 단어 뜻만
+  await page.getByRole('button', { name: '✓문법', exact: true }).click();
+  await expect(page.locator('[data-grammar]')).toHaveCount(0);
+  await page.locator('span', { hasText: new RegExp(`^${word}$`) }).first().click();
+  await expect(page.getByRole('dialog', { name: /단어/ })).toBeVisible();
+  await expect(page.getByRole('dialog', { name: /단어/ }).getByTestId('popup-grammar')).toHaveCount(0);
+  expect(gid).toBeTruthy();
+});

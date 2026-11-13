@@ -25,7 +25,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
   const numbered = lesson.chapter === 'part5';
   const st = useSettings();
   const player = usePlayer();
-  const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; gloss?: GlossEntry; sentence: string } | null>(null);
+  const [popup, setPopup] = useState<{ word: string; vocab?: Vocab; gloss?: GlossEntry; sentence: string; grammarId?: string; sentenceId: string } | null>(null);
   const [menu, setMenu] = useState<Sentence | null>(null);
   const marks = useLiveQuery(() => db.sentenceMarks.where('lessonKey').equals(lessonKey).toArray(), [lessonKey]);
   const endRef = useRef<HTMLDivElement>(null);
@@ -101,7 +101,7 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
                         bookmarked={!!mark?.bookmark} hard={!!mark?.hard} onLong={() => setMenu(sen)}>
                         <SentenceText sentence={sen} vocab={st.hlVocab ? vocabOf(lesson, sen.id) : []}
                           grammar={st.hlGrammar ? grammarOf(lesson, sen.id) : []} structure={structureOf(lesson, sen.id)} slashes={st.showSlashes}
-                          onWord={(w, v) => { const vv = v ?? findVocab(lesson.vocab, sen.id, w); autoSpeakWord(vv?.term ?? w); setPopup({ word: w, vocab: vv, gloss: lesson.glossary[wordKey(w)], sentence: sen.en }); }} />
+                          onWord={(w, v, gid) => { const vv = v ?? findVocab(lesson.vocab, sen.id, w); autoSpeakWord(vv?.term ?? w); setPopup({ word: w, vocab: vv, gloss: lesson.glossary[wordKey(w)], sentence: sen.en, grammarId: st.hlGrammar ? gid : undefined, sentenceId: sen.id }); }} />
                       </SentenceSpan>
                     ) : (
                       <>{i > 0 ? ' ' : null}{renderKo(sen.id, sen.ko, '')}</>
@@ -122,7 +122,8 @@ export function FullTextTab({ lesson, lessonKey, gate }: TabProps) {
       <div ref={endRef} aria-hidden="true" style={{ height: 1 }} />
       <Source lesson={lesson} />
 
-      {popup && <WordPopup word={popup.word} vocab={popup.vocab} gloss={popup.gloss} sentence={popup.sentence} lessonKey={lessonKey} onClose={() => setPopup(null)} />}
+      {popup && <WordPopup word={popup.word} vocab={popup.vocab} gloss={popup.gloss} sentence={popup.sentence} lessonKey={lessonKey} onClose={() => setPopup(null)}
+        grammar={popup.grammarId ? lesson.grammar.find((g) => g.id === popup.grammarId) : undefined} grammarLink={`/${lesson.track}/lesson/${lesson.id}/structure?s=${popup.sentenceId}`} />}
       {menu && <SentenceMenu lesson={lesson} lessonKey={lessonKey} sentence={menu} mark={marks?.find((m) => m.sentenceId === menu.id)} onClose={() => setMenu(null)} />}
     </div>
   );

@@ -23,7 +23,7 @@ export function SentenceText(props: {
   grammar?: GrammarPoint[];
   structure?: Structure;
   slashes?: boolean;
-  onWord?: (word: string, vocab?: Vocab) => void;
+  onWord?: (word: string, vocab?: Vocab, grammarId?: string) => void;
 }) {
   const pieces = segmentSentence(props.sentence.en, props);
   return (
@@ -37,7 +37,7 @@ export function SentenceText(props: {
         const v = p.vocabId ? props.vocab?.find((x) => x.id === p.vocabId) : undefined;
         return (
           <span key={i} style={{ display: 'contents' }}>{slash}<span className={cls} data-vocab={p.vocabId} data-grammar={p.grammarId}
-            onClick={p.word && props.onWord ? (e) => { e.stopPropagation(); props.onWord!(p.word!, v); } : undefined}>
+            onClick={p.word && props.onWord ? (e) => { e.stopPropagation(); props.onWord!(p.word!, v, p.grammarId ?? undefined); } : undefined}>
             {p.text}
           </span></span>
         );
@@ -84,7 +84,7 @@ export function autoSpeakWord(text: string) {
 /** 네이버 영어사전 검색 주소(인터넷 연결 시 더 자세한 뜻·예문) */
 export const dictUrl = (term: string) => `https://en.dict.naver.com/#/search?query=${encodeURIComponent(term)}`;
 
-export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: { word: string; vocab?: Vocab; gloss?: GlossEntry; sentence?: string; lessonKey: string; onClose: () => void }) {
+export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, grammar, grammarLink }: { word: string; vocab?: Vocab; gloss?: GlossEntry; sentence?: string; lessonKey: string; onClose: () => void; grammar?: GrammarPoint; grammarLink?: string }) {
   const voices = useVoices();
   const sayText = vocab?.term ?? word;
   const say = (text: string, slow = false) => speakWord(text, slow);
@@ -137,6 +137,14 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose }: 
           <span className={s.muted + ' ' + s.small}>이 레슨 파일에는 이 단어의 뜻 정보가 없어요.</span>
           <FavWordButton term={word.toLowerCase()} snap={{ meaningKo: '', sentence, lessonKey }} />
           <a className={s.ghost} href={dictUrl(word)} target="_blank" rel="noopener noreferrer">사전에서 찾기 ↗</a>
+        </div>
+      )}
+      {grammar && (
+        <div data-testid="popup-grammar" style={{ marginTop: 10, padding: '8px 10px', borderRadius: 10, background: 'var(--hl-grammar)', borderLeft: '3px solid var(--hl-grammar-line)' }}>
+          <div className={s.small} style={{ fontWeight: 700 }}>✏️ 문법 · {grammar.title}</div>
+          <p className={s.small} style={{ margin: '4px 0' }}>{grammar.explanationKo}</p>
+          {grammar.note && <p className={s.small} style={{ margin: '0 0 4px', color: 'var(--warn)' }}>⚠️ {grammar.note}</p>}
+          {grammarLink && <a className={s.small} href={`#${grammarLink}`} onClick={onClose}>문장+문법에서 자세히 ›</a>}
         </div>
       )}
     </Sheet>
