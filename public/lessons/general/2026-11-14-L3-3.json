@@ -1,0 +1,1786 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-14-L3-3",
+  "date": "2026-11-14",
+  "level": 3,
+  "title": "The Frog-Prince",
+  "titleKo": "개구리 왕자",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "enchantment"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (The Frog-Prince)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'The Frog-Prince' 끝부분 3개 단락 (‘And when the princess opened the door the frog came in’부터 ‘his heart had well-nigh burst.’까지; 이야기 마지막 한 단락은 제외). 도입부는 단락 단위로 200~250단어가 맞지 않아(첫 단락 177, 첫 두 단락 433단어) 왕자로 변하는 장면을 골랐다. 줄바꿈만 공백 하나로 이음."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_12_frogprince.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_12_frogprince_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Kara Shallenberg",
+    "durationSec": 444,
+    "startSec": 335,
+    "endSec": 420,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 12 'The Frog Prince'. 지문은 이야기 끝부분(약 5:35~7:00, 추정)."
+  },
+  "wordCount": 236,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "그리고 공주가 문을 열자 개구리가 들어와서 전처럼 공주의 베개 위에서 날이 밝을 때까지 잤다. 그리고 셋째 날 밤에도 개구리는 똑같이 했다. 그런데 그다음 날 아침 공주가 잠에서 깨어 보니, 개구리 대신 잘생긴 왕자가 공주가 지금껏 본 중 가장 아름다운 눈으로 공주를 바라보며 침대 머리맡에 서 있어서 공주는 깜짝 놀랐다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4",
+        "s5"
+      ],
+      "ko": "왕자는 공주에게, 자신이 심술궂은 요정에게 마법에 걸려 개구리로 변했으며, 어떤 공주가 자신을 샘에서 꺼내 주고, 자기 접시에서 음식을 먹게 해 주고, 사흘 밤 동안 자기 침대에서 자게 해 줄 때까지 그 모습으로 지낼 운명이었다고 이야기했다. “당신이,” 왕자가 말했다. “그의 잔인한 마법을 풀어 주었어요. 이제 나는 당신이 나와 함께 내 아버지의 왕국으로 가 주는 것 말고는 더 바랄 것이 없어요. 그곳에서 당신과 결혼하고, 당신이 살아 있는 동안 내내 당신을 사랑하겠어요.”"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "어린 공주가 이 모든 말에 ‘네’라고 대답하는 데 오래 걸리지 않았으리라는 것은 짐작이 갈 것이다. 그들이 이야기하는 사이 화려한 마차 한 대가 다가왔는데, 깃털 장식과 황금 마구로 꾸민 아름다운 말 여덟 마리가 끌고 있었다. 그리고 마차 뒤에는 왕자의 충실한 하인 하인리히가 말을 타고 따라왔다. 그는 주인이 마법에 걸려 있는 동안 사랑하는 주인의 불행을 너무나 오랫동안, 너무나 비통하게 슬퍼한 나머지 가슴이 거의 터질 지경이었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "And when the princess opened the door the frog came in, and slept upon her pillow as before, till the morning broke.",
+      "ko": "그리고 공주가 문을 열자 개구리가 들어와서 전처럼 공주의 베개 위에서 날이 밝을 때까지 잤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "And the third night he did the same.",
+      "ko": "그리고 셋째 날 밤에도 개구리는 똑같이 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But when the princess awoke on the following morning she was astonished to see, instead of the frog, a handsome prince, gazing on her with the most beautiful eyes she had ever seen, and standing at the head of her bed.",
+      "ko": "그런데 그다음 날 아침 공주가 잠에서 깨어 보니, 개구리 대신 잘생긴 왕자가 공주가 지금껏 본 중 가장 아름다운 눈으로 공주를 바라보며 침대 머리맡에 서 있어서 공주는 깜짝 놀랐다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "He told her that he had been enchanted by a spiteful fairy, who had changed him into a frog; and that he had been fated so to abide till some princess should take him out of the spring, and let him eat from her plate, and sleep upon her bed for three nights.",
+      "ko": "왕자는 공주에게, 자신이 심술궂은 요정에게 마법에 걸려 개구리로 변했으며, 어떤 공주가 자신을 샘에서 꺼내 주고, 자기 접시에서 음식을 먹게 해 주고, 사흘 밤 동안 자기 침대에서 자게 해 줄 때까지 그 모습으로 지낼 운명이었다고 이야기했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "‘You,’ said the prince, ‘have broken his cruel charm, and now I have nothing to wish for but that you should go with me into my father’s kingdom, where I will marry you, and love you as long as you live.’",
+      "ko": "“당신이,” 왕자가 말했다. “그의 잔인한 마법을 풀어 주었어요. 이제 나는 당신이 나와 함께 내 아버지의 왕국으로 가 주는 것 말고는 더 바랄 것이 없어요. 그곳에서 당신과 결혼하고, 당신이 살아 있는 동안 내내 당신을 사랑하겠어요.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "The young princess, you may be sure, was not long in saying ‘Yes’ to all this; and as they spoke a gay coach drove up, with eight beautiful horses, decked with plumes of feathers and a golden harness; and behind the coach rode the prince’s servant, faithful Heinrich, who had bewailed the misfortunes of his dear master during his enchantment so long and so bitterly, that his heart had well-nigh burst.",
+      "ko": "어린 공주가 이 모든 말에 ‘네’라고 대답하는 데 오래 걸리지 않았으리라는 것은 짐작이 갈 것이다. 그들이 이야기하는 사이 화려한 마차 한 대가 다가왔는데, 깃털 장식과 황금 마구로 꾸민 아름다운 말 여덟 마리가 끌고 있었다. 그리고 마차 뒤에는 왕자의 충실한 하인 하인리히가 말을 타고 따라왔다. 그는 주인이 마법에 걸려 있는 동안 사랑하는 주인의 불행을 너무나 오랫동안, 너무나 비통하게 슬퍼한 나머지 가슴이 거의 터질 지경이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "astonished",
+      "pos": "adjective",
+      "meaningKo": "깜짝 놀란",
+      "ipa": "/əˈstɑːnɪʃt/",
+      "synonyms": [
+        "amazed",
+        "surprised",
+        "stunned"
+      ],
+      "matchText": "astonished",
+      "sentenceId": "s3",
+      "example": {
+        "en": "We were astonished at how fast he learned Korean.",
+        "ko": "우리는 그가 한국어를 얼마나 빨리 배우는지에 깜짝 놀랐다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "gaze",
+      "pos": "verb",
+      "meaningKo": "(가만히) 바라보다, 응시하다",
+      "ipa": "/ɡeɪz/",
+      "synonyms": [
+        "stare",
+        "look",
+        "watch"
+      ],
+      "matchText": "gazing",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She sat by the window, gazing at the stars.",
+        "ko": "그녀는 창가에 앉아 별을 바라보고 있었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "enchant",
+      "pos": "verb",
+      "meaningKo": "마법을 걸다",
+      "ipa": "/ɪnˈtʃænt/",
+      "synonyms": [
+        "bewitch",
+        "cast a spell on"
+      ],
+      "matchText": "enchanted",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The witch enchanted the castle, and everyone fell asleep.",
+        "ko": "마녀가 성에 마법을 걸자 모두가 잠들었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "spiteful",
+      "pos": "adjective",
+      "meaningKo": "심술궂은, 악의적인",
+      "ipa": "/ˈspaɪtfəl/",
+      "synonyms": [
+        "mean",
+        "malicious",
+        "nasty"
+      ],
+      "matchText": "spiteful",
+      "sentenceId": "s4",
+      "example": {
+        "en": "It was spiteful of him to break her toy on purpose.",
+        "ko": "그가 일부러 그녀의 장난감을 망가뜨린 것은 심술궂은 짓이었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "misfortune",
+      "pos": "noun",
+      "meaningKo": "불행, 불운",
+      "ipa": "/mɪsˈfɔːrtʃən/",
+      "synonyms": [
+        "bad luck",
+        "trouble",
+        "hardship"
+      ],
+      "matchText": "misfortunes",
+      "sentenceId": "s6",
+      "example": {
+        "en": "He never complained about his misfortunes.",
+        "ko": "그는 자신의 불행에 대해 한 번도 불평하지 않았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "the princess",
+          "role": "S",
+          "sub": true,
+          "ko": "공주가"
+        },
+        {
+          "text": "awoke",
+          "role": "V",
+          "sub": true,
+          "ko": "깨어났을"
+        },
+        {
+          "text": "on the following morning",
+          "role": "M",
+          "sub": true,
+          "ko": "그다음 날 아침에"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "astonished",
+          "role": "C",
+          "sub": false,
+          "ko": "깜짝 놀란"
+        },
+        {
+          "text": "to see,",
+          "role": "M",
+          "sub": false,
+          "ko": "보고서"
+        },
+        {
+          "text": "instead of the frog,",
+          "role": "M",
+          "sub": false,
+          "ko": "개구리 대신"
+        },
+        {
+          "text": "a handsome prince,",
+          "role": "O",
+          "sub": false,
+          "ko": "잘생긴 왕자를"
+        },
+        {
+          "text": "gazing on her",
+          "role": "M",
+          "sub": false,
+          "ko": "그녀를 바라보고 있는"
+        },
+        {
+          "text": "with the most beautiful eyes",
+          "role": "M",
+          "sub": false,
+          "ko": "가장 아름다운 눈으로"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "had ever seen,",
+          "role": "V",
+          "sub": true,
+          "ko": "지금껏 본"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "standing at the head of her bed.",
+          "role": "M",
+          "sub": false,
+          "ko": "침대 머리맡에 서 있는"
+        }
+      ],
+      "skeleton": "she was astonished to see a handsome prince",
+      "explanation": "when절(공주가 깨어났을 때) 뒤에 주절 she was astonished가 온다. to see는 놀란 이유(~을 보고)를 나타내고, see의 목적어 a handsome prince 앞에 instead of the frog가 끼어 있다. 목적어 뒤의 gazing ~, standing ~은 왕자의 모습을 설명하는 분사구이고, she had ever seen은 eyes를 꾸미는 관계절(that 생략)이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "He",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "told",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "her",
+          "role": "IO",
+          "sub": false,
+          "ko": "그녀에게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~라고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "자신이"
+        },
+        {
+          "text": "had been enchanted",
+          "role": "V",
+          "sub": true,
+          "ko": "마법에 걸렸었다"
+        },
+        {
+          "text": "by a spiteful fairy,",
+          "role": "M",
+          "sub": true,
+          "ko": "심술궂은 요정에 의해"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그 요정은"
+        },
+        {
+          "text": "had changed",
+          "role": "V",
+          "sub": true,
+          "ko": "바꾸었다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "into a frog;",
+          "role": "M",
+          "sub": true,
+          "ko": "개구리로"
+        },
+        {
+          "text": "and that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고 ~라고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "자신이"
+        },
+        {
+          "text": "had been fated",
+          "role": "V",
+          "sub": true,
+          "ko": "운명이 정해져 있었다"
+        },
+        {
+          "text": "so to abide",
+          "role": "M",
+          "sub": true,
+          "ko": "그 모습으로 지내도록"
+        },
+        {
+          "text": "till",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때까지"
+        },
+        {
+          "text": "some princess",
+          "role": "S",
+          "sub": true,
+          "ko": "어떤 공주가"
+        },
+        {
+          "text": "should take",
+          "role": "V",
+          "sub": true,
+          "ko": "꺼내 줄"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "out of the spring,",
+          "role": "M",
+          "sub": true,
+          "ko": "샘에서"
+        },
+        {
+          "text": "and let him eat from her plate,",
+          "role": "V",
+          "sub": true,
+          "ko": "그리고 자기 접시에서 먹게 해 줄"
+        },
+        {
+          "text": "and sleep upon her bed for three nights.",
+          "role": "M",
+          "sub": true,
+          "ko": "그리고 사흘 밤 동안 자기 침대에서 자게 해 줄"
+        }
+      ],
+      "skeleton": "He told her that ~ and that ~",
+      "explanation": "'tell + 사람 + that절' 구조로, 들려준 내용이 that절 두 개로 이어진다. 첫 that절 안의 who는 a spiteful fairy를 설명하는 관계대명사이고, 둘째 that절 안의 till절은 마법이 풀리는 조건(어떤 공주가 ~해 줄 때까지)을 말한다. let him eat처럼 let 뒤에는 동사원형이 온다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거완료 수동태 (had been p.p.)",
+      "tags": [
+        "시제",
+        "수동태"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "had been enchanted",
+        "had been fated"
+      ],
+      "explanation": "had been + 과거분사는 '(과거의 어느 때보다 더 전에) ~당했었다'는 뜻이다. 왕자가 이야기하는 시점(과거)보다 마법에 걸린 일이 먼저 일어났으므로 과거완료를 썼고, 요정이 마법을 '건' 것이 아니라 왕자가 '걸린' 것이므로 수동태다.",
+      "example": {
+        "en": "When we arrived, the window had been broken.",
+        "ko": "우리가 도착했을 때 창문은 이미 깨져 있었다."
+      },
+      "note": "be fated to ~ 는 '~할 운명이다'라는 뜻이다."
+    },
+    {
+      "id": "g2",
+      "title": "감정의 원인을 나타내는 to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "astonished to see"
+      ],
+      "explanation": "감정 형용사(astonished, glad, sad, surprised 등) 뒤의 to부정사는 '~해서, ~하고서' 그 감정을 느낀 이유를 나타낸다. astonished to see는 '보고서 깜짝 놀랐다'로 해석한다.",
+      "example": {
+        "en": "I was glad to hear the good news.",
+        "ko": "나는 그 좋은 소식을 듣고 기뻤다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "so ~ that … (너무 ~해서 …하다)",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "so long and so bitterly, that his heart had well-nigh burst"
+      ],
+      "explanation": "so + 형용사/부사 + that절은 '너무 ~해서 …했다'라는 결과를 나타낸다. 하인리히가 '너무 오래, 너무 비통하게' 슬퍼한 결과 '가슴이 거의 터질 뻔했다'는 뜻이다. 옛 글이라 that 앞에 쉼표가 있다.",
+      "example": {
+        "en": "He ran so fast that nobody could catch him.",
+        "ko": "그는 너무 빨리 달려서 아무도 그를 잡을 수 없었다."
+      },
+      "note": "well-nigh는 '거의(almost)'라는 뜻의 옛말이다."
+    }
+  ],
+  "glossary": {
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "princess": {
+      "lemma": "princess",
+      "pos": "noun",
+      "ko": "공주",
+      "form": null,
+      "synonyms": [
+        "royal daughter"
+      ],
+      "ipa": "/ˈprɪnsɛs/"
+    },
+    "opened": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열다",
+      "form": "과거형",
+      "synonyms": [
+        "unlock"
+      ],
+      "ipa": "/ˈoʊpənd/"
+    },
+    "door": {
+      "lemma": "door",
+      "pos": "noun",
+      "ko": "문",
+      "form": null,
+      "synonyms": [
+        "entrance",
+        "doorway"
+      ],
+      "ipa": "/dɔːr/"
+    },
+    "frog": {
+      "lemma": "frog",
+      "pos": "noun",
+      "ko": "개구리",
+      "form": null,
+      "synonyms": [
+        "toad"
+      ],
+      "ipa": "/frɑːɡ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive",
+        "enter"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "adverb",
+      "ko": "안으로",
+      "form": null,
+      "synonyms": [
+        "inside",
+        "indoors"
+      ],
+      "ipa": "/ɪn/"
+    },
+    "slept": {
+      "lemma": "sleep",
+      "pos": "verb",
+      "ko": "자다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "doze"
+      ],
+      "ipa": "/slɛpt/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의, 그녀를",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "pillow": {
+      "lemma": "pillow",
+      "pos": "noun",
+      "ko": "베개",
+      "form": null,
+      "synonyms": [
+        "cushion"
+      ],
+      "ipa": "/ˈpɪloʊ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~처럼, ~하는 동안",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "adverb",
+      "ko": "전에, 이전처럼",
+      "form": null,
+      "synonyms": [
+        "previously",
+        "earlier"
+      ],
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침",
+      "form": null,
+      "synonyms": [
+        "dawn",
+        "daybreak"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "broke": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "(날이) 밝다",
+      "form": "과거형",
+      "synonyms": [
+        "dawn"
+      ],
+      "ipa": "/broʊk/"
+    },
+    "third": {
+      "lemma": "third",
+      "pos": "adjective",
+      "ko": "세 번째의",
+      "form": null,
+      "synonyms": [
+        "3rd"
+      ],
+      "ipa": "/θɜːrd/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "synonyms": [
+        "evening"
+      ],
+      "ipa": "/naɪt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (남자, 수컷)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "과거형",
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/dɪd/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은 (the same: 같은 것)",
+      "form": null,
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 그런데",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "awoke": {
+      "lemma": "awake",
+      "pos": "verb",
+      "ko": "잠에서 깨다",
+      "form": "과거형",
+      "synonyms": [
+        "wake",
+        "waken"
+      ],
+      "ipa": "/əˈwoʊk/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·때)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "following": {
+      "lemma": "following",
+      "pos": "adjective",
+      "ko": "그다음의",
+      "form": null,
+      "synonyms": [
+        "next",
+        "subsequent"
+      ],
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~였다",
+      "form": "과거형",
+      "synonyms": [
+        "seemed",
+        "felt"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "astonished": {
+      "lemma": "astonished",
+      "pos": "adjective",
+      "ko": "깜짝 놀란",
+      "form": null,
+      "synonyms": [
+        "amazed",
+        "surprised",
+        "stunned"
+      ],
+      "ipa": "/əˈstɑːnɪʃt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해, ~로 (to부정사·방향)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "look",
+        "notice",
+        "behold"
+      ],
+      "ipa": "/siː/"
+    },
+    "instead": {
+      "lemma": "instead",
+      "pos": "adverb",
+      "ko": "대신에 (instead of: ~ 대신)",
+      "form": null,
+      "synonyms": [
+        "rather"
+      ],
+      "ipa": "/ˌɪnˈstɛd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "handsome": {
+      "lemma": "handsome",
+      "pos": "adjective",
+      "ko": "잘생긴",
+      "form": null,
+      "synonyms": [
+        "good-looking",
+        "attractive"
+      ],
+      "ipa": "/ˈhænsəm/"
+    },
+    "prince": {
+      "lemma": "prince",
+      "pos": "noun",
+      "ko": "왕자",
+      "form": null,
+      "synonyms": [
+        "royal son"
+      ],
+      "ipa": "/prɪns/"
+    },
+    "gazing": {
+      "lemma": "gaze",
+      "pos": "verb",
+      "ko": "바라보다, 응시하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stare",
+        "look"
+      ],
+      "ipa": "/ˈɡeɪzɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급)",
+      "form": null,
+      "synonyms": [
+        "very"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "eyes": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈",
+      "form": "복수형",
+      "synonyms": [
+        "eyesight"
+      ],
+      "ipa": "/aɪz/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "지금껏, 한 번이라도",
+      "form": null,
+      "synonyms": [
+        "at any time"
+      ],
+      "ipa": "/ˈɛvər/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거분사",
+      "synonyms": [
+        "look",
+        "notice"
+      ],
+      "ipa": "/siːn/"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "remain upright"
+      ],
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "(침대의) 머리맡, 윗부분",
+      "form": null,
+      "synonyms": [
+        "top"
+      ],
+      "ipa": "/hɛd/"
+    },
+    "bed": {
+      "lemma": "bed",
+      "pos": "noun",
+      "ko": "침대",
+      "form": null,
+      "synonyms": [
+        "cot"
+      ],
+      "ipa": "/bɛd/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 이야기하다",
+      "form": "과거형",
+      "synonyms": [
+        "inform"
+      ],
+      "ipa": "/toʊld/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태·완료형) ~되었다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "enchanted": {
+      "lemma": "enchant",
+      "pos": "verb",
+      "ko": "마법을 걸다",
+      "form": "과거분사",
+      "synonyms": [
+        "bewitch"
+      ],
+      "ipa": "/ɛnˈtʃæntɪd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "spiteful": {
+      "lemma": "spiteful",
+      "pos": "adjective",
+      "ko": "심술궂은, 악의적인",
+      "form": null,
+      "synonyms": [
+        "mean",
+        "malicious"
+      ],
+      "ipa": "/ˈspaɪtfəl/"
+    },
+    "fairy": {
+      "lemma": "fairy",
+      "pos": "noun",
+      "ko": "요정",
+      "form": null,
+      "synonyms": [
+        "sprite"
+      ],
+      "ipa": "/ˈfɛri/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "그런데 그 요정은 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "changed": {
+      "lemma": "change",
+      "pos": "verb",
+      "ko": "바꾸다, 변하게 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "turn",
+        "transform"
+      ],
+      "ipa": "/tʃeɪndʒd/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~으로 (변화)",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "fated": {
+      "lemma": "fate",
+      "pos": "verb",
+      "ko": "운명 짓다 (be fated: ~할 운명이다)",
+      "form": "과거분사",
+      "synonyms": [
+        "destine",
+        "doom"
+      ],
+      "ipa": "/ˈfeɪtɪd/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 그대로; 너무",
+      "form": null,
+      "synonyms": [
+        "thus"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "abide": {
+      "lemma": "abide",
+      "pos": "verb",
+      "ko": "머무르다, 지내다",
+      "form": null,
+      "synonyms": [
+        "remain",
+        "stay",
+        "dwell"
+      ],
+      "ipa": "/əˈbaɪd/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~하게 되다 (가정·미래)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "꺼내다, 데리고 가다",
+      "form": null,
+      "synonyms": [
+        "remove",
+        "lift"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로 (out of: ~에서)",
+      "form": null,
+      "synonyms": [
+        "outside"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "샘",
+      "form": null,
+      "synonyms": [
+        "fountain",
+        "well"
+      ],
+      "ipa": "/sprɪŋ/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 해 주다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": null,
+      "synonyms": [
+        "dine"
+      ],
+      "ipa": "/iːt/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "plate": {
+      "lemma": "plate",
+      "pos": "noun",
+      "ko": "접시",
+      "form": null,
+      "synonyms": [
+        "dish"
+      ],
+      "ipa": "/pleɪt/"
+    },
+    "sleep": {
+      "lemma": "sleep",
+      "pos": "verb",
+      "ko": "자다",
+      "form": null,
+      "synonyms": [
+        "rest"
+      ],
+      "ipa": "/sliːp/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안; ~을",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 3",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "nights": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": "복수형",
+      "synonyms": [
+        "evening"
+      ],
+      "ipa": "/naɪts/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "speak",
+        "reply"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "broken": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "깨뜨리다, (마법을) 풀다",
+      "form": "과거분사",
+      "synonyms": [
+        "lift",
+        "undo"
+      ],
+      "ipa": "/ˈbroʊkən/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "cruel": {
+      "lemma": "cruel",
+      "pos": "adjective",
+      "ko": "잔인한",
+      "form": null,
+      "synonyms": [
+        "harsh",
+        "wicked"
+      ],
+      "ipa": "/ˈkruːəl/"
+    },
+    "charm": {
+      "lemma": "charm",
+      "pos": "noun",
+      "ko": "마법, 주문",
+      "form": null,
+      "synonyms": [
+        "spell",
+        "enchantment"
+      ],
+      "ipa": "/tʃɑːrm/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제",
+      "form": null,
+      "synonyms": [
+        "at present"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 아닌",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "wish": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "바라다",
+      "form": null,
+      "synonyms": [
+        "want",
+        "desire"
+      ],
+      "ipa": "/wɪʃ/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "travel"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를, 나와",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "father's": {
+      "lemma": "father",
+      "pos": "noun",
+      "ko": "아버지의",
+      "form": "소유격",
+      "synonyms": [
+        "dad's"
+      ],
+      "ipa": "/ˈfɑːðərz/"
+    },
+    "kingdom": {
+      "lemma": "kingdom",
+      "pos": "noun",
+      "ko": "왕국",
+      "form": null,
+      "synonyms": [
+        "realm"
+      ],
+      "ipa": "/ˈkɪŋdəm/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "그곳에서 (관계부사)",
+      "form": null,
+      "synonyms": [
+        "in which"
+      ],
+      "ipa": "/wɛr/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "marry": {
+      "lemma": "marry",
+      "pos": "verb",
+      "ko": "결혼하다",
+      "form": null,
+      "synonyms": [
+        "wed"
+      ],
+      "ipa": "/ˈmɛri/"
+    },
+    "love": {
+      "lemma": "love",
+      "pos": "verb",
+      "ko": "사랑하다",
+      "form": null,
+      "synonyms": [
+        "adore",
+        "cherish"
+      ],
+      "ipa": "/lʌv/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "오래 (as long as: ~하는 한)",
+      "form": null,
+      "synonyms": [
+        "for a long time"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": null,
+      "synonyms": [
+        "exist"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "young": {
+      "lemma": "young",
+      "pos": "adjective",
+      "ko": "어린, 젊은",
+      "form": null,
+      "synonyms": [
+        "youthful"
+      ],
+      "ipa": "/jʌŋ/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다; ~일 것이다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "synonyms": [
+        "exist"
+      ],
+      "ipa": "/biː/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확신하는 (you may be sure: 짐작하겠지만)",
+      "form": null,
+      "synonyms": [
+        "certain",
+        "confident"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "synonyms": [
+        "never"
+      ],
+      "ipa": "/nɑːt/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tell",
+        "answer"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "yes": {
+      "lemma": "yes",
+      "pos": "interjection",
+      "ko": "네, 응",
+      "form": null,
+      "ipa": "/jɛs/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "spoke": {
+      "lemma": "speak",
+      "pos": "verb",
+      "ko": "이야기하다",
+      "form": "과거형",
+      "synonyms": [
+        "talk"
+      ],
+      "ipa": "/spoʊk/"
+    },
+    "gay": {
+      "lemma": "gay",
+      "pos": "adjective",
+      "ko": "화려한, 화사한 (옛 뜻)",
+      "form": null,
+      "synonyms": [
+        "bright",
+        "colorful",
+        "showy"
+      ],
+      "ipa": "/ɡeɪ/"
+    },
+    "coach": {
+      "lemma": "coach",
+      "pos": "noun",
+      "ko": "(말이 끄는) 마차",
+      "form": null,
+      "synonyms": [
+        "carriage"
+      ],
+      "ipa": "/koʊtʃ/"
+    },
+    "drove": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(마차가) 오다, 달리다",
+      "form": "과거형",
+      "synonyms": [
+        "ride",
+        "roll"
+      ],
+      "ipa": "/droʊv/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "가까이 (drive up: 다가와 서다)",
+      "form": null,
+      "synonyms": [
+        "near"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "eight": {
+      "lemma": "eight",
+      "pos": "number",
+      "ko": "여덟, 8",
+      "form": null,
+      "ipa": "/eɪt/"
+    },
+    "horses": {
+      "lemma": "horse",
+      "pos": "noun",
+      "ko": "말",
+      "form": "복수형",
+      "synonyms": [
+        "steed"
+      ],
+      "ipa": "/ˈhɔːrsəz/"
+    },
+    "decked": {
+      "lemma": "deck",
+      "pos": "verb",
+      "ko": "꾸미다, 장식하다",
+      "form": "과거분사",
+      "synonyms": [
+        "decorate",
+        "adorn"
+      ],
+      "ipa": "/dɛkt/"
+    },
+    "plumes": {
+      "lemma": "plume",
+      "pos": "noun",
+      "ko": "깃털 장식",
+      "form": "복수형",
+      "synonyms": [
+        "feather",
+        "crest"
+      ],
+      "ipa": "/pluːmz/"
+    },
+    "feathers": {
+      "lemma": "feather",
+      "pos": "noun",
+      "ko": "깃털",
+      "form": "복수형",
+      "synonyms": [
+        "plume"
+      ],
+      "ipa": "/ˈfɛðərz/"
+    },
+    "golden": {
+      "lemma": "golden",
+      "pos": "adjective",
+      "ko": "금으로 된, 황금빛의",
+      "form": null,
+      "synonyms": [
+        "gold",
+        "gilded"
+      ],
+      "ipa": "/ˈɡoʊldən/"
+    },
+    "harness": {
+      "lemma": "harness",
+      "pos": "noun",
+      "ko": "마구 (말에 다는 장비)",
+      "form": null,
+      "synonyms": [
+        "tack",
+        "gear"
+      ],
+      "ipa": "/ˈhɑːrnəs/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "rode": {
+      "lemma": "ride",
+      "pos": "verb",
+      "ko": "(말을) 타고 가다",
+      "form": "과거형",
+      "synonyms": [
+        "travel"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "prince's": {
+      "lemma": "prince",
+      "pos": "noun",
+      "ko": "왕자의",
+      "form": "소유격",
+      "synonyms": [
+        "royal son's"
+      ],
+      "ipa": "/ˈprɪnsɪz/"
+    },
+    "servant": {
+      "lemma": "servant",
+      "pos": "noun",
+      "ko": "하인",
+      "form": null,
+      "synonyms": [
+        "attendant"
+      ],
+      "ipa": "/ˈsɜːrvənt/"
+    },
+    "faithful": {
+      "lemma": "faithful",
+      "pos": "adjective",
+      "ko": "충실한",
+      "form": null,
+      "synonyms": [
+        "loyal",
+        "devoted"
+      ],
+      "ipa": "/ˈfeɪθfəl/"
+    },
+    "heinrich": {
+      "lemma": "Heinrich",
+      "pos": "proper-noun",
+      "ko": "하인리히 (왕자의 하인 이름)",
+      "form": null,
+      "ipa": "/ˈhaɪnrɪk/"
+    },
+    "bewailed": {
+      "lemma": "bewail",
+      "pos": "verb",
+      "ko": "몹시 슬퍼하다, 한탄하다",
+      "form": "과거분사",
+      "synonyms": [
+        "lament",
+        "mourn"
+      ],
+      "ipa": "/bɪˈweɪld/"
+    },
+    "misfortunes": {
+      "lemma": "misfortune",
+      "pos": "noun",
+      "ko": "불행, 불운",
+      "form": "복수형",
+      "synonyms": [
+        "trouble",
+        "hardship"
+      ],
+      "ipa": "/mɪsˈfɔːrtʃənz/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "사랑하는, 소중한",
+      "form": null,
+      "synonyms": [
+        "beloved"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "lord",
+        "boss"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "enchantment": {
+      "lemma": "enchantment",
+      "pos": "noun",
+      "ko": "마법에 걸린 상태",
+      "form": null,
+      "synonyms": [
+        "spell",
+        "bewitchment"
+      ],
+      "ipa": "/ɛnˈtʃæntmənt/"
+    },
+    "bitterly": {
+      "lemma": "bitterly",
+      "pos": "adverb",
+      "ko": "비통하게, 몹시",
+      "form": null,
+      "synonyms": [
+        "sorrowfully",
+        "painfully"
+      ],
+      "ipa": "/ˈbɪtərli/"
+    },
+    "heart": {
+      "lemma": "heart",
+      "pos": "noun",
+      "ko": "심장, 가슴",
+      "form": null,
+      "synonyms": [
+        "chest"
+      ],
+      "ipa": "/hɑːrt/"
+    },
+    "well-nigh": {
+      "lemma": "well-nigh",
+      "pos": "adverb",
+      "ko": "거의 (옛말)",
+      "form": null,
+      "synonyms": [
+        "almost",
+        "nearly"
+      ],
+      "ipa": "/wɛl-naɪ/"
+    },
+    "burst": {
+      "lemma": "burst",
+      "pos": "verb",
+      "ko": "터지다",
+      "form": "과거분사",
+      "synonyms": [
+        "break",
+        "explode"
+      ],
+      "ipa": "/bɜːrst/"
+    }
+  }
+}
