@@ -1,0 +1,1533 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-15-L2-part7",
+  "date": "2026-11-15",
+  "level": 2,
+  "title": "Your Trip to the Packaging Expo",
+  "titleKo": "포장 박람회 출장 일정 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 7",
+    "이메일",
+    "출장·여행"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 180,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "받는 사람: 대니얼 머서"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "보내는 사람: 프리야 샤"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 11월 16일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 아시아 포장 박람회 출장"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "대니얼에게,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "싱가포르 박람회 출장 준비를 마쳤어요. 비행기는 12월 7일 월요일 오전 9시에 출발하고 저녁에 도착합니다. 하버뷰 호텔 기사가 공항에서 맞이해 호텔로 바로 모셔 갈 거예요."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "ko": "박람회는 화요일부터 목요일까지 열립니다. 우리 회사 부스는 C홀에 있고, 싱가포르 지사의 림 씨와 함께 쓰게 됩니다. 림 씨가 이미 제품 견본을 그쪽으로 보내 두어서 비행기에 들고 갈 필요는 없어요. 다만 작년에는 둘째 날에 명함이 다 떨어졌으니 명함은 넉넉히 챙겨 오세요."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s13",
+        "s14",
+        "s15"
+      ],
+      "ko": "돌아오는 비행기는 금요일 오후입니다. 전체 일정표와 호텔 예약 확인서를 첨부했어요. 출장 후 회계부에서 돌려받을 수 있도록 식사와 택시 영수증은 모두 보관해 주세요."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s16"
+      ],
+      "ko": "안전한 여행 되세요,"
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s17"
+      ],
+      "ko": "프리야"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: Daniel Mercer",
+      "ko": "받는 사람: 대니얼 머서",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Priya Shah",
+      "ko": "보내는 사람: 프리야 샤",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: November 16",
+      "ko": "날짜: 11월 16일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: Your Trip to the Asia Packaging Expo",
+      "ko": "제목: 아시아 포장 박람회 출장",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Dear Daniel,",
+      "ko": "대니얼에게,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "I have finished making the arrangements for your trip to the expo in Singapore.",
+      "ko": "싱가포르 박람회 출장 준비를 마쳤어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p6",
+      "en": "Your flight leaves on Monday, December 7, at nine in the morning, and you will arrive in the evening.",
+      "ko": "비행기는 12월 7일 월요일 오전 9시에 출발하고 저녁에 도착합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p6",
+      "en": "A driver from the Harborview Hotel will meet you at the airport and take you directly to the hotel.",
+      "ko": "하버뷰 호텔 기사가 공항에서 맞이해 호텔로 바로 모셔 갈 거예요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p7",
+      "en": "The expo runs from Tuesday to Thursday.",
+      "ko": "박람회는 화요일부터 목요일까지 열립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p7",
+      "en": "Our company has a booth in Hall C, and you will share it with Ms. Lim from our Singapore office.",
+      "ko": "우리 회사 부스는 C홀에 있고, 싱가포르 지사의 림 씨와 함께 쓰게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p7",
+      "en": "She has already shipped our product samples there, so you will not need to carry them on the plane.",
+      "ko": "림 씨가 이미 제품 견본을 그쪽으로 보내 두어서 비행기에 들고 갈 필요는 없어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "Please bring plenty of business cards, though, because we ran out of them on the second day last year.",
+      "ko": "다만 작년에는 둘째 날에 명함이 다 떨어졌으니 명함은 넉넉히 챙겨 오세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p8",
+      "en": "Your return flight is on Friday afternoon.",
+      "ko": "돌아오는 비행기는 금요일 오후입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "I have attached the full schedule and your hotel confirmation.",
+      "ko": "전체 일정표와 호텔 예약 확인서를 첨부했어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p8",
+      "en": "Please keep all of your receipts for meals and taxis so that the accounting department can pay you back after the trip.",
+      "ko": "출장 후 회계부에서 돌려받을 수 있도록 식사와 택시 영수증은 모두 보관해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p9",
+      "en": "Have a safe trip,",
+      "ko": "안전한 여행 되세요,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s17",
+      "paragraphId": "p10",
+      "en": "Priya",
+      "ko": "프리야",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "arrangement",
+      "pos": "noun",
+      "meaningKo": "준비, 마련",
+      "ipa": "/əˈreɪndʒmənt/",
+      "synonyms": [
+        "plan",
+        "preparation"
+      ],
+      "matchText": "arrangements",
+      "sentenceId": "s6",
+      "example": {
+        "en": "We made all the arrangements for the party.",
+        "ko": "우리는 파티 준비를 모두 마쳤다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "booth",
+      "pos": "noun",
+      "meaningKo": "(박람회) 부스, 전시 공간",
+      "ipa": "/buːθ/",
+      "synonyms": [
+        "stand",
+        "stall"
+      ],
+      "matchText": "booth",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Visit our booth at the trade show.",
+        "ko": "무역 박람회에서 저희 부스를 방문하세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "ship",
+      "pos": "verb",
+      "meaningKo": "(물건을) 보내다, 발송하다",
+      "ipa": "/ʃɪp/",
+      "synonyms": [
+        "send",
+        "deliver"
+      ],
+      "matchText": "shipped",
+      "sentenceId": "s11",
+      "example": {
+        "en": "The order was shipped yesterday.",
+        "ko": "그 주문품은 어제 발송되었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "run out of",
+      "pos": "phrasal-verb",
+      "meaningKo": "~이 다 떨어지다, 바닥나다",
+      "ipa": "/rʌn aʊt əv/",
+      "synonyms": [
+        "use up",
+        "be out of"
+      ],
+      "matchText": "ran out of",
+      "sentenceId": "s12",
+      "example": {
+        "en": "We ran out of paper for the printer.",
+        "ko": "프린터 용지가 다 떨어졌다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "confirmation",
+      "pos": "noun",
+      "meaningKo": "(예약) 확인(서)",
+      "ipa": "/ˌkɑːnfərˈmeɪʃən/",
+      "synonyms": [
+        "verification",
+        "proof"
+      ],
+      "matchText": "confirmation",
+      "sentenceId": "s14",
+      "example": {
+        "en": "You will receive an e-mail confirmation of your order.",
+        "ko": "주문 확인 이메일을 받으실 겁니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "She",
+          "role": "S",
+          "ko": "그녀는"
+        },
+        {
+          "text": "has already shipped",
+          "role": "V",
+          "ko": "이미 보냈다"
+        },
+        {
+          "text": "our product samples",
+          "role": "O",
+          "ko": "우리 제품 견본을"
+        },
+        {
+          "text": "there,",
+          "role": "M",
+          "ko": "그곳으로"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "ko": "그래서"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "당신은"
+        },
+        {
+          "text": "will not need",
+          "role": "V",
+          "ko": "필요가 없을 것이다"
+        },
+        {
+          "text": "to carry them",
+          "role": "O",
+          "ko": "그것들을 들고 갈"
+        },
+        {
+          "text": "on the plane.",
+          "role": "M",
+          "ko": "비행기에"
+        }
+      ],
+      "skeleton": "She has shipped the samples, so you will not need to carry them",
+      "explanation": "현재완료(has shipped) + so(결과). need 뒤에는 to부정사."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s15",
+      "chunks": [
+        {
+          "text": "Please keep",
+          "role": "V",
+          "ko": "보관해 주세요"
+        },
+        {
+          "text": "all of your receipts",
+          "role": "O",
+          "ko": "당신의 영수증 전부를"
+        },
+        {
+          "text": "for meals and taxis",
+          "role": "M",
+          "ko": "식사와 택시의"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "ko": "~하도록"
+        },
+        {
+          "text": "the accounting department",
+          "role": "S",
+          "ko": "회계부가",
+          "sub": true
+        },
+        {
+          "text": "can pay",
+          "role": "V",
+          "ko": "지불할 수 있다",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "ko": "당신에게",
+          "sub": true
+        },
+        {
+          "text": "back",
+          "role": "M",
+          "ko": "돌려서",
+          "sub": true
+        },
+        {
+          "text": "after the trip.",
+          "role": "M",
+          "ko": "출장 후에",
+          "sub": true
+        }
+      ],
+      "skeleton": "Please keep your receipts so that the department can pay you back",
+      "explanation": "so that + 주어 + can 동사 = '~가 …할 수 있도록'(목적)."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "목적의 so that",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s15",
+      "highlight": [
+        "so that the accounting department can pay you back"
+      ],
+      "explanation": "so that + 주어 + can/will + 동사 = '~하도록'. 앞 행동(영수증 보관)의 목적을 말한다.",
+      "example": {
+        "en": "Speak clearly so that everyone can hear you.",
+        "ko": "모두가 들을 수 있도록 또렷하게 말하세요."
+      },
+      "note": "so that 뒤에는 주어 + 동사가 온다(in order to 뒤에는 동사원형)."
+    },
+    {
+      "id": "g2",
+      "title": "finish + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "finished making"
+      ],
+      "explanation": "finish는 목적어로 동명사를 쓴다. finish to make(×).",
+      "example": {
+        "en": "I finished writing the report.",
+        "ko": "나는 보고서 쓰기를 끝냈다."
+      },
+      "note": "finish, enjoy, consider, suggest + -ing."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사 표시)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "daniel": {
+      "lemma": "Daniel",
+      "pos": "proper-noun",
+      "ko": "대니얼 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈdænjəl/"
+    },
+    "mercer": {
+      "lemma": "Mercer",
+      "pos": "proper-noun",
+      "ko": "머서 (사람 성)",
+      "form": null,
+      "ipa": "/ˈmɜːrsər/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "priya": {
+      "lemma": "Priya",
+      "pos": "proper-noun",
+      "ko": "프리야 (사람 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "shah": {
+      "lemma": "Shah",
+      "pos": "proper-noun",
+      "ko": "샤 (사람 성)",
+      "form": null,
+      "ipa": "/ʃɑː/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "synonyms": [
+        "day"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신(들)의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "trip": {
+      "lemma": "trip",
+      "pos": "noun",
+      "ko": "출장, 여행",
+      "form": null,
+      "synonyms": [
+        "journey",
+        "travel"
+      ],
+      "ipa": "/trɪp/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "asia": {
+      "lemma": "Asia",
+      "pos": "proper-noun",
+      "ko": "아시아 (박람회 이름의 일부)",
+      "form": null,
+      "ipa": "/ˈeɪʒə/"
+    },
+    "packaging": {
+      "lemma": "packaging",
+      "pos": "noun",
+      "ko": "포장",
+      "form": null,
+      "synonyms": [
+        "wrapping",
+        "packing"
+      ],
+      "ipa": "/ˈpækɪdʒɪŋ/"
+    },
+    "expo": {
+      "lemma": "expo",
+      "pos": "noun",
+      "ko": "박람회",
+      "form": null,
+      "synonyms": [
+        "exhibition",
+        "trade fair"
+      ],
+      "ipa": "/ˈɛkspoʊ/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 저",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "finished": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝내다",
+      "form": "과거분사",
+      "synonyms": [
+        "completed",
+        "done"
+      ],
+      "ipa": "/ˈfɪnɪʃt/"
+    },
+    "making": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(준비를) 하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "doing",
+        "completing"
+      ],
+      "ipa": "/ˈmeɪkɪŋ/"
+    },
+    "arrangements": {
+      "lemma": "arrangement",
+      "pos": "noun",
+      "ko": "준비, 마련",
+      "form": "복수형",
+      "synonyms": [
+        "plans",
+        "preparations"
+      ],
+      "ipa": "/əˈreɪndʒmənts/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~ 동안, ~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에(서), ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "singapore": {
+      "lemma": "Singapore",
+      "pos": "proper-noun",
+      "ko": "싱가포르 (나라·도시 이름)",
+      "form": null,
+      "ipa": "/ˈsɪŋəˌpɔːr/"
+    },
+    "flight": {
+      "lemma": "flight",
+      "pos": "noun",
+      "ko": "비행기, 항공편",
+      "form": null,
+      "synonyms": [
+        "plane"
+      ],
+      "ipa": "/flaɪt/"
+    },
+    "leaves": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "출발하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "departs"
+      ],
+      "ipa": "/liːvz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·요일), ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월",
+      "form": null,
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에(서) (시각·장소)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "nine": {
+      "lemma": "nine",
+      "pos": "number",
+      "ko": "9, 아홉",
+      "form": null,
+      "ipa": "/naɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "synonyms": [
+        "forenoon"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "get there",
+        "land"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁",
+      "form": null,
+      "synonyms": [
+        "night"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "driver": {
+      "lemma": "driver",
+      "pos": "noun",
+      "ko": "운전기사",
+      "form": null,
+      "synonyms": [
+        "chauffeur"
+      ],
+      "ipa": "/ˈdraɪvər/"
+    },
+    "harborview": {
+      "lemma": "Harborview",
+      "pos": "proper-noun",
+      "ko": "하버뷰 (호텔 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔",
+      "form": null,
+      "synonyms": [
+        "inn",
+        "lodge"
+      ],
+      "ipa": "/hoʊˈtɛl/"
+    },
+    "meet": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "마중하다, 맞이하다",
+      "form": null,
+      "synonyms": [
+        "greet",
+        "pick up"
+      ],
+      "ipa": "/miːt/"
+    },
+    "airport": {
+      "lemma": "airport",
+      "pos": "noun",
+      "ko": "공항",
+      "form": null,
+      "ipa": "/ˈɛrˌpɔːrt/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "drive"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "directly": {
+      "lemma": "directly",
+      "pos": "adverb",
+      "ko": "곧장, 바로",
+      "form": null,
+      "synonyms": [
+        "straight"
+      ],
+      "ipa": "/dəˈrɛktli/"
+    },
+    "runs": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(행사가) 열리다, 계속되다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "lasts",
+        "takes place"
+      ],
+      "ipa": "/rʌnz/"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일",
+      "form": null,
+      "ipa": "/ˈtuːzdi/"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일",
+      "form": null,
+      "ipa": "/ˈθɜːrzˌdeɪ/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다; (has + p.p.) ~했다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "owns",
+        "holds"
+      ],
+      "ipa": "/hæz/"
+    },
+    "booth": {
+      "lemma": "booth",
+      "pos": "noun",
+      "ko": "(박람회) 부스",
+      "form": null,
+      "synonyms": [
+        "stand",
+        "stall"
+      ],
+      "ipa": "/buːθ/"
+    },
+    "hall": {
+      "lemma": "hall",
+      "pos": "noun",
+      "ko": "홀, 전시장",
+      "form": null,
+      "synonyms": [
+        "room"
+      ],
+      "ipa": "/hɔːl/"
+    },
+    "c": {
+      "lemma": "C",
+      "pos": "proper-noun",
+      "ko": "C (홀 이름)",
+      "form": null,
+      "ipa": "/siː/"
+    },
+    "share": {
+      "lemma": "share",
+      "pos": "verb",
+      "ko": "함께 쓰다, 공유하다",
+      "form": null,
+      "synonyms": [
+        "use together"
+      ],
+      "ipa": "/ʃɛr/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "lim": {
+      "lemma": "Lim",
+      "pos": "proper-noun",
+      "ko": "림 (사람 성)",
+      "form": null,
+      "ipa": "/lɪm/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 지사",
+      "form": null,
+      "synonyms": [
+        "branch",
+        "workplace"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미",
+      "form": null,
+      "synonyms": [
+        "previously"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "shipped": {
+      "lemma": "ship",
+      "pos": "verb",
+      "ko": "보내다, 발송하다",
+      "form": "과거분사",
+      "synonyms": [
+        "sent",
+        "delivered"
+      ],
+      "ipa": "/ʃɪpt/"
+    },
+    "product": {
+      "lemma": "product",
+      "pos": "noun",
+      "ko": "제품",
+      "form": null,
+      "synonyms": [
+        "goods",
+        "item"
+      ],
+      "ipa": "/ˈprɑːdəkt/"
+    },
+    "samples": {
+      "lemma": "sample",
+      "pos": "noun",
+      "ko": "견본",
+      "form": "복수형",
+      "synonyms": [
+        "examples",
+        "specimens"
+      ],
+      "ipa": "/ˈsæmpəlz/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "그곳에(으로)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서; (so that) ~하도록",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요하다",
+      "form": null,
+      "synonyms": [
+        "require"
+      ],
+      "ipa": "/niːd/"
+    },
+    "carry": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "들고 가다, 나르다",
+      "form": null,
+      "synonyms": [
+        "take",
+        "transport"
+      ],
+      "ipa": "/ˈkæri/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을, 그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "plane": {
+      "lemma": "plane",
+      "pos": "noun",
+      "ko": "비행기",
+      "form": null,
+      "synonyms": [
+        "aircraft"
+      ],
+      "ipa": "/pleɪn/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "take along"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "plenty": {
+      "lemma": "plenty",
+      "pos": "pronoun",
+      "ko": "(plenty of) 많은, 넉넉한",
+      "form": null,
+      "ipa": "/ˈplɛnti/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중에",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "업무 (business card: 명함)",
+      "form": null,
+      "synonyms": [
+        "work"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "cards": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드 (business card: 명함)",
+      "form": "복수형",
+      "ipa": "/kɑːrdz/"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "adverb",
+      "ko": "그렇지만, 다만",
+      "form": null,
+      "synonyms": [
+        "however"
+      ],
+      "ipa": "/ðoʊ/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(run out of) ~이 다 떨어지다",
+      "form": "과거형",
+      "synonyms": [
+        "used up"
+      ],
+      "ipa": "/ræn/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(run out of) 다 떨어져",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "form": null,
+      "synonyms": [
+        "next"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous"
+      ],
+      "ipa": "/læst/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "form": null,
+      "ipa": "/jɪr/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌려주다, 반납하다",
+      "form": null,
+      "synonyms": [
+        "send back",
+        "give back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 있다",
+      "form": "3인칭 단수 현재",
+      "synonyms": [
+        "remain"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "attached": {
+      "lemma": "attach",
+      "pos": "verb",
+      "ko": "첨부하다",
+      "form": "과거분사",
+      "synonyms": [
+        "included",
+        "enclosed"
+      ],
+      "ipa": "/əˈtætʃt/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "전체의",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "entire"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "schedule": {
+      "lemma": "schedule",
+      "pos": "noun",
+      "ko": "일정(표)",
+      "form": null,
+      "synonyms": [
+        "itinerary",
+        "plan"
+      ],
+      "ipa": "/ˈskɛdʒʊl/"
+    },
+    "confirmation": {
+      "lemma": "confirmation",
+      "pos": "noun",
+      "ko": "(예약) 확인서",
+      "form": null,
+      "synonyms": [
+        "verification",
+        "proof"
+      ],
+      "ipa": "/ˌkɑːnfərˈmeɪʃən/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "보관하다",
+      "form": null,
+      "synonyms": [
+        "save",
+        "hold onto"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "receipts": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": "복수형",
+      "synonyms": [
+        "proofs of payment"
+      ],
+      "ipa": "/rɪˈsiːts/"
+    },
+    "meals": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사",
+      "form": "복수형",
+      "synonyms": [
+        "food"
+      ],
+      "ipa": "/miːlz/"
+    },
+    "taxis": {
+      "lemma": "taxi",
+      "pos": "noun",
+      "ko": "택시",
+      "form": "복수형",
+      "synonyms": [
+        "cabs"
+      ],
+      "ipa": "/ˈtæksiz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so that) ~하도록",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "accounting": {
+      "lemma": "accounting",
+      "pos": "noun",
+      "ko": "회계",
+      "form": null,
+      "synonyms": [
+        "finance",
+        "bookkeeping"
+      ],
+      "ipa": "/əˈkaʊntɪŋ/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "form": null,
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "pay": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(pay back) 돈을 돌려주다",
+      "form": null,
+      "synonyms": [
+        "refund",
+        "repay"
+      ],
+      "ipa": "/peɪ/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "(pay back) 돌려서",
+      "form": null,
+      "ipa": "/bæk/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "safe": {
+      "lemma": "safe",
+      "pos": "adjective",
+      "ko": "안전한",
+      "form": null,
+      "synonyms": [
+        "secure"
+      ],
+      "ipa": "/seɪf/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "Why did Ms. Shah send the e-mail?",
+      "evidenceSentenceIds": [
+        "s6"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To give details about travel plans"
+        },
+        {
+          "key": "B",
+          "text": "To invite Mr. Mercer to speak at an expo"
+        },
+        {
+          "key": "C",
+          "text": "To ask for help designing a booth"
+        },
+        {
+          "key": "D",
+          "text": "To report a problem with a flight"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "첫 문장에서 출장 준비를 마쳤다고 하고, 이어서 비행기·호텔·일정을 알려 준다. arrangements for your trip → details about travel plans.",
+      "choiceNotesKo": {
+        "B": "박람회에 가는 것은 맞지만 발표를 부탁하는 내용은 없다.",
+        "D": "비행 일정을 알려 줄 뿐, 문제가 있다는 말은 없다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What is Mr. Mercer asked to bring?",
+      "evidenceSentenceIds": [
+        "s12"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Product samples"
+        },
+        {
+          "key": "B",
+          "text": "A printed hotel confirmation"
+        },
+        {
+          "key": "C",
+          "text": "A large number of business cards"
+        },
+        {
+          "key": "D",
+          "text": "Receipts from last year's trip"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "Please bring plenty of business cards → '명함을 많이' 가져오라고 했다. plenty of → a large number of.",
+      "choiceNotesKo": {
+        "A": "견본은 림 씨가 이미 보냈으니 들고 갈 필요가 없다.",
+        "B": "확인서는 이메일에 첨부되어 있다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "What is suggested about the company at last year's event?",
+      "evidenceSentenceIds": [
+        "s12"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "It did not have a booth."
+        },
+        {
+          "key": "B",
+          "text": "It sent its samples by plane."
+        },
+        {
+          "key": "C",
+          "text": "Its booth was located in Hall C."
+        },
+        {
+          "key": "D",
+          "text": "Its supply of business cards was used up early."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "작년에는 둘째 날 명함이 다 떨어졌다(ran out of them on the second day) → 명함이 일찍 바닥났다는 것을 알 수 있다.",
+      "choiceNotesKo": {
+        "C": "C홀 부스는 올해 이야기다.",
+        "A": "작년에 명함을 나눠 준 것으로 보아 참가는 했다."
+      },
+      "skill": "추론"
+    }
+  ]
+}
