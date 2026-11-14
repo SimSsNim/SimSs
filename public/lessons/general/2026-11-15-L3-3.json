@@ -1,0 +1,1715 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-15-L3-3",
+  "date": "2026-11-15",
+  "level": 3,
+  "title": "Hansel and Gretel",
+  "titleKo": "헨젤과 그레텔",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "family"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Hansel and Gretel)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Hansel and Gretel' 첫 단락 전체 (‘Hard by a great forest’부터 ‘said the man.’까지, 247단어). 원문 HTML판 기준으로 줄바꿈만 공백 하나로 이음 (대시는 HTML판의 — 그대로; .txt판에서는 --)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_19_hanselgretel.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_19_hanselgretel_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Bill Stackpole",
+    "durationSec": 1276,
+    "startSec": 20,
+    "endSec": 125,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 19 'Hansel and Gretel' (전체 21:15). 지문은 이야기 첫 단락으로, LibriVox 안내 멘트 뒤 약 0:20~2:05 (추정)."
+  },
+  "wordCount": 247,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "큰 숲 바로 옆에 가난한 나무꾼이 아내와 두 아이와 함께 살고 있었다. 남자아이의 이름은 헨젤, 여자아이의 이름은 그레텔이었다. 나무꾼에게는 먹을 것이 거의 없었는데, 한번은 온 나라에 큰 흉년이 들자 그는 매일 먹을 빵조차 더는 구할 수 없게 되었다. 어느 날 밤 잠자리에서 이 일을 곰곰이 생각하며 걱정에 이리저리 뒤척이던 그는 끙끙 앓는 소리를 내며 아내에게 말했다. “우리는 이제 어떻게 되는 걸까? 우리 먹을 것조차 이제 하나도 없는데, 불쌍한 아이들을 무슨 수로 먹여 살린단 말이오?” “여보, 내 말 좀 들어 봐요.” 아내가 대답했다. “내일 아침 일찍 아이들을 데리고 숲에서 나무가 가장 빽빽한 곳까지 들어가는 거예요. 거기서 불을 피워 주고 빵을 한 조각씩 더 쥐여 준 다음, 우리는 일하러 가고 아이들은 그냥 남겨 두는 거죠. 애들은 집으로 돌아오는 길을 다시는 찾지 못할 테고, 그러면 우리는 애들을 떨쳐 내게 되는 거예요.” “안 되오, 여보.” 남자가 말했다. “그런 짓은 하지 않겠소. 내 아이들을 숲속에 홀로 버려두다니, 어떻게 차마 그럴 수 있겠소? 사나운 짐승들이 곧 와서 아이들을 갈기갈기 찢어 버릴 거요.” “아이고, 이 바보 같은 양반아!” 아내가 말했다. “그럼 우리 넷 다 굶어 죽어야 해요. 차라리 우리 관을 짤 널빤지나 대패질해 두는 게 낫겠네요.” 그러고는 남편이 승낙할 때까지 그를 조금도 가만두지 않았다. “그래도 불쌍한 아이들이 너무 가엾구려.” 남자가 말했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Hard by a great forest dwelt a poor wood-cutter with his wife and his two children.",
+      "ko": "큰 숲 바로 옆에 가난한 나무꾼이 아내와 두 아이와 함께 살고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The boy was called Hansel and the girl Gretel.",
+      "ko": "남자아이의 이름은 헨젤, 여자아이의 이름은 그레텔이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "He had little to bite and to break, and once when great dearth fell on the land, he could no longer procure even daily bread.",
+      "ko": "나무꾼에게는 먹을 것이 거의 없었는데, 한번은 온 나라에 큰 흉년이 들자 그는 매일 먹을 빵조차 더는 구할 수 없게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Now when he thought over this by night in his bed, and tossed about in his anxiety, he groaned and said to his wife: ‘What is to become of us?",
+      "ko": "어느 날 밤 잠자리에서 이 일을 곰곰이 생각하며 걱정에 이리저리 뒤척이던 그는 끙끙 앓는 소리를 내며 아내에게 말했다. “우리는 이제 어떻게 되는 걸까?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "How are we to feed our poor children, when we no longer have anything even for ourselves?’",
+      "ko": "우리 먹을 것조차 이제 하나도 없는데, 불쌍한 아이들을 무슨 수로 먹여 살린단 말이오?”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "‘I’ll tell you what, husband,’ answered the woman, ‘early tomorrow morning we will take the children out into the forest to where it is the thickest; there we will light a fire for them, and give each of them one more piece of bread, and then we will go to our work and leave them alone.",
+      "ko": "“여보, 내 말 좀 들어 봐요.” 아내가 대답했다. “내일 아침 일찍 아이들을 데리고 숲에서 나무가 가장 빽빽한 곳까지 들어가는 거예요. 거기서 불을 피워 주고 빵을 한 조각씩 더 쥐여 준 다음, 우리는 일하러 가고 아이들은 그냥 남겨 두는 거죠.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "They will not find the way home again, and we shall be rid of them.’",
+      "ko": "애들은 집으로 돌아오는 길을 다시는 찾지 못할 테고, 그러면 우리는 애들을 떨쳐 내게 되는 거예요.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "‘No, wife,’ said the man, ‘I will not do that; how can I bear to leave my children alone in the forest?—the wild animals would soon come and tear them to pieces.’",
+      "ko": "“안 되오, 여보.” 남자가 말했다. “그런 짓은 하지 않겠소. 내 아이들을 숲속에 홀로 버려두다니, 어떻게 차마 그럴 수 있겠소? 사나운 짐승들이 곧 와서 아이들을 갈기갈기 찢어 버릴 거요.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "‘O, you fool!’",
+      "ko": "“아이고, 이 바보 같은 양반아!”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p1",
+      "en": "said she, ‘then we must all four die of hunger, you may as well plane the planks for our coffins,’ and she left him no peace until he consented.",
+      "ko": "아내가 말했다. “그럼 우리 넷 다 굶어 죽어야 해요. 차라리 우리 관을 짤 널빤지나 대패질해 두는 게 낫겠네요.” 그러고는 남편이 승낙할 때까지 그를 조금도 가만두지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p1",
+      "en": "‘But I feel very sorry for the poor children, all the same,’ said the man.",
+      "ko": "“그래도 불쌍한 아이들이 너무 가엾구려.” 남자가 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "dwell",
+      "pos": "verb",
+      "meaningKo": "살다, 거주하다 (옛 문체)",
+      "ipa": "/dwɛl/",
+      "synonyms": [
+        "live",
+        "reside",
+        "stay"
+      ],
+      "matchText": "dwelt",
+      "sentenceId": "s1",
+      "example": {
+        "en": "An old fisherman dwelt in a small hut by the sea.",
+        "ko": "늙은 어부가 바닷가 작은 오두막에 살았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "dearth",
+      "pos": "noun",
+      "meaningKo": "(식량 등의) 부족, 기근",
+      "ipa": "/dɜːrθ/",
+      "synonyms": [
+        "shortage",
+        "lack",
+        "famine"
+      ],
+      "matchText": "dearth",
+      "sentenceId": "s3",
+      "example": {
+        "en": "There was a dearth of rain that summer, and the crops died.",
+        "ko": "그해 여름에는 비가 거의 오지 않아 농작물이 말라 죽었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "procure",
+      "pos": "verb",
+      "meaningKo": "(애써) 구하다, 마련하다",
+      "ipa": "/prəˈkjʊr/",
+      "synonyms": [
+        "get",
+        "obtain",
+        "acquire"
+      ],
+      "matchText": "procure",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He worked hard to procure enough food for his family.",
+        "ko": "그는 가족이 먹을 음식을 넉넉히 구하려고 열심히 일했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "be rid of",
+      "pos": "phrase",
+      "meaningKo": "~을 떨쳐 내다, ~에서 벗어나다",
+      "ipa": "/bi ˈrɪd ʌv/",
+      "synonyms": [
+        "get rid of",
+        "be free of"
+      ],
+      "matchText": "be rid of",
+      "sentenceId": "s7",
+      "example": {
+        "en": "I am glad to be rid of that noisy old car.",
+        "ko": "그 시끄러운 낡은 차를 처분하게 되어 기쁘다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "consent",
+      "pos": "verb",
+      "meaningKo": "동의하다, 승낙하다",
+      "ipa": "/kənˈsɛnt/",
+      "synonyms": [
+        "agree",
+        "give in",
+        "accept"
+      ],
+      "matchText": "consented",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Her father finally consented to the marriage.",
+        "ko": "그녀의 아버지는 마침내 결혼을 승낙했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Hard by a great forest",
+          "role": "M",
+          "ko": "큰 숲 바로 옆에"
+        },
+        {
+          "text": "dwelt",
+          "role": "V",
+          "ko": "살았다"
+        },
+        {
+          "text": "a poor wood-cutter",
+          "role": "S",
+          "ko": "가난한 나무꾼이"
+        },
+        {
+          "text": "with his wife and his two children.",
+          "role": "M",
+          "ko": "아내와 두 아이와 함께"
+        }
+      ],
+      "skeleton": "dwelt a poor wood-cutter (= a poor wood-cutter dwelt)",
+      "explanation": "장소를 나타내는 부사구(Hard by a great forest)가 문장 맨 앞에 나오면서 동사 dwelt가 주어 a poor wood-cutter보다 먼저 왔다(도치). 옛이야기를 시작할 때 자주 보이는 어순이다. hard by는 '~ 바로 옆에'(= close to), dwelt는 dwell의 과거형."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "He",
+          "role": "S",
+          "ko": "그는"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "ko": "가졌다"
+        },
+        {
+          "text": "little to bite and to break,",
+          "role": "O",
+          "ko": "씹고 뜯을 것이 거의 없는 상태를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "ko": "한번은"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~했을 때",
+          "sub": true
+        },
+        {
+          "text": "great dearth",
+          "role": "S",
+          "ko": "큰 기근이",
+          "sub": true
+        },
+        {
+          "text": "fell",
+          "role": "V",
+          "ko": "닥쳤다",
+          "sub": true
+        },
+        {
+          "text": "on the land,",
+          "role": "M",
+          "ko": "그 땅에",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그는"
+        },
+        {
+          "text": "could no longer procure",
+          "role": "V",
+          "ko": "더 이상 구할 수 없었다"
+        },
+        {
+          "text": "even daily bread.",
+          "role": "O",
+          "ko": "매일 먹을 빵조차"
+        }
+      ],
+      "skeleton": "He had little, and he could no longer procure even daily bread",
+      "explanation": "두 개의 절이 and로 이어졌다. little은 '거의 없는 것'이라는 뜻의 명사로 쓰였고, to bite and to break가 뒤에서 꾸민다(먹을 것이 거의 없다). 두 번째 절 앞에는 when이 이끄는 부사절(큰 기근이 들었을 때)이 끼어 있다. no longer는 '더 이상 ~않다', even은 '~조차'."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "They",
+          "role": "S",
+          "ko": "그 애들은"
+        },
+        {
+          "text": "will not find",
+          "role": "V",
+          "ko": "찾지 못할 것이다"
+        },
+        {
+          "text": "the way",
+          "role": "O",
+          "ko": "길을"
+        },
+        {
+          "text": "home again,",
+          "role": "M",
+          "ko": "다시 집으로 가는"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "우리는"
+        },
+        {
+          "text": "shall be",
+          "role": "V",
+          "ko": "~하게 될 것이다"
+        },
+        {
+          "text": "rid of them.’",
+          "role": "C",
+          "ko": "그 애들에게서 벗어난"
+        }
+      ],
+      "skeleton": "They will not find the way, and we shall be rid of them",
+      "explanation": "will과 shall로 미래를 나타내는 두 절이 and로 이어졌다. home은 '집으로'라는 부사로 the way를 뒤에서 꾸민다(the way home = 집으로 가는 길). 두 번째 절에서 rid는 '~에서 벗어난'이라는 형용사로 be 동사 뒤 보어(C) 역할을 한다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "장소 부사구 + 동사 + 주어 (도치)",
+      "tags": [
+        "도치",
+        "어순"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "Hard by a great forest dwelt a poor wood-cutter"
+      ],
+      "explanation": "보통 어순은 'A poor wood-cutter dwelt hard by a great forest.'이다. 장소를 나타내는 말을 앞으로 꺼내면 '어디에 → 누가 있었다'는 순서로 새 인물을 자연스럽게 소개할 수 있어서, 동사와 주어의 자리가 바뀐다. 주로 live, stand, lie, come 같은 동사와 함께 쓴다.",
+      "example": {
+        "en": "On the hill stood an old castle.",
+        "ko": "언덕 위에 오래된 성 하나가 서 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "be to + 동사원형 (예정·의무)",
+      "tags": [
+        "to부정사",
+        "조동사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "How are we to feed"
+      ],
+      "explanation": "'be + to부정사'는 예정, 의무, 가능 등을 나타낸다. 'How are we to feed ~?'는 '우리가 어떻게 ~을 먹여야(먹일 수 있단) 말인가?'라는 뜻으로 should나 can에 가깝다. 바로 앞 문장의 'What is to become of us?'(우리는 어떻게 될 것인가?)도 같은 형태로, 'become of ~'는 '~이 어떻게 되다'라는 뜻이다.",
+      "example": {
+        "en": "What am I to do now?",
+        "ko": "이제 나는 어떻게 해야 하지?"
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "반복되는 말의 생략",
+      "tags": [
+        "생략"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "and the girl Gretel"
+      ],
+      "explanation": "and 뒤에서 앞 절과 똑같은 동사 부분이 생략되었다. 'and the girl (was called) Gretel'로 읽으면 된다. 영어에서는 같은 말을 되풀이하지 않으려고 이렇게 자주 생략한다.",
+      "example": {
+        "en": "My brother likes tea, and my sister coffee.",
+        "ko": "우리 형은 차를 좋아하고, 누나는 커피를 좋아한다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "hard": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "바로 (hard by: ~ 바로 옆에)",
+      "form": null,
+      "synonyms": [
+        "close",
+        "near"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~ 옆에; (by night) 밤에",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 거대한; (기근이) 심한",
+      "form": null,
+      "synonyms": [
+        "big",
+        "large",
+        "severe"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "forest": {
+      "lemma": "forest",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "woods",
+        "woodland"
+      ],
+      "ipa": "/ˈfɔːrəst/"
+    },
+    "dwelt": {
+      "lemma": "dwell",
+      "pos": "verb",
+      "ko": "살다, 거주하다",
+      "form": "과거형",
+      "synonyms": [
+        "lived",
+        "resided"
+      ],
+      "ipa": "/dwɛlt/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한; 불쌍한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "pitiful"
+      ],
+      "ipa": "/puːr/"
+    },
+    "wood-cutter": {
+      "lemma": "wood-cutter",
+      "pos": "noun",
+      "ko": "나무꾼",
+      "form": null,
+      "synonyms": [
+        "woodsman",
+        "lumberjack"
+      ],
+      "ipa": "/wʊd-ˈkʌtər/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "wife": {
+      "lemma": "wife",
+      "pos": "noun",
+      "ko": "아내; (부를 때) 여보",
+      "form": null,
+      "synonyms": [
+        "spouse"
+      ],
+      "ipa": "/waɪf/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이, 자식",
+      "form": "복수형",
+      "synonyms": [
+        "kids",
+        "offspring"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "boy": {
+      "lemma": "boy",
+      "pos": "noun",
+      "ko": "남자아이, 소년",
+      "form": null,
+      "synonyms": [
+        "lad"
+      ],
+      "ipa": "/bɔɪ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "(이름을) ~라고 부르다",
+      "form": "과거분사",
+      "synonyms": [
+        "name"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "hansel": {
+      "lemma": "Hansel",
+      "pos": "proper-noun",
+      "ko": "헨젤 (남자아이 이름)",
+      "form": null,
+      "ipa": "/ˈhænsəl/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "여자아이, 소녀",
+      "form": null,
+      "synonyms": [
+        "lass"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "gretel": {
+      "lemma": "Gretel",
+      "pos": "proper-noun",
+      "ko": "그레텔 (여자아이 이름)",
+      "form": null,
+      "ipa": "/ˈɡrɛtəl/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "form": "과거형",
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæd/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "pronoun",
+      "ko": "(양이) 거의 없는 것",
+      "form": null,
+      "ipa": "/ˈlɪtəl/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는, ~하기 (to부정사); ~에게, ~으로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "bite": {
+      "lemma": "bite",
+      "pos": "verb",
+      "ko": "깨물다, 씹다",
+      "form": null,
+      "synonyms": [
+        "chew",
+        "nibble"
+      ],
+      "ipa": "/baɪt/"
+    },
+    "break": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "(빵을) 뜯다, 쪼개다",
+      "form": null,
+      "synonyms": [
+        "split",
+        "tear"
+      ],
+      "ipa": "/breɪk/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "한번은, 언젠가",
+      "form": null,
+      "synonyms": [
+        "one time"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때; ~인데도",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "dearth": {
+      "lemma": "dearth",
+      "pos": "noun",
+      "ko": "(식량) 부족, 기근",
+      "form": null,
+      "synonyms": [
+        "shortage",
+        "famine",
+        "scarcity"
+      ],
+      "ipa": "/dɜːrθ/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(재난이) 닥치다, 들다",
+      "form": "과거형",
+      "synonyms": [
+        "strike",
+        "come"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "land": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "땅, 나라",
+      "form": null,
+      "synonyms": [
+        "country",
+        "region"
+      ],
+      "ipa": "/lænd/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는; (no longer) 더 이상 ~않다",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상",
+      "form": "비교급",
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "procure": {
+      "lemma": "procure",
+      "pos": "verb",
+      "ko": "(애써) 구하다, 마련하다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/proʊˈkjʊr/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~마저",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "daily": {
+      "lemma": "daily",
+      "pos": "adjective",
+      "ko": "매일의, 날마다의",
+      "form": null,
+      "synonyms": [
+        "everyday"
+      ],
+      "ipa": "/ˈdeɪli/"
+    },
+    "bread": {
+      "lemma": "bread",
+      "pos": "noun",
+      "ko": "빵; 양식",
+      "form": null,
+      "synonyms": [
+        "loaf",
+        "food"
+      ],
+      "ipa": "/brɛd/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "그런데, 자 (이야기를 이을 때)",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "(think over) 곰곰이 생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "consider",
+        "ponder"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "adverb",
+      "ko": "(think over) 곰곰이, 찬찬히",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 일",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "synonyms": [
+        "nighttime"
+      ],
+      "ipa": "/naɪt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에서, ~ 속에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "bed": {
+      "lemma": "bed",
+      "pos": "noun",
+      "ko": "침대, 잠자리",
+      "form": null,
+      "ipa": "/bɛd/"
+    },
+    "tossed": {
+      "lemma": "toss",
+      "pos": "verb",
+      "ko": "(toss about) 몸을 뒤척이다",
+      "form": "과거형",
+      "synonyms": [
+        "turn",
+        "twist"
+      ],
+      "ipa": "/tɔːst/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "이리저리",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "anxiety": {
+      "lemma": "anxiety",
+      "pos": "noun",
+      "ko": "걱정, 불안",
+      "form": null,
+      "synonyms": [
+        "worry",
+        "fear"
+      ],
+      "ipa": "/æŋˈzaɪəti/"
+    },
+    "groaned": {
+      "lemma": "groan",
+      "pos": "verb",
+      "ko": "신음하다, 끙끙대다",
+      "form": "과거형",
+      "synonyms": [
+        "moan",
+        "sigh"
+      ],
+      "ipa": "/ɡroʊnd/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇; (I'll tell you what) 내 말 좀 들어 봐",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (be to) ~할 것이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "become": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "(become of) ~이 어떻게 되다",
+      "form": null,
+      "synonyms": [
+        "happen"
+      ],
+      "ipa": "/bɪˈkʌm/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; ~에 대해",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를, 우리",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (be to) ~해야 하다",
+      "form": "현재형 (복수)",
+      "ipa": "/ɑːr/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "feed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "먹이다, 먹여 살리다",
+      "form": null,
+      "synonyms": [
+        "nourish",
+        "provide for"
+      ],
+      "ipa": "/fiːd/"
+    },
+    "our": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "form": null,
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "anything": {
+      "lemma": "anything",
+      "pos": "pronoun",
+      "ko": "무엇이든, 아무것도",
+      "form": null,
+      "ipa": "/ˈɛniˌθɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~에게",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "ourselves": {
+      "lemma": "ourselves",
+      "pos": "pronoun",
+      "ko": "우리 자신",
+      "form": null,
+      "ipa": "/aʊərˈsɛlvz/"
+    },
+    "i'll": {
+      "lemma": "I will",
+      "pos": "pronoun",
+      "ko": "나는 ~할 것이다",
+      "form": "줄임말 (I will)",
+      "ipa": "/aɪl/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 알려 주다",
+      "form": null,
+      "synonyms": [
+        "say",
+        "inform"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "husband": {
+      "lemma": "husband",
+      "pos": "noun",
+      "ko": "남편; (부를 때) 여보",
+      "form": null,
+      "synonyms": [
+        "spouse"
+      ],
+      "ipa": "/ˈhʌzbənd/"
+    },
+    "answered": {
+      "lemma": "answer",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "reply",
+        "respond"
+      ],
+      "ipa": "/ˈænsərd/"
+    },
+    "woman": {
+      "lemma": "woman",
+      "pos": "noun",
+      "ko": "여자; (여기서) 아내",
+      "form": null,
+      "synonyms": [
+        "lady",
+        "wife"
+      ],
+      "ipa": "/ˈwʊmən/"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "일찍, 이른 시간에",
+      "form": null,
+      "ipa": "/ˈɜːrli/"
+    },
+    "tomorrow": {
+      "lemma": "tomorrow",
+      "pos": "adverb",
+      "ko": "내일",
+      "form": null,
+      "ipa": "/təˈmɑːˌroʊ/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침",
+      "form": null,
+      "synonyms": [
+        "dawn"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "lead"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "~하는 곳",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (여기서는 숲)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "thickest": {
+      "lemma": "thick",
+      "pos": "adjective",
+      "ko": "(숲이) 가장 빽빽한",
+      "form": "최상급",
+      "synonyms": [
+        "densest",
+        "deepest"
+      ],
+      "ipa": "/ˈθɪkɪst/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기서, 그곳에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "light": {
+      "lemma": "light",
+      "pos": "verb",
+      "ko": "(불을) 피우다, 붙이다",
+      "form": null,
+      "synonyms": [
+        "kindle",
+        "ignite"
+      ],
+      "ipa": "/laɪt/"
+    },
+    "fire": {
+      "lemma": "fire",
+      "pos": "noun",
+      "ko": "불, 모닥불",
+      "form": null,
+      "synonyms": [
+        "flame",
+        "blaze"
+      ],
+      "ipa": "/ˈfaɪər/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을, 그들에게",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": null,
+      "synonyms": [
+        "hand",
+        "offer"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각자, 하나하나",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나, 한",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "determiner",
+      "ko": "더, 더 많은",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각",
+      "form": null,
+      "synonyms": [
+        "bit",
+        "slice"
+      ],
+      "ipa": "/piːs/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그다음에; 그렇다면",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "head",
+        "leave"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일, 일터",
+      "form": null,
+      "synonyms": [
+        "job",
+        "labor"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "남겨 두다, 버려두다",
+      "form": null,
+      "synonyms": [
+        "abandon",
+        "desert"
+      ],
+      "ipa": "/liːv/"
+    },
+    "alone": {
+      "lemma": "alone",
+      "pos": "adverb",
+      "ko": "홀로, 혼자",
+      "form": null,
+      "synonyms": [
+        "by themselves"
+      ],
+      "ipa": "/əˈloʊn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~하지 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "찾다, 발견하다",
+      "form": null,
+      "synonyms": [
+        "discover",
+        "locate"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "path",
+        "road"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~하게 될 것이다",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하게 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "rid": {
+      "lemma": "rid",
+      "pos": "adjective",
+      "ko": "(be rid of) ~에서 벗어난",
+      "form": null,
+      "synonyms": [
+        "free",
+        "clear"
+      ],
+      "ipa": "/rɪd/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자; (여기서) 남편",
+      "form": null,
+      "synonyms": [
+        "husband"
+      ],
+      "ipa": "/mæn/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 나는",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform",
+        "carry out"
+      ],
+      "ipa": "/duː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것, 그 일",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "bear": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "참다, 견디다",
+      "form": null,
+      "synonyms": [
+        "stand",
+        "endure"
+      ],
+      "ipa": "/bɛr/"
+    },
+    "my": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "wild": {
+      "lemma": "wild",
+      "pos": "adjective",
+      "ko": "야생의, 사나운",
+      "form": null,
+      "synonyms": [
+        "savage",
+        "fierce"
+      ],
+      "ipa": "/waɪld/"
+    },
+    "animals": {
+      "lemma": "animal",
+      "pos": "noun",
+      "ko": "동물, 짐승",
+      "form": "복수형",
+      "synonyms": [
+        "beasts",
+        "creatures"
+      ],
+      "ipa": "/ˈænəməlz/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧, 머지않아",
+      "form": null,
+      "synonyms": [
+        "shortly",
+        "quickly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive",
+        "approach"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "tear": {
+      "lemma": "tear",
+      "pos": "verb",
+      "ko": "찢다",
+      "form": null,
+      "synonyms": [
+        "rip",
+        "shred"
+      ],
+      "ipa": "/tɛr/"
+    },
+    "pieces": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "(tear to pieces) 갈기갈기",
+      "form": "복수형",
+      "synonyms": [
+        "bits",
+        "shreds"
+      ],
+      "ipa": "/ˈpiːsəz/"
+    },
+    "o": {
+      "lemma": "O",
+      "pos": "interjection",
+      "ko": "오, 아이고",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "fool": {
+      "lemma": "fool",
+      "pos": "noun",
+      "ko": "바보, 멍청이",
+      "form": null,
+      "synonyms": [
+        "idiot",
+        "dunce"
+      ],
+      "ipa": "/fuːl/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀, 그녀는",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다; ~할 수밖에 없다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모두, 다",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "four": {
+      "lemma": "four",
+      "pos": "number",
+      "ko": "넷, 네",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "die": {
+      "lemma": "die",
+      "pos": "verb",
+      "ko": "죽다",
+      "form": null,
+      "synonyms": [
+        "perish",
+        "starve"
+      ],
+      "ipa": "/daɪ/"
+    },
+    "hunger": {
+      "lemma": "hunger",
+      "pos": "noun",
+      "ko": "배고픔, 굶주림",
+      "form": null,
+      "synonyms": [
+        "starvation",
+        "famine"
+      ],
+      "ipa": "/ˈhʌŋɡər/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "(may as well) ~하는 편이 낫다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(may as well) ~하는 게 낫다",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "(may as well) ~하는 편이 낫다",
+      "form": null,
+      "ipa": "/wɛl/"
+    },
+    "plane": {
+      "lemma": "plane",
+      "pos": "verb",
+      "ko": "대패질하다",
+      "form": null,
+      "synonyms": [
+        "shave",
+        "smooth"
+      ],
+      "ipa": "/pleɪn/"
+    },
+    "planks": {
+      "lemma": "plank",
+      "pos": "noun",
+      "ko": "널빤지, 판자",
+      "form": "복수형",
+      "synonyms": [
+        "boards",
+        "timbers"
+      ],
+      "ipa": "/plæŋks/"
+    },
+    "coffins": {
+      "lemma": "coffin",
+      "pos": "noun",
+      "ko": "관 (시신을 넣는 상자)",
+      "form": "복수형",
+      "synonyms": [
+        "caskets"
+      ],
+      "ipa": "/ˈkɔːfɪnz/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "(left him no peace) 가만두지 않았다",
+      "form": "과거형",
+      "synonyms": [
+        "let",
+        "allow"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "peace": {
+      "lemma": "peace",
+      "pos": "noun",
+      "ko": "평화, 마음의 평온",
+      "form": null,
+      "synonyms": [
+        "calm",
+        "rest",
+        "quiet"
+      ],
+      "ipa": "/piːs/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "consented": {
+      "lemma": "consent",
+      "pos": "verb",
+      "ko": "동의하다, 승낙하다",
+      "form": "과거형",
+      "synonyms": [
+        "agreed",
+        "gave in"
+      ],
+      "ipa": "/kənˈsɛntɪd/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "feel": {
+      "lemma": "feel",
+      "pos": "verb",
+      "ko": "느끼다",
+      "form": null,
+      "synonyms": [
+        "sense"
+      ],
+      "ipa": "/fiːl/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "synonyms": [
+        "really",
+        "truly"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "sorry": {
+      "lemma": "sorry",
+      "pos": "adjective",
+      "ko": "가엾은, 안쓰러운 (feel sorry for)",
+      "form": null,
+      "synonyms": [
+        "pitying",
+        "sad"
+      ],
+      "ipa": "/ˈsɑːri/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "pronoun",
+      "ko": "(all the same) 그래도, 그렇다 하더라도",
+      "form": null,
+      "ipa": "/seɪm/"
+    }
+  }
+}
