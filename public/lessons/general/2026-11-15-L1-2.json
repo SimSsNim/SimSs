@@ -1,0 +1,1342 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-15-L1-2",
+  "date": "2026-11-15",
+  "level": 1,
+  "title": "The Fox and the Monkey",
+  "titleKo": "여우와 원숭이",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_06_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_06_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-2-fables-26-50",
+    "reader": "ajfluke",
+    "durationSec": 75,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 02, 06번 트랙(전체 31번 우화). 앞부분에 LibriVox 안내 멘트가 있고, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 140,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "여우와 원숭이가 함께 길을 가다가, 둘 중 누가 더 좋은 집안 출신인지를 두고 말다툼을 벌이게 되었다. 둘은 한동안 계속 다투다가, 길이 기념비로 가득한 묘지를 지나가는 곳에 이르렀다. 그러자 원숭이가 멈춰 서서 주위를 둘러보더니 크게 한숨을 쉬었다. \"왜 한숨을 쉬니?\" 여우가 물었다. 원숭이는 무덤들을 가리키며 대답했다. \"여기 보이는 기념비는 모두 내 조상님들을 기리려고 세운 거야. 그분들은 당대에 이름난 분들이셨지.\" 여우는 잠깐 말문이 막혔지만, 곧 정신을 차리고 말했다. \"오! 어떤 거짓말이든 마음껏 하세요, 나리. 아주 안전하니까요. 나리의 조상님들 중 누구도 무덤에서 일어나 나리의 정체를 밝히지는 않을 테니까요.\""
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "허풍쟁이는 들킬 염려가 없을 때 가장 크게 떠벌린다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Fox and a Monkey were on the road together, and fell into a dispute as to which of the two was the better born.",
+      "ko": "여우와 원숭이가 함께 길을 가다가, 둘 중 누가 더 좋은 집안 출신인지를 두고 말다툼을 벌이게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "They kept it up for some time, till they came to a place where the road passed through a cemetery full of monuments, when the Monkey stopped and looked about him and gave a great sigh.",
+      "ko": "둘은 한동안 계속 다투다가, 길이 기념비로 가득한 묘지를 지나가는 곳에 이르렀다. 그러자 원숭이가 멈춰 서서 주위를 둘러보더니 크게 한숨을 쉬었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "\"Why do you sigh?\"",
+      "ko": "\"왜 한숨을 쉬니?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "said the Fox.",
+      "ko": "여우가 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The Monkey pointed to the tombs and replied, \"All the monuments that you see here were put up in honour of my forefathers, who in their day were eminent men.\"",
+      "ko": "원숭이는 무덤들을 가리키며 대답했다. \"여기 보이는 기념비는 모두 내 조상님들을 기리려고 세운 거야. 그분들은 당대에 이름난 분들이셨지.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "The Fox was speechless for a moment, but quickly recovering he said, \"Oh!",
+      "ko": "여우는 잠깐 말문이 막혔지만, 곧 정신을 차리고 말했다. \"오!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "don't stop at any lie, sir; you're quite safe: I'm sure none of your ancestors will rise up and expose you.\"",
+      "ko": "어떤 거짓말이든 마음껏 하세요, 나리. 아주 안전하니까요. 나리의 조상님들 중 누구도 무덤에서 일어나 나리의 정체를 밝히지는 않을 테니까요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "Boasters brag most when they cannot be detected.",
+      "ko": "허풍쟁이는 들킬 염려가 없을 때 가장 크게 떠벌린다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "dispute",
+      "pos": "noun",
+      "meaningKo": "말다툼, 논쟁",
+      "ipa": "/dɪˈspjuːt/",
+      "synonyms": [
+        "argument",
+        "quarrel"
+      ],
+      "matchText": "dispute",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The two neighbors had a dispute about the fence.",
+        "ko": "두 이웃은 울타리 문제로 말다툼을 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "sigh",
+      "pos": "noun",
+      "meaningKo": "한숨",
+      "ipa": "/saɪ/",
+      "synonyms": [
+        "groan",
+        "breath"
+      ],
+      "matchText": "sigh",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She gave a sigh of relief.",
+        "ko": "그녀는 안도의 한숨을 쉬었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "forefather",
+      "pos": "noun",
+      "meaningKo": "조상, 선조",
+      "ipa": "/ˈfɔːrˌfɑːðər/",
+      "synonyms": [
+        "ancestor",
+        "forebear"
+      ],
+      "matchText": "forefathers",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Our forefathers built this old bridge.",
+        "ko": "우리 조상들이 이 오래된 다리를 지었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "speechless",
+      "pos": "adjective",
+      "meaningKo": "(놀라서) 말문이 막힌",
+      "ipa": "/ˈspiːtʃləs/",
+      "synonyms": [
+        "silent",
+        "dumbstruck",
+        "lost for words"
+      ],
+      "matchText": "speechless",
+      "sentenceId": "s6",
+      "example": {
+        "en": "I was speechless when I saw the gift.",
+        "ko": "나는 그 선물을 보고 말문이 막혔다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "expose",
+      "pos": "verb",
+      "meaningKo": "(비밀·거짓을) 폭로하다, 드러내다",
+      "ipa": "/ɪkˈspoʊz/",
+      "synonyms": [
+        "reveal",
+        "unmask",
+        "uncover"
+      ],
+      "matchText": "expose",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The reporter exposed the lie.",
+        "ko": "그 기자가 거짓말을 폭로했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Fox and a Monkey",
+          "role": "S",
+          "sub": false,
+          "ko": "여우와 원숭이가"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "on the road",
+          "role": "M",
+          "sub": false,
+          "ko": "길 위에"
+        },
+        {
+          "text": "together,",
+          "role": "M",
+          "sub": false,
+          "ko": "함께,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "fell",
+          "role": "V",
+          "sub": false,
+          "ko": "빠졌다"
+        },
+        {
+          "text": "into a dispute",
+          "role": "M",
+          "sub": false,
+          "ko": "말다툼에"
+        },
+        {
+          "text": "as to",
+          "role": "M",
+          "sub": false,
+          "ko": "~에 관한"
+        },
+        {
+          "text": "which of the two",
+          "role": "S",
+          "sub": true,
+          "ko": "둘 중 누가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였는지"
+        },
+        {
+          "text": "the better born.",
+          "role": "C",
+          "sub": true,
+          "ko": "더 좋은 집안 출신"
+        }
+      ],
+      "skeleton": "A Fox and a Monkey were on the road ~ and fell into a dispute (여우와 원숭이가 길에 있다가 말다툼에 빠졌다)",
+      "explanation": "주어 하나에 동사 were와 fell이 and로 이어져요. as to는 '~에 관하여'라는 뜻이고, 그 뒤의 which of the two was the better born은 '둘 중 누가 더 좋은 집안 출신인지'라는 의문사 명사절이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The Monkey",
+          "role": "S",
+          "sub": false,
+          "ko": "원숭이는"
+        },
+        {
+          "text": "pointed",
+          "role": "V",
+          "sub": false,
+          "ko": "가리켰다"
+        },
+        {
+          "text": "to the tombs",
+          "role": "M",
+          "sub": false,
+          "ko": "무덤들을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "replied,",
+          "role": "V",
+          "sub": false,
+          "ko": "대답했다,"
+        },
+        {
+          "text": "\"All the monuments",
+          "role": "S",
+          "sub": false,
+          "ko": "\"모든 기념비는"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": true,
+          "ko": "네가"
+        },
+        {
+          "text": "see",
+          "role": "V",
+          "sub": true,
+          "ko": "보는"
+        },
+        {
+          "text": "here",
+          "role": "M",
+          "sub": true,
+          "ko": "여기서"
+        },
+        {
+          "text": "were put up",
+          "role": "V",
+          "sub": false,
+          "ko": "세워졌다"
+        },
+        {
+          "text": "in honour of my forefathers,",
+          "role": "M",
+          "sub": false,
+          "ko": "내 조상님들을 기리기 위해,"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그분들은"
+        },
+        {
+          "text": "in their day",
+          "role": "M",
+          "sub": true,
+          "ko": "당대에"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": true,
+          "ko": "~이었다"
+        },
+        {
+          "text": "eminent men.\"",
+          "role": "C",
+          "sub": true,
+          "ko": "이름난 사람들\""
+        }
+      ],
+      "skeleton": "All the monuments were put up (모든 기념비가 세워졌다)",
+      "explanation": "따옴표 안의 주어는 All the monuments이고, that you see here가 그것을 꾸며요(관계대명사절). 동사는 수동태 were put up(세워졌다)이에요. 쉼표 뒤의 who ~는 forefathers에 대해 '그분들은 ~였다'고 덧붙여 설명해요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "don't stop",
+          "role": "V",
+          "sub": false,
+          "ko": "멈추지 마세요"
+        },
+        {
+          "text": "at any lie,",
+          "role": "M",
+          "sub": false,
+          "ko": "어떤 거짓말에서도,"
+        },
+        {
+          "text": "sir;",
+          "role": "M",
+          "sub": false,
+          "ko": "나리;"
+        },
+        {
+          "text": "you're",
+          "role": "S",
+          "sub": false,
+          "ko": "당신은 ~이다"
+        },
+        {
+          "text": "quite safe:",
+          "role": "C",
+          "sub": false,
+          "ko": "아주 안전한:"
+        },
+        {
+          "text": "I'm",
+          "role": "S",
+          "sub": false,
+          "ko": "나는 ~이다"
+        },
+        {
+          "text": "sure",
+          "role": "C",
+          "sub": false,
+          "ko": "확신하는"
+        },
+        {
+          "text": "none of your ancestors",
+          "role": "S",
+          "sub": true,
+          "ko": "당신 조상 중 아무도"
+        },
+        {
+          "text": "will rise up",
+          "role": "V",
+          "sub": true,
+          "ko": "일어나지 않을 것이다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "expose",
+          "role": "V",
+          "sub": true,
+          "ko": "폭로하지 (않을 것이다)"
+        },
+        {
+          "text": "you.\"",
+          "role": "O",
+          "sub": true,
+          "ko": "당신을\""
+        }
+      ],
+      "skeleton": "don't stop ~ / you're quite safe / I'm sure (that) none ~ will rise up and expose you",
+      "explanation": "세 덩어리로 나뉘어요. don't stop은 주어 없는 명령문이고, you're quite safe는 S+V+C예요. I'm sure 뒤에는 that이 생략된 명사절이 와서 '~라고 확신한다'는 뜻이 돼요. none은 '아무도 ~않다'라서 부정문이 돼요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "수동태 (be + 과거분사)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "were put up"
+      ],
+      "explanation": "put up은 '(건물·기념비를) 세우다'예요. 기념비가 스스로 세운 것이 아니라 '세워진' 것이라서 were put up(세워졌다)이라는 수동태를 썼어요.",
+      "example": {
+        "en": "This school was built in 1990.",
+        "ko": "이 학교는 1990년에 지어졌다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "계속적 용법의 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "my forefathers, who in their day were eminent men"
+      ],
+      "explanation": "쉼표 뒤의 who는 앞의 my forefathers를 받아 '그리고 그분들은 ~'처럼 설명을 덧붙여요. 쉼표가 있으면 앞에서부터 이어서 해석하면 자연스러워요.",
+      "example": {
+        "en": "I have an uncle, who lives in Busan.",
+        "ko": "나에게는 삼촌이 한 분 계신데, 그분은 부산에 사신다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "none of ~ (아무도 ~않다)",
+      "tags": [
+        "대명사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "none of your ancestors will rise up"
+      ],
+      "explanation": "none of ~는 '~ 중 아무도(하나도) …않다'라는 뜻이라서 not을 쓰지 않아도 부정의 뜻이 돼요.",
+      "example": {
+        "en": "None of my friends came to the party.",
+        "ko": "내 친구들 중 아무도 파티에 오지 않았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": null,
+      "ipa": "/fɑːks/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "monkey": {
+      "lemma": "monkey",
+      "pos": "noun",
+      "ko": "원숭이",
+      "form": null,
+      "ipa": "/ˈmʌŋki/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~에 있었다; ~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "road": {
+      "lemma": "road",
+      "pos": "noun",
+      "ko": "길, 도로",
+      "form": null,
+      "synonyms": [
+        "path",
+        "way"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "side by side"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall into) ~에 빠지다, ~하게 되다",
+      "form": "과거형",
+      "ipa": "/fɛl/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "dispute": {
+      "lemma": "dispute",
+      "pos": "noun",
+      "ko": "말다툼, 논쟁",
+      "form": null,
+      "synonyms": [
+        "argument",
+        "quarrel"
+      ],
+      "ipa": "/dɪsˈpjuːt/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "(as to) ~에 관하여",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에, ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "어느 쪽",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~ 중의, ~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "better": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "더 좋게 (the better born: 더 좋은 집안에서 태어난)",
+      "form": "비교급",
+      "ipa": "/ˈbɛtər/"
+    },
+    "born": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "태어난",
+      "form": "과거분사",
+      "ipa": "/bɔːrn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep it up) 계속하다",
+      "form": "과거형",
+      "synonyms": [
+        "continue"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(keep up) 계속; (put up) 세워",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의, 얼마 동안의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간, 동안",
+      "form": "while",
+      "ipa": "/taɪm/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다, 이르렀다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive",
+        "reach"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "곳, 장소",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "location"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "~하는 (곳)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나갔다",
+      "form": "과거형",
+      "synonyms": [
+        "go",
+        "run"
+      ],
+      "ipa": "/pæst/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 지나서",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "cemetery": {
+      "lemma": "cemetery",
+      "pos": "noun",
+      "ko": "묘지",
+      "form": null,
+      "synonyms": [
+        "graveyard",
+        "burial ground"
+      ],
+      "ipa": "/ˈsɛməˌtɛri/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "가득한",
+      "form": null,
+      "synonyms": [
+        "filled",
+        "packed"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "monuments": {
+      "lemma": "monument",
+      "pos": "noun",
+      "ko": "기념비, 묘비",
+      "form": "복수형",
+      "synonyms": [
+        "memorial",
+        "tombstone"
+      ],
+      "ipa": "/ˈmɑːnjəmənts/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "그때, ~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈췄다",
+      "form": "과거형",
+      "synonyms": [
+        "halt"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보았다 (look about: 둘러보다)",
+      "form": "과거형",
+      "synonyms": [
+        "gaze"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~ 주위를",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (자신) 주위",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(give a sigh) 한숨을 쉬다",
+      "form": "과거형",
+      "ipa": "/ɡeɪv/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "big",
+        "deep"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "sigh": {
+      "lemma": "sigh",
+      "pos": "noun",
+      "ko": "한숨; (동사) 한숨 쉬다",
+      "form": null,
+      "synonyms": [
+        "groan"
+      ],
+      "ipa": "/saɪ/"
+    },
+    "why": {
+      "lemma": "why",
+      "pos": "adverb",
+      "ko": "왜",
+      "form": null,
+      "ipa": "/waɪ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(의문문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "ask",
+        "speak"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "pointed": {
+      "lemma": "point",
+      "pos": "verb",
+      "ko": "가리켰다",
+      "form": "과거형",
+      "synonyms": [
+        "gesture",
+        "indicate"
+      ],
+      "ipa": "/ˈpɔɪntɪd/"
+    },
+    "tombs": {
+      "lemma": "tomb",
+      "pos": "noun",
+      "ko": "무덤",
+      "form": "복수형",
+      "synonyms": [
+        "grave"
+      ],
+      "ipa": "/tuːmz/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "view",
+        "notice"
+      ],
+      "ipa": "/siː/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기서",
+      "form": null,
+      "ipa": "/hiːr/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "(put up) 세우다",
+      "form": "과거분사",
+      "synonyms": [
+        "erect",
+        "build"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in honour of) ~을 기리어; ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "honour": {
+      "lemma": "honour",
+      "pos": "noun",
+      "ko": "명예, 경의 (영국식 철자 = honor)",
+      "form": null,
+      "synonyms": [
+        "respect",
+        "tribute"
+      ],
+      "ipa": "/ˈɑːnər/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "forefathers": {
+      "lemma": "forefather",
+      "pos": "noun",
+      "ko": "조상, 선조",
+      "form": "복수형",
+      "synonyms": [
+        "ancestors",
+        "forebears"
+      ],
+      "ipa": "/ˈfɔːrˌfɑːðərz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "그 사람들은 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "시대, 시절 (in their day: 그들의 시대에)",
+      "form": null,
+      "synonyms": [
+        "era",
+        "time"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "eminent": {
+      "lemma": "eminent",
+      "pos": "adjective",
+      "ko": "저명한, 이름난",
+      "form": null,
+      "synonyms": [
+        "famous",
+        "distinguished",
+        "notable"
+      ],
+      "ipa": "/ˈɛmənənt/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 남자",
+      "form": "복수형",
+      "ipa": "/mɛn/"
+    },
+    "speechless": {
+      "lemma": "speechless",
+      "pos": "adjective",
+      "ko": "(놀라서) 말문이 막힌",
+      "form": null,
+      "synonyms": [
+        "silent",
+        "dumbstruck"
+      ],
+      "ipa": "/ˈspiːtʃləs/"
+    },
+    "moment": {
+      "lemma": "moment",
+      "pos": "noun",
+      "ko": "잠깐, 순간",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "second"
+      ],
+      "ipa": "/ˈmoʊmənt/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "quickly": {
+      "lemma": "quickly",
+      "pos": "adverb",
+      "ko": "빨리, 곧",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "rapidly"
+      ],
+      "ipa": "/ˈkwɪkli/"
+    },
+    "recovering": {
+      "lemma": "recover",
+      "pos": "verb",
+      "ko": "(놀람에서) 정신을 차리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "regain composure"
+      ],
+      "ipa": "/rəˈkʌvərɪŋ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (수컷)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "오! (감탄)",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "don't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 마라",
+      "form": "줄임말(do not)",
+      "ipa": "/doʊnt/"
+    },
+    "stop": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다, 그만두다",
+      "form": null,
+      "synonyms": [
+        "quit",
+        "halt"
+      ],
+      "ipa": "/stɑːp/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "lie": {
+      "lemma": "lie",
+      "pos": "noun",
+      "ko": "거짓말",
+      "form": null,
+      "synonyms": [
+        "falsehood",
+        "fib"
+      ],
+      "ipa": "/laɪ/"
+    },
+    "sir": {
+      "lemma": "sir",
+      "pos": "noun",
+      "ko": "나리, 선생님 (남성 존칭)",
+      "form": null,
+      "ipa": "/sɜːr/"
+    },
+    "you're": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "당신은 ~이다",
+      "form": "줄임말(you are)",
+      "ipa": "/jʊr/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "아주, 꽤",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "safe": {
+      "lemma": "safe",
+      "pos": "adjective",
+      "ko": "안전한",
+      "form": null,
+      "synonyms": [
+        "secure",
+        "protected"
+      ],
+      "ipa": "/seɪf/"
+    },
+    "i'm": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "나는 ~이다",
+      "form": "줄임말(I am)",
+      "ipa": "/aɪm/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확신하는",
+      "form": null,
+      "synonyms": [
+        "certain",
+        "confident"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "none": {
+      "lemma": "none",
+      "pos": "pronoun",
+      "ko": "아무도 ~않다",
+      "form": null,
+      "ipa": "/nʌn/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "ancestors": {
+      "lemma": "ancestor",
+      "pos": "noun",
+      "ko": "조상",
+      "form": "복수형",
+      "synonyms": [
+        "forefathers",
+        "forebears"
+      ],
+      "ipa": "/ˈænˌsɛstərz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "rise": {
+      "lemma": "rise",
+      "pos": "verb",
+      "ko": "일어나다, 일어서다",
+      "form": null,
+      "synonyms": [
+        "get up",
+        "stand up"
+      ],
+      "ipa": "/raɪz/"
+    },
+    "expose": {
+      "lemma": "expose",
+      "pos": "verb",
+      "ko": "폭로하다, 정체를 드러내다",
+      "form": null,
+      "synonyms": [
+        "reveal",
+        "unmask"
+      ],
+      "ipa": "/ɪkˈspoʊz/"
+    },
+    "boasters": {
+      "lemma": "boaster",
+      "pos": "noun",
+      "ko": "허풍쟁이, 자랑하는 사람",
+      "form": "복수형",
+      "synonyms": [
+        "braggart",
+        "show-off"
+      ],
+      "ipa": "/ˈboʊstərz/"
+    },
+    "brag": {
+      "lemma": "brag",
+      "pos": "verb",
+      "ko": "허풍 떨다, 자랑하다",
+      "form": null,
+      "synonyms": [
+        "boast",
+        "show off"
+      ],
+      "ipa": "/bræɡ/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 많이",
+      "form": "최상급",
+      "ipa": "/moʊst/"
+    },
+    "cannot": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "줄임말(can not)",
+      "ipa": "/ˈkænɑt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "detected": {
+      "lemma": "detect",
+      "pos": "verb",
+      "ko": "들키다, 발각되다",
+      "form": "과거분사",
+      "synonyms": [
+        "discover",
+        "catch"
+      ],
+      "ipa": "/dɪˈtɛktəd/"
+    }
+  }
+}
