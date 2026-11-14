@@ -1,0 +1,1738 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-15-L3-2",
+  "date": "2026-11-15",
+  "level": 3,
+  "title": "The Ugly Duckling",
+  "titleKo": "미운 오리 새끼",
+  "genre": "fairy-tale",
+  "tags": [
+    "Hans Christian Andersen",
+    "fairy tale",
+    "literary fairy tale"
+  ],
+  "source": {
+    "work": "The Ugly Duckling (in Fairy Tales of Hans Christian Andersen)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1843,
+    "edition": "Project Gutenberg #27200",
+    "url": "https://www.gutenberg.org/ebooks/27200",
+    "license": "public-domain",
+    "excerptNote": "첫머리 첫 단락의 앞부분 9문장 (\"It was lovely summer weather in the country\" ~ \"…lifted its head and cried, 'Peep, peep.'\").원문 첫 단락이 370단어로 레벨 범위보다 길어서, 단락 중간의 문장 경계(첫 알이 깨는 장면)에서 끊음. PG #27200 영어 번역 (Gutenberg에 번역자 표기 없음). 줄바꿈만 공백으로 이음"
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/emperorsnewclothes_1311_librivox/emperorsnewclothes_02_andersen_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/emperorsnewclothes_1311_librivox/emperorsnewclothes_02_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-emperors-new-clothes-by-hans-christian-andersen/",
+    "reader": "Phil Chenevert",
+    "durationSec": 1486,
+    "startSec": 20,
+    "endSec": 115,
+    "note": "LibriVox 'The Emperor's New Clothes'(Andersen 동화 모음, PG #27200 낭독) 2번 트랙 \"The Ugly Duckling\"(24:46) 중 첫머리. 안내 멘트 뒤 약 0:20~1:55 부분 (대략적인 위치)"
+  },
+  "wordCount": 225,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "시골은 화창한 여름 날씨였고, 황금빛 밀과 푸른 귀리, 그리고 풀밭에 높이 쌓인 건초 더미가 무척 아름다워 보였다. 길고 빨간 다리로 걸어 다니는 황새는 어미에게서 배운 이집트 말로 재잘거렸다. 밀밭과 풀밭은 커다란 숲에 둘러싸여 있었고, 그 숲 한가운데에는 깊은 연못들이 있었다. 정말이지 시골을 거니는 것은 즐거운 일이었다. 햇볕이 잘 드는 곳에 깊은 강을 바로 곁에 둔 아담하고 오래된 농가가 한 채 서 있었고, 그 집에서 물가까지 커다란 우엉 잎이 자라 있었는데, 어찌나 높던지 가장 큰 잎 아래에서는 어린아이가 똑바로 설 수 있을 정도였다. 그곳은 울창한 숲 한복판만큼이나 거칠게 우거져 있었다. 이 아늑한 은신처에서 오리 한 마리가 둥지에 앉아 새끼들이 알에서 깨어나기를 기다리고 있었다. 오리는 이 일에 지쳐 가기 시작했는데, 새끼들이 껍데기를 깨고 나오는 데 시간이 오래 걸린 데다 찾아오는 손님도 거의 없었기 때문이다. 다른 오리들은 미끄러운 강둑을 기어올라 우엉 잎 아래 앉아 그녀와 수다를 떠는 것보다 강에서 헤엄쳐 다니는 것을 훨씬 더 좋아했다. 마침내 알껍데기 하나가 갈라지고, 이어서 또 하나가 갈라지더니, 알마다 살아 있는 작은 생명이 나와 고개를 들고 \"삐약, 삐약\" 하고 울었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "It was lovely summer weather in the country, and the golden corn, the green oats, and the haystacks piled up in the meadows looked beautiful.",
+      "ko": "시골은 화창한 여름 날씨였고, 황금빛 밀과 푸른 귀리, 그리고 풀밭에 높이 쌓인 건초 더미가 무척 아름다워 보였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The stork walking about on his long red legs chattered in the Egyptian language, which he had learnt from his mother.",
+      "ko": "길고 빨간 다리로 걸어 다니는 황새는 어미에게서 배운 이집트 말로 재잘거렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The corn-fields and meadows were surrounded by large forests, in the midst of which were deep pools.",
+      "ko": "밀밭과 풀밭은 커다란 숲에 둘러싸여 있었고, 그 숲 한가운데에는 깊은 연못들이 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "It was, indeed, delightful to walk about in the country.",
+      "ko": "정말이지 시골을 거니는 것은 즐거운 일이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "In a sunny spot stood a pleasant old farm-house close by a deep river, and from the house down to the water side grew great burdock leaves, so high, that under the tallest of them a little child could stand upright.",
+      "ko": "햇볕이 잘 드는 곳에 깊은 강을 바로 곁에 둔 아담하고 오래된 농가가 한 채 서 있었고, 그 집에서 물가까지 커다란 우엉 잎이 자라 있었는데, 어찌나 높던지 가장 큰 잎 아래에서는 어린아이가 똑바로 설 수 있을 정도였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "The spot was as wild as the centre of a thick wood.",
+      "ko": "그곳은 울창한 숲 한복판만큼이나 거칠게 우거져 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "In this snug retreat sat a duck on her nest, watching for her young brood to hatch; she was beginning to get tired of her task, for the little ones were a long time coming out of their shells, and she seldom had any visitors.",
+      "ko": "이 아늑한 은신처에서 오리 한 마리가 둥지에 앉아 새끼들이 알에서 깨어나기를 기다리고 있었다. 오리는 이 일에 지쳐 가기 시작했는데, 새끼들이 껍데기를 깨고 나오는 데 시간이 오래 걸린 데다 찾아오는 손님도 거의 없었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "The other ducks liked much better to swim about in the river than to climb the slippery banks, and sit under a burdock leaf, to have a gossip with her.",
+      "ko": "다른 오리들은 미끄러운 강둑을 기어올라 우엉 잎 아래 앉아 그녀와 수다를 떠는 것보다 강에서 헤엄쳐 다니는 것을 훨씬 더 좋아했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "At length one shell cracked, and then another, and from each egg came a living creature that lifted its head and cried, \"Peep, peep.\"",
+      "ko": "마침내 알껍데기 하나가 갈라지고, 이어서 또 하나가 갈라지더니, 알마다 살아 있는 작은 생명이 나와 고개를 들고 \"삐약, 삐약\" 하고 울었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "chatter",
+      "pos": "verb",
+      "meaningKo": "재잘거리다, 수다를 떨다",
+      "ipa": "/ˈtʃætər/",
+      "synonyms": [
+        "babble",
+        "prattle",
+        "jabber"
+      ],
+      "matchText": "chattered",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The children chattered all the way to the zoo.",
+        "ko": "아이들은 동물원에 가는 내내 재잘거렸다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "surround",
+      "pos": "verb",
+      "meaningKo": "둘러싸다, 에워싸다",
+      "ipa": "/səˈraʊnd/",
+      "synonyms": [
+        "encircle",
+        "enclose",
+        "ring"
+      ],
+      "matchText": "surrounded",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The small village is surrounded by high mountains.",
+        "ko": "그 작은 마을은 높은 산들에 둘러싸여 있다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "upright",
+      "pos": "adverb",
+      "meaningKo": "똑바로 (선 자세로)",
+      "ipa": "/ˈʌpˌraɪt/",
+      "synonyms": [
+        "straight",
+        "erect",
+        "vertically"
+      ],
+      "matchText": "upright",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Please sit upright and look at the camera.",
+        "ko": "똑바로 앉아서 카메라를 봐 주세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "hatch",
+      "pos": "verb",
+      "meaningKo": "(알이) 부화하다, (새끼가) 알에서 깨어나다",
+      "ipa": "/hætʃ/",
+      "synonyms": [
+        "break out",
+        "emerge",
+        "be born"
+      ],
+      "matchText": "hatch",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The chicks will hatch in about three weeks.",
+        "ko": "병아리들은 약 3주 뒤에 알에서 깨어날 것이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "at length",
+      "pos": "phrase",
+      "meaningKo": "마침내, 한참 뒤에",
+      "ipa": "/ət ˈlɛŋkθ/",
+      "synonyms": [
+        "at last",
+        "finally",
+        "eventually"
+      ],
+      "matchText": "At length",
+      "sentenceId": "s9",
+      "example": {
+        "en": "At length the rain stopped and the sun came out.",
+        "ko": "마침내 비가 그치고 해가 나왔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "In a sunny spot",
+          "role": "M",
+          "ko": "햇볕이 잘 드는 곳에"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "ko": "서 있었다"
+        },
+        {
+          "text": "a pleasant old farm-house",
+          "role": "S",
+          "ko": "아담하고 오래된 농가가"
+        },
+        {
+          "text": "close by a deep river,",
+          "role": "M",
+          "ko": "깊은 강 바로 곁에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "from the house down to the water side",
+          "role": "M",
+          "ko": "그 집에서 물가까지"
+        },
+        {
+          "text": "grew",
+          "role": "V",
+          "ko": "자라 있었다"
+        },
+        {
+          "text": "great burdock leaves,",
+          "role": "S",
+          "ko": "커다란 우엉 잎이"
+        },
+        {
+          "text": "so high,",
+          "role": "M",
+          "ko": "아주 높이 (자라서)"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "그 결과",
+          "sub": true
+        },
+        {
+          "text": "under the tallest of them",
+          "role": "M",
+          "ko": "그중 가장 큰 잎 아래에서",
+          "sub": true
+        },
+        {
+          "text": "a little child",
+          "role": "S",
+          "ko": "어린아이가",
+          "sub": true
+        },
+        {
+          "text": "could stand",
+          "role": "V",
+          "ko": "설 수 있었다",
+          "sub": true
+        },
+        {
+          "text": "upright.",
+          "role": "M",
+          "ko": "똑바로",
+          "sub": true
+        }
+      ],
+      "skeleton": "stood a farm-house, and grew great burdock leaves",
+      "explanation": "and로 이어진 두 절이 모두 '장소 부사구 + 동사 + 주어' 순서로 도치되어 있다. 첫 절의 주어는 a pleasant old farm-house, 둘째 절의 주어는 great burdock leaves다. 'so high, that ~'은 '너무 높아서 ~할 정도였다'라는 결과를 나타내며, that 뒤 절에 결과(아이가 그 아래 똑바로 설 수 있음)가 온다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "The other ducks",
+          "role": "S",
+          "ko": "다른 오리들은"
+        },
+        {
+          "text": "liked",
+          "role": "V",
+          "ko": "좋아했다"
+        },
+        {
+          "text": "much better",
+          "role": "M",
+          "ko": "훨씬 더"
+        },
+        {
+          "text": "to swim about in the river",
+          "role": "O",
+          "ko": "강에서 헤엄쳐 다니는 것을"
+        },
+        {
+          "text": "than",
+          "role": "CONJ",
+          "ko": "~보다"
+        },
+        {
+          "text": "to climb the slippery banks,",
+          "role": "O",
+          "ko": "미끄러운 강둑을 기어오르고"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "sit under a burdock leaf,",
+          "role": "O",
+          "ko": "우엉 잎 아래 앉는 것"
+        },
+        {
+          "text": "to have a gossip with her.",
+          "role": "M",
+          "ko": "그녀와 수다를 떨려고"
+        }
+      ],
+      "skeleton": "The other ducks liked to swim better than to climb and sit",
+      "explanation": "liked의 목적어로 to부정사(to swim)가 왔고, 'much better ... than ~'으로 '~보다 …을 훨씬 더 좋아했다'라고 비교한다. than 뒤의 to climb와 (to) sit은 and로 이어진 비교 대상이며, sit 앞에는 to가 생략되었다. 마지막 to have a gossip은 '수다를 떨기 위해'라는 목적을 나타낸다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "At length",
+          "role": "M",
+          "ko": "마침내"
+        },
+        {
+          "text": "one shell",
+          "role": "S",
+          "ko": "알껍데기 하나가"
+        },
+        {
+          "text": "cracked,",
+          "role": "V",
+          "ko": "갈라졌다"
+        },
+        {
+          "text": "and then",
+          "role": "CONJ",
+          "ko": "그리고 이어서"
+        },
+        {
+          "text": "another,",
+          "role": "S",
+          "ko": "또 하나가 (갈라졌다)"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "from each egg",
+          "role": "M",
+          "ko": "알마다"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "ko": "나왔다"
+        },
+        {
+          "text": "a living creature",
+          "role": "S",
+          "ko": "살아 있는 생명이"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "(그 생명은)",
+          "sub": true
+        },
+        {
+          "text": "lifted",
+          "role": "V",
+          "ko": "들었다",
+          "sub": true
+        },
+        {
+          "text": "its head",
+          "role": "O",
+          "ko": "고개를",
+          "sub": true
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고",
+          "sub": true
+        },
+        {
+          "text": "cried,",
+          "role": "V",
+          "ko": "울었다",
+          "sub": true
+        },
+        {
+          "text": "\"Peep, peep.\"",
+          "role": "O",
+          "ko": "\"삐약, 삐약\" 하고",
+          "sub": true
+        }
+      ],
+      "skeleton": "one shell cracked, and another, and came a living creature",
+      "explanation": "and then another 뒤에는 cracked가 생략되었다(또 하나가 갈라졌다). 세 번째 절은 'from each egg(장소) + came(동사) + a living creature(주어)'로 도치되었다. that은 a living creature를 꾸미는 관계대명사로, 그 생명이 고개를 들고(lifted) 울었다(cried)는 두 동작을 and로 이었다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "장소 부사구 + 동사 + 주어 (도치)",
+      "tags": [
+        "도치",
+        "어순"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "In a sunny spot stood a pleasant old farm-house",
+        "grew great burdock leaves"
+      ],
+      "explanation": "장소를 나타내는 부사구를 문장 앞에 두면 '동사 + 주어' 순서로 뒤바뀌는 경우가 많다. 특히 stand, sit, grow, come처럼 '있다·나타나다'를 뜻하는 동사와 자주 쓰인다. 이야기에서 장면을 먼저 보여 주고 주인공을 나중에 등장시키는 효과가 있다. 7번째 문장의 In this snug retreat sat a duck, 9번째 문장의 from each egg came a living creature도 같은 도치다.",
+      "example": {
+        "en": "On the hill stood an old castle.",
+        "ko": "언덕 위에 오래된 성이 서 있었다."
+      },
+      "note": "주어가 대명사이면 도치하지 않는다: On the hill it stood. (O) / On the hill stood it. (X)"
+    },
+    {
+      "id": "g2",
+      "title": "like A better than B: B보다 A를 더 좋아하다",
+      "tags": [
+        "비교",
+        "to부정사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "liked much better to swim about in the river",
+        "than to climb the slippery banks"
+      ],
+      "explanation": "'like A better than B'는 'B보다 A를 더 좋아하다'라는 비교 표현이다. 여기서는 A, B 자리에 to부정사(to swim / to climb)가 왔다. much는 비교급 better를 강조해 '훨씬 더'라는 뜻을 더한다. 비교급 강조에는 much, far, even, still 등을 쓰고 very는 쓰지 않는다.",
+      "example": {
+        "en": "I like reading books much better than watching TV.",
+        "ko": "나는 TV를 보는 것보다 책 읽는 것을 훨씬 더 좋아한다."
+      },
+      "note": "요즘 영어에서는 to부정사를 앞으로 보내 'liked to swim much better than to climb'처럼 쓰는 경우가 더 흔하다."
+    },
+    {
+      "id": "g3",
+      "title": "명사를 뒤에서 꾸미는 분사 (-ing / p.p.)",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "The stork walking about on his long red legs"
+      ],
+      "explanation": "분사가 다른 말과 함께 길어지면 명사 뒤에서 꾸민다. 현재분사(-ing)는 '~하고 있는'이라는 능동의 뜻으로, The stork walking about은 '걸어 다니는 황새'다. 1번째 문장의 the haystacks piled up in the meadows처럼 과거분사(p.p.)는 '~된'이라는 수동의 뜻으로, '풀밭에 쌓아 올려진 건초 더미'가 된다.",
+      "example": {
+        "en": "The girl sitting by the window is my sister.",
+        "ko": "창가에 앉아 있는 소녀가 내 여동생이다."
+      },
+      "note": "learnt는 learn의 과거·과거분사로, 영국식 영어에서 자주 쓰는 형태다 (미국식은 learned)."
+    }
+  ],
+  "glossary": {
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (날씨·상황을 나타내는 주어)",
+      "ipa": "/ɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "lovely": {
+      "lemma": "lovely",
+      "pos": "adjective",
+      "ko": "아주 좋은, 화창한",
+      "synonyms": [
+        "delightful",
+        "beautiful",
+        "pleasant"
+      ],
+      "ipa": "/ˈlʌvli/"
+    },
+    "summer": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름",
+      "synonyms": [
+        "summertime"
+      ],
+      "ipa": "/ˈsʌmər/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨",
+      "synonyms": [
+        "climate"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "country": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "시골",
+      "synonyms": [
+        "countryside"
+      ],
+      "ipa": "/ˈkʌntri/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "golden": {
+      "lemma": "golden",
+      "pos": "adjective",
+      "ko": "황금빛의",
+      "synonyms": [
+        "gold",
+        "yellow"
+      ],
+      "ipa": "/ˈɡoʊldən/"
+    },
+    "corn": {
+      "lemma": "corn",
+      "pos": "noun",
+      "ko": "곡식, 밀 (영국식)",
+      "synonyms": [
+        "grain",
+        "wheat"
+      ],
+      "ipa": "/kɔːrn/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "초록의, 푸른",
+      "synonyms": [
+        "verdant"
+      ],
+      "ipa": "/ɡriːn/"
+    },
+    "oats": {
+      "lemma": "oat",
+      "pos": "noun",
+      "ko": "귀리",
+      "form": "복수형",
+      "ipa": "/oʊts/"
+    },
+    "haystacks": {
+      "lemma": "haystack",
+      "pos": "noun",
+      "ko": "건초 더미",
+      "form": "복수형",
+      "synonyms": [
+        "haycock",
+        "hayrick"
+      ],
+      "ipa": "/ˈheɪˌstæks/"
+    },
+    "piled": {
+      "lemma": "pile",
+      "pos": "verb",
+      "ko": "쌓다, 쌓아 올리다",
+      "form": "과거분사",
+      "synonyms": [
+        "stack",
+        "heap"
+      ],
+      "ipa": "/paɪld/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로, 높이",
+      "synonyms": [
+        "upward"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "meadows": {
+      "lemma": "meadow",
+      "pos": "noun",
+      "ko": "풀밭, 목초지",
+      "form": "복수형",
+      "synonyms": [
+        "field",
+        "pasture",
+        "grassland"
+      ],
+      "ipa": "/ˈmɛˌdoʊz/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "~해 보이다",
+      "form": "과거형",
+      "synonyms": [
+        "seem",
+        "appear"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "stork": {
+      "lemma": "stork",
+      "pos": "noun",
+      "ko": "황새",
+      "ipa": "/stɔːrk/"
+    },
+    "walking": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다, 걸어 다니다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stroll",
+        "stride"
+      ],
+      "ipa": "/ˈwɔːkɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "여기저기, 이리저리",
+      "synonyms": [
+        "around"
+      ],
+      "ipa": "/əˈbaʊt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~으로, ~ 위에",
+      "ipa": "/ɑːn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "ipa": "/hɪz/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "synonyms": [
+        "lengthy"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "red": {
+      "lemma": "red",
+      "pos": "adjective",
+      "ko": "빨간",
+      "synonyms": [
+        "scarlet"
+      ],
+      "ipa": "/rɛd/"
+    },
+    "legs": {
+      "lemma": "leg",
+      "pos": "noun",
+      "ko": "다리",
+      "form": "복수형",
+      "synonyms": [
+        "limb"
+      ],
+      "ipa": "/lɛɡz/"
+    },
+    "chattered": {
+      "lemma": "chatter",
+      "pos": "verb",
+      "ko": "재잘거리다",
+      "form": "과거형",
+      "synonyms": [
+        "babble",
+        "prattle"
+      ],
+      "ipa": "/ˈtʃætərd/"
+    },
+    "egyptian": {
+      "lemma": "Egyptian",
+      "pos": "adjective",
+      "ko": "이집트의",
+      "ipa": "/ɪˈdʒɪpʃən/"
+    },
+    "language": {
+      "lemma": "language",
+      "pos": "noun",
+      "ko": "언어, 말",
+      "synonyms": [
+        "tongue",
+        "speech"
+      ],
+      "ipa": "/ˈlæŋɡwədʒ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것을",
+      "ipa": "/wɪtʃ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (황새)",
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "learnt": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "배우다",
+      "form": "과거분사",
+      "synonyms": [
+        "pick up",
+        "study"
+      ],
+      "ipa": "/lɜːrnt/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~에서",
+      "ipa": "/frʌm/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어미, 어머니",
+      "synonyms": [
+        "mom",
+        "parent"
+      ],
+      "ipa": "/ˈmʌðər/"
+    },
+    "corn-fields": {
+      "lemma": "cornfield",
+      "pos": "noun",
+      "ko": "밀밭, 곡식 밭",
+      "form": "복수형",
+      "synonyms": [
+        "grainfield",
+        "wheat field"
+      ],
+      "ipa": "/kɔːrn-fiːldz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "surrounded": {
+      "lemma": "surround",
+      "pos": "verb",
+      "ko": "둘러싸다",
+      "form": "과거분사",
+      "synonyms": [
+        "encircle",
+        "enclose"
+      ],
+      "ipa": "/səˈraʊndɪd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~ 곁에",
+      "ipa": "/baɪ/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰",
+      "synonyms": [
+        "big",
+        "huge"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "forests": {
+      "lemma": "forest",
+      "pos": "noun",
+      "ko": "숲",
+      "form": "복수형",
+      "synonyms": [
+        "woods",
+        "woodland"
+      ],
+      "ipa": "/ˈfɔːrəsts/"
+    },
+    "midst": {
+      "lemma": "midst",
+      "pos": "noun",
+      "ko": "한가운데",
+      "synonyms": [
+        "middle",
+        "center",
+        "heart"
+      ],
+      "ipa": "/mɪdst/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adjective",
+      "ko": "깊은",
+      "synonyms": [
+        "profound"
+      ],
+      "ipa": "/diːp/"
+    },
+    "pools": {
+      "lemma": "pool",
+      "pos": "noun",
+      "ko": "웅덩이, 연못",
+      "form": "복수형",
+      "synonyms": [
+        "pond",
+        "lake"
+      ],
+      "ipa": "/puːlz/"
+    },
+    "indeed": {
+      "lemma": "indeed",
+      "pos": "adverb",
+      "ko": "정말로, 참으로",
+      "synonyms": [
+        "truly",
+        "really"
+      ],
+      "ipa": "/ˌɪnˈdiːd/"
+    },
+    "delightful": {
+      "lemma": "delightful",
+      "pos": "adjective",
+      "ko": "즐거운, 매우 기쁜",
+      "synonyms": [
+        "pleasant",
+        "enjoyable",
+        "charming"
+      ],
+      "ipa": "/dɪˈlaɪtfəl/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것 (to부정사), ~까지",
+      "ipa": "/tuː/"
+    },
+    "walk": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다, 거닐다",
+      "synonyms": [
+        "stroll",
+        "wander"
+      ],
+      "ipa": "/wɔːk/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "sunny": {
+      "lemma": "sunny",
+      "pos": "adjective",
+      "ko": "햇볕이 잘 드는",
+      "synonyms": [
+        "bright",
+        "sunlit"
+      ],
+      "ipa": "/ˈsʌni/"
+    },
+    "spot": {
+      "lemma": "spot",
+      "pos": "noun",
+      "ko": "곳, 장소",
+      "synonyms": [
+        "place",
+        "site"
+      ],
+      "ipa": "/spɑːt/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "과거형",
+      "ipa": "/stʊd/"
+    },
+    "pleasant": {
+      "lemma": "pleasant",
+      "pos": "adjective",
+      "ko": "아담하고 좋은, 쾌적한",
+      "synonyms": [
+        "nice",
+        "agreeable",
+        "charming"
+      ],
+      "ipa": "/ˈplɛzənt/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "오래된",
+      "synonyms": [
+        "aged",
+        "ancient"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "farm-house": {
+      "lemma": "farmhouse",
+      "pos": "noun",
+      "ko": "농가",
+      "synonyms": [
+        "farm",
+        "homestead"
+      ],
+      "ipa": "/fɑːrm-haʊs/"
+    },
+    "close": {
+      "lemma": "close",
+      "pos": "adverb",
+      "ko": "가까이 (close by: 바로 곁에)",
+      "synonyms": [
+        "near",
+        "nearby"
+      ],
+      "ipa": "/kloʊs/"
+    },
+    "river": {
+      "lemma": "river",
+      "pos": "noun",
+      "ko": "강",
+      "synonyms": [
+        "stream"
+      ],
+      "ipa": "/ˈrɪvər/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "synonyms": [
+        "home",
+        "dwelling"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로, 쭉",
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "ipa": "/ˈwɔːtər/"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "가, 옆 (water side: 물가)",
+      "synonyms": [
+        "edge",
+        "bank"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "grew": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자라다",
+      "form": "과거형",
+      "synonyms": [
+        "sprout",
+        "flourish"
+      ],
+      "ipa": "/ɡruː/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "커다란",
+      "synonyms": [
+        "huge",
+        "large",
+        "big"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "burdock": {
+      "lemma": "burdock",
+      "pos": "noun",
+      "ko": "우엉",
+      "ipa": "/ˈbɜːrdɑːk/"
+    },
+    "leaves": {
+      "lemma": "leaf",
+      "pos": "noun",
+      "ko": "잎",
+      "form": "복수형",
+      "synonyms": [
+        "foliage"
+      ],
+      "ipa": "/liːvz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 아주",
+      "synonyms": [
+        "very",
+        "such"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "높은",
+      "synonyms": [
+        "tall",
+        "lofty"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서 ~하다; (관계대명사) ~하는",
+      "ipa": "/ðæt/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래에",
+      "synonyms": [
+        "beneath",
+        "below"
+      ],
+      "ipa": "/ˈʌndər/"
+    },
+    "tallest": {
+      "lemma": "tall",
+      "pos": "adjective",
+      "ko": "키가 큰, 높은",
+      "form": "최상급",
+      "synonyms": [
+        "high",
+        "lofty"
+      ],
+      "ipa": "/ˈtɔːlɪst/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들 (잎들)",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "어린, 작은",
+      "synonyms": [
+        "small",
+        "young"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "child": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이",
+      "synonyms": [
+        "kid",
+        "youngster"
+      ],
+      "ipa": "/tʃaɪld/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "stand": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서다",
+      "ipa": "/stænd/"
+    },
+    "upright": {
+      "lemma": "upright",
+      "pos": "adverb",
+      "ko": "똑바로 (선 자세로)",
+      "synonyms": [
+        "straight",
+        "erect"
+      ],
+      "ipa": "/əˈpraɪt/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as ~ as) ~만큼",
+      "ipa": "/æz/"
+    },
+    "wild": {
+      "lemma": "wild",
+      "pos": "adjective",
+      "ko": "거친, 우거진, 손대지 않은",
+      "synonyms": [
+        "untamed",
+        "overgrown"
+      ],
+      "ipa": "/waɪld/"
+    },
+    "centre": {
+      "lemma": "centre",
+      "pos": "noun",
+      "ko": "중심, 한복판 (영국식 철자)",
+      "synonyms": [
+        "center",
+        "middle",
+        "heart"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "thick": {
+      "lemma": "thick",
+      "pos": "adjective",
+      "ko": "울창한, 빽빽한",
+      "synonyms": [
+        "dense",
+        "lush"
+      ],
+      "ipa": "/θɪk/"
+    },
+    "wood": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "숲",
+      "synonyms": [
+        "forest",
+        "woodland"
+      ],
+      "ipa": "/wʊd/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "ipa": "/ðɪs/"
+    },
+    "snug": {
+      "lemma": "snug",
+      "pos": "adjective",
+      "ko": "아늑한",
+      "synonyms": [
+        "cozy",
+        "comfortable",
+        "sheltered"
+      ],
+      "ipa": "/snʌɡ/"
+    },
+    "retreat": {
+      "lemma": "retreat",
+      "pos": "noun",
+      "ko": "은신처, 조용한 곳",
+      "synonyms": [
+        "hideaway",
+        "shelter",
+        "refuge"
+      ],
+      "ipa": "/riˈtriːt/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉아 있다",
+      "form": "과거형",
+      "ipa": "/sæt/"
+    },
+    "duck": {
+      "lemma": "duck",
+      "pos": "noun",
+      "ko": "오리",
+      "ipa": "/dʌk/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀의, 그녀 (어미 오리)",
+      "form": "소유격·목적격",
+      "ipa": "/hɜːr/"
+    },
+    "nest": {
+      "lemma": "nest",
+      "pos": "noun",
+      "ko": "둥지",
+      "ipa": "/nɛst/"
+    },
+    "watching": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "(for) ~을 기다리며 지켜보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "wait",
+        "look out"
+      ],
+      "ipa": "/ˈwɑːtʃɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "~을 (전치사); 왜냐하면 (접속사)",
+      "ipa": "/fɔːr/"
+    },
+    "young": {
+      "lemma": "young",
+      "pos": "adjective",
+      "ko": "어린, 갓 난",
+      "synonyms": [
+        "baby",
+        "little"
+      ],
+      "ipa": "/jʌŋ/"
+    },
+    "brood": {
+      "lemma": "brood",
+      "pos": "noun",
+      "ko": "(한 배의) 새끼들",
+      "synonyms": [
+        "offspring",
+        "young",
+        "clutch"
+      ],
+      "ipa": "/bruːd/"
+    },
+    "hatch": {
+      "lemma": "hatch",
+      "pos": "verb",
+      "ko": "알에서 깨어나다, 부화하다",
+      "synonyms": [
+        "emerge",
+        "break out"
+      ],
+      "ipa": "/hætʃ/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀 (어미 오리)",
+      "ipa": "/ʃiː/"
+    },
+    "beginning": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡɪnɪŋ/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get tired) ~해지다",
+      "synonyms": [
+        "become",
+        "grow"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "tired": {
+      "lemma": "tired",
+      "pos": "adjective",
+      "ko": "지친, 싫증 난",
+      "synonyms": [
+        "weary",
+        "fed up"
+      ],
+      "ipa": "/ˈtaɪərd/"
+    },
+    "task": {
+      "lemma": "task",
+      "pos": "noun",
+      "ko": "일, 임무",
+      "synonyms": [
+        "job",
+        "duty",
+        "chore"
+      ],
+      "ipa": "/tæsk/"
+    },
+    "ones": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "것들 (little ones: 어린것들, 새끼들)",
+      "form": "복수형",
+      "ipa": "/wʌnz/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간 (a long time: 오랫동안)",
+      "synonyms": [
+        "while",
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "나오다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "emerge"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "synonyms": [
+        "outside"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "their": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "shells": {
+      "lemma": "shell",
+      "pos": "noun",
+      "ko": "알껍데기",
+      "form": "복수형",
+      "synonyms": [
+        "eggshell",
+        "casing"
+      ],
+      "ipa": "/ʃɛlz/"
+    },
+    "seldom": {
+      "lemma": "seldom",
+      "pos": "adverb",
+      "ko": "좀처럼 ~않는",
+      "synonyms": [
+        "rarely",
+        "hardly ever"
+      ],
+      "ipa": "/ˈsɛldəm/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 조금의",
+      "ipa": "/ˈɛni/"
+    },
+    "visitors": {
+      "lemma": "visitor",
+      "pos": "noun",
+      "ko": "손님, 방문객",
+      "form": "복수형",
+      "synonyms": [
+        "guest",
+        "caller"
+      ],
+      "ipa": "/ˈvɪzɪtərz/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "ipa": "/ˈʌðər/"
+    },
+    "ducks": {
+      "lemma": "duck",
+      "pos": "noun",
+      "ko": "오리",
+      "form": "복수형",
+      "ipa": "/dʌks/"
+    },
+    "liked": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "좋아하다",
+      "form": "과거형",
+      "synonyms": [
+        "enjoy",
+        "prefer"
+      ],
+      "ipa": "/laɪkt/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "훨씬 (비교급 강조)",
+      "synonyms": [
+        "far",
+        "a lot"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "better": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "더 (like better: 더 좋아하다)",
+      "form": "비교급",
+      "synonyms": [
+        "more"
+      ],
+      "ipa": "/ˈbɛtər/"
+    },
+    "swim": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄치다",
+      "synonyms": [
+        "paddle"
+      ],
+      "ipa": "/swɪm/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "ipa": "/ðæn/"
+    },
+    "climb": {
+      "lemma": "climb",
+      "pos": "verb",
+      "ko": "기어오르다",
+      "synonyms": [
+        "clamber",
+        "scramble"
+      ],
+      "ipa": "/klaɪm/"
+    },
+    "slippery": {
+      "lemma": "slippery",
+      "pos": "adjective",
+      "ko": "미끄러운",
+      "synonyms": [
+        "slick",
+        "slippy"
+      ],
+      "ipa": "/ˈslɪpəri/"
+    },
+    "banks": {
+      "lemma": "bank",
+      "pos": "noun",
+      "ko": "강둑",
+      "form": "복수형",
+      "synonyms": [
+        "shore",
+        "riverside"
+      ],
+      "ipa": "/bæŋks/"
+    },
+    "sit": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다",
+      "ipa": "/sɪt/"
+    },
+    "leaf": {
+      "lemma": "leaf",
+      "pos": "noun",
+      "ko": "잎",
+      "ipa": "/liːf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have a gossip) 수다를 떨다",
+      "ipa": "/hæv/"
+    },
+    "gossip": {
+      "lemma": "gossip",
+      "pos": "noun",
+      "ko": "잡담, 수다",
+      "synonyms": [
+        "chat",
+        "chitchat"
+      ],
+      "ipa": "/ˈɡɑːsəp/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께",
+      "ipa": "/wɪð/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at length) 마침내",
+      "ipa": "/æt/"
+    },
+    "length": {
+      "lemma": "length",
+      "pos": "noun",
+      "ko": "(at length) 마침내, 한참 뒤에",
+      "ipa": "/lɛŋkθ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "하나의",
+      "ipa": "/wʌn/"
+    },
+    "shell": {
+      "lemma": "shell",
+      "pos": "noun",
+      "ko": "알껍데기",
+      "synonyms": [
+        "eggshell"
+      ],
+      "ipa": "/ʃɛl/"
+    },
+    "cracked": {
+      "lemma": "crack",
+      "pos": "verb",
+      "ko": "금이 가다, 갈라지다",
+      "form": "과거형",
+      "synonyms": [
+        "split",
+        "break"
+      ],
+      "ipa": "/krækt/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그다음에",
+      "synonyms": [
+        "next",
+        "afterward"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "pronoun",
+      "ko": "또 하나",
+      "ipa": "/əˈnʌðər/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "synonyms": [
+        "every"
+      ],
+      "ipa": "/iːtʃ/"
+    },
+    "egg": {
+      "lemma": "egg",
+      "pos": "noun",
+      "ko": "알",
+      "ipa": "/ɛɡ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "나오다",
+      "form": "과거형",
+      "synonyms": [
+        "emerge",
+        "appear"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "living": {
+      "lemma": "living",
+      "pos": "adjective",
+      "ko": "살아 있는",
+      "synonyms": [
+        "alive",
+        "live"
+      ],
+      "ipa": "/ˈlɪvɪŋ/"
+    },
+    "creature": {
+      "lemma": "creature",
+      "pos": "noun",
+      "ko": "생물, 생명체",
+      "synonyms": [
+        "being",
+        "animal"
+      ],
+      "ipa": "/ˈkriːtʃər/"
+    },
+    "lifted": {
+      "lemma": "lift",
+      "pos": "verb",
+      "ko": "들어 올리다",
+      "form": "과거형",
+      "synonyms": [
+        "raise",
+        "hoist"
+      ],
+      "ipa": "/ˈlɪftəd/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": "소유격",
+      "ipa": "/ɪts/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "ipa": "/hɛd/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "울다, 외치다",
+      "form": "과거형",
+      "synonyms": [
+        "call",
+        "squeak"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "peep": {
+      "lemma": "peep",
+      "pos": "interjection",
+      "ko": "삐약 (새끼 새 소리)",
+      "ipa": "/piːp/"
+    }
+  }
+}
