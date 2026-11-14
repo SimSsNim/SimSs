@@ -1,0 +1,1483 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-15-L4-part6",
+  "date": "2026-11-15",
+  "level": 4,
+  "title": "Invoice Correction E-mail",
+  "titleKo": "청구서 정정 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "고객 서비스"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 147,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "받는 사람: 프리야 라만"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "보낸 사람: 토마스 에크베리"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 3월 3일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 2월 청구서 정정"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "라만 씨께,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "2월 청구서의 불일치 사항을 알려 주셔서 감사합니다. 계정을 검토해 보니 귀하의 팀에 계약서에 명시된 12개가 아니라 20개의 사용자 라이선스 요금이 청구된 것을 확인했습니다. 이 오류는 자동 갱신이 작년에 귀하의 요금제에 적용된 변경 사항을 덮어쓰면서 발생했습니다. 이후 재발을 막기 위해 귀하의 계정에서 자동 갱신 기능을 해제했습니다. 아울러 340달러가 귀하의 계정에 적립되었으며 3월 명세서에 반영될 것입니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "정정된 2월 청구서 사본을 보관용으로 첨부합니다. 이로 인해 혼란을 드렸을 수 있는 점 진심으로 유감스럽게 생각합니다. 다른 이상한 점을 발견하시면 주저하지 말고 저에게 직접 연락해 주십시오."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s14"
+      ],
+      "ko": "감사합니다,"
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s15"
+      ],
+      "ko": "토마스 에크베리, 고객 계정 관리자, 벨로란 소프트웨어"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: Priya Raman",
+      "ko": "받는 사람: 프리야 라만",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Tomas Ekberg",
+      "ko": "보낸 사람: 토마스 에크베리",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: March 3",
+      "ko": "날짜: 3월 3일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: Correction to Your February Invoice",
+      "ko": "제목: 2월 청구서 정정",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Dear Ms. Raman,",
+      "ko": "라만 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "Thank you for bringing the discrepancy in your February invoice to our attention.",
+      "ko": "2월 청구서의 불일치 사항을 알려 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p6",
+      "en": "Upon reviewing your account, we found that your team was charged for twenty user licenses rather than the twelve specified in your contract.",
+      "ko": "계정을 검토해 보니 귀하의 팀에 계약서에 명시된 12개가 아니라 20개의 사용자 라이선스 요금이 청구된 것을 확인했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p6",
+      "en": "The error occurred when an automatic renewal overwrote the changes made to your plan last year.",
+      "ko": "이 오류는 자동 갱신이 작년에 귀하의 요금제에 적용된 변경 사항을 덮어쓰면서 발생했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "We have since disabled automatic renewals on your account to prevent a recurrence.",
+      "ko": "이후 재발을 막기 위해 귀하의 계정에서 자동 갱신 기능을 해제했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "In addition, a credit of $340 has been applied to your account and will be reflected on your March statement.",
+      "ko": "아울러 340달러가 귀하의 계정에 적립되었으며 3월 명세서에 반영될 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p7",
+      "en": "A corrected copy of your February invoice is attached for your records.",
+      "ko": "정정된 2월 청구서 사본을 보관용으로 첨부합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "We sincerely regret any confusion this may have caused.",
+      "ko": "이로 인해 혼란을 드렸을 수 있는 점 진심으로 유감스럽게 생각합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "If you notice any other irregularities, please do not hesitate to contact me directly.",
+      "ko": "다른 이상한 점을 발견하시면 주저하지 말고 저에게 직접 연락해 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "Best regards,",
+      "ko": "감사합니다,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p9",
+      "en": "Tomas Ekberg, Customer Accounts Manager, Veloran Software",
+      "ko": "토마스 에크베리, 고객 계정 관리자, 벨로란 소프트웨어",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "discrepancy",
+      "pos": "noun",
+      "meaningKo": "불일치, 차이",
+      "ipa": "/dɪˈskrɛpənsi/",
+      "synonyms": [
+        "inconsistency",
+        "mismatch",
+        "difference"
+      ],
+      "matchText": "discrepancy",
+      "sentenceId": "s6",
+      "example": {
+        "en": "There is a discrepancy between the two reports.",
+        "ko": "두 보고서 사이에 불일치가 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "bring A to one's attention",
+      "pos": "phrase",
+      "meaningKo": "A를 ~에게 알리다",
+      "ipa": "/brɪŋ ə tuː wʌnz əˈtɛnʃən/",
+      "synonyms": [
+        "point out",
+        "notify",
+        "inform"
+      ],
+      "matchText": "to our attention",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Thank you for bringing this issue to my attention.",
+        "ko": "이 문제를 알려 주셔서 감사합니다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "overwrite",
+      "pos": "verb",
+      "meaningKo": "덮어쓰다",
+      "ipa": "/ˌoʊvərˈraɪt/",
+      "synonyms": [
+        "replace",
+        "erase",
+        "override"
+      ],
+      "matchText": "overwrote",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Saving the file will overwrite the previous version.",
+        "ko": "파일을 저장하면 이전 버전을 덮어쓴다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "recurrence",
+      "pos": "noun",
+      "meaningKo": "재발",
+      "ipa": "/rɪˈkɜːrəns/",
+      "synonyms": [
+        "repetition",
+        "repeat",
+        "reappearance"
+      ],
+      "matchText": "recurrence",
+      "sentenceId": "s9",
+      "example": {
+        "en": "New checks were added to avoid a recurrence of the problem.",
+        "ko": "문제 재발을 막기 위해 새 점검 절차가 추가되었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "irregularity",
+      "pos": "noun",
+      "meaningKo": "이상한 점, 변칙",
+      "ipa": "/ɪˌrɛɡjəˈlærəti/",
+      "synonyms": [
+        "anomaly",
+        "error",
+        "inconsistency"
+      ],
+      "matchText": "irregularities",
+      "sentenceId": "s13",
+      "example": {
+        "en": "The auditor found several irregularities in the records.",
+        "ko": "감사관은 기록에서 몇 가지 이상한 점을 발견했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Upon reviewing your account,",
+          "role": "M",
+          "ko": "계정을 검토하자마자"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "ko": "알게 되었다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라는 것을",
+          "sub": true
+        },
+        {
+          "text": "your team",
+          "role": "S",
+          "ko": "귀하의 팀이",
+          "sub": true
+        },
+        {
+          "text": "was charged",
+          "role": "V",
+          "ko": "요금을 청구받았다",
+          "sub": true
+        },
+        {
+          "text": "for twenty user licenses",
+          "role": "M",
+          "ko": "20개의 사용자 라이선스에 대해",
+          "sub": true
+        },
+        {
+          "text": "rather than the twelve",
+          "role": "M",
+          "ko": "12개가 아니라",
+          "sub": true
+        },
+        {
+          "text": "specified in your contract.",
+          "role": "M",
+          "ko": "계약서에 명시된",
+          "sub": true
+        }
+      ],
+      "skeleton": "Upon -ing, S V that S' V'",
+      "explanation": "Upon + 동명사는 '~하자마자, ~하고 나서'. that절 안에서 rather than이 twenty와 twelve를 대조하고, 과거분사 specified가 twelve를 뒤에서 꾸민다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "The error",
+          "role": "S",
+          "ko": "그 오류는"
+        },
+        {
+          "text": "occurred",
+          "role": "V",
+          "ko": "발생했다"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~했을 때",
+          "sub": true
+        },
+        {
+          "text": "an automatic renewal",
+          "role": "S",
+          "ko": "자동 갱신이",
+          "sub": true
+        },
+        {
+          "text": "overwrote",
+          "role": "V",
+          "ko": "덮어썼다",
+          "sub": true
+        },
+        {
+          "text": "the changes",
+          "role": "O",
+          "ko": "변경 사항을",
+          "sub": true
+        },
+        {
+          "text": "made to your plan last year.",
+          "role": "M",
+          "ko": "작년에 요금제에 적용된",
+          "sub": true
+        }
+      ],
+      "skeleton": "S V when S' V' O'",
+      "explanation": "occur는 자동사라 바로 when절이 이어진다. made to your plan은 changes를 꾸미는 과거분사구."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "명사를 뒤에서 꾸미는 과거분사",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "the twelve specified in your contract"
+      ],
+      "explanation": "specified in your contract가 the twelve (licenses)를 꾸민다. 라이선스 수는 계약서에 '명시되는' 대상이라 과거분사를 쓴다. 뒤에 목적어가 없다는 점도 단서.",
+      "example": {
+        "en": "Please follow the steps described in the manual.",
+        "ko": "설명서에 나와 있는 단계를 따라 주세요."
+      },
+      "note": "명사 + _ + in/by ~ (목적어 없음) → 과거분사."
+    },
+    {
+      "id": "g2",
+      "title": "조동사 + have p.p. (과거 추측)",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "may have caused"
+      ],
+      "explanation": "may have p.p.는 '~했을지도 모른다'는 과거에 대한 추측이다. 사과문에서 '끼쳤을 수도 있는 혼란'처럼 정중하게 쓴다.",
+      "example": {
+        "en": "The package may have been delivered to the wrong address.",
+        "ko": "소포가 잘못된 주소로 배달되었을 수도 있다."
+      },
+      "note": "may/might/could have p.p. = 과거 추측, should have p.p. = 과거 후회."
+    },
+    {
+      "id": "g3",
+      "title": "do not hesitate to V",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s13",
+      "highlight": [
+        "do not hesitate to contact"
+      ],
+      "explanation": "hesitate는 뒤에 to부정사를 쓴다. please do not hesitate to contact me는 '편하게 연락하라'는 비즈니스 이메일의 단골 맺음 표현이다.",
+      "example": {
+        "en": "Please do not hesitate to ask if you need anything.",
+        "ko": "필요한 것이 있으면 언제든 말씀해 주세요."
+      },
+      "note": "refrain은 from -ing, hesitate는 to V."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로, ~하도록 (to부정사)",
+      "ipa": "/tuː/"
+    },
+    "priya": {
+      "lemma": "Priya",
+      "pos": "proper-noun",
+      "ko": "프리야 (사람 이름)",
+      "ipa": null
+    },
+    "raman": {
+      "lemma": "Raman",
+      "pos": "proper-noun",
+      "ko": "라만 (사람 성)",
+      "ipa": "/ˈreɪmən/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터",
+      "ipa": "/frʌm/"
+    },
+    "tomas": {
+      "lemma": "Tomas",
+      "pos": "proper-noun",
+      "ko": "토마스 (사람 이름)",
+      "ipa": "/toʊˈmɑːs/"
+    },
+    "ekberg": {
+      "lemma": "Ekberg",
+      "pos": "proper-noun",
+      "ko": "에크베리 (사람 성)",
+      "ipa": "/ˈɛkbərɡ/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "ipa": "/deɪt/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "ipa": "/mɑːrtʃ/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "correction": {
+      "lemma": "correction",
+      "pos": "noun",
+      "ko": "정정, 수정",
+      "synonyms": [
+        "amendment",
+        "revision"
+      ],
+      "ipa": "/kəˈrɛkʃən/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 귀하의",
+      "ipa": "/jɔːr/"
+    },
+    "february": {
+      "lemma": "February",
+      "pos": "proper-noun",
+      "ko": "2월",
+      "ipa": "/ˈfɛbjəˌwɛri/"
+    },
+    "invoice": {
+      "lemma": "invoice",
+      "pos": "noun",
+      "ko": "청구서, 송장",
+      "synonyms": [
+        "bill",
+        "statement"
+      ],
+      "ipa": "/ˈɪnvɔɪs/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "친애하는 (편지 인사)",
+      "ipa": "/dɪr/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 호칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~ 때문에",
+      "ipa": "/fɔːr/"
+    },
+    "bringing": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "(bring A to one's attention) 알리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "raise",
+        "point out"
+      ],
+      "ipa": "/ˈbrɪŋɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "discrepancy": {
+      "lemma": "discrepancy",
+      "pos": "noun",
+      "ko": "불일치, 차이",
+      "synonyms": [
+        "inconsistency",
+        "mismatch"
+      ],
+      "ipa": "/dɪˈskrɛpənsi/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안의",
+      "ipa": "/ɪn/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의, 저희",
+      "ipa": "/ˈaʊər/"
+    },
+    "attention": {
+      "lemma": "attention",
+      "pos": "noun",
+      "ko": "주의, 주목",
+      "synonyms": [
+        "notice",
+        "awareness"
+      ],
+      "ipa": "/əˈtɛnʃən/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "(Upon -ing) ~하자마자, ~하고 나서",
+      "ipa": "/əˈpɑːn/"
+    },
+    "reviewing": {
+      "lemma": "review",
+      "pos": "verb",
+      "ko": "검토하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "examine",
+        "check"
+      ],
+      "ipa": "/riˈvjuːɪŋ/"
+    },
+    "account": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "계정",
+      "synonyms": [
+        "profile",
+        "record"
+      ],
+      "ipa": "/əˈkaʊnt/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "ipa": "/wiː/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "알게 되다, 발견하다",
+      "form": "과거형",
+      "synonyms": [
+        "discover",
+        "learn"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절)",
+      "ipa": "/ðæt/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "synonyms": [
+        "group"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "charged": {
+      "lemma": "charge",
+      "pos": "verb",
+      "ko": "(요금을) 청구하다",
+      "form": "과거분사",
+      "synonyms": [
+        "bill",
+        "invoice"
+      ],
+      "ipa": "/tʃɑːrdʒd/"
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "pos": "number",
+      "ko": "20, 스물",
+      "ipa": "/ˈtwɛnti/"
+    },
+    "user": {
+      "lemma": "user",
+      "pos": "noun",
+      "ko": "사용자",
+      "ipa": "/ˈjuːzər/"
+    },
+    "licenses": {
+      "lemma": "license",
+      "pos": "noun",
+      "ko": "라이선스, 사용권",
+      "form": "복수형",
+      "synonyms": [
+        "permit",
+        "subscription"
+      ],
+      "ipa": "/ˈlaɪsənsɪz/"
+    },
+    "rather": {
+      "lemma": "rather",
+      "pos": "adverb",
+      "ko": "(rather than) ~가 아니라",
+      "ipa": "/ˈræðər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "preposition",
+      "ko": "(rather than) ~ 대신에",
+      "ipa": "/ðæn/"
+    },
+    "twelve": {
+      "lemma": "twelve",
+      "pos": "number",
+      "ko": "12, 열둘",
+      "ipa": "/twɛlv/"
+    },
+    "specified": {
+      "lemma": "specify",
+      "pos": "verb",
+      "ko": "명시하다",
+      "form": "과거분사",
+      "synonyms": [
+        "state",
+        "stipulate"
+      ],
+      "ipa": "/ˈspɛsəˌfaɪd/"
+    },
+    "contract": {
+      "lemma": "contract",
+      "pos": "noun",
+      "ko": "계약(서)",
+      "synonyms": [
+        "agreement"
+      ],
+      "ipa": "/ˈkɑːnˌtrækt/"
+    },
+    "error": {
+      "lemma": "error",
+      "pos": "noun",
+      "ko": "오류",
+      "synonyms": [
+        "mistake",
+        "fault"
+      ],
+      "ipa": "/ˈɛrər/"
+    },
+    "occurred": {
+      "lemma": "occur",
+      "pos": "verb",
+      "ko": "발생하다",
+      "form": "과거형",
+      "synonyms": [
+        "happen",
+        "arise"
+      ],
+      "ipa": "/əˈkɜːrd/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/æn/"
+    },
+    "automatic": {
+      "lemma": "automatic",
+      "pos": "adjective",
+      "ko": "자동의",
+      "synonyms": [
+        "automated"
+      ],
+      "ipa": "/ˌɔːtəˈmætɪk/"
+    },
+    "renewal": {
+      "lemma": "renewal",
+      "pos": "noun",
+      "ko": "갱신",
+      "synonyms": [
+        "extension",
+        "continuation"
+      ],
+      "ipa": "/rɪˈnuːəl/"
+    },
+    "overwrote": {
+      "lemma": "overwrite",
+      "pos": "verb",
+      "ko": "덮어쓰다",
+      "form": "과거형",
+      "synonyms": [
+        "replace",
+        "override"
+      ],
+      "ipa": "/ˌoʊvərˈroʊt/"
+    },
+    "changes": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변경 사항",
+      "form": "복수형",
+      "synonyms": [
+        "modification",
+        "adjustment"
+      ],
+      "ipa": "/ˈtʃeɪndʒəz/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(변경을) 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "apply",
+        "carry out"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "plan": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "요금제, 계획",
+      "synonyms": [
+        "package",
+        "subscription"
+      ],
+      "ipa": "/plæn/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "synonyms": [
+        "previous"
+      ],
+      "ipa": "/læst/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "ipa": "/jɪr/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have + p.p.) 완료",
+      "ipa": "/hæv/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "adverb",
+      "ko": "그 이후로",
+      "ipa": "/sɪns/"
+    },
+    "disabled": {
+      "lemma": "disable",
+      "pos": "verb",
+      "ko": "(기능을) 해제하다, 끄다",
+      "form": "과거분사",
+      "synonyms": [
+        "deactivate",
+        "turn off"
+      ],
+      "ipa": "/dɪˈseɪbəld/"
+    },
+    "renewals": {
+      "lemma": "renewal",
+      "pos": "noun",
+      "ko": "갱신",
+      "form": "복수형",
+      "synonyms": [
+        "extension"
+      ],
+      "ipa": "/rɪˈnuːəlz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~에 대해",
+      "ipa": "/ɑːn/"
+    },
+    "prevent": {
+      "lemma": "prevent",
+      "pos": "verb",
+      "ko": "막다, 방지하다",
+      "synonyms": [
+        "avoid",
+        "stop"
+      ],
+      "ipa": "/prɪˈvɛnt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "recurrence": {
+      "lemma": "recurrence",
+      "pos": "noun",
+      "ko": "재발",
+      "synonyms": [
+        "repetition",
+        "repeat"
+      ],
+      "ipa": "/rɪˈkɜːrəns/"
+    },
+    "addition": {
+      "lemma": "addition",
+      "pos": "noun",
+      "ko": "(In addition) 게다가, 추가",
+      "ipa": "/əˈdɪʃən/"
+    },
+    "credit": {
+      "lemma": "credit",
+      "pos": "noun",
+      "ko": "(계정에 적립되는) 크레딧, 환급액",
+      "synonyms": [
+        "refund",
+        "allowance"
+      ],
+      "ipa": "/ˈkrɛdət/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(has + p.p.) 현재완료",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태 완료) ~되었다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "applied": {
+      "lemma": "apply",
+      "pos": "verb",
+      "ko": "적용하다, 적립하다",
+      "form": "과거분사",
+      "synonyms": [
+        "add",
+        "credit"
+      ],
+      "ipa": "/əˈplaɪd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "동사원형",
+      "ipa": "/biː/"
+    },
+    "reflected": {
+      "lemma": "reflect",
+      "pos": "verb",
+      "ko": "반영하다",
+      "form": "과거분사",
+      "synonyms": [
+        "show",
+        "record"
+      ],
+      "ipa": "/rɪˈflɛktɪd/"
+    },
+    "statement": {
+      "lemma": "statement",
+      "pos": "noun",
+      "ko": "(거래) 명세서",
+      "synonyms": [
+        "bill",
+        "invoice"
+      ],
+      "ipa": "/ˈsteɪtmənt/"
+    },
+    "corrected": {
+      "lemma": "correct",
+      "pos": "verb",
+      "ko": "정정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "amend",
+        "revise"
+      ],
+      "ipa": "/kəˈrɛktəd/"
+    },
+    "copy": {
+      "lemma": "copy",
+      "pos": "noun",
+      "ko": "사본",
+      "synonyms": [
+        "duplicate",
+        "version"
+      ],
+      "ipa": "/ˈkɑːpi/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "attached": {
+      "lemma": "attach",
+      "pos": "verb",
+      "ko": "첨부하다",
+      "form": "과거분사",
+      "synonyms": [
+        "enclose",
+        "include"
+      ],
+      "ipa": "/əˈtætʃt/"
+    },
+    "records": {
+      "lemma": "record",
+      "pos": "noun",
+      "ko": "기록, 보관 자료",
+      "form": "복수형",
+      "synonyms": [
+        "file",
+        "archive"
+      ],
+      "ipa": "/rəˈkɔːrdz/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로",
+      "synonyms": [
+        "truly",
+        "genuinely"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "regret": {
+      "lemma": "regret",
+      "pos": "verb",
+      "ko": "유감스럽게 생각하다",
+      "synonyms": [
+        "apologize for",
+        "be sorry for"
+      ],
+      "ipa": "/rəˈɡrɛt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "ipa": "/ˈɛni/"
+    },
+    "confusion": {
+      "lemma": "confusion",
+      "pos": "noun",
+      "ko": "혼란",
+      "synonyms": [
+        "misunderstanding",
+        "uncertainty"
+      ],
+      "ipa": "/kənˈfjuːʒən/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "ipa": "/ðɪs/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~했을 수도 있다 (may have p.p.)",
+      "ipa": "/meɪ/"
+    },
+    "caused": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "일으키다",
+      "form": "과거분사",
+      "synonyms": [
+        "create",
+        "lead to"
+      ],
+      "ipa": "/kɑːzd/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "ipa": "/ɪf/"
+    },
+    "notice": {
+      "lemma": "notice",
+      "pos": "verb",
+      "ko": "알아차리다, 발견하다",
+      "synonyms": [
+        "spot",
+        "detect"
+      ],
+      "ipa": "/ˈnoʊtəs/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "synonyms": [
+        "additional",
+        "further"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "irregularities": {
+      "lemma": "irregularity",
+      "pos": "noun",
+      "ko": "이상한 점, 변칙",
+      "form": "복수형",
+      "synonyms": [
+        "anomaly",
+        "error"
+      ],
+      "ipa": "/ˌɪrɛɡjəˈlɛrətiz/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주십시오",
+      "ipa": "/pliːz/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문 조동사)",
+      "ipa": "/duː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~하지 않다",
+      "ipa": "/nɑːt/"
+    },
+    "hesitate": {
+      "lemma": "hesitate",
+      "pos": "verb",
+      "ko": "주저하다, 망설이다",
+      "synonyms": [
+        "hold back",
+        "delay"
+      ],
+      "ipa": "/ˈhɛzəˌteɪt/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나에게, 저에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "directly": {
+      "lemma": "directly",
+      "pos": "adverb",
+      "ko": "직접",
+      "synonyms": [
+        "personally"
+      ],
+      "ipa": "/dəˈrɛktli/"
+    },
+    "best": {
+      "lemma": "best",
+      "pos": "adjective",
+      "ko": "(Best regards) 맺음 인사, 최고의",
+      "form": "최상급",
+      "ipa": "/bɛst/"
+    },
+    "regards": {
+      "lemma": "regards",
+      "pos": "noun",
+      "ko": "(Best regards) 안부, 인사",
+      "synonyms": [
+        "wishes",
+        "greetings"
+      ],
+      "ipa": "/rɪˈɡɑːrdz/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "accounts": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "계정",
+      "form": "복수형",
+      "ipa": "/əˈkaʊnts/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자",
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "veloran": {
+      "lemma": "Veloran",
+      "pos": "proper-noun",
+      "ko": "벨로란 (회사 이름)",
+      "ipa": null
+    },
+    "software": {
+      "lemma": "software",
+      "pos": "noun",
+      "ko": "소프트웨어",
+      "synonyms": [
+        "program"
+      ],
+      "ipa": "/ˈsɔːfˌtwɛr/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "specified"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "specifying"
+        },
+        {
+          "key": "B",
+          "text": "specified"
+        },
+        {
+          "key": "C",
+          "text": "specifies"
+        },
+        {
+          "key": "D",
+          "text": "specification"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "the twelve (licenses)를 뒤에서 꾸미는 분사 자리. 라이선스 수는 계약서에 '명시된' 것이고 뒤에 목적어가 없으므로 과거분사 specified.",
+      "choiceNotesKo": {
+        "A": "현재분사 specifying은 뒤에 목적어가 필요하고 능동 의미가 된다.",
+        "C": "that절에 동사 was charged가 이미 있어 동사가 또 올 수 없다."
+      },
+      "skill": "과거분사(명사 후치 수식)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "We have since disabled automatic renewals on your account to prevent a recurrence."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Our new pricing plans will be announced later this spring."
+        },
+        {
+          "key": "B",
+          "text": "Many customers have praised the latest version of our software."
+        },
+        {
+          "key": "C",
+          "text": "Please update your payment details before the end of the month."
+        },
+        {
+          "key": "D",
+          "text": "We have since disabled automatic renewals on your account to prevent a recurrence."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장은 오류가 자동 갱신(automatic renewal) 때문에 생겼다는 설명이고, 뒤 문장은 In addition으로 시작해 또 다른 조치(크레딧 적립)를 말한다. 그 사이에는 '자동 갱신을 해제했다'는 첫 번째 조치가 들어가야 흐름이 맞다.",
+      "choiceNotesKo": {
+        "A": "새 요금제 발표는 오류 정정 흐름과 관계없다.",
+        "C": "결제 정보 갱신 요청은 오히려 회사 측 실수를 사과하는 흐름과 맞지 않는다."
+      },
+      "skill": "문장 넣기(In addition 단서)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "reflected"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "reflected"
+        },
+        {
+          "key": "B",
+          "text": "resolved"
+        },
+        {
+          "key": "C",
+          "text": "reversed"
+        },
+        {
+          "key": "D",
+          "text": "retained"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "적립된 크레딧이 3월 명세서에 '반영될' 것이라는 뜻 → be reflected on a statement.",
+      "choiceNotesKo": {
+        "C": "reversed(취소되다)면 방금 적용한 크레딧을 없앤다는 뜻이 되어 앞뒤가 맞지 않는다.",
+        "B": "resolve(해결하다)는 문제를 목적어로 하며 명세서와 어울리지 않는다."
+      },
+      "skill": "어휘(be reflected on)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s12",
+        "answerText": "sincerely"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "sincere"
+        },
+        {
+          "key": "B",
+          "text": "sincerity"
+        },
+        {
+          "key": "C",
+          "text": "sincerely"
+        },
+        {
+          "key": "D",
+          "text": "sincerest"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "주어 We와 동사 regret 사이에서 동사를 꾸미는 부사 자리 → sincerely.",
+      "choiceNotesKo": {
+        "A": "형용사 sincere(최상급 sincerest 포함)는 동사를 꾸밀 수 없다.",
+        "B": "명사 sincerity는 주어와 동사 사이에 올 수 없다."
+      },
+      "skill": "부사 자리(주어 + _ + 동사)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s13",
+        "answerText": "hesitate"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "refrain"
+        },
+        {
+          "key": "B",
+          "text": "hesitate"
+        },
+        {
+          "key": "C",
+          "text": "postpone"
+        },
+        {
+          "key": "D",
+          "text": "hinder"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "do not ------- to contact me: 뒤에 to부정사를 쓰며 '망설이지 말고 연락하라'는 뜻 → hesitate.",
+      "choiceNotesKo": {
+        "A": "refrain은 from + -ing를 쓴다(refrain from contacting).",
+        "C": "postpone은 뒤에 동명사나 명사를 쓴다.",
+        "D": "hinder는 '방해하다'로 to부정사와 어울리지 않는다."
+      },
+      "skill": "혼동 어휘(hesitate to V)"
+    }
+  ]
+}
