@@ -1,0 +1,1692 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-16-L3-3",
+  "date": "2026-11-16",
+  "level": 3,
+  "title": "Rumpelstiltskin",
+  "titleKo": "룸펠슈틸츠헨",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "greed"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Rumpelstiltskin)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Rumpelstiltskin' 첫 단락 전체와 둘째 단락의 첫 문장 (‘By the side of a wood’부터 ‘what are you weeping for?’’까지, 242단어). 첫 단락만으로는 198단어라 레벨 범위(200~250)에 못 미치고 둘째 단락 전체를 넣으면 290단어를 넘어, 둘째 단락은 첫 문장(난쟁이의 첫 대사)에서 끊음. 원문 HTML판 기준으로 줄바꿈만 공백 하나로 이음 (따옴표·아포스트로피는 HTML판의 ‘ ’ 그대로)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_25_rumpelstiltskin.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_25_rumpelstiltskin_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Paula Berinstein",
+    "durationSec": 466,
+    "startSec": 20,
+    "endSec": 120,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 25 'Rumpelstiltskin' (전체 7:46). 지문은 이야기 첫 단락과 둘째 단락 첫 문장으로, LibriVox 안내 멘트 뒤 약 0:20~2:00 (추정)."
+  },
+  "wordCount": 242,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "아주 먼 나라의 어느 숲가에 맑은 시냇물이 흐르고 있었고, 그 시냇가에는 방앗간이 하나 서 있었다. 방앗간 주인의 집은 바로 그 근처에 있었는데, 실은 이 방앗간 주인에게는 아주 아름다운 딸이 하나 있었다. 게다가 딸은 무척 영리하고 똑똑했다. 방앗간 주인은 딸이 너무나 자랑스러운 나머지, 어느 날 그 숲에 사냥하러 오곤 하던 나라의 왕에게 자기 딸이 짚으로 금실을 자아낼 수 있다고 말해 버렸다. 그런데 이 왕은 돈을 무척 좋아했다. 방앗간 주인의 허풍을 듣자 왕은 욕심이 생겨, 사람을 보내 그 처녀를 자기 앞에 데려오게 했다. 그러고는 처녀를 짚이 산더미처럼 쌓인 궁전의 한 방으로 데려가 물레를 하나 주며 말했다. “목숨이 아깝거든 아침이 되기 전에 이것을 전부 자아서 금으로 만들어 놓아라.” 가엾은 처녀는 그건 아버지의 어리석은 허풍일 뿐이며 자기는 짚을 자아 금으로 만드는 일 같은 건 전혀 할 수 없다고 말했지만 소용없었다. 방문은 잠겼고, 처녀는 홀로 남겨졌다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "처녀는 방 한구석에 주저앉아 자신의 가혹한 운명을 한탄하기 시작했다. 그때 갑자기 문이 열리더니 우스꽝스럽게 생긴 작은 남자가 절뚝거리며 들어와 말했다. “안녕하시오, 아가씨. 무엇 때문에 울고 있소?”"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "By the side of a wood, in a country a long way off, ran a fine stream of water; and upon the stream there stood a mill.",
+      "ko": "아주 먼 나라의 어느 숲가에 맑은 시냇물이 흐르고 있었고, 그 시냇가에는 방앗간이 하나 서 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The miller’s house was close by, and the miller, you must know, had a very beautiful daughter.",
+      "ko": "방앗간 주인의 집은 바로 그 근처에 있었는데, 실은 이 방앗간 주인에게는 아주 아름다운 딸이 하나 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "She was, moreover, very shrewd and clever; and the miller was so proud of her, that he one day told the king of the land, who used to come and hunt in the wood, that his daughter could spin gold out of straw.",
+      "ko": "게다가 딸은 무척 영리하고 똑똑했다. 방앗간 주인은 딸이 너무나 자랑스러운 나머지, 어느 날 그 숲에 사냥하러 오곤 하던 나라의 왕에게 자기 딸이 짚으로 금실을 자아낼 수 있다고 말해 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Now this king was very fond of money; and when he heard the miller’s boast his greediness was raised, and he sent for the girl to be brought before him.",
+      "ko": "그런데 이 왕은 돈을 무척 좋아했다. 방앗간 주인의 허풍을 듣자 왕은 욕심이 생겨, 사람을 보내 그 처녀를 자기 앞에 데려오게 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Then he led her to a chamber in his palace where there was a great heap of straw, and gave her a spinning-wheel, and said, ‘All this must be spun into gold before morning, as you love your life.’",
+      "ko": "그러고는 처녀를 짚이 산더미처럼 쌓인 궁전의 한 방으로 데려가 물레를 하나 주며 말했다. “목숨이 아깝거든 아침이 되기 전에 이것을 전부 자아서 금으로 만들어 놓아라.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "It was in vain that the poor maiden said that it was only a silly boast of her father, for that she could do no such thing as spin straw into gold: the chamber door was locked, and she was left alone.",
+      "ko": "가엾은 처녀는 그건 아버지의 어리석은 허풍일 뿐이며 자기는 짚을 자아 금으로 만드는 일 같은 건 전혀 할 수 없다고 말했지만 소용없었다. 방문은 잠겼고, 처녀는 홀로 남겨졌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "She sat down in one corner of the room, and began to bewail her hard fate; when on a sudden the door opened, and a droll-looking little man hobbled in, and said, ‘Good morrow to you, my good lass; what are you weeping for?’",
+      "ko": "처녀는 방 한구석에 주저앉아 자신의 가혹한 운명을 한탄하기 시작했다. 그때 갑자기 문이 열리더니 우스꽝스럽게 생긴 작은 남자가 절뚝거리며 들어와 말했다. “안녕하시오, 아가씨. 무엇 때문에 울고 있소?”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "shrewd",
+      "pos": "adjective",
+      "meaningKo": "영리한, 약삭빠른, 판단이 빠른",
+      "ipa": "/ʃruːd/",
+      "synonyms": [
+        "clever",
+        "sharp",
+        "smart"
+      ],
+      "matchText": "shrewd",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She is a shrewd businesswoman who rarely makes a bad deal.",
+        "ko": "그녀는 손해 보는 거래를 거의 하지 않는 영리한 사업가다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "boast",
+      "pos": "noun",
+      "meaningKo": "자랑, 허풍",
+      "ipa": "/boʊst/",
+      "synonyms": [
+        "brag",
+        "claim",
+        "bragging"
+      ],
+      "matchText": "boast",
+      "sentenceId": "s4",
+      "example": {
+        "en": "His boast that he could run a mile in four minutes turned out to be false.",
+        "ko": "1마일을 4분에 달릴 수 있다는 그의 자랑은 거짓으로 드러났다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in vain",
+      "pos": "idiom",
+      "meaningKo": "헛되이, 소용없이",
+      "ipa": "/ɪn ˈveɪn/",
+      "synonyms": [
+        "uselessly",
+        "without success",
+        "for nothing"
+      ],
+      "matchText": "in vain",
+      "sentenceId": "s6",
+      "example": {
+        "en": "We searched for the lost key, but it was in vain.",
+        "ko": "우리는 잃어버린 열쇠를 찾아봤지만 소용없었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "bewail",
+      "pos": "verb",
+      "meaningKo": "(큰 소리로) 한탄하다, 슬퍼하다",
+      "ipa": "/bɪˈweɪl/",
+      "synonyms": [
+        "lament",
+        "mourn",
+        "grieve over"
+      ],
+      "matchText": "bewail",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The old man bewailed the loss of his only son.",
+        "ko": "노인은 외아들을 잃은 것을 한탄했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "hobble",
+      "pos": "verb",
+      "meaningKo": "절뚝거리며 걷다, 뒤뚱뒤뚱 걷다",
+      "ipa": "/ˈhɑːbəl/",
+      "synonyms": [
+        "limp",
+        "stumble",
+        "totter"
+      ],
+      "matchText": "hobbled",
+      "sentenceId": "s7",
+      "example": {
+        "en": "After twisting his ankle, he hobbled back to the bus stop.",
+        "ko": "발목을 삔 뒤 그는 절뚝거리며 버스 정류장으로 돌아갔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "By the side of a wood,",
+          "role": "M",
+          "ko": "숲가에"
+        },
+        {
+          "text": "in a country a long way off,",
+          "role": "M",
+          "ko": "아주 먼 나라의"
+        },
+        {
+          "text": "ran",
+          "role": "V",
+          "ko": "흘렀다"
+        },
+        {
+          "text": "a fine stream of water;",
+          "role": "S",
+          "ko": "맑은 시냇물이"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "upon the stream",
+          "role": "M",
+          "ko": "그 시냇가에"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "ko": "서 있었다"
+        },
+        {
+          "text": "a mill.",
+          "role": "S",
+          "ko": "방앗간 하나가"
+        }
+      ],
+      "skeleton": "ran a fine stream (= a fine stream ran) / there stood a mill",
+      "explanation": "장소를 나타내는 부사구(By the side of a wood, in a country a long way off)가 문장 맨 앞에 오면서 동사 ran이 주어 a fine stream of water보다 먼저 나왔다(도치). 뒤 절의 there stood a mill도 'there + 동사 + 주어' 형태로, 진짜 주어는 a mill이다. 옛이야기의 첫머리에서 배경을 소개할 때 자주 쓰는 어순이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "She",
+          "role": "S",
+          "ko": "그녀는"
+        },
+        {
+          "text": "was,",
+          "role": "V",
+          "ko": "~였다"
+        },
+        {
+          "text": "moreover,",
+          "role": "M",
+          "ko": "게다가"
+        },
+        {
+          "text": "very shrewd and clever;",
+          "role": "C",
+          "ko": "무척 영리하고 똑똑한"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "the miller",
+          "role": "S",
+          "ko": "방앗간 주인은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~였다"
+        },
+        {
+          "text": "so proud of her,",
+          "role": "C",
+          "ko": "그녀가 너무 자랑스러워서"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "그 결과",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그는",
+          "sub": true
+        },
+        {
+          "text": "one day",
+          "role": "M",
+          "ko": "어느 날",
+          "sub": true
+        },
+        {
+          "text": "told",
+          "role": "V",
+          "ko": "말했다",
+          "sub": true
+        },
+        {
+          "text": "the king of the land,",
+          "role": "IO",
+          "ko": "그 나라의 왕에게",
+          "sub": true
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그런데 그 왕은)",
+          "sub": true
+        },
+        {
+          "text": "used to come and hunt",
+          "role": "V",
+          "ko": "오곤 했고 사냥하곤 했다",
+          "sub": true
+        },
+        {
+          "text": "in the wood,",
+          "role": "M",
+          "ko": "그 숲에서",
+          "sub": true
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라고",
+          "sub": true
+        },
+        {
+          "text": "his daughter",
+          "role": "S",
+          "ko": "자기 딸이",
+          "sub": true
+        },
+        {
+          "text": "could spin",
+          "role": "V",
+          "ko": "자아낼 수 있다",
+          "sub": true
+        },
+        {
+          "text": "gold",
+          "role": "O",
+          "ko": "금을",
+          "sub": true
+        },
+        {
+          "text": "out of straw.",
+          "role": "M",
+          "ko": "짚으로",
+          "sub": true
+        }
+      ],
+      "skeleton": "She was shrewd and clever; the miller was so proud of her that he told the king that ...",
+      "explanation": "so ~ that 구문(너무 ~해서 …하다)이 뼈대다. that절 안에서 told는 '누구에게(the king of the land) + 무엇을(that his daughter could ...)'의 두 목적어를 갖는다. 콤마 사이의 who used to come and hunt in the wood는 왕을 덧붙여 설명하는 관계대명사절(계속적 용법)이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Now",
+          "role": "M",
+          "ko": "그런데"
+        },
+        {
+          "text": "this king",
+          "role": "S",
+          "ko": "이 왕은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~였다"
+        },
+        {
+          "text": "very fond of money;",
+          "role": "C",
+          "ko": "돈을 무척 좋아하는"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~했을 때",
+          "sub": true
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그가",
+          "sub": true
+        },
+        {
+          "text": "heard",
+          "role": "V",
+          "ko": "들었다",
+          "sub": true
+        },
+        {
+          "text": "the miller’s boast",
+          "role": "O",
+          "ko": "방앗간 주인의 허풍을",
+          "sub": true
+        },
+        {
+          "text": "his greediness",
+          "role": "S",
+          "ko": "그의 욕심이"
+        },
+        {
+          "text": "was raised,",
+          "role": "V",
+          "ko": "부풀어 올랐다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그는"
+        },
+        {
+          "text": "sent for",
+          "role": "V",
+          "ko": "사람을 보내 불러오게 했다"
+        },
+        {
+          "text": "the girl",
+          "role": "O",
+          "ko": "그 처녀를"
+        },
+        {
+          "text": "to be brought before him.",
+          "role": "M",
+          "ko": "자기 앞에 데려오도록"
+        }
+      ],
+      "skeleton": "this king was fond of money; his greediness was raised, and he sent for the girl",
+      "explanation": "세미콜론(;)과 and로 세 덩어리가 이어진 문장이다. when he heard the miller’s boast는 시간을 나타내는 부사절이고, 그 뒤에 콤마 없이 바로 주절 his greediness was raised가 온다. sent for는 '(사람을 보내) ~을 불러오게 하다', to be brought before him은 '자기 앞에 데려와지도록'이라는 뜻의 수동형 to부정사다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "so ~ that …: 너무 ~해서 …하다",
+      "tags": [
+        "부사절",
+        "접속사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so proud of her, that he one day told"
+      ],
+      "explanation": "'so + 형용사/부사 + that + 주어 + 동사'는 '너무 ~해서 (그 결과) …하다'라는 뜻이다. 방앗간 주인이 딸을 너무 자랑스러워한 결과, 왕에게 엉뚱한 자랑을 하게 된 것이다. 이 원문처럼 옛 글에서는 so ~ 와 that 사이에 콤마가 들어가기도 한다.",
+      "example": {
+        "en": "The soup was so hot that I couldn't eat it right away.",
+        "ko": "수프가 너무 뜨거워서 바로 먹을 수가 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "조동사 + 수동태: must be spun",
+      "tags": [
+        "수동태",
+        "조동사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "must be spun into gold"
+      ],
+      "explanation": "'조동사 + be + 과거분사'는 '~되어야 한다/~될 수 있다'처럼 조동사의 뜻이 더해진 수동태다. All this(이 짚 전부)는 스스로 실을 잣는 것이 아니라 '자아지는' 대상이므로 must be spun(자아져야 한다)이 쓰였다. spin의 과거분사는 spun이다. 같은 지문의 to be brought(데려와지도록), was locked(잠겼다), was left(남겨졌다)도 모두 수동태다.",
+      "example": {
+        "en": "This homework must be finished by Friday.",
+        "ko": "이 숙제는 금요일까지 끝내야 한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "It was in vain that …: …했지만 소용없었다",
+      "tags": [
+        "강조",
+        "명사절"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "It was in vain that"
+      ],
+      "explanation": "It was in vain that + 주어 + 동사는 '…했지만 소용없었다/헛일이었다'라는 뜻으로, in vain(헛되이)을 강조하기 위해 It is[was] ~ that 틀에 넣은 표현이다. 그 뒤 said that it was only a silly boast의 that은 '~라는 것'을 뜻하는 명사절을 이끈다. for that she could do ...는 옛 문체로 '왜냐하면 ~이므로'(= because)라는 뜻이다.",
+      "example": {
+        "en": "It was in vain that he called her name; she had already gone.",
+        "ko": "그가 그녀의 이름을 불렀지만 소용없었다. 그녀는 이미 떠난 뒤였다."
+      },
+      "note": "요즘 영어에서는 보통 He called her name in vain. 이나 He called her name, but it was no use. 처럼 쓴다."
+    }
+  ],
+  "glossary": {
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~ 옆에 (by the side of)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "옆, 가장자리",
+      "form": null,
+      "synonyms": [
+        "edge",
+        "border"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "wood": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "forest",
+        "woods"
+      ],
+      "ipa": "/wʊd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "country": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "나라",
+      "form": null,
+      "synonyms": [
+        "land",
+        "nation"
+      ],
+      "ipa": "/ˈkʌntri/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "먼, 긴 (a long way off)",
+      "form": null,
+      "synonyms": [
+        "distant",
+        "far"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "거리, 길",
+      "form": null,
+      "synonyms": [
+        "distance"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "떨어져 (a long way off: 아주 먼)",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(물이) 흐르다",
+      "form": "과거형",
+      "synonyms": [
+        "flow"
+      ],
+      "ipa": "/ræn/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "맑은, 좋은",
+      "form": null,
+      "synonyms": [
+        "clear",
+        "lovely"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "stream": {
+      "lemma": "stream",
+      "pos": "noun",
+      "ko": "시내, 개울",
+      "form": null,
+      "synonyms": [
+        "brook",
+        "creek"
+      ],
+      "ipa": "/striːm/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "form": null,
+      "ipa": "/ˈwɔːtər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there + 동사: ~이 있다)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "과거형",
+      "synonyms": [
+        "be located",
+        "rise"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "mill": {
+      "lemma": "mill",
+      "pos": "noun",
+      "ko": "방앗간",
+      "form": null,
+      "ipa": "/mɪl/"
+    },
+    "miller's": {
+      "lemma": "miller",
+      "pos": "noun",
+      "ko": "방앗간 주인의",
+      "form": "소유격",
+      "ipa": "/ˈmɪlərz/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": null,
+      "synonyms": [
+        "home",
+        "dwelling"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "close": {
+      "lemma": "close",
+      "pos": "adverb",
+      "ko": "가까이 (close by: 바로 근처에)",
+      "form": null,
+      "synonyms": [
+        "near",
+        "nearby"
+      ],
+      "ipa": "/kloʊs/"
+    },
+    "miller": {
+      "lemma": "miller",
+      "pos": "noun",
+      "ko": "방앗간 주인",
+      "form": null,
+      "ipa": "/ˈmɪlər/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다 (you must know: 실은)",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 두다",
+      "form": "과거형",
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæd/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "daughter": {
+      "lemma": "daughter",
+      "pos": "noun",
+      "ko": "딸",
+      "form": null,
+      "ipa": "/ˈdɔːtər/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "moreover": {
+      "lemma": "moreover",
+      "pos": "adverb",
+      "ko": "게다가, 더욱이",
+      "form": null,
+      "synonyms": [
+        "besides",
+        "furthermore"
+      ],
+      "ipa": "/mɔˈroʊvər/"
+    },
+    "shrewd": {
+      "lemma": "shrewd",
+      "pos": "adjective",
+      "ko": "영리한, 약삭빠른",
+      "form": null,
+      "synonyms": [
+        "clever",
+        "sharp"
+      ],
+      "ipa": "/ʃruːd/"
+    },
+    "clever": {
+      "lemma": "clever",
+      "pos": "adjective",
+      "ko": "똑똑한, 영리한",
+      "form": null,
+      "synonyms": [
+        "smart",
+        "bright"
+      ],
+      "ipa": "/ˈklɛvər/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 그토록 (so ~ that)",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "proud": {
+      "lemma": "proud",
+      "pos": "adjective",
+      "ko": "자랑스러워하는 (be proud of)",
+      "form": null,
+      "synonyms": [
+        "pleased",
+        "satisfied"
+      ],
+      "ipa": "/praʊd/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀를, 그녀의",
+      "form": "목적격/소유격",
+      "ipa": "/hɜːr/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것, ~해서 (so ~ that)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느 (one day)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날 (one day: 어느 날)",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 알리다",
+      "form": "과거형",
+      "synonyms": [
+        "say",
+        "inform"
+      ],
+      "ipa": "/toʊld/"
+    },
+    "king": {
+      "lemma": "king",
+      "pos": "noun",
+      "ko": "왕",
+      "form": null,
+      "synonyms": [
+        "ruler",
+        "monarch"
+      ],
+      "ipa": "/kɪŋ/"
+    },
+    "land": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "나라, 땅",
+      "form": null,
+      "synonyms": [
+        "country",
+        "kingdom"
+      ],
+      "ipa": "/lænd/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그런데 그 사람은",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "(used to) ~하곤 했다",
+      "form": "과거형",
+      "ipa": "/juːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~하기 위해 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive",
+        "visit"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "hunt": {
+      "lemma": "hunt",
+      "pos": "verb",
+      "ko": "사냥하다",
+      "form": null,
+      "synonyms": [
+        "chase"
+      ],
+      "ipa": "/hʌnt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "spin": {
+      "lemma": "spin",
+      "pos": "verb",
+      "ko": "(실을) 잣다",
+      "form": null,
+      "synonyms": [
+        "weave",
+        "twist"
+      ],
+      "ipa": "/spɪn/"
+    },
+    "gold": {
+      "lemma": "gold",
+      "pos": "noun",
+      "ko": "금",
+      "form": null,
+      "ipa": "/ɡoʊld/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~으로, ~에서",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "straw": {
+      "lemma": "straw",
+      "pos": "noun",
+      "ko": "짚, 지푸라기",
+      "form": null,
+      "synonyms": [
+        "hay"
+      ],
+      "ipa": "/strɔː/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "그런데 (이야기 전환)",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "fond": {
+      "lemma": "fond",
+      "pos": "adjective",
+      "ko": "좋아하는 (be fond of)",
+      "form": null,
+      "synonyms": [
+        "keen",
+        "loving"
+      ],
+      "ipa": "/fɑːnd/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "form": null,
+      "synonyms": [
+        "wealth",
+        "riches"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "과거형",
+      "ipa": "/hɜːrd/"
+    },
+    "boast": {
+      "lemma": "boast",
+      "pos": "noun",
+      "ko": "자랑, 허풍",
+      "form": null,
+      "synonyms": [
+        "brag",
+        "claim"
+      ],
+      "ipa": "/boʊst/"
+    },
+    "greediness": {
+      "lemma": "greediness",
+      "pos": "noun",
+      "ko": "탐욕, 욕심",
+      "form": null,
+      "synonyms": [
+        "greed",
+        "avarice"
+      ],
+      "ipa": "/ˈɡriːdinəs/"
+    },
+    "raised": {
+      "lemma": "raise",
+      "pos": "verb",
+      "ko": "일으키다, 부풀리다",
+      "form": "과거분사",
+      "synonyms": [
+        "stir",
+        "arouse"
+      ],
+      "ipa": "/reɪzd/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "(send for) 사람을 보내 부르다",
+      "form": "과거형",
+      "synonyms": [
+        "summon"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 (send for), 왜냐하면 (for that)",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "소녀, 처녀",
+      "form": null,
+      "synonyms": [
+        "maiden",
+        "lass"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "brought": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "데려오다",
+      "form": "과거분사",
+      "synonyms": [
+        "take",
+        "fetch"
+      ],
+      "ipa": "/brɔːt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 앞에, ~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고 나서",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterwards"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "led": {
+      "lemma": "lead",
+      "pos": "verb",
+      "ko": "데리고 가다, 안내하다",
+      "form": "과거형",
+      "synonyms": [
+        "take",
+        "guide"
+      ],
+      "ipa": "/lɛd/"
+    },
+    "chamber": {
+      "lemma": "chamber",
+      "pos": "noun",
+      "ko": "방 (옛말)",
+      "form": null,
+      "synonyms": [
+        "room"
+      ],
+      "ipa": "/ˈtʃeɪmbər/"
+    },
+    "palace": {
+      "lemma": "palace",
+      "pos": "noun",
+      "ko": "궁전",
+      "form": null,
+      "synonyms": [
+        "castle"
+      ],
+      "ipa": "/ˈpæləs/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "(관계부사) ~하는 곳",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 엄청난",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "large"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "heap": {
+      "lemma": "heap",
+      "pos": "noun",
+      "ko": "더미",
+      "form": null,
+      "synonyms": [
+        "pile",
+        "mound"
+      ],
+      "ipa": "/hiːp/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "과거형",
+      "synonyms": [
+        "hand",
+        "provide"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "spinning-wheel": {
+      "lemma": "spinning-wheel",
+      "pos": "noun",
+      "ko": "물레",
+      "form": null,
+      "ipa": "/ˈspɪnɪŋ-wiːl/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "state"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모두, 전부",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "spun": {
+      "lemma": "spin",
+      "pos": "verb",
+      "ko": "(실을) 잣다",
+      "form": "과거분사",
+      "synonyms": [
+        "woven"
+      ],
+      "ipa": "/spʌn/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~으로 (변하여)",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침",
+      "form": null,
+      "synonyms": [
+        "dawn"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하는 한 (as you love your life: 목숨이 아깝거든)",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "love": {
+      "lemma": "love",
+      "pos": "verb",
+      "ko": "사랑하다, 소중히 여기다",
+      "form": null,
+      "synonyms": [
+        "value",
+        "cherish"
+      ],
+      "ipa": "/lʌv/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "목숨, 생명",
+      "form": null,
+      "ipa": "/laɪf/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (가주어 it)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "vain": {
+      "lemma": "vain",
+      "pos": "adjective",
+      "ko": "헛된 (in vain: 헛되이)",
+      "form": null,
+      "synonyms": [
+        "useless",
+        "futile"
+      ],
+      "ipa": "/veɪn/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가엾은, 불쌍한",
+      "form": null,
+      "synonyms": [
+        "unlucky",
+        "unfortunate"
+      ],
+      "ipa": "/puːr/"
+    },
+    "maiden": {
+      "lemma": "maiden",
+      "pos": "noun",
+      "ko": "처녀, 아가씨 (옛말)",
+      "form": null,
+      "synonyms": [
+        "girl",
+        "lass"
+      ],
+      "ipa": "/ˈmeɪdən/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "단지, ~일 뿐",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "silly": {
+      "lemma": "silly",
+      "pos": "adjective",
+      "ko": "어리석은",
+      "form": null,
+      "synonyms": [
+        "foolish",
+        "stupid"
+      ],
+      "ipa": "/ˈsɪli/"
+    },
+    "father": {
+      "lemma": "father",
+      "pos": "noun",
+      "ko": "아버지",
+      "form": null,
+      "ipa": "/ˈfɑːðər/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/duː/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 아닌",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그런 (no such thing: 그런 일은 전혀)",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "일, 것",
+      "form": null,
+      "ipa": "/θɪŋ/"
+    },
+    "door": {
+      "lemma": "door",
+      "pos": "noun",
+      "ko": "문",
+      "form": null,
+      "ipa": "/dɔːr/"
+    },
+    "locked": {
+      "lemma": "lock",
+      "pos": "verb",
+      "ko": "잠그다",
+      "form": "과거분사",
+      "synonyms": [
+        "shut",
+        "bolt"
+      ],
+      "ipa": "/lɑːkt/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "남겨 두다",
+      "form": "과거분사",
+      "synonyms": [
+        "abandon"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "alone": {
+      "lemma": "alone",
+      "pos": "adjective",
+      "ko": "홀로, 혼자",
+      "form": null,
+      "synonyms": [
+        "lonely",
+        "by oneself"
+      ],
+      "ipa": "/əˈloʊn/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다 (sit down)",
+      "form": "과거형",
+      "ipa": "/sæt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로 (sit down: 앉다)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "corner": {
+      "lemma": "corner",
+      "pos": "noun",
+      "ko": "구석, 모퉁이",
+      "form": null,
+      "synonyms": [
+        "nook"
+      ],
+      "ipa": "/ˈkɔːrnər/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방",
+      "form": null,
+      "synonyms": [
+        "chamber"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "bewail": {
+      "lemma": "bewail",
+      "pos": "verb",
+      "ko": "한탄하다, 슬퍼하다",
+      "form": null,
+      "synonyms": [
+        "lament",
+        "mourn"
+      ],
+      "ipa": "/bɪˈweɪl/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adjective",
+      "ko": "가혹한, 힘든",
+      "form": null,
+      "synonyms": [
+        "cruel",
+        "harsh"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "fate": {
+      "lemma": "fate",
+      "pos": "noun",
+      "ko": "운명",
+      "form": null,
+      "synonyms": [
+        "destiny",
+        "fortune"
+      ],
+      "ipa": "/feɪt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on a sudden) 갑자기",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "sudden": {
+      "lemma": "sudden",
+      "pos": "noun",
+      "ko": "(on a sudden = all of a sudden) 갑자기",
+      "form": null,
+      "ipa": "/ˈsʌdən/"
+    },
+    "opened": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열리다",
+      "form": "과거형",
+      "ipa": "/ˈoʊpənd/"
+    },
+    "droll-looking": {
+      "lemma": "droll-looking",
+      "pos": "adjective",
+      "ko": "우스꽝스럽게 생긴",
+      "form": null,
+      "synonyms": [
+        "funny-looking",
+        "odd-looking"
+      ],
+      "ipa": "/droʊl-ˈlʊkɪŋ/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "hobbled": {
+      "lemma": "hobble",
+      "pos": "verb",
+      "ko": "절뚝거리며 걷다",
+      "form": "과거형",
+      "synonyms": [
+        "limp",
+        "totter"
+      ],
+      "ipa": "/ˈhɑːbəld/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은 (good morrow: 안녕하시오)",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "fine"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "morrow": {
+      "lemma": "morrow",
+      "pos": "noun",
+      "ko": "아침 (good morrow: 옛 인사말)",
+      "form": null,
+      "synonyms": [
+        "morning"
+      ],
+      "ipa": "/ˈmɑːroʊ/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "lass": {
+      "lemma": "lass",
+      "pos": "noun",
+      "ko": "아가씨, 소녀 (옛말)",
+      "form": null,
+      "synonyms": [
+        "girl",
+        "maiden"
+      ],
+      "ipa": "/læs/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있다",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "weeping": {
+      "lemma": "weep",
+      "pos": "verb",
+      "ko": "울다, 눈물 흘리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "cry",
+        "sob"
+      ],
+      "ipa": "/ˈwiːpɪŋ/"
+    }
+  }
+}
