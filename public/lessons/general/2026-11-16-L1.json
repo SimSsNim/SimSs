@@ -1,0 +1,1213 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-16-L1",
+  "date": "2026-11-16",
+  "level": 1,
+  "title": "The Hare and the Tortoise",
+  "titleKo": "토끼와 거북",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_17_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_17_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-5-fables-101-125",
+    "reader": "Henry Frigon",
+    "durationSec": 93,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 05, 17번 트랙(전체 117번 우화). 앞부분에 LibriVox 안내 멘트가 있고, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 148,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "어느 날 토끼가 거북이 발이 너무 느리다고 놀리고 있었다. \"잠깐 기다려 봐.\" 거북이 말했다. \"너와 달리기 시합을 하겠어. 그리고 내가 이긴다는 데 내기를 걸지.\" \"오, 좋아.\" 그 생각이 무척 우스웠던 토끼가 대답했다. \"한번 해 보고 어떻게 되나 보자.\" 그리고 곧 여우가 그들을 위해 경주로를 정하고 심판을 맡기로 정해졌다. 때가 되자 둘은 함께 출발했지만, 토끼는 곧 너무 멀리 앞서가서 좀 쉬어도 괜찮겠다고 생각했다. 그래서 토끼는 드러누워 깊이 잠들어 버렸다. 그동안 거북은 꾸준히 터벅터벅 걸어갔고, 마침내 결승점에 다다랐다. 드디어 토끼가 깜짝 놀라 잠에서 깨어 있는 힘껏 달려갔지만, 거북이 이미 경주에서 이겼다는 것을 알게 되었을 뿐이었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "느리더라도 꾸준하면 경주에서 이긴다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Hare was one day making fun of a Tortoise for being so slow upon his feet.",
+      "ko": "어느 날 토끼가 거북이 발이 너무 느리다고 놀리고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "\"Wait a bit,\" said the Tortoise; \"I'll run a race with you, and I'll wager that I win.\"",
+      "ko": "\"잠깐 기다려 봐.\" 거북이 말했다. \"너와 달리기 시합을 하겠어. 그리고 내가 이긴다는 데 내기를 걸지.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "\"Oh, well,\" replied the Hare, who was much amused at the idea, \"let's try and see\"; and it was soon agreed that the fox should set a course for them, and be the judge.",
+      "ko": "\"오, 좋아.\" 그 생각이 무척 우스웠던 토끼가 대답했다. \"한번 해 보고 어떻게 되나 보자.\" 그리고 곧 여우가 그들을 위해 경주로를 정하고 심판을 맡기로 정해졌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "When the time came both started off together, but the Hare was soon so far ahead that he thought he might as well have a rest: so down he lay and fell fast asleep.",
+      "ko": "때가 되자 둘은 함께 출발했지만, 토끼는 곧 너무 멀리 앞서가서 좀 쉬어도 괜찮겠다고 생각했다. 그래서 토끼는 드러누워 깊이 잠들어 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Meanwhile the Tortoise kept plodding on, and in time reached the goal.",
+      "ko": "그동안 거북은 꾸준히 터벅터벅 걸어갔고, 마침내 결승점에 다다랐다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "At last the Hare woke up with a start, and dashed on at his fastest, but only to find that the Tortoise had already won the race.",
+      "ko": "드디어 토끼가 깜짝 놀라 잠에서 깨어 있는 힘껏 달려갔지만, 거북이 이미 경주에서 이겼다는 것을 알게 되었을 뿐이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Slow and steady wins the race.",
+      "ko": "느리더라도 꾸준하면 경주에서 이긴다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "make fun of",
+      "pos": "phrase",
+      "meaningKo": "~을 놀리다, 비웃다",
+      "ipa": "/meɪk fʌn ʌv/",
+      "synonyms": [
+        "tease",
+        "mock",
+        "laugh at"
+      ],
+      "matchText": "making fun of",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The kids made fun of my new haircut.",
+        "ko": "아이들이 내 새 머리 모양을 놀렸다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "wager",
+      "pos": "verb",
+      "meaningKo": "(돈·물건을) 걸다, 장담하다",
+      "ipa": "/ˈweɪdʒər/",
+      "synonyms": [
+        "bet",
+        "gamble"
+      ],
+      "matchText": "wager",
+      "sentenceId": "s2",
+      "example": {
+        "en": "I'll wager that it will rain tomorrow.",
+        "ko": "내일 비가 온다는 데 걸게."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "amused",
+      "pos": "adjective",
+      "meaningKo": "재미있어하는, 즐거워하는",
+      "ipa": "/əˈmjuːzd/",
+      "synonyms": [
+        "entertained",
+        "tickled"
+      ],
+      "matchText": "amused",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She was amused by the funny cat video.",
+        "ko": "그녀는 웃긴 고양이 영상을 보고 재미있어했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "plod on",
+      "pos": "phrasal-verb",
+      "meaningKo": "터벅터벅 꾸준히 걸어가다",
+      "ipa": "/plɑːd ɑːn/",
+      "synonyms": [
+        "trudge on",
+        "keep going"
+      ],
+      "matchText": "plodding on",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The tired hikers plodded on through the snow.",
+        "ko": "지친 등산객들은 눈 속을 터벅터벅 계속 걸어갔다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "with a start",
+      "pos": "idiom",
+      "meaningKo": "깜짝 놀라서",
+      "ipa": "/wɪð ə stɑːrt/",
+      "synonyms": [
+        "suddenly",
+        "in surprise"
+      ],
+      "matchText": "with a start",
+      "sentenceId": "s6",
+      "example": {
+        "en": "I woke up with a start when the phone rang.",
+        "ko": "전화가 울려서 나는 깜짝 놀라 잠에서 깼다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Hare",
+          "role": "S",
+          "sub": false,
+          "ko": "토끼가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~하고 있었다"
+        },
+        {
+          "text": "one day",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날"
+        },
+        {
+          "text": "making fun of",
+          "role": "V",
+          "sub": false,
+          "ko": "놀리고"
+        },
+        {
+          "text": "a Tortoise",
+          "role": "O",
+          "sub": false,
+          "ko": "거북을"
+        },
+        {
+          "text": "for being so slow",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 느리다고"
+        },
+        {
+          "text": "upon his feet.",
+          "role": "M",
+          "sub": false,
+          "ko": "발이."
+        }
+      ],
+      "skeleton": "A Hare was making fun of a Tortoise",
+      "explanation": "was making fun of는 과거진행형(~하고 있었다)이에요. 중간에 one day(어느 날)가 끼어 있어요. for being so slow는 '너무 느리다는 이유로'라는 뜻으로 놀린 이유를 말해 줘요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Meanwhile",
+          "role": "M",
+          "sub": false,
+          "ko": "그동안"
+        },
+        {
+          "text": "the Tortoise",
+          "role": "S",
+          "sub": false,
+          "ko": "거북은"
+        },
+        {
+          "text": "kept",
+          "role": "V",
+          "sub": false,
+          "ko": "계속했다"
+        },
+        {
+          "text": "plodding on,",
+          "role": "O",
+          "sub": false,
+          "ko": "터벅터벅 걸어가기를,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "in time",
+          "role": "M",
+          "sub": false,
+          "ko": "마침내"
+        },
+        {
+          "text": "reached",
+          "role": "V",
+          "sub": false,
+          "ko": "도착했다"
+        },
+        {
+          "text": "the goal.",
+          "role": "O",
+          "sub": false,
+          "ko": "결승점에."
+        }
+      ],
+      "skeleton": "the Tortoise kept plodding on, and reached the goal",
+      "explanation": "주어 the Tortoise 하나에 동사 kept와 reached 두 개가 and로 이어져 있어요. keep + -ing는 '계속 ~하다'라는 뜻이에요. in time은 '때가 되어, 마침내'라는 뜻이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Slow and steady",
+          "role": "S",
+          "sub": false,
+          "ko": "느리고 꾸준한 자가"
+        },
+        {
+          "text": "wins",
+          "role": "V",
+          "sub": false,
+          "ko": "이긴다"
+        },
+        {
+          "text": "the race.",
+          "role": "O",
+          "sub": false,
+          "ko": "경주를."
+        }
+      ],
+      "skeleton": "Slow and steady wins the race",
+      "explanation": "아주 짧은 3형식 문장(S+V+O)이에요. Slow and steady는 '느리지만 꾸준한 것(사람)'을 하나로 묶어 주어로 썼기 때문에 동사도 wins(단수)예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거진행형 (was + -ing)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "was one day making"
+      ],
+      "explanation": "was making은 '~하고 있었다'라는 뜻으로 과거에 계속되던 동작을 나타내요. 여기서는 was와 making 사이에 one day가 들어가 있어요.",
+      "example": {
+        "en": "My brother was playing games all night.",
+        "ko": "내 남동생은 밤새 게임을 하고 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "so ~ that ... (너무 ~해서 …하다)",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "so far ahead that"
+      ],
+      "explanation": "so + 형용사/부사 + that 문장은 '너무 ~해서 …하다'라는 뜻이에요. 토끼가 너무 멀리 앞서서, 쉬어도 되겠다고 생각했다는 뜻이에요.",
+      "example": {
+        "en": "The soup was so hot that I could not eat it.",
+        "ko": "수프가 너무 뜨거워서 나는 먹을 수 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "keep + -ing (계속 ~하다)",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "kept plodding on"
+      ],
+      "explanation": "keep 뒤에 -ing를 쓰면 '계속 ~하다'라는 뜻이 돼요. 거북은 쉬지 않고 계속 걸어갔어요.",
+      "example": {
+        "en": "Keep trying, and you will get better.",
+        "ko": "계속 노력하면 더 나아질 거야."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "hare": {
+      "lemma": "hare",
+      "pos": "noun",
+      "ko": "산토끼",
+      "form": null,
+      "synonyms": [
+        "rabbit"
+      ],
+      "ipa": "/hɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있었다; ~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느, 한",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "making": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make fun of) 놀리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tease"
+      ],
+      "ipa": "/ˈmeɪkɪŋ/"
+    },
+    "fun": {
+      "lemma": "fun",
+      "pos": "noun",
+      "ko": "(make fun of) 놀림, 재미",
+      "form": null,
+      "synonyms": [
+        "joke"
+      ],
+      "ipa": "/fʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "(make fun of) ~을",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "tortoise": {
+      "lemma": "tortoise",
+      "pos": "noun",
+      "ko": "거북",
+      "form": null,
+      "synonyms": [
+        "turtle"
+      ],
+      "ipa": "/ˈtɔːrtəs/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 때문에, ~라는 이유로",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~인 것, ~임",
+      "form": "동명사(-ing)",
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 아주; 그래서",
+      "form": null,
+      "synonyms": [
+        "very"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "slow": {
+      "lemma": "slow",
+      "pos": "adjective",
+      "ko": "느린",
+      "form": null,
+      "synonyms": [
+        "sluggish"
+      ],
+      "ipa": "/sloʊ/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에서 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": "복수형",
+      "ipa": "/fiːt/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "hold on"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "bit": {
+      "lemma": "bit",
+      "pos": "noun",
+      "ko": "(a bit) 조금, 잠깐",
+      "form": null,
+      "synonyms": [
+        "moment"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "reply"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "i'll": {
+      "lemma": "I will",
+      "pos": "phrase",
+      "ko": "나는 ~할 것이다",
+      "form": "줄임말",
+      "ipa": "/aɪl/"
+    },
+    "run": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(경주를) 하다, 달리다",
+      "form": null,
+      "synonyms": [
+        "race"
+      ],
+      "ipa": "/rʌn/"
+    },
+    "race": {
+      "lemma": "race",
+      "pos": "noun",
+      "ko": "경주, 달리기 시합",
+      "form": null,
+      "synonyms": [
+        "contest"
+      ],
+      "ipa": "/reɪs/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~와 (함께)",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "wager": {
+      "lemma": "wager",
+      "pos": "verb",
+      "ko": "(내기를) 걸다, 장담하다",
+      "form": null,
+      "synonyms": [
+        "bet"
+      ],
+      "ipa": "/ˈweɪdʒər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "win": {
+      "lemma": "win",
+      "pos": "verb",
+      "ko": "이기다",
+      "form": null,
+      "synonyms": [
+        "triumph"
+      ],
+      "ipa": "/wɪn/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "오 (감탄)",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "interjection",
+      "ko": "좋아, 글쎄",
+      "form": null,
+      "ipa": "/wɛl/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람·동물)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "매우, 많이",
+      "form": null,
+      "synonyms": [
+        "very"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "amused": {
+      "lemma": "amused",
+      "pos": "adjective",
+      "ko": "재미있어하는, 즐거워하는",
+      "form": null,
+      "synonyms": [
+        "entertained"
+      ],
+      "ipa": "/əˈmjuːzd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (대해); ~으로",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "idea": {
+      "lemma": "idea",
+      "pos": "noun",
+      "ko": "생각",
+      "form": null,
+      "synonyms": [
+        "thought",
+        "plan"
+      ],
+      "ipa": "/aɪˈdiːə/"
+    },
+    "let's": {
+      "lemma": "let us",
+      "pos": "phrase",
+      "ko": "~하자",
+      "form": "줄임말",
+      "ipa": "/lɛts/"
+    },
+    "try": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "해 보다, 시도하다",
+      "form": null,
+      "synonyms": [
+        "attempt"
+      ],
+      "ipa": "/traɪ/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 알아보다",
+      "form": null,
+      "synonyms": [
+        "find out"
+      ],
+      "ipa": "/siː/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(가주어) 그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "agreed": {
+      "lemma": "agree",
+      "pos": "verb",
+      "ko": "합의하다, 정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "settle",
+        "decide"
+      ],
+      "ipa": "/əˈɡriːd/"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": null,
+      "ipa": "/fɑːks/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~하기로 (하다), ~해야 한다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "정하다",
+      "form": null,
+      "synonyms": [
+        "fix",
+        "arrange"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "course": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "경주로, 코스",
+      "form": null,
+      "synonyms": [
+        "route",
+        "track"
+      ],
+      "ipa": "/kɔːrs/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들(에게)",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다, ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "judge": {
+      "lemma": "judge",
+      "pos": "noun",
+      "ko": "심판",
+      "form": null,
+      "synonyms": [
+        "referee",
+        "umpire"
+      ],
+      "ipa": "/dʒʌdʒ/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간",
+      "form": null,
+      "synonyms": [
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "both": {
+      "lemma": "both",
+      "pos": "pronoun",
+      "ko": "둘 다",
+      "form": null,
+      "ipa": "/boʊθ/"
+    },
+    "started": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(start off) 출발하다",
+      "form": "과거형",
+      "synonyms": [
+        "set out"
+      ],
+      "ipa": "/ˈstɑːrtɪd/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(start off) 떠나서, 출발하여",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께, 동시에",
+      "form": null,
+      "synonyms": [
+        "at once"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "멀리",
+      "form": null,
+      "synonyms": [
+        "way"
+      ],
+      "ipa": "/fɑːr/"
+    },
+    "ahead": {
+      "lemma": "ahead",
+      "pos": "adverb",
+      "ko": "앞에, 앞서",
+      "form": null,
+      "synonyms": [
+        "in front"
+      ],
+      "ipa": "/əˈhɛd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (토끼·거북)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각했다",
+      "form": "과거형",
+      "synonyms": [
+        "believe"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "might": {
+      "lemma": "might",
+      "pos": "auxiliary",
+      "ko": "(might as well) ~하는 편이 낫겠다",
+      "form": null,
+      "ipa": "/maɪt/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(might as well) ~해도 좋다; (as ~ as) ~만큼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have a rest) 쉬다, 가지다",
+      "form": null,
+      "synonyms": [
+        "take"
+      ],
+      "ipa": "/hæv/"
+    },
+    "rest": {
+      "lemma": "rest",
+      "pos": "noun",
+      "ko": "휴식",
+      "form": null,
+      "synonyms": [
+        "break",
+        "nap"
+      ],
+      "ipa": "/rɛst/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로, 드러누워",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다",
+      "form": "과거형",
+      "synonyms": [
+        "recline"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall asleep) 잠들다",
+      "form": "과거형",
+      "synonyms": [
+        "drop"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "fast": {
+      "lemma": "fast",
+      "pos": "adverb",
+      "ko": "깊이 (fast asleep)",
+      "form": null,
+      "synonyms": [
+        "deeply",
+        "soundly"
+      ],
+      "ipa": "/fæst/"
+    },
+    "asleep": {
+      "lemma": "asleep",
+      "pos": "adjective",
+      "ko": "잠든",
+      "form": null,
+      "synonyms": [
+        "sleeping"
+      ],
+      "ipa": "/əˈsliːp/"
+    },
+    "meanwhile": {
+      "lemma": "meanwhile",
+      "pos": "adverb",
+      "ko": "그동안",
+      "form": null,
+      "synonyms": [
+        "in the meantime"
+      ],
+      "ipa": "/ˈmiːnˌwaɪl/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "계속 ~하다",
+      "form": "과거형",
+      "synonyms": [
+        "continue"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "plodding": {
+      "lemma": "plod",
+      "pos": "verb",
+      "ko": "터벅터벅 걷다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "trudge"
+      ],
+      "ipa": "/ˈplɑːdɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "adverb",
+      "ko": "계속해서, 앞으로",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in time) ~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "reached": {
+      "lemma": "reach",
+      "pos": "verb",
+      "ko": "도착하다, 이르다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive at"
+      ],
+      "ipa": "/riːtʃt/"
+    },
+    "goal": {
+      "lemma": "goal",
+      "pos": "noun",
+      "ko": "결승점, 목표",
+      "form": null,
+      "synonyms": [
+        "finish line"
+      ],
+      "ipa": "/ɡoʊl/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내, 드디어",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "woke": {
+      "lemma": "wake",
+      "pos": "verb",
+      "ko": "(wake up) 잠에서 깨다",
+      "form": "과거형",
+      "synonyms": [
+        "awaken"
+      ],
+      "ipa": "/woʊk/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(wake up) 깨어",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "start": {
+      "lemma": "start",
+      "pos": "noun",
+      "ko": "(with a start) 깜짝 놀람",
+      "form": null,
+      "synonyms": [
+        "jump",
+        "jolt"
+      ],
+      "ipa": "/stɑːrt/"
+    },
+    "dashed": {
+      "lemma": "dash",
+      "pos": "verb",
+      "ko": "돌진하다, 급히 달리다",
+      "form": "과거형",
+      "synonyms": [
+        "rush",
+        "sprint"
+      ],
+      "ipa": "/dæʃt/"
+    },
+    "fastest": {
+      "lemma": "fast",
+      "pos": "adjective",
+      "ko": "(at his fastest) 가장 빠르게",
+      "form": "최상급",
+      "synonyms": [
+        "quickest"
+      ],
+      "ipa": "/ˈfæstəst/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "(only to ~) 결국 ~할 뿐",
+      "form": null,
+      "ipa": "/ˈoʊnli/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기 위해, ~하게 되어",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "알게 되다, 발견하다",
+      "form": null,
+      "synonyms": [
+        "discover"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) 이미 ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미, 벌써",
+      "form": null,
+      "synonyms": [
+        "before"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "won": {
+      "lemma": "win",
+      "pos": "verb",
+      "ko": "이기다",
+      "form": "과거분사",
+      "synonyms": [
+        "triumph"
+      ],
+      "ipa": "/wʌn/"
+    },
+    "steady": {
+      "lemma": "steady",
+      "pos": "adjective",
+      "ko": "꾸준한",
+      "form": null,
+      "synonyms": [
+        "constant",
+        "regular"
+      ],
+      "ipa": "/ˈstɛdi/"
+    },
+    "wins": {
+      "lemma": "win",
+      "pos": "verb",
+      "ko": "이긴다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "triumph"
+      ],
+      "ipa": "/wɪnz/"
+    }
+  }
+}
