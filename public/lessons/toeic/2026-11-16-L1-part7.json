@@ -1,0 +1,1395 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-16-L1-part7",
+  "date": "2026-11-16",
+  "level": 1,
+  "title": "Update on Your Order",
+  "titleKo": "주문 상품 배송 지연 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 7",
+    "이메일",
+    "주문·배송"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 138,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "받는 사람: 레이철 김"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "보내는 사람: 대니얼 오르티스, 브라이트라인 사무용품"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "제목: 주문 관련 안내"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "김 고객님께,"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "브라이트라인 사무용품에서 최근 주문해 주셔서 감사합니다. 주문하신 상품 중 하나가 늦게 도착한다는 것을 알려 드리려고 메일을 드립니다. 고르신 파란색 책상 스탠드가 현재 저희 창고에 재고가 없습니다. 다음 주 수요일에 스탠드가 더 들어올 예정입니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "주문하신 다른 상품인 프린터 용지와 펜은 오늘 아침에 발송되었습니다. 영업일 기준 3일 안에 도착할 것입니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "스탠드를 기다리고 싶지 않으시면 그 상품을 취소하고 전액 환불을 받으실 수 있습니다. 그렇게 하시려면 화요일 전에 이 이메일에 답장만 해 주세요. 기다려 주시는 데 대한 감사의 뜻으로 다음 구매 시 쓰실 수 있는 10퍼센트 할인 쿠폰을 넣어 드렸습니다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s14"
+      ],
+      "ko": "감사합니다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s15"
+      ],
+      "ko": "대니얼 오르티스"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: Rachel Kim",
+      "ko": "받는 사람: 레이철 김",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Daniel Ortiz, Brightline Office Supply",
+      "ko": "보내는 사람: 대니얼 오르티스, 브라이트라인 사무용품",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Subject: Update on Your Order",
+      "ko": "제목: 주문 관련 안내",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Dear Ms. Kim,",
+      "ko": "김 고객님께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Thank you for your recent order from Brightline Office Supply.",
+      "ko": "브라이트라인 사무용품에서 최근 주문해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "We are writing to let you know that one item in your order will arrive late.",
+      "ko": "주문하신 상품 중 하나가 늦게 도착한다는 것을 알려 드리려고 메일을 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "The blue desk lamp you chose is currently out of stock at our warehouse.",
+      "ko": "고르신 파란색 책상 스탠드가 현재 저희 창고에 재고가 없습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "We expect to receive more lamps next Wednesday.",
+      "ko": "다음 주 수요일에 스탠드가 더 들어올 예정입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "The other items in your order, the printer paper and the pens, were shipped this morning.",
+      "ko": "주문하신 다른 상품인 프린터 용지와 펜은 오늘 아침에 발송되었습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "They should reach you within three business days.",
+      "ko": "영업일 기준 3일 안에 도착할 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p7",
+      "en": "If you would rather not wait for the lamp, you can cancel it and get a full refund.",
+      "ko": "스탠드를 기다리고 싶지 않으시면 그 상품을 취소하고 전액 환불을 받으실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "To do this, simply reply to this e-mail before Tuesday.",
+      "ko": "그렇게 하시려면 화요일 전에 이 이메일에 답장만 해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "As a thank-you for your patience, we have added a coupon for ten percent off your next purchase.",
+      "ko": "기다려 주시는 데 대한 감사의 뜻으로 다음 구매 시 쓰실 수 있는 10퍼센트 할인 쿠폰을 넣어 드렸습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "Sincerely,",
+      "ko": "감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p9",
+      "en": "Daniel Ortiz",
+      "ko": "대니얼 오르티스",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "recent",
+      "pos": "adjective",
+      "meaningKo": "최근의",
+      "ipa": "/ˈriːsənt/",
+      "synonyms": [
+        "latest",
+        "new"
+      ],
+      "matchText": "recent",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Here is a list of our recent orders.",
+        "ko": "여기 최근 주문 목록이 있습니다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "currently",
+      "pos": "adverb",
+      "meaningKo": "현재, 지금",
+      "ipa": "/ˈkɝːəntli/",
+      "synonyms": [
+        "now",
+        "at the moment"
+      ],
+      "matchText": "currently",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The manager is currently on vacation.",
+        "ko": "매니저는 현재 휴가 중이다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "ship",
+      "pos": "verb",
+      "meaningKo": "발송하다, 배송하다",
+      "ipa": "/ʃɪp/",
+      "synonyms": [
+        "send",
+        "dispatch"
+      ],
+      "matchText": "shipped",
+      "sentenceId": "s9",
+      "example": {
+        "en": "We ship most orders within two days.",
+        "ko": "저희는 대부분의 주문을 이틀 안에 발송합니다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "refund",
+      "pos": "noun",
+      "meaningKo": "환불(금)",
+      "ipa": "/ˈriːfʌnd/",
+      "synonyms": [
+        "repayment",
+        "money back"
+      ],
+      "matchText": "refund",
+      "sentenceId": "s11",
+      "example": {
+        "en": "You can ask for a refund at the front desk.",
+        "ko": "안내 데스크에서 환불을 요청할 수 있다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "purchase",
+      "pos": "noun",
+      "meaningKo": "구매, 구입",
+      "ipa": "/ˈpɝːtʃəs/",
+      "synonyms": [
+        "buy",
+        "order"
+      ],
+      "matchText": "purchase",
+      "sentenceId": "s13",
+      "example": {
+        "en": "Keep the receipt for your purchase.",
+        "ko": "구매 영수증을 보관하세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "The blue desk lamp",
+          "role": "S",
+          "ko": "파란색 책상 스탠드는"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "고객님이",
+          "sub": true
+        },
+        {
+          "text": "chose",
+          "role": "V",
+          "ko": "고른",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "currently",
+          "role": "M",
+          "ko": "현재"
+        },
+        {
+          "text": "out of stock",
+          "role": "C",
+          "ko": "재고가 없는"
+        },
+        {
+          "text": "at our warehouse.",
+          "role": "M",
+          "ko": "저희 창고에"
+        }
+      ],
+      "skeleton": "The lamp is out of stock",
+      "explanation": "you chose는 앞의 lamp를 꾸미는 관계절(목적격 관계대명사 that/which 생략). 문장의 진짜 동사는 is."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "If",
+          "role": "CONJ",
+          "ko": "만약 ~라면"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "고객님이",
+          "sub": true
+        },
+        {
+          "text": "would rather not wait",
+          "role": "V",
+          "ko": "기다리고 싶지 않다",
+          "sub": true
+        },
+        {
+          "text": "for the lamp,",
+          "role": "M",
+          "ko": "스탠드를",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "고객님은"
+        },
+        {
+          "text": "can cancel",
+          "role": "V",
+          "ko": "취소할 수 있다"
+        },
+        {
+          "text": "it",
+          "role": "O",
+          "ko": "그것을"
+        },
+        {
+          "text": "and get",
+          "role": "V",
+          "ko": "그리고 받을 수 있다"
+        },
+        {
+          "text": "a full refund.",
+          "role": "O",
+          "ko": "전액 환불을"
+        }
+      ],
+      "skeleton": "you can cancel it and get a refund",
+      "explanation": "If ~ lamp가 조건 부사절, 주절에서 can 뒤에 동사 두 개(cancel, get)가 and로 이어졌다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "목적격 관계대명사 생략",
+      "tags": [
+        "관계사",
+        "생략"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "lamp you chose"
+      ],
+      "explanation": "명사 lamp 뒤에 주어 + 동사(you chose)가 바로 오면 that/which가 생략된 관계절이다. '고객님이 고른 스탠드'.",
+      "example": {
+        "en": "The book I ordered arrived today.",
+        "ko": "내가 주문한 책이 오늘 도착했다."
+      },
+      "note": "명사 + 주어 + 동사 → 관계대명사 생략."
+    },
+    {
+      "id": "g2",
+      "title": "과거 수동태 were + p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "were shipped"
+      ],
+      "explanation": "물건은 스스로 보내는 것이 아니라 '보내지는' 것이므로 수동태. this morning(오늘 아침)이 이미 지난 때라 과거형 were.",
+      "example": {
+        "en": "The letters were mailed yesterday.",
+        "ko": "편지들은 어제 발송되었다."
+      },
+      "note": "주어가 사물이고 뒤에 목적어가 없으면 수동태를 의심하자."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; (to부정사) ~하려고",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "rachel": {
+      "lemma": "Rachel",
+      "pos": "proper-noun",
+      "ko": "레이철 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈreɪtʃəl/"
+    },
+    "kim": {
+      "lemma": "Kim",
+      "pos": "proper-noun",
+      "ko": "김 (사람 성)",
+      "form": null,
+      "ipa": "/kɪm/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "daniel": {
+      "lemma": "Daniel",
+      "pos": "proper-noun",
+      "ko": "대니얼 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈdænjəl/"
+    },
+    "ortiz": {
+      "lemma": "Ortiz",
+      "pos": "proper-noun",
+      "ko": "오르티스 (사람 성)",
+      "form": null,
+      "ipa": "/ˌɔːrˈtiːz/"
+    },
+    "brightline": {
+      "lemma": "Brightline",
+      "pos": "proper-noun",
+      "ko": "브라이트라인 (회사 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 사무",
+      "form": null,
+      "synonyms": [
+        "business"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "supply": {
+      "lemma": "supply",
+      "pos": "noun",
+      "ko": "용품 (회사 이름의 일부)",
+      "form": null,
+      "synonyms": [
+        "goods",
+        "materials"
+      ],
+      "ipa": "/səˈplaɪ/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목",
+      "form": null,
+      "synonyms": [
+        "title",
+        "topic"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "update": {
+      "lemma": "update",
+      "pos": "noun",
+      "ko": "새 소식, 최신 정보",
+      "form": null,
+      "synonyms": [
+        "news",
+        "report"
+      ],
+      "ipa": "/əpˈdeɪt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 관한",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 고객님의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "주문",
+      "form": null,
+      "synonyms": [
+        "purchase"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨, ~님 (여성 호칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 고객님",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "recent": {
+      "lemma": "recent",
+      "pos": "adjective",
+      "ko": "최근의",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "new"
+      ],
+      "ipa": "/ˈriːsənt/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "저희",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있다",
+      "form": "복수 현재",
+      "ipa": "/ɑːr/"
+    },
+    "writing": {
+      "lemma": "write",
+      "pos": "verb",
+      "ko": "(편지·메일을) 쓰다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "contact",
+        "send"
+      ],
+      "ipa": "/ˈraɪtɪŋ/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다",
+      "form": null,
+      "synonyms": [
+        "allow"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "learn",
+        "hear"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "item": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물품, 상품",
+      "form": null,
+      "synonyms": [
+        "product",
+        "article"
+      ],
+      "ipa": "/ˈaɪtəm/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안의",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "come",
+        "be delivered"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "late": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "늦게",
+      "form": null,
+      "synonyms": [
+        "behind schedule",
+        "later than expected"
+      ],
+      "ipa": "/leɪt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "blue": {
+      "lemma": "blue",
+      "pos": "adjective",
+      "ko": "파란색의",
+      "form": null,
+      "ipa": "/bluː/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "책상",
+      "form": null,
+      "synonyms": [
+        "table"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "lamp": {
+      "lemma": "lamp",
+      "pos": "noun",
+      "ko": "스탠드, 램프",
+      "form": null,
+      "synonyms": [
+        "light"
+      ],
+      "ipa": "/læmp/"
+    },
+    "chose": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "고르다",
+      "form": "과거형",
+      "synonyms": [
+        "select",
+        "pick"
+      ],
+      "ipa": "/tʃoʊz/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "currently": {
+      "lemma": "currently",
+      "pos": "adverb",
+      "ko": "현재",
+      "form": null,
+      "synonyms": [
+        "now",
+        "at the moment"
+      ],
+      "ipa": "/ˈkɜːrəntli/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of stock) 떨어져, 없어",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "stock": {
+      "lemma": "stock",
+      "pos": "noun",
+      "ko": "재고",
+      "form": null,
+      "synonyms": [
+        "inventory",
+        "supply"
+      ],
+      "ipa": "/stɑːk/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (장소)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "저희의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "warehouse": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고",
+      "form": null,
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "ipa": "/ˈwɛrˌhaʊs/"
+    },
+    "expect": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다",
+      "form": null,
+      "synonyms": [
+        "anticipate",
+        "plan"
+      ],
+      "ipa": "/ɪkˈspɛkt/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "determiner",
+      "ko": "더 많은",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "lamps": {
+      "lemma": "lamp",
+      "pos": "noun",
+      "ko": "스탠드, 램프",
+      "form": "복수형",
+      "synonyms": [
+        "lights"
+      ],
+      "ipa": "/læmps/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "coming",
+        "following"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "wednesday": {
+      "lemma": "Wednesday",
+      "pos": "proper-noun",
+      "ko": "수요일",
+      "form": null,
+      "ipa": "/ˈwɛnzdi/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른, 나머지의",
+      "form": null,
+      "synonyms": [
+        "remaining",
+        "rest of the"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물품, 상품",
+      "form": "복수형",
+      "synonyms": [
+        "products",
+        "goods"
+      ],
+      "ipa": "/ˈaɪtəmz/"
+    },
+    "printer": {
+      "lemma": "printer",
+      "pos": "noun",
+      "ko": "프린터",
+      "form": null,
+      "ipa": "/ˈprɪntər/"
+    },
+    "paper": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "종이, 용지",
+      "form": null,
+      "synonyms": [
+        "sheets"
+      ],
+      "ipa": "/ˈpeɪpər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "pens": {
+      "lemma": "pen",
+      "pos": "noun",
+      "ko": "펜",
+      "form": "복수형",
+      "synonyms": [
+        "writing tools"
+      ],
+      "ipa": "/pɛnz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되었다",
+      "form": "복수 과거",
+      "ipa": "/wɜːr/"
+    },
+    "shipped": {
+      "lemma": "ship",
+      "pos": "verb",
+      "ko": "발송하다",
+      "form": "과거분사",
+      "synonyms": [
+        "send",
+        "dispatch"
+      ],
+      "ipa": "/ʃɪpt/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 오늘",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침",
+      "form": null,
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (예상)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "verb",
+      "ko": "~에 도착하다",
+      "form": null,
+      "synonyms": [
+        "arrive at",
+        "get to"
+      ],
+      "ipa": "/riːtʃ/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "(business day) 영업, 업무",
+      "form": null,
+      "synonyms": [
+        "working"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "(would rather) 차라리 ~하고 싶다",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "rather": {
+      "lemma": "rather",
+      "pos": "adverb",
+      "ko": "(would rather) 차라리, 오히려",
+      "form": null,
+      "ipa": "/ˈræðər/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "hold on"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "cancel": {
+      "lemma": "cancel",
+      "pos": "verb",
+      "ko": "취소하다",
+      "form": null,
+      "synonyms": [
+        "call off",
+        "drop"
+      ],
+      "ipa": "/ˈkænsəl/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (스탠드 주문)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "받다",
+      "form": null,
+      "synonyms": [
+        "receive",
+        "obtain"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "전액의, 완전한",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "total"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "refund": {
+      "lemma": "refund",
+      "pos": "noun",
+      "ko": "환불",
+      "form": null,
+      "synonyms": [
+        "repayment",
+        "money back"
+      ],
+      "ipa": "/rɪˈfʌnd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "carry out"
+      ],
+      "ipa": "/duː/"
+    },
+    "simply": {
+      "lemma": "simply",
+      "pos": "adverb",
+      "ko": "그냥, 간단히",
+      "form": null,
+      "synonyms": [
+        "just",
+        "only"
+      ],
+      "ipa": "/ˈsɪmpli/"
+    },
+    "reply": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "답장하다",
+      "form": null,
+      "synonyms": [
+        "respond",
+        "answer"
+      ],
+      "ipa": "/rɪˈplaɪ/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "message"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일",
+      "form": null,
+      "ipa": "/ˈtuːzdi/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~로서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "thank-you": {
+      "lemma": "thank-you",
+      "pos": "noun",
+      "ko": "감사의 표시",
+      "form": null,
+      "synonyms": [
+        "token of thanks"
+      ],
+      "ipa": "/θæŋk-juː/"
+    },
+    "patience": {
+      "lemma": "patience",
+      "pos": "noun",
+      "ko": "기다려 줌, 인내",
+      "form": null,
+      "synonyms": [
+        "understanding"
+      ],
+      "ipa": "/ˈpeɪʃəns/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "added": {
+      "lemma": "add",
+      "pos": "verb",
+      "ko": "추가하다, 넣다",
+      "form": "과거분사",
+      "synonyms": [
+        "include",
+        "attach"
+      ],
+      "ipa": "/ˈædəd/"
+    },
+    "coupon": {
+      "lemma": "coupon",
+      "pos": "noun",
+      "ko": "쿠폰",
+      "form": null,
+      "synonyms": [
+        "voucher"
+      ],
+      "ipa": "/ˈkuːˌpɔːn/"
+    },
+    "ten": {
+      "lemma": "ten",
+      "pos": "number",
+      "ko": "10",
+      "form": null,
+      "ipa": "/tɛn/"
+    },
+    "percent": {
+      "lemma": "percent",
+      "pos": "noun",
+      "ko": "퍼센트",
+      "form": null,
+      "ipa": "/pərˈsɛnt/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "preposition",
+      "ko": "~에서 할인된",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "purchase": {
+      "lemma": "purchase",
+      "pos": "noun",
+      "ko": "구매",
+      "form": null,
+      "synonyms": [
+        "buy",
+        "order"
+      ],
+      "ipa": "/ˈpɜːrtʃəs/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)",
+      "form": null,
+      "ipa": "/sɪnˈsɪrli/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "Why did Mr. Ortiz send the e-mail?",
+      "evidenceSentenceIds": [
+        "s6"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To announce a sale on office supplies"
+        },
+        {
+          "key": "B",
+          "text": "To explain that part of an order is delayed"
+        },
+        {
+          "key": "C",
+          "text": "To ask Ms. Kim to pay for an order"
+        },
+        {
+          "key": "D",
+          "text": "To confirm a change of address"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "두 번째 문장에서 주문 상품 하나가 늦게 도착한다(one item ... will arrive late)고 알린다. → part of an order is delayed로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "A": "할인 쿠폰은 사과의 뜻일 뿐, 세일을 알리는 메일이 아니다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What has already been sent to Ms. Kim?",
+      "evidenceSentenceIds": [
+        "s9"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "A desk lamp"
+        },
+        {
+          "key": "B",
+          "text": "A gift card"
+        },
+        {
+          "key": "C",
+          "text": "Paper and writing supplies"
+        },
+        {
+          "key": "D",
+          "text": "A new printer"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "the printer paper and the pens, were shipped this morning → 종이와 필기구(writing supplies)가 이미 발송되었다.",
+      "choiceNotesKo": {
+        "A": "스탠드는 재고가 없어 아직 보내지 않았다.",
+        "D": "printer는 '프린터 용지'의 일부일 뿐 프린터를 보낸 것이 아니다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-not-true",
+      "prompt": "What is NOT true according to the e-mail?",
+      "evidenceSentenceIds": [
+        "s7",
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Ms. Kim must call the store to cancel the lamp."
+        },
+        {
+          "key": "B",
+          "text": "The lamp is not available right now."
+        },
+        {
+          "key": "C",
+          "text": "Ms. Kim can get her money back for the lamp."
+        },
+        {
+          "key": "D",
+          "text": "Ms. Kim will receive a discount on a future order."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "취소하려면 이 이메일에 답장하면 된다(reply to this e-mail)고 했지, 전화하라는 말은 없다. B는 out of stock, C는 full refund, D는 ten percent off your next purchase와 일치한다.",
+      "choiceNotesKo": {
+        "D": "coupon for ten percent off your next purchase = 다음 주문 할인."
+      },
+      "skill": "사실이 아닌 것(NOT)"
+    }
+  ]
+}
