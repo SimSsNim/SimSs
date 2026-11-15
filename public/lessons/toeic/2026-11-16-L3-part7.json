@@ -1,0 +1,1828 @@
+{
+ "schemaVersion": 2,
+ "track": "toeic",
+ "chapter": "part7",
+ "id": "2026-11-16-L3-part7",
+ "date": "2026-11-16",
+ "level": 3,
+ "title": "Harborview Suites Group Reservation",
+ "titleKo": "하버뷰 스위트 단체 예약 확인 이메일",
+ "genre": "email",
+ "tags": [
+  "TOEIC Part 7",
+  "이메일",
+  "식당·호텔"
+ ],
+ "source": {
+  "work": "TOEIC-style practice passage",
+  "author": "Claude (AI 작성 연습용 지문)",
+  "translator": null,
+  "year": 2026,
+  "edition": "original",
+  "url": null,
+  "license": "original",
+  "excerptNote": null
+ },
+ "audio": null,
+ "wordCount": 225,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "sentenceIds": [
+    "s1"
+   ],
+   "ko": "수신: 프리야 난다쿠마르"
+  },
+  {
+   "id": "p2",
+   "sentenceIds": [
+    "s2"
+   ],
+   "ko": "발신: 제럴드 오세이, 하버뷰 스위트 행사 담당자"
+  },
+  {
+   "id": "p3",
+   "sentenceIds": [
+    "s3"
+   ],
+   "ko": "제목: 단체 예약 건"
+  },
+  {
+   "id": "p4",
+   "sentenceIds": [
+    "s4"
+   ],
+   "ko": "난다쿠마르 님께,"
+  },
+  {
+   "id": "p5",
+   "sentenceIds": [
+    "s5",
+    "s6"
+   ],
+   "ko": "6월 9일부터 11일까지 열리는 귀사의 영업 회의 장소로 하버뷰 스위트를 선택해 주셔서 감사합니다. 단체 예약 세부 사항을 확인해 드리고, 회의 공간과 관련된 변경 사항을 알려 드리고자 이 메일을 씁니다."
+  },
+  {
+   "id": "p6",
+   "sentenceIds": [
+    "s7",
+    "s8",
+    "s9"
+   ],
+   "ko": "요청하신 대로 귀하의 팀을 위해 스탠더드 객실 25개를 예약해 두었으며, 각 객실에는 퀸 침대 두 개와 업무용 책상이 있습니다. 아침 식사는 매일 가든 카페에서 제공되며, 1박 객실당 145달러인 단체 요금에 포함되어 있습니다. 평소 체크인 시간인 3시보다 일찍 도착하시는 분은 프런트에 짐을 맡기실 수 있습니다."
+  },
+  {
+   "id": "p7",
+   "sentenceIds": [
+    "s10",
+    "s11",
+    "s12",
+    "s13"
+   ],
+   "ko": "안타깝게도 귀하께서 원래 주요 세션용으로 예약하신 베이사이드 연회장은 천장 조명 수리가 예정되어 있어 6월 10일에 이용할 수 없습니다. 그 대신 꼭대기 층의 라이트하우스 룸을 제공해 드리고자 합니다. 이 방은 최대 80명이 앉을 수 있고 항구가 넓게 내려다보입니다. 이 방은 보통 더 비싸게 책정되지만, 추가 요금 없이 제공해 드리겠습니다."
+  },
+  {
+   "id": "p8",
+   "sentenceIds": [
+    "s14",
+    "s15"
+   ],
+   "ko": "이 조정안이 괜찮으시면 5월 20일까지 이 메일에 회신해 주십시오. 다른 해결책을 원하시면 전화로 다른 방안을 기꺼이 상의해 드리겠습니다."
+  },
+  {
+   "id": "p9",
+   "sentenceIds": [
+    "s16"
+   ],
+   "ko": "감사합니다."
+  },
+  {
+   "id": "p10",
+   "sentenceIds": [
+    "s17"
+   ],
+   "ko": "제럴드 오세이"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "paragraphId": "p1",
+   "en": "To: Priya Nandakumar",
+   "ko": "수신: 프리야 난다쿠마르",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s2",
+   "paragraphId": "p2",
+   "en": "From: Gerald Osei, Events Coordinator, Harborview Suites",
+   "ko": "발신: 제럴드 오세이, 하버뷰 스위트 행사 담당자",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s3",
+   "paragraphId": "p3",
+   "en": "Subject: Your Group Reservation",
+   "ko": "제목: 단체 예약 건",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s4",
+   "paragraphId": "p4",
+   "en": "Dear Ms. Nandakumar,",
+   "ko": "난다쿠마르 님께,",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s5",
+   "paragraphId": "p5",
+   "en": "Thank you for choosing Harborview Suites for your company's sales conference from June 9 to June 11.",
+   "ko": "6월 9일부터 11일까지 열리는 귀사의 영업 회의 장소로 하버뷰 스위트를 선택해 주셔서 감사합니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s6",
+   "paragraphId": "p5",
+   "en": "I am writing to confirm the details of your group reservation and to let you know about a change regarding the meeting space.",
+   "ko": "단체 예약 세부 사항을 확인해 드리고, 회의 공간과 관련된 변경 사항을 알려 드리고자 이 메일을 씁니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s7",
+   "paragraphId": "p6",
+   "en": "As requested, we have reserved twenty-five standard rooms for your team, each with two queen beds and a work desk.",
+   "ko": "요청하신 대로 귀하의 팀을 위해 스탠더드 객실 25개를 예약해 두었으며, 각 객실에는 퀸 침대 두 개와 업무용 책상이 있습니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s8",
+   "paragraphId": "p6",
+   "en": "Breakfast will be served daily in the Garden Cafe, and it is included in the group rate of $145 per room per night.",
+   "ko": "아침 식사는 매일 가든 카페에서 제공되며, 1박 객실당 145달러인 단체 요금에 포함되어 있습니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s9",
+   "paragraphId": "p6",
+   "en": "Guests who arrive before our usual check-in time of three o'clock may leave their luggage at the front desk.",
+   "ko": "평소 체크인 시간인 3시보다 일찍 도착하시는 분은 프런트에 짐을 맡기실 수 있습니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s10",
+   "paragraphId": "p7",
+   "en": "Unfortunately, the Bayside Ballroom, which you originally booked for your main sessions, will be unavailable on June 10 because of a scheduled repair to its ceiling lights.",
+   "ko": "안타깝게도 귀하께서 원래 주요 세션용으로 예약하신 베이사이드 연회장은 천장 조명 수리가 예정되어 있어 6월 10일에 이용할 수 없습니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s11",
+   "paragraphId": "p7",
+   "en": "In its place, we would like to offer you the Lighthouse Room on the top floor.",
+   "ko": "그 대신 꼭대기 층의 라이트하우스 룸을 제공해 드리고자 합니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s12",
+   "paragraphId": "p7",
+   "en": "It seats up to eighty people and offers a wide view of the harbor.",
+   "ko": "이 방은 최대 80명이 앉을 수 있고 항구가 넓게 내려다보입니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s13",
+   "paragraphId": "p7",
+   "en": "Although this room is normally priced higher, we will provide it at no additional charge.",
+   "ko": "이 방은 보통 더 비싸게 책정되지만, 추가 요금 없이 제공해 드리겠습니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s14",
+   "paragraphId": "p8",
+   "en": "If this arrangement is acceptable, please reply to this e-mail by May 20.",
+   "ko": "이 조정안이 괜찮으시면 5월 20일까지 이 메일에 회신해 주십시오.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s15",
+   "paragraphId": "p8",
+   "en": "Should you prefer a different solution, I would be happy to discuss other options with you by phone.",
+   "ko": "다른 해결책을 원하시면 전화로 다른 방안을 기꺼이 상의해 드리겠습니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s16",
+   "paragraphId": "p9",
+   "en": "Sincerely,",
+   "ko": "감사합니다.",
+   "audioStartSec": null,
+   "audioEndSec": null
+  },
+  {
+   "id": "s17",
+   "paragraphId": "p10",
+   "en": "Gerald Osei",
+   "ko": "제럴드 오세이",
+   "audioStartSec": null,
+   "audioEndSec": null
+  }
+ ],
+ "vocab": [
+  {
+   "term": "confirm",
+   "pos": "verb",
+   "meaningKo": "확인하다, 확정하다",
+   "ipa": "/kənˈfɜːrm/",
+   "synonyms": [
+    "verify",
+    "finalize"
+   ],
+   "matchText": "confirm",
+   "sentenceId": "s6",
+   "example": {
+    "en": "Please call us to confirm your appointment.",
+    "ko": "예약을 확정하려면 전화해 주세요."
+   },
+   "id": "v1"
+  },
+  {
+   "term": "as requested",
+   "pos": "phrase",
+   "meaningKo": "요청하신 대로",
+   "ipa": "/æz rɪˈkwɛstɪd/",
+   "synonyms": [
+    "as asked",
+    "per your request"
+   ],
+   "matchText": "As requested",
+   "sentenceId": "s7",
+   "example": {
+    "en": "As requested, I have attached the revised contract.",
+    "ko": "요청하신 대로 수정된 계약서를 첨부했습니다."
+   },
+   "id": "v2"
+  },
+  {
+   "term": "unavailable",
+   "pos": "adjective",
+   "meaningKo": "이용할 수 없는",
+   "ipa": "/ˌʌnəˈveɪləbəl/",
+   "synonyms": [
+    "not available",
+    "occupied",
+    "inaccessible"
+   ],
+   "matchText": "unavailable",
+   "sentenceId": "s10",
+   "example": {
+    "en": "The main elevator will be unavailable until noon.",
+    "ko": "주 엘리베이터는 정오까지 이용할 수 없다."
+   },
+   "id": "v3"
+  },
+  {
+   "term": "in its place",
+   "pos": "phrase",
+   "meaningKo": "그 대신에",
+   "ipa": "/ɪn ɪts pleɪs/",
+   "synonyms": [
+    "instead",
+    "as a replacement"
+   ],
+   "matchText": "In its place",
+   "sentenceId": "s11",
+   "example": {
+    "en": "The concert was canceled, and a film was shown in its place.",
+    "ko": "콘서트가 취소되어 대신 영화가 상영되었다."
+   },
+   "id": "v4"
+  },
+  {
+   "term": "at no additional charge",
+   "pos": "phrase",
+   "meaningKo": "추가 요금 없이",
+   "ipa": "/æt noʊ əˈdɪʃənəl tʃɑːrdʒ/",
+   "synonyms": [
+    "free of charge",
+    "at no extra cost"
+   ],
+   "matchText": "at no additional charge",
+   "sentenceId": "s13",
+   "example": {
+    "en": "Gift wrapping is available at no additional charge.",
+    "ko": "선물 포장은 추가 요금 없이 가능합니다."
+   },
+   "id": "v5"
+  }
+ ],
+ "structures": [
+  {
+   "sentenceId": "s10",
+   "chunks": [
+    {
+     "text": "Unfortunately,",
+     "role": "M",
+     "ko": "안타깝게도"
+    },
+    {
+     "text": "the Bayside Ballroom,",
+     "role": "S",
+     "ko": "베이사이드 연회장은"
+    },
+    {
+     "text": "which",
+     "role": "CONJ",
+     "ko": "그것을",
+     "sub": true
+    },
+    {
+     "text": "you",
+     "role": "S",
+     "ko": "귀하가",
+     "sub": true
+    },
+    {
+     "text": "originally booked",
+     "role": "V",
+     "ko": "원래 예약했다",
+     "sub": true
+    },
+    {
+     "text": "for your main sessions,",
+     "role": "M",
+     "ko": "주요 세션용으로",
+     "sub": true
+    },
+    {
+     "text": "will be",
+     "role": "V",
+     "ko": "~일 것이다"
+    },
+    {
+     "text": "unavailable",
+     "role": "C",
+     "ko": "이용할 수 없는"
+    },
+    {
+     "text": "on June 10",
+     "role": "M",
+     "ko": "6월 10일에"
+    },
+    {
+     "text": "because of a scheduled repair to its ceiling lights.",
+     "role": "M",
+     "ko": "예정된 천장 조명 수리 때문에"
+    }
+   ],
+   "skeleton": "S, (which S V), will be C because of N",
+   "explanation": "콤마 사이의 which절이 주어 the Bayside Ballroom을 덧붙여 설명한다. 주어와 동사 will be 사이가 멀어도 동사를 찾는 것이 핵심이다.",
+   "id": "st1"
+  },
+  {
+   "sentenceId": "s15",
+   "chunks": [
+    {
+     "text": "Should",
+     "role": "CONJ",
+     "ko": "만약 ~한다면",
+     "sub": true
+    },
+    {
+     "text": "you",
+     "role": "S",
+     "ko": "귀하가",
+     "sub": true
+    },
+    {
+     "text": "prefer",
+     "role": "V",
+     "ko": "원하다",
+     "sub": true
+    },
+    {
+     "text": "a different solution,",
+     "role": "O",
+     "ko": "다른 해결책을",
+     "sub": true
+    },
+    {
+     "text": "I",
+     "role": "S",
+     "ko": "저는"
+    },
+    {
+     "text": "would be",
+     "role": "V",
+     "ko": "~일 것이다"
+    },
+    {
+     "text": "happy to discuss",
+     "role": "C",
+     "ko": "기꺼이 상의하는"
+    },
+    {
+     "text": "other options",
+     "role": "O",
+     "ko": "다른 방안들을"
+    },
+    {
+     "text": "with you by phone.",
+     "role": "M",
+     "ko": "귀하와 전화로"
+    }
+   ],
+   "skeleton": "Should S V O, S would be happy to V O",
+   "explanation": "If you should prefer ~에서 If가 빠지고 Should가 앞으로 나간 도치 구문이다. 정중한 비즈니스 이메일에서 자주 쓴다.",
+   "id": "st2"
+  }
+ ],
+ "grammar": [
+  {
+   "title": "If 생략 도치(Should + 주어 + 동사원형)",
+   "tags": [
+    "가정법",
+    "도치"
+   ],
+   "sentenceId": "s15",
+   "highlight": [
+    "Should you prefer"
+   ],
+   "explanation": "If you should prefer에서 If를 빼면 Should가 주어 앞으로 나간다. \"혹시 ~하신다면\"이라는 공손한 조건을 나타낸다.",
+   "example": {
+    "en": "Should you have any questions, please contact me.",
+    "ko": "궁금한 점이 있으시면 저에게 연락해 주세요."
+   },
+   "note": "문장 맨 앞 Should + 주어 + 동사원형 = If + 주어 + should + 동사원형",
+   "id": "g1"
+  },
+  {
+   "title": "계속적 용법의 관계대명사 which",
+   "tags": [
+    "관계사"
+   ],
+   "sentenceId": "s10",
+   "highlight": [
+    "which you originally booked"
+   ],
+   "explanation": "콤마 뒤 which는 앞 명사(the Bayside Ballroom)에 정보를 덧붙인다. which절 안에서 booked의 목적어 역할을 하므로 뒤에 목적어가 없다.",
+   "example": {
+    "en": "The report, which Ms. Cho wrote, was very helpful.",
+    "ko": "그 보고서는 조 씨가 썼는데, 매우 유용했다."
+   },
+   "note": "계속적 용법(콤마 뒤)에는 that을 쓸 수 없다.",
+   "id": "g2"
+  },
+  {
+   "title": "양보 접속사 although",
+   "tags": [
+    "접속사"
+   ],
+   "sentenceId": "s13",
+   "highlight": [
+    "Although this room is normally priced higher"
+   ],
+   "explanation": "although는 \"~이지만\"이라는 뜻으로 뒤에 주어+동사가 온다. 보통 더 비싸지만 추가 요금은 받지 않겠다는 대조를 만든다.",
+   "example": {
+    "en": "Although the store is small, it offers a wide selection.",
+    "ko": "가게는 작지만 상품이 다양하다."
+   },
+   "note": "although + 절 / despite + 명사(구)",
+   "id": "g3"
+  }
+ ],
+ "glossary": {
+  "to": {
+   "lemma": "to",
+   "pos": "preposition",
+   "ko": "~에게, ~까지",
+   "ipa": "/tuː/"
+  },
+  "priya": {
+   "lemma": "Priya",
+   "pos": "proper-noun",
+   "ko": "프리야 (사람 이름)",
+   "ipa": "/ˈpriːjə/"
+  },
+  "nandakumar": {
+   "lemma": "Nandakumar",
+   "pos": "proper-noun",
+   "ko": "난다쿠마르 (사람 성)",
+   "ipa": "/ˌnʌndəˈkuːmɑːr/"
+  },
+  "from": {
+   "lemma": "from",
+   "pos": "preposition",
+   "ko": "~로부터, ~부터",
+   "ipa": "/frʌm/"
+  },
+  "gerald": {
+   "lemma": "Gerald",
+   "pos": "proper-noun",
+   "ko": "제럴드 (사람 이름)",
+   "ipa": "/ˈdʒɛrəld/"
+  },
+  "osei": {
+   "lemma": "Osei",
+   "pos": "proper-noun",
+   "ko": "오세이 (사람 성)",
+   "ipa": "/oʊˈseɪ/"
+  },
+  "events": {
+   "lemma": "event",
+   "pos": "noun",
+   "ko": "행사",
+   "form": "복수형",
+   "synonyms": [
+    "function",
+    "occasion"
+   ],
+   "ipa": "/ɪˈvɛnts/"
+  },
+  "coordinator": {
+   "lemma": "coordinator",
+   "pos": "noun",
+   "ko": "담당자, 진행자",
+   "synonyms": [
+    "organizer",
+    "planner"
+   ],
+   "ipa": "/koʊˈɔːrdəˌneɪtər/"
+  },
+  "harborview": {
+   "lemma": "Harborview",
+   "pos": "proper-noun",
+   "ko": "하버뷰 (호텔 이름의 일부)",
+   "ipa": "/ˈhɑːrbərˌvjuː/"
+  },
+  "suites": {
+   "lemma": "suite",
+   "pos": "noun",
+   "ko": "스위트(호텔 이름의 일부)",
+   "form": "복수형",
+   "synonyms": [
+    "room",
+    "apartment"
+   ],
+   "ipa": "/swiːts/"
+  },
+  "subject": {
+   "lemma": "subject",
+   "pos": "noun",
+   "ko": "제목",
+   "synonyms": [
+    "topic",
+    "title"
+   ],
+   "ipa": "/səbˈdʒɛkt/"
+  },
+  "your": {
+   "lemma": "your",
+   "pos": "determiner",
+   "ko": "당신(들)의",
+   "ipa": "/jɔːr/"
+  },
+  "group": {
+   "lemma": "group",
+   "pos": "noun",
+   "ko": "단체",
+   "synonyms": [
+    "party",
+    "team"
+   ],
+   "ipa": "/ɡruːp/"
+  },
+  "reservation": {
+   "lemma": "reservation",
+   "pos": "noun",
+   "ko": "예약",
+   "synonyms": [
+    "booking"
+   ],
+   "ipa": "/ˌrɛzərˈveɪʃən/"
+  },
+  "dear": {
+   "lemma": "dear",
+   "pos": "adjective",
+   "ko": "~께 (편지 인사)",
+   "ipa": "/dɪr/"
+  },
+  "ms": {
+   "lemma": "Ms.",
+   "pos": "noun",
+   "ko": "~님 (여성 존칭)",
+   "form": "줄임말",
+   "ipa": "/mɪz/"
+  },
+  "thank": {
+   "lemma": "thank",
+   "pos": "verb",
+   "ko": "감사하다",
+   "synonyms": [
+    "appreciate"
+   ],
+   "ipa": "/θæŋk/"
+  },
+  "you": {
+   "lemma": "you",
+   "pos": "pronoun",
+   "ko": "당신(들)",
+   "ipa": "/juː/"
+  },
+  "for": {
+   "lemma": "for",
+   "pos": "preposition",
+   "ko": "~에 대해, ~을 위해, ~용으로",
+   "ipa": "/fɔːr/"
+  },
+  "choosing": {
+   "lemma": "choose",
+   "pos": "verb",
+   "ko": "선택하다",
+   "form": "현재분사(-ing)",
+   "synonyms": [
+    "select",
+    "pick"
+   ],
+   "ipa": "/ˈtʃuːzɪŋ/"
+  },
+  "company's": {
+   "lemma": "company",
+   "pos": "noun",
+   "ko": "회사의",
+   "form": "소유격",
+   "synonyms": [
+    "firm",
+    "business"
+   ],
+   "ipa": "/ˈkʌmpəniz/"
+  },
+  "sales": {
+   "lemma": "sales",
+   "pos": "noun",
+   "ko": "영업, 판매",
+   "synonyms": [
+    "selling",
+    "commerce"
+   ],
+   "ipa": "/seɪlz/"
+  },
+  "conference": {
+   "lemma": "conference",
+   "pos": "noun",
+   "ko": "회의, 학회",
+   "synonyms": [
+    "meeting",
+    "convention"
+   ],
+   "ipa": "/ˈkɑːnfərəns/"
+  },
+  "june": {
+   "lemma": "June",
+   "pos": "proper-noun",
+   "ko": "6월",
+   "ipa": "/dʒuːn/"
+  },
+  "i": {
+   "lemma": "I",
+   "pos": "pronoun",
+   "ko": "나, 저",
+   "ipa": "/aɪ/"
+  },
+  "am": {
+   "lemma": "be",
+   "pos": "auxiliary",
+   "ko": "(진행형) ~하고 있다",
+   "form": "1인칭 현재형",
+   "ipa": "/æm/"
+  },
+  "writing": {
+   "lemma": "write",
+   "pos": "verb",
+   "ko": "(편지를) 쓰다",
+   "form": "현재분사(-ing)",
+   "synonyms": [
+    "compose",
+    "send"
+   ],
+   "ipa": "/ˈraɪtɪŋ/"
+  },
+  "confirm": {
+   "lemma": "confirm",
+   "pos": "verb",
+   "ko": "확인하다, 확정하다",
+   "synonyms": [
+    "verify",
+    "finalize"
+   ],
+   "ipa": "/kənˈfɜːrm/"
+  },
+  "the": {
+   "lemma": "the",
+   "pos": "determiner",
+   "ko": "그 (정관사)",
+   "ipa": "/ðə/"
+  },
+  "details": {
+   "lemma": "detail",
+   "pos": "noun",
+   "ko": "세부 사항",
+   "form": "복수형",
+   "synonyms": [
+    "particulars",
+    "specifics"
+   ],
+   "ipa": "/dɪˈteɪlz/"
+  },
+  "of": {
+   "lemma": "of",
+   "pos": "preposition",
+   "ko": "~의",
+   "ipa": "/ʌv/"
+  },
+  "and": {
+   "lemma": "and",
+   "pos": "conjunction",
+   "ko": "그리고",
+   "ipa": "/ənd/"
+  },
+  "let": {
+   "lemma": "let",
+   "pos": "verb",
+   "ko": "~하게 하다 (let you know 알려 주다)",
+   "synonyms": [
+    "allow",
+    "permit"
+   ],
+   "ipa": "/lɛt/"
+  },
+  "know": {
+   "lemma": "know",
+   "pos": "verb",
+   "ko": "알다",
+   "synonyms": [
+    "learn",
+    "be aware"
+   ],
+   "ipa": "/noʊ/"
+  },
+  "about": {
+   "lemma": "about",
+   "pos": "preposition",
+   "ko": "~에 대해",
+   "ipa": "/əˈbaʊt/"
+  },
+  "a": {
+   "lemma": "a",
+   "pos": "determiner",
+   "ko": "하나의 (부정관사)",
+   "ipa": "/ə/"
+  },
+  "change": {
+   "lemma": "change",
+   "pos": "noun",
+   "ko": "변경",
+   "synonyms": [
+    "revision",
+    "adjustment"
+   ],
+   "ipa": "/tʃeɪndʒ/"
+  },
+  "regarding": {
+   "lemma": "regarding",
+   "pos": "preposition",
+   "ko": "~에 관하여",
+   "ipa": "/rɪˈɡɑːrdɪŋ/"
+  },
+  "meeting": {
+   "lemma": "meeting",
+   "pos": "noun",
+   "ko": "회의",
+   "synonyms": [
+    "session",
+    "gathering"
+   ],
+   "ipa": "/ˈmiːtɪŋ/"
+  },
+  "space": {
+   "lemma": "space",
+   "pos": "noun",
+   "ko": "공간",
+   "synonyms": [
+    "room",
+    "area"
+   ],
+   "ipa": "/speɪs/"
+  },
+  "as": {
+   "lemma": "as",
+   "pos": "conjunction",
+   "ko": "~대로 (as requested 요청대로)",
+   "ipa": "/æz/"
+  },
+  "requested": {
+   "lemma": "request",
+   "pos": "verb",
+   "ko": "요청하다",
+   "form": "과거분사",
+   "synonyms": [
+    "ask for",
+    "seek"
+   ],
+   "ipa": "/rɪˈkwɛstɪd/"
+  },
+  "we": {
+   "lemma": "we",
+   "pos": "pronoun",
+   "ko": "우리, 저희",
+   "ipa": "/wiː/"
+  },
+  "have": {
+   "lemma": "have",
+   "pos": "auxiliary",
+   "ko": "(현재완료) ~했다",
+   "ipa": "/hæv/"
+  },
+  "reserved": {
+   "lemma": "reserve",
+   "pos": "verb",
+   "ko": "예약하다",
+   "form": "과거분사",
+   "synonyms": [
+    "book",
+    "hold"
+   ],
+   "ipa": "/rɪˈzɜːrvd/"
+  },
+  "twenty-five": {
+   "lemma": "twenty-five",
+   "pos": "number",
+   "ko": "스물다섯, 25",
+   "ipa": "/ˈtwɛnti-faɪv/"
+  },
+  "standard": {
+   "lemma": "standard",
+   "pos": "adjective",
+   "ko": "표준의, 일반의",
+   "synonyms": [
+    "regular",
+    "basic"
+   ],
+   "ipa": "/ˈstændərd/"
+  },
+  "rooms": {
+   "lemma": "room",
+   "pos": "noun",
+   "ko": "객실, 방",
+   "form": "복수형",
+   "synonyms": [
+    "guest room",
+    "accommodation"
+   ],
+   "ipa": "/ruːmz/"
+  },
+  "team": {
+   "lemma": "team",
+   "pos": "noun",
+   "ko": "팀",
+   "synonyms": [
+    "group",
+    "staff"
+   ],
+   "ipa": "/tiːm/"
+  },
+  "each": {
+   "lemma": "each",
+   "pos": "pronoun",
+   "ko": "각각",
+   "ipa": "/iːtʃ/"
+  },
+  "with": {
+   "lemma": "with",
+   "pos": "preposition",
+   "ko": "~이 있는, ~와 함께",
+   "ipa": "/wɪð/"
+  },
+  "two": {
+   "lemma": "two",
+   "pos": "number",
+   "ko": "둘, 2",
+   "ipa": "/tuː/"
+  },
+  "queen": {
+   "lemma": "queen",
+   "pos": "noun",
+   "ko": "퀸 사이즈 (침대)",
+   "ipa": "/kwiːn/"
+  },
+  "beds": {
+   "lemma": "bed",
+   "pos": "noun",
+   "ko": "침대",
+   "form": "복수형",
+   "synonyms": [
+    "bunk",
+    "berth"
+   ],
+   "ipa": "/bɛdz/"
+  },
+  "work": {
+   "lemma": "work",
+   "pos": "noun",
+   "ko": "업무, 일",
+   "synonyms": [
+    "business",
+    "office"
+   ],
+   "ipa": "/wɜːrk/"
+  },
+  "desk": {
+   "lemma": "desk",
+   "pos": "noun",
+   "ko": "책상",
+   "synonyms": [
+    "table",
+    "workstation"
+   ],
+   "ipa": "/dɛsk/"
+  },
+  "breakfast": {
+   "lemma": "breakfast",
+   "pos": "noun",
+   "ko": "아침 식사",
+   "synonyms": [
+    "morning meal"
+   ],
+   "ipa": "/ˈbrɛkfəst/"
+  },
+  "will": {
+   "lemma": "will",
+   "pos": "auxiliary",
+   "ko": "~할 것이다",
+   "ipa": "/wɪl/"
+  },
+  "be": {
+   "lemma": "be",
+   "pos": "auxiliary",
+   "ko": "~되다 (수동태)",
+   "ipa": "/biː/"
+  },
+  "served": {
+   "lemma": "serve",
+   "pos": "verb",
+   "ko": "(음식을) 제공하다",
+   "form": "과거분사",
+   "synonyms": [
+    "provide",
+    "offer"
+   ],
+   "ipa": "/sɜːrvd/"
+  },
+  "daily": {
+   "lemma": "daily",
+   "pos": "adverb",
+   "ko": "매일",
+   "synonyms": [
+    "every day"
+   ],
+   "ipa": "/ˈdeɪli/"
+  },
+  "in": {
+   "lemma": "in",
+   "pos": "preposition",
+   "ko": "~에서, ~에",
+   "ipa": "/ɪn/"
+  },
+  "garden": {
+   "lemma": "garden",
+   "pos": "noun",
+   "ko": "정원 (카페 이름의 일부)",
+   "ipa": "/ˈɡɑːrdən/"
+  },
+  "cafe": {
+   "lemma": "cafe",
+   "pos": "noun",
+   "ko": "카페",
+   "synonyms": [
+    "coffee shop"
+   ],
+   "ipa": "/kəˈfeɪ/"
+  },
+  "it": {
+   "lemma": "it",
+   "pos": "pronoun",
+   "ko": "그것",
+   "ipa": "/ɪt/"
+  },
+  "is": {
+   "lemma": "be",
+   "pos": "auxiliary",
+   "ko": "~되다 (수동태)",
+   "form": "3인칭 단수 현재형",
+   "ipa": "/ɪz/"
+  },
+  "included": {
+   "lemma": "include",
+   "pos": "verb",
+   "ko": "포함하다",
+   "form": "과거분사",
+   "synonyms": [
+    "contain",
+    "cover"
+   ],
+   "ipa": "/ˌɪnˈkluːdəd/"
+  },
+  "rate": {
+   "lemma": "rate",
+   "pos": "noun",
+   "ko": "요금",
+   "synonyms": [
+    "price",
+    "charge"
+   ],
+   "ipa": "/reɪt/"
+  },
+  "per": {
+   "lemma": "per",
+   "pos": "preposition",
+   "ko": "~당",
+   "ipa": "/pɜːr/"
+  },
+  "room": {
+   "lemma": "room",
+   "pos": "noun",
+   "ko": "객실, 방",
+   "synonyms": [
+    "accommodation",
+    "space"
+   ],
+   "ipa": "/ruːm/"
+  },
+  "night": {
+   "lemma": "night",
+   "pos": "noun",
+   "ko": "밤, 1박",
+   "ipa": "/naɪt/",
+   "synonyms": [
+    "evening"
+   ]
+  },
+  "guests": {
+   "lemma": "guest",
+   "pos": "noun",
+   "ko": "투숙객",
+   "form": "복수형",
+   "synonyms": [
+    "visitor",
+    "patron"
+   ],
+   "ipa": "/ɡɛsts/"
+  },
+  "who": {
+   "lemma": "who",
+   "pos": "pronoun",
+   "ko": "~하는 (관계대명사)",
+   "ipa": "/huː/"
+  },
+  "arrive": {
+   "lemma": "arrive",
+   "pos": "verb",
+   "ko": "도착하다",
+   "synonyms": [
+    "come",
+    "get in"
+   ],
+   "ipa": "/əˈraɪv/"
+  },
+  "before": {
+   "lemma": "before",
+   "pos": "preposition",
+   "ko": "~ 전에",
+   "ipa": "/bɪˈfɔːr/"
+  },
+  "our": {
+   "lemma": "our",
+   "pos": "determiner",
+   "ko": "우리의, 저희의",
+   "ipa": "/ˈaʊər/"
+  },
+  "usual": {
+   "lemma": "usual",
+   "pos": "adjective",
+   "ko": "평소의",
+   "synonyms": [
+    "normal",
+    "regular"
+   ],
+   "ipa": "/ˈjuːʒəwəl/"
+  },
+  "check-in": {
+   "lemma": "check-in",
+   "pos": "noun",
+   "ko": "체크인, 투숙 수속",
+   "synonyms": [
+    "registration"
+   ],
+   "ipa": "/tʃɛk-ɪn/"
+  },
+  "time": {
+   "lemma": "time",
+   "pos": "noun",
+   "ko": "시간",
+   "synonyms": [
+    "hour",
+    "moment"
+   ],
+   "ipa": "/taɪm/"
+  },
+  "three": {
+   "lemma": "three",
+   "pos": "number",
+   "ko": "셋, 3",
+   "ipa": "/θriː/"
+  },
+  "o'clock": {
+   "lemma": "o'clock",
+   "pos": "adverb",
+   "ko": "~시 (정각)",
+   "ipa": "/əˈklɑːk/"
+  },
+  "may": {
+   "lemma": "may",
+   "pos": "auxiliary",
+   "ko": "~해도 된다 (May는 5월)",
+   "ipa": "/meɪ/"
+  },
+  "leave": {
+   "lemma": "leave",
+   "pos": "verb",
+   "ko": "맡기다, 두고 가다",
+   "synonyms": [
+    "deposit",
+    "drop off"
+   ],
+   "ipa": "/liːv/"
+  },
+  "their": {
+   "lemma": "their",
+   "pos": "determiner",
+   "ko": "그들의",
+   "ipa": "/ðɛr/"
+  },
+  "luggage": {
+   "lemma": "luggage",
+   "pos": "noun",
+   "ko": "짐, 수하물",
+   "synonyms": [
+    "baggage",
+    "bags"
+   ],
+   "ipa": "/ˈlʌɡədʒ/"
+  },
+  "at": {
+   "lemma": "at",
+   "pos": "preposition",
+   "ko": "~에서",
+   "ipa": "/æt/"
+  },
+  "front": {
+   "lemma": "front",
+   "pos": "adjective",
+   "ko": "앞쪽의 (front desk 프런트)",
+   "synonyms": [
+    "main",
+    "reception"
+   ],
+   "ipa": "/frʌnt/"
+  },
+  "unfortunately": {
+   "lemma": "unfortunately",
+   "pos": "adverb",
+   "ko": "안타깝게도",
+   "synonyms": [
+    "regrettably",
+    "sadly"
+   ],
+   "ipa": "/ənˈfɔːrtʃənətli/"
+  },
+  "bayside": {
+   "lemma": "Bayside",
+   "pos": "proper-noun",
+   "ko": "베이사이드 (연회장 이름의 일부)",
+   "ipa": "/ˈbeɪˌsaɪd/"
+  },
+  "ballroom": {
+   "lemma": "ballroom",
+   "pos": "noun",
+   "ko": "연회장",
+   "synonyms": [
+    "banquet hall",
+    "function room"
+   ],
+   "ipa": "/ˈbɔːlˌruːm/"
+  },
+  "which": {
+   "lemma": "which",
+   "pos": "pronoun",
+   "ko": "그것을, ~하는 (관계대명사)",
+   "ipa": "/wɪtʃ/"
+  },
+  "originally": {
+   "lemma": "originally",
+   "pos": "adverb",
+   "ko": "원래",
+   "synonyms": [
+    "initially",
+    "at first"
+   ],
+   "ipa": "/əˈrɪdʒənəli/"
+  },
+  "booked": {
+   "lemma": "book",
+   "pos": "verb",
+   "ko": "예약하다",
+   "form": "과거형",
+   "synonyms": [
+    "reserve",
+    "schedule"
+   ],
+   "ipa": "/bʊkt/"
+  },
+  "main": {
+   "lemma": "main",
+   "pos": "adjective",
+   "ko": "주요한",
+   "synonyms": [
+    "principal",
+    "primary"
+   ],
+   "ipa": "/meɪn/"
+  },
+  "sessions": {
+   "lemma": "session",
+   "pos": "noun",
+   "ko": "세션, (회의) 시간",
+   "form": "복수형",
+   "synonyms": [
+    "meeting",
+    "program"
+   ],
+   "ipa": "/ˈsɛʃənz/"
+  },
+  "unavailable": {
+   "lemma": "unavailable",
+   "pos": "adjective",
+   "ko": "이용할 수 없는",
+   "synonyms": [
+    "inaccessible",
+    "occupied"
+   ],
+   "ipa": "/ˌʌnəˈveɪləbəl/"
+  },
+  "on": {
+   "lemma": "on",
+   "pos": "preposition",
+   "ko": "~에 (날짜), ~에 (층)",
+   "ipa": "/ɑːn/"
+  },
+  "because": {
+   "lemma": "because",
+   "pos": "preposition",
+   "ko": "(because of) ~ 때문에",
+   "ipa": "/bɪˈkɔːz/"
+  },
+  "scheduled": {
+   "lemma": "schedule",
+   "pos": "verb",
+   "ko": "예정하다",
+   "form": "과거분사",
+   "synonyms": [
+    "plan",
+    "arrange"
+   ],
+   "ipa": "/ˈskɛdʒʊld/"
+  },
+  "repair": {
+   "lemma": "repair",
+   "pos": "noun",
+   "ko": "수리",
+   "synonyms": [
+    "fix",
+    "maintenance"
+   ],
+   "ipa": "/rɪˈpɛr/"
+  },
+  "its": {
+   "lemma": "its",
+   "pos": "determiner",
+   "ko": "그것의",
+   "ipa": "/ɪts/"
+  },
+  "ceiling": {
+   "lemma": "ceiling",
+   "pos": "noun",
+   "ko": "천장",
+   "synonyms": [
+    "overhead",
+    "roof"
+   ],
+   "ipa": "/ˈsiːlɪŋ/"
+  },
+  "lights": {
+   "lemma": "light",
+   "pos": "noun",
+   "ko": "조명",
+   "form": "복수형",
+   "synonyms": [
+    "lamp",
+    "fixture"
+   ],
+   "ipa": "/laɪts/"
+  },
+  "place": {
+   "lemma": "place",
+   "pos": "noun",
+   "ko": "자리 (in its place 그 대신)",
+   "synonyms": [
+    "position",
+    "stead"
+   ],
+   "ipa": "/pleɪs/"
+  },
+  "would": {
+   "lemma": "would",
+   "pos": "auxiliary",
+   "ko": "~하고 싶다 (would like)",
+   "ipa": "/wʊd/"
+  },
+  "like": {
+   "lemma": "like",
+   "pos": "verb",
+   "ko": "원하다 (would like to ~하고 싶다)",
+   "synonyms": [
+    "want",
+    "wish"
+   ],
+   "ipa": "/laɪk/"
+  },
+  "offer": {
+   "lemma": "offer",
+   "pos": "verb",
+   "ko": "제공하다, 제안하다",
+   "synonyms": [
+    "provide",
+    "propose"
+   ],
+   "ipa": "/ˈɔːfər/"
+  },
+  "lighthouse": {
+   "lemma": "Lighthouse",
+   "pos": "proper-noun",
+   "ko": "라이트하우스 (방 이름의 일부)",
+   "ipa": "/ˈlaɪtˌhaʊs/"
+  },
+  "top": {
+   "lemma": "top",
+   "pos": "adjective",
+   "ko": "맨 위의",
+   "synonyms": [
+    "highest",
+    "uppermost"
+   ],
+   "ipa": "/tɑːp/"
+  },
+  "floor": {
+   "lemma": "floor",
+   "pos": "noun",
+   "ko": "층",
+   "synonyms": [
+    "level",
+    "story"
+   ],
+   "ipa": "/flɔːr/"
+  },
+  "seats": {
+   "lemma": "seat",
+   "pos": "verb",
+   "ko": "~명을 앉힐 수 있다",
+   "form": "3인칭 단수",
+   "synonyms": [
+    "accommodate",
+    "hold"
+   ],
+   "ipa": "/siːts/"
+  },
+  "up": {
+   "lemma": "up",
+   "pos": "adverb",
+   "ko": "(up to) 최대 ~까지",
+   "ipa": "/ʌp/"
+  },
+  "eighty": {
+   "lemma": "eighty",
+   "pos": "number",
+   "ko": "여든, 80",
+   "ipa": "/ˈeɪti/"
+  },
+  "people": {
+   "lemma": "people",
+   "pos": "noun",
+   "ko": "사람들",
+   "form": "복수형",
+   "synonyms": [
+    "persons",
+    "individuals"
+   ],
+   "ipa": "/ˈpiːpəl/"
+  },
+  "offers": {
+   "lemma": "offer",
+   "pos": "verb",
+   "ko": "제공하다",
+   "form": "3인칭 단수",
+   "synonyms": [
+    "provide",
+    "give"
+   ],
+   "ipa": "/ˈɔːfərz/"
+  },
+  "wide": {
+   "lemma": "wide",
+   "pos": "adjective",
+   "ko": "넓은",
+   "synonyms": [
+    "broad",
+    "expansive"
+   ],
+   "ipa": "/waɪd/"
+  },
+  "view": {
+   "lemma": "view",
+   "pos": "noun",
+   "ko": "전망, 경치",
+   "synonyms": [
+    "outlook",
+    "scenery"
+   ],
+   "ipa": "/vjuː/"
+  },
+  "harbor": {
+   "lemma": "harbor",
+   "pos": "noun",
+   "ko": "항구",
+   "synonyms": [
+    "port",
+    "dock"
+   ],
+   "ipa": "/ˈhɑːrbər/"
+  },
+  "although": {
+   "lemma": "although",
+   "pos": "conjunction",
+   "ko": "~이지만",
+   "ipa": "/ˌɔːlˈðoʊ/"
+  },
+  "this": {
+   "lemma": "this",
+   "pos": "determiner",
+   "ko": "이",
+   "ipa": "/ðɪs/"
+  },
+  "normally": {
+   "lemma": "normally",
+   "pos": "adverb",
+   "ko": "보통",
+   "synonyms": [
+    "usually",
+    "typically"
+   ],
+   "ipa": "/ˈnɔːrməli/"
+  },
+  "priced": {
+   "lemma": "price",
+   "pos": "verb",
+   "ko": "가격을 매기다",
+   "form": "과거분사",
+   "synonyms": [
+    "charge",
+    "cost"
+   ],
+   "ipa": "/praɪst/"
+  },
+  "higher": {
+   "lemma": "high",
+   "pos": "adverb",
+   "ko": "더 높게",
+   "form": "비교급",
+   "synonyms": [
+    "more expensively"
+   ],
+   "ipa": "/ˈhaɪər/"
+  },
+  "provide": {
+   "lemma": "provide",
+   "pos": "verb",
+   "ko": "제공하다",
+   "synonyms": [
+    "supply",
+    "offer"
+   ],
+   "ipa": "/prəˈvaɪd/"
+  },
+  "no": {
+   "lemma": "no",
+   "pos": "determiner",
+   "ko": "어떤 ~도 없는",
+   "ipa": "/noʊ/"
+  },
+  "additional": {
+   "lemma": "additional",
+   "pos": "adjective",
+   "ko": "추가의",
+   "synonyms": [
+    "extra",
+    "further"
+   ],
+   "ipa": "/əˈdɪʃənəl/"
+  },
+  "charge": {
+   "lemma": "charge",
+   "pos": "noun",
+   "ko": "요금",
+   "synonyms": [
+    "fee",
+    "cost"
+   ],
+   "ipa": "/tʃɑːrdʒ/"
+  },
+  "if": {
+   "lemma": "if",
+   "pos": "conjunction",
+   "ko": "만약 ~라면",
+   "ipa": "/ɪf/"
+  },
+  "arrangement": {
+   "lemma": "arrangement",
+   "pos": "noun",
+   "ko": "조정안, 준비",
+   "synonyms": [
+    "plan",
+    "setup"
+   ],
+   "ipa": "/əˈreɪndʒmənt/"
+  },
+  "acceptable": {
+   "lemma": "acceptable",
+   "pos": "adjective",
+   "ko": "받아들일 수 있는, 괜찮은",
+   "synonyms": [
+    "satisfactory",
+    "suitable"
+   ],
+   "ipa": "/ækˈsɛptəbəl/"
+  },
+  "please": {
+   "lemma": "please",
+   "pos": "adverb",
+   "ko": "~해 주세요",
+   "ipa": "/pliːz/"
+  },
+  "reply": {
+   "lemma": "reply",
+   "pos": "verb",
+   "ko": "회신하다",
+   "synonyms": [
+    "respond",
+    "answer"
+   ],
+   "ipa": "/rɪˈplaɪ/"
+  },
+  "e-mail": {
+   "lemma": "e-mail",
+   "pos": "noun",
+   "ko": "이메일",
+   "synonyms": [
+    "message",
+    "email"
+   ],
+   "ipa": "/iː-meɪl/"
+  },
+  "by": {
+   "lemma": "by",
+   "pos": "preposition",
+   "ko": "~까지, ~으로 (수단)",
+   "ipa": "/baɪ/"
+  },
+  "should": {
+   "lemma": "should",
+   "pos": "auxiliary",
+   "ko": "(Should + 주어) 혹시 ~한다면",
+   "ipa": "/ʃʊd/"
+  },
+  "prefer": {
+   "lemma": "prefer",
+   "pos": "verb",
+   "ko": "선호하다",
+   "synonyms": [
+    "favor",
+    "would rather"
+   ],
+   "ipa": "/prəˈfɜːr/"
+  },
+  "different": {
+   "lemma": "different",
+   "pos": "adjective",
+   "ko": "다른",
+   "synonyms": [
+    "alternative",
+    "another"
+   ],
+   "ipa": "/ˈdɪfərənt/"
+  },
+  "solution": {
+   "lemma": "solution",
+   "pos": "noun",
+   "ko": "해결책",
+   "synonyms": [
+    "answer",
+    "remedy"
+   ],
+   "ipa": "/səˈluːʃən/"
+  },
+  "happy": {
+   "lemma": "happy",
+   "pos": "adjective",
+   "ko": "기쁜 (be happy to 기꺼이 ~하다)",
+   "synonyms": [
+    "glad",
+    "pleased"
+   ],
+   "ipa": "/ˈhæpi/"
+  },
+  "discuss": {
+   "lemma": "discuss",
+   "pos": "verb",
+   "ko": "상의하다, 논의하다",
+   "synonyms": [
+    "talk over",
+    "review"
+   ],
+   "ipa": "/dɪˈskʌs/"
+  },
+  "other": {
+   "lemma": "other",
+   "pos": "determiner",
+   "ko": "다른",
+   "ipa": "/ˈʌðər/"
+  },
+  "options": {
+   "lemma": "option",
+   "pos": "noun",
+   "ko": "선택 사항, 방안",
+   "form": "복수형",
+   "synonyms": [
+    "choice",
+    "alternative"
+   ],
+   "ipa": "/ˈɑːpʃənz/"
+  },
+  "phone": {
+   "lemma": "phone",
+   "pos": "noun",
+   "ko": "전화",
+   "synonyms": [
+    "telephone"
+   ],
+   "ipa": "/foʊn/"
+  },
+  "sincerely": {
+   "lemma": "sincerely",
+   "pos": "adverb",
+   "ko": "진심으로 (편지 맺음말)",
+   "synonyms": [
+    "truly",
+    "respectfully"
+   ],
+   "ipa": "/sɪnˈsɪrli/"
+  }
+ },
+ "questions": [
+  {
+   "type": "part7-purpose",
+   "prompt": "Why did Mr. Osei send the e-mail?",
+   "evidenceSentenceIds": [
+    "s6",
+    "s11"
+   ],
+   "choices": [
+    {
+     "key": "A",
+     "text": "To request a deposit for a conference"
+    },
+    {
+     "key": "B",
+     "text": "To confirm a booking and suggest a different room"
+    },
+    {
+     "key": "C",
+     "text": "To advertise a new café at the hotel"
+    },
+    {
+     "key": "D",
+     "text": "To apologize for canceling a guest's reservation"
+    }
+   ],
+   "answer": "B",
+   "explanationKo": "두 번째 문단에서 단체 예약 세부 사항을 확인하고(confirm the details) 회의 공간 변경을 알리겠다고 했고, 실제로 라이트하우스 룸을 대신 제안한다. \"예약을 확인하고 다른 방을 제안하기 위해\"로 바꿔 말한 B가 정답.",
+   "choiceNotesKo": {
+    "D": "예약이 취소된 것이 아니라 연회장 하나를 하루 쓸 수 없게 된 것이다.",
+    "C": "가든 카페는 아침 식사 장소로만 언급된다."
+   },
+   "skill": "목적 찾기",
+   "id": "q1",
+   "number": 1
+  },
+  {
+   "type": "part7-detail",
+   "prompt": "What is included in the group rate?",
+   "evidenceSentenceIds": [
+    "s8"
+   ],
+   "choices": [
+    {
+     "key": "A",
+     "text": "Parking in the hotel garage"
+    },
+    {
+     "key": "B",
+     "text": "Use of the Bayside Ballroom"
+    },
+    {
+     "key": "C",
+     "text": "Early check-in for all guests"
+    },
+    {
+     "key": "D",
+     "text": "A morning meal"
+    }
+   ],
+   "answer": "D",
+   "explanationKo": "Breakfast ~ is included in the group rate에서 breakfast를 \"아침 식사(a morning meal)\"로 바꿔 말한 D가 정답.",
+   "choiceNotesKo": {
+    "C": "일찍 도착하면 짐을 맡길 수 있다고 했을 뿐 이른 체크인이 포함된다는 말은 없다.",
+    "B": "연회장은 요금 포함 여부가 아니라 사용 불가 공지 대상이다."
+   },
+   "skill": "세부 정보 + 패러프레이징",
+   "id": "q2",
+   "number": 2
+  },
+  {
+   "type": "part7-inference",
+   "prompt": "What is suggested about the Lighthouse Room?",
+   "evidenceSentenceIds": [
+    "s13"
+   ],
+   "choices": [
+    {
+     "key": "A",
+     "text": "It usually costs more than the Bayside Ballroom."
+    },
+    {
+     "key": "B",
+     "text": "It is located next to the Garden Cafe."
+    },
+    {
+     "key": "C",
+     "text": "It is being repaired on June 10."
+    },
+    {
+     "key": "D",
+     "text": "It can hold more than one hundred people."
+    }
+   ],
+   "answer": "A",
+   "explanationKo": "Although this room is normally priced higher(이 방은 보통 더 비싸다)라고 했으므로 원래 예약한 베이사이드 연회장보다 비싸다는 것을 알 수 있다 → A.",
+   "choiceNotesKo": {
+    "C": "6월 10일에 수리하는 곳은 베이사이드 연회장이다.",
+    "D": "최대 80명(up to eighty)까지 앉을 수 있다."
+   },
+   "skill": "추론(suggested)",
+   "id": "q3",
+   "number": 3
+  }
+ ]
+}
