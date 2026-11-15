@@ -1,0 +1,1699 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-16-L3-news",
+  "date": "2026-11-16",
+  "level": 3,
+  "title": "NOAA Weather Modeling Hits Key Milestone with Rapid Refresh Forecast System Debut",
+  "titleKo": "NOAA 기상 모델링, 신속 갱신 예보 시스템(RRFS) 도입으로 중요한 이정표 달성",
+  "genre": "news",
+  "tags": [
+    "NOAA",
+    "weather",
+    "technology",
+    "forecasting"
+  ],
+  "source": {
+    "work": "NOAA weather modeling hits key milestone with Rapid Refresh Forecast System debut",
+    "author": "NOAA",
+    "translator": null,
+    "year": 2026,
+    "edition": "NOAA News",
+    "url": "https://www.noaa.gov/news-release/noaa-weather-modeling-hits-key-milestone-with-rapid-refresh-forecast-system-debut",
+    "license": "us-government-work",
+    "excerptNote": "첫 5단락 발췌"
+  },
+  "audio": null,
+  "wordCount": 230,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "NOAA는 11월 3일 기관 산하 국립기상청(NWS)이 차세대 신속 갱신 예보 시스템을 도입하면서 수치 기상 모델링 분야에서 중요한 이정표를 세웠다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3"
+      ],
+      "ko": "새로운 신속 갱신 예보 시스템(RRFS)은 NOAA의 기존 지역 모델들이 가진 가장 큰 장점 여러 가지를 결합해, 북미 전역에 대해 가장 상세하고 매시간 갱신되는 단기 예보를 다른 모델보다 더 긴 예보 선행 시간으로 제공한다. RRFS는 노후한 지역 시스템들을 여기저기 이어 붙인 체계를 대체하며, NOAA 기상 모델 시스템이 전 지구에서 지역까지 아우르는 하나의 통합 예보 시스템으로 발전해 가도록 앞당긴다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "보다 전통적인 예보 산출물 외에도, NOAA 연구국과 NWS 과학자들은 화재 기상, 연기와 먼지 기둥 예보를 개선하기 위해 두 가지 첨단 기능을 RRFS에 통합했다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "ko": "“RRFS가 연구 단계에서 실제 운영으로 넘어간 것은 NOAA의 기상 예보 모델 체계를 현대화하는 데 있어 큰 진전입니다”라고 NOAA 청장 닐 제이컵스 박사는 말했다. “RRFS는 우리의 가장 뛰어난 역량 일부가 미치는 범위를 넓히고, 미국인의 안전과 안보를 지원하기 위해 더 정확하고 더 이른 예보를 제공합니다.”"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "RRFS는 NOAA의 단기 고해상도 신속 갱신 모델(HRRR)의 매시간 갱신 기능, 그리고 가로세로 3킬로미터 크기의 지표면 칸마다 예보를 내는 능력을 북미 중규모 모델(NAM)의 더 넓은 대륙 규모 영역과 결합한다. RRFS는 또한 미국 본토의 예보 선행 시간을 84시간으로 늘렸는데, 이는 HRRR의 48시간과 비교된다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "NOAA marked an important milestone in numerical weather modeling on November 3 with the implementation of a next-generation rapid-update forecast system by the agency’s National Weather Service (NWS).",
+      "ko": "NOAA는 11월 3일 기관 산하 국립기상청(NWS)이 차세대 신속 갱신 예보 시스템을 도입하면서 수치 기상 모델링 분야에서 중요한 이정표를 세웠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The new Rapid Refresh Forecast System (RRFS) combines many of the biggest strengths of NOAA’s existing regional models to deliver the most detailed, hourly-updating, short-term forecasts over all of North America, and with longer forecast lead times than other models.",
+      "ko": "새로운 신속 갱신 예보 시스템(RRFS)은 NOAA의 기존 지역 모델들이 가진 가장 큰 장점 여러 가지를 결합해, 북미 전역에 대해 가장 상세하고 매시간 갱신되는 단기 예보를 다른 모델보다 더 긴 예보 선행 시간으로 제공한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "RRFS replaces a patchwork of aging regional systems, advancing the evolution of the NOAA weather model system toward a unified global-to-local forecast system.",
+      "ko": "RRFS는 노후한 지역 시스템들을 여기저기 이어 붙인 체계를 대체하며, NOAA 기상 모델 시스템이 전 지구에서 지역까지 아우르는 하나의 통합 예보 시스템으로 발전해 가도록 앞당긴다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p3",
+      "en": "In addition to more traditional forecast products, NOAA Research and NWS scientists integrated two advanced functions into the RRFS to improve forecasts of fire weather, smoke and dust plumes.",
+      "ko": "보다 전통적인 예보 산출물 외에도, NOAA 연구국과 NWS 과학자들은 화재 기상, 연기와 먼지 기둥 예보를 개선하기 위해 두 가지 첨단 기능을 RRFS에 통합했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "“The transition of RRFS from research to operations represents a major step towards modernizing NOAA’s weather forecast modeling suite,” said NOAA Administrator Neil Jacobs, Ph.D.",
+      "ko": "“RRFS가 연구 단계에서 실제 운영으로 넘어간 것은 NOAA의 기상 예보 모델 체계를 현대화하는 데 있어 큰 진전입니다”라고 NOAA 청장 닐 제이컵스 박사는 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "“RRFS extends the reach of some of our best capabilities and delivers more accurate, earlier forecasts to support Americans’ safety and security.”",
+      "ko": "“RRFS는 우리의 가장 뛰어난 역량 일부가 미치는 범위를 넓히고, 미국인의 안전과 안보를 지원하기 위해 더 정확하고 더 이른 예보를 제공합니다.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "The RRFS combines the hourly updates of NOAA’s short-term High Resolution Rapid Refresh Model (HRRR) and its ability to issue forecasts for each 3-kilometer by 3-kilometer square of land surface with the larger, continental domain of the North American Mesoscale model (NAM).",
+      "ko": "RRFS는 NOAA의 단기 고해상도 신속 갱신 모델(HRRR)의 매시간 갱신 기능, 그리고 가로세로 3킬로미터 크기의 지표면 칸마다 예보를 내는 능력을 북미 중규모 모델(NAM)의 더 넓은 대륙 규모 영역과 결합한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "The RRFS also extends forecast lead time for the contiguous United States to 84 hours, compared with the HRRR’s 48 hours.",
+      "ko": "RRFS는 또한 미국 본토의 예보 선행 시간을 84시간으로 늘렸는데, 이는 HRRR의 48시간과 비교된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "milestone",
+      "pos": "noun",
+      "meaningKo": "(역사·발전의) 중요한 단계, 이정표",
+      "ipa": "/ˈmaɪlˌstoʊn/",
+      "synonyms": [
+        "landmark",
+        "turning point",
+        "breakthrough"
+      ],
+      "matchText": "milestone",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Graduating from college was a big milestone in her life.",
+        "ko": "대학 졸업은 그녀의 인생에서 큰 이정표였다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "implementation",
+      "pos": "noun",
+      "meaningKo": "(계획·시스템의) 시행, 도입",
+      "ipa": "/ˌɪmpləmɛnˈteɪʃən/",
+      "synonyms": [
+        "introduction",
+        "rollout",
+        "execution"
+      ],
+      "matchText": "implementation",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The implementation of the new rule starts next month.",
+        "ko": "새 규칙의 시행은 다음 달에 시작된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "patchwork",
+      "pos": "noun",
+      "meaningKo": "(여러 조각을) 이어 붙인 것, 잡다한 짜깁기",
+      "ipa": "/ˈpætʃˌwɝk/",
+      "synonyms": [
+        "mixture",
+        "jumble",
+        "hodgepodge"
+      ],
+      "matchText": "patchwork",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The city has a patchwork of old and new laws.",
+        "ko": "그 도시에는 옛 법과 새 법이 뒤섞여 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "integrate",
+      "pos": "verb",
+      "meaningKo": "통합하다, (하나로) 합치다",
+      "ipa": "/ˈɪntəˌɡreɪt/",
+      "synonyms": [
+        "combine",
+        "incorporate",
+        "merge"
+      ],
+      "matchText": "integrated",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The app integrates maps and weather data.",
+        "ko": "그 앱은 지도와 날씨 정보를 통합한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "contiguous",
+      "pos": "adjective",
+      "meaningKo": "(땅이) 인접한, 서로 붙어 있는 (the contiguous United States = 미국 본토 48개 주)",
+      "ipa": "/kənˈtɪɡjuəs/",
+      "synonyms": [
+        "adjoining",
+        "neighboring",
+        "connected"
+      ],
+      "matchText": "contiguous",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Alaska is not part of the contiguous United States.",
+        "ko": "알래스카는 미국 본토에 포함되지 않는다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "NOAA",
+          "role": "S",
+          "sub": false,
+          "ko": "NOAA는"
+        },
+        {
+          "text": "marked",
+          "role": "V",
+          "sub": false,
+          "ko": "세웠다"
+        },
+        {
+          "text": "an important milestone",
+          "role": "O",
+          "sub": false,
+          "ko": "중요한 이정표를"
+        },
+        {
+          "text": "in numerical weather modeling",
+          "role": "M",
+          "sub": false,
+          "ko": "수치 기상 모델링에서"
+        },
+        {
+          "text": "on November 3",
+          "role": "M",
+          "sub": false,
+          "ko": "11월 3일에"
+        },
+        {
+          "text": "with the implementation of a next-generation rapid-update forecast system",
+          "role": "M",
+          "sub": false,
+          "ko": "차세대 신속 갱신 예보 시스템의 도입으로"
+        },
+        {
+          "text": "by the agency’s National Weather Service (NWS).",
+          "role": "M",
+          "sub": false,
+          "ko": "기관의 국립기상청(NWS)에 의한"
+        }
+      ],
+      "skeleton": "NOAA marked an important milestone",
+      "explanation": "뼈대는 3형식 'NOAA(S) marked(V) a milestone(O)'이다. mark a milestone은 '이정표를 세우다, 중요한 단계를 이루다'라는 표현이다. 뒤에 붙은 in ~, on ~, with ~, by ~는 모두 장소·시간·방법·행위자를 덧붙이는 수식어(M)다. 'the implementation of A by B'는 'B가 A를 도입함'으로 풀어 읽으면 자연스럽다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "RRFS",
+          "role": "S",
+          "sub": false,
+          "ko": "RRFS는"
+        },
+        {
+          "text": "replaces",
+          "role": "V",
+          "sub": false,
+          "ko": "대체한다"
+        },
+        {
+          "text": "a patchwork of aging regional systems,",
+          "role": "O",
+          "sub": false,
+          "ko": "노후한 지역 시스템들의 짜깁기를"
+        },
+        {
+          "text": "advancing",
+          "role": "V",
+          "sub": true,
+          "ko": "(그리고) 앞당긴다"
+        },
+        {
+          "text": "the evolution of the NOAA weather model system",
+          "role": "O",
+          "sub": true,
+          "ko": "NOAA 기상 모델 시스템의 발전을"
+        },
+        {
+          "text": "toward a unified global-to-local forecast system.",
+          "role": "M",
+          "sub": true,
+          "ko": "전 지구-지역 통합 예보 시스템을 향한"
+        }
+      ],
+      "skeleton": "RRFS replaces a patchwork",
+      "explanation": "쉼표 뒤 advancing ~은 분사구문이다. 주어 RRFS가 그대로 이어져 '대체하면서 (동시에) ~을 앞당긴다'는 결과·부대상황을 나타낸다. 분사구문 안에서도 advancing(V) + the evolution(O) + toward ~(M)처럼 동사-목적어 구조가 살아 있다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "“The transition of RRFS from research to operations",
+          "role": "S",
+          "sub": true,
+          "ko": "“RRFS의 연구에서 운영으로의 전환은"
+        },
+        {
+          "text": "represents",
+          "role": "V",
+          "sub": true,
+          "ko": "나타낸다"
+        },
+        {
+          "text": "a major step",
+          "role": "O",
+          "sub": true,
+          "ko": "큰 진전을"
+        },
+        {
+          "text": "towards modernizing NOAA’s weather forecast modeling suite,”",
+          "role": "M",
+          "sub": true,
+          "ko": "NOAA의 기상 예보 모델 체계를 현대화하는 쪽으로의”"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "라고 말했다"
+        },
+        {
+          "text": "NOAA Administrator Neil Jacobs, Ph.D.",
+          "role": "S",
+          "sub": false,
+          "ko": "NOAA 청장 닐 제이컵스 박사가"
+        }
+      ],
+      "skeleton": "NOAA Administrator Neil Jacobs said",
+      "explanation": "따옴표 속 인용문 전체가 said의 목적어이고, 그 안에 다시 S+V+O 구조가 있어 sub: true로 표시했다. 인용문 뒤에서는 'said + 주어'로 순서가 바뀌는 경우가 많다(뉴스 문체). towards 뒤에는 동명사 modernizing이 와서 '~을 현대화하는 쪽으로'가 된다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "결과를 덧붙이는 분사구문 (, ~ing)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "advancing the evolution"
+      ],
+      "explanation": "문장 뒤에 ', ~ing'를 붙이면 앞 동작과 동시에 일어나거나 그 결과로 생기는 일을 덧붙일 수 있다. 'RRFS replaces ~, advancing ~'은 'RRFS는 ~을 대체하고, 그렇게 함으로써 ~을 앞당긴다'는 뜻이다. 주어(RRFS)가 같으므로 and it advances를 advancing으로 줄인 것이다.",
+      "example": {
+        "en": "The storm hit the coast, destroying many homes.",
+        "ko": "폭풍이 해안을 덮쳐 많은 집을 파괴했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "인용문 뒤의 도치: said + 주어",
+      "tags": [
+        "도치",
+        "어순"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "said NOAA Administrator Neil Jacobs"
+      ],
+      "explanation": "뉴스에서는 인용문을 먼저 쓰고 'said + 주어'로 말한 사람을 밝히는 일이 많다. 특히 주어가 직함+이름처럼 길면 동사를 앞에 둔다. 'Neil Jacobs said'와 뜻은 같다. 대명사 주어일 때는 보통 도치하지 않는다(he said, ✗ said he).",
+      "example": {
+        "en": "“We are ready,” said the team captain.",
+        "ko": "“우리는 준비됐습니다”라고 팀 주장이 말했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "목적을 나타내는 to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "to improve forecasts"
+      ],
+      "explanation": "to + 동사원형은 '~하기 위해'라는 목적을 나타낸다. 'integrated two functions to improve forecasts'는 '예보를 개선하기 위해 두 기능을 통합했다'는 뜻이다. s2의 to deliver, s6의 to support도 같은 쓰임이다.",
+      "example": {
+        "en": "She studies every night to pass the exam.",
+        "ko": "그녀는 시험에 합격하기 위해 매일 밤 공부한다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "noaa": {
+      "lemma": "NOAA",
+      "pos": "proper-noun",
+      "ko": "미국 국립해양대기청 (해양·기상 기관)",
+      "form": null,
+      "ipa": "/ˈnoʊə/"
+    },
+    "marked": {
+      "lemma": "mark",
+      "pos": "verb",
+      "ko": "(중요한 일을) 기록하다, 이루다",
+      "form": "과거형",
+      "synonyms": [
+        "achieve",
+        "reach"
+      ],
+      "ipa": "/mɑːrkt/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "important": {
+      "lemma": "important",
+      "pos": "adjective",
+      "ko": "중요한",
+      "form": null,
+      "synonyms": [
+        "significant",
+        "key"
+      ],
+      "ipa": "/ˌɪmˈpɔːrtənt/"
+    },
+    "milestone": {
+      "lemma": "milestone",
+      "pos": "noun",
+      "ko": "이정표, 중요한 단계",
+      "form": null,
+      "synonyms": [
+        "landmark",
+        "turning point"
+      ],
+      "ipa": "/ˈmaɪlˌstoʊn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "numerical": {
+      "lemma": "numerical",
+      "pos": "adjective",
+      "ko": "수치의, 숫자로 된",
+      "form": null,
+      "synonyms": [
+        "numeric",
+        "mathematical"
+      ],
+      "ipa": "/nuˈmɛrəkəl/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨, 기상",
+      "form": null,
+      "synonyms": [
+        "climate conditions"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "modeling": {
+      "lemma": "modeling",
+      "pos": "noun",
+      "ko": "모델링, 모형화",
+      "form": null,
+      "synonyms": [
+        "simulation"
+      ],
+      "ipa": "/ˈmɑːdəˌlɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(날짜) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "implementation": {
+      "lemma": "implementation",
+      "pos": "noun",
+      "ko": "시행, 도입",
+      "form": null,
+      "synonyms": [
+        "introduction",
+        "rollout"
+      ],
+      "ipa": "/ˌɪmpləmɛnˈteɪʃən/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "next-generation": {
+      "lemma": "next-generation",
+      "pos": "adjective",
+      "ko": "차세대의",
+      "form": null,
+      "synonyms": [
+        "new",
+        "advanced"
+      ],
+      "ipa": "/nɛkst-ˌdʒɛnəˈreɪʃən/"
+    },
+    "rapid-update": {
+      "lemma": "rapid-update",
+      "pos": "adjective",
+      "ko": "빠르게 갱신되는",
+      "form": null,
+      "synonyms": [
+        "fast-refreshing"
+      ],
+      "ipa": "/ˈræpəd-əpˈdeɪt/"
+    },
+    "forecast": {
+      "lemma": "forecast",
+      "pos": "noun",
+      "ko": "예보, 예측",
+      "form": null,
+      "synonyms": [
+        "prediction",
+        "outlook"
+      ],
+      "ipa": "/ˈfɔːrˌkæst/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 체계",
+      "form": null,
+      "synonyms": [
+        "framework",
+        "network"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의한, ~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "agency's": {
+      "lemma": "agency",
+      "pos": "noun",
+      "ko": "(정부) 기관의",
+      "form": "소유격",
+      "synonyms": [
+        "organization",
+        "office"
+      ],
+      "ipa": "/ˈeɪdʒənsiz/"
+    },
+    "national": {
+      "lemma": "national",
+      "pos": "adjective",
+      "ko": "국가의, 국립의",
+      "form": null,
+      "synonyms": [
+        "federal",
+        "state"
+      ],
+      "ipa": "/ˈnæʃənəl/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "(정부의) 청, 기관",
+      "form": null,
+      "synonyms": [
+        "agency",
+        "department"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "nws": {
+      "lemma": "NWS",
+      "pos": "proper-noun",
+      "ko": "미국 국립기상청 (National Weather Service)",
+      "form": "줄임말",
+      "ipa": null
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "rapid": {
+      "lemma": "rapid",
+      "pos": "adjective",
+      "ko": "빠른, 신속한",
+      "form": null,
+      "synonyms": [
+        "quick",
+        "fast"
+      ],
+      "ipa": "/ˈræpəd/"
+    },
+    "refresh": {
+      "lemma": "refresh",
+      "pos": "noun",
+      "ko": "갱신, 새로 고침",
+      "form": null,
+      "synonyms": [
+        "update",
+        "renewal"
+      ],
+      "ipa": "/rɪˈfrɛʃ/"
+    },
+    "rrfs": {
+      "lemma": "RRFS",
+      "pos": "proper-noun",
+      "ko": "신속 갱신 예보 시스템 (Rapid Refresh Forecast System)",
+      "form": "줄임말",
+      "ipa": null
+    },
+    "combines": {
+      "lemma": "combine",
+      "pos": "verb",
+      "ko": "결합하다, 합치다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "merge",
+        "join"
+      ],
+      "ipa": "/kəmˈbaɪnz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "biggest": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "가장 큰",
+      "form": "최상급",
+      "synonyms": [
+        "greatest",
+        "largest"
+      ],
+      "ipa": "/ˈbɪɡəst/"
+    },
+    "strengths": {
+      "lemma": "strength",
+      "pos": "noun",
+      "ko": "장점, 강점",
+      "form": "복수형",
+      "synonyms": [
+        "advantage",
+        "asset"
+      ],
+      "ipa": "/strɛŋkθs/"
+    },
+    "noaa's": {
+      "lemma": "NOAA",
+      "pos": "proper-noun",
+      "ko": "NOAA의 (미국 국립해양대기청)",
+      "form": "소유격",
+      "ipa": null
+    },
+    "existing": {
+      "lemma": "existing",
+      "pos": "adjective",
+      "ko": "기존의, 현재 있는",
+      "form": null,
+      "synonyms": [
+        "current",
+        "present"
+      ],
+      "ipa": "/ɪɡˈzɪstɪŋ/"
+    },
+    "regional": {
+      "lemma": "regional",
+      "pos": "adjective",
+      "ko": "지역의",
+      "form": null,
+      "synonyms": [
+        "local",
+        "area"
+      ],
+      "ipa": "/ˈriːdʒənəl/"
+    },
+    "models": {
+      "lemma": "model",
+      "pos": "noun",
+      "ko": "(예측) 모델, 모형",
+      "form": "복수형",
+      "synonyms": [
+        "simulation",
+        "system"
+      ],
+      "ipa": "/ˈmɑːdəlz/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "deliver": {
+      "lemma": "deliver",
+      "pos": "verb",
+      "ko": "제공하다, 내놓다",
+      "form": null,
+      "synonyms": [
+        "provide",
+        "supply"
+      ],
+      "ipa": "/dɪˈlɪvər/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급)",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "detailed": {
+      "lemma": "detailed",
+      "pos": "adjective",
+      "ko": "상세한, 자세한",
+      "form": null,
+      "synonyms": [
+        "precise",
+        "thorough"
+      ],
+      "ipa": "/dɪˈteɪld/"
+    },
+    "hourly-updating": {
+      "lemma": "hourly-updating",
+      "pos": "adjective",
+      "ko": "매시간 갱신되는",
+      "form": null,
+      "ipa": "/ˈaʊrli-əpˈdeɪtɪŋ/"
+    },
+    "short-term": {
+      "lemma": "short-term",
+      "pos": "adjective",
+      "ko": "단기의",
+      "form": null,
+      "synonyms": [
+        "near-term",
+        "brief"
+      ],
+      "ipa": "/ʃɔːrt-tɜːrm/"
+    },
+    "forecasts": {
+      "lemma": "forecast",
+      "pos": "noun",
+      "ko": "예보",
+      "form": "복수형",
+      "synonyms": [
+        "prediction",
+        "outlook"
+      ],
+      "ipa": "/fɔrˈkæsts/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 전역에 걸쳐",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 전체의",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "north": {
+      "lemma": "North",
+      "pos": "proper-noun",
+      "ko": "북(北)~ (North America 북아메리카)",
+      "form": null,
+      "ipa": "/nɔːrθ/"
+    },
+    "america": {
+      "lemma": "America",
+      "pos": "proper-noun",
+      "ko": "아메리카 (North America 북미)",
+      "form": null,
+      "ipa": "/əˈmɛrəkə/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "더 긴",
+      "form": "비교급",
+      "synonyms": [
+        "extended",
+        "lengthier"
+      ],
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "lead": {
+      "lemma": "lead",
+      "pos": "noun",
+      "ko": "앞섬 (lead time: 예보 선행 시간)",
+      "form": null,
+      "synonyms": [
+        "advance"
+      ],
+      "ipa": "/lɛd/"
+    },
+    "times": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "synonyms": [
+        "period",
+        "span"
+      ],
+      "ipa": "/taɪmz/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "determiner",
+      "ko": "다른",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "replaces": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "대체하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "substitute",
+        "supersede"
+      ],
+      "ipa": "/rɪˈpleɪsɪz/"
+    },
+    "patchwork": {
+      "lemma": "patchwork",
+      "pos": "noun",
+      "ko": "이어 붙인 것, 짜깁기",
+      "form": null,
+      "synonyms": [
+        "mixture",
+        "jumble"
+      ],
+      "ipa": "/ˈpætʃˌwɜːrk/"
+    },
+    "aging": {
+      "lemma": "aging",
+      "pos": "adjective",
+      "ko": "노후한, 낡아 가는",
+      "form": null,
+      "synonyms": [
+        "old",
+        "outdated"
+      ],
+      "ipa": "/ˈeɪdʒɪŋ/"
+    },
+    "systems": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 체계",
+      "form": "복수형",
+      "synonyms": [
+        "framework",
+        "network"
+      ],
+      "ipa": "/ˈsɪstəmz/"
+    },
+    "advancing": {
+      "lemma": "advance",
+      "pos": "verb",
+      "ko": "앞당기다, 발전시키다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "promote",
+        "further"
+      ],
+      "ipa": "/ədˈvænsɪŋ/"
+    },
+    "evolution": {
+      "lemma": "evolution",
+      "pos": "noun",
+      "ko": "발전, 진화",
+      "form": null,
+      "synonyms": [
+        "development",
+        "progress"
+      ],
+      "ipa": "/ˌɛvəˈluːʃən/"
+    },
+    "model": {
+      "lemma": "model",
+      "pos": "noun",
+      "ko": "(예측) 모델",
+      "form": null,
+      "synonyms": [
+        "simulation"
+      ],
+      "ipa": "/ˈmɑːdəl/"
+    },
+    "toward": {
+      "lemma": "toward",
+      "pos": "preposition",
+      "ko": "~을 향해, ~ 쪽으로",
+      "form": null,
+      "ipa": "/təˈwɔːrd/"
+    },
+    "unified": {
+      "lemma": "unified",
+      "pos": "adjective",
+      "ko": "통합된, 하나로 된",
+      "form": null,
+      "synonyms": [
+        "integrated",
+        "combined"
+      ],
+      "ipa": "/ˈjuːnəˌfaɪd/"
+    },
+    "global-to-local": {
+      "lemma": "global-to-local",
+      "pos": "adjective",
+      "ko": "전 지구에서 지역까지 아우르는",
+      "form": null,
+      "ipa": "/ˈɡloʊbəl-tuː-ˈloʊkəl/"
+    },
+    "addition": {
+      "lemma": "addition",
+      "pos": "noun",
+      "ko": "추가 (in addition to: ~ 외에도)",
+      "form": null,
+      "synonyms": [
+        "supplement"
+      ],
+      "ipa": "/əˈdɪʃən/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더, 보다",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "traditional": {
+      "lemma": "traditional",
+      "pos": "adjective",
+      "ko": "전통적인, 기존 방식의",
+      "form": null,
+      "synonyms": [
+        "conventional",
+        "standard"
+      ],
+      "ipa": "/trəˈdɪʃənəl/"
+    },
+    "products": {
+      "lemma": "product",
+      "pos": "noun",
+      "ko": "산출물, 결과물",
+      "form": "복수형",
+      "synonyms": [
+        "output",
+        "result"
+      ],
+      "ipa": "/ˈprɑːdəkts/"
+    },
+    "research": {
+      "lemma": "research",
+      "pos": "noun",
+      "ko": "연구 (NOAA Research: NOAA 연구국)",
+      "form": null,
+      "synonyms": [
+        "study",
+        "investigation"
+      ],
+      "ipa": "/riˈsɜːrtʃ/"
+    },
+    "scientists": {
+      "lemma": "scientist",
+      "pos": "noun",
+      "ko": "과학자",
+      "form": "복수형",
+      "synonyms": [
+        "researcher",
+        "expert"
+      ],
+      "ipa": "/ˈsaɪəntɪsts/"
+    },
+    "integrated": {
+      "lemma": "integrate",
+      "pos": "verb",
+      "ko": "통합하다",
+      "form": "과거형",
+      "synonyms": [
+        "combine",
+        "incorporate"
+      ],
+      "ipa": "/ˈɪntəˌɡreɪtəd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "advanced": {
+      "lemma": "advanced",
+      "pos": "adjective",
+      "ko": "첨단의, 발전된",
+      "form": null,
+      "synonyms": [
+        "sophisticated",
+        "cutting-edge"
+      ],
+      "ipa": "/ədˈvænst/"
+    },
+    "functions": {
+      "lemma": "function",
+      "pos": "noun",
+      "ko": "기능",
+      "form": "복수형",
+      "synonyms": [
+        "feature",
+        "capability"
+      ],
+      "ipa": "/ˈfʌŋkʃənz/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "improve": {
+      "lemma": "improve",
+      "pos": "verb",
+      "ko": "개선하다, 향상시키다",
+      "form": null,
+      "synonyms": [
+        "enhance",
+        "upgrade"
+      ],
+      "ipa": "/ˌɪmˈpruːv/"
+    },
+    "fire": {
+      "lemma": "fire",
+      "pos": "noun",
+      "ko": "화재, 불",
+      "form": null,
+      "synonyms": [
+        "blaze",
+        "wildfire"
+      ],
+      "ipa": "/ˈfaɪər/"
+    },
+    "smoke": {
+      "lemma": "smoke",
+      "pos": "noun",
+      "ko": "연기",
+      "form": null,
+      "synonyms": [
+        "fumes"
+      ],
+      "ipa": "/smoʊk/"
+    },
+    "dust": {
+      "lemma": "dust",
+      "pos": "noun",
+      "ko": "먼지",
+      "form": null,
+      "synonyms": [
+        "dirt",
+        "powder"
+      ],
+      "ipa": "/dʌst/"
+    },
+    "plumes": {
+      "lemma": "plume",
+      "pos": "noun",
+      "ko": "(연기·먼지의) 기둥, 띠",
+      "form": "복수형",
+      "synonyms": [
+        "cloud",
+        "column"
+      ],
+      "ipa": "/pluːmz/"
+    },
+    "transition": {
+      "lemma": "transition",
+      "pos": "noun",
+      "ko": "전환, 이행",
+      "form": null,
+      "synonyms": [
+        "shift",
+        "change"
+      ],
+      "ipa": "/trænˈzɪʃən/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "operations": {
+      "lemma": "operation",
+      "pos": "noun",
+      "ko": "(실제) 운영, 가동",
+      "form": "복수형",
+      "synonyms": [
+        "service",
+        "use"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənz/"
+    },
+    "represents": {
+      "lemma": "represent",
+      "pos": "verb",
+      "ko": "나타내다, ~에 해당하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "mean",
+        "constitute"
+      ],
+      "ipa": "/ˌrɛprɪˈzɛnts/"
+    },
+    "major": {
+      "lemma": "major",
+      "pos": "adjective",
+      "ko": "큰, 주요한",
+      "form": null,
+      "synonyms": [
+        "significant",
+        "big"
+      ],
+      "ipa": "/ˈmeɪdʒər/"
+    },
+    "step": {
+      "lemma": "step",
+      "pos": "noun",
+      "ko": "단계, 진전",
+      "form": null,
+      "synonyms": [
+        "move",
+        "stage"
+      ],
+      "ipa": "/stɛp/"
+    },
+    "towards": {
+      "lemma": "towards",
+      "pos": "preposition",
+      "ko": "~을 향해, ~ 쪽으로",
+      "form": null,
+      "ipa": "/təˈwɔːrdz/"
+    },
+    "modernizing": {
+      "lemma": "modernize",
+      "pos": "verb",
+      "ko": "현대화하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "update",
+        "upgrade"
+      ],
+      "ipa": "/ˈmɑːdərˌnaɪzɪŋ/"
+    },
+    "suite": {
+      "lemma": "suite",
+      "pos": "noun",
+      "ko": "(관련 프로그램의) 묶음, 체계",
+      "form": null,
+      "synonyms": [
+        "set",
+        "package"
+      ],
+      "ipa": "/swiːt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "state",
+        "remark"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "administrator": {
+      "lemma": "administrator",
+      "pos": "noun",
+      "ko": "(기관의) 청장, 책임자",
+      "form": null,
+      "synonyms": [
+        "head",
+        "director"
+      ],
+      "ipa": "/ədˈmɪnəˌstreɪtər/"
+    },
+    "neil": {
+      "lemma": "Neil",
+      "pos": "proper-noun",
+      "ko": "닐 (남성 이름)",
+      "form": null,
+      "ipa": "/niːl/"
+    },
+    "jacobs": {
+      "lemma": "Jacobs",
+      "pos": "proper-noun",
+      "ko": "제이컵스 (성)",
+      "form": null,
+      "ipa": "/ˈdʒeɪkəbz/"
+    },
+    "ph": {
+      "lemma": "Ph.D.",
+      "pos": "noun",
+      "ko": "박사 (Ph.D.의 Ph)",
+      "form": "줄임말",
+      "ipa": "/ˈpiːˈeɪtʃ/"
+    },
+    "d": {
+      "lemma": "Ph.D.",
+      "pos": "noun",
+      "ko": "박사 (Ph.D.의 D)",
+      "form": "줄임말",
+      "ipa": "/diː/"
+    },
+    "extends": {
+      "lemma": "extend",
+      "pos": "verb",
+      "ko": "넓히다, 늘리다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "expand",
+        "lengthen"
+      ],
+      "ipa": "/ɪkˈstɛndz/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "noun",
+      "ko": "(영향이) 미치는 범위",
+      "form": null,
+      "synonyms": [
+        "range",
+        "scope"
+      ],
+      "ipa": "/riːtʃ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "일부의, 몇몇",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "best": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "가장 좋은, 최고의",
+      "form": "최상급",
+      "synonyms": [
+        "finest",
+        "top"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "capabilities": {
+      "lemma": "capability",
+      "pos": "noun",
+      "ko": "역량, 능력",
+      "form": "복수형",
+      "synonyms": [
+        "ability",
+        "capacity"
+      ],
+      "ipa": "/ˌkeɪpəˈbɪlətiz/"
+    },
+    "delivers": {
+      "lemma": "deliver",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "provide",
+        "supply"
+      ],
+      "ipa": "/dɪˈlɪvərz/"
+    },
+    "accurate": {
+      "lemma": "accurate",
+      "pos": "adjective",
+      "ko": "정확한",
+      "form": null,
+      "synonyms": [
+        "precise",
+        "exact"
+      ],
+      "ipa": "/ˈækjərət/"
+    },
+    "earlier": {
+      "lemma": "early",
+      "pos": "adjective",
+      "ko": "더 이른",
+      "form": "비교급",
+      "synonyms": [
+        "sooner",
+        "prior"
+      ],
+      "ipa": "/ˈɜːrliər/"
+    },
+    "support": {
+      "lemma": "support",
+      "pos": "verb",
+      "ko": "지원하다, 뒷받침하다",
+      "form": null,
+      "synonyms": [
+        "help",
+        "back"
+      ],
+      "ipa": "/səˈpɔːrt/"
+    },
+    "americans": {
+      "lemma": "American",
+      "pos": "proper-noun",
+      "ko": "미국인",
+      "form": "복수형",
+      "ipa": "/əˈmɛrəkənz/"
+    },
+    "safety": {
+      "lemma": "safety",
+      "pos": "noun",
+      "ko": "안전",
+      "form": null,
+      "synonyms": [
+        "security",
+        "protection"
+      ],
+      "ipa": "/ˈseɪfti/"
+    },
+    "security": {
+      "lemma": "security",
+      "pos": "noun",
+      "ko": "안보, 안전",
+      "form": null,
+      "synonyms": [
+        "protection",
+        "safety"
+      ],
+      "ipa": "/sɪˈkjʊrəti/"
+    },
+    "hourly": {
+      "lemma": "hourly",
+      "pos": "adjective",
+      "ko": "매시간의",
+      "form": null,
+      "ipa": "/ˈaʊrli/"
+    },
+    "updates": {
+      "lemma": "update",
+      "pos": "noun",
+      "ko": "갱신, 업데이트",
+      "form": "복수형",
+      "synonyms": [
+        "refresh",
+        "revision"
+      ],
+      "ipa": "/əpˈdeɪts/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "높은 (High Resolution: 고해상도)",
+      "form": null,
+      "ipa": "/haɪ/"
+    },
+    "resolution": {
+      "lemma": "resolution",
+      "pos": "noun",
+      "ko": "해상도",
+      "form": null,
+      "synonyms": [
+        "detail",
+        "definition"
+      ],
+      "ipa": "/ˌrɛzəˈluːʃən/"
+    },
+    "hrrr": {
+      "lemma": "HRRR",
+      "pos": "proper-noun",
+      "ko": "고해상도 신속 갱신 모델 (High Resolution Rapid Refresh)",
+      "form": "줄임말",
+      "ipa": null
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "ability": {
+      "lemma": "ability",
+      "pos": "noun",
+      "ko": "능력",
+      "form": null,
+      "synonyms": [
+        "capability",
+        "capacity"
+      ],
+      "ipa": "/əˈbɪləˌtiː/"
+    },
+    "issue": {
+      "lemma": "issue",
+      "pos": "verb",
+      "ko": "(예보·경보를) 발표하다, 내다",
+      "form": null,
+      "synonyms": [
+        "release",
+        "publish"
+      ],
+      "ipa": "/ˈɪʃu/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~마다",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "3-kilometer": {
+      "lemma": "3-kilometer",
+      "pos": "adjective",
+      "ko": "3킬로미터의",
+      "form": null,
+      "ipa": null
+    },
+    "square": {
+      "lemma": "square",
+      "pos": "noun",
+      "ko": "정사각형 칸",
+      "form": null,
+      "synonyms": [
+        "block",
+        "cell"
+      ],
+      "ipa": "/skwɛr/"
+    },
+    "land": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "땅, 육지",
+      "form": null,
+      "synonyms": [
+        "ground",
+        "terrain"
+      ],
+      "ipa": "/lænd/"
+    },
+    "surface": {
+      "lemma": "surface",
+      "pos": "noun",
+      "ko": "표면, 지표",
+      "form": null,
+      "synonyms": [
+        "ground",
+        "exterior"
+      ],
+      "ipa": "/ˈsɜːrfəs/"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 넓은, 더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "bigger",
+        "wider"
+      ],
+      "ipa": "/ˈlɑːrdʒər/"
+    },
+    "continental": {
+      "lemma": "continental",
+      "pos": "adjective",
+      "ko": "대륙의",
+      "form": null,
+      "ipa": "/ˌkɑːntəˈnɛntəl/"
+    },
+    "domain": {
+      "lemma": "domain",
+      "pos": "noun",
+      "ko": "(모델이 다루는) 영역, 범위",
+      "form": null,
+      "synonyms": [
+        "area",
+        "region"
+      ],
+      "ipa": "/doʊˈmeɪn/"
+    },
+    "american": {
+      "lemma": "American",
+      "pos": "proper-noun",
+      "ko": "미국의, 아메리카의 (North American: 북미의)",
+      "form": null,
+      "ipa": "/əˈmɛrəkən/"
+    },
+    "mesoscale": {
+      "lemma": "mesoscale",
+      "pos": "adjective",
+      "ko": "중규모의 (수~수백 km 규모 기상)",
+      "form": null,
+      "ipa": null
+    },
+    "nam": {
+      "lemma": "NAM",
+      "pos": "proper-noun",
+      "ko": "북미 중규모 모델 (North American Mesoscale)",
+      "form": "줄임말",
+      "ipa": "/næm/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "additionally"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간 (lead time: 선행 시간)",
+      "form": null,
+      "synonyms": [
+        "period",
+        "span"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "contiguous": {
+      "lemma": "contiguous",
+      "pos": "adjective",
+      "ko": "인접한 (contiguous United States: 미국 본토 48개 주)",
+      "form": null,
+      "synonyms": [
+        "adjoining",
+        "connected"
+      ],
+      "ipa": "/kənˈtɪɡjuəs/"
+    },
+    "united": {
+      "lemma": "United",
+      "pos": "proper-noun",
+      "ko": "연합한 (United States: 미국)",
+      "form": null,
+      "ipa": "/juˈnaɪtɪd/"
+    },
+    "states": {
+      "lemma": "States",
+      "pos": "proper-noun",
+      "ko": "주(州)들 (United States: 미국)",
+      "form": "복수형",
+      "ipa": "/steɪts/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "ipa": "/ˈaʊərz/"
+    },
+    "compared": {
+      "lemma": "compare",
+      "pos": "verb",
+      "ko": "비교하다 (compared with: ~와 비교하여)",
+      "form": "과거분사",
+      "synonyms": [
+        "contrast",
+        "measure"
+      ],
+      "ipa": "/kəmˈpɛrd/"
+    },
+    "hrrr's": {
+      "lemma": "HRRR",
+      "pos": "proper-noun",
+      "ko": "HRRR의 (고해상도 신속 갱신 모델)",
+      "form": "소유격",
+      "ipa": null
+    }
+  }
+}
