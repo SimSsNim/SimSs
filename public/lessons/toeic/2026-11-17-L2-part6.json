@@ -1,0 +1,1472 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-17-L2-part6",
+  "date": "2026-11-17",
+  "level": 2,
+  "title": "New Expense Report System",
+  "titleKo": "새 경비 보고 시스템 안내 메모",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 6",
+    "메모",
+    "예산·회계"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 125,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "받는 사람: 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "보내는 사람: 리디아 모레노, 회계부"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 11월 17일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 새 경비 보고 시스템"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "12월 1일부터 모든 직원은 새 온라인 시스템인 익스펜사를 통해 출장 경비를 제출하게 됩니다. 현재의 종이 양식은 그날 이후로 더 이상 받지 않습니다. 익스펜사를 쓰면 휴대 전화에서 바로 영수증 사진을 올릴 수 있습니다. 그 결과 보고서가 훨씬 빨리 처리될 것입니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "모두가 시스템에 익숙해지도록 회계부에서 다음 주에 짧은 교육을 두 번 엽니다. 각 교육은 약 30분 동안 진행됩니다. 두 교육 모두 참석할 수 없는 직원은 회사 인트라넷에서 녹화 영상을 볼 수 있습니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "ko": "궁금한 점이 있으면 내선 214번으로 제게 연락해 주세요. 이번 변경 기간 동안 협조해 주셔서 감사합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Staff",
+      "ko": "받는 사람: 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Lydia Moreno, Accounting Department",
+      "ko": "보내는 사람: 리디아 모레노, 회계부",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: November 17",
+      "ko": "날짜: 11월 17일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: New Expense Report System",
+      "ko": "제목: 새 경비 보고 시스템",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Starting December 1, all employees will submit travel expenses through Expensa, our new online system.",
+      "ko": "12월 1일부터 모든 직원은 새 온라인 시스템인 익스펜사를 통해 출장 경비를 제출하게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "The current paper forms will no longer be accepted after that date.",
+      "ko": "현재의 종이 양식은 그날 이후로 더 이상 받지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "With Expensa, you can upload photos of your receipts directly from your phone.",
+      "ko": "익스펜사를 쓰면 휴대 전화에서 바로 영수증 사진을 올릴 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "As a result, reports will be processed much faster.",
+      "ko": "그 결과 보고서가 훨씬 빨리 처리될 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "To help everyone get used to the system, the accounting department will hold two short training sessions next week.",
+      "ko": "모두가 시스템에 익숙해지도록 회계부에서 다음 주에 짧은 교육을 두 번 엽니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "Each session will last about thirty minutes.",
+      "ko": "각 교육은 약 30분 동안 진행됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "Employees who cannot attend either session can watch a recorded video on the company intranet.",
+      "ko": "두 교육 모두 참석할 수 없는 직원은 회사 인트라넷에서 녹화 영상을 볼 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "If you have any questions, please contact me at extension 214.",
+      "ko": "궁금한 점이 있으면 내선 214번으로 제게 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Thank you for your cooperation during this change.",
+      "ko": "이번 변경 기간 동안 협조해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "expense",
+      "pos": "noun",
+      "meaningKo": "비용, 경비",
+      "ipa": "/ɪkˈspɛns/",
+      "synonyms": [
+        "cost",
+        "spending"
+      ],
+      "matchText": "expenses",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Hotel costs are business expenses.",
+        "ko": "호텔비는 업무 경비다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "receipt",
+      "pos": "noun",
+      "meaningKo": "영수증",
+      "ipa": "/rɪˈsiːt/",
+      "synonyms": [
+        "proof of purchase",
+        "sales slip"
+      ],
+      "matchText": "receipts",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Keep the receipt in case you need a refund.",
+        "ko": "환불이 필요할 경우를 대비해 영수증을 보관하세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "process",
+      "pos": "verb",
+      "meaningKo": "처리하다",
+      "ipa": "/ˈprɑːsɛs/",
+      "synonyms": [
+        "handle",
+        "deal with"
+      ],
+      "matchText": "processed",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Your order will be processed today.",
+        "ko": "주문은 오늘 처리될 것입니다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "get used to",
+      "pos": "phrase",
+      "meaningKo": "~에 익숙해지다",
+      "ipa": "/ɡɛt ˈjuːst tuː/",
+      "synonyms": [
+        "adjust to",
+        "become familiar with"
+      ],
+      "matchText": "get used to",
+      "sentenceId": "s9",
+      "example": {
+        "en": "It took me a week to get used to the new software.",
+        "ko": "새 소프트웨어에 익숙해지는 데 일주일이 걸렸다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "cooperation",
+      "pos": "noun",
+      "meaningKo": "협조, 협력",
+      "ipa": "/koʊˌɑːpəˈreɪʃən/",
+      "synonyms": [
+        "help",
+        "support"
+      ],
+      "matchText": "cooperation",
+      "sentenceId": "s13",
+      "example": {
+        "en": "We need everyone's cooperation.",
+        "ko": "우리는 모두의 협조가 필요하다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "To help everyone get used to the system,",
+          "role": "M",
+          "ko": "모두가 시스템에 익숙해지도록 돕기 위해"
+        },
+        {
+          "text": "the accounting department",
+          "role": "S",
+          "ko": "회계부는"
+        },
+        {
+          "text": "will hold",
+          "role": "V",
+          "ko": "열 것이다"
+        },
+        {
+          "text": "two short training sessions",
+          "role": "O",
+          "ko": "짧은 교육 두 번을"
+        },
+        {
+          "text": "next week.",
+          "role": "M",
+          "ko": "다음 주에"
+        }
+      ],
+      "skeleton": "the accounting department will hold two sessions",
+      "explanation": "문장 앞 To help ~는 목적(~하기 위해)을 나타내는 to부정사구. help + 목적어 + 동사원형(get)."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "Employees",
+          "role": "S",
+          "ko": "직원들은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "~하는"
+        },
+        {
+          "text": "cannot attend",
+          "role": "V",
+          "ko": "참석할 수 없다",
+          "sub": true
+        },
+        {
+          "text": "either session",
+          "role": "O",
+          "ko": "두 교육 중 어느 것도",
+          "sub": true
+        },
+        {
+          "text": "can watch",
+          "role": "V",
+          "ko": "볼 수 있다"
+        },
+        {
+          "text": "a recorded video",
+          "role": "O",
+          "ko": "녹화된 영상을"
+        },
+        {
+          "text": "on the company intranet.",
+          "role": "M",
+          "ko": "회사 인트라넷에서"
+        }
+      ],
+      "skeleton": "Employees can watch a recorded video",
+      "explanation": "who절이 주어 Employees를 꾸며 주어가 길어졌다. 진짜 동사는 can watch."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "조동사 + 수동태 (will no longer be p.p.)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "will no longer be accepted"
+      ],
+      "explanation": "종이 양식은 '받아들여지는' 대상이므로 수동태. will 뒤 no longer를 지나 be + p.p.가 온다.",
+      "example": {
+        "en": "Cash will no longer be accepted.",
+        "ko": "현금은 더 이상 받지 않습니다."
+      },
+      "note": "조동사 뒤 빈칸에 목적어가 없으면 be + p.p."
+    },
+    {
+      "id": "g2",
+      "title": "주격 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "who cannot attend"
+      ],
+      "explanation": "사람 선행사 Employees 뒤에 주어가 빠진 절이 오므로 who.",
+      "example": {
+        "en": "Guests who arrive early can check in at noon.",
+        "ko": "일찍 도착한 손님은 정오에 체크인할 수 있다."
+      },
+      "note": "사람 + 빈칸 + 동사 → who."
+    },
+    {
+      "id": "g3",
+      "title": "help + 목적어 + 동사원형",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "help everyone get used to"
+      ],
+      "explanation": "help는 목적어 뒤에 to 없이 동사원형을 쓸 수 있다(to get도 가능).",
+      "example": {
+        "en": "This app helps you save money.",
+        "ko": "이 앱은 돈을 아끼는 데 도움이 된다."
+      },
+      "note": "help + O + (to) V 둘 다 정답이 될 수 있다."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~에게; (to부정사) ~하는 것, ~하려고",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원(들)",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "lydia": {
+      "lemma": "Lydia",
+      "pos": "proper-noun",
+      "ko": "리디아 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈlɪdiə/"
+    },
+    "moreno": {
+      "lemma": "Moreno",
+      "pos": "proper-noun",
+      "ko": "모레노 (사람 성)",
+      "form": null,
+      "ipa": "/mɔˈriːnoʊ/"
+    },
+    "accounting": {
+      "lemma": "accounting",
+      "pos": "noun",
+      "ko": "회계",
+      "form": null,
+      "synonyms": [
+        "bookkeeping",
+        "finance"
+      ],
+      "ipa": "/əˈkaʊntɪŋ/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "form": null,
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "synonyms": [
+        "day",
+        "time"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "expense": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "비용, 경비",
+      "form": null,
+      "synonyms": [
+        "cost",
+        "spending"
+      ],
+      "ipa": "/ɪkˈspɛns/"
+    },
+    "report": {
+      "lemma": "report",
+      "pos": "noun",
+      "ko": "보고서",
+      "form": null,
+      "synonyms": [
+        "document",
+        "account"
+      ],
+      "ipa": "/riˈpɔːrt/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 체계",
+      "form": null,
+      "synonyms": [
+        "program",
+        "platform"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(Starting + 날짜) ~부터",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beginning",
+        "from"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월",
+      "form": null,
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": null,
+      "synonyms": [
+        "hand in",
+        "turn in"
+      ],
+      "ipa": "/səbˈmɪt/"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "출장, 여행",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "business trip"
+      ],
+      "ipa": "/ˈtrævəl/"
+    },
+    "expenses": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "비용, 경비",
+      "form": "복수형",
+      "synonyms": [
+        "cost",
+        "spending"
+      ],
+      "ipa": "/ɪkˈspɛnsəz/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "expensa": {
+      "lemma": "Expensa",
+      "pos": "proper-noun",
+      "ko": "익스펜사 (회사 시스템 이름)",
+      "form": null,
+      "ipa": "/ɪkˈspɛnsə/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의, 저희의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adjective",
+      "ko": "온라인의",
+      "form": null,
+      "synonyms": [
+        "web-based",
+        "digital"
+      ],
+      "ipa": "/ˈɔːnˌlaɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "current": {
+      "lemma": "current",
+      "pos": "adjective",
+      "ko": "현재의",
+      "form": null,
+      "synonyms": [
+        "present",
+        "existing"
+      ],
+      "ipa": "/ˈkɜːrənt/"
+    },
+    "paper": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "종이",
+      "form": null,
+      "synonyms": [
+        "printed",
+        "hard copy"
+      ],
+      "ipa": "/ˈpeɪpər/"
+    },
+    "forms": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": "복수형",
+      "synonyms": [
+        "document",
+        "sheet"
+      ],
+      "ipa": "/fɔːrmz/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는; (no longer) 더 이상 ~않다",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상",
+      "form": "비교급",
+      "synonyms": [
+        "anymore",
+        "any more"
+      ],
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있다, ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "accepted": {
+      "lemma": "accept",
+      "pos": "verb",
+      "ko": "받아들이다, 접수하다",
+      "form": "과거분사",
+      "synonyms": [
+        "take",
+        "receive"
+      ],
+      "ipa": "/ækˈsɛptɪd/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그 (지시어)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~을 가진, ~을 지니고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "upload": {
+      "lemma": "upload",
+      "pos": "verb",
+      "ko": "올리다, 업로드하다",
+      "form": null,
+      "synonyms": [
+        "post",
+        "transfer"
+      ],
+      "ipa": "/ˈʌˌploʊd/"
+    },
+    "photos": {
+      "lemma": "photo",
+      "pos": "noun",
+      "ko": "사진",
+      "form": "복수형",
+      "synonyms": [
+        "picture",
+        "image"
+      ],
+      "ipa": "/ˈfoʊˌtoʊz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의, 귀하의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "receipts": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": "복수형",
+      "synonyms": [
+        "proof of purchase",
+        "sales slip"
+      ],
+      "ipa": "/rɪˈsiːts/"
+    },
+    "directly": {
+      "lemma": "directly",
+      "pos": "adverb",
+      "ko": "바로, 직접",
+      "form": null,
+      "synonyms": [
+        "straight",
+        "immediately"
+      ],
+      "ipa": "/dəˈrɛktli/"
+    },
+    "phone": {
+      "lemma": "phone",
+      "pos": "noun",
+      "ko": "전화, 휴대 전화",
+      "form": null,
+      "synonyms": [
+        "telephone",
+        "mobile"
+      ],
+      "ipa": "/foʊn/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "(as a result) 그 결과",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "result": {
+      "lemma": "result",
+      "pos": "noun",
+      "ko": "결과 (as a result 그 결과)",
+      "form": null,
+      "synonyms": [
+        "outcome",
+        "effect"
+      ],
+      "ipa": "/rɪˈzʌlt/"
+    },
+    "reports": {
+      "lemma": "report",
+      "pos": "noun",
+      "ko": "보고서",
+      "form": "복수형",
+      "synonyms": [
+        "document",
+        "statement"
+      ],
+      "ipa": "/rɪˈpɔːrts/"
+    },
+    "processed": {
+      "lemma": "process",
+      "pos": "verb",
+      "ko": "처리하다",
+      "form": "과거분사",
+      "synonyms": [
+        "handle",
+        "deal with"
+      ],
+      "ipa": "/ˈprɑːsɛst/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "훨씬 (비교급 강조)",
+      "form": null,
+      "synonyms": [
+        "far",
+        "a lot"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "faster": {
+      "lemma": "fast",
+      "pos": "adverb",
+      "ko": "더 빨리",
+      "form": "비교급",
+      "synonyms": [
+        "more quickly",
+        "sooner"
+      ],
+      "ipa": "/ˈfæstər/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "support"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "everyone": {
+      "lemma": "everyone",
+      "pos": "pronoun",
+      "ko": "모두, 모든 사람",
+      "form": null,
+      "ipa": "/ˈɛvriˌwʌn/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get used to) ~에 익숙해지다",
+      "form": null,
+      "synonyms": [
+        "become",
+        "grow"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "used": {
+      "lemma": "used",
+      "pos": "adjective",
+      "ko": "(used to) ~에 익숙한",
+      "form": null,
+      "synonyms": [
+        "accustomed",
+        "familiar"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "열다, 개최하다",
+      "form": null,
+      "synonyms": [
+        "host",
+        "run"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두 ~",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "quick"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수",
+      "form": null,
+      "synonyms": [
+        "instruction",
+        "teaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "sessions": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육·회의) 시간, 회차",
+      "form": "복수형",
+      "synonyms": [
+        "class",
+        "meeting"
+      ],
+      "ipa": "/ˈsɛʃənz/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "synonyms": [
+        "seven days",
+        "period"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "session": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 회차",
+      "form": null,
+      "synonyms": [
+        "class",
+        "meeting"
+      ],
+      "ipa": "/ˈsɛʃən/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "verb",
+      "ko": "(시간이) 계속되다, 걸리다",
+      "form": null,
+      "synonyms": [
+        "continue",
+        "run"
+      ],
+      "ipa": "/læst/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관하여; 약, 대략",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "pos": "number",
+      "ko": "30",
+      "form": null,
+      "ipa": "/ˈθɜːrˌdiː/"
+    },
+    "minutes": {
+      "lemma": "minute",
+      "pos": "noun",
+      "ko": "분",
+      "form": "복수형",
+      "synonyms": [
+        "moment",
+        "short time"
+      ],
+      "ipa": "/ˈmɪnəts/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "cannot": {
+      "lemma": "cannot",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": null,
+      "ipa": "/ˈkænɑt/"
+    },
+    "attend": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다",
+      "form": null,
+      "synonyms": [
+        "go to",
+        "join"
+      ],
+      "ipa": "/əˈtɛnd/"
+    },
+    "either": {
+      "lemma": "either",
+      "pos": "determiner",
+      "ko": "(부정문) 둘 중 어느 것도",
+      "form": null,
+      "ipa": "/ˈiːðər/"
+    },
+    "watch": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "보다, 시청하다",
+      "form": null,
+      "synonyms": [
+        "view",
+        "see"
+      ],
+      "ipa": "/wɑːtʃ/"
+    },
+    "recorded": {
+      "lemma": "recorded",
+      "pos": "adjective",
+      "ko": "녹화된",
+      "form": null,
+      "synonyms": [
+        "taped",
+        "saved"
+      ],
+      "ipa": "/rəˈkɔːrdɪd/"
+    },
+    "video": {
+      "lemma": "video",
+      "pos": "noun",
+      "ko": "영상, 동영상",
+      "form": null,
+      "synonyms": [
+        "clip",
+        "recording"
+      ],
+      "ipa": "/ˈvɪdioʊ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~으로(전화로); ~에(요일·주말); ~에 관한",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "intranet": {
+      "lemma": "intranet",
+      "pos": "noun",
+      "ko": "인트라넷 (사내 전산망)",
+      "form": null,
+      "synonyms": [
+        "internal network",
+        "company website"
+      ],
+      "ipa": "/ˈɪntrəˌnɛt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~인지; 만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "form": null,
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 문의",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나, 나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서; ~에 (시각)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (전화 번호)",
+      "form": null,
+      "synonyms": [
+        "line",
+        "phone number"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate",
+        "be grateful"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에 대한; ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "cooperation": {
+      "lemma": "cooperation",
+      "pos": "noun",
+      "ko": "협조, 협력",
+      "form": null,
+      "synonyms": [
+        "help",
+        "support"
+      ],
+      "ipa": "/koʊˌɑːpəˈreɪʃən/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안, ~ 중에",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 일",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변경, 변화",
+      "form": null,
+      "synonyms": [
+        "transition",
+        "update"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "be accepted"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "accept"
+        },
+        {
+          "key": "B",
+          "text": "be accepted"
+        },
+        {
+          "key": "C",
+          "text": "accepting"
+        },
+        {
+          "key": "D",
+          "text": "have accepted"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "종이 양식은 '받아들여지는' 대상이고 뒤에 목적어가 없다. 조동사 will 뒤 수동태 be accepted.",
+      "choiceNotesKo": {
+        "A": "accept는 능동이라 뒤에 목적어가 필요하다."
+      },
+      "skill": "조동사 + 수동태"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "As a result"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "However"
+        },
+        {
+          "key": "B",
+          "text": "Otherwise"
+        },
+        {
+          "key": "C",
+          "text": "In contrast"
+        },
+        {
+          "key": "D",
+          "text": "As a result"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장 '휴대 전화로 영수증을 바로 올린다' → '그 결과 더 빨리 처리된다'. 원인→결과의 As a result.",
+      "choiceNotesKo": {
+        "A": "However는 반대 내용이 이어질 때 쓴다."
+      },
+      "skill": "접속부사(결과)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "Each session will last about thirty minutes."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Last year's travel budget was smaller than expected."
+        },
+        {
+          "key": "B",
+          "text": "The paper forms can be found in the supply room."
+        },
+        {
+          "key": "C",
+          "text": "Each session will last about thirty minutes."
+        },
+        {
+          "key": "D",
+          "text": "Please book your flights at least two weeks in advance."
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "앞 문장에서 교육(two short training sessions)을 소개했고, 뒤 문장에서 'either session'을 다시 말한다. 그 사이에 교육 시간을 알려 주는 문장이 자연스럽다.",
+      "choiceNotesKo": {
+        "B": "종이 양식은 더 이상 받지 않는다고 했으므로 앞 내용과 어긋난다.",
+        "D": "항공권 예약은 교육 이야기 흐름과 관계없다."
+      },
+      "skill": "문장 넣기(앞뒤의 session)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s11",
+        "answerText": "who"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "what"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "사람 선행사 Employees 뒤, 주어가 빠진 절(cannot attend ~)이 온다 → 주격 관계대명사 who.",
+      "choiceNotesKo": {
+        "B": "which는 사물에 쓴다.",
+        "C": "whose 뒤에는 명사가 와야 한다."
+      },
+      "skill": "주격 관계대명사"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s13",
+        "answerText": "cooperation"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "cooperate"
+        },
+        {
+          "key": "B",
+          "text": "cooperative"
+        },
+        {
+          "key": "C",
+          "text": "cooperation"
+        },
+        {
+          "key": "D",
+          "text": "cooperatively"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "소유격 your 뒤는 명사 자리. Thank you for your cooperation.",
+      "choiceNotesKo": {
+        "B": "cooperative는 형용사."
+      },
+      "skill": "명사 자리(소유격 뒤)"
+    }
+  ]
+}

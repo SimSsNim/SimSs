@@ -1,0 +1,1243 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-17-L1-part6",
+  "date": "2026-11-17",
+  "level": 1,
+  "title": "Replacement Membership Card",
+  "titleKo": "회원 카드 재발급 안내 편지",
+  "genre": "letter",
+  "tags": [
+    "TOEIC Part 6",
+    "편지",
+    "고객 서비스"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 104,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "그랜트 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "회원 카드에 관해 편지를 보내 주셔서 감사합니다. 지난주에 카드가 작동하지 않게 되어 죄송합니다. 카드를 휴대 전화 옆에 두면 가끔 이런 일이 생깁니다. 저희가 이미 새 카드를 만들어 두었습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "언제든지 안내 데스크에서 찾아가실 수 있습니다. 본인 확인을 할 수 있도록 사진이 있는 신분증을 가져와 주세요. 새 카드는 비용이 들지 않습니다. 불편을 드린 데 대한 사과로 회원 기간에 무료 한 달을 추가해 드렸습니다. 곧 뵙기를 바랍니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "감사합니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "폴라 레예스, 고객 서비스 매니저"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Grant,",
+      "ko": "그랜트 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for your letter about your membership card.",
+      "ko": "회원 카드에 관해 편지를 보내 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "We are sorry that it stopped working last week.",
+      "ko": "지난주에 카드가 작동하지 않게 되어 죄송합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "This sometimes happens when a card is kept next to a mobile phone.",
+      "ko": "카드를 휴대 전화 옆에 두면 가끔 이런 일이 생깁니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "We have already made a new card for you.",
+      "ko": "저희가 이미 새 카드를 만들어 두었습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "You can pick it up at the front desk at any time.",
+      "ko": "언제든지 안내 데스크에서 찾아가실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Please bring a photo identification card so that we can confirm your identity.",
+      "ko": "본인 확인을 할 수 있도록 사진이 있는 신분증을 가져와 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "There is no charge for the new card.",
+      "ko": "새 카드는 비용이 들지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "We have also added one free month to your membership as an apology for the trouble.",
+      "ko": "불편을 드린 데 대한 사과로 회원 기간에 무료 한 달을 추가해 드렸습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p3",
+      "en": "We hope to see you soon.",
+      "ko": "곧 뵙기를 바랍니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "Sincerely,",
+      "ko": "감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "Paula Reyes, Customer Service Manager",
+      "ko": "폴라 레예스, 고객 서비스 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "membership",
+      "pos": "noun",
+      "meaningKo": "회원 자격, 회원권",
+      "ipa": "/ˈmɛmbɚʃɪp/",
+      "synonyms": [
+        "subscription",
+        "enrollment"
+      ],
+      "matchText": "membership",
+      "sentenceId": "s2",
+      "example": {
+        "en": "My gym membership ends in March.",
+        "ko": "내 헬스장 회원권은 3월에 끝난다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "confirm",
+      "pos": "verb",
+      "meaningKo": "확인하다",
+      "ipa": "/kənˈfɝːm/",
+      "synonyms": [
+        "check",
+        "verify"
+      ],
+      "matchText": "confirm",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please confirm your address.",
+        "ko": "주소를 확인해 주세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "identity",
+      "pos": "noun",
+      "meaningKo": "신원, 본인임",
+      "ipa": "/aɪˈdɛntəti/",
+      "synonyms": [
+        "who you are",
+        "personal details"
+      ],
+      "matchText": "identity",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The guard checked my identity.",
+        "ko": "경비원이 내 신원을 확인했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "charge",
+      "pos": "noun",
+      "meaningKo": "요금, 비용",
+      "ipa": "/tʃɑːrdʒ/",
+      "synonyms": [
+        "fee",
+        "cost"
+      ],
+      "matchText": "charge",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Delivery is free of charge.",
+        "ko": "배송은 무료다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "apology",
+      "pos": "noun",
+      "meaningKo": "사과",
+      "ipa": "/əˈpɑːlədʒi/",
+      "synonyms": [
+        "regret",
+        "excuse"
+      ],
+      "matchText": "apology",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Please accept our apology for the delay.",
+        "ko": "지연에 대한 저희의 사과를 받아 주세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "This",
+          "role": "S",
+          "ko": "이것(이런 일)은"
+        },
+        {
+          "text": "sometimes",
+          "role": "M",
+          "ko": "가끔"
+        },
+        {
+          "text": "happens",
+          "role": "V",
+          "ko": "일어난다"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~할 때"
+        },
+        {
+          "text": "a card",
+          "role": "S",
+          "ko": "카드가",
+          "sub": true
+        },
+        {
+          "text": "is kept",
+          "role": "V",
+          "ko": "놓인다",
+          "sub": true
+        },
+        {
+          "text": "next to a mobile phone.",
+          "role": "M",
+          "ko": "휴대 전화 옆에",
+          "sub": true
+        }
+      ],
+      "skeleton": "This happens when a card is kept",
+      "explanation": "This는 앞 문장의 '카드가 작동을 멈춘 일'을 가리킨다. when 뒤는 수동태 부사절."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Please bring",
+          "role": "V",
+          "ko": "가져와 주세요"
+        },
+        {
+          "text": "a photo identification card",
+          "role": "O",
+          "ko": "사진이 있는 신분증을"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "ko": "~하도록"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "저희가",
+          "sub": true
+        },
+        {
+          "text": "can confirm",
+          "role": "V",
+          "ko": "확인할 수 있다",
+          "sub": true
+        },
+        {
+          "text": "your identity.",
+          "role": "O",
+          "ko": "본인임을",
+          "sub": true
+        }
+      ],
+      "skeleton": "Please bring a card so that we can confirm your identity",
+      "explanation": "명령문은 동사로 시작한다. so that + 주어 + can은 '~할 수 있도록'(목적)."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "stop + -ing (~하는 것을 멈추다)",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "stopped working"
+      ],
+      "explanation": "stop 뒤에 동명사가 오면 '~하던 것을 멈추다'. stopped working = 작동을 멈췄다(고장 났다).",
+      "example": {
+        "en": "The phone stopped ringing.",
+        "ko": "전화벨이 멈췄다."
+      },
+      "note": "stop + -ing(하던 일을 멈춤) vs stop + to V(~하려고 멈춤)."
+    },
+    {
+      "id": "g2",
+      "title": "so that + 주어 + can (~할 수 있도록)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "so that we can confirm"
+      ],
+      "explanation": "so that은 목적을 나타내는 접속사. 뒤에 주어 + can/will + 동사원형이 온다.",
+      "example": {
+        "en": "Speak loudly so that everyone can hear you.",
+        "ko": "모두가 들을 수 있도록 크게 말하세요."
+      },
+      "note": "can 뒤 빈칸은 언제나 동사원형."
+    },
+    {
+      "id": "g3",
+      "title": "명사 자리: 관사 + 명사",
+      "tags": [
+        "품사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "an apology"
+      ],
+      "explanation": "an 뒤에는 명사가 온다. as an apology for ~ = ~에 대한 사과로.",
+      "example": {
+        "en": "He sent flowers as an apology.",
+        "ko": "그는 사과의 뜻으로 꽃을 보냈다."
+      },
+      "note": "a/an/the 바로 뒤 빈칸 → 명사."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "grant": {
+      "lemma": "Grant",
+      "pos": "proper-noun",
+      "ko": "그랜트 (사람 성)",
+      "form": null,
+      "ipa": "/ɡrænt/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate",
+        "be grateful"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에 대한; ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의, 귀하의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "letter": {
+      "lemma": "letter",
+      "pos": "noun",
+      "ko": "편지",
+      "form": null,
+      "synonyms": [
+        "message",
+        "note"
+      ],
+      "ipa": "/ˈlɛtər/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관하여; 약, 대략",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "membership": {
+      "lemma": "membership",
+      "pos": "noun",
+      "ko": "회원 자격, 회원권",
+      "form": null,
+      "synonyms": [
+        "subscription",
+        "enrollment"
+      ],
+      "ipa": "/ˈmɛmbərˌʃɪp/"
+    },
+    "card": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드",
+      "form": null,
+      "synonyms": [
+        "pass",
+        "badge"
+      ],
+      "ipa": "/kɑːrd/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (be + p.p.) ~되다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "sorry": {
+      "lemma": "sorry",
+      "pos": "adjective",
+      "ko": "미안한, 유감스러운",
+      "form": null,
+      "synonyms": [
+        "apologetic",
+        "regretful"
+      ],
+      "ipa": "/ˈsɑːri/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것; (so that) ~하도록",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다, 그만하다",
+      "form": "과거형",
+      "synonyms": [
+        "quit",
+        "cease"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "working": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "작동하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "function",
+        "run"
+      ],
+      "ipa": "/ˈwɜːrkɪŋ/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난 (바로 전의)",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "past"
+      ],
+      "ipa": "/læst/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "synonyms": [
+        "seven days",
+        "period"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 일",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "sometimes": {
+      "lemma": "sometimes",
+      "pos": "adverb",
+      "ko": "가끔, 때때로",
+      "form": null,
+      "synonyms": [
+        "occasionally",
+        "at times"
+      ],
+      "ipa": "/səmˈtaɪmz/"
+    },
+    "happens": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "일어나다, 생기다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "occur",
+        "take place"
+      ],
+      "ipa": "/ˈhæpənz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (be + p.p.) ~되다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "두다, 보관하다",
+      "form": "과거분사",
+      "synonyms": [
+        "store",
+        "place"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adverb",
+      "ko": "(next to) ~ 옆에",
+      "form": null,
+      "synonyms": [
+        "beside",
+        "near"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~에게; (to부정사) ~하는 것, ~하려고",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "mobile": {
+      "lemma": "mobile",
+      "pos": "adjective",
+      "ko": "휴대용의 (mobile phone 휴대 전화)",
+      "form": null,
+      "synonyms": [
+        "portable",
+        "cell"
+      ],
+      "ipa": "/ˈmoʊbəl/"
+    },
+    "phone": {
+      "lemma": "phone",
+      "pos": "noun",
+      "ko": "전화, 휴대 전화",
+      "form": null,
+      "synonyms": [
+        "telephone",
+        "mobile"
+      ],
+      "ipa": "/foʊn/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have + p.p.) ~했다 (완료)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미, 벌써",
+      "form": null,
+      "synonyms": [
+        "by now",
+        "before now"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다",
+      "form": "과거분사",
+      "synonyms": [
+        "create",
+        "produce"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "pick": {
+      "lemma": "pick",
+      "pos": "verb",
+      "ko": "(pick up) 찾아가다, 가져가다",
+      "form": null,
+      "synonyms": [
+        "collect",
+        "get"
+      ],
+      "ipa": "/pɪk/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(pick up) 찾아가다의 일부",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서; ~에 (시각)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "adjective",
+      "ko": "앞쪽의 (front desk 안내 데스크)",
+      "form": null,
+      "synonyms": [
+        "main",
+        "entrance"
+      ],
+      "ipa": "/frʌnt/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 창구",
+      "form": null,
+      "synonyms": [
+        "counter",
+        "reception"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간",
+      "form": null,
+      "synonyms": [
+        "moment",
+        "hour"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "take along"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "photo": {
+      "lemma": "photo",
+      "pos": "noun",
+      "ko": "사진",
+      "form": null,
+      "synonyms": [
+        "picture",
+        "image"
+      ],
+      "ipa": "/ˈfoʊˌtoʊ/"
+    },
+    "identification": {
+      "lemma": "identification",
+      "pos": "noun",
+      "ko": "신분 증명 (identification card 신분증)",
+      "form": null,
+      "synonyms": [
+        "ID",
+        "proof of identity"
+      ],
+      "ipa": "/aɪˌdɛntəfəˈkeɪʃən/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "(so that) ~하도록",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "confirm": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인하다",
+      "form": null,
+      "synonyms": [
+        "verify",
+        "check"
+      ],
+      "ipa": "/kənˈfɜːrm/"
+    },
+    "identity": {
+      "lemma": "identity",
+      "pos": "noun",
+      "ko": "신원, 본인임",
+      "form": null,
+      "synonyms": [
+        "who you are",
+        "personal details"
+      ],
+      "ipa": "/aɪˈdɛntɪˌtiː/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there is) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는; (no longer) 더 이상 ~않다",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "charge": {
+      "lemma": "charge",
+      "pos": "noun",
+      "ko": "요금, 비용",
+      "form": null,
+      "synonyms": [
+        "fee",
+        "cost"
+      ],
+      "ipa": "/tʃɑːrdʒ/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한, 게다가",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "added": {
+      "lemma": "add",
+      "pos": "verb",
+      "ko": "추가하다, 더하다",
+      "form": "과거분사",
+      "synonyms": [
+        "include",
+        "give"
+      ],
+      "ipa": "/ˈædəd/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나, 한 ~",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의",
+      "form": null,
+      "synonyms": [
+        "complimentary",
+        "at no cost"
+      ],
+      "ipa": "/friː/"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 한 달",
+      "form": null,
+      "synonyms": [
+        "four weeks",
+        "thirty days"
+      ],
+      "ipa": "/mʌnθ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~로서; (as a result) 그 결과",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "apology": {
+      "lemma": "apology",
+      "pos": "noun",
+      "ko": "사과",
+      "form": null,
+      "synonyms": [
+        "regret",
+        "excuse"
+      ],
+      "ipa": "/əˈpɑːləˌdʒiː/"
+    },
+    "trouble": {
+      "lemma": "trouble",
+      "pos": "noun",
+      "ko": "불편, 문제",
+      "form": null,
+      "synonyms": [
+        "problem",
+        "inconvenience"
+      ],
+      "ipa": "/ˈtrʌbəl/"
+    },
+    "hope": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "바라다, 희망하다",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "expect"
+      ],
+      "ipa": "/hoʊp/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 만나다",
+      "form": null,
+      "synonyms": [
+        "meet",
+        "visit"
+      ],
+      "ipa": "/siː/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly",
+        "before long"
+      ],
+      "ipa": "/suːn/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "faithfully"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "paula": {
+      "lemma": "Paula",
+      "pos": "proper-noun",
+      "ko": "폴라 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈpɔːlə/"
+    },
+    "reyes": {
+      "lemma": "Reyes",
+      "pos": "proper-noun",
+      "ko": "레예스 (사람 성)",
+      "form": null,
+      "ipa": "/ˈreɪɪs/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스; 근무",
+      "form": null,
+      "synonyms": [
+        "help",
+        "assistance"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "working"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "works"
+        },
+        {
+          "key": "B",
+          "text": "worked"
+        },
+        {
+          "key": "C",
+          "text": "working"
+        },
+        {
+          "key": "D",
+          "text": "worker"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "stop 뒤에 '하던 일을 멈추다'는 동명사 -ing. stopped working = 작동이 멈췄다.",
+      "choiceNotesKo": {
+        "D": "worker(일꾼)는 명사라 뜻이 맞지 않는다."
+      },
+      "skill": "stop + 동명사"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "This sometimes happens when a card is kept next to a mobile phone."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Our new yoga classes will start next month."
+        },
+        {
+          "key": "B",
+          "text": "This sometimes happens when a card is kept next to a mobile phone."
+        },
+        {
+          "key": "C",
+          "text": "Please renew your membership before it ends."
+        },
+        {
+          "key": "D",
+          "text": "The front desk is closed on national holidays."
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "앞 문장 '카드가 작동을 멈췄다'를 This가 받아 원인을 설명한다. 다음 문장에서 새 카드 이야기로 자연스럽게 이어진다.",
+      "choiceNotesKo": {
+        "C": "회원권 갱신은 카드 고장 이야기와 상관없다.",
+        "D": "뒤에서 '언제든지 찾아가라'고 하므로 휴무 안내는 흐름에 맞지 않는다."
+      },
+      "skill": "문장 넣기(앞 문장을 받는 This)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "confirm"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "confirm"
+        },
+        {
+          "key": "B",
+          "text": "confirms"
+        },
+        {
+          "key": "C",
+          "text": "confirmed"
+        },
+        {
+          "key": "D",
+          "text": "confirmation"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "조동사 can 뒤에는 동사원형 confirm.",
+      "choiceNotesKo": {
+        "D": "confirmation은 명사라 can 뒤에 올 수 없다."
+      },
+      "skill": "조동사 + 동사원형"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "charge"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "change"
+        },
+        {
+          "key": "B",
+          "text": "sale"
+        },
+        {
+          "key": "C",
+          "text": "stay"
+        },
+        {
+          "key": "D",
+          "text": "charge"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "There is no charge for ~ = ~는 비용이 들지 않는다(무료다).",
+      "choiceNotesKo": {
+        "A": "change(거스름돈·변화)는 철자가 비슷한 함정."
+      },
+      "skill": "명사 어휘"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "apology"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "apologize"
+        },
+        {
+          "key": "B",
+          "text": "apology"
+        },
+        {
+          "key": "C",
+          "text": "apologetic"
+        },
+        {
+          "key": "D",
+          "text": "apologized"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "관사 an 뒤는 명사 자리. as an apology for ~ = ~에 대한 사과로.",
+      "choiceNotesKo": {
+        "A": "apologize는 동사.",
+        "C": "apologetic은 형용사라 뒤에 명사가 필요하다."
+      },
+      "skill": "명사 자리"
+    }
+  ]
+}
