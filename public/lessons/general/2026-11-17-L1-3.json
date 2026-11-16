@@ -1,0 +1,1059 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-17-L1-3",
+  "date": "2026-11-17",
+  "level": 1,
+  "title": "The Ass and His Shadow",
+  "titleKo": "당나귀와 그림자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_01_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_01_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-3-fables-51-75",
+    "reader": "Kristin LeMoine",
+    "durationSec": 78,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 03, 01번 트랙(전체 51번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 119,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "어떤 남자가 여름철 여행을 하려고 당나귀 한 마리를 빌렸고, 당나귀 주인이 짐승을 몰기 위해 뒤따라오는 가운데 길을 떠났다. 얼마 뒤 한낮의 더위 속에서 그들은 쉬려고 멈췄는데, 여행자는 당나귀의 그림자에 눕고 싶어 했다. 하지만 자기도 햇볕을 피하고 싶었던 주인은 그렇게 하지 못하게 했다. 그는 당나귀만 빌려주었지 그림자까지 빌려준 것은 아니라고 말했기 때문이다. 상대는 자기가 한 거래로 당분간 당나귀를 완전히 마음대로 할 수 있게 되었다고 주장했다. 말다툼은 주먹다짐으로 번졌고, 둘이 서로 두들겨 패는 사이에 당나귀는 줄행랑을 쳐서 곧 보이지 않게 되었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A certain man hired an Ass for a journey in summertime, and started out with the owner following behind to drive the beast.",
+      "ko": "어떤 남자가 여름철 여행을 하려고 당나귀 한 마리를 빌렸고, 당나귀 주인이 짐승을 몰기 위해 뒤따라오는 가운데 길을 떠났다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "By and by, in the heat of the day, they stopped to rest, and the traveller wanted to lie down in the Ass's Shadow; but the owner, who himself wished to be out of the sun, wouldn't let him do that; for he said he had hired the Ass only, and not his Shadow: the other maintained that his bargain secured him complete control of the Ass for the time being.",
+      "ko": "얼마 뒤 한낮의 더위 속에서 그들은 쉬려고 멈췄는데, 여행자는 당나귀의 그림자에 눕고 싶어 했다. 하지만 자기도 햇볕을 피하고 싶었던 주인은 그렇게 하지 못하게 했다. 그는 당나귀만 빌려주었지 그림자까지 빌려준 것은 아니라고 말했기 때문이다. 상대는 자기가 한 거래로 당분간 당나귀를 완전히 마음대로 할 수 있게 되었다고 주장했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "From words they came to blows; and while they were belabouring each other the Ass took to his heels and was soon out of sight.",
+      "ko": "말다툼은 주먹다짐으로 번졌고, 둘이 서로 두들겨 패는 사이에 당나귀는 줄행랑을 쳐서 곧 보이지 않게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "hire",
+      "pos": "verb",
+      "meaningKo": "(돈을 내고) 빌리다, 고용하다",
+      "ipa": "/haɪər/",
+      "synonyms": [
+        "rent",
+        "lease"
+      ],
+      "matchText": "hired",
+      "sentenceId": "s1",
+      "example": {
+        "en": "We hired a boat for the afternoon.",
+        "ko": "우리는 오후 동안 보트 한 척을 빌렸다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "by and by",
+      "pos": "idiom",
+      "meaningKo": "얼마 후, 머지않아",
+      "ipa": "/baɪ ænd baɪ/",
+      "synonyms": [
+        "soon",
+        "after a while"
+      ],
+      "matchText": "By and by",
+      "sentenceId": "s2",
+      "example": {
+        "en": "By and by, the rain stopped.",
+        "ko": "얼마 후 비가 그쳤다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "maintain",
+      "pos": "verb",
+      "meaningKo": "주장하다",
+      "ipa": "/meɪnˈteɪn/",
+      "synonyms": [
+        "insist",
+        "claim",
+        "argue"
+      ],
+      "matchText": "maintained",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He maintained that he was right.",
+        "ko": "그는 자기가 옳다고 주장했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "come to blows",
+      "pos": "idiom",
+      "meaningKo": "주먹다짐을 하게 되다, 싸움이 붙다",
+      "ipa": "/kʌm tuː bloʊz/",
+      "synonyms": [
+        "start fighting",
+        "fight"
+      ],
+      "matchText": "came to blows",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The two boys almost came to blows over a ball.",
+        "ko": "두 소년은 공 하나 때문에 하마터면 주먹다짐을 할 뻔했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "take to one's heels",
+      "pos": "idiom",
+      "meaningKo": "줄행랑치다, 달아나다",
+      "ipa": "/teɪk tuː wʌnz hiːlz/",
+      "synonyms": [
+        "run away",
+        "flee"
+      ],
+      "matchText": "took to his heels",
+      "sentenceId": "s3",
+      "example": {
+        "en": "When the dog barked, the thief took to his heels.",
+        "ko": "개가 짖자 도둑은 줄행랑을 쳤다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A certain man",
+          "role": "S",
+          "sub": false,
+          "ko": "어떤 남자가"
+        },
+        {
+          "text": "hired",
+          "role": "V",
+          "sub": false,
+          "ko": "빌렸다"
+        },
+        {
+          "text": "an Ass",
+          "role": "O",
+          "sub": false,
+          "ko": "당나귀 한 마리를"
+        },
+        {
+          "text": "for a journey",
+          "role": "M",
+          "sub": false,
+          "ko": "여행을 위해"
+        },
+        {
+          "text": "in summertime,",
+          "role": "M",
+          "sub": false,
+          "ko": "여름철에,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "started out",
+          "role": "V",
+          "sub": false,
+          "ko": "출발했다"
+        },
+        {
+          "text": "with the owner",
+          "role": "M",
+          "sub": false,
+          "ko": "주인이"
+        },
+        {
+          "text": "following behind",
+          "role": "M",
+          "sub": false,
+          "ko": "뒤따라오는 채로"
+        },
+        {
+          "text": "to drive the beast.",
+          "role": "M",
+          "sub": false,
+          "ko": "그 짐승을 몰기 위해."
+        }
+      ],
+      "skeleton": "A certain man hired an Ass, and started out",
+      "explanation": "주어 A certain man에 동사 hired와 started out이 and로 이어져 있어요. with the owner following behind는 'with + 사람 + -ing' 형태로 '주인이 뒤따라오는 상태로'라는 뜻이에요. to drive는 '몰기 위해'라는 목적이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "From words",
+          "role": "M",
+          "sub": false,
+          "ko": "말에서"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "번졌다"
+        },
+        {
+          "text": "to blows;",
+          "role": "M",
+          "sub": false,
+          "ko": "주먹다짐으로;"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "while",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~하는 동안"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "were belabouring",
+          "role": "V",
+          "sub": true,
+          "ko": "두들겨 패고 있는"
+        },
+        {
+          "text": "each other",
+          "role": "O",
+          "sub": true,
+          "ko": "서로를"
+        },
+        {
+          "text": "the Ass",
+          "role": "S",
+          "sub": false,
+          "ko": "당나귀는"
+        },
+        {
+          "text": "took to his heels",
+          "role": "V",
+          "sub": false,
+          "ko": "줄행랑을 쳤다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~이 되었다"
+        },
+        {
+          "text": "soon",
+          "role": "M",
+          "sub": false,
+          "ko": "곧"
+        },
+        {
+          "text": "out of sight.",
+          "role": "C",
+          "sub": false,
+          "ko": "보이지 않는 곳에."
+        }
+      ],
+      "skeleton": "they came to blows; the Ass took to his heels",
+      "explanation": "세미콜론(;)을 사이에 두고 두 사건이 이어져요. while이 이끄는 부분은 '그들이 서로 때리는 동안'이라는 시간 배경이고, 그 사이에 일어난 일(당나귀가 달아남)이 뼈대예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "to부정사의 부사적 용법 (~하기 위해)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "to drive the beast"
+      ],
+      "explanation": "to + 동사원형이 '~하기 위해'라는 목적을 나타낼 수 있어요. 주인이 뒤따라온 이유는 '짐승을 몰기 위해'예요. s2의 stopped to rest(쉬려고 멈췄다)도 같은 쓰임이에요.",
+      "example": {
+        "en": "I went to the library to borrow a book.",
+        "ko": "나는 책을 빌리기 위해 도서관에 갔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "let + 목적어 + 동사원형 (~하게 두다)",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "wouldn't let him do that"
+      ],
+      "explanation": "let은 '~하게 허락하다'라는 뜻으로, 뒤에 '사람 + 동사원형'이 와요(to를 쓰지 않아요). wouldn't let him do that은 '그가 그렇게 하도록 내버려 두려 하지 않았다'예요.",
+      "example": {
+        "en": "My parents let me stay up late on Fridays.",
+        "ko": "부모님은 금요일에는 내가 늦게까지 깨어 있게 해 주신다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거완료 (had + p.p.)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "he had hired the Ass only"
+      ],
+      "explanation": "had hired는 '말한(said) 때보다 더 전에 빌려주었다'는 뜻이에요. 과거의 어느 때보다 더 먼저 일어난 일을 나타낼 때 had + p.p.를 써요.",
+      "example": {
+        "en": "When I arrived, the movie had already started.",
+        "ko": "내가 도착했을 때 영화는 이미 시작했었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "certain": {
+      "lemma": "certain",
+      "pos": "adjective",
+      "ko": "어떤 (특정한)",
+      "form": null,
+      "synonyms": [
+        "particular",
+        "some"
+      ],
+      "ipa": "/ˈsɜːrtən/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow",
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "hired": {
+      "lemma": "hire",
+      "pos": "verb",
+      "ko": "(돈을 내고) 빌렸다",
+      "form": "과거형 / 과거분사",
+      "synonyms": [
+        "rented",
+        "leased"
+      ],
+      "ipa": "/ˈhaɪərd/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ass": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": null,
+      "synonyms": [
+        "donkey"
+      ],
+      "ipa": "/æs/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 동안; (접속사로) 왜냐하면",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "journey": {
+      "lemma": "journey",
+      "pos": "noun",
+      "ko": "여행, 여정",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "voyage"
+      ],
+      "ipa": "/ˈdʒɜːrni/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "summertime": {
+      "lemma": "summertime",
+      "pos": "noun",
+      "ko": "여름철",
+      "form": null,
+      "synonyms": [
+        "summer"
+      ],
+      "ipa": "/ˈsʌmərˌtaɪm/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "started": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(start out) 출발했다",
+      "form": "과거형",
+      "synonyms": [
+        "set off",
+        "began"
+      ],
+      "ipa": "/ˈstɑːrtɪd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로; (out of) ~에서 벗어나",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "(with + 명사 + -ing) ~가 …한 채로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "owner": {
+      "lemma": "owner",
+      "pos": "noun",
+      "ko": "주인, 소유자",
+      "form": null,
+      "synonyms": [
+        "master",
+        "keeper"
+      ],
+      "ipa": "/ˈoʊnər/"
+    },
+    "following": {
+      "lemma": "follow",
+      "pos": "verb",
+      "ko": "뒤따르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "trailing",
+        "coming after"
+      ],
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "adverb",
+      "ko": "뒤에서",
+      "form": null,
+      "synonyms": [
+        "after",
+        "at the back"
+      ],
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~에; (to부정사) ~하기 위해, ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "drive": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(가축을) 몰다",
+      "form": null,
+      "synonyms": [
+        "herd",
+        "steer"
+      ],
+      "ipa": "/draɪv/"
+    },
+    "beast": {
+      "lemma": "beast",
+      "pos": "noun",
+      "ko": "짐승",
+      "form": null,
+      "synonyms": [
+        "animal",
+        "creature"
+      ],
+      "ipa": "/biːst/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "adverb",
+      "ko": "(by and by) 얼마 후",
+      "form": null,
+      "synonyms": [],
+      "ipa": "/baɪ/"
+    },
+    "heat": {
+      "lemma": "heat",
+      "pos": "noun",
+      "ko": "더위, 열기",
+      "form": null,
+      "synonyms": [
+        "warmth",
+        "hotness"
+      ],
+      "ipa": "/hiːt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "낮, 하루",
+      "form": null,
+      "synonyms": [
+        "daytime"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은, 그것들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈췄다",
+      "form": "과거형",
+      "synonyms": [
+        "halted",
+        "paused"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "rest": {
+      "lemma": "rest",
+      "pos": "verb",
+      "ko": "쉬다",
+      "form": null,
+      "synonyms": [
+        "relax",
+        "take a break"
+      ],
+      "ipa": "/rɛst/"
+    },
+    "traveller": {
+      "lemma": "traveller",
+      "pos": "noun",
+      "ko": "여행자 (= traveler)",
+      "form": null,
+      "synonyms": [
+        "traveler",
+        "passenger"
+      ],
+      "ipa": "/ˈtrævələr/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원했다",
+      "form": "과거형",
+      "synonyms": [
+        "wished",
+        "desired"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "lie": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다",
+      "form": null,
+      "synonyms": [
+        "recline"
+      ],
+      "ipa": "/laɪ/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "(lie down) 누워, 아래로",
+      "form": null,
+      "synonyms": [
+        "flat"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "ass's": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀의",
+      "form": "소유격",
+      "synonyms": [
+        "donkey's"
+      ],
+      "ipa": "/ˈæsɪz/"
+    },
+    "shadow": {
+      "lemma": "shadow",
+      "pos": "noun",
+      "ko": "그림자, 그늘",
+      "form": null,
+      "synonyms": [
+        "shade"
+      ],
+      "ipa": "/ˈʃæˌdoʊ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신, 몸소",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "wished": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "바랐다",
+      "form": "과거형",
+      "synonyms": [
+        "wanted",
+        "desired"
+      ],
+      "ipa": "/wɪʃt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "synonyms": [],
+      "ipa": "/biː/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "햇볕, 해",
+      "form": null,
+      "synonyms": [
+        "sunshine",
+        "sunlight"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "wouldn't": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하려 하지 않았다 (would not)",
+      "form": "줄임말",
+      "ipa": "/ˈwʊdənt/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/duː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것, 그렇게 (지시대명사); (that절) ~라고",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (남성·수컷 3인칭)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "replied"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~만, 오직",
+      "form": null,
+      "synonyms": [
+        "just",
+        "solely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "synonyms": [],
+      "ipa": "/nɑːt/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "form": null,
+      "synonyms": [
+        "another",
+        "different"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "maintained": {
+      "lemma": "maintain",
+      "pos": "verb",
+      "ko": "주장했다",
+      "form": "과거형",
+      "synonyms": [
+        "insisted",
+        "claimed"
+      ],
+      "ipa": "/meɪnˈteɪnd/"
+    },
+    "bargain": {
+      "lemma": "bargain",
+      "pos": "noun",
+      "ko": "거래, 계약",
+      "form": null,
+      "synonyms": [
+        "deal",
+        "agreement"
+      ],
+      "ipa": "/ˈbɑːrɡən/"
+    },
+    "secured": {
+      "lemma": "secure",
+      "pos": "verb",
+      "ko": "확보해 주었다, 보장했다",
+      "form": "과거형",
+      "synonyms": [
+        "guaranteed",
+        "gained"
+      ],
+      "ipa": "/sɪˈkjʊrd/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "adjective",
+      "ko": "완전한",
+      "form": null,
+      "synonyms": [
+        "full",
+        "total"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "control": {
+      "lemma": "control",
+      "pos": "noun",
+      "ko": "지배, 통제(권)",
+      "form": null,
+      "synonyms": [
+        "command",
+        "power"
+      ],
+      "ipa": "/kənˈtroʊl/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "(for the time being) 당분간, 시간",
+      "form": null,
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(for the time being) 지금 있는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "existing"
+      ],
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "words": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "말, 말다툼",
+      "form": "복수형",
+      "synonyms": [
+        "talk",
+        "argument"
+      ],
+      "ipa": "/wɜːrdz/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(come to) ~에 이르렀다",
+      "form": "과거형",
+      "synonyms": [
+        "got",
+        "turned"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "blows": {
+      "lemma": "blow",
+      "pos": "noun",
+      "ko": "주먹질, 타격",
+      "form": "복수형",
+      "synonyms": [
+        "punches",
+        "hits"
+      ],
+      "ipa": "/bloʊz/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "synonyms": [],
+      "ipa": "/wɜːr/"
+    },
+    "belabouring": {
+      "lemma": "belabour",
+      "pos": "verb",
+      "ko": "마구 때리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beating",
+        "hitting"
+      ],
+      "ipa": "/bɪˈleɪbərɪŋ/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "(each other) 서로",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take to one's heels) 달아났다",
+      "form": "과거형",
+      "synonyms": [
+        "fled",
+        "ran"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "heels": {
+      "lemma": "heel",
+      "pos": "noun",
+      "ko": "발꿈치",
+      "form": "복수형",
+      "synonyms": [
+        "feet"
+      ],
+      "ipa": "/hiːlz/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거형",
+      "synonyms": [],
+      "ipa": "/wɑːz/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "quickly",
+        "shortly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "sight": {
+      "lemma": "sight",
+      "pos": "noun",
+      "ko": "시야, 보이는 범위",
+      "form": null,
+      "synonyms": [
+        "view"
+      ],
+      "ipa": "/saɪt/"
+    }
+  }
+}
