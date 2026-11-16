@@ -1,0 +1,1499 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-17-L2-3",
+  "date": "2026-11-17",
+  "level": 2,
+  "title": "The Soldier and His Horse",
+  "titleKo": "병사와 그의 말",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_18_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_18_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-5-fables-101-125",
+    "reader": "Lee Dunkelberg",
+    "durationSec": 98,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 05, 18번 트랙(전체 118번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 길이는 archive.org 파일 기준(LibriVox 페이지 표기는 1:18)"
+  },
+  "wordCount": 169,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "한 병사가 전쟁 때에 자기 말에게 귀리를 넉넉히 먹이고 정성을 다해 돌보았다. 말이 튼튼해서 전쟁터의 고생을 견뎌 내고, 필요할 때는 재빨리 주인을 태우고 위험이 닿지 않는 곳으로 달아날 수 있기를 바랐기 때문이다. 그러나 전쟁이 끝나자 병사는 말에게 온갖 고된 허드렛일을 시키면서 관심은 거의 주지 않았고, 게다가 먹이라고는 왕겨밖에 주지 않았다. 다시 전쟁이 일어날 때가 되자, 병사는 말에 안장과 굴레를 얹고 무거운 쇠사슬 갑옷을 입은 다음 말에 올라타 전쟁터로 떠나려 했다. 그러나 반쯤 굶주린 불쌍한 말은 그 무게에 그만 주저앉아 버렸고, 주인에게 말했다. \"이번에는 걸어서 싸움터에 나가셔야겠어요. 고된 일과 형편없는 먹이 덕분에 주인님은 저를 말에서 당나귀로 바꿔 놓으셨어요. 그러니 한순간에 저를 다시 말로 되돌릴 수는 없답니다.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Soldier gave his Horse a plentiful supply of oats in time of war, and tended him with the utmost care, for he wished him to be strong to endure the hardships of the field, and swift to bear his master, when need arose, out of the reach of danger.",
+      "ko": "한 병사가 전쟁 때에 자기 말에게 귀리를 넉넉히 먹이고 정성을 다해 돌보았다. 말이 튼튼해서 전쟁터의 고생을 견뎌 내고, 필요할 때는 재빨리 주인을 태우고 위험이 닿지 않는 곳으로 달아날 수 있기를 바랐기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "But when the war was over he employed him on all sorts of drudgery, bestowing but little attention upon him, and giving him, moreover, nothing but chaff to eat.",
+      "ko": "그러나 전쟁이 끝나자 병사는 말에게 온갖 고된 허드렛일을 시키면서 관심은 거의 주지 않았고, 게다가 먹이라고는 왕겨밖에 주지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The time came when war broke out again, and the Soldier saddled and bridled his Horse, and, having put on his heavy coat of mail, mounted him to ride off and take the field.",
+      "ko": "다시 전쟁이 일어날 때가 되자, 병사는 말에 안장과 굴레를 얹고 무거운 쇠사슬 갑옷을 입은 다음 말에 올라타 전쟁터로 떠나려 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But the poor half-starved beast sank down under his weight, and said to his rider, \"You will have to go into battle on foot this time.",
+      "ko": "그러나 반쯤 굶주린 불쌍한 말은 그 무게에 그만 주저앉아 버렸고, 주인에게 말했다. \"이번에는 걸어서 싸움터에 나가셔야겠어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Thanks to hard work and bad food, you have turned me from a Horse into an ass; and you cannot in a moment turn me back again into a Horse.\"",
+      "ko": "고된 일과 형편없는 먹이 덕분에 주인님은 저를 말에서 당나귀로 바꿔 놓으셨어요. 그러니 한순간에 저를 다시 말로 되돌릴 수는 없답니다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "plentiful",
+      "pos": "adjective",
+      "meaningKo": "풍부한, 넉넉한",
+      "ipa": "/ˈplɛntɪfəl/",
+      "synonyms": [
+        "abundant",
+        "ample",
+        "generous"
+      ],
+      "matchText": "plentiful",
+      "sentenceId": "s1",
+      "example": {
+        "en": "There was a plentiful supply of food at the party.",
+        "ko": "파티에는 음식이 넉넉하게 준비되어 있었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "endure",
+      "pos": "verb",
+      "meaningKo": "견디다, 참다",
+      "ipa": "/ɪnˈdʊr/",
+      "synonyms": [
+        "bear",
+        "stand",
+        "survive"
+      ],
+      "matchText": "endure",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The plants could not endure the cold winter.",
+        "ko": "그 식물들은 추운 겨울을 견디지 못했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "drudgery",
+      "pos": "noun",
+      "meaningKo": "고되고 지루한 일, 허드렛일",
+      "ipa": "/ˈdrʌdʒəri/",
+      "synonyms": [
+        "hard labor",
+        "toil",
+        "chores"
+      ],
+      "matchText": "drudgery",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Washing dishes every day can feel like drudgery.",
+        "ko": "매일 설거지하는 것은 고된 일처럼 느껴질 수 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "break out",
+      "pos": "phrasal-verb",
+      "meaningKo": "(전쟁·화재 등이) 일어나다, 발발하다",
+      "ipa": "/breɪk aʊt/",
+      "synonyms": [
+        "start",
+        "begin",
+        "erupt"
+      ],
+      "matchText": "broke out",
+      "sentenceId": "s3",
+      "example": {
+        "en": "A fire broke out in the kitchen last night.",
+        "ko": "어젯밤 부엌에서 불이 났다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "thanks to",
+      "pos": "phrase",
+      "meaningKo": "~ 덕분에, ~ 때문에",
+      "ipa": "/θæŋks tuː/",
+      "synonyms": [
+        "because of",
+        "owing to"
+      ],
+      "matchText": "Thanks to",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Thanks to your help, I finished on time.",
+        "ko": "네 도움 덕분에 나는 제시간에 끝냈다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Soldier",
+          "role": "S",
+          "sub": false,
+          "ko": "한 병사가"
+        },
+        {
+          "text": "gave",
+          "role": "V",
+          "sub": false,
+          "ko": "주었다"
+        },
+        {
+          "text": "his Horse",
+          "role": "IO",
+          "sub": false,
+          "ko": "자기 말에게"
+        },
+        {
+          "text": "a plentiful supply of oats",
+          "role": "O",
+          "sub": false,
+          "ko": "넉넉한 귀리를"
+        },
+        {
+          "text": "in time of war,",
+          "role": "M",
+          "sub": false,
+          "ko": "전쟁 때에,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "tended",
+          "role": "V",
+          "sub": false,
+          "ko": "돌보았다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그(말)를"
+        },
+        {
+          "text": "with the utmost care,",
+          "role": "M",
+          "sub": false,
+          "ko": "온 정성을 다해,"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "wished",
+          "role": "V",
+          "sub": true,
+          "ko": "바랐다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그(말)가"
+        },
+        {
+          "text": "to be strong",
+          "role": "OC",
+          "sub": true,
+          "ko": "튼튼하기를"
+        },
+        {
+          "text": "to endure the hardships of the field,",
+          "role": "M",
+          "sub": true,
+          "ko": "전쟁터의 고생을 견딜 만큼,"
+        },
+        {
+          "text": "and swift",
+          "role": "OC",
+          "sub": true,
+          "ko": "그리고 빠르기를"
+        },
+        {
+          "text": "to bear his master,",
+          "role": "M",
+          "sub": true,
+          "ko": "주인을 태우고 갈 수 있을 만큼,"
+        },
+        {
+          "text": "when need arose,",
+          "role": "M",
+          "sub": true,
+          "ko": "필요할 때,"
+        },
+        {
+          "text": "out of the reach of danger.",
+          "role": "M",
+          "sub": true,
+          "ko": "위험이 닿지 않는 곳으로."
+        }
+      ],
+      "skeleton": "A Soldier gave his Horse oats, and tended him",
+      "explanation": "앞부분은 '주다' 동사 뒤에 '~에게(IO) + ~을(O)'이 오는 4형식이에요. for 뒤는 그 이유이고, wish A to be B는 'A가 B이기를 바라다'예요. to endure, to bear는 '~할 수 있을 만큼'이라는 뜻으로 strong과 swift를 꾸며요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~했을 때"
+        },
+        {
+          "text": "the war",
+          "role": "S",
+          "sub": true,
+          "ko": "전쟁이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "over",
+          "role": "C",
+          "sub": true,
+          "ko": "끝난,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "employed",
+          "role": "V",
+          "sub": false,
+          "ko": "부렸다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그(말)를"
+        },
+        {
+          "text": "on all sorts of drudgery,",
+          "role": "M",
+          "sub": false,
+          "ko": "온갖 고된 일에,"
+        },
+        {
+          "text": "bestowing but little attention upon him,",
+          "role": "M",
+          "sub": false,
+          "ko": "그에게 관심은 거의 주지 않으면서,"
+        },
+        {
+          "text": "and giving him,",
+          "role": "M",
+          "sub": false,
+          "ko": "그리고 그에게 주면서,"
+        },
+        {
+          "text": "moreover,",
+          "role": "M",
+          "sub": false,
+          "ko": "게다가,"
+        },
+        {
+          "text": "nothing but chaff to eat.",
+          "role": "M",
+          "sub": false,
+          "ko": "먹을 것으로 왕겨만."
+        }
+      ],
+      "skeleton": "he employed him on all sorts of drudgery",
+      "explanation": "when절(전쟁이 끝났을 때) 뒤에 뼈대가 와요. bestowing ~과 giving ~은 '~하면서'라는 뜻의 분사구문으로, 병사가 말을 어떻게 대했는지 덧붙여요. but little은 '거의 ~ 않는', nothing but은 '~ 말고는 아무것도 없는(오직 ~만)'이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Thanks to hard work and bad food,",
+          "role": "M",
+          "sub": false,
+          "ko": "고된 일과 나쁜 먹이 덕분에,"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "주인님은"
+        },
+        {
+          "text": "have turned",
+          "role": "V",
+          "sub": false,
+          "ko": "바꿔 놓았다"
+        },
+        {
+          "text": "me",
+          "role": "O",
+          "sub": false,
+          "ko": "나를"
+        },
+        {
+          "text": "from a Horse",
+          "role": "M",
+          "sub": false,
+          "ko": "말에서"
+        },
+        {
+          "text": "into an ass;",
+          "role": "M",
+          "sub": false,
+          "ko": "당나귀로;"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "주인님은"
+        },
+        {
+          "text": "cannot",
+          "role": "V",
+          "sub": false,
+          "ko": "~할 수 없다"
+        },
+        {
+          "text": "in a moment",
+          "role": "M",
+          "sub": false,
+          "ko": "한순간에"
+        },
+        {
+          "text": "turn",
+          "role": "V",
+          "sub": false,
+          "ko": "바꾸다"
+        },
+        {
+          "text": "me",
+          "role": "O",
+          "sub": false,
+          "ko": "나를"
+        },
+        {
+          "text": "back again",
+          "role": "M",
+          "sub": false,
+          "ko": "다시 되돌려"
+        },
+        {
+          "text": "into a Horse.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "말로.\""
+        }
+      ],
+      "skeleton": "you have turned me into an ass; you cannot turn me back",
+      "explanation": "turn A into B는 'A를 B로 바꾸다'예요. 앞 절은 현재완료(have turned)로 '이미 바꿔 놓았다'는 결과를, 뒤 절은 cannot ... turn으로 '되돌릴 수 없다'를 말해요. 여기서 thanks to는 고마움이 아니라 비꼬는 말투로 '~ 때문에'라는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "wish + 목적어 + to 동사원형",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "wished him to be strong"
+      ],
+      "explanation": "wish A to B는 'A가 B하기를 바라다'예요. want A to B와 같은 형태예요. 병사는 말이 '튼튼하기를' 바랐어요.",
+      "example": {
+        "en": "My parents want me to be healthy.",
+        "ko": "부모님은 내가 건강하기를 바라신다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "분사구문 (having + p.p.)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "having put on his heavy coat of mail"
+      ],
+      "explanation": "having + p.p.는 주절보다 먼저 일어난 일을 나타내는 분사구문이에요. '무거운 갑옷을 입은 다음에(먼저 입고) 말에 올라탔다'는 순서를 보여 줘요.",
+      "example": {
+        "en": "Having finished my homework, I went out to play.",
+        "ko": "숙제를 끝낸 뒤에 나는 놀러 나갔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "have to (~해야 한다)",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "will have to go"
+      ],
+      "explanation": "have to + 동사원형은 '~해야 한다'라는 뜻이에요. will과 must는 함께 쓸 수 없어서, 미래의 의무는 will have to로 나타내요. '(이번에는) 걸어서 가셔야 할 거예요'라는 뜻이에요.",
+      "example": {
+        "en": "You will have to wait for the next bus.",
+        "ko": "너는 다음 버스를 기다려야 할 거야."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "soldier": {
+      "lemma": "soldier",
+      "pos": "noun",
+      "ko": "병사, 군인",
+      "form": null,
+      "synonyms": [
+        "warrior",
+        "fighter"
+      ],
+      "ipa": "/ˈsoʊldʒər/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주었다",
+      "form": "과거형",
+      "synonyms": [
+        "provided",
+        "supplied"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "horse": {
+      "lemma": "horse",
+      "pos": "noun",
+      "ko": "말",
+      "form": null,
+      "synonyms": [
+        "steed",
+        "mount"
+      ],
+      "ipa": "/hɔːrs/"
+    },
+    "plentiful": {
+      "lemma": "plentiful",
+      "pos": "adjective",
+      "ko": "풍부한, 넉넉한",
+      "form": null,
+      "synonyms": [
+        "abundant",
+        "ample"
+      ],
+      "ipa": "/ˈplɛntəfəl/"
+    },
+    "supply": {
+      "lemma": "supply",
+      "pos": "noun",
+      "ko": "공급(량)",
+      "form": null,
+      "synonyms": [
+        "stock",
+        "amount"
+      ],
+      "ipa": "/səˈplaɪ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "oats": {
+      "lemma": "oat",
+      "pos": "noun",
+      "ko": "귀리 (말의 먹이)",
+      "form": "복수형",
+      "synonyms": [
+        "grain",
+        "feed"
+      ],
+      "ipa": "/oʊts/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 때에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시기",
+      "form": null,
+      "synonyms": [
+        "period",
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "war": {
+      "lemma": "war",
+      "pos": "noun",
+      "ko": "전쟁",
+      "form": null,
+      "synonyms": [
+        "battle",
+        "conflict"
+      ],
+      "ipa": "/wɔːr/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "tended": {
+      "lemma": "tend",
+      "pos": "verb",
+      "ko": "돌보았다",
+      "form": "과거형",
+      "synonyms": [
+        "cared for",
+        "looked after"
+      ],
+      "ipa": "/ˈtɛndɪd/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "utmost": {
+      "lemma": "utmost",
+      "pos": "adjective",
+      "ko": "최대한의, 극도의",
+      "form": null,
+      "synonyms": [
+        "greatest",
+        "highest"
+      ],
+      "ipa": "/ˈʌtˌmoʊst/"
+    },
+    "care": {
+      "lemma": "care",
+      "pos": "noun",
+      "ko": "보살핌, 정성",
+      "form": null,
+      "synonyms": [
+        "attention",
+        "concern"
+      ],
+      "ipa": "/kɛr/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (남성·수컷 3인칭)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "wished": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "바랐다",
+      "form": "과거형",
+      "synonyms": [
+        "wanted",
+        "hoped"
+      ],
+      "ipa": "/wɪʃt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기를, ~할 수 있도록; (전치사) ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "synonyms": [],
+      "ipa": "/biː/"
+    },
+    "strong": {
+      "lemma": "strong",
+      "pos": "adjective",
+      "ko": "튼튼한, 힘센",
+      "form": null,
+      "synonyms": [
+        "sturdy",
+        "powerful"
+      ],
+      "ipa": "/strɔːŋ/"
+    },
+    "endure": {
+      "lemma": "endure",
+      "pos": "verb",
+      "ko": "견디다",
+      "form": null,
+      "synonyms": [
+        "bear",
+        "withstand"
+      ],
+      "ipa": "/ɛndˈjʊr/"
+    },
+    "hardships": {
+      "lemma": "hardship",
+      "pos": "noun",
+      "ko": "고생, 고난",
+      "form": "복수형",
+      "synonyms": [
+        "difficulties",
+        "troubles"
+      ],
+      "ipa": "/ˈhɑːrdʃɪps/"
+    },
+    "field": {
+      "lemma": "field",
+      "pos": "noun",
+      "ko": "전쟁터, 싸움터",
+      "form": null,
+      "synonyms": [
+        "battlefield"
+      ],
+      "ipa": "/fiːld/"
+    },
+    "swift": {
+      "lemma": "swift",
+      "pos": "adjective",
+      "ko": "빠른, 날랜",
+      "form": null,
+      "synonyms": [
+        "fast",
+        "quick"
+      ],
+      "ipa": "/swɪft/"
+    },
+    "bear": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(사람을) 태우고 가다, 나르다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "convey"
+      ],
+      "ipa": "/bɛr/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "owner",
+        "rider"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때; (관계부사) ~하는 (때)",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "noun",
+      "ko": "필요",
+      "form": null,
+      "synonyms": [
+        "necessity",
+        "demand"
+      ],
+      "ipa": "/niːd/"
+    },
+    "arose": {
+      "lemma": "arise",
+      "pos": "verb",
+      "ko": "생기다, 일어나다",
+      "form": "과거형",
+      "synonyms": [
+        "came up",
+        "occurred"
+      ],
+      "ipa": "/əˈroʊz/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~ 밖으로; (break out) 일어나",
+      "form": null,
+      "synonyms": [
+        "away",
+        "beyond"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "noun",
+      "ko": "닿는 범위",
+      "form": null,
+      "synonyms": [
+        "range",
+        "grasp"
+      ],
+      "ipa": "/riːtʃ/"
+    },
+    "danger": {
+      "lemma": "danger",
+      "pos": "noun",
+      "ko": "위험",
+      "form": null,
+      "synonyms": [
+        "peril",
+        "threat"
+      ],
+      "ipa": "/ˈdeɪndʒər/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나; (but little) 거의 ~ 않는; (nothing but) ~ 말고는",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거형",
+      "synonyms": [],
+      "ipa": "/wɑːz/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "adjective",
+      "ko": "끝난",
+      "form": null,
+      "synonyms": [
+        "finished",
+        "ended"
+      ],
+      "ipa": "/ˈoʊvər/"
+    },
+    "employed": {
+      "lemma": "employ",
+      "pos": "verb",
+      "ko": "(일에) 부렸다, 썼다",
+      "form": "과거형",
+      "synonyms": [
+        "used",
+        "put to work"
+      ],
+      "ipa": "/ɛmˈplɔɪd/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에; (put on) 입다; (on foot) 걸어서",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 온갖",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "sorts": {
+      "lemma": "sort",
+      "pos": "noun",
+      "ko": "종류",
+      "form": "복수형",
+      "synonyms": [
+        "kinds",
+        "types"
+      ],
+      "ipa": "/sɔːrts/"
+    },
+    "drudgery": {
+      "lemma": "drudgery",
+      "pos": "noun",
+      "ko": "고되고 지루한 일",
+      "form": null,
+      "synonyms": [
+        "toil",
+        "chores"
+      ],
+      "ipa": "/ˈdrʌdʒəri/"
+    },
+    "bestowing": {
+      "lemma": "bestow",
+      "pos": "verb",
+      "ko": "주다, 베풀다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "giving",
+        "granting"
+      ],
+      "ipa": "/bɪˈstoʊɪŋ/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "거의 없는, 적은",
+      "form": null,
+      "synonyms": [
+        "hardly any",
+        "scant"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "attention": {
+      "lemma": "attention",
+      "pos": "noun",
+      "ko": "관심, 보살핌",
+      "form": null,
+      "synonyms": [
+        "care",
+        "notice"
+      ],
+      "ipa": "/əˈtɛnʃən/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에게 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "giving": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "providing",
+        "handing"
+      ],
+      "ipa": "/ˈɡɪvɪŋ/"
+    },
+    "moreover": {
+      "lemma": "moreover",
+      "pos": "adverb",
+      "ko": "게다가",
+      "form": null,
+      "synonyms": [
+        "besides",
+        "furthermore"
+      ],
+      "ipa": "/mɔˈroʊvər/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 없음",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "chaff": {
+      "lemma": "chaff",
+      "pos": "noun",
+      "ko": "왕겨, 겨 (곡식 껍질)",
+      "form": null,
+      "synonyms": [
+        "husks"
+      ],
+      "ipa": "/tʃæf/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": null,
+      "synonyms": [
+        "feed on",
+        "consume"
+      ],
+      "ipa": "/iːt/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다",
+      "form": "과거형",
+      "synonyms": [
+        "arrived"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "broke": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "(break out) 일어났다, 발발했다",
+      "form": "과거형",
+      "synonyms": [
+        "started",
+        "erupted"
+      ],
+      "ipa": "/broʊk/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "saddled": {
+      "lemma": "saddle",
+      "pos": "verb",
+      "ko": "안장을 얹었다",
+      "form": "과거형",
+      "synonyms": [
+        "harnessed"
+      ],
+      "ipa": "/ˈsædəld/"
+    },
+    "bridled": {
+      "lemma": "bridle",
+      "pos": "verb",
+      "ko": "굴레를 씌웠다",
+      "form": "과거형",
+      "synonyms": [
+        "harnessed",
+        "reined"
+      ],
+      "ipa": "/ˈbraɪdəld/"
+    },
+    "having": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(having p.p.) ~하고 나서",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈhævɪŋ/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "(put on) 입다",
+      "form": "과거분사",
+      "synonyms": [
+        "dressed in",
+        "wore"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "무거운",
+      "form": null,
+      "synonyms": [
+        "weighty",
+        "bulky"
+      ],
+      "ipa": "/ˈhɛvi/"
+    },
+    "coat": {
+      "lemma": "coat",
+      "pos": "noun",
+      "ko": "(coat of mail) 갑옷, 외투",
+      "form": null,
+      "synonyms": [
+        "armor",
+        "jacket"
+      ],
+      "ipa": "/koʊt/"
+    },
+    "mail": {
+      "lemma": "mail",
+      "pos": "noun",
+      "ko": "(coat of mail) 사슬 갑옷",
+      "form": null,
+      "synonyms": [
+        "armor",
+        "chain mail"
+      ],
+      "ipa": "/meɪl/"
+    },
+    "mounted": {
+      "lemma": "mount",
+      "pos": "verb",
+      "ko": "(말에) 올라탔다",
+      "form": "과거형",
+      "synonyms": [
+        "got on",
+        "climbed on"
+      ],
+      "ipa": "/ˈmaʊntəd/"
+    },
+    "ride": {
+      "lemma": "ride",
+      "pos": "verb",
+      "ko": "(말을) 타고 가다",
+      "form": null,
+      "synonyms": [
+        "travel",
+        "go"
+      ],
+      "ipa": "/raɪd/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "떠나서, 멀리",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take the field) 전투에 나가다",
+      "form": null,
+      "synonyms": [
+        "enter",
+        "go into"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "불쌍한, 가엾은",
+      "form": null,
+      "synonyms": [
+        "pitiful",
+        "wretched"
+      ],
+      "ipa": "/puːr/"
+    },
+    "half-starved": {
+      "lemma": "half-starved",
+      "pos": "adjective",
+      "ko": "반쯤 굶주린",
+      "form": null,
+      "synonyms": [
+        "hungry",
+        "underfed"
+      ],
+      "ipa": "/hæf-stɑːrvd/"
+    },
+    "beast": {
+      "lemma": "beast",
+      "pos": "noun",
+      "ko": "짐승",
+      "form": null,
+      "synonyms": [
+        "animal",
+        "creature"
+      ],
+      "ipa": "/biːst/"
+    },
+    "sank": {
+      "lemma": "sink",
+      "pos": "verb",
+      "ko": "(sink down) 주저앉았다",
+      "form": "과거형",
+      "synonyms": [
+        "collapsed",
+        "dropped"
+      ],
+      "ipa": "/sæŋk/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래에, ~에 눌려",
+      "form": null,
+      "ipa": "/ˈʌndər/"
+    },
+    "weight": {
+      "lemma": "weight",
+      "pos": "noun",
+      "ko": "무게",
+      "form": null,
+      "synonyms": [
+        "load",
+        "heaviness"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "replied"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "rider": {
+      "lemma": "rider",
+      "pos": "noun",
+      "ko": "탄 사람, 기수",
+      "form": null,
+      "synonyms": [
+        "horseman",
+        "master"
+      ],
+      "ipa": "/ˈraɪdər/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have to) ~해야 하다; (현재완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "head",
+        "travel"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로, ~으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "battle": {
+      "lemma": "battle",
+      "pos": "noun",
+      "ko": "전투, 싸움",
+      "form": null,
+      "synonyms": [
+        "fight",
+        "combat"
+      ],
+      "ipa": "/ˈbætəl/"
+    },
+    "foot": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "(on foot) 걸어서; 발",
+      "form": null,
+      "synonyms": [
+        "walking"
+      ],
+      "ipa": "/fʊt/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "thanks": {
+      "lemma": "thanks",
+      "pos": "noun",
+      "ko": "(thanks to) ~ 덕분에, ~ 때문에",
+      "form": null,
+      "synonyms": [
+        "because of",
+        "owing to"
+      ],
+      "ipa": "/θæŋks/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adjective",
+      "ko": "고된, 힘든",
+      "form": null,
+      "synonyms": [
+        "tough",
+        "heavy"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일, 노동",
+      "form": null,
+      "synonyms": [
+        "labor",
+        "toil"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "bad": {
+      "lemma": "bad",
+      "pos": "adjective",
+      "ko": "나쁜, 형편없는",
+      "form": null,
+      "synonyms": [
+        "poor",
+        "awful"
+      ],
+      "ipa": "/bæd/"
+    },
+    "food": {
+      "lemma": "food",
+      "pos": "noun",
+      "ko": "음식, 먹이",
+      "form": null,
+      "synonyms": [
+        "feed",
+        "fodder"
+      ],
+      "ipa": "/fuːd/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn A into B) 바꾸다",
+      "form": "과거분사",
+      "synonyms": [
+        "changed",
+        "transformed"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ass": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": null,
+      "synonyms": [
+        "donkey"
+      ],
+      "ipa": "/æs/"
+    },
+    "cannot": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "부정형",
+      "ipa": "/ˈkænɑt/"
+    },
+    "moment": {
+      "lemma": "moment",
+      "pos": "noun",
+      "ko": "순간",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "second"
+      ],
+      "ipa": "/ˈmoʊmənt/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn back into) 되돌리다, 바꾸다",
+      "form": null,
+      "synonyms": [
+        "change",
+        "transform"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "원래대로, 되돌려",
+      "form": null,
+      "synonyms": [
+        "again"
+      ],
+      "ipa": "/bæk/"
+    }
+  }
+}
