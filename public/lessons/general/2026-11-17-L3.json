@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-17-L3",
+  "date": "2026-11-17",
+  "level": 3,
+  "title": "The Fir Tree",
+  "titleKo": "전나무",
+  "genre": "fairy-tale",
+  "tags": [
+    "Hans Christian Andersen",
+    "fairy tale",
+    "growing up"
+  ],
+  "source": {
+    "work": "The Fir Tree (in Andersen's Fairy Tales)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1844,
+    "edition": "Project Gutenberg #1597",
+    "url": "https://www.gutenberg.org/ebooks/1597",
+    "license": "public-domain",
+    "excerptNote": "'The Fir Tree' 첫머리 1~4단락 (‘Out in the woods stood a nice little Fir Tree.’부터 ‘…with as much stateliness as the others!’’까지, 244단어). 다음 단락까지 넣으면 267단어라 넷째 단락(전나무의 한숨)에서 끊음. PG #1597 영어 번역 (Gutenberg에 번역자 표기 없음). gutenberg.org 점검 중이라 archive.org에 보관된 같은 전자책(PG #1597, hcaft10.txt)에서 가져왔고, 줄바꿈만 공백 하나로 이음 (따옴표는 원문 그대로 곧은 따옴표 \")."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_05_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_05_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/andersens-fairy-tales-by-hc-andersen/",
+    "reader": "Taylor Burton-Edward",
+    "durationSec": 1539,
+    "startSec": 20,
+    "endSec": 115,
+    "note": "LibriVox 'Andersen's Fairy Tales'(PG #1597 낭독) 5번 트랙 'The Fir Tree'(25:38) 중 첫머리. 안내 멘트 뒤 약 0:20~1:55 부분 (단어 수로 어림한 위치)"
+  },
+  "wordCount": 244,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "숲 속에 아담하고 작은 전나무 한 그루가 서 있었다. 전나무가 자리 잡은 곳은 아주 좋은 곳이었다. 햇볕이 잘 들었고, 신선한 공기도 넉넉했으며, 주위에는 소나무와 전나무 같은 커다란 친구들이 많이 자라고 있었다. 하지만 작은 전나무는 어서 다 자란 큰 나무가 되고 싶어 견딜 수가 없었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "전나무는 따뜻한 햇볕도, 신선한 공기도 대수롭지 않게 여겼다. 산딸기를 따러 숲에 와서 뛰어다니며 재잘거리는 오두막집 아이들에게도 관심이 없었다. 아이들은 종종 산딸기를 한 주전자 가득 담아 오거나 지푸라기에 길게 꿰어 와서는, 어린 나무 곁에 앉아 이렇게 말했다. “어머, 정말 예쁘다! 정말 귀여운 작은 전나무야!” 그런데 전나무는 바로 그 말을 듣는 것이 견딜 수 없었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "한 해가 지나자 전나무는 꽤 많이 자랐고, 또 한 해가 지나자 한 마디만큼 더 커졌다. 전나무는 새로 자란 마디를 보면 몇 살인지 언제나 알 수 있기 때문이다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "ko": "“아아! 내가 저 다른 나무들처럼 키가 크기만 하다면!” 전나무는 한숨을 쉬었다. “그러면 가지를 활짝 뻗고, 꼭대기로 넓은 세상을 내다볼 수 있을 텐데! 그러면 새들이 내 가지 사이에 둥지를 틀겠지. 그리고 바람이 불면 나도 다른 나무들처럼 위풍당당하게 몸을 굽힐 수 있을 텐데!”"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Out in the woods stood a nice little Fir Tree.",
+      "ko": "숲 속에 아담하고 작은 전나무 한 그루가 서 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The place he had was a very good one: the sun shone on him: as to fresh air, there was enough of that, and round him grew many large-sized comrades, pines as well as firs.",
+      "ko": "전나무가 자리 잡은 곳은 아주 좋은 곳이었다. 햇볕이 잘 들었고, 신선한 공기도 넉넉했으며, 주위에는 소나무와 전나무 같은 커다란 친구들이 많이 자라고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But the little Fir wanted so very much to be a grown-up tree.",
+      "ko": "하지만 작은 전나무는 어서 다 자란 큰 나무가 되고 싶어 견딜 수가 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "He did not think of the warm sun and of the fresh air; he did not care for the little cottage children that ran about and prattled when they were in the woods looking for wild-strawberries.",
+      "ko": "전나무는 따뜻한 햇볕도, 신선한 공기도 대수롭지 않게 여겼다. 산딸기를 따러 숲에 와서 뛰어다니며 재잘거리는 오두막집 아이들에게도 관심이 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "The children often came with a whole pitcher full of berries, or a long row of them threaded on a straw, and sat down near the young tree and said, \"Oh, how pretty he is!",
+      "ko": "아이들은 종종 산딸기를 한 주전자 가득 담아 오거나 지푸라기에 길게 꿰어 와서는, 어린 나무 곁에 앉아 이렇게 말했다. “어머, 정말 예쁘다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "What a nice little fir!\"",
+      "ko": "정말 귀여운 작은 전나무야!”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "But this was what the Tree could not bear to hear.",
+      "ko": "그런데 전나무는 바로 그 말을 듣는 것이 견딜 수 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "At the end of a year he had shot up a good deal, and after another year he was another long bit taller; for with fir trees one can always tell by the shoots how many years old they are.",
+      "ko": "한 해가 지나자 전나무는 꽤 많이 자랐고, 또 한 해가 지나자 한 마디만큼 더 커졌다. 전나무는 새로 자란 마디를 보면 몇 살인지 언제나 알 수 있기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "\"Oh!",
+      "ko": "“아아!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Were I but such a high tree as the others are,\" sighed he.",
+      "ko": "내가 저 다른 나무들처럼 키가 크기만 하다면!” 전나무는 한숨을 쉬었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "\"Then I should be able to spread out my branches, and with the tops to look into the wide world!",
+      "ko": "“그러면 가지를 활짝 뻗고, 꼭대기로 넓은 세상을 내다볼 수 있을 텐데!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p4",
+      "en": "Then would the birds build nests among my branches: and when there was a breeze, I could bend with as much stateliness as the others!\"",
+      "ko": "그러면 새들이 내 가지 사이에 둥지를 틀겠지. 그리고 바람이 불면 나도 다른 나무들처럼 위풍당당하게 몸을 굽힐 수 있을 텐데!”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "comrade",
+      "pos": "noun",
+      "meaningKo": "동료, 친구, 벗",
+      "ipa": "/ˈkɑmræd/",
+      "synonyms": [
+        "companion",
+        "fellow",
+        "friend"
+      ],
+      "matchText": "comrades",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The old soldier met his comrades from the war every year.",
+        "ko": "그 노병은 매년 전쟁 때의 전우들을 만났다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "prattle",
+      "pos": "verb",
+      "meaningKo": "(아이처럼) 재잘거리다, 종알거리다",
+      "ipa": "/ˈprætəl/",
+      "synonyms": [
+        "chatter",
+        "babble"
+      ],
+      "matchText": "prattled",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The little girl prattled about her new puppy all the way home.",
+        "ko": "꼬마는 집에 오는 내내 새 강아지 이야기를 재잘거렸다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "can't bear to",
+      "pos": "phrase",
+      "meaningKo": "~하는 것을 견딜 수 없다, 참을 수 없다",
+      "ipa": "/kænt bɛr tu/",
+      "synonyms": [
+        "can't stand",
+        "can't endure"
+      ],
+      "matchText": "could not bear to hear",
+      "sentenceId": "s7",
+      "example": {
+        "en": "She could not bear to see the puppy cry.",
+        "ko": "그녀는 강아지가 우는 것을 차마 볼 수 없었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "shoot up",
+      "pos": "phrasal-verb",
+      "meaningKo": "(키가) 부쩍 자라다, 쑥쑥 크다",
+      "ipa": "/ʃut ʌp/",
+      "synonyms": [
+        "grow quickly",
+        "spring up"
+      ],
+      "matchText": "shot up",
+      "sentenceId": "s8",
+      "example": {
+        "en": "My little brother shot up ten centimeters last year.",
+        "ko": "내 남동생은 작년에 키가 10센티미터나 부쩍 컸다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "stateliness",
+      "pos": "noun",
+      "meaningKo": "위엄, 당당함, 장엄함",
+      "ipa": "/ˈsteɪtlinəs/",
+      "synonyms": [
+        "dignity",
+        "grandeur",
+        "majesty"
+      ],
+      "matchText": "stateliness",
+      "sentenceId": "s12",
+      "example": {
+        "en": "The old castle stood on the hill with great stateliness.",
+        "ko": "그 오래된 성은 언덕 위에 위풍당당하게 서 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Out in the woods",
+          "role": "M",
+          "sub": false,
+          "ko": "숲 속에"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "sub": false,
+          "ko": "서 있었다"
+        },
+        {
+          "text": "a nice little Fir Tree.",
+          "role": "S",
+          "sub": false,
+          "ko": "아담하고 작은 전나무 한 그루가"
+        }
+      ],
+      "skeleton": "stood a Fir Tree (= a Fir Tree stood)",
+      "explanation": "장소를 나타내는 부사구 Out in the woods가 문장 맨 앞에 나오면서 동사 stood가 주어 a nice little Fir Tree보다 먼저 왔다(도치). 원래 어순은 A nice little Fir Tree stood out in the woods.이다. 동화 첫머리에서 배경과 주인공을 소개할 때 자주 쓰는 방식이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "He",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "did not think",
+          "role": "V",
+          "sub": false,
+          "ko": "생각하지 않았다"
+        },
+        {
+          "text": "of the warm sun and of the fresh air;",
+          "role": "M",
+          "sub": false,
+          "ko": "따뜻한 햇볕과 신선한 공기에 대해"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "did not care",
+          "role": "V",
+          "sub": false,
+          "ko": "관심이 없었다"
+        },
+        {
+          "text": "for the little cottage children",
+          "role": "M",
+          "sub": false,
+          "ko": "작은 오두막집 아이들에게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 아이들은)"
+        },
+        {
+          "text": "ran about and prattled",
+          "role": "V",
+          "sub": true,
+          "ko": "뛰어다니며 재잘거렸다"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": true,
+          "ko": "있었다"
+        },
+        {
+          "text": "in the woods",
+          "role": "M",
+          "sub": true,
+          "ko": "숲 속에"
+        },
+        {
+          "text": "looking for wild-strawberries.",
+          "role": "M",
+          "sub": true,
+          "ko": "산딸기를 찾으면서"
+        }
+      ],
+      "skeleton": "He did not think of ~; he did not care for the children",
+      "explanation": "세미콜론(;)으로 두 문장이 이어져 있다. 뒤 문장에서 that ran about and prattled는 the little cottage children을 꾸미는 관계대명사절이고, 그 안의 when절은 아이들이 언제 그랬는지를 알려 준다. looking for wild-strawberries는 '산딸기를 찾으면서'라는 뜻의 분사구다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "Were",
+          "role": "V",
+          "sub": false,
+          "ko": "~라면"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": false,
+          "ko": "내가"
+        },
+        {
+          "text": "but",
+          "role": "M",
+          "sub": false,
+          "ko": "단지, ~기만"
+        },
+        {
+          "text": "such a high tree",
+          "role": "C",
+          "sub": false,
+          "ko": "그렇게 키 큰 나무"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~처럼"
+        },
+        {
+          "text": "the others",
+          "role": "S",
+          "sub": true,
+          "ko": "다른 나무들이"
+        },
+        {
+          "text": "are,\"",
+          "role": "V",
+          "sub": true,
+          "ko": "그런 것"
+        },
+        {
+          "text": "sighed",
+          "role": "V",
+          "sub": false,
+          "ko": "한숨을 쉬었다"
+        },
+        {
+          "text": "he.",
+          "role": "S",
+          "sub": false,
+          "ko": "그가"
+        }
+      ],
+      "skeleton": "(If I were such a high tree!) sighed he",
+      "explanation": "Were I ~ 는 If I were ~ 에서 if를 빼고 동사 were를 주어 앞으로 보낸 가정법 표현이다. 뒤에 결과절 없이 '~이기만 하면 좋을 텐데!'라는 소원을 나타낸다. but은 여기서 '단지(only)'라는 뜻의 부사다. 따옴표 뒤의 sighed he도 sighed가 주어 he보다 먼저 온 옛 문체의 도치다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "가정법 도치: Were I ~ (= If I were ~)",
+      "tags": [
+        "가정법",
+        "도치"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "Were I but such a high tree"
+      ],
+      "explanation": "현실과 반대되는 일을 바랄 때 'If + 주어 + were'를 쓴다. 이때 if를 생략하면 were가 주어 앞으로 나와 'Were + 주어'가 된다. 전나무는 실제로는 작은 나무이므로, '내가 다른 나무들처럼 크기만 하다면!' 하고 이루어지지 않은 소원을 말하고 있다.",
+      "example": {
+        "en": "Were I a bird, I would fly to you.",
+        "ko": "내가 새라면 너에게 날아갈 텐데."
+      },
+      "note": "If I were a bird ~ 와 같은 뜻이다. 일상 회화에서는 주로 If I were를 쓴다."
+    },
+    {
+      "id": "g2",
+      "title": "so very much + to부정사: want to be ~",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "wanted so very much to be a grown-up tree"
+      ],
+      "explanation": "want to + 동사원형은 '~하고 싶다'라는 뜻이다. want와 to be 사이에 so very much(아주 몹시)가 들어가 바라는 마음이 얼마나 큰지 강조한다. to be a grown-up tree는 wanted의 목적어 역할을 하는 to부정사구로 '다 자란 나무가 되는 것'이라는 뜻이다.",
+      "example": {
+        "en": "He wanted so very much to win the race.",
+        "ko": "그는 그 경주에서 정말 몹시 이기고 싶었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "조동사 should / could: 상상 속 결과",
+      "tags": [
+        "조동사",
+        "가정법"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "I should be able to spread out my branches"
+      ],
+      "explanation": "앞 문장의 '내가 키가 크다면'이라는 가정에 이어, Then I should be able to ~ 는 '그러면 ~할 수 있을 텐데'라는 상상 속 결과를 말한다. 영국식 옛 영어에서는 1인칭(I)과 함께 would 대신 should를 자주 썼다. 다음 문장의 I could bend ~ 도 같은 '~할 수 있을 텐데'의 뜻이다.",
+      "example": {
+        "en": "If I had wings, I should be able to fly.",
+        "ko": "날개가 있다면 나는 날 수 있을 텐데."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖에, 저 멀리 (out in the woods: 숲 속에)",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "woods": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "숲",
+      "form": "복수형",
+      "synonyms": [
+        "forest"
+      ],
+      "ipa": "/wʊdz/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "과거형",
+      "synonyms": [
+        "be placed",
+        "rise"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "nice": {
+      "lemma": "nice",
+      "pos": "adjective",
+      "ko": "보기 좋은, 아담한",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pleasant"
+      ],
+      "ipa": "/naɪs/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은, 어린",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "fir": {
+      "lemma": "fir",
+      "pos": "noun",
+      "ko": "전나무",
+      "form": null,
+      "synonyms": [
+        "evergreen"
+      ],
+      "ipa": "/fɜːr/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": null,
+      "synonyms": [
+        "plant"
+      ],
+      "ipa": "/triː/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "장소, 자리",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "location"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 차지하다",
+      "form": "과거형",
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은",
+      "form": null,
+      "synonyms": [
+        "fine",
+        "excellent"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(일반적인) 사람, 누구나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 햇볕",
+      "form": null,
+      "synonyms": [
+        "sunshine",
+        "sunlight"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "shone": {
+      "lemma": "shine",
+      "pos": "verb",
+      "ko": "(빛이) 비치다",
+      "form": "과거형",
+      "synonyms": [
+        "beam",
+        "glow"
+      ],
+      "ipa": "/ʃoʊn/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "ipa": "/ɑːn/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as to) ~에 관해서는, (as well as) ~뿐 아니라, (as ~ as) ~만큼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "ipa": "/tuː/"
+    },
+    "fresh": {
+      "lemma": "fresh",
+      "pos": "adjective",
+      "ko": "신선한, 상쾌한",
+      "form": null,
+      "synonyms": [
+        "clean",
+        "pure"
+      ],
+      "ipa": "/frɛʃ/"
+    },
+    "air": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "공기",
+      "form": null,
+      "synonyms": [
+        "atmosphere",
+        "breeze"
+      ],
+      "ipa": "/ɛr/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was: ~이 있었다)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "pronoun",
+      "ko": "충분한 양",
+      "form": null,
+      "ipa": "/ɪˈnʌf/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의",
+      "ipa": "/ʌv/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "preposition",
+      "ko": "~의 주위에",
+      "form": null,
+      "ipa": "/raʊnd/"
+    },
+    "grew": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자라다",
+      "form": "과거형",
+      "synonyms": [
+        "develop",
+        "sprout"
+      ],
+      "ipa": "/ɡruː/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "ipa": "/ˈmɛni/"
+    },
+    "large-sized": {
+      "lemma": "large-sized",
+      "pos": "adjective",
+      "ko": "큼직한, 큰",
+      "form": null,
+      "synonyms": [
+        "big",
+        "huge"
+      ],
+      "ipa": "/lɑːrdʒ-saɪzd/"
+    },
+    "comrades": {
+      "lemma": "comrade",
+      "pos": "noun",
+      "ko": "동료, 벗",
+      "form": "복수형",
+      "synonyms": [
+        "companion",
+        "fellow"
+      ],
+      "ipa": "/ˈkɑːmˌrædz/"
+    },
+    "pines": {
+      "lemma": "pine",
+      "pos": "noun",
+      "ko": "소나무",
+      "form": "복수형",
+      "synonyms": [
+        "pine tree"
+      ],
+      "ipa": "/paɪnz/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "(as well as) ~뿐 아니라 …도",
+      "form": null,
+      "synonyms": [
+        "also",
+        "too"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "firs": {
+      "lemma": "fir",
+      "pos": "noun",
+      "ko": "전나무",
+      "form": "복수형",
+      "synonyms": [
+        "evergreen"
+      ],
+      "ipa": "/fɜːrz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "ipa": "/bʌt/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다, 바라다",
+      "form": "과거형",
+      "synonyms": [
+        "wish",
+        "desire"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그토록, 매우",
+      "form": null,
+      "synonyms": [
+        "so much",
+        "greatly"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "많이, 몹시",
+      "form": null,
+      "synonyms": [
+        "greatly",
+        "a lot"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다, ~이다",
+      "form": null,
+      "synonyms": [
+        "become"
+      ],
+      "ipa": "/biː/"
+    },
+    "grown-up": {
+      "lemma": "grown-up",
+      "pos": "adjective",
+      "ko": "다 자란, 어른이 된",
+      "form": null,
+      "synonyms": [
+        "adult",
+        "mature"
+      ],
+      "ipa": "/ɡroʊn-ʌp/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사, did not)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "(think of) ~을 생각하다, 마음에 두다",
+      "form": null,
+      "synonyms": [
+        "consider",
+        "regard"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "warm": {
+      "lemma": "warm",
+      "pos": "adjective",
+      "ko": "따뜻한",
+      "form": null,
+      "synonyms": [
+        "mild",
+        "sunny"
+      ],
+      "ipa": "/wɔːrm/"
+    },
+    "care": {
+      "lemma": "care",
+      "pos": "verb",
+      "ko": "(care for) ~에 관심을 두다, 좋아하다",
+      "form": null,
+      "synonyms": [
+        "mind",
+        "like"
+      ],
+      "ipa": "/kɛr/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "(care for) ~을 / (문장 앞) 왜냐하면",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "cottage": {
+      "lemma": "cottage",
+      "pos": "noun",
+      "ko": "(시골의) 작은 집, 오두막",
+      "form": null,
+      "synonyms": [
+        "hut",
+        "cabin"
+      ],
+      "ipa": "/ˈkɑːtədʒ/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이들",
+      "form": "복수형",
+      "synonyms": [
+        "kids",
+        "youngsters"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(run about) 뛰어다니다",
+      "form": "과거형",
+      "synonyms": [
+        "dash",
+        "race"
+      ],
+      "ipa": "/ræn/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "이리저리, 여기저기",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "prattled": {
+      "lemma": "prattle",
+      "pos": "verb",
+      "ko": "재잘거리다",
+      "form": "과거형",
+      "synonyms": [
+        "chatter",
+        "babble"
+      ],
+      "ipa": "/ˈprætəld/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형(복수)",
+      "ipa": "/wɜːr/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look for) ~을 찾다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "search",
+        "seek"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "wild-strawberries": {
+      "lemma": "wild strawberry",
+      "pos": "noun",
+      "ko": "산딸기",
+      "form": "복수형",
+      "synonyms": [
+        "berries"
+      ],
+      "ipa": "/waɪld-ˈstrɔːˌbɛriz/"
+    },
+    "often": {
+      "lemma": "often",
+      "pos": "adverb",
+      "ko": "자주, 종종",
+      "form": null,
+      "synonyms": [
+        "frequently"
+      ],
+      "ipa": "/ˈɔːfən/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고 / ~의 경우에는 / ~하게",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "whole": {
+      "lemma": "whole",
+      "pos": "adjective",
+      "ko": "통째의, 온전한",
+      "form": null,
+      "synonyms": [
+        "entire",
+        "complete"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "pitcher": {
+      "lemma": "pitcher",
+      "pos": "noun",
+      "ko": "주전자, 물병",
+      "form": null,
+      "synonyms": [
+        "jug"
+      ],
+      "ipa": "/ˈpɪtʃər/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "(full of) ~이 가득한",
+      "form": null,
+      "synonyms": [
+        "filled",
+        "packed"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "berries": {
+      "lemma": "berry",
+      "pos": "noun",
+      "ko": "산딸기류 열매",
+      "form": "복수형",
+      "synonyms": [
+        "fruit"
+      ],
+      "ipa": "/ˈbɛriz/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는, 혹은",
+      "ipa": "/ɔːr/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "row": {
+      "lemma": "row",
+      "pos": "noun",
+      "ko": "줄, 열",
+      "form": null,
+      "synonyms": [
+        "line",
+        "string"
+      ],
+      "ipa": "/roʊ/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "threaded": {
+      "lemma": "thread",
+      "pos": "verb",
+      "ko": "(실 등에) 꿰다",
+      "form": "과거분사",
+      "synonyms": [
+        "string",
+        "pass through"
+      ],
+      "ipa": "/ˈθrɛdɪd/"
+    },
+    "straw": {
+      "lemma": "straw",
+      "pos": "noun",
+      "ko": "짚, 지푸라기",
+      "form": null,
+      "synonyms": [
+        "stalk"
+      ],
+      "ipa": "/strɔː/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "(sit down) 앉다",
+      "form": "과거형",
+      "synonyms": [
+        "settle",
+        "perch"
+      ],
+      "ipa": "/sæt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로 (sit down: 앉다)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "preposition",
+      "ko": "~ 가까이",
+      "ipa": "/nɪr/"
+    },
+    "young": {
+      "lemma": "young",
+      "pos": "adjective",
+      "ko": "어린",
+      "form": null,
+      "synonyms": [
+        "little",
+        "youthful"
+      ],
+      "ipa": "/jʌŋ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "remark"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "아, 오, 아아",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나 (감탄)",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "pretty": {
+      "lemma": "pretty",
+      "pos": "adjective",
+      "ko": "예쁜",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "cute"
+      ],
+      "ipa": "/ˈprɪti/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "얼마나 ~한 (감탄) / ~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 말",
+      "ipa": "/ðɪs/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "bear": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "견디다, 참다",
+      "form": null,
+      "synonyms": [
+        "stand",
+        "endure"
+      ],
+      "ipa": "/bɛr/"
+    },
+    "hear": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": null,
+      "synonyms": [
+        "listen to"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at the end of: ~의 끝에)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝",
+      "form": null,
+      "synonyms": [
+        "close",
+        "finish"
+      ],
+      "ipa": "/ɛnd/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "form": null,
+      "ipa": "/jɪr/"
+    },
+    "shot": {
+      "lemma": "shoot",
+      "pos": "verb",
+      "ko": "(shoot up) 부쩍 자라다",
+      "form": "과거분사",
+      "synonyms": [
+        "grow",
+        "spring up"
+      ],
+      "ipa": "/ʃɑːt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로 (shoot up: 쑥 자라다)",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "deal": {
+      "lemma": "deal",
+      "pos": "noun",
+      "ko": "(a good deal) 꽤 많이",
+      "form": null,
+      "synonyms": [
+        "lot",
+        "amount"
+      ],
+      "ipa": "/diːl/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "determiner",
+      "ko": "또 하나의, 또 다른",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "bit": {
+      "lemma": "bit",
+      "pos": "noun",
+      "ko": "조금, 한 토막 (long bit: 한 마디)",
+      "form": null,
+      "synonyms": [
+        "piece",
+        "section"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "taller": {
+      "lemma": "tall",
+      "pos": "adjective",
+      "ko": "키가 더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "higher",
+        "bigger"
+      ],
+      "ipa": "/ˈtɔːlər/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "ipa": "/triːz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "항상, 언제나",
+      "form": null,
+      "synonyms": [
+        "ever",
+        "constantly"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "알다, 구별하다",
+      "form": null,
+      "synonyms": [
+        "know",
+        "judge"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~을 보고, ~로 (판단 기준)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "shoots": {
+      "lemma": "shoot",
+      "pos": "noun",
+      "ko": "(식물의) 새싹, 새로 자란 가지",
+      "form": "복수형",
+      "synonyms": [
+        "sprout",
+        "bud"
+      ],
+      "ipa": "/ʃuːts/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "ipa": "/jɪrz/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "~살의, 나이가 ~인",
+      "form": null,
+      "synonyms": [
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 내가",
+      "ipa": "/aɪ/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그러한, 그런",
+      "ipa": "/sʌtʃ/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "키가 큰, 높은",
+      "form": null,
+      "synonyms": [
+        "tall",
+        "lofty"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "others": {
+      "lemma": "others",
+      "pos": "pronoun",
+      "ko": "다른 나무들, 다른 것들",
+      "form": null,
+      "ipa": "/ˈʌðərz/"
+    },
+    "sighed": {
+      "lemma": "sigh",
+      "pos": "verb",
+      "ko": "한숨 쉬다",
+      "form": "과거형",
+      "synonyms": [
+        "moan",
+        "breathe"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러면, 그렇다면",
+      "form": null,
+      "synonyms": [
+        "in that case"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~할 텐데 (I와 함께 쓴 옛 영국식 would)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "able": {
+      "lemma": "able",
+      "pos": "adjective",
+      "ko": "(be able to) ~할 수 있는",
+      "form": null,
+      "synonyms": [
+        "capable"
+      ],
+      "ipa": "/ˈeɪbəl/"
+    },
+    "spread": {
+      "lemma": "spread",
+      "pos": "verb",
+      "ko": "(spread out) 활짝 펴다",
+      "form": null,
+      "synonyms": [
+        "stretch",
+        "extend"
+      ],
+      "ipa": "/sprɛd/"
+    },
+    "my": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "limb",
+        "bough"
+      ],
+      "ipa": "/ˈbræntʃəz/"
+    },
+    "tops": {
+      "lemma": "top",
+      "pos": "noun",
+      "ko": "꼭대기, 우듬지",
+      "form": "복수형",
+      "synonyms": [
+        "peak",
+        "tip"
+      ],
+      "ipa": "/tɑːps/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다, 내다보다",
+      "form": null,
+      "synonyms": [
+        "gaze",
+        "peer"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "ipa": "/ˈɪntu/"
+    },
+    "wide": {
+      "lemma": "wide",
+      "pos": "adjective",
+      "ko": "넓은",
+      "form": null,
+      "synonyms": [
+        "broad",
+        "vast"
+      ],
+      "ipa": "/waɪd/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상",
+      "form": null,
+      "synonyms": [
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "~할 텐데 (상상 속 결과)",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "birds": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새",
+      "form": "복수형",
+      "ipa": "/bɜːrdz/"
+    },
+    "build": {
+      "lemma": "build",
+      "pos": "verb",
+      "ko": "짓다, 만들다",
+      "form": null,
+      "synonyms": [
+        "make",
+        "construct"
+      ],
+      "ipa": "/bɪld/"
+    },
+    "nests": {
+      "lemma": "nest",
+      "pos": "noun",
+      "ko": "둥지",
+      "form": "복수형",
+      "synonyms": [
+        "home"
+      ],
+      "ipa": "/nɛsts/"
+    },
+    "among": {
+      "lemma": "among",
+      "pos": "preposition",
+      "ko": "~ 사이에서",
+      "form": null,
+      "ipa": "/əˈmʌŋ/"
+    },
+    "breeze": {
+      "lemma": "breeze",
+      "pos": "noun",
+      "ko": "산들바람",
+      "form": null,
+      "synonyms": [
+        "wind",
+        "gust"
+      ],
+      "ipa": "/briːz/"
+    },
+    "bend": {
+      "lemma": "bend",
+      "pos": "verb",
+      "ko": "(몸을) 굽히다, 휘다",
+      "form": null,
+      "synonyms": [
+        "bow",
+        "sway"
+      ],
+      "ipa": "/bɛnd/"
+    },
+    "stateliness": {
+      "lemma": "stateliness",
+      "pos": "noun",
+      "ko": "위엄, 당당함",
+      "form": null,
+      "synonyms": [
+        "dignity",
+        "grandeur"
+      ],
+      "ipa": null
+    }
+  }
+}

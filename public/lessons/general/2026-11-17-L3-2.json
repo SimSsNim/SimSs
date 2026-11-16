@@ -1,0 +1,1600 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-17-L3-2",
+  "date": "2026-11-17",
+  "level": 3,
+  "title": "The Remarkable Rocket",
+  "titleKo": "놀라운 로켓",
+  "genre": "fairy-tale",
+  "tags": [
+    "Oscar Wilde",
+    "fairy tale",
+    "royal wedding"
+  ],
+  "source": {
+    "work": "The Remarkable Rocket (The Happy Prince and Other Tales)",
+    "author": "Oscar Wilde",
+    "translator": null,
+    "year": 1888,
+    "edition": "Project Gutenberg #902",
+    "url": "https://www.gutenberg.org/ebooks/902",
+    "license": "public-domain",
+    "excerptNote": "첫머리 1~4단락 (‘The King's son was going to be married…’부터 ‘…and the whole Court was delighted.’까지, 219단어). 러시아 공주가 도착해 왕자와 처음 만나는 장면. 다음 단락까지 넣으면 279단어라 넷째 단락에서 끊음. gutenberg.org 점검 중이라 archive.org에 보관된 같은 전자책(PG #902, hpaot10.txt)에서 가져왔고, 줄바꿈은 한 칸 띄어쓰기로 잇고 문장 사이 두 칸 띄어쓰기는 한 칸으로 바꿈"
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/thehappyprinceandothertales_1411_librivox/thehappyprinceandothertales_05_wilde_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/thehappyprinceandothertales_1411_librivox/thehappyprinceandothertales_05_wilde_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-happy-prince-and-other-tales-by-oscar-wilde-2/",
+    "reader": "Phil Chenevert",
+    "durationSec": 1953,
+    "startSec": 15,
+    "endSec": 105,
+    "note": "트랙 05 'The Remarkable Rocket'(32:33) 중 맨 앞부분. 안내 멘트 뒤 대략 0:15~1:45 부분 (단어 수로 어림한 위치). 음원 대본은 Project Gutenberg #30120(같은 책의 다른 전자판)이라 따옴표 모양 등이 조금 다를 수 있음"
+  },
+  "wordCount": 219,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "왕의 아들이 결혼하게 되어 온 나라가 기쁨에 들떠 있었다. 왕자는 신부를 꼬박 1년이나 기다렸는데, 마침내 신부가 도착했다. 신부는 러시아의 공주로, 순록 여섯 마리가 끄는 썰매를 타고 핀란드에서부터 먼 길을 달려왔다. 썰매는 커다란 황금 백조 모양이었고, 백조의 두 날개 사이에 작은 공주가 앉아 있었다. 공주의 기다란 흰 담비 털 망토는 발끝까지 닿았고, 머리에는 은빛 천으로 된 작은 모자를 썼으며, 공주는 자신이 늘 살던 눈의 궁전처럼 창백했다. 공주가 어찌나 창백했던지, 썰매를 타고 거리를 지나갈 때 사람들은 모두 놀라워했다. “흰 장미 같아!” 사람들은 이렇게 외치며 발코니에서 공주에게 꽃을 던져 주었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "성문 앞에서는 왕자가 공주를 맞이하려고 기다리고 있었다. 왕자는 꿈꾸는 듯한 보랏빛 눈을 가졌고, 머리카락은 고운 금실 같았다. 공주를 보자 왕자는 한쪽 무릎을 꿇고 공주의 손에 입을 맞추었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "“당신의 초상화도 아름다웠지만, 당신은 초상화보다 더 아름답군요.” 왕자가 속삭이자 작은 공주는 얼굴을 붉혔다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "“아까는 흰 장미 같더니, 이제는 붉은 장미 같네.” 한 젊은 시동이 옆 사람에게 말하자 궁정 사람들은 모두 즐거워했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The King's son was going to be married, so there were general rejoicings.",
+      "ko": "왕의 아들이 결혼하게 되어 온 나라가 기쁨에 들떠 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "He had waited a whole year for his bride, and at last she had arrived.",
+      "ko": "왕자는 신부를 꼬박 1년이나 기다렸는데, 마침내 신부가 도착했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "She was a Russian Princess, and had driven all the way from Finland in a sledge drawn by six reindeer.",
+      "ko": "신부는 러시아의 공주로, 순록 여섯 마리가 끄는 썰매를 타고 핀란드에서부터 먼 길을 달려왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The sledge was shaped like a great golden swan, and between the swan's wings lay the little Princess herself.",
+      "ko": "썰매는 커다란 황금 백조 모양이었고, 백조의 두 날개 사이에 작은 공주가 앉아 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Her long ermine-cloak reached right down to her feet, on her head was a tiny cap of silver tissue, and she was as pale as the Snow Palace in which she had always lived.",
+      "ko": "공주의 기다란 흰 담비 털 망토는 발끝까지 닿았고, 머리에는 은빛 천으로 된 작은 모자를 썼으며, 공주는 자신이 늘 살던 눈의 궁전처럼 창백했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "So pale was she that as she drove through the streets all the people wondered.",
+      "ko": "공주가 어찌나 창백했던지, 썰매를 타고 거리를 지나갈 때 사람들은 모두 놀라워했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "\"She is like a white rose!\"",
+      "ko": "“흰 장미 같아!”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "they cried, and they threw down flowers on her from the balconies.",
+      "ko": "사람들은 이렇게 외치며 발코니에서 공주에게 꽃을 던져 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p2",
+      "en": "At the gate of the Castle the Prince was waiting to receive her.",
+      "ko": "성문 앞에서는 왕자가 공주를 맞이하려고 기다리고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p2",
+      "en": "He had dreamy violet eyes, and his hair was like fine gold.",
+      "ko": "왕자는 꿈꾸는 듯한 보랏빛 눈을 가졌고, 머리카락은 고운 금실 같았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p2",
+      "en": "When he saw her he sank upon one knee, and kissed her hand.",
+      "ko": "공주를 보자 왕자는 한쪽 무릎을 꿇고 공주의 손에 입을 맞추었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p3",
+      "en": "\"Your picture was beautiful,\" he murmured, \"but you are more beautiful than your picture\"; and the little Princess blushed.",
+      "ko": "“당신의 초상화도 아름다웠지만, 당신은 초상화보다 더 아름답군요.” 왕자가 속삭이자 작은 공주는 얼굴을 붉혔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p4",
+      "en": "\"She was like a white rose before,\" said a young Page to his neighbour, \"but she is like a red rose now\"; and the whole Court was delighted.",
+      "ko": "“아까는 흰 장미 같더니, 이제는 붉은 장미 같네.” 한 젊은 시동이 옆 사람에게 말하자 궁정 사람들은 모두 즐거워했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "rejoicing",
+      "pos": "noun",
+      "meaningKo": "(여럿이 함께하는) 축하, 환호, 기쁨",
+      "ipa": "/rɪˈdʒɔɪsɪŋ/",
+      "synonyms": [
+        "celebration",
+        "festivity",
+        "joy"
+      ],
+      "matchText": "rejoicings",
+      "sentenceId": "s1",
+      "example": {
+        "en": "There was great rejoicing when the team won the cup.",
+        "ko": "팀이 우승컵을 차지하자 모두가 크게 기뻐했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "sledge",
+      "pos": "noun",
+      "meaningKo": "썰매",
+      "ipa": "/slɛdʒ/",
+      "synonyms": [
+        "sled",
+        "sleigh"
+      ],
+      "matchText": "sledge",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The children pulled the sledge up the snowy hill.",
+        "ko": "아이들은 썰매를 끌고 눈 덮인 언덕을 올라갔다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "pale",
+      "pos": "adjective",
+      "meaningKo": "창백한, (빛깔이) 옅은",
+      "ipa": "/peɪl/",
+      "synonyms": [
+        "white",
+        "pallid"
+      ],
+      "matchText": "pale",
+      "sentenceId": "s5",
+      "example": {
+        "en": "You look pale. Are you feeling sick?",
+        "ko": "얼굴이 창백해 보여. 어디 아프니?"
+      }
+    },
+    {
+      "id": "v4",
+      "term": "murmur",
+      "pos": "verb",
+      "meaningKo": "속삭이다, 나지막이 말하다",
+      "ipa": "/ˈmɝmɚ/",
+      "synonyms": [
+        "whisper",
+        "mutter"
+      ],
+      "matchText": "murmured",
+      "sentenceId": "s12",
+      "example": {
+        "en": "\"Good night,\" she murmured, half asleep.",
+        "ko": "“잘 자.” 그녀는 반쯤 잠든 채 속삭였다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "blush",
+      "pos": "verb",
+      "meaningKo": "(부끄러워) 얼굴을 붉히다",
+      "ipa": "/blʌʃ/",
+      "synonyms": [
+        "redden",
+        "flush"
+      ],
+      "matchText": "blushed",
+      "sentenceId": "s12",
+      "example": {
+        "en": "He blushed when everyone sang \"Happy Birthday\" to him.",
+        "ko": "모두가 생일 축하 노래를 불러 주자 그는 얼굴이 빨개졌다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "The sledge",
+          "role": "S",
+          "sub": false,
+          "ko": "썰매는"
+        },
+        {
+          "text": "was shaped",
+          "role": "V",
+          "sub": false,
+          "ko": "모양이었다"
+        },
+        {
+          "text": "like a great golden swan,",
+          "role": "M",
+          "sub": false,
+          "ko": "커다란 황금 백조처럼"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "between the swan's wings",
+          "role": "M",
+          "sub": false,
+          "ko": "백조의 두 날개 사이에"
+        },
+        {
+          "text": "lay",
+          "role": "V",
+          "sub": false,
+          "ko": "놓여(앉아) 있었다"
+        },
+        {
+          "text": "the little Princess herself.",
+          "role": "S",
+          "sub": false,
+          "ko": "작은 공주 자신이"
+        }
+      ],
+      "skeleton": "The sledge was shaped like a swan, and ~ lay the Princess",
+      "explanation": "앞 절은 'be shaped like ~(~ 모양이다)'라는 수동태 표현이다. 뒤 절은 장소 부사구 between the swan's wings가 앞으로 나오면서 동사 lay(lie의 과거형: 놓여 있다)가 주어 the little Princess herself보다 먼저 왔다(도치). herself는 '바로 공주 자신'이라고 강조하는 말이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "So pale",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 창백해서"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀가"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그 결과"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "drove",
+          "role": "V",
+          "sub": true,
+          "ko": "(썰매를 타고) 지나갔다"
+        },
+        {
+          "text": "through the streets",
+          "role": "M",
+          "sub": true,
+          "ko": "거리를 지나"
+        },
+        {
+          "text": "all the people",
+          "role": "S",
+          "sub": true,
+          "ko": "모든 사람들이"
+        },
+        {
+          "text": "wondered.",
+          "role": "V",
+          "sub": true,
+          "ko": "놀라워했다"
+        }
+      ],
+      "skeleton": "She was so pale that all the people wondered",
+      "explanation": "원래 어순은 She was so pale that ~ 인데, 강조하려고 So pale을 맨 앞에 두면서 'was she'로 주어와 동사의 순서가 바뀌었다(도치). that 뒤가 결과(그래서 사람들이 모두 놀랐다)이고, 그 안에 as she drove through the streets(거리를 지나갈 때)라는 시간의 부사절이 끼어 있다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Her long ermine-cloak",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀의 긴 흰 담비 털 망토는"
+        },
+        {
+          "text": "reached",
+          "role": "V",
+          "sub": false,
+          "ko": "닿았다"
+        },
+        {
+          "text": "right down to her feet,",
+          "role": "M",
+          "sub": false,
+          "ko": "바로 발끝까지"
+        },
+        {
+          "text": "on her head",
+          "role": "M",
+          "sub": false,
+          "ko": "머리 위에는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "a tiny cap of silver tissue,",
+          "role": "S",
+          "sub": false,
+          "ko": "은빛 천으로 된 작은 모자가"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "as pale as the Snow Palace",
+          "role": "C",
+          "sub": false,
+          "ko": "눈의 궁전만큼 창백한"
+        },
+        {
+          "text": "in which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 궁전) 안에서"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "had always lived.",
+          "role": "V",
+          "sub": true,
+          "ko": "늘 살아왔던"
+        }
+      ],
+      "skeleton": "Her cloak reached ~, on her head was a cap, and she was as pale as the Snow Palace",
+      "explanation": "세 개의 절이 쉼표와 and로 나란히 이어져 공주의 모습을 묘사한다. 둘째 절은 장소 부사구 on her head가 앞에 오면서 was가 주어 a tiny cap보다 먼저 나왔다(도치). 'as + 형용사 + as'는 '~만큼 …한'이라는 비교 표현이고, in which she had always lived는 the Snow Palace를 꾸미는 '전치사 + 관계대명사'절이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "강조를 위한 도치: So pale was she that ~",
+      "tags": [
+        "도치",
+        "부사절"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "So pale was she that"
+      ],
+      "explanation": "'so + 형용사 + that ~'은 '너무 ~해서 …하다'라는 뜻이다. 형용사 부분(So pale)을 강조하려고 문장 맨 앞에 두면, 그 뒤는 '동사 + 주어(was she)' 순서로 바뀐다. 평범하게 쓰면 She was so pale that all the people wondered.이다.",
+      "example": {
+        "en": "So tired was he that he fell asleep at once.",
+        "ko": "그는 너무 피곤해서 곧바로 잠들어 버렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "과거완료: had waited / had arrived",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "had waited",
+        "had arrived"
+      ],
+      "explanation": "'had + 과거분사'(과거완료)는 이야기 속 과거 시점(결혼 준비로 기뻐하던 때)보다 더 먼저 일어나 이미 끝난 일을 나타낸다. 왕자가 1년 동안 기다려 온 일과 공주가 도착한 일이 모두 그 시점 전에 이미 일어났다는 뜻이다.",
+      "example": {
+        "en": "When I got to the station, the train had already left.",
+        "ko": "내가 역에 도착했을 때 기차는 이미 떠나고 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "비교급: more beautiful than ~",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "more beautiful than your picture"
+      ],
+      "explanation": "beautiful처럼 긴 형용사는 앞에 more를 붙여 비교급을 만들고, than 뒤에 비교 대상을 쓴다. 왕자는 '당신의 초상화(your picture)'와 실제 공주를 비교해 실물이 더 아름답다고 칭찬하고 있다.",
+      "example": {
+        "en": "This book is more interesting than the movie.",
+        "ko": "이 책이 영화보다 더 재미있다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "king's": {
+      "lemma": "king",
+      "pos": "noun",
+      "ko": "왕의",
+      "form": "소유격",
+      "synonyms": [
+        "monarch",
+        "ruler"
+      ],
+      "ipa": "/kɪŋz/"
+    },
+    "son": {
+      "lemma": "son",
+      "pos": "noun",
+      "ko": "아들",
+      "form": null,
+      "synonyms": [
+        "boy",
+        "heir"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다 (was going to: ~할 예정이었다)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~할 예정이다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다, ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "married": {
+      "lemma": "marry",
+      "pos": "verb",
+      "ko": "(be married) 결혼하다",
+      "form": "과거분사",
+      "synonyms": [
+        "wed"
+      ],
+      "ipa": "/ˈmɛrid/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서 / (so ~ that) 너무 ~해서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there were: ~이 있었다)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있었다",
+      "form": "과거형(복수)",
+      "ipa": "/wɜːr/"
+    },
+    "general": {
+      "lemma": "general",
+      "pos": "adjective",
+      "ko": "모두의, 전체적인",
+      "form": null,
+      "synonyms": [
+        "widespread",
+        "public"
+      ],
+      "ipa": "/ˈdʒɛnərəl/"
+    },
+    "rejoicings": {
+      "lemma": "rejoicing",
+      "pos": "noun",
+      "ko": "축하, 환호",
+      "form": "복수형",
+      "synonyms": [
+        "celebration",
+        "festivity"
+      ],
+      "ipa": null
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) 과거완료",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "waited": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": "과거분사",
+      "synonyms": [
+        "stay",
+        "expect"
+      ],
+      "ipa": "/ˈweɪtɪd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "whole": {
+      "lemma": "whole",
+      "pos": "adjective",
+      "ko": "온, 전체의",
+      "form": null,
+      "synonyms": [
+        "entire",
+        "full"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "form": null,
+      "ipa": "/jɪr/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "ipa": "/fɔːr/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "bride": {
+      "lemma": "bride",
+      "pos": "noun",
+      "ko": "신부",
+      "form": null,
+      "synonyms": [
+        "wife-to-be"
+      ],
+      "ipa": "/braɪd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at last: 마침내)",
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀, 그녀는",
+      "ipa": "/ʃiː/"
+    },
+    "arrived": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": "과거분사",
+      "synonyms": [
+        "come",
+        "reach"
+      ],
+      "ipa": "/əˈraɪvd/"
+    },
+    "russian": {
+      "lemma": "Russian",
+      "pos": "adjective",
+      "ko": "러시아의",
+      "form": null,
+      "ipa": "/ˈrʌʃən/"
+    },
+    "princess": {
+      "lemma": "princess",
+      "pos": "noun",
+      "ko": "공주",
+      "form": null,
+      "ipa": "/ˈprɪnsɛs/"
+    },
+    "driven": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(마차·썰매 등을 타고) 달려오다",
+      "form": "과거분사",
+      "synonyms": [
+        "ride",
+        "travel"
+      ],
+      "ipa": "/ˈdrɪvən/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든 (all the way: 먼 길 내내)",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길, 거리 (all the way: 먼 길을 줄곧)",
+      "form": null,
+      "synonyms": [
+        "distance",
+        "journey"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~로부터",
+      "ipa": "/frʌm/"
+    },
+    "finland": {
+      "lemma": "Finland",
+      "pos": "proper-noun",
+      "ko": "핀란드 (북유럽의 나라)",
+      "form": null,
+      "ipa": "/ˈfɪnˌlænd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "sledge": {
+      "lemma": "sledge",
+      "pos": "noun",
+      "ko": "썰매",
+      "form": null,
+      "synonyms": [
+        "sled",
+        "sleigh"
+      ],
+      "ipa": "/slɛdʒ/"
+    },
+    "drawn": {
+      "lemma": "draw",
+      "pos": "verb",
+      "ko": "끌다",
+      "form": "과거분사",
+      "synonyms": [
+        "pull",
+        "haul"
+      ],
+      "ipa": "/drɔːn/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "ipa": "/baɪ/"
+    },
+    "six": {
+      "lemma": "six",
+      "pos": "number",
+      "ko": "여섯",
+      "form": null,
+      "ipa": "/sɪks/"
+    },
+    "reindeer": {
+      "lemma": "reindeer",
+      "pos": "noun",
+      "ko": "순록",
+      "form": "복수형(단수와 같음)",
+      "synonyms": [
+        "caribou"
+      ],
+      "ipa": "/ˈreɪnˌdɪr/"
+    },
+    "shaped": {
+      "lemma": "shape",
+      "pos": "verb",
+      "ko": "(be shaped like) ~ 모양이다",
+      "form": "과거분사",
+      "synonyms": [
+        "formed",
+        "made"
+      ],
+      "ipa": "/ʃeɪpt/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼, ~ 같은",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "커다란",
+      "form": null,
+      "synonyms": [
+        "big",
+        "large"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "golden": {
+      "lemma": "golden",
+      "pos": "adjective",
+      "ko": "황금의, 금빛의",
+      "form": null,
+      "synonyms": [
+        "gold",
+        "gilded"
+      ],
+      "ipa": "/ˈɡoʊldən/"
+    },
+    "swan": {
+      "lemma": "swan",
+      "pos": "noun",
+      "ko": "백조",
+      "form": null,
+      "ipa": "/swɑːn/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "swan's": {
+      "lemma": "swan",
+      "pos": "noun",
+      "ko": "백조의",
+      "form": "소유격",
+      "ipa": null
+    },
+    "wings": {
+      "lemma": "wing",
+      "pos": "noun",
+      "ko": "날개",
+      "form": "복수형",
+      "ipa": "/wɪŋz/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "놓여 있다, 앉아(누워) 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "sit"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은, 어린",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "herself": {
+      "lemma": "herself",
+      "pos": "pronoun",
+      "ko": "(강조) 바로 그녀 자신",
+      "form": null,
+      "ipa": "/hərˈsɛlf/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀의, 그녀를",
+      "form": "소유격/목적격",
+      "ipa": "/hɜːr/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "form": null,
+      "synonyms": [
+        "lengthy"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "ermine-cloak": {
+      "lemma": "ermine cloak",
+      "pos": "noun",
+      "ko": "흰 담비 털 망토",
+      "form": null,
+      "synonyms": [
+        "cape",
+        "mantle"
+      ],
+      "ipa": "/ˈɜːrmən-kloʊk/"
+    },
+    "reached": {
+      "lemma": "reach",
+      "pos": "verb",
+      "ko": "~에 닿다, 이르다",
+      "form": "과거형",
+      "synonyms": [
+        "extend",
+        "stretch"
+      ],
+      "ipa": "/riːtʃt/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adverb",
+      "ko": "바로, 곧장",
+      "form": null,
+      "synonyms": [
+        "straight",
+        "all the way"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": "복수형",
+      "ipa": "/fiːt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "ipa": "/ɑːn/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": null,
+      "ipa": "/hɛd/"
+    },
+    "tiny": {
+      "lemma": "tiny",
+      "pos": "adjective",
+      "ko": "아주 작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "little"
+      ],
+      "ipa": "/ˈtaɪni/"
+    },
+    "cap": {
+      "lemma": "cap",
+      "pos": "noun",
+      "ko": "(테 없는) 모자",
+      "form": null,
+      "synonyms": [
+        "hat",
+        "bonnet"
+      ],
+      "ipa": "/kæp/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의",
+      "ipa": "/ʌv/"
+    },
+    "silver": {
+      "lemma": "silver",
+      "pos": "adjective",
+      "ko": "은빛의, 은으로 된",
+      "form": null,
+      "synonyms": [
+        "silvery"
+      ],
+      "ipa": "/ˈsɪlvər/"
+    },
+    "tissue": {
+      "lemma": "tissue",
+      "pos": "noun",
+      "ko": "얇은 비단 천 (silver tissue: 은사로 짠 얇은 천)",
+      "form": null,
+      "synonyms": [
+        "fabric",
+        "gauze"
+      ],
+      "ipa": "/ˈtɪsˌjuː/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as ~ as) ~만큼 …한 / (접속사) ~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "pale": {
+      "lemma": "pale",
+      "pos": "adjective",
+      "ko": "창백한, 핏기 없는",
+      "form": null,
+      "synonyms": [
+        "white",
+        "pallid"
+      ],
+      "ipa": "/peɪl/"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈 (Snow Palace: 눈의 궁전)",
+      "form": null,
+      "ipa": "/snoʊ/"
+    },
+    "palace": {
+      "lemma": "palace",
+      "pos": "noun",
+      "ko": "궁전",
+      "form": null,
+      "synonyms": [
+        "castle"
+      ],
+      "ipa": "/ˈpæləs/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(in which) 그 안에서 ~한 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "항상, 늘",
+      "form": null,
+      "synonyms": [
+        "ever"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": "과거분사",
+      "synonyms": [
+        "dwell",
+        "reside"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서, 그 결과",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "drove": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(썰매·마차를 타고) 지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "ride",
+        "travel"
+      ],
+      "ipa": "/droʊv/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~ 동안 내내, ~을 거쳐",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "streets": {
+      "lemma": "street",
+      "pos": "noun",
+      "ko": "거리",
+      "form": "복수형",
+      "synonyms": [
+        "road"
+      ],
+      "ipa": "/striːts/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "crowd",
+        "folk"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "wondered": {
+      "lemma": "wonder",
+      "pos": "verb",
+      "ko": "놀라다, 감탄하다",
+      "form": "과거형",
+      "synonyms": [
+        "marvel",
+        "be amazed"
+      ],
+      "ipa": "/ˈwʌndərd/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "흰, 하얀",
+      "form": null,
+      "ipa": "/waɪt/"
+    },
+    "rose": {
+      "lemma": "rose",
+      "pos": "noun",
+      "ko": "장미",
+      "form": null,
+      "ipa": "/roʊz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "ipa": "/ðeɪ/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "call"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "threw": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던지다 (throw down: 던져 내리다)",
+      "form": "과거형",
+      "synonyms": [
+        "toss",
+        "fling"
+      ],
+      "ipa": "/θruː/"
+    },
+    "flowers": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": "복수형",
+      "synonyms": [
+        "blossoms"
+      ],
+      "ipa": "/ˈflaʊərz/"
+    },
+    "balconies": {
+      "lemma": "balcony",
+      "pos": "noun",
+      "ko": "발코니",
+      "form": "복수형",
+      "synonyms": [
+        "terrace"
+      ],
+      "ipa": "/ˈbælkəniz/"
+    },
+    "gate": {
+      "lemma": "gate",
+      "pos": "noun",
+      "ko": "문, 대문",
+      "form": null,
+      "synonyms": [
+        "entrance",
+        "gateway"
+      ],
+      "ipa": "/ɡeɪt/"
+    },
+    "castle": {
+      "lemma": "castle",
+      "pos": "noun",
+      "ko": "성",
+      "form": null,
+      "synonyms": [
+        "palace"
+      ],
+      "ipa": "/ˈkæsəl/"
+    },
+    "prince": {
+      "lemma": "prince",
+      "pos": "noun",
+      "ko": "왕자",
+      "form": null,
+      "ipa": "/prɪns/"
+    },
+    "waiting": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stay"
+      ],
+      "ipa": "/ˈweɪtɪŋ/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "맞이하다, 환영하다",
+      "form": null,
+      "synonyms": [
+        "welcome",
+        "greet"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "dreamy": {
+      "lemma": "dreamy",
+      "pos": "adjective",
+      "ko": "꿈꾸는 듯한",
+      "form": null,
+      "synonyms": [
+        "dreamlike",
+        "faraway"
+      ],
+      "ipa": "/ˈdriːmi/"
+    },
+    "violet": {
+      "lemma": "violet",
+      "pos": "adjective",
+      "ko": "보랏빛의",
+      "form": null,
+      "synonyms": [
+        "purple"
+      ],
+      "ipa": "/ˈvaɪəlɪt/"
+    },
+    "eyes": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈",
+      "form": "복수형",
+      "ipa": "/aɪz/"
+    },
+    "hair": {
+      "lemma": "hair",
+      "pos": "noun",
+      "ko": "머리카락",
+      "form": null,
+      "ipa": "/hɛr/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "가느다랗고 고운",
+      "form": null,
+      "synonyms": [
+        "delicate",
+        "thin"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "gold": {
+      "lemma": "gold",
+      "pos": "noun",
+      "ko": "금, 금실",
+      "form": null,
+      "ipa": "/ɡoʊld/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "spot",
+        "notice"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "sank": {
+      "lemma": "sink",
+      "pos": "verb",
+      "ko": "(무릎을) 꿇다, 주저앉다",
+      "form": "과거형",
+      "synonyms": [
+        "drop",
+        "kneel"
+      ],
+      "ipa": "/sæŋk/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (sink upon one knee: 한쪽 무릎을 꿇다)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "한, 하나의",
+      "ipa": "/wʌn/"
+    },
+    "knee": {
+      "lemma": "knee",
+      "pos": "noun",
+      "ko": "무릎",
+      "form": null,
+      "ipa": "/niː/"
+    },
+    "kissed": {
+      "lemma": "kiss",
+      "pos": "verb",
+      "ko": "입 맞추다",
+      "form": "과거형",
+      "ipa": "/kɪst/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": null,
+      "ipa": "/hænd/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "picture": {
+      "lemma": "picture",
+      "pos": "noun",
+      "ko": "초상화, 그림",
+      "form": null,
+      "synonyms": [
+        "portrait",
+        "painting"
+      ],
+      "ipa": "/ˈpɪktʃər/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "murmured": {
+      "lemma": "murmur",
+      "pos": "verb",
+      "ko": "속삭이다",
+      "form": "과거형",
+      "synonyms": [
+        "whisper",
+        "mutter"
+      ],
+      "ipa": "/ˈmɜːrmərd/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "ipa": "/bʌt/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "ipa": "/juː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형(you)",
+      "ipa": "/ɑːr/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (more beautiful: 더 아름다운)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "ipa": "/ðæn/"
+    },
+    "blushed": {
+      "lemma": "blush",
+      "pos": "verb",
+      "ko": "얼굴을 붉히다",
+      "form": "과거형",
+      "synonyms": [
+        "redden",
+        "flush"
+      ],
+      "ipa": "/blʌʃt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "adverb",
+      "ko": "전에, 아까는",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "remark",
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "young": {
+      "lemma": "young",
+      "pos": "adjective",
+      "ko": "젊은, 어린",
+      "form": null,
+      "synonyms": [
+        "youthful"
+      ],
+      "ipa": "/jʌŋ/"
+    },
+    "page": {
+      "lemma": "page",
+      "pos": "noun",
+      "ko": "(궁정의) 시동, 심부름하는 소년",
+      "form": null,
+      "synonyms": [
+        "attendant",
+        "servant boy"
+      ],
+      "ipa": "/peɪdʒ/"
+    },
+    "neighbour": {
+      "lemma": "neighbour",
+      "pos": "noun",
+      "ko": "옆 사람, 이웃 (영국식 철자)",
+      "form": null,
+      "synonyms": [
+        "neighbor"
+      ],
+      "ipa": "/ˈneɪbər/"
+    },
+    "red": {
+      "lemma": "red",
+      "pos": "adjective",
+      "ko": "붉은",
+      "form": null,
+      "ipa": "/rɛd/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "court": {
+      "lemma": "court",
+      "pos": "noun",
+      "ko": "궁정 (왕을 모시는 신하들)",
+      "form": null,
+      "synonyms": [
+        "royal household",
+        "courtiers"
+      ],
+      "ipa": "/kɔːrt/"
+    },
+    "delighted": {
+      "lemma": "delighted",
+      "pos": "adjective",
+      "ko": "아주 기뻐하는",
+      "form": null,
+      "synonyms": [
+        "pleased",
+        "glad"
+      ],
+      "ipa": "/dɪˈlaɪtəd/"
+    }
+  }
+}
