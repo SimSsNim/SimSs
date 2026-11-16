@@ -1,0 +1,1078 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-17-L1-2",
+  "date": "2026-11-17",
+  "level": 1,
+  "title": "Hercules and the Waggoner",
+  "titleKo": "헤라클레스와 마부",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Heaven helps those who help themselves.'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_02_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_02_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-5-fables-101-125",
+    "reader": "Lee Dunkelberg",
+    "durationSec": 101,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 05, 02번 트랙(전체 102번 우화). 앞부분에 LibriVox 안내 멘트가 있고, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 105,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "한 마부가 짐을 가득 실은 마차를 말들에게 끌게 하며 진흙투성이 길을 가고 있었는데, 마차 바퀴가 진창에 너무 깊이 빠져서 말들이 아무리 애를 써도 바퀴를 움직일 수 없었다. 마부가 거기 서서 어쩔 줄 모르고 바라보기만 하며 이따금 큰 소리로 헤라클레스에게 도와 달라고 외치자, 그 신이 몸소 나타나 그에게 말했다. \"이봐, 바퀴에 어깨를 대고 밀면서 말들을 몰아라. 그런 다음에 헤라클레스에게 도와 달라고 해도 된다. 네 자신을 돕기 위해 손가락 하나 까딱하지 않으면서 헤라클레스든 다른 누구든 너를 도우러 오기를 기대할 수는 없다.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Waggoner was driving his team along a muddy lane with a full load behind them, when the wheels of his waggon sank so deep in the mire that no efforts of his horses could move them.",
+      "ko": "한 마부가 짐을 가득 실은 마차를 말들에게 끌게 하며 진흙투성이 길을 가고 있었는데, 마차 바퀴가 진창에 너무 깊이 빠져서 말들이 아무리 애를 써도 바퀴를 움직일 수 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "As he stood there, looking helplessly on, and calling loudly at intervals upon Hercules for assistance, the god himself appeared, and said to him, \"Put your shoulder to the wheel, man, and goad on your horses, and then you may call on Hercules to assist you.",
+      "ko": "마부가 거기 서서 어쩔 줄 모르고 바라보기만 하며 이따금 큰 소리로 헤라클레스에게 도와 달라고 외치자, 그 신이 몸소 나타나 그에게 말했다. \"이봐, 바퀴에 어깨를 대고 밀면서 말들을 몰아라. 그런 다음에 헤라클레스에게 도와 달라고 해도 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "If you won't lift a finger to help yourself, you can't expect Hercules or any one else to come to your aid.\"",
+      "ko": "네 자신을 돕기 위해 손가락 하나 까딱하지 않으면서 헤라클레스든 다른 누구든 너를 도우러 오기를 기대할 수는 없다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "sink",
+      "pos": "verb",
+      "meaningKo": "가라앉다, (진흙 등에) 빠지다",
+      "ipa": "/sɪŋk/",
+      "synonyms": [
+        "go down",
+        "drop"
+      ],
+      "matchText": "sank",
+      "sentenceId": "s1",
+      "example": {
+        "en": "My boots sank into the deep snow.",
+        "ko": "내 부츠가 깊은 눈 속에 푹 빠졌다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "helplessly",
+      "pos": "adverb",
+      "meaningKo": "어쩔 줄 모르고, 속수무책으로",
+      "ipa": "/ˈhɛlpləsli/",
+      "synonyms": [
+        "powerlessly",
+        "weakly"
+      ],
+      "matchText": "helplessly",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We watched helplessly as the bus drove away.",
+        "ko": "우리는 버스가 떠나는 것을 속수무책으로 바라보았다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "put your shoulder to the wheel",
+      "pos": "idiom",
+      "meaningKo": "(바퀴에 어깨를 대고 밀다 →) 힘껏 노력하다",
+      "ipa": "/pʊt jʊr ˈʃoʊldər tuː ðə wiːl/",
+      "synonyms": [
+        "work hard",
+        "make an effort"
+      ],
+      "matchText": "Put your shoulder to the wheel",
+      "sentenceId": "s2",
+      "example": {
+        "en": "If you want to pass, you must put your shoulder to the wheel.",
+        "ko": "합격하고 싶다면 힘껏 노력해야 한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "lift a finger",
+      "pos": "idiom",
+      "meaningKo": "(주로 부정문) 손가락 하나 까딱하다, 조금이라도 돕다",
+      "ipa": "/lɪft ə ˈfɪŋɡər/",
+      "synonyms": [
+        "make an effort",
+        "help out"
+      ],
+      "matchText": "lift a finger",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He never lifts a finger to clean his room.",
+        "ko": "그는 자기 방을 치우려고 손가락 하나 까딱하지 않는다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "expect",
+      "pos": "verb",
+      "meaningKo": "기대하다, 예상하다",
+      "ipa": "/ɪkˈspɛkt/",
+      "synonyms": [
+        "hope for",
+        "count on"
+      ],
+      "matchText": "expect",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Don't expect others to do your work.",
+        "ko": "다른 사람이 네 일을 해 주기를 기대하지 마."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Waggoner",
+          "role": "S",
+          "sub": false,
+          "ko": "한 마부가"
+        },
+        {
+          "text": "was driving",
+          "role": "V",
+          "sub": false,
+          "ko": "몰고 있었다"
+        },
+        {
+          "text": "his team",
+          "role": "O",
+          "sub": false,
+          "ko": "자기 말들을"
+        },
+        {
+          "text": "along a muddy lane",
+          "role": "M",
+          "sub": false,
+          "ko": "진흙투성이 길을 따라"
+        },
+        {
+          "text": "with a full load behind them,",
+          "role": "M",
+          "sub": false,
+          "ko": "뒤에 짐을 가득 싣고,"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그때"
+        },
+        {
+          "text": "the wheels of his waggon",
+          "role": "S",
+          "sub": true,
+          "ko": "그의 마차 바퀴가"
+        },
+        {
+          "text": "sank",
+          "role": "V",
+          "sub": true,
+          "ko": "빠졌다"
+        },
+        {
+          "text": "so deep",
+          "role": "M",
+          "sub": true,
+          "ko": "너무 깊이"
+        },
+        {
+          "text": "in the mire",
+          "role": "M",
+          "sub": true,
+          "ko": "진창에"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "no efforts of his horses",
+          "role": "S",
+          "sub": true,
+          "ko": "말들의 어떤 노력도"
+        },
+        {
+          "text": "could move",
+          "role": "V",
+          "sub": true,
+          "ko": "움직일 수 없었다"
+        },
+        {
+          "text": "them.",
+          "role": "O",
+          "sub": true,
+          "ko": "그것들(바퀴)을."
+        }
+      ],
+      "skeleton": "A Waggoner was driving his team",
+      "explanation": "앞부분이 뼈대예요(마부가 말들을 몰고 있었다). when 뒤는 '그때 ~했다'라는 사건이고, 그 안에 so deep ~ that(너무 깊이 빠져서 그 결과 ~)이 들어 있어요. no efforts ... could move는 '어떤 노력도 움직일 수 없었다'는 부정이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "If",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "만약"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": true,
+          "ko": "네가"
+        },
+        {
+          "text": "won't lift",
+          "role": "V",
+          "sub": true,
+          "ko": "까딱하지 않으려 한다면"
+        },
+        {
+          "text": "a finger",
+          "role": "O",
+          "sub": true,
+          "ko": "손가락 하나"
+        },
+        {
+          "text": "to help yourself,",
+          "role": "M",
+          "sub": true,
+          "ko": "네 자신을 돕기 위해,"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "너는"
+        },
+        {
+          "text": "can't expect",
+          "role": "V",
+          "sub": false,
+          "ko": "기대할 수 없다"
+        },
+        {
+          "text": "Hercules or any one else",
+          "role": "O",
+          "sub": false,
+          "ko": "헤라클레스나 다른 누구도"
+        },
+        {
+          "text": "to come",
+          "role": "OC",
+          "sub": false,
+          "ko": "오기를"
+        },
+        {
+          "text": "to your aid.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "너를 도우러.\""
+        }
+      ],
+      "skeleton": "you can't expect Hercules to come",
+      "explanation": "If절(조건) 다음에 뼈대 you can't expect가 와요. expect A to B는 'A가 B하기를 기대하다'예요. to help yourself는 '너 자신을 돕기 위해'라는 목적을 나타내요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거진행형 (was + -ing)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "was driving"
+      ],
+      "explanation": "was driving은 '몰고 있었다'라는 뜻으로 과거 어느 때에 진행 중이던 동작을 나타내요. 이야기를 시작할 때 배경을 보여 주는 데 자주 써요.",
+      "example": {
+        "en": "I was reading a book when the phone rang.",
+        "ko": "전화가 울렸을 때 나는 책을 읽고 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "명령문 + and then (~해라, 그러면)",
+      "tags": [
+        "접속사",
+        "조동사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "Put your shoulder to the wheel",
+        "and then you may call"
+      ],
+      "explanation": "동사원형으로 시작하면 '~해라'라는 명령문이에요. 명령 뒤에 and then이 오면 '그렇게 하고 나서 ~해도 된다'는 뜻이 돼요. may는 '~해도 된다'는 허락이에요.",
+      "example": {
+        "en": "Finish your homework, and then you may play games.",
+        "ko": "숙제를 끝내라, 그러고 나면 게임을 해도 된다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "expect + 목적어 + to 동사원형",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "expect Hercules or any one else to come"
+      ],
+      "explanation": "expect A to B는 'A가 B하기를 기대하다'예요. A가 실제로 행동하는 사람이에요. 여기서는 헤라클레스나 다른 누군가가 '오기를' 기대한다는 뜻이에요.",
+      "example": {
+        "en": "My mom expects me to come home by six.",
+        "ko": "엄마는 내가 6시까지 집에 오기를 기대하신다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "waggoner": {
+      "lemma": "waggoner",
+      "pos": "noun",
+      "ko": "마부, 짐마차꾼",
+      "form": null,
+      "synonyms": [
+        "wagon driver",
+        "carter"
+      ],
+      "ipa": "/ˈwæɡənər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거형",
+      "synonyms": [],
+      "ipa": "/wɑːz/"
+    },
+    "driving": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(말·마차를) 몰다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "steering",
+        "guiding"
+      ],
+      "ipa": "/ˈdraɪvɪŋ/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "(마차를 끄는) 한 무리의 말",
+      "form": null,
+      "synonyms": [
+        "horses",
+        "pair"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "muddy": {
+      "lemma": "muddy",
+      "pos": "adjective",
+      "ko": "진흙투성이의",
+      "form": null,
+      "synonyms": [
+        "dirty",
+        "boggy"
+      ],
+      "ipa": "/ˈmʌdi/"
+    },
+    "lane": {
+      "lemma": "lane",
+      "pos": "noun",
+      "ko": "좁은 길, 시골길",
+      "form": null,
+      "synonyms": [
+        "path",
+        "road"
+      ],
+      "ipa": "/leɪn/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "가득 찬",
+      "form": null,
+      "synonyms": [
+        "filled",
+        "loaded"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "load": {
+      "lemma": "load",
+      "pos": "noun",
+      "ko": "짐, 화물",
+      "form": null,
+      "synonyms": [
+        "cargo",
+        "burden"
+      ],
+      "ipa": "/loʊd/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~의 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을, 그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "(~하고 있는데) 그때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "wheels": {
+      "lemma": "wheel",
+      "pos": "noun",
+      "ko": "바퀴들",
+      "form": "복수형",
+      "synonyms": [
+        "tyres"
+      ],
+      "ipa": "/wiːlz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "waggon": {
+      "lemma": "waggon",
+      "pos": "noun",
+      "ko": "짐마차 (= wagon)",
+      "form": null,
+      "synonyms": [
+        "cart",
+        "wagon"
+      ],
+      "ipa": "/ˈwæɡən/"
+    },
+    "sank": {
+      "lemma": "sink",
+      "pos": "verb",
+      "ko": "빠졌다, 가라앉았다",
+      "form": "과거형",
+      "synonyms": [
+        "went down",
+        "dropped"
+      ],
+      "ipa": "/sæŋk/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "(so ~ that) 너무 ~해서",
+      "form": null,
+      "synonyms": [
+        "very",
+        "such"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adverb",
+      "ko": "깊이",
+      "form": null,
+      "synonyms": [
+        "far down"
+      ],
+      "ipa": "/diːp/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "mire": {
+      "lemma": "mire",
+      "pos": "noun",
+      "ko": "진창, 수렁",
+      "form": null,
+      "synonyms": [
+        "mud",
+        "swamp"
+      ],
+      "ipa": "/maɪr/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서, ~할 만큼",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "efforts": {
+      "lemma": "effort",
+      "pos": "noun",
+      "ko": "노력, 애씀",
+      "form": "복수형",
+      "synonyms": [
+        "attempts",
+        "tries"
+      ],
+      "ipa": "/ˈɛfərts/"
+    },
+    "horses": {
+      "lemma": "horse",
+      "pos": "noun",
+      "ko": "말들",
+      "form": "복수형",
+      "synonyms": [
+        "steeds"
+      ],
+      "ipa": "/ˈhɔːrsəz/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "움직이다",
+      "form": null,
+      "synonyms": [
+        "shift",
+        "budge"
+      ],
+      "ipa": "/muːv/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하면서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (남성·수컷 3인칭)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "remained",
+        "waited"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에",
+      "form": null,
+      "synonyms": [
+        "in that place"
+      ],
+      "ipa": "/ðɛr/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look on) 구경하다, 바라보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "watching",
+        "gazing"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "helplessly": {
+      "lemma": "helplessly",
+      "pos": "adverb",
+      "ko": "어쩔 줄 모르고, 속수무책으로",
+      "form": null,
+      "synonyms": [
+        "powerlessly"
+      ],
+      "ipa": "/ˈhɛlpləsli/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "adverb",
+      "ko": "(look on) 계속, 옆에서 (지켜보며); (goad on) 앞으로",
+      "form": null,
+      "synonyms": [
+        "onward"
+      ],
+      "ipa": "/ɑːn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "calling": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "(call upon) ~에게 외쳐 부르다, 청하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "crying",
+        "appealing"
+      ],
+      "ipa": "/ˈkɔːlɪŋ/"
+    },
+    "loudly": {
+      "lemma": "loudly",
+      "pos": "adverb",
+      "ko": "큰 소리로",
+      "form": null,
+      "synonyms": [
+        "noisily"
+      ],
+      "ipa": "/ˈlaʊdli/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at intervals) 이따금, 간간이",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "intervals": {
+      "lemma": "interval",
+      "pos": "noun",
+      "ko": "(at intervals) 간격, 사이",
+      "form": "복수형",
+      "synonyms": [
+        "gaps",
+        "pauses"
+      ],
+      "ipa": "/ˈɪntərvəlz/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에게 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "hercules": {
+      "lemma": "Hercules",
+      "pos": "proper-noun",
+      "ko": "헤라클레스 (그리스·로마 신화의 힘센 영웅·신)",
+      "form": null,
+      "ipa": "/ˈhɜːrkjəˌliːz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 구하여, ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "assistance": {
+      "lemma": "assistance",
+      "pos": "noun",
+      "ko": "도움, 원조",
+      "form": null,
+      "synonyms": [
+        "help",
+        "aid",
+        "support"
+      ],
+      "ipa": "/əˈsɪstəns/"
+    },
+    "god": {
+      "lemma": "god",
+      "pos": "noun",
+      "ko": "신",
+      "form": null,
+      "synonyms": [
+        "deity"
+      ],
+      "ipa": "/ɡɑːd/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "몸소, 직접 (강조)",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "appeared": {
+      "lemma": "appear",
+      "pos": "verb",
+      "ko": "나타났다",
+      "form": "과거형",
+      "synonyms": [
+        "showed up",
+        "emerged"
+      ],
+      "ipa": "/əˈpɪrd/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "replied"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에 (대고); (to부정사) ~하기 위해, ~하도록",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "대다, 놓다",
+      "form": null,
+      "synonyms": [
+        "place",
+        "set"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "shoulder": {
+      "lemma": "shoulder",
+      "pos": "noun",
+      "ko": "어깨",
+      "form": null,
+      "synonyms": [
+        "upper arm"
+      ],
+      "ipa": "/ˈʃoʊldər/"
+    },
+    "wheel": {
+      "lemma": "wheel",
+      "pos": "noun",
+      "ko": "바퀴",
+      "form": null,
+      "synonyms": [
+        "tyre"
+      ],
+      "ipa": "/wiːl/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "(부르는 말) 이봐, 여보게",
+      "form": null,
+      "synonyms": [
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "goad": {
+      "lemma": "goad",
+      "pos": "verb",
+      "ko": "(막대기로 찔러) 몰다, 재촉하다",
+      "form": null,
+      "synonyms": [
+        "drive",
+        "urge",
+        "prod"
+      ],
+      "ipa": "/ɡoʊd/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그런 다음에",
+      "form": null,
+      "synonyms": [
+        "after that",
+        "next"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "(call on) ~에게 도움을 청하다",
+      "form": null,
+      "synonyms": [
+        "ask",
+        "appeal"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "assist": {
+      "lemma": "assist",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "help",
+        "aid"
+      ],
+      "ipa": "/əˈsɪst/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "won't": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하려 하지 않다 (will not)",
+      "form": "줄임말",
+      "ipa": "/woʊnt/"
+    },
+    "lift": {
+      "lemma": "lift",
+      "pos": "verb",
+      "ko": "들어 올리다",
+      "form": null,
+      "synonyms": [
+        "raise"
+      ],
+      "ipa": "/lɪft/"
+    },
+    "finger": {
+      "lemma": "finger",
+      "pos": "noun",
+      "ko": "손가락",
+      "form": null,
+      "synonyms": [
+        "digit"
+      ],
+      "ipa": "/ˈfɪŋɡər/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "aid"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "너 자신",
+      "form": null,
+      "ipa": "/jərˈsɛlf/"
+    },
+    "can't": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다 (cannot)",
+      "form": "줄임말",
+      "ipa": "/kænt/"
+    },
+    "expect": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "기대하다",
+      "form": null,
+      "synonyms": [
+        "hope",
+        "count on"
+      ],
+      "ipa": "/ɪkˈspɛkt/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는, ~이나",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~(이든)",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(any one) 어떤 사람",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "else": {
+      "lemma": "else",
+      "pos": "adverb",
+      "ko": "그 밖의, 다른",
+      "form": null,
+      "synonyms": [
+        "other",
+        "besides"
+      ],
+      "ipa": "/ɛls/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "aid": {
+      "lemma": "aid",
+      "pos": "noun",
+      "ko": "도움, 원조",
+      "form": null,
+      "synonyms": [
+        "help",
+        "assistance"
+      ],
+      "ipa": "/eɪd/"
+    }
+  }
+}
