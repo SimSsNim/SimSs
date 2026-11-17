@@ -155,6 +155,28 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
     );
   };
 
+  const stop = () => { setAuto(false); setPaused(false); };
+  const start = () => { if (done) { setSeed((x) => x + 1); setAnswered(0); } setAuto(true); setPaused(false); };
+
+  // 자동 재생: 카드가 화면을 꽉 채우고, 아래에는 정지 버튼만
+  if (auto && !done && card) {
+    return (
+      <div data-testid="flash-full" role="dialog" aria-label="플래시카드 자동 재생"
+        style={{ position: 'fixed', inset: 0, zIndex: 80, background: 'var(--bg)', display: 'flex', flexDirection: 'column', gap: 10,
+          padding: 'calc(env(safe-area-inset-top) + 12px) 12px calc(env(safe-area-inset-bottom) + 12px)' }}>
+        <span className={s.badgeAccent} data-testid="flash-index" aria-live="polite" style={{ alignSelf: 'flex-start' }}>{i + 1} / {n}</span>
+        <div className={`${s.card} ${w.flash}`} {...swipe} role="button" tabIndex={0} data-testid="flash-card"
+          aria-label={paused ? '일시정지됨. 탭하면 계속' : '탭하면 일시정지'} style={{ flex: 1, minHeight: 0, overflow: 'auto', fontSize: '1.15em' }}>
+          {front()}
+          {(flipped || mode === 'both') && mode !== 'cloze' ? back() : null}
+          {mode === 'cloze' && flipped ? <div className={w.flashMeaning}>{card.meaningKo}</div> : null}
+          {paused && <span className={s.badge} data-testid="flash-paused">⏸ 일시정지 · 탭하면 계속</span>}
+        </div>
+        <button type="button" className={s.primary + ' ' + s.big} onClick={stop} data-testid="flash-stop" style={{ width: '100%', justifyContent: 'center' }}>■ 정지</button>
+      </div>
+    );
+  }
+
   return (
     <div data-testid="flashcards">
       {title && <h2 className={s.h2}>{title}</h2>}
@@ -163,10 +185,6 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
       </div>
       <div className={s.between} style={{ margin: '4px 0 8px' }}>
         <span className={s.badgeAccent} data-testid="flash-index" aria-live="polite">{done ? n : i + 1} / {n}</span>
-        <div className={s.seg}>
-          <button type="button" className={s.segBtn} aria-pressed={!auto} onClick={() => setAuto(false)} data-testid="flash-manual">수동</button>
-          <button type="button" className={s.segBtn} aria-pressed={auto} onClick={() => { setAuto(true); setPaused(false); }} data-testid="flash-auto">자동</button>
-        </div>
       </div>
 
       {done ? (
@@ -180,8 +198,7 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
           {front()}
           {(flipped || mode === 'both') && mode !== 'cloze' ? back() : null}
           {mode === 'cloze' && flipped ? <div className={w.flashMeaning}>{card.meaningKo}</div> : null}
-          {!flipped && mode !== 'both' && <span className={s.small + ' ' + s.muted}>{auto ? '' : '탭해서 확인'}</span>}
-          {auto && paused && <span className={s.badge} data-testid="flash-paused">⏸ 일시정지</span>}
+          {!flipped && mode !== 'both' && <span className={s.small + ' ' + s.muted}>탭해서 확인</span>}
         </div>
       )}
 
@@ -194,14 +211,14 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
           </div>
           <div className={s.row} style={{ marginTop: 8 }}>
             <button type="button" className={s.btn} onClick={prev} disabled={i === 0} aria-label="이전 카드">‹</button>
-            {auto && <button type="button" className={s.btn + ' ' + s.grow} onClick={() => setPaused((p) => !p)} data-testid="flash-pause">{paused ? '▶ 계속' : '⏸ 일시정지'}</button>}
-            {!auto && <button type="button" className={s.btn + ' ' + s.grow} onClick={() => setFlipped((f) => !f)}>뒤집기</button>}
+            <button type="button" className={s.btn + ' ' + s.grow} onClick={() => setFlipped((f) => !f)}>뒤집기</button>
             <button type="button" className={s.btn} onClick={next} aria-label="다음 카드" data-testid="flash-next">›</button>
           </div>
         </>
       )}
 
-      <details className={s.card} style={{ marginTop: 12 }} open={auto}>
+      <button type="button" className={s.primary + ' ' + s.big} onClick={start} data-testid="flash-play" style={{ width: '100%', justifyContent: 'center', marginTop: 12 }}>▶ 자동 재생</button>
+      <details className={s.card} style={{ marginTop: 8 }}>
         <summary style={{ minHeight: 36, cursor: 'pointer', fontWeight: 600 }}>자동 재생 설정</summary>
         <div className={s.stack} style={{ marginTop: 8 }}>
           <label className={s.label}>{twoPhase ? '앞면' : '간격'} {st.flashFrontSec.toFixed(1)}초

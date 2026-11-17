@@ -137,19 +137,29 @@ test('3. 플래시카드 자동 넘김 2초 · 일시정지 · 탭 이동 시 �
   const idx = page.getByTestId('flash-index');
   await expect(idx).toHaveText('1 / 5');
   const t0 = Date.now();
-  await page.getByTestId('flash-auto').click();
+  await page.getByTestId('flash-play').click();
+  await expect(page.getByTestId('flash-full')).toBeVisible(); // 화면을 꽉 채움
+  await expect(page.getByTestId('flash-full').getByRole('button')).toHaveCount(2); // 카드 + 정지 버튼뿐
   await expect(idx).toHaveText('2 / 5', { timeout: 4000 });
   const dt = Date.now() - t0;
   expect(dt).toBeGreaterThan(1500);
   expect(dt).toBeLessThan(3500);
-  await page.getByTestId('flash-pause').click();
+  await page.getByTestId('flash-card').click(); // 카드를 탭하면 잠깐 멈춤
   await expect(page.getByTestId('flash-paused')).toBeVisible();
   await page.waitForTimeout(2600);
   await expect(idx).toHaveText('2 / 5');
-  await page.getByTestId('flash-pause').click();
+  await page.getByTestId('flash-card').click();
   await expect(idx).toHaveText('3 / 5', { timeout: 4000 });
-  // 다른 탭으로 가면 타이머가 정리되어 아무 일도 일어나지 않는다
-  await page.getByTestId('tab-full').click();
+  // 정지: 원래 화면(수동)으로, 보던 카드 그대로
+  await page.getByTestId('flash-stop').click();
+  await expect(page.getByTestId('flash-full')).toHaveCount(0);
+  await expect(idx).toHaveText('3 / 5');
+  await page.waitForTimeout(2600);
+  await expect(idx).toHaveText('3 / 5');
+  await page.getByTestId('flash-play').click();
+  // 다른 탭으로 가면(자동 재생 화면이 탭을 가리므로 주소로 이동) 타이머가 정리되어 아무 일도 일어나지 않는다
+  await page.evaluate(() => { location.hash = '#/general/lesson/2026-11-12-L1/full'; });
+  await expect(page.getByTestId('flash-full')).toHaveCount(0);
   await page.waitForTimeout(2600);
   expect(errors).toEqual([]);
   await page.getByTestId('tab-vocab').click();
