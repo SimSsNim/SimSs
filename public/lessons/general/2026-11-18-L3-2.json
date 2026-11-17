@@ -1,0 +1,1738 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-18-L3-2",
+  "date": "2026-11-18",
+  "level": 3,
+  "title": "Mother Holle",
+  "titleKo": "홀레 할머니",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "hard work"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Mother Holle)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Mother Holle' 첫 3개 단락 전체 (‘Once upon a time there was a widow’부터 ‘…blooming in every direction.’까지, 224단어). 의붓딸이 우물에 빠져 신비한 풀밭에서 깨어나는 장면까지. gutenberg.org가 503(점검 중)이라 archive.org에 보관된 같은 전자책의 옛 판(PG #2591, grimm10.txt)에서 가져왔고 줄바꿈만 공백 하나로 이음. 원문의 'stopped over the well'은 'stooped(몸을 굽혔다)'의 오식으로 보이지만 원문 그대로 두고 '몸을 굽혔을 때'로 번역함."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_21_motherholle.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_21_motherholle_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Gesine",
+    "durationSec": 549,
+    "startSec": 15,
+    "endSec": 110,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 21 'Mother Holle' (전체 9:09). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:50 (추정)."
+  },
+  "wordCount": 224,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "옛날 옛적에 두 딸을 둔 과부가 있었다. 한 딸은 아름답고 부지런했고, 다른 딸은 못생기고 게을렀다. 그런데 어머니는 못생기고 게으른 딸을 가장 아꼈는데, 그 아이가 자기 친딸이었기 때문이다. 그래서 의붓딸일 뿐인 다른 딸은 집안일을 모두 떠맡아야 했고, 그야말로 집안의 신데렐라 신세였다. 계모는 날마다 그 아이를 큰길가 우물 옆에 앉혀 손가락에서 피가 날 때까지 실을 잣게 했다. 그러던 어느 날 우연히 피가 물렛가락에 떨어졌고, 소녀가 그것을 씻으려고 우물 위로 몸을 굽혔을 때 물렛가락이 갑자기 손에서 튀어 나가 우물 속으로 떨어져 버렸다. 소녀는 울면서 집으로 달려가 이 불운한 일을 이야기했지만, 계모는 모질게 말하며 호되게 꾸짖은 뒤 매정하게 말했다. “네가 물렛가락을 우물에 떨어뜨렸으니 네가 직접 가서 꺼내 오너라.”"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "소녀는 어찌할 바를 모른 채 우물로 돌아갔고, 마침내 괴로운 마음에 물렛가락을 따라 물속으로 뛰어들었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "소녀는 그 뒤로 아무것도 기억하지 못하다가, 깨어나 보니 햇살이 가득하고 사방에 셀 수 없이 많은 꽃이 피어 있는 아름다운 풀밭에 있었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Once upon a time there was a widow who had two daughters; one of them was beautiful and industrious, the other ugly and lazy.",
+      "ko": "옛날 옛적에 두 딸을 둔 과부가 있었다. 한 딸은 아름답고 부지런했고, 다른 딸은 못생기고 게을렀다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The mother, however, loved the ugly and lazy one best, because she was her own daughter, and so the other, who was only her stepdaughter, was made to do all the work of the house, and was quite the Cinderella of the family.",
+      "ko": "그런데 어머니는 못생기고 게으른 딸을 가장 아꼈는데, 그 아이가 자기 친딸이었기 때문이다. 그래서 의붓딸일 뿐인 다른 딸은 집안일을 모두 떠맡아야 했고, 그야말로 집안의 신데렐라 신세였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Her stepmother sent her out every day to sit by the well in the high road, there to spin until she made her fingers bleed.",
+      "ko": "계모는 날마다 그 아이를 큰길가 우물 옆에 앉혀 손가락에서 피가 날 때까지 실을 잣게 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Now it chanced one day that some blood fell on to the spindle, and as the girl stopped over the well to wash it off, the spindle suddenly sprang out of her hand and fell into the well.",
+      "ko": "그러던 어느 날 우연히 피가 물렛가락에 떨어졌고, 소녀가 그것을 씻으려고 우물 위로 몸을 굽혔을 때 물렛가락이 갑자기 손에서 튀어 나가 우물 속으로 떨어져 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "She ran home crying to tell of her misfortune, but her stepmother spoke harshly to her, and after giving her a violent scolding, said unkindly, 'As you have let the spindle fall into the well you may go yourself and fetch it out.'",
+      "ko": "소녀는 울면서 집으로 달려가 이 불운한 일을 이야기했지만, 계모는 모질게 말하며 호되게 꾸짖은 뒤 매정하게 말했다. “네가 물렛가락을 우물에 떨어뜨렸으니 네가 직접 가서 꺼내 오너라.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "The girl went back to the well not knowing what to do, and at last in her distress she jumped into the water after the spindle.",
+      "ko": "소녀는 어찌할 바를 모른 채 우물로 돌아갔고, 마침내 괴로운 마음에 물렛가락을 따라 물속으로 뛰어들었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "She remembered nothing more until she awoke and found herself in a beautiful meadow, full of sunshine, and with countless flowers blooming in every direction.",
+      "ko": "소녀는 그 뒤로 아무것도 기억하지 못하다가, 깨어나 보니 햇살이 가득하고 사방에 셀 수 없이 많은 꽃이 피어 있는 아름다운 풀밭에 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "industrious",
+      "pos": "adjective",
+      "meaningKo": "부지런한, 근면한",
+      "ipa": "/ɪnˈdʌstriəs/",
+      "synonyms": [
+        "hard-working",
+        "diligent"
+      ],
+      "matchText": "industrious",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The industrious student finished her homework before dinner.",
+        "ko": "그 부지런한 학생은 저녁 전에 숙제를 끝냈다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "stepdaughter",
+      "pos": "noun",
+      "meaningKo": "의붓딸",
+      "ipa": "/ˈstɛpˌdɔtɚ/",
+      "synonyms": [
+        "step-child"
+      ],
+      "matchText": "stepdaughter",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He treated his stepdaughter like his own child.",
+        "ko": "그는 의붓딸을 친자식처럼 대했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "it chanced that",
+      "pos": "phrase",
+      "meaningKo": "우연히 ~하게 되었다",
+      "ipa": "/ɪt tʃænst ðæt/",
+      "synonyms": [
+        "it happened that",
+        "by chance"
+      ],
+      "matchText": "it chanced one day that",
+      "sentenceId": "s4",
+      "example": {
+        "en": "It chanced that we were on the same train.",
+        "ko": "우연히 우리는 같은 기차에 타고 있었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "misfortune",
+      "pos": "noun",
+      "meaningKo": "불운, 불행한 일",
+      "ipa": "/mɪsˈfɔrtʃən/",
+      "synonyms": [
+        "bad luck",
+        "mishap"
+      ],
+      "matchText": "misfortune",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Losing his wallet was a small misfortune.",
+        "ko": "지갑을 잃어버린 것은 작은 불운이었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "countless",
+      "pos": "adjective",
+      "meaningKo": "셀 수 없이 많은",
+      "ipa": "/ˈkaʊntləs/",
+      "synonyms": [
+        "innumerable",
+        "endless"
+      ],
+      "matchText": "countless",
+      "sentenceId": "s7",
+      "example": {
+        "en": "There are countless stars in the night sky.",
+        "ko": "밤하늘에는 셀 수 없이 많은 별이 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "The mother,",
+          "role": "S",
+          "sub": false,
+          "ko": "어머니는"
+        },
+        {
+          "text": "however,",
+          "role": "M",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "loved",
+          "role": "V",
+          "sub": false,
+          "ko": "가장 아꼈다"
+        },
+        {
+          "text": "the ugly and lazy one",
+          "role": "O",
+          "sub": false,
+          "ko": "못생기고 게으른 딸을"
+        },
+        {
+          "text": "best,",
+          "role": "M",
+          "sub": false,
+          "ko": "가장"
+        },
+        {
+          "text": "because",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그 아이가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였기 때문에"
+        },
+        {
+          "text": "her own daughter,",
+          "role": "C",
+          "sub": true,
+          "ko": "자기 친딸"
+        },
+        {
+          "text": "and so",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "the other,",
+          "role": "S",
+          "sub": false,
+          "ko": "다른 딸은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그런데 그 아이는)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "only her stepdaughter,",
+          "role": "C",
+          "sub": true,
+          "ko": "의붓딸일 뿐인"
+        },
+        {
+          "text": "was made to do",
+          "role": "V",
+          "sub": false,
+          "ko": "하도록 강요받았다"
+        },
+        {
+          "text": "all the work of the house,",
+          "role": "O",
+          "sub": false,
+          "ko": "집안일을 모두"
+        },
+        {
+          "text": "and was",
+          "role": "V",
+          "sub": false,
+          "ko": "그리고 ~였다"
+        },
+        {
+          "text": "quite the Cinderella of the family.",
+          "role": "C",
+          "sub": false,
+          "ko": "그야말로 집안의 신데렐라"
+        }
+      ],
+      "skeleton": "The mother loved the ugly one best ... and the other was made to do all the work",
+      "explanation": "앞부분은 S+V+O(The mother loved the ugly and lazy one) 구조에 because절(이유)이 붙었습니다. 뒷부분의 주어 the other에는 who절(삽입된 관계사절)이 붙어 '의붓딸일 뿐인'이라고 설명하고, 동사는 수동태 was made to do(~하도록 강요당했다)와 was(2형식)가 and로 이어집니다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Now",
+          "role": "M",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "chanced",
+          "role": "V",
+          "sub": false,
+          "ko": "우연히 일어났다"
+        },
+        {
+          "text": "one day",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 일이"
+        },
+        {
+          "text": "some blood",
+          "role": "S",
+          "sub": true,
+          "ko": "피가"
+        },
+        {
+          "text": "fell",
+          "role": "V",
+          "sub": true,
+          "ko": "떨어졌다"
+        },
+        {
+          "text": "on to the spindle,",
+          "role": "M",
+          "sub": true,
+          "ko": "물렛가락 위로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "the girl",
+          "role": "S",
+          "sub": true,
+          "ko": "소녀가"
+        },
+        {
+          "text": "stopped",
+          "role": "V",
+          "sub": true,
+          "ko": "몸을 굽혔다"
+        },
+        {
+          "text": "over the well",
+          "role": "M",
+          "sub": true,
+          "ko": "우물 위로"
+        },
+        {
+          "text": "to wash it off,",
+          "role": "M",
+          "sub": true,
+          "ko": "그것을 씻어 내려고"
+        },
+        {
+          "text": "the spindle",
+          "role": "S",
+          "sub": false,
+          "ko": "물렛가락이"
+        },
+        {
+          "text": "suddenly",
+          "role": "M",
+          "sub": false,
+          "ko": "갑자기"
+        },
+        {
+          "text": "sprang",
+          "role": "V",
+          "sub": false,
+          "ko": "튀어 나갔다"
+        },
+        {
+          "text": "out of her hand",
+          "role": "M",
+          "sub": false,
+          "ko": "그녀의 손에서"
+        },
+        {
+          "text": "and fell",
+          "role": "V",
+          "sub": false,
+          "ko": "그리고 떨어졌다"
+        },
+        {
+          "text": "into the well.",
+          "role": "M",
+          "sub": false,
+          "ko": "우물 속으로"
+        }
+      ],
+      "skeleton": "it chanced that some blood fell ... and the spindle sprang and fell",
+      "explanation": "it은 가주어이고 진짜 주어는 that절(some blood fell on to the spindle)입니다. 뒷부분은 as절(~할 때)이 앞에 오고, 주절 the spindle이 sprang과 fell 두 동사를 and로 함께 가집니다. to wash it off는 목적(~하려고)을 나타내는 to부정사입니다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "The girl",
+          "role": "S",
+          "sub": false,
+          "ko": "소녀는"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": false,
+          "ko": "갔다"
+        },
+        {
+          "text": "back",
+          "role": "M",
+          "sub": false,
+          "ko": "다시"
+        },
+        {
+          "text": "to the well",
+          "role": "M",
+          "sub": false,
+          "ko": "우물로"
+        },
+        {
+          "text": "not knowing what to do,",
+          "role": "M",
+          "sub": false,
+          "ko": "어찌할 바를 모른 채"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "at last",
+          "role": "M",
+          "sub": false,
+          "ko": "마침내"
+        },
+        {
+          "text": "in her distress",
+          "role": "M",
+          "sub": false,
+          "ko": "괴로운 나머지"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "jumped",
+          "role": "V",
+          "sub": false,
+          "ko": "뛰어들었다"
+        },
+        {
+          "text": "into the water",
+          "role": "M",
+          "sub": false,
+          "ko": "물속으로"
+        },
+        {
+          "text": "after the spindle.",
+          "role": "M",
+          "sub": false,
+          "ko": "물렛가락을 따라"
+        }
+      ],
+      "skeleton": "The girl went back ... and she jumped into the water",
+      "explanation": "S+V(1형식) 문장 두 개가 and로 이어졌습니다. not knowing what to do는 '~을 모른 채'라는 뜻의 분사구문(부정은 분사 앞에 not), what to do는 '무엇을 해야 할지'라는 의문사+to부정사입니다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "사역동사의 수동태: be made to do",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "was made to do"
+      ],
+      "explanation": "능동태 'make + 사람 + 동사원형(~에게 …하게 시키다)'을 수동태로 바꾸면 동사원형 앞에 to가 붙어 'be made to + 동사원형(…하도록 강요받다)'이 됩니다. 여기서는 의붓딸이 집안일을 모두 떠맡아야 했다는 뜻입니다.",
+      "example": {
+        "en": "He was made to clean the classroom after school.",
+        "ko": "그는 방과 후에 교실 청소를 해야 했다."
+      },
+      "note": "능동: They made him clean the room. → 수동: He was made to clean the room."
+    },
+    {
+      "id": "g2",
+      "title": "가주어 it + that절",
+      "tags": [
+        "명사절",
+        "대명사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "it chanced",
+        "that some blood fell on to the spindle"
+      ],
+      "explanation": "주어인 that절이 길면 앞에 가주어 it을 두고 that절을 뒤로 보냅니다. 'It chanced (one day) that ~'은 '(어느 날) 우연히 ~하게 되었다'는 뜻으로, It happened that ~과 같습니다.",
+      "example": {
+        "en": "It happened that I met my teacher at the station.",
+        "ko": "우연히 나는 역에서 선생님을 만났다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "부정 분사구문: not + -ing",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "not knowing what to do"
+      ],
+      "explanation": "분사구문을 부정할 때는 분사 앞에 not을 둡니다. not knowing what to do는 '무엇을 해야 할지 모른 채'라는 뜻으로 주절의 동작(went back)과 동시에 일어나는 상황을 나타냅니다.",
+      "example": {
+        "en": "Not knowing the answer, he kept silent.",
+        "ko": "답을 몰라서 그는 잠자코 있었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에 (once upon a time: 옛날 옛적에)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시절 (once upon a time: 옛날 옛적에)",
+      "form": null,
+      "synonyms": [
+        "period",
+        "age"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was: ~이 있었다); 거기서",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "widow": {
+      "lemma": "widow",
+      "pos": "noun",
+      "ko": "과부, 미망인",
+      "form": null,
+      "synonyms": [
+        "widowed woman"
+      ],
+      "ipa": "/ˈwɪdoʊ/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다; (had a ~) ~이 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "owned",
+        "possessed"
+      ],
+      "ipa": "/hæd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "daughters": {
+      "lemma": "daughter",
+      "pos": "noun",
+      "ko": "딸",
+      "form": "복수형",
+      "synonyms": [
+        "girl",
+        "child"
+      ],
+      "ipa": "/ˈdɔːtərz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, 한 사람; (the ugly one) ~한 쪽",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중에",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들 (목적격)",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "pretty",
+        "lovely"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "industrious": {
+      "lemma": "industrious",
+      "pos": "adjective",
+      "ko": "부지런한",
+      "form": null,
+      "synonyms": [
+        "hard-working",
+        "diligent"
+      ],
+      "ipa": "/ˌɪnˈdʌstriəs/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 하나, 나머지 한 사람",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "ugly": {
+      "lemma": "ugly",
+      "pos": "adjective",
+      "ko": "못생긴",
+      "form": null,
+      "synonyms": [
+        "plain",
+        "unattractive"
+      ],
+      "ipa": "/ˈʌɡli/"
+    },
+    "lazy": {
+      "lemma": "lazy",
+      "pos": "adjective",
+      "ko": "게으른",
+      "form": null,
+      "synonyms": [
+        "idle",
+        "slothful"
+      ],
+      "ipa": "/ˈleɪzi/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니",
+      "form": null,
+      "synonyms": [
+        "mom",
+        "parent"
+      ],
+      "ipa": "/ˈmʌðər/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "synonyms": [
+        "yet",
+        "nevertheless"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "loved": {
+      "lemma": "love",
+      "pos": "verb",
+      "ko": "사랑했다, 아꼈다",
+      "form": "과거형",
+      "synonyms": [
+        "adored",
+        "cherished"
+      ],
+      "ipa": "/lʌvd/"
+    },
+    "best": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "가장 (많이) (love ~ best: ~를 가장 사랑하다)",
+      "form": "최상급",
+      "synonyms": [
+        "most"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의; 그녀를",
+      "form": "소유격/목적격",
+      "ipa": "/hɜːr/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의, 친(親)~",
+      "form": null,
+      "synonyms": [
+        "very own"
+      ],
+      "ipa": "/oʊn/"
+    },
+    "daughter": {
+      "lemma": "daughter",
+      "pos": "noun",
+      "ko": "딸",
+      "form": null,
+      "synonyms": [
+        "girl",
+        "child"
+      ],
+      "ipa": "/ˈdɔːtər/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서; (so the other) 그리하여",
+      "form": null,
+      "synonyms": [
+        "therefore",
+        "thus"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "단지, ~일 뿐",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "stepdaughter": {
+      "lemma": "stepdaughter",
+      "pos": "noun",
+      "ko": "의붓딸",
+      "form": null,
+      "synonyms": [
+        "step-child"
+      ],
+      "ipa": "/ˈstɛpˌdɔːtər/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(be made to do) ~하도록 강요받다, 시키다",
+      "form": "과거분사",
+      "synonyms": [
+        "forced",
+        "compelled"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하려고, ~하기",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform",
+        "carry out"
+      ],
+      "ipa": "/duː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일",
+      "form": null,
+      "synonyms": [
+        "labor",
+        "chores"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": null,
+      "synonyms": [
+        "home",
+        "household"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "완전히, 그야말로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "really"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "cinderella": {
+      "lemma": "Cinderella",
+      "pos": "proper-noun",
+      "ko": "신데렐라 (구박받는 처지의 사람을 비유)",
+      "form": null,
+      "ipa": "/ˌsɪndəˈrɛlə/"
+    },
+    "family": {
+      "lemma": "family",
+      "pos": "noun",
+      "ko": "가족, 집안",
+      "form": null,
+      "synonyms": [
+        "household",
+        "home"
+      ],
+      "ipa": "/ˈfæməli/"
+    },
+    "stepmother": {
+      "lemma": "stepmother",
+      "pos": "noun",
+      "ko": "계모, 새어머니",
+      "form": null,
+      "synonyms": [
+        "step-parent"
+      ],
+      "ipa": "/ˈstɛpˌmʌðər/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보냈다 (send out: 내보내다)",
+      "form": "과거형",
+      "synonyms": [
+        "dispatched",
+        "ordered"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "매~, 모든 (every day: 매일)",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "sit": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다",
+      "form": null,
+      "synonyms": [
+        "be seated"
+      ],
+      "ipa": "/sɪt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~ 옆에, ~ 곁에",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "noun",
+      "ko": "우물",
+      "form": null,
+      "synonyms": [
+        "spring",
+        "water hole"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "(high road) 큰길, 간선 도로의",
+      "form": null,
+      "synonyms": [
+        "main",
+        "principal"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "road": {
+      "lemma": "road",
+      "pos": "noun",
+      "ko": "길, 도로 (high road: 큰길)",
+      "form": null,
+      "synonyms": [
+        "street",
+        "highway"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "spin": {
+      "lemma": "spin",
+      "pos": "verb",
+      "ko": "실을 잣다",
+      "form": null,
+      "synonyms": [
+        "make thread",
+        "twist"
+      ],
+      "ipa": "/spɪn/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "fingers": {
+      "lemma": "finger",
+      "pos": "noun",
+      "ko": "손가락",
+      "form": "복수형",
+      "synonyms": [
+        "digits"
+      ],
+      "ipa": "/ˈfɪŋɡərz/"
+    },
+    "bleed": {
+      "lemma": "bleed",
+      "pos": "verb",
+      "ko": "피가 나다",
+      "form": null,
+      "synonyms": [
+        "shed blood"
+      ],
+      "ipa": "/bliːd/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "그런데 (이야기 전환)",
+      "form": null,
+      "synonyms": [
+        "then"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(가주어) 그것; 그것을",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "chanced": {
+      "lemma": "chance",
+      "pos": "verb",
+      "ko": "우연히 ~하게 되다 (it chanced that: 우연히 ~했다)",
+      "form": "과거형",
+      "synonyms": [
+        "happened",
+        "occurred"
+      ],
+      "ipa": "/tʃænst/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의, 몇 방울의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "blood": {
+      "lemma": "blood",
+      "pos": "noun",
+      "ko": "피",
+      "form": null,
+      "synonyms": [
+        "gore"
+      ],
+      "ipa": "/blʌd/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "떨어졌다",
+      "form": "과거형",
+      "synonyms": [
+        "dropped",
+        "tumbled"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에 (on to: ~ 위로)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "spindle": {
+      "lemma": "spindle",
+      "pos": "noun",
+      "ko": "물렛가락, 방추",
+      "form": null,
+      "synonyms": [
+        "spool",
+        "bobbin"
+      ],
+      "ipa": "/ˈspɪndəl/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때; ~이므로",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "소녀, 여자아이",
+      "form": null,
+      "synonyms": [
+        "maiden",
+        "lass"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈췄다 (여기서는 stooped '몸을 굽혔다'의 오식으로 보임)",
+      "form": "과거형",
+      "synonyms": [
+        "stooped",
+        "bent"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 위로 (몸을 굽혀)",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "wash": {
+      "lemma": "wash",
+      "pos": "verb",
+      "ko": "씻다 (wash off: 씻어 내다)",
+      "form": null,
+      "synonyms": [
+        "rinse",
+        "clean"
+      ],
+      "ipa": "/wɑːʃ/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "떨어져, 씻겨 나가 (wash off: 씻어 내다)",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "suddenly": {
+      "lemma": "suddenly",
+      "pos": "adverb",
+      "ko": "갑자기",
+      "form": null,
+      "synonyms": [
+        "all at once",
+        "abruptly"
+      ],
+      "ipa": "/ˈsʌdənli/"
+    },
+    "sprang": {
+      "lemma": "spring",
+      "pos": "verb",
+      "ko": "튀어 나갔다",
+      "form": "과거형",
+      "synonyms": [
+        "leapt",
+        "jumped"
+      ],
+      "ipa": "/spræŋ/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": null,
+      "synonyms": [
+        "palm",
+        "grip"
+      ],
+      "ipa": "/hænd/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "달려갔다",
+      "form": "과거형",
+      "synonyms": [
+        "rushed",
+        "hurried"
+      ],
+      "ipa": "/ræn/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "crying": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "울면서",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "weeping",
+        "sobbing"
+      ],
+      "ipa": "/ˈkraɪɪŋ/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 알리다 (tell of: ~에 대해 이야기하다)",
+      "form": null,
+      "synonyms": [
+        "report",
+        "relate"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "misfortune": {
+      "lemma": "misfortune",
+      "pos": "noun",
+      "ko": "불운, 불행한 일",
+      "form": null,
+      "synonyms": [
+        "mishap",
+        "bad luck",
+        "accident"
+      ],
+      "ipa": "/mɪsˈfɔːrtʃən/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "spoke": {
+      "lemma": "speak",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "talked",
+        "said"
+      ],
+      "ipa": "/spoʊk/"
+    },
+    "harshly": {
+      "lemma": "harshly",
+      "pos": "adverb",
+      "ko": "거칠게, 모질게",
+      "form": null,
+      "synonyms": [
+        "roughly",
+        "severely"
+      ],
+      "ipa": "/ˈhɑːrʃli/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~한 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "giving": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주는 것 (give a scolding: 꾸짖다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "delivering"
+      ],
+      "ipa": "/ˈɡɪvɪŋ/"
+    },
+    "violent": {
+      "lemma": "violent",
+      "pos": "adjective",
+      "ko": "격렬한, 심한",
+      "form": null,
+      "synonyms": [
+        "fierce",
+        "harsh",
+        "intense"
+      ],
+      "ipa": "/ˈvaɪələnt/"
+    },
+    "scolding": {
+      "lemma": "scolding",
+      "pos": "noun",
+      "ko": "꾸지람, 야단",
+      "form": null,
+      "synonyms": [
+        "telling-off",
+        "rebuke"
+      ],
+      "ipa": "/ˈskoʊldɪŋ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "stated"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "unkindly": {
+      "lemma": "unkindly",
+      "pos": "adverb",
+      "ko": "매정하게, 불친절하게",
+      "form": null,
+      "synonyms": [
+        "cruelly",
+        "harshly"
+      ],
+      "ipa": "/ʌnˈkaɪndli/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 네가",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 두다 (let ~ fall: ~을 떨어뜨리다)",
+      "form": "과거분사",
+      "synonyms": [
+        "allowed"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "fall": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "떨어지다",
+      "form": null,
+      "synonyms": [
+        "drop"
+      ],
+      "ipa": "/fɔːl/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다; ~하는 게 좋겠다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "travel",
+        "head"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "네가 직접, 너 스스로",
+      "form": null,
+      "ipa": "/jərˈsɛlf/"
+    },
+    "fetch": {
+      "lemma": "fetch",
+      "pos": "verb",
+      "ko": "가서 가져오다 (fetch out: 꺼내 오다)",
+      "form": null,
+      "synonyms": [
+        "retrieve",
+        "get",
+        "bring"
+      ],
+      "ipa": "/fɛtʃ/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다 (went back: 돌아갔다)",
+      "form": "과거형",
+      "synonyms": [
+        "returned"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "다시, 뒤로",
+      "form": null,
+      "ipa": "/bæk/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다, ~아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "knowing": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알면서 (not knowing: ~을 모른 채)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "understanding"
+      ],
+      "ipa": "/ˈnoʊɪŋ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at last: 마침내)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "마지막 (at last: 마침내, 결국)",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "distress": {
+      "lemma": "distress",
+      "pos": "noun",
+      "ko": "괴로움, 곤경, 비탄",
+      "form": null,
+      "synonyms": [
+        "anguish",
+        "despair",
+        "misery"
+      ],
+      "ipa": "/dɪˈstrɛs/"
+    },
+    "jumped": {
+      "lemma": "jump",
+      "pos": "verb",
+      "ko": "뛰어들었다",
+      "form": "과거형",
+      "synonyms": [
+        "leapt",
+        "sprang"
+      ],
+      "ipa": "/dʒʌmpt/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "form": null,
+      "synonyms": [
+        "liquid"
+      ],
+      "ipa": "/ˈwɔːtər/"
+    },
+    "remembered": {
+      "lemma": "remember",
+      "pos": "verb",
+      "ko": "기억했다",
+      "form": "과거형",
+      "synonyms": [
+        "recalled",
+        "recollected"
+      ],
+      "ipa": "/rɪˈmɛmbərd/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 (~않다)",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더, 그 이상",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "awoke": {
+      "lemma": "awake",
+      "pos": "verb",
+      "ko": "잠에서 깼다, 정신이 들었다",
+      "form": "과거형",
+      "synonyms": [
+        "woke up",
+        "came to"
+      ],
+      "ipa": "/əˈwoʊk/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "(find oneself ~) 정신을 차려 보니 ~에 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "discovered"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "herself": {
+      "lemma": "herself",
+      "pos": "pronoun",
+      "ko": "그녀 자신",
+      "form": null,
+      "ipa": "/hərˈsɛlf/"
+    },
+    "meadow": {
+      "lemma": "meadow",
+      "pos": "noun",
+      "ko": "풀밭, 목초지",
+      "form": null,
+      "synonyms": [
+        "field",
+        "pasture",
+        "grassland"
+      ],
+      "ipa": "/ˈmɛˌdoʊ/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "~이 가득한",
+      "form": null,
+      "synonyms": [
+        "filled",
+        "flooded"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "sunshine": {
+      "lemma": "sunshine",
+      "pos": "noun",
+      "ko": "햇살, 햇빛",
+      "form": null,
+      "synonyms": [
+        "sunlight",
+        "light"
+      ],
+      "ipa": "/ˈsʌnˌʃaɪn/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~이 있는, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "countless": {
+      "lemma": "countless",
+      "pos": "adjective",
+      "ko": "셀 수 없이 많은",
+      "form": null,
+      "synonyms": [
+        "innumerable",
+        "numberless",
+        "endless"
+      ],
+      "ipa": "/ˈkaʊntləs/"
+    },
+    "flowers": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": "복수형",
+      "synonyms": [
+        "blossoms",
+        "blooms"
+      ],
+      "ipa": "/ˈflaʊərz/"
+    },
+    "blooming": {
+      "lemma": "bloom",
+      "pos": "verb",
+      "ko": "피어 있는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "blossoming",
+        "flowering"
+      ],
+      "ipa": "/ˈbluːmɪŋ/"
+    },
+    "direction": {
+      "lemma": "direction",
+      "pos": "noun",
+      "ko": "방향 (in every direction: 사방에)",
+      "form": null,
+      "synonyms": [
+        "way",
+        "side"
+      ],
+      "ipa": "/dəˈrɛkʃən/"
+    }
+  }
+}
