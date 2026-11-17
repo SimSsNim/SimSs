@@ -1,0 +1,1417 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-18-L2",
+  "date": "2026-11-18",
+  "level": 2,
+  "title": "The Lark and the Farmer",
+  "titleKo": "종달새와 농부",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Self-help is the best help.'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_03_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_03_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-6-fables-126-150",
+    "reader": "Christine Dewar",
+    "durationSec": 94,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 06, 03번 트랙(전체 128번 우화). 앞부분에 LibriVox 안내 멘트가 있음, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 184,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "종달새 한 마리가 밀밭에 둥지를 틀고, 익어 가는 곡식 아래 숨어서 새끼들을 기르고 있었다. 어느 날 새끼들이 아직 깃털이 다 자라기 전에 농부가 밀을 보러 왔다가, 밀이 빠르게 누렇게 익는 것을 보고 말했다. \"이웃들에게 소식을 돌려서 이 밭 거두는 일을 도우러 오라고 해야겠군.\" 새끼 종달새 하나가 그 말을 엿듣고 몹시 겁이 나서, 어미에게 당장 이사하는 게 낫지 않겠냐고 물었다. \"서두를 것 없단다.\" 어미가 대답했다. \"친구들에게 도움을 바라는 사람은 일을 느긋하게 하거든.\" 며칠 뒤 농부가 다시 들렀다가, 곡식이 너무 익어서 이삭에서 땅으로 떨어지고 있는 것을 보았다. \"더는 미룰 수 없겠어.\" 농부가 말했다. \"오늘 당장 일꾼들을 구해서 곧바로 일을 시켜야지.\" 종달새는 그 말을 듣고 새끼들에게 말했다. \"얘들아, 이제 떠나야 한다. 저 사람이 이제 친구 이야기는 더 하지 않고, 직접 일을 맡아 하려고 하는구나.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Lark nested in a field of corn, and was rearing her brood under cover of the ripening grain.",
+      "ko": "종달새 한 마리가 밀밭에 둥지를 틀고, 익어 가는 곡식 아래 숨어서 새끼들을 기르고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "One day, before the young were fully fledged, the Farmer came to look at the crop, and, finding it yellowing fast, he said, \"I must send round word to my neighbours to come and help me reap this field.\"",
+      "ko": "어느 날 새끼들이 아직 깃털이 다 자라기 전에 농부가 밀을 보러 왔다가, 밀이 빠르게 누렇게 익는 것을 보고 말했다. \"이웃들에게 소식을 돌려서 이 밭 거두는 일을 도우러 오라고 해야겠군.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "One of the young Larks overheard him, and was very much frightened, and asked her mother whether they hadn't better move house at once.",
+      "ko": "새끼 종달새 하나가 그 말을 엿듣고 몹시 겁이 나서, 어미에게 당장 이사하는 게 낫지 않겠냐고 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "\"There's no hurry,\" replied she; \"a man who looks to his friends for help will take his time about a thing.\"",
+      "ko": "\"서두를 것 없단다.\" 어미가 대답했다. \"친구들에게 도움을 바라는 사람은 일을 느긋하게 하거든.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "In a few days the Farmer came by again, and saw that the grain was overripe and falling out of the ears upon the ground.",
+      "ko": "며칠 뒤 농부가 다시 들렀다가, 곡식이 너무 익어서 이삭에서 땅으로 떨어지고 있는 것을 보았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "\"I must put it off no longer,\" he said; \"This very day I'll hire the men and set them to work at once.\"",
+      "ko": "\"더는 미룰 수 없겠어.\" 농부가 말했다. \"오늘 당장 일꾼들을 구해서 곧바로 일을 시켜야지.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "The Lark heard him and said to her young, \"Come, my children, we must be off: he talks no more of his friends now, but is going to take things in hand himself.\"",
+      "ko": "종달새는 그 말을 듣고 새끼들에게 말했다. \"얘들아, 이제 떠나야 한다. 저 사람이 이제 친구 이야기는 더 하지 않고, 직접 일을 맡아 하려고 하는구나.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "rear",
+      "pos": "verb",
+      "meaningKo": "(아이·새끼를) 기르다",
+      "ipa": "/rɪr/",
+      "synonyms": [
+        "raise",
+        "bring up"
+      ],
+      "matchText": "rearing",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The birds are rearing their chicks in the nest.",
+        "ko": "새들이 둥지에서 새끼를 기르고 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "fledged",
+      "pos": "adjective",
+      "meaningKo": "(새가) 깃털이 다 자란, 날 수 있게 된",
+      "ipa": "/flɛdʒd/",
+      "synonyms": [
+        "feathered",
+        "grown"
+      ],
+      "matchText": "fledged",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The young birds left the nest once they were fully fledged.",
+        "ko": "어린 새들은 깃털이 다 자라자 둥지를 떠났다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "overhear",
+      "pos": "verb",
+      "meaningKo": "(우연히) 엿듣다",
+      "ipa": "/ˌoʊvərˈhɪr/",
+      "synonyms": [
+        "eavesdrop",
+        "catch"
+      ],
+      "matchText": "overheard",
+      "sentenceId": "s3",
+      "example": {
+        "en": "I overheard my parents talking about my birthday gift.",
+        "ko": "나는 부모님이 내 생일 선물 이야기를 하는 걸 우연히 들었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "put off",
+      "pos": "phrasal-verb",
+      "meaningKo": "미루다, 연기하다",
+      "ipa": "/pʊt ɔf/",
+      "synonyms": [
+        "delay",
+        "postpone"
+      ],
+      "matchText": "put it off",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Don't put off your homework until tomorrow.",
+        "ko": "숙제를 내일로 미루지 마라."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "take ~ in hand",
+      "pos": "idiom",
+      "meaningKo": "~을 직접 맡아 처리하다",
+      "ipa": "/teɪk ɪn hænd/",
+      "synonyms": [
+        "take charge of",
+        "handle"
+      ],
+      "matchText": "take things in hand",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The coach took the team in hand and trained them hard.",
+        "ko": "코치가 팀을 직접 맡아 열심히 훈련시켰다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "One day,",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날,"
+        },
+        {
+          "text": "before",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~ 전에"
+        },
+        {
+          "text": "the young",
+          "role": "S",
+          "sub": true,
+          "ko": "새끼들이"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "fully fledged,",
+          "role": "C",
+          "sub": true,
+          "ko": "깃털이 다 자란,"
+        },
+        {
+          "text": "the Farmer",
+          "role": "S",
+          "sub": false,
+          "ko": "농부가"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "왔다"
+        },
+        {
+          "text": "to look at the crop,",
+          "role": "M",
+          "sub": false,
+          "ko": "곡식을 보러,"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고,"
+        },
+        {
+          "text": "finding it yellowing fast,",
+          "role": "M",
+          "sub": false,
+          "ko": "그것이 빠르게 누렇게 익는 걸 보고,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "said,",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다,"
+        },
+        {
+          "text": "\"I must send round word to my neighbours to come and help me reap this field.\"",
+          "role": "O",
+          "sub": false,
+          "ko": "\"이웃들에게 와서 이 밭 거두는 걸 도와 달라고 소식을 돌려야겠다.\""
+        }
+      ],
+      "skeleton": "the Farmer came … and … he said",
+      "explanation": "before절이 시간을, 'to look at'이 목적을, 'finding ~' 분사구문이 이유를 나타내요. 문장의 뼈대는 '농부가 왔고 … 말했다'예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "One of the young Larks",
+          "role": "S",
+          "sub": false,
+          "ko": "새끼 종달새 중 하나가"
+        },
+        {
+          "text": "overheard",
+          "role": "V",
+          "sub": false,
+          "ko": "엿들었다"
+        },
+        {
+          "text": "him,",
+          "role": "O",
+          "sub": false,
+          "ko": "그의 말을,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "very much frightened,",
+          "role": "C",
+          "sub": false,
+          "ko": "몹시 겁먹은,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "asked",
+          "role": "V",
+          "sub": false,
+          "ko": "물었다"
+        },
+        {
+          "text": "her mother",
+          "role": "IO",
+          "sub": false,
+          "ko": "어미에게"
+        },
+        {
+          "text": "whether",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~인지"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "hadn't better move",
+          "role": "V",
+          "sub": true,
+          "ko": "이사하는 게 낫지 않은지"
+        },
+        {
+          "text": "house at once.",
+          "role": "O",
+          "sub": true,
+          "ko": "당장 집을"
+        }
+      ],
+      "skeleton": "One … overheard him, and was …, and asked her mother (whether …)",
+      "explanation": "주어 하나에 동사 세 개(overheard, was, asked)가 and로 이어져요. 'whether ~'는 '~인지 아닌지'라는 명사절로 asked의 직접목적어예요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "\"There's",
+          "role": "V",
+          "sub": false,
+          "ko": "\"~이 있다"
+        },
+        {
+          "text": "no hurry,\"",
+          "role": "S",
+          "sub": false,
+          "ko": "서두를 일은 없다,\""
+        },
+        {
+          "text": "replied",
+          "role": "V",
+          "sub": false,
+          "ko": "대답했다"
+        },
+        {
+          "text": "she;",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀가;"
+        },
+        {
+          "text": "\"a man",
+          "role": "S",
+          "sub": true,
+          "ko": "\"사람은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는"
+        },
+        {
+          "text": "looks to his friends for help",
+          "role": "V",
+          "sub": true,
+          "ko": "친구들에게 도움을 바라는"
+        },
+        {
+          "text": "will take",
+          "role": "V",
+          "sub": true,
+          "ko": "들일 것이다"
+        },
+        {
+          "text": "his time",
+          "role": "O",
+          "sub": true,
+          "ko": "자기 시간을"
+        },
+        {
+          "text": "about a thing.\"",
+          "role": "M",
+          "sub": true,
+          "ko": "일에 대해\""
+        }
+      ],
+      "skeleton": "a man (who …) will take his time",
+      "explanation": "관계대명사 who가 이끄는 절이 a man을 꾸며요. 'take one's time'은 '서두르지 않다, 느긋하게 하다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "분사구문 finding ~",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "finding it yellowing fast"
+      ],
+      "explanation": "'finding ~'은 'when he found ~(~을 알게 되자)'를 짧게 줄인 분사구문이에요. find + 목적어 + -ing는 '~가 …하고 있는 것을 발견하다'예요.",
+      "example": {
+        "en": "Feeling tired, I went to bed early.",
+        "ko": "피곤해서 나는 일찍 잤다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "had better + 동사원형",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "hadn't better move"
+      ],
+      "explanation": "'had better ~'는 '~하는 게 낫다'예요. 여기서는 의문 느낌의 'whether they hadn't better ~'로 '~하는 게 낫지 않을지'라는 뜻이에요.",
+      "example": {
+        "en": "You had better take an umbrella.",
+        "ko": "우산을 가져가는 게 좋겠다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "주격 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "a man who looks to his friends for help"
+      ],
+      "explanation": "who는 앞의 사람(a man)을 꾸미는 절을 이끌어요. '친구들에게 도움을 바라는 사람'이 한 덩어리의 주어예요.",
+      "example": {
+        "en": "I have a friend who lives in Busan.",
+        "ko": "나는 부산에 사는 친구가 있다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lark": {
+      "lemma": "lark",
+      "pos": "noun",
+      "ko": "종달새",
+      "form": null,
+      "synonyms": [
+        "skylark"
+      ],
+      "ipa": "/lɑːrk/"
+    },
+    "nested": {
+      "lemma": "nest",
+      "pos": "verb",
+      "ko": "둥지를 틀다",
+      "form": "과거형",
+      "ipa": "/ˈnɛstəd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~ 후에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "field": {
+      "lemma": "field",
+      "pos": "noun",
+      "ko": "밭, 들판",
+      "form": null,
+      "ipa": "/fiːld/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "corn": {
+      "lemma": "corn",
+      "pos": "noun",
+      "ko": "곡식, 밀",
+      "form": null,
+      "synonyms": [
+        "grain",
+        "wheat"
+      ],
+      "ipa": "/kɔːrn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(과거진행) ~하고 있었다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "rearing": {
+      "lemma": "rear",
+      "pos": "verb",
+      "ko": "기르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "raise",
+        "bring up"
+      ],
+      "ipa": "/ˈrɪrɪŋ/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀의",
+      "form": "소유격",
+      "ipa": "/hɜːr/"
+    },
+    "brood": {
+      "lemma": "brood",
+      "pos": "noun",
+      "ko": "(한 배의) 새끼들",
+      "form": null,
+      "synonyms": [
+        "young",
+        "chicks"
+      ],
+      "ipa": "/bruːd/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래에",
+      "form": null,
+      "ipa": "/ˈʌndər/"
+    },
+    "cover": {
+      "lemma": "cover",
+      "pos": "noun",
+      "ko": "가림, 숨을 곳",
+      "form": null,
+      "synonyms": [
+        "shelter"
+      ],
+      "ipa": "/ˈkʌvər/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "ripening": {
+      "lemma": "ripen",
+      "pos": "verb",
+      "ko": "익어 가다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "mature"
+      ],
+      "ipa": "/ˈraɪpənɪŋ/"
+    },
+    "grain": {
+      "lemma": "grain",
+      "pos": "noun",
+      "ko": "곡식",
+      "form": null,
+      "synonyms": [
+        "crop"
+      ],
+      "ipa": "/ɡreɪn/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느, 하나의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "young": {
+      "lemma": "young",
+      "pos": "noun",
+      "ko": "(동물의) 새끼들",
+      "form": null,
+      "synonyms": [
+        "offspring"
+      ],
+      "ipa": "/jʌŋ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "과거형(복수)",
+      "ipa": "/wɜːr/"
+    },
+    "fully": {
+      "lemma": "fully",
+      "pos": "adverb",
+      "ko": "완전히",
+      "form": null,
+      "synonyms": [
+        "completely"
+      ],
+      "ipa": "/ˈfʊli/"
+    },
+    "fledged": {
+      "lemma": "fledged",
+      "pos": "adjective",
+      "ko": "깃털이 다 자란",
+      "form": null,
+      "synonyms": [
+        "feathered"
+      ],
+      "ipa": "/flɛdʒd/"
+    },
+    "farmer": {
+      "lemma": "farmer",
+      "pos": "noun",
+      "ko": "농부",
+      "form": null,
+      "ipa": "/ˈfɑːrmər/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "ipa": "/keɪm/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하러, ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look at) ~을 보다",
+      "form": null,
+      "ipa": "/lʊk/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "crop": {
+      "lemma": "crop",
+      "pos": "noun",
+      "ko": "농작물",
+      "form": null,
+      "synonyms": [
+        "harvest"
+      ],
+      "ipa": "/krɑːp/"
+    },
+    "finding": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "알게 되다, 발견하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "discover"
+      ],
+      "ipa": "/ˈfaɪndɪŋ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "yellowing": {
+      "lemma": "yellow",
+      "pos": "verb",
+      "ko": "누렇게 되다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈjɛloʊɪŋ/"
+    },
+    "fast": {
+      "lemma": "fast",
+      "pos": "adverb",
+      "ko": "빠르게",
+      "form": null,
+      "synonyms": [
+        "quickly"
+      ],
+      "ipa": "/fæst/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "ipa": "/sɛd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "send": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": null,
+      "ipa": "/sɛnd/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "adverb",
+      "ko": "여기저기, 돌려서",
+      "form": null,
+      "synonyms": [
+        "around"
+      ],
+      "ipa": "/raʊnd/"
+    },
+    "word": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "소식, 전갈",
+      "form": null,
+      "synonyms": [
+        "message",
+        "news"
+      ],
+      "ipa": "/wɜːrd/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "neighbours": {
+      "lemma": "neighbour",
+      "pos": "noun",
+      "ko": "이웃",
+      "form": "복수형(영국식 철자)",
+      "ipa": "/ˈneɪbərz/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "ipa": "/kʌm/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "aid"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "reap": {
+      "lemma": "reap",
+      "pos": "verb",
+      "ko": "(곡식을) 거두다",
+      "form": null,
+      "synonyms": [
+        "harvest",
+        "gather"
+      ],
+      "ipa": "/riːp/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "larks": {
+      "lemma": "lark",
+      "pos": "noun",
+      "ko": "종달새",
+      "form": "복수형",
+      "ipa": "/lɑːrks/"
+    },
+    "overheard": {
+      "lemma": "overhear",
+      "pos": "verb",
+      "ko": "엿듣다",
+      "form": "과거형",
+      "synonyms": [
+        "eavesdrop",
+        "catch"
+      ],
+      "ipa": "/ˈoʊvərˈhɜːrd/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그의 말을",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adjective",
+      "ko": "(this very day) 바로 그",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "많이, 몹시",
+      "form": null,
+      "synonyms": [
+        "greatly"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "frightened": {
+      "lemma": "frightened",
+      "pos": "adjective",
+      "ko": "겁먹은",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "afraid"
+      ],
+      "ipa": "/ˈfraɪtənd/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거형",
+      "synonyms": [
+        "inquire"
+      ],
+      "ipa": "/æskt/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니, 어미",
+      "form": null,
+      "ipa": "/ˈmʌðər/"
+    },
+    "whether": {
+      "lemma": "whether",
+      "pos": "conjunction",
+      "ko": "~인지 (아닌지)",
+      "form": null,
+      "ipa": "/ˈwɛðər/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "hadn't": {
+      "lemma": "have not",
+      "pos": "auxiliary",
+      "ko": "(had better) ~하는 게 낫지 않다",
+      "form": "줄임말(had not)",
+      "ipa": "/ˈhædənt/"
+    },
+    "better": {
+      "lemma": "better",
+      "pos": "adverb",
+      "ko": "(had better) ~하는 게 낫다",
+      "form": null,
+      "ipa": "/ˈbɛtər/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "(move house) 이사하다",
+      "form": null,
+      "synonyms": [
+        "relocate"
+      ],
+      "ipa": "/muːv/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": null,
+      "synonyms": [
+        "home"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "noun",
+      "ko": "(at once) 당장",
+      "form": null,
+      "ipa": "/wʌns/"
+    },
+    "there's": {
+      "lemma": "there is",
+      "pos": "phrase",
+      "ko": "~이 있다",
+      "form": "줄임말(there is)",
+      "ipa": "/ðɛrz/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "hurry": {
+      "lemma": "hurry",
+      "pos": "noun",
+      "ko": "서두름",
+      "form": null,
+      "synonyms": [
+        "rush",
+        "haste"
+      ],
+      "ipa": "/ˈhɜːri/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀는",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 남자",
+      "form": null,
+      "synonyms": [
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "looks": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look to A for B) A에게 B를 기대하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "rely"
+      ],
+      "ipa": "/lʊks/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "friends": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": "복수형",
+      "ipa": "/frɛndz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~을 바라고",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간을) 들이다, 맡다",
+      "form": null,
+      "ipa": "/teɪk/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": null,
+      "ipa": "/taɪm/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "일, 것",
+      "form": null,
+      "synonyms": [
+        "matter"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇몇의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "adverb",
+      "ko": "들러서, 곁을 지나",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "ipa": "/əˈɡɛn/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "notice"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "overripe": {
+      "lemma": "overripe",
+      "pos": "adjective",
+      "ko": "너무 익은",
+      "form": null,
+      "ipa": "/ˈoʊvərˈraɪp/"
+    },
+    "falling": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "떨어지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "drop"
+      ],
+      "ipa": "/ˈfɑːlɪŋ/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "ears": {
+      "lemma": "ear",
+      "pos": "noun",
+      "ko": "(곡식의) 이삭",
+      "form": "복수형",
+      "synonyms": [
+        "spike",
+        "head"
+      ],
+      "ipa": "/ɪrz/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "synonyms": [
+        "onto"
+      ],
+      "ipa": "/əˈpɑːn/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "soil"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "(put off) 미루다",
+      "form": null,
+      "synonyms": [
+        "delay",
+        "postpone"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(put off) 뒤로 미루어",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상",
+      "form": "비교급",
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "i'll": {
+      "lemma": "I will",
+      "pos": "phrase",
+      "ko": "나는 ~할 것이다",
+      "form": "줄임말(I will)",
+      "ipa": "/aɪl/"
+    },
+    "hire": {
+      "lemma": "hire",
+      "pos": "verb",
+      "ko": "고용하다",
+      "form": null,
+      "synonyms": [
+        "employ",
+        "engage"
+      ],
+      "ipa": "/ˈhaɪər/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람들, 일꾼",
+      "form": "복수형",
+      "synonyms": [
+        "workers"
+      ],
+      "ipa": "/mɛn/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(set A to work) A에게 일을 시키다",
+      "form": null,
+      "ipa": "/sɛt/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일",
+      "form": null,
+      "synonyms": [
+        "labor"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "과거형",
+      "ipa": "/hɜːrd/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이들, 자식",
+      "form": "복수형",
+      "synonyms": [
+        "kids"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(be off) 떠나다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "talks": {
+      "lemma": "talk",
+      "pos": "verb",
+      "ko": "말하다, 이야기하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "speak"
+      ],
+      "ipa": "/tɔːks/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "(no more) 더 이상 ~않다",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~하려고 하다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "things": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "일",
+      "form": "복수형",
+      "synonyms": [
+        "matters"
+      ],
+      "ipa": "/θɪŋz/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "(in hand) 직접 맡아",
+      "form": null,
+      "ipa": "/hænd/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신, 직접",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    }
+  }
+}

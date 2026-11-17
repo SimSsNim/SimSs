@@ -1,0 +1,1033 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-18-L1-3",
+  "date": "2026-11-18",
+  "level": 1,
+  "title": "The Belly and the Members",
+  "titleKo": "배와 팔다리",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_11_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_11_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "rk",
+    "durationSec": 87,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 11번 트랙(전체 161번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 123,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "어느 날 몸의 팔다리들이 배에게 반기를 들었다. \"너는,\" 팔다리들이 배에게 말했다. \"호강하며 게으르게 살면서 일은 조금도 하지 않잖아. 그런데 우리는 해야 할 힘든 일을 전부 해야 할 뿐 아니라, 사실상 네 노예가 되어 네가 원하는 것을 모두 시중들어야 해. 이제 우리는 더는 그렇게 하지 않을 테니, 앞으로는 네가 알아서 살아가.\" 팔다리들은 말한 대로 했고, 배가 굶도록 내버려 두었다. 결과는 누구나 예상할 수 있던 그대로였다. 곧 온몸이 약해지기 시작했고, 팔다리들도 모두 함께 무너지고 말았다. 그제야 팔다리들은 자기들이 얼마나 어리석었는지 깨달았지만 너무 늦었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The Members of the Body once rebelled against the Belly.",
+      "ko": "어느 날 몸의 팔다리들이 배에게 반기를 들었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "\"You,\" they said to the Belly, \"live in luxury and sloth, and never do a stroke of work; while we not only have to do all the hard work there is to be done, but are actually your slaves and have to minister to all your wants.",
+      "ko": "\"너는,\" 팔다리들이 배에게 말했다. \"호강하며 게으르게 살면서 일은 조금도 하지 않잖아. 그런데 우리는 해야 할 힘든 일을 전부 해야 할 뿐 아니라, 사실상 네 노예가 되어 네가 원하는 것을 모두 시중들어야 해.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Now, we will do so no longer, and you can shift for yourself for the future.\"",
+      "ko": "이제 우리는 더는 그렇게 하지 않을 테니, 앞으로는 네가 알아서 살아가.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "They were as good as their word, and left the Belly to starve.",
+      "ko": "팔다리들은 말한 대로 했고, 배가 굶도록 내버려 두었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The result was just what might have been expected: the whole Body soon began to fail, and the Members and all shared in the general collapse.",
+      "ko": "결과는 누구나 예상할 수 있던 그대로였다. 곧 온몸이 약해지기 시작했고, 팔다리들도 모두 함께 무너지고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "And then they saw too late how foolish they had been.",
+      "ko": "그제야 팔다리들은 자기들이 얼마나 어리석었는지 깨달았지만 너무 늦었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "rebel",
+      "pos": "verb",
+      "meaningKo": "반항하다, 반기를 들다",
+      "ipa": "/rɪˈbɛl/",
+      "synonyms": [
+        "revolt",
+        "rise up"
+      ],
+      "matchText": "rebelled",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The students rebelled against the new rule.",
+        "ko": "학생들은 새 규칙에 반발했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "luxury",
+      "pos": "noun",
+      "meaningKo": "호화로움, 사치",
+      "ipa": "/ˈlʌkʃəri/",
+      "synonyms": [
+        "comfort",
+        "wealth"
+      ],
+      "matchText": "luxury",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The king lived in luxury.",
+        "ko": "왕은 호화롭게 살았다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "shift for yourself",
+      "pos": "idiom",
+      "meaningKo": "혼자 힘으로 꾸려 나가다",
+      "ipa": "/ʃɪft fɔr jʊrˈsɛlf/",
+      "synonyms": [
+        "fend for yourself",
+        "take care of yourself"
+      ],
+      "matchText": "shift for yourself",
+      "sentenceId": "s3",
+      "example": {
+        "en": "When his parents left, he had to shift for himself.",
+        "ko": "부모님이 떠나자 그는 혼자 힘으로 살아가야 했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "as good as one's word",
+      "pos": "idiom",
+      "meaningKo": "약속(말)을 지키는",
+      "ipa": "/æz ɡʊd æz wʌnz wɜrd/",
+      "synonyms": [
+        "true to one's word",
+        "reliable"
+      ],
+      "matchText": "as good as their word",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She promised to help, and she was as good as her word.",
+        "ko": "그녀는 돕겠다고 약속했고, 말한 대로 했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "collapse",
+      "pos": "noun",
+      "meaningKo": "붕괴, 쓰러짐",
+      "ipa": "/kəˈlæps/",
+      "synonyms": [
+        "breakdown",
+        "fall"
+      ],
+      "matchText": "collapse",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The bridge's collapse surprised everyone.",
+        "ko": "다리가 무너져 모두가 놀랐다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "The Members of the Body",
+          "role": "S",
+          "sub": false,
+          "ko": "몸의 팔다리들이"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날"
+        },
+        {
+          "text": "rebelled",
+          "role": "V",
+          "sub": false,
+          "ko": "반기를 들었다"
+        },
+        {
+          "text": "against the Belly.",
+          "role": "M",
+          "sub": false,
+          "ko": "배에게"
+        }
+      ],
+      "skeleton": "The Members rebelled",
+      "explanation": "'of the Body'는 앞의 Members를 꾸며 줘요. 핵심은 '팔다리들이 반기를 들었다'예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "They",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "as good as their word,",
+          "role": "C",
+          "sub": false,
+          "ko": "자기들 말 그대로,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "left",
+          "role": "V",
+          "sub": false,
+          "ko": "내버려 두었다"
+        },
+        {
+          "text": "the Belly",
+          "role": "O",
+          "sub": false,
+          "ko": "배를"
+        },
+        {
+          "text": "to starve.",
+          "role": "OC",
+          "sub": false,
+          "ko": "굶도록"
+        }
+      ],
+      "skeleton": "They were … and left the Belly to starve",
+      "explanation": "'leave + 목적어 + to 동사원형'은 '~가 …하도록 내버려 두다'예요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "And then",
+          "role": "M",
+          "sub": false,
+          "ko": "그러고 나서"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "saw",
+          "role": "V",
+          "sub": false,
+          "ko": "깨달았다"
+        },
+        {
+          "text": "too late",
+          "role": "M",
+          "sub": false,
+          "ko": "너무 늦게"
+        },
+        {
+          "text": "how",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "얼마나"
+        },
+        {
+          "text": "foolish",
+          "role": "C",
+          "sub": true,
+          "ko": "어리석은"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "had been.",
+          "role": "V",
+          "sub": true,
+          "ko": "~였는지"
+        }
+      ],
+      "skeleton": "they saw (how foolish they had been)",
+      "explanation": "'how + 형용사 + 주어 + 동사'가 saw의 목적어 역할을 하는 명사절이에요. '얼마나 ~했는지'로 해석해요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "not only A but (also) B",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "not only",
+        "but are"
+      ],
+      "explanation": "'A뿐만 아니라 B도'라는 뜻이에요. 여기서는 '힘든 일을 다 해야 할 뿐 아니라 노예이기도 하다'로 쓰였어요.",
+      "example": {
+        "en": "She not only sings but also dances.",
+        "ko": "그녀는 노래할 뿐 아니라 춤도 춘다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "have to + 동사원형",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "have to do",
+        "have to minister"
+      ],
+      "explanation": "'have to'는 '~해야 한다'는 의무를 나타내요. must와 비슷한 뜻이에요.",
+      "example": {
+        "en": "We have to wear uniforms at school.",
+        "ko": "우리는 학교에서 교복을 입어야 한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거완료 had been",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "had been"
+      ],
+      "explanation": "'had + 과거분사'는 과거의 어느 때(saw)보다 더 이전의 일을 나타내요. 깨달은 것보다 어리석었던 것이 먼저예요.",
+      "example": {
+        "en": "When I arrived, the movie had already started.",
+        "ko": "내가 도착했을 때 영화는 이미 시작했었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "(몸의) 팔다리, 구성원",
+      "form": "복수형",
+      "synonyms": [
+        "limbs",
+        "parts"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "body": {
+      "lemma": "body",
+      "pos": "noun",
+      "ko": "몸",
+      "form": null,
+      "ipa": "/ˈbɑːdi/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "어느 날, 한때",
+      "form": null,
+      "synonyms": [
+        "one day"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "rebelled": {
+      "lemma": "rebel",
+      "pos": "verb",
+      "ko": "반기를 들다",
+      "form": "과거형",
+      "synonyms": [
+        "revolt",
+        "rise up"
+      ],
+      "ipa": "/rɪˈbɛld/"
+    },
+    "against": {
+      "lemma": "against",
+      "pos": "preposition",
+      "ko": "~에 반대하여",
+      "form": null,
+      "ipa": "/əˈɡɛnst/"
+    },
+    "belly": {
+      "lemma": "belly",
+      "pos": "noun",
+      "ko": "배",
+      "form": null,
+      "synonyms": [
+        "stomach"
+      ],
+      "ipa": "/ˈbɛli/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너는",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "ipa": "/sɛd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~하는 것 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": null,
+      "ipa": "/laɪv/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 속에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "luxury": {
+      "lemma": "luxury",
+      "pos": "noun",
+      "ko": "호화로움, 사치",
+      "form": null,
+      "synonyms": [
+        "comfort",
+        "wealth"
+      ],
+      "ipa": "/ˈlʌɡʒəri/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "sloth": {
+      "lemma": "sloth",
+      "pos": "noun",
+      "ko": "게으름, 나태",
+      "form": null,
+      "synonyms": [
+        "laziness",
+        "idleness"
+      ],
+      "ipa": "/sloʊθ/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "stroke": {
+      "lemma": "stroke",
+      "pos": "noun",
+      "ko": "(a stroke of work) 조금의 일",
+      "form": null,
+      "synonyms": [
+        "bit"
+      ],
+      "ipa": "/stroʊk/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일",
+      "form": null,
+      "synonyms": [
+        "labor"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "반면에",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "(not only) ~뿐만 아니라",
+      "form": null,
+      "ipa": "/ˈoʊnli/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have to) ~해야 하다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 전부",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adjective",
+      "ko": "힘든, 고된",
+      "form": null,
+      "synonyms": [
+        "difficult",
+        "tough"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(there is) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 있다, ~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "done": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "과거분사",
+      "ipa": "/dʌn/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, (not only ~ but) ~도",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "ipa": "/ɑːr/"
+    },
+    "actually": {
+      "lemma": "actually",
+      "pos": "adverb",
+      "ko": "실제로, 사실상",
+      "form": null,
+      "synonyms": [
+        "really",
+        "in fact"
+      ],
+      "ipa": "/ˈækˌtʃuːəli/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "slaves": {
+      "lemma": "slave",
+      "pos": "noun",
+      "ko": "노예",
+      "form": "복수형",
+      "synonyms": [
+        "servant"
+      ],
+      "ipa": "/sleɪvz/"
+    },
+    "minister": {
+      "lemma": "minister",
+      "pos": "verb",
+      "ko": "(to) 시중들다, 돌보다",
+      "form": null,
+      "synonyms": [
+        "serve",
+        "attend"
+      ],
+      "ipa": "/ˈmɪnəstər/"
+    },
+    "wants": {
+      "lemma": "want",
+      "pos": "noun",
+      "ko": "필요한 것, 원하는 것",
+      "form": "복수형",
+      "synonyms": [
+        "needs",
+        "desires"
+      ],
+      "ipa": "/wɑːnts/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상 ~않다",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "더 오래",
+      "form": "비교급",
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "shift": {
+      "lemma": "shift",
+      "pos": "verb",
+      "ko": "(shift for yourself) 혼자 꾸려 나가다",
+      "form": null,
+      "synonyms": [
+        "manage",
+        "cope"
+      ],
+      "ipa": "/ʃɪft/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "너 자신",
+      "form": null,
+      "ipa": "/jərˈsɛlf/"
+    },
+    "future": {
+      "lemma": "future",
+      "pos": "noun",
+      "ko": "미래, 앞날",
+      "form": null,
+      "ipa": "/ˈfjuːtʃər/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "과거형(복수)",
+      "ipa": "/wɜːr/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "~만큼 (as ~ as)",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "(as good as one's word) 약속을 지키는",
+      "form": null,
+      "synonyms": [
+        "true"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "word": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "말, 약속",
+      "form": null,
+      "synonyms": [
+        "promise"
+      ],
+      "ipa": "/wɜːrd/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "내버려 두다",
+      "form": "과거형",
+      "synonyms": [
+        "abandon"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "starve": {
+      "lemma": "starve",
+      "pos": "verb",
+      "ko": "굶주리다, 굶어 죽다",
+      "form": null,
+      "synonyms": [
+        "go hungry"
+      ],
+      "ipa": "/stɑːrv/"
+    },
+    "result": {
+      "lemma": "result",
+      "pos": "noun",
+      "ko": "결과",
+      "form": null,
+      "synonyms": [
+        "outcome"
+      ],
+      "ipa": "/rɪˈzʌlt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "딱, 바로",
+      "form": null,
+      "synonyms": [
+        "exactly"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "might": {
+      "lemma": "might",
+      "pos": "auxiliary",
+      "ko": "~할지도 모르다",
+      "form": null,
+      "ipa": "/maɪt/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(완료 수동) ~되었다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "expected": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다",
+      "form": "과거분사",
+      "synonyms": [
+        "predict",
+        "anticipate"
+      ],
+      "ipa": "/ɪkˈspɛktəd/"
+    },
+    "whole": {
+      "lemma": "whole",
+      "pos": "adjective",
+      "ko": "전체의, 온",
+      "form": null,
+      "synonyms": [
+        "entire"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "fail": {
+      "lemma": "fail",
+      "pos": "verb",
+      "ko": "약해지다, 기능을 잃다",
+      "form": null,
+      "synonyms": [
+        "weaken",
+        "decline"
+      ],
+      "ipa": "/feɪl/"
+    },
+    "shared": {
+      "lemma": "share",
+      "pos": "verb",
+      "ko": "함께 겪다",
+      "form": "과거형",
+      "synonyms": [
+        "take part in"
+      ],
+      "ipa": "/ʃɛrd/"
+    },
+    "general": {
+      "lemma": "general",
+      "pos": "adjective",
+      "ko": "전체의, 모두에 걸친",
+      "form": null,
+      "synonyms": [
+        "overall",
+        "widespread"
+      ],
+      "ipa": "/ˈdʒɛnərəl/"
+    },
+    "collapse": {
+      "lemma": "collapse",
+      "pos": "noun",
+      "ko": "붕괴, 쓰러짐",
+      "form": null,
+      "synonyms": [
+        "breakdown",
+        "fall"
+      ],
+      "ipa": "/kəˈlæps/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그제야",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "깨닫다, 알다",
+      "form": "과거형",
+      "synonyms": [
+        "realize"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "late": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "늦게",
+      "form": null,
+      "ipa": "/leɪt/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "foolish": {
+      "lemma": "foolish",
+      "pos": "adjective",
+      "ko": "어리석은",
+      "form": null,
+      "synonyms": [
+        "silly",
+        "stupid"
+      ],
+      "ipa": "/ˈfuːlɪʃ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    }
+  }
+}

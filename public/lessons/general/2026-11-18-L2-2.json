@@ -1,0 +1,1241 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-18-L2-2",
+  "date": "2026-11-18",
+  "level": 2,
+  "title": "The Dog and the Wolf",
+  "titleKo": "개와 늑대",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Once bitten, twice shy.'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_21_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_21_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-9-fables-201-225",
+    "reader": "Aaron Hochwimmer",
+    "durationSec": 68,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 09, 21번 트랙(전체 221번 우화). 앞부분에 LibriVox 안내 멘트가 있음, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 162,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "개 한 마리가 농장 문 앞에서 햇볕을 쬐며 누워 있었는데, 늑대 한 마리가 덮쳐서 막 잡아먹으려 했다. 하지만 개는 살려 달라고 빌며 말했다. \"보시다시피 제가 얼마나 말랐는지, 지금은 얼마나 형편없는 한 끼가 될지 아시겠지요. 하지만 며칠만 기다려 주시면 제 주인이 잔치를 열 거예요. 맛있는 음식 찌꺼기와 남은 음식이 모두 제 차지가 될 테니 저는 보기 좋게 살이 찔 거예요. 그때가 바로 저를 잡아먹을 때랍니다.\" 늑대는 그것이 아주 좋은 계획이라고 생각하고 떠나갔다. 얼마 뒤 늑대가 다시 농장에 와 보니, 개는 손이 닿지 않는 마구간 지붕 위에 누워 있었다. \"내려와.\" 늑대가 외쳤다. \"와서 잡아먹혀야지. 우리 약속 기억하지?\" 하지만 개는 태연하게 말했다. \"이봐, 만약 내가 또 그 문 옆에 누워 있는 걸 보게 되거든, 잔치 같은 건 기다리지 마.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Dog was lying in the sun before a farmyard gate when a Wolf pounced upon him and was just going to eat him up; but he begged for his life and said, \"You see how thin I am and what a wretched meal I should make you now: but if you will only wait a few days my master is going to give a feast.",
+      "ko": "개 한 마리가 농장 문 앞에서 햇볕을 쬐며 누워 있었는데, 늑대 한 마리가 덮쳐서 막 잡아먹으려 했다. 하지만 개는 살려 달라고 빌며 말했다. \"보시다시피 제가 얼마나 말랐는지, 지금은 얼마나 형편없는 한 끼가 될지 아시겠지요. 하지만 며칠만 기다려 주시면 제 주인이 잔치를 열 거예요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "All the rich scraps and pickings will fall to me and I shall get nice and fat: then will be the time for you to eat me.\"",
+      "ko": "맛있는 음식 찌꺼기와 남은 음식이 모두 제 차지가 될 테니 저는 보기 좋게 살이 찔 거예요. 그때가 바로 저를 잡아먹을 때랍니다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The Wolf thought this was a very good plan and went away.",
+      "ko": "늑대는 그것이 아주 좋은 계획이라고 생각하고 떠나갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Some time afterwards he came to the farmyard again, and found the Dog lying out of reach on the stable roof.",
+      "ko": "얼마 뒤 늑대가 다시 농장에 와 보니, 개는 손이 닿지 않는 마구간 지붕 위에 누워 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "\"Come down,\" he called, \"and be eaten: you remember our agreement?\"",
+      "ko": "\"내려와.\" 늑대가 외쳤다. \"와서 잡아먹혀야지. 우리 약속 기억하지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "But the Dog said coolly, \"My friend, if ever you catch me lying down by the gate there again, don't you wait for any feast.\"",
+      "ko": "하지만 개는 태연하게 말했다. \"이봐, 만약 내가 또 그 문 옆에 누워 있는 걸 보게 되거든, 잔치 같은 건 기다리지 마.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "pounce upon",
+      "pos": "phrasal-verb",
+      "meaningKo": "~에게 갑자기 덤벼들다, 덮치다",
+      "ipa": "/paʊns əˈpɑn/",
+      "synonyms": [
+        "leap on",
+        "jump on"
+      ],
+      "matchText": "pounced upon",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The cat pounced upon the toy mouse.",
+        "ko": "고양이가 장난감 쥐에게 확 덤벼들었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "wretched",
+      "pos": "adjective",
+      "meaningKo": "형편없는, 비참한",
+      "ipa": "/ˈrɛtʃɪd/",
+      "synonyms": [
+        "miserable",
+        "poor"
+      ],
+      "matchText": "wretched",
+      "sentenceId": "s1",
+      "example": {
+        "en": "We had a wretched time in the rain.",
+        "ko": "우리는 빗속에서 비참한 시간을 보냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "scraps",
+      "pos": "noun",
+      "meaningKo": "(음식) 찌꺼기, 남은 음식",
+      "ipa": "/skræps/",
+      "synonyms": [
+        "leftovers",
+        "bits"
+      ],
+      "matchText": "scraps",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She fed the dog some scraps from dinner.",
+        "ko": "그녀는 개에게 저녁 먹고 남은 음식을 주었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "out of reach",
+      "pos": "phrase",
+      "meaningKo": "손이 닿지 않는 곳에",
+      "ipa": "/aʊt əv ritʃ/",
+      "synonyms": [
+        "beyond reach",
+        "inaccessible"
+      ],
+      "matchText": "out of reach",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Keep the medicine out of reach of children.",
+        "ko": "약은 아이들 손이 닿지 않는 곳에 두세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "coolly",
+      "pos": "adverb",
+      "meaningKo": "태연하게, 침착하게",
+      "ipa": "/ˈkuli/",
+      "synonyms": [
+        "calmly",
+        "casually"
+      ],
+      "matchText": "coolly",
+      "sentenceId": "s6",
+      "example": {
+        "en": "He coolly answered the hard question.",
+        "ko": "그는 어려운 질문에 침착하게 대답했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The Wolf",
+          "role": "S",
+          "sub": false,
+          "ko": "늑대는"
+        },
+        {
+          "text": "thought",
+          "role": "V",
+          "sub": false,
+          "ko": "생각했다"
+        },
+        {
+          "text": "this",
+          "role": "S",
+          "sub": true,
+          "ko": "이것이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "a very good plan",
+          "role": "C",
+          "sub": true,
+          "ko": "아주 좋은 계획"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": false,
+          "ko": "갔다"
+        },
+        {
+          "text": "away.",
+          "role": "M",
+          "sub": false,
+          "ko": "멀리"
+        }
+      ],
+      "skeleton": "The Wolf thought (this was …) and went away",
+      "explanation": "thought 뒤에 접속사 that이 생략된 명사절(this was a very good plan)이 목적어로 와요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Some time afterwards",
+          "role": "M",
+          "sub": false,
+          "ko": "얼마 뒤"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "왔다"
+        },
+        {
+          "text": "to the farmyard",
+          "role": "M",
+          "sub": false,
+          "ko": "농장으로"
+        },
+        {
+          "text": "again,",
+          "role": "M",
+          "sub": false,
+          "ko": "다시,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "sub": false,
+          "ko": "발견했다"
+        },
+        {
+          "text": "the Dog",
+          "role": "O",
+          "sub": false,
+          "ko": "개를"
+        },
+        {
+          "text": "lying out of reach on the stable roof.",
+          "role": "OC",
+          "sub": false,
+          "ko": "마구간 지붕 위 손이 닿지 않는 곳에 누워 있는"
+        }
+      ],
+      "skeleton": "he came … and found the Dog lying …",
+      "explanation": "'find + 목적어 + -ing'는 '~가 …하고 있는 것을 발견하다'예요. lying 이하가 목적어 the Dog의 상태를 설명하는 목적격 보어예요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "the Dog",
+          "role": "S",
+          "sub": false,
+          "ko": "개는"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "coolly,",
+          "role": "M",
+          "sub": false,
+          "ko": "태연하게,"
+        },
+        {
+          "text": "\"My friend,",
+          "role": "M",
+          "sub": false,
+          "ko": "\"이봐 친구,"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "만약"
+        },
+        {
+          "text": "ever",
+          "role": "M",
+          "sub": true,
+          "ko": "언젠가"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": true,
+          "ko": "네가"
+        },
+        {
+          "text": "catch",
+          "role": "V",
+          "sub": true,
+          "ko": "발견하면"
+        },
+        {
+          "text": "me",
+          "role": "O",
+          "sub": true,
+          "ko": "나를"
+        },
+        {
+          "text": "lying down by the gate there again,",
+          "role": "OC",
+          "sub": true,
+          "ko": "그 문 옆에 또 누워 있는 걸,"
+        },
+        {
+          "text": "don't you wait",
+          "role": "V",
+          "sub": true,
+          "ko": "기다리지 마"
+        },
+        {
+          "text": "for any feast.\"",
+          "role": "M",
+          "sub": true,
+          "ko": "어떤 잔치도\""
+        }
+      ],
+      "skeleton": "the Dog said (+ don't you wait for any feast)",
+      "explanation": "따옴표 안은 'if ~' 조건절 + 명령문이에요. 'don't you wait'는 명령문에 you를 넣어 '절대 기다리지 마'라고 강하게 말하는 표현이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "be going to + 동사원형",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "was just going to eat",
+        "is going to give"
+      ],
+      "explanation": "'be going to ~'는 '~하려고 하다, ~할 예정이다'예요. 'was just going to'는 '막 ~하려던 참이었다'는 뜻이에요.",
+      "example": {
+        "en": "I was just going to call you.",
+        "ko": "막 너한테 전화하려던 참이었어."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "간접의문문 how + 형용사",
+      "tags": [
+        "명사절",
+        "어순"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "how thin I am"
+      ],
+      "explanation": "'how thin I am'은 '내가 얼마나 마른지'라는 명사절로 see의 목적어예요. 의문문 어순(How thin am I?)이 아니라 '주어 + 동사' 순서가 돼요.",
+      "example": {
+        "en": "Do you know how old he is?",
+        "ko": "그가 몇 살인지 아니?"
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "수동태 to부정사 be eaten",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "be eaten"
+      ],
+      "explanation": "'be + 과거분사'로 '먹히다'라는 수동의 뜻이에요. 'Come down and be eaten'은 '내려와서 잡아먹혀라'라는 명령문이에요.",
+      "example": {
+        "en": "The cake must be eaten today.",
+        "ko": "그 케이크는 오늘 먹어야 한다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "dog": {
+      "lemma": "dog",
+      "pos": "noun",
+      "ko": "개",
+      "form": null,
+      "synonyms": [
+        "hound"
+      ],
+      "ipa": "/dɔːɡ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(과거진행) ~하고 있었다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "lying": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다, 누워 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rest",
+        "lounge"
+      ],
+      "ipa": "/ˈlaɪɪŋ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~ 후에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "햇볕, 해",
+      "form": null,
+      "synonyms": [
+        "sunshine"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 앞에",
+      "form": null,
+      "synonyms": [
+        "in front of"
+      ],
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "farmyard": {
+      "lemma": "farmyard",
+      "pos": "noun",
+      "ko": "농가 마당, 농장",
+      "form": null,
+      "synonyms": [
+        "yard"
+      ],
+      "ipa": "/ˈfɑːrˌmjɑːrd/"
+    },
+    "gate": {
+      "lemma": "gate",
+      "pos": "noun",
+      "ko": "대문",
+      "form": null,
+      "ipa": "/ɡeɪt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때, 그때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "wolf": {
+      "lemma": "wolf",
+      "pos": "noun",
+      "ko": "늑대",
+      "form": null,
+      "ipa": "/wʊlf/"
+    },
+    "pounced": {
+      "lemma": "pounce",
+      "pos": "verb",
+      "ko": "(on/upon) 덮치다, 덤벼들다",
+      "form": "과거형",
+      "synonyms": [
+        "leap",
+        "spring"
+      ],
+      "ipa": "/paʊnst/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위로, ~에게",
+      "form": null,
+      "synonyms": [
+        "on"
+      ],
+      "ipa": "/əˈpɑːn/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 바로",
+      "form": null,
+      "ipa": "/dʒʌst/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~하려고 하다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것 (to부정사), ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": null,
+      "synonyms": [
+        "devour"
+      ],
+      "ipa": "/iːt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(eat up) 다 먹어 치우다",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "begged": {
+      "lemma": "beg",
+      "pos": "verb",
+      "ko": "빌다, 간청하다",
+      "form": "과거형",
+      "synonyms": [
+        "plead"
+      ],
+      "ipa": "/bɛɡd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 바라고, ~을",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "목숨, 생명",
+      "form": null,
+      "ipa": "/laɪf/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "ipa": "/sɛd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 알다",
+      "form": null,
+      "ipa": "/siː/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "thin": {
+      "lemma": "thin",
+      "pos": "adjective",
+      "ko": "마른",
+      "form": null,
+      "synonyms": [
+        "skinny",
+        "lean"
+      ],
+      "ipa": "/θɪn/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "1인칭 현재",
+      "ipa": "/æm/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "얼마나 (감탄)",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "wretched": {
+      "lemma": "wretched",
+      "pos": "adjective",
+      "ko": "형편없는, 비참한",
+      "form": null,
+      "synonyms": [
+        "miserable",
+        "poor"
+      ],
+      "ipa": "/ˈrɛtʃɪd/"
+    },
+    "meal": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사, 끼니",
+      "form": null,
+      "synonyms": [
+        "dinner"
+      ],
+      "ipa": "/miːl/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~일 것이다 (가정)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": null,
+      "ipa": "/meɪk/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~해 주다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~만",
+      "form": null,
+      "synonyms": [
+        "just"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "ipa": "/weɪt/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇몇의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "owner"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(잔치를) 열다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "throw"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "feast": {
+      "lemma": "feast",
+      "pos": "noun",
+      "ko": "잔치, 축하연",
+      "form": null,
+      "synonyms": [
+        "banquet",
+        "party"
+      ],
+      "ipa": "/fiːst/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "rich": {
+      "lemma": "rich",
+      "pos": "adjective",
+      "ko": "기름진, 맛있는",
+      "form": null,
+      "synonyms": [
+        "tasty"
+      ],
+      "ipa": "/rɪtʃ/"
+    },
+    "scraps": {
+      "lemma": "scrap",
+      "pos": "noun",
+      "ko": "(음식) 찌꺼기",
+      "form": "복수형",
+      "synonyms": [
+        "leftovers",
+        "bits"
+      ],
+      "ipa": "/skræps/"
+    },
+    "pickings": {
+      "lemma": "pickings",
+      "pos": "noun",
+      "ko": "남은 음식, 얻을 것",
+      "form": null,
+      "synonyms": [
+        "leftovers"
+      ],
+      "ipa": "/ˈpɪkɪŋz/"
+    },
+    "fall": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(to) ~의 차지가 되다",
+      "form": null,
+      "synonyms": [
+        "go"
+      ],
+      "ipa": "/fɔːl/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "~해지다, 되다",
+      "form": null,
+      "synonyms": [
+        "become"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "nice": {
+      "lemma": "nice",
+      "pos": "adjective",
+      "ko": "(nice and) 아주 보기 좋게",
+      "form": null,
+      "ipa": "/naɪs/"
+    },
+    "fat": {
+      "lemma": "fat",
+      "pos": "adjective",
+      "ko": "살찐",
+      "form": null,
+      "synonyms": [
+        "plump"
+      ],
+      "ipa": "/fæt/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간",
+      "form": null,
+      "ipa": "/taɪm/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "believe"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은",
+      "form": null,
+      "synonyms": [
+        "great"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "plan": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "계획",
+      "form": null,
+      "synonyms": [
+        "idea"
+      ],
+      "ipa": "/plæn/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "ipa": "/wɛnt/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떠나서",
+      "form": null,
+      "ipa": "/əˈweɪ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "얼마간의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "afterwards": {
+      "lemma": "afterwards",
+      "pos": "adverb",
+      "ko": "그 후에",
+      "form": null,
+      "synonyms": [
+        "later"
+      ],
+      "ipa": "/ˈæftərwərdz/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "ipa": "/keɪm/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "ipa": "/əˈɡɛn/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다, 알게 되다",
+      "form": "과거형",
+      "synonyms": [
+        "discover"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of reach) 닿지 않는",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에서",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "noun",
+      "ko": "손이 닿는 범위",
+      "form": null,
+      "ipa": "/riːtʃ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "stable": {
+      "lemma": "stable",
+      "pos": "noun",
+      "ko": "마구간",
+      "form": null,
+      "synonyms": [
+        "barn"
+      ],
+      "ipa": "/ˈsteɪbəl/"
+    },
+    "roof": {
+      "lemma": "roof",
+      "pos": "noun",
+      "ko": "지붕",
+      "form": null,
+      "ipa": "/ruːf/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "ipa": "/kʌm/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "외치다, 부르다",
+      "form": "과거형",
+      "synonyms": [
+        "shout"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "eaten": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": "과거분사",
+      "ipa": "/ˈiːtən/"
+    },
+    "remember": {
+      "lemma": "remember",
+      "pos": "verb",
+      "ko": "기억하다",
+      "form": null,
+      "synonyms": [
+        "recall"
+      ],
+      "ipa": "/rɪˈmɛmbər/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "agreement": {
+      "lemma": "agreement",
+      "pos": "noun",
+      "ko": "약속, 합의",
+      "form": null,
+      "synonyms": [
+        "deal",
+        "promise"
+      ],
+      "ipa": "/əˈɡriːmənt/"
+    },
+    "coolly": {
+      "lemma": "coolly",
+      "pos": "adverb",
+      "ko": "태연하게, 침착하게",
+      "form": null,
+      "synonyms": [
+        "calmly",
+        "casually"
+      ],
+      "ipa": "/ˈkuːli/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "ipa": "/frɛnd/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "언젠가, 한 번이라도",
+      "form": null,
+      "ipa": "/ˈɛvər/"
+    },
+    "catch": {
+      "lemma": "catch",
+      "pos": "verb",
+      "ko": "(~하는 것을) 발견하다, 붙잡다",
+      "form": null,
+      "synonyms": [
+        "find",
+        "spot"
+      ],
+      "ipa": "/kætʃ/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~ 옆에",
+      "form": null,
+      "synonyms": [
+        "beside"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "don't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 마라",
+      "form": "줄임말(do not)",
+      "ipa": "/doʊnt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~도",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    }
+  }
+}
