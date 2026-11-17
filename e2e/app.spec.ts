@@ -13,6 +13,12 @@ const P7 = raw('toeic/2026-11-12-L1-part7.json');
 const L = { general: G, toeic: P7 };
 const ID = { general: '2026-11-12-L1', toeic: '2026-11-12-L1-part7' };
 
+/** 홈(전체)에서 오늘 이야기의 학습 순서 펼치기 */
+async function homeSteps(page: Page) {
+  await page.goto('./#/all');
+  await page.getByTestId('steps-collapsed').locator('summary').click();
+}
+
 test.beforeEach(async ({ page }) => {
   await setupMocks(page);
 });
@@ -83,9 +89,9 @@ test('1-1. 트랙 전환: 목록·오늘 카드가 바뀌고 마지막 위치와
   await expect(page).toHaveURL(/#\/toeic\/lesson\/2026-11-12-L1-part7\/grammar$/);
 
   // 같은 날짜 레슨끼리 진행 기록이 섞이지 않음
-  await page.goto('./#/general/lesson/2026-11-12-L1/vocab');
-  await page.getByTestId('step-check-listen').click();
-  await expect(page.getByTestId('step-check-listen')).toHaveAttribute('aria-checked', 'true');
+  await homeSteps(page);
+  await page.getByTestId('check-listen').check();
+  await expect(page.getByTestId('check-listen')).toBeChecked();
   await page.goto('./#/general');
   await expect(page.getByTestId('summary-general')).toContainText('1/6');
   await expect(page.getByTestId('summary-toeic')).toHaveCount(0);
@@ -183,7 +189,8 @@ test('4. 몰라요 2개 + 알아요 3개 → 필터 개수 2/3, 새로고침 후
   await expect(page.getByTestId('count-unknown')).toHaveText('2');
   await expect(page.getByTestId('count-known')).toHaveText('3');
   // 단어 5개 분류 → 오늘 체크리스트 '단어' 자동 체크
-  await expect(page.getByTestId('step-check-vocab')).toHaveAttribute('aria-checked', 'true');
+  await homeSteps(page);
+  await expect(page.getByTestId('check-vocab')).toBeChecked();
 });
 
 test('5. 문장+문법: 조각 라벨 순서와 뼈대만 보기', async ({ page }) => {
@@ -217,7 +224,8 @@ for (const track of ['general', 'toeic'] as const) {
     const acc = parseFloat((await page.getByTestId('typing-accuracy').textContent())!);
     expect(acc).toBeLessThan(100);
     if (track === 'general') {
-      await expect(page.getByTestId('step-check-transcribe')).toHaveAttribute('aria-checked', 'true');
+      await homeSteps(page);
+      await expect(page.getByTestId('check-transcribe')).toBeChecked();
     }
   });
 }

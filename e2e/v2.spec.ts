@@ -434,17 +434,9 @@ test('v21. 이야기 학습 순서: 홈엔 없음, 전체 보기는 접힘, 레�
   await expect(page.getByTestId('check-listen')).toBeHidden();
   await page.getByTestId('steps-collapsed').locator('summary').click();
   await expect(page.getByTestId('check-listen')).toBeVisible();
+  // 레슨 화면에는 '순서' 줄이 없음(홈에서만)
   await page.goto('./#/general/lesson/2026-11-12-L1/vocab');
-  const steps = page.getByTestId('lesson-steps');
-  await expect(steps).toContainText('순서 0/6');
-  await expect(page.getByTestId('step-vocab')).toHaveAttribute('aria-current', 'step');
-  await page.getByTestId('step-grammar').click();
-  await expect(page).toHaveURL(/\/grammar$/);
-  await page.getByTestId('step-check-listen').click();
-  await expect(steps).toContainText('순서 1/6');
-  await page.getByTestId('step-check-listen').click();
-  await expect(steps).toContainText('순서 0/6');
-  await page.goto('./#/toeic/lesson/2026-11-12-L1-part5/quiz');
+  await expect(page.getByTestId('tab-vocab')).toBeVisible();
   await expect(page.getByTestId('lesson-steps')).toHaveCount(0);
 });
 
