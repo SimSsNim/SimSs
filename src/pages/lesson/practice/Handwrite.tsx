@@ -27,7 +27,7 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
   const pen = usePen();
   const { tool, setTool, color, setColor, size, setSize, eraseMode, setEraseMode, finger, setFinger } = pen;
   const set = useSettings();
-  const dtOn = set.penDoubleTap !== 'none';
+  const dtOn = set.penDoubleTap !== 'none' && set.penDoubleTap !== 'lock'; // 손글씨 칸은 잠그지 않음
   const sen = sents[i];
   const note = useInkNote(hwKey(lessonKey, sen.id), { lessonKey, kind: 'hw', ref: sen.id });
   const rows = useLiveQuery(() => db.inkNotes.where('lessonKey').equals(lessonKey).filter((r) => r.kind === 'hw').toArray(), [lessonKey]);

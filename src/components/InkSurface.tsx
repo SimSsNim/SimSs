@@ -32,6 +32,9 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
   st.current = { strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode, size, onPenDoubleTap, locked, onPenActivity, scribbleErase };
   /** 펜슬로 톡 친 점: 두 번째 톡이 오는지 잠깐 기다렸다 저장 */
   const tapWait = useRef<{ at: number; x: number; y: number; stroke: InkStroke | null; timer: number } | null>(null);
+  /** 잠금 중 펜슬 톡(두 번 톡으로 잠금 풀기용): 그리지 않고 지켜보기만 */
+  const lockTap = useRef<{ id: number; at: number; x: number; y: number } | null>(null);
+  const lockLast = useRef<{ at: number; x: number; y: number } | null>(null);
 
   useEffect(() => {
     const el = ref.current;
@@ -71,6 +74,10 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
       }
     };
     const down = (e: PointerEvent) => {
+      if (st.current.locked && e.pointerType === 'pen' && st.current.onPenDoubleTap) {
+        lockTap.current = { id: e.pointerId, at: Date.now(), x: e.clientX, y: e.clientY };
+        return;
+      }
       if (!accept(e) || e.button > 0) return;
       e.preventDefault();
       e.stopPropagation();
@@ -104,6 +111,19 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
       setLive({ ...c.stroke, p: c.stroke.p.slice() });
     };
     const up = (e: PointerEvent) => {
+      const lt = lockTap.current;
+      if (lt && lt.id === e.pointerId) {
+        lockTap.current = null;
+        const s = st.current;
+        if (!s.locked || Date.now() - lt.at > 250 || Math.hypot(e.clientX - lt.x, e.clientY - lt.y) > 10) { lockLast.current = null; return; }
+        const prev = lockLast.current;
+        if (prev && Date.now() - prev.at < 400 && Math.hypot(lt.x - prev.x, lt.y - prev.y) < 30) {
+          lockLast.current = null;
+          lastEnd.current = { at: Date.now(), x: e.clientX, y: e.clientY }; // 두 번째 톡의 click 은 막음
+          s.onPenDoubleTap?.();
+        } else lockLast.current = { at: Date.now(), x: lt.x, y: lt.y };
+        return;
+      }
       const c = cur.current;
       if (!c || c.id !== e.pointerId) return;
       cur.current = null;

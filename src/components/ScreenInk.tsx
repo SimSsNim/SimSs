@@ -70,7 +70,7 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
       )}
       <div ref={box} style={{ position: 'relative', cursor: on ? (tool === 'eraser' ? 'cell' : 'crosshair') : undefined, touchAction: on && finger ? 'none' : undefined, userSelect: on ? 'none' : undefined }} data-testid="ink-box">
         {children}
-        <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn ? () => pen.doubleTap(note) : undefined}
+        <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn && (!st.penLock || st.penDoubleTap === 'lock') ? () => pen.doubleTap(note, toggleLock) : undefined}
           penAlways={st.penAuto && !st.penLock} locked={st.penLock} scribbleErase={st.scribbleErase} onPenActivity={penActive}
           onPenStart={() => { autoOpened.current = true; setOn(true); penActive(); }} />
       </div>

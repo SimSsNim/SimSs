@@ -5,6 +5,7 @@ import { Icon } from './Icon';
 import { usePlayer, toggle, skip, setRate, setRepeat, stepSentence, canRepeatOne } from '../store/player';
 import { useVoices } from '../lib/tts';
 import { useEffect, useState } from 'react';
+import { useSettings, setSetting } from '../lib/settings';
 
 const RATES = [0.75, 0.85, 1, 1.15, 1.25];
 
@@ -94,9 +95,21 @@ function PlayerDrawer({ onClose }: { onClose: () => void }) {
             ))}
           </div>
         </div>
+        {p.units.length > 1 && <ContinueRow />}
         {!one && <p className={s.small + ' ' + s.muted} style={{ margin: '6px 0 0' }}>이 음원은 문장 구간 정보가 없어 한 문장 반복·문장 이동 대신 5초씩 움직여요.</p>}
       </div>
     </>
+  );
+}
+
+/** 다음 지문까지 계속 듣기(끄면 보고 있는 지문만) */
+function ContinueRow() {
+  const { playContinue } = useSettings();
+  return (
+    <label className={s.check} style={{ marginTop: 8 }} data-testid="play-continue-row">
+      <input type="checkbox" checked={playContinue} onChange={(e) => setSetting('playContinue', e.target.checked)} data-testid="play-continue" />
+      다음 지문까지 계속 듣기 <span className={s.small + ' ' + s.muted}>{playContinue ? '(끝까지 이어서)' : '(지금 보는 지문만)'}</span>
+    </label>
   );
 }
 

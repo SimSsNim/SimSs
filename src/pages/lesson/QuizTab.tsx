@@ -1,3 +1,4 @@
+import { focusSentence } from '../../store/player';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { setFavorite } from '../../lib/favorites';
 import { logQuestions } from '../../lib/progress';
@@ -150,6 +151,11 @@ function Solver({ lesson, draft, setDraft, attempts, onFinished, onRestart, onOp
     if (exam) void logQuestions(Object.keys(ref.current.answers).length, lessonKeyOf(lesson.track, lesson.id)); // 실전 모드: 채점할 때 푼 만큼
     onFinished(done.id!);
   };
+
+  // 듣기: 지금 보는 문제의 지문을 들려줌(Part 5)
+  const focusId = chapter === 'part5' ? q.blank?.sentenceId : undefined;
+  const lk = lessonKeyOf(lesson.track, lesson.id);
+  useEffect(() => { if (focusId) focusSentence(lk, focusId); }, [lk, focusId]);
 
   const go = (n: number) => {
     const k = Math.max(0, Math.min(qs.length - 1, n));

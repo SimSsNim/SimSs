@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect } from 'react';
 import { FolderPicker } from './components/FavFolders';
 import { useBackTracker } from './lib/backTarget';
+import { ReadingReturn } from './components/ReadingReturn';
 import { useWakeLock } from './lib/wakeLock';
 import { PdfReady } from './components/PdfReady';
 import { HashRouter, Navigate, Route, Routes, useParams, Outlet } from 'react-router-dom';
@@ -107,6 +108,7 @@ export function App() {
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       </Suspense>
+      <ReadingReturn />
       <MiniPlayer />
       <BottomNav />
       <Toasts />

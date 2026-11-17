@@ -990,3 +990,68 @@ test('v42. 펜슬로 바로 쓴 메모는 펜슬을 내려놓으면 저절로 �
   await page.waitForTimeout(7000);
   await expect(page.getByTestId('ink-toolbar')).toBeVisible();
 });
+
+test('v43. 펜슬 두 번 톡 = 펜 글씨 잠금 켜기 ↔ 끄기', async ({ page }) => {
+  await start(page, './#/records/settings');
+  await page.getByTestId('pen-double-tap').selectOption('lock');
+  await page.goto('./#/general/lesson/2026-11-12-L1/full');
+  const lock = page.getByTestId('pen-lock');
+  await expect(lock).toHaveAttribute('aria-pressed', 'false');
+  // 잠금 안 된 상태: 두 번 톡 → 잠금, 점은 안 남음
+  await penTap(page, 'ink-box', 0.7, 2.2);
+  await penTap(page, 'ink-box', 0.7, 2.2);
+  await expect(lock).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(0);
+  await penLine(page, 'ink-box', 0.1, 1, 0.6);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(0);
+  // 잠금 중: 다시 두 번 톡 → 풀림
+  await penTap(page, 'ink-box', 0.7, 2.6);
+  await penTap(page, 'ink-box', 0.7, 2.6);
+  await expect(lock).toHaveAttribute('aria-pressed', 'false');
+  await penLine(page, 'ink-box', 0.1, 1, 0.6);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
+});
+
+test('v44. 토익 Part 5 듣기: 보고 있는 문제의 지문만, 켜면 다음 지문까지', async ({ page }) => {
+  await start(page, URL5);
+  const raw = JSON.parse(readFileSync('public/lessons/toeic/2026-11-12-L1-part5.json', 'utf8')) as { sentences: { id: string; en: string }[]; questions: { number: number; blank: { sentenceId: string } }[] };
+  const enOf = (n: number) => raw.sentences.find((x) => x.id === raw.questions.find((q) => q.number === n)!.blank.sentenceId)!.en;
+  const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
+  await page.getByTestId('quiz-dots').getByRole('button', { name: /^3\s*번/ }).click();
+  await page.getByTestId('mini-toggle').click();
+  await expect.poll(spoken).toEqual([enOf(3)]);
+  await expect(page.getByTestId('mini-toggle')).toHaveAttribute('aria-label', '재생');
+  await page.waitForTimeout(800);
+  expect(await spoken()).toEqual([enOf(3)]); // 다음 지문으로 넘어가지 않음
+  // 다른 문제로 가서 재생 → 그 지문
+  await page.getByTestId('quiz-dots').getByRole('button', { name: /^5\s*번/ }).click();
+  await page.getByTestId('mini-toggle').click();
+  await expect.poll(spoken).toEqual([enOf(3), enOf(5)]);
+  // 재생 메뉴: 다음 지문까지 계속 듣기 켜기
+  await expect(page.getByTestId('mini-toggle')).toHaveAttribute('aria-label', '재생');
+  await page.getByTestId('player-open').click();
+  await page.getByTestId('play-continue').check();
+  await page.getByTestId('player-open').click();
+  await page.getByTestId('mini-toggle').click();
+  await expect.poll(async () => (await spoken()).slice(2, 4)).toEqual([enOf(5), enOf(6)]);
+});
+
+test('v45. 읽다가 문법·단어·설정으로 가도 ↩ 보던 화면으로 바로 돌아옴', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await expect(page.getByTestId('reading-return')).toHaveCount(0);
+  await page.evaluate(() => window.scrollTo(0, 300));
+  await page.waitForTimeout(100);
+  const y = await page.evaluate(() => Math.round(window.scrollY));
+  expect(y).toBeGreaterThan(20);
+  await page.getByTestId('tab-grammar').click();
+  await expect(page.getByTestId('reading-return')).toContainText('전체 문장');
+  await page.getByTestId('reading-return-go').click();
+  await expect(page).toHaveURL(/\/lesson\/2026-11-12-L1\/full$/);
+  await expect(page.getByTestId('reading-return')).toHaveCount(0);
+  await expect.poll(() => page.evaluate(() => Math.round(window.scrollY))).toBeGreaterThan(y - 5);
+  // 레슨 밖(단어 화면)에서도
+  await page.goto('./#/words');
+  await expect(page.getByTestId('reading-return')).toBeVisible();
+  await page.getByTestId('reading-return-close').click();
+  await expect(page.getByTestId('reading-return')).toHaveCount(0);
+});

@@ -243,8 +243,8 @@ test('8. 레슨 가져오기: 깨진 JSON → 오류, 정상 JSON → 목록에 
   await expect(page.getByTestId('import-result')).toContainText('matchText');
 
   const ok = structuredClone(P7);
-  ok.id = '2026-11-13-L1-part7';
-  ok.date = '2026-11-13';
+  ok.id = '2027-06-01-L1-part7'; // 실제 레슨과 겹치지 않는 날짜
+  ok.date = '2027-06-01';
   ok.title = 'Imported Practice Notice';
   await page.getByTestId('import-text').fill(JSON.stringify(ok));
   await page.getByTestId('import-run').click();
@@ -256,7 +256,8 @@ test('8. 레슨 가져오기: 깨진 JSON → 오류, 정상 JSON → 목록에 
   await expect(page.getByTestId('lesson-item').first()).toContainText('가져옴');
   await page.reload();
   await page.getByRole('combobox', { name: 'Part' }).selectOption('part7');
-  await expect(page.getByTestId('lesson-item')).toHaveCount(2);
+  // 다시 열면 서비스 워커가 실제 목록을 줄 수 있어 개수 대신 '가져온 레슨이 남아 있는지'만 본다
+  await expect(page.getByTestId('lesson-item').filter({ hasText: 'Imported Practice Notice' })).toHaveCount(1);
 
   // 여러 파일 한 번에: 요약 문장
   const files = [P5, P6, { ...structuredClone(P5), id: '2026-11-14-L1-part5', date: '2026-11-14' }, bad].map((d, i) => ({

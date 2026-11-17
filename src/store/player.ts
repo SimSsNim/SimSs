@@ -34,12 +34,14 @@ export interface PlayerState {
   sentences: Sentence[];
   ttsIndex: number;
   ttsAccent: string | null;
+  /** 지문 나눔: 각 지문이 시작하는 문장 번호(토익 Part 5는 문제마다 한 지문) */
+  units: number[];
 }
 
 const initial: PlayerState = {
   lessonKey: null, title: '', artist: '', mode: 'none', src: null, srcUrl: null, srcKind: null,
   playing: false, currentTime: 0, duration: 0, rate: 1, loop: false, repeat: 'off', a: null, b: null, error: null,
-  segments: [], introSkipSec: null, currentSentenceId: null, coverage: 0, sentences: [], ttsIndex: 0, ttsAccent: null,
+  segments: [], introSkipSec: null, currentSentenceId: null, coverage: 0, sentences: [], ttsIndex: 0, ttsAccent: null, units: [0],
 };
 
 let state: PlayerState = initial;
@@ -163,13 +165,19 @@ export async function loadLesson(lesson: Lesson, opts: { quality?: 'high' | 'low
   ttsSpoken = new Set();
   listenChecked = false;
   const sentences = lesson.paragraphs.flatMap((p) => p.sentences);
+  const units: number[] = [0];
+  if (lesson.track === 'toeic' && lesson.chapter === 'part5') {
+    let n = 0;
+    for (const p of lesson.paragraphs) { if (n) units.push(n); n += p.sentences.length; }
+  }
   const base: Partial<PlayerState> = {
     ...initial, lessonKey: key, title: lesson.title, artist: lesson.audio?.reader ?? (lesson.track === 'toeic' ? 'TTS' : ''),
-    sentences, rate: state.rate || 1, segments: state.lessonKey === key ? state.segments : [],
+    sentences, units, rate: state.rate || 1, segments: state.lessonKey === key ? state.segments : [],
     introSkipSec: state.lessonKey === key ? state.introSkipSec : null,
   };
   if (!lesson.audio) {
     set({ ...base, mode: 'tts', rate: getSettings().ttsRate });
+    if (pendingFocus?.key === key) focusSentence(key, pendingFocus.id);
     setMediaSession();
     return;
   }
@@ -211,8 +219,37 @@ function setMediaSession() {
   }
 }
 
+/** i 번 문장이 든 지문의 [처음, 끝] */
+export function unitRange(i: number): [number, number] {
+  const u = state.units;
+  let k = 0;
+  for (let j = 0; j < u.length; j++) if (u[j] <= i) k = j;
+  return [u[k] ?? 0, (u[k + 1] ?? state.sentences.length) - 1];
+}
+/** 여러 지문으로 나뉘어 있고, '다음 지문까지 계속 듣기'가 꺼져 있으면 지금 지문만 */
+export const playsOneUnit = () => state.units.length > 1 && !getSettings().playContinue;
+
+/** TTS: i 번 문장부터(지문 하나만 또는 끝까지) */
+function playFrom(i: number) {
+  if (!playsOneUnit()) return void playTTS(i);
+  const [from, to] = unitRange(i);
+  void playTTS(i, { to, stayAt: from });
+}
+
+/** 보고 있는 지문(문장)을 알려 줌: 멈춰 있으면 그 자리로, 다른 지문을 재생 중이면 그 지문으로 */
+let pendingFocus: { key: string; id: string } | null = null;
+export function focusSentence(lessonKey: string, id: string) {
+  if (state.lessonKey !== lessonKey) { pendingFocus = { key: lessonKey, id }; return; } // 레슨을 올린 뒤에 적용
+  pendingFocus = null;
+  if (state.mode !== 'tts') return;
+  const idx = state.sentences.findIndex((s) => s.id === id);
+  if (idx < 0) return;
+  if (!state.playing) return setTTSIndex(idx);
+  if (unitRange(idx)[0] !== unitRange(state.ttsIndex)[0]) playFrom(idx);
+}
+
 export function play() {
-  if (state.mode === 'tts') return void playTTS(state.ttsIndex);
+  if (state.mode === 'tts') return playFrom(state.ttsIndex);
   if (state.mode !== 'audio') return;
   const a = el();
   if (state.introSkipSec && a.currentTime < 1) a.currentTime = state.introSkipSec;
@@ -237,7 +274,7 @@ export function skip(delta: number) {
     const n = state.sentences.length;
     const idx = Math.max(0, Math.min(n - 1, state.ttsIndex + (delta < 0 ? -1 : 1)));
     set({ ttsIndex: idx, currentSentenceId: state.sentences[idx]?.id ?? null });
-    if (state.playing) void playTTS(idx);
+    if (state.playing) playFrom(idx);
     return;
   }
   seek((audio?.currentTime ?? 0) + delta);
@@ -318,7 +355,7 @@ function accentFor(i: number): string {
   return s.ttsAccent;
 }
 
-export interface TTSPlayOptions { to?: number; repeat?: boolean }
+export interface TTSPlayOptions { to?: number; repeat?: boolean; /** 다 읽으면 이 문장으로 돌아가 있기(지문 하나만 듣기) */ stayAt?: number }
 export async function playTTS(from: number, o: TTSPlayOptions = {}) {
   if (!getVoiceState().supported) return;
   const my = ++ttsToken;
@@ -344,7 +381,10 @@ export async function playTTS(from: number, o: TTSPlayOptions = {}) {
     maybeCheckListen(coverage);
     if (state.repeat !== 'one') i++;
   }
-  if (my === ttsToken) set({ playing: false, ttsIndex: Math.min(i, list.length - 1) });
+  if (my === ttsToken) {
+    const end = o.stayAt !== undefined && i > to ? o.stayAt : Math.min(i, list.length - 1);
+    set({ playing: false, ttsIndex: end, currentSentenceId: list[end]?.id ?? null });
+  }
 }
 export function stopTTS() {
   ttsToken++;

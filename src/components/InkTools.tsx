@@ -72,8 +72,9 @@ export function usePen() {
   const setColor = (c: string) => { setColorRaw(c); save({ color: c }); };
   const setSize = (n: number) => { setSizeRaw(n); save({ size: n }); };
   /** 펜슬 두 번 톡: 설정한 기능 */
-  const doubleTap = (note: { undo: () => void }) => {
+  const doubleTap = (note: { undo: () => void }, onLock?: () => void) => {
     const act = getSettings().penDoubleTap;
+    if (act === 'lock') { onLock?.(); return; }
     if (act === 'undo') { note.undo(); toast('↶ 이전', { ms: 900 }); return; }
     if (act === 'eraser' || act === 'eraser-part') {
       // 두 번 톡: 지우개로, 다시 두 번 톡: 펜으로
