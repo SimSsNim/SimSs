@@ -1,0 +1,1660 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-18-L3-news",
+  "date": "2026-11-18",
+  "level": 3,
+  "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+  "titleKo": "NASA 스페이스 앱스 챌린지, 세계 해커톤 기록을 깨다",
+  "genre": "news",
+  "tags": [
+    "NASA",
+    "technology",
+    "education",
+    "hackathon"
+  ],
+  "source": {
+    "work": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+    "author": "NASA",
+    "translator": null,
+    "year": 2026,
+    "edition": "NASA News",
+    "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+    "license": "us-government-work",
+    "excerptNote": "첫 4단락 발췌"
+  },
+  "audio": null,
+  "wordCount": 220,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "11월 14일과 15일, NASA는 연례 스페이스 앱스 챌린지를 열었으며, 기록적인 181,835명의 등록 참가자가 전 세계 593개 행사에 참여했다. 이 연례 해커톤은 참가자들이 NASA의 공개 데이터를 활용해 우주 탐사나 지구과학에 초점을 맞춘 14개 과제 중 하나를 해결하도록 초대한다. 올해 해커톤은 등록자가 59% 늘었고, 5년 연속으로 참가자가 증가했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4",
+        "s5"
+      ],
+      "ko": "2012년부터 NASA 스페이스 앱스 챌린지는 이틀간의 행사를 열어 왔으며, 지금까지 190개가 넘는 나라에서 60만 명이 넘는 사람이 참여했다. 이 챌린지는 NASA 과학을 직접 경험할 기회를 제공하며, 기술자와 우주과학 애호가들로 이루어진 열정적인 전 세계 공동체를 움직여 인류에게 도움이 되고 탐사를 이끄는 질문에 답하게 한다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7"
+      ],
+      "ko": "참가자들은 지역 자원봉사자들이 마련한 행사에 함께하여 팀을 이뤄 과제 중 하나를 해결하고 마감 전에 프로젝트를 제출한다. 그 후 프로젝트들은 심사를 거쳐 세계 우승팀 10팀이 정해지며, 결과는 1월에 발표된다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "“스페이스 앱스 챌린지는 다양한 기술을 가진 사람들이 NASA의 최고 수준 데이터 세트를 활용해 이곳 지구와 우주에서 우리가 마주한 실제 과제를 해결하도록 초대합니다.”라고 워싱턴 NASA 본부 과학임무국의 참여 담당 부서장 에이미 카민스키가 말했다. “18만 명이 넘는 사람들이 이 과제에 도전하며 우리가 해결책을 더 빨리 찾도록 돕는 모습을 보게 되어 정말 기쁩니다.”"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world.",
+      "ko": "11월 14일과 15일, NASA는 연례 스페이스 앱스 챌린지를 열었으며, 기록적인 181,835명의 등록 참가자가 전 세계 593개 행사에 참여했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science.",
+      "ko": "이 연례 해커톤은 참가자들이 NASA의 공개 데이터를 활용해 우주 탐사나 지구과학에 초점을 맞춘 14개 과제 중 하나를 해결하도록 초대한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "This year, the hackathon drew 59% more registrants and was the 5th year in a row with increased participation.",
+      "ko": "올해 해커톤은 등록자가 59% 늘었고, 5년 연속으로 참가자가 증가했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Since 2012, NASA Space Apps Challenge has hosted the two-day event, which has included more than 600,000 people from more than 190 countries.",
+      "ko": "2012년부터 NASA 스페이스 앱스 챌린지는 이틀간의 행사를 열어 왔으며, 지금까지 190개가 넘는 나라에서 60만 명이 넘는 사람이 참여했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "The challenge provides an opportunity for hands-on experience with NASA science, mobilizing an engaged global community of technologists and space science enthusiasts to answer questions that benefit humanity and drive exploration.",
+      "ko": "이 챌린지는 NASA 과학을 직접 경험할 기회를 제공하며, 기술자와 우주과학 애호가들로 이루어진 열정적인 전 세계 공동체를 움직여 인류에게 도움이 되고 탐사를 이끄는 질문에 답하게 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Participants join events organized by local volunteers to work in teams and address one of the challenges and submit their project before the deadline.",
+      "ko": "참가자들은 지역 자원봉사자들이 마련한 행사에 함께하여 팀을 이뤄 과제 중 하나를 해결하고 마감 전에 프로젝트를 제출한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Projects are then judged to determine 10 global winners, to be announced in January.",
+      "ko": "그 후 프로젝트들은 심사를 거쳐 세계 우승팀 10팀이 정해지며, 결과는 1월에 발표된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "“The Space Apps Challenge invites people with many different skillsets to leverage NASA’s gold-standard datasets to address real challenges facing us here on Earth and in space,” said Amy Kaminski, engagement branch chief, Science Mission Directorate, NASA Headquarters in Washington.",
+      "ko": "“스페이스 앱스 챌린지는 다양한 기술을 가진 사람들이 NASA의 최고 수준 데이터 세트를 활용해 이곳 지구와 우주에서 우리가 마주한 실제 과제를 해결하도록 초대합니다.”라고 워싱턴 NASA 본부 과학임무국의 참여 담당 부서장 에이미 카민스키가 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "“We’re thrilled to see more than 180,000 people tackling these challenges and helping to accelerate our ability to find solutions.”",
+      "ko": "“18만 명이 넘는 사람들이 이 과제에 도전하며 우리가 해결책을 더 빨리 찾도록 돕는 모습을 보게 되어 정말 기쁩니다.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "record-breaking",
+      "pos": "adjective",
+      "meaningKo": "기록적인, 기록을 깬",
+      "ipa": "/ˈrɛkɚd ˌbreɪkɪŋ/",
+      "synonyms": [
+        "unprecedented",
+        "all-time high"
+      ],
+      "matchText": "record-breaking",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The city had a record-breaking heat wave this summer.",
+        "ko": "그 도시는 올여름 기록적인 폭염을 겪었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "in a row",
+      "pos": "phrase",
+      "meaningKo": "연속으로, 잇달아",
+      "ipa": "/ɪn ə roʊ/",
+      "synonyms": [
+        "consecutively",
+        "straight",
+        "back-to-back"
+      ],
+      "matchText": "in a row",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Our team won five games in a row.",
+        "ko": "우리 팀은 다섯 경기를 연속으로 이겼다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "hands-on",
+      "pos": "adjective",
+      "meaningKo": "직접 해 보는, 실습의",
+      "ipa": "/ˈhændz ˌɑn/",
+      "synonyms": [
+        "practical",
+        "direct",
+        "firsthand"
+      ],
+      "matchText": "hands-on",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The museum offers hands-on science activities for kids.",
+        "ko": "그 박물관은 아이들을 위한 직접 해 보는 과학 활동을 제공한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "leverage",
+      "pos": "verb",
+      "meaningKo": "(자원 등을) 활용하다",
+      "ipa": "/ˈlɛvərɪdʒ/",
+      "synonyms": [
+        "use",
+        "make use of",
+        "exploit"
+      ],
+      "matchText": "leverage",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Small shops can leverage social media to find new customers.",
+        "ko": "작은 가게들은 소셜 미디어를 활용해 새 손님을 찾을 수 있다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "tackle",
+      "pos": "verb",
+      "meaningKo": "(문제에) 달려들다, 씨름하다",
+      "ipa": "/ˈtækəl/",
+      "synonyms": [
+        "deal with",
+        "take on",
+        "address"
+      ],
+      "matchText": "tackling",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The new mayor promised to tackle traffic problems.",
+        "ko": "새 시장은 교통 문제를 해결하겠다고 약속했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "On Nov. 14 and 15,",
+          "role": "M",
+          "sub": false,
+          "ko": "11월 14일과 15일에"
+        },
+        {
+          "text": "NASA",
+          "role": "S",
+          "sub": false,
+          "ko": "NASA는"
+        },
+        {
+          "text": "held",
+          "role": "V",
+          "sub": false,
+          "ko": "열었다"
+        },
+        {
+          "text": "the annual Space Apps Challenge",
+          "role": "O",
+          "sub": false,
+          "ko": "연례 스페이스 앱스 챌린지를"
+        },
+        {
+          "text": "with a record-breaking 181,835 registered participants",
+          "role": "M",
+          "sub": false,
+          "ko": "기록적인 181,835명의 등록 참가자와 함께"
+        },
+        {
+          "text": "taking part in 593 events around the world.",
+          "role": "M",
+          "sub": false,
+          "ko": "(그들은) 전 세계 593개 행사에 참여하며"
+        }
+      ],
+      "skeleton": "NASA held the Challenge",
+      "explanation": "핵심은 NASA(S) + held(V) + the annual Space Apps Challenge(O)다. 'with + 명사 + -ing' 형태로 '참가자들이 ~에 참여하는 가운데'라는 상황을 덧붙인다. taking part in은 participants를 뒤에서 꾸미는 현재분사구다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Since 2012,",
+          "role": "M",
+          "sub": false,
+          "ko": "2012년 이후로"
+        },
+        {
+          "text": "NASA Space Apps Challenge",
+          "role": "S",
+          "sub": false,
+          "ko": "NASA 스페이스 앱스 챌린지는"
+        },
+        {
+          "text": "has hosted",
+          "role": "V",
+          "sub": false,
+          "ko": "열어 왔다"
+        },
+        {
+          "text": "the two-day event,",
+          "role": "O",
+          "sub": false,
+          "ko": "이틀간의 행사를"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그 행사는"
+        },
+        {
+          "text": "has included",
+          "role": "V",
+          "sub": true,
+          "ko": "포함해 왔다"
+        },
+        {
+          "text": "more than 600,000 people",
+          "role": "O",
+          "sub": true,
+          "ko": "60만 명이 넘는 사람들을"
+        },
+        {
+          "text": "from more than 190 countries.",
+          "role": "M",
+          "sub": true,
+          "ko": "190개가 넘는 나라에서 온"
+        }
+      ],
+      "skeleton": "NASA Space Apps Challenge has hosted the event",
+      "explanation": "Since 2012(2012년 이후로)와 함께 현재완료 has hosted를 써서 과거부터 지금까지 계속된 일을 나타낸다. 쉼표 뒤 which는 앞의 the two-day event를 보충 설명하는 계속적 용법의 관계대명사이며, 그 안에서도 has included라는 현재완료가 쓰였다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Projects",
+          "role": "S",
+          "sub": false,
+          "ko": "프로젝트들은"
+        },
+        {
+          "text": "are then judged",
+          "role": "V",
+          "sub": false,
+          "ko": "그다음 심사된다"
+        },
+        {
+          "text": "to determine 10 global winners,",
+          "role": "M",
+          "sub": false,
+          "ko": "세계 우승팀 10팀을 정하기 위해"
+        },
+        {
+          "text": "to be announced in January.",
+          "role": "M",
+          "sub": false,
+          "ko": "(그리고 그들은) 1월에 발표될 예정이다"
+        }
+      ],
+      "skeleton": "Projects are judged",
+      "explanation": "are judged는 현재 수동태(심사된다)다. 첫 번째 to determine은 목적(~하기 위해)을 나타내는 to부정사이고, 두 번째 to be announced는 수동형 to부정사로 winners에 대해 '발표될 예정'이라는 정보를 덧붙인다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료: since + 과거 시점",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "Since 2012",
+        "has hosted"
+      ],
+      "explanation": "since(~이후로) 뒤에 과거 시점이 오면, 그때부터 지금까지 이어지는 일을 현재완료(have/has + 과거분사)로 쓴다. 2012년부터 지금까지 계속 행사를 열어 왔다는 뜻이다.",
+      "example": {
+        "en": "She has lived in Seoul since 2018.",
+        "ko": "그녀는 2018년부터 서울에 살고 있다."
+      },
+      "note": "since 2012에는 단순과거(hosted)를 쓰지 않는다."
+    },
+    {
+      "id": "g2",
+      "title": "수동태와 to부정사(목적·예정)",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "are then judged",
+        "to determine",
+        "to be announced"
+      ],
+      "explanation": "be + 과거분사(are judged)는 '~되다'라는 수동태다. to determine은 '정하기 위해'라는 목적을, to be announced는 '발표될 (예정인)'이라는 수동의 의미를 지닌 to부정사다.",
+      "example": {
+        "en": "The letters are checked to find mistakes.",
+        "ko": "그 편지들은 실수를 찾기 위해 검토된다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "see + 목적어 + -ing (지각동사)",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "see more than 180,000 people tackling these challenges"
+      ],
+      "explanation": "지각동사 see 뒤에 '목적어 + -ing'를 쓰면 '(목적어)가 ~하고 있는 것을 보다'라는 뜻이 된다. 여기서는 18만 명이 넘는 사람들이 과제에 도전하고 있는 모습을 보는 것이다. and helping도 같은 -ing 형태로 이어진다.",
+      "example": {
+        "en": "I saw the children playing in the park.",
+        "ko": "나는 아이들이 공원에서 놀고 있는 것을 보았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "nov": {
+      "lemma": "Nov.",
+      "pos": "proper-noun",
+      "ko": "11월 (November의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/noʊv/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "nasa": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "나사, 미국 항공우주국",
+      "form": null,
+      "ipa": "/ˈnæsə/"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(행사를) 열다, 개최하다",
+      "form": "과거형",
+      "synonyms": [
+        "hosted",
+        "organized"
+      ],
+      "ipa": "/hɛld/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "annual": {
+      "lemma": "annual",
+      "pos": "adjective",
+      "ko": "연례의, 매년의",
+      "form": null,
+      "synonyms": [
+        "yearly",
+        "once-a-year"
+      ],
+      "ipa": "/ˈænjuəl/"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "우주",
+      "form": null,
+      "synonyms": [
+        "outer space",
+        "the cosmos"
+      ],
+      "ipa": "/speɪs/"
+    },
+    "apps": {
+      "lemma": "app",
+      "pos": "noun",
+      "ko": "앱, 응용 프로그램",
+      "form": "복수형",
+      "synonyms": [
+        "applications",
+        "programs"
+      ],
+      "ipa": "/æps/"
+    },
+    "challenge": {
+      "lemma": "challenge",
+      "pos": "noun",
+      "ko": "챌린지, 도전 과제",
+      "form": null,
+      "synonyms": [
+        "contest",
+        "task"
+      ],
+      "ipa": "/ˈtʃæləndʒ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가진",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "record-breaking": {
+      "lemma": "record-breaking",
+      "pos": "adjective",
+      "ko": "기록적인, 기록을 깬",
+      "form": null,
+      "synonyms": [
+        "unprecedented",
+        "all-time"
+      ],
+      "ipa": "/rəˈkɔːrd-ˈbreɪkɪŋ/"
+    },
+    "registered": {
+      "lemma": "register",
+      "pos": "verb",
+      "ko": "등록된",
+      "form": "과거분사",
+      "synonyms": [
+        "enrolled",
+        "signed-up"
+      ],
+      "ipa": "/ˈrɛdʒɪstərd/"
+    },
+    "participants": {
+      "lemma": "participant",
+      "pos": "noun",
+      "ko": "참가자들",
+      "form": "복수형",
+      "synonyms": [
+        "entrants",
+        "attendees"
+      ],
+      "ipa": "/pɑrˈtɪsəpənts/"
+    },
+    "taking": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(참여를) 하는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "joining"
+      ],
+      "ipa": "/ˈteɪkɪŋ/"
+    },
+    "part": {
+      "lemma": "part",
+      "pos": "noun",
+      "ko": "참여 (take part in: 참여하다)",
+      "form": null,
+      "synonyms": [
+        "role",
+        "share"
+      ],
+      "ipa": "/pɑːrt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "events": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "행사들",
+      "form": "복수형",
+      "synonyms": [
+        "gatherings",
+        "meetups"
+      ],
+      "ipa": "/ɪˈvɛnts/"
+    },
+    "around": {
+      "lemma": "around",
+      "pos": "preposition",
+      "ko": "~ 곳곳에, 전역에",
+      "form": null,
+      "ipa": "/əˈraʊnd/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세계",
+      "form": null,
+      "synonyms": [
+        "globe",
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "hackathon": {
+      "lemma": "hackathon",
+      "pos": "noun",
+      "ko": "해커톤 (단기간 집중 개발 대회)",
+      "form": null,
+      "synonyms": [
+        "coding contest",
+        "hack event"
+      ],
+      "ipa": "/ˈhækəˌθɔːn/"
+    },
+    "invites": {
+      "lemma": "invite",
+      "pos": "verb",
+      "ko": "초대하다, 권하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "asks",
+        "encourages"
+      ],
+      "ipa": "/ˌɪnˈvaɪts/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하도록, ~하기 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다, 활용하다",
+      "form": null,
+      "synonyms": [
+        "utilize",
+        "employ"
+      ],
+      "ipa": "/juːs/"
+    },
+    "nasa's": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "나사의 (미국 항공우주국의)",
+      "form": "소유격",
+      "ipa": "/ˈnæsəz/"
+    },
+    "open": {
+      "lemma": "open",
+      "pos": "adjective",
+      "ko": "공개된, 누구나 쓸 수 있는",
+      "form": null,
+      "synonyms": [
+        "public",
+        "accessible"
+      ],
+      "ipa": "/ˈoʊpən/"
+    },
+    "data": {
+      "lemma": "data",
+      "pos": "noun",
+      "ko": "데이터, 자료",
+      "form": null,
+      "synonyms": [
+        "information",
+        "figures"
+      ],
+      "ipa": "/ˈdeɪtə/"
+    },
+    "address": {
+      "lemma": "address",
+      "pos": "verb",
+      "ko": "(문제를) 다루다, 해결하다",
+      "form": null,
+      "synonyms": [
+        "tackle",
+        "deal with"
+      ],
+      "ipa": "/ˈæˌdrɛs/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~중",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "challenges": {
+      "lemma": "challenge",
+      "pos": "noun",
+      "ko": "과제들, 어려운 문제들",
+      "form": "복수형",
+      "synonyms": [
+        "problems",
+        "tasks"
+      ],
+      "ipa": "/ˈtʃæləndʒɪz/"
+    },
+    "focused": {
+      "lemma": "focus",
+      "pos": "verb",
+      "ko": "~에 초점을 맞춘",
+      "form": "과거분사",
+      "synonyms": [
+        "centered",
+        "concentrated"
+      ],
+      "ipa": "/ˈfoʊkəst/"
+    },
+    "exploration": {
+      "lemma": "exploration",
+      "pos": "noun",
+      "ko": "탐사, 탐험",
+      "form": null,
+      "synonyms": [
+        "discovery",
+        "investigation"
+      ],
+      "ipa": "/ˌɛkspləˈreɪʃən/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "earth": {
+      "lemma": "Earth",
+      "pos": "proper-noun",
+      "ko": "지구",
+      "form": null,
+      "ipa": "/ɜːrθ/"
+    },
+    "science": {
+      "lemma": "science",
+      "pos": "noun",
+      "ko": "과학",
+      "form": null,
+      "synonyms": [
+        "research",
+        "study"
+      ],
+      "ipa": "/ˈsaɪəns/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": null,
+      "synonyms": [
+        "twelve months"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "drew": {
+      "lemma": "draw",
+      "pos": "verb",
+      "ko": "(사람을) 끌어모으다",
+      "form": "과거형",
+      "synonyms": [
+        "attracted",
+        "pulled in"
+      ],
+      "ipa": "/druː/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "determiner",
+      "ko": "더 많은",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "registrants": {
+      "lemma": "registrant",
+      "pos": "noun",
+      "ko": "등록자들",
+      "form": "복수형",
+      "synonyms": [
+        "enrollees",
+        "applicants"
+      ],
+      "ipa": "/ˈrɛdʒəstrənts/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "5th": {
+      "lemma": "fifth",
+      "pos": "number",
+      "ko": "다섯 번째 (5th)",
+      "form": null,
+      "ipa": null
+    },
+    "row": {
+      "lemma": "row",
+      "pos": "noun",
+      "ko": "줄, 열 (in a row: 연속으로)",
+      "form": null,
+      "synonyms": [
+        "line",
+        "series"
+      ],
+      "ipa": "/roʊ/"
+    },
+    "increased": {
+      "lemma": "increase",
+      "pos": "verb",
+      "ko": "늘어난, 증가한",
+      "form": "과거분사",
+      "synonyms": [
+        "greater",
+        "higher"
+      ],
+      "ipa": "/ˌɪnˈkriːst/"
+    },
+    "participation": {
+      "lemma": "participation",
+      "pos": "noun",
+      "ko": "참여, 참가",
+      "form": null,
+      "synonyms": [
+        "involvement",
+        "engagement"
+      ],
+      "ipa": "/pɑrˌtɪsəˈpeɪʃən/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "preposition",
+      "ko": "~이후로",
+      "form": null,
+      "ipa": "/sɪns/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~해 왔다 (현재완료)",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "hosted": {
+      "lemma": "host",
+      "pos": "verb",
+      "ko": "(행사를) 주최하다, 열다",
+      "form": "과거분사",
+      "synonyms": [
+        "held",
+        "organized"
+      ],
+      "ipa": "/ˈhoʊstɪd/"
+    },
+    "two-day": {
+      "lemma": "two-day",
+      "pos": "adjective",
+      "ko": "이틀간의",
+      "form": null,
+      "synonyms": [
+        "48-hour"
+      ],
+      "ipa": "/tuː-deɪ/"
+    },
+    "event": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "행사",
+      "form": null,
+      "synonyms": [
+        "occasion",
+        "gathering"
+      ],
+      "ipa": "/ɪˈvɛnt/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "included": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함하다",
+      "form": "과거분사",
+      "synonyms": [
+        "involved",
+        "counted"
+      ],
+      "ipa": "/ˌɪnˈkluːdəd/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "people": {
+      "lemma": "person",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": "복수형",
+      "synonyms": [
+        "individuals",
+        "folks"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서 온, ~출신의",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "countries": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "나라들",
+      "form": "복수형",
+      "synonyms": [
+        "nations",
+        "states"
+      ],
+      "ipa": "/ˈkʌntriz/"
+    },
+    "provides": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "offers",
+        "gives"
+      ],
+      "ipa": "/prəˈvaɪdz/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "opportunity": {
+      "lemma": "opportunity",
+      "pos": "noun",
+      "ko": "기회",
+      "form": null,
+      "synonyms": [
+        "chance",
+        "opening"
+      ],
+      "ipa": "/ˌɑːpərˈtuːnəti/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "hands-on": {
+      "lemma": "hands-on",
+      "pos": "adjective",
+      "ko": "직접 해 보는, 실습의",
+      "form": null,
+      "synonyms": [
+        "practical",
+        "firsthand"
+      ],
+      "ipa": "/hændz-ɑːn/"
+    },
+    "experience": {
+      "lemma": "experience",
+      "pos": "noun",
+      "ko": "경험",
+      "form": null,
+      "synonyms": [
+        "practice",
+        "exposure"
+      ],
+      "ipa": "/ɪkˈspɪriəns/"
+    },
+    "mobilizing": {
+      "lemma": "mobilize",
+      "pos": "verb",
+      "ko": "(사람들을) 결집시키다, 움직이다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rallying",
+        "gathering"
+      ],
+      "ipa": "/ˈmoʊbəˌlaɪzɪŋ/"
+    },
+    "engaged": {
+      "lemma": "engaged",
+      "pos": "adjective",
+      "ko": "적극 참여하는, 열성적인",
+      "form": null,
+      "synonyms": [
+        "involved",
+        "active"
+      ],
+      "ipa": "/ɛnˈɡeɪdʒd/"
+    },
+    "global": {
+      "lemma": "global",
+      "pos": "adjective",
+      "ko": "전 세계의",
+      "form": null,
+      "synonyms": [
+        "worldwide",
+        "international"
+      ],
+      "ipa": "/ˈɡloʊbəl/"
+    },
+    "community": {
+      "lemma": "community",
+      "pos": "noun",
+      "ko": "공동체, 커뮤니티",
+      "form": null,
+      "synonyms": [
+        "network",
+        "group"
+      ],
+      "ipa": "/kəˈmjuːnəti/"
+    },
+    "technologists": {
+      "lemma": "technologist",
+      "pos": "noun",
+      "ko": "기술자들, 기술 전문가들",
+      "form": "복수형",
+      "synonyms": [
+        "engineers",
+        "developers"
+      ],
+      "ipa": "/ˌtɛkˈnɑːlədʒɪsts/"
+    },
+    "enthusiasts": {
+      "lemma": "enthusiast",
+      "pos": "noun",
+      "ko": "애호가들, 열성 팬들",
+      "form": "복수형",
+      "synonyms": [
+        "fans",
+        "lovers"
+      ],
+      "ipa": "/ɛnˈθuːziˌæsts/"
+    },
+    "answer": {
+      "lemma": "answer",
+      "pos": "verb",
+      "ko": "답하다",
+      "form": null,
+      "synonyms": [
+        "respond to",
+        "solve"
+      ],
+      "ipa": "/ˈænsər/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문들, 문제들",
+      "form": "복수형",
+      "synonyms": [
+        "queries",
+        "problems"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "benefit": {
+      "lemma": "benefit",
+      "pos": "verb",
+      "ko": "~에 이롭다, 도움이 되다",
+      "form": null,
+      "synonyms": [
+        "help",
+        "serve"
+      ],
+      "ipa": "/ˈbɛnəfɪt/"
+    },
+    "humanity": {
+      "lemma": "humanity",
+      "pos": "noun",
+      "ko": "인류",
+      "form": null,
+      "synonyms": [
+        "humankind",
+        "people"
+      ],
+      "ipa": "/hjuˈmænɪti/"
+    },
+    "drive": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "추진하다, 이끌다",
+      "form": null,
+      "synonyms": [
+        "push",
+        "advance"
+      ],
+      "ipa": "/draɪv/"
+    },
+    "join": {
+      "lemma": "join",
+      "pos": "verb",
+      "ko": "참여하다, 함께하다",
+      "form": null,
+      "synonyms": [
+        "take part in",
+        "attend"
+      ],
+      "ipa": "/dʒɔɪn/"
+    },
+    "organized": {
+      "lemma": "organize",
+      "pos": "verb",
+      "ko": "조직된, 준비된",
+      "form": "과거분사",
+      "synonyms": [
+        "arranged",
+        "set up"
+      ],
+      "ipa": "/ˈɔːrɡəˌnaɪzd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "local": {
+      "lemma": "local",
+      "pos": "adjective",
+      "ko": "지역의, 현지의",
+      "form": null,
+      "synonyms": [
+        "nearby",
+        "community"
+      ],
+      "ipa": "/ˈloʊkəl/"
+    },
+    "volunteers": {
+      "lemma": "volunteer",
+      "pos": "noun",
+      "ko": "자원봉사자들",
+      "form": "복수형",
+      "synonyms": [
+        "helpers",
+        "unpaid workers"
+      ],
+      "ipa": "/ˌvɑːlənˈtɪrz/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다, 작업하다",
+      "form": null,
+      "synonyms": [
+        "collaborate",
+        "labor"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "teams": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀들",
+      "form": "복수형",
+      "synonyms": [
+        "groups",
+        "squads"
+      ],
+      "ipa": "/tiːmz/"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": null,
+      "synonyms": [
+        "hand in",
+        "turn in"
+      ],
+      "ipa": "/səbˈmɪt/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "project": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트, 과제물",
+      "form": null,
+      "synonyms": [
+        "work",
+        "entry"
+      ],
+      "ipa": "/ˈprɑːdʒɛkt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "deadline": {
+      "lemma": "deadline",
+      "pos": "noun",
+      "ko": "마감 기한",
+      "form": null,
+      "synonyms": [
+        "due date",
+        "time limit"
+      ],
+      "ipa": "/ˈdɛdˌlaɪn/"
+    },
+    "projects": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트들",
+      "form": "복수형",
+      "synonyms": [
+        "entries",
+        "submissions"
+      ],
+      "ipa": "/ˈprɑːdʒɛkts/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (수동태)",
+      "form": null,
+      "ipa": "/ɑːr/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그다음에, 그러고 나서",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterward"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "judged": {
+      "lemma": "judge",
+      "pos": "verb",
+      "ko": "심사되다, 평가되다",
+      "form": "과거분사",
+      "synonyms": [
+        "evaluated",
+        "assessed"
+      ],
+      "ipa": "/dʒʌdʒd/"
+    },
+    "determine": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "결정하다, 정하다",
+      "form": null,
+      "synonyms": [
+        "decide",
+        "choose"
+      ],
+      "ipa": "/dəˈtɜːrmən/"
+    },
+    "winners": {
+      "lemma": "winner",
+      "pos": "noun",
+      "ko": "우승자들",
+      "form": "복수형",
+      "synonyms": [
+        "champions",
+        "victors"
+      ],
+      "ipa": "/ˈwɪnərz/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (to be + 과거분사)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "announced": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "발표되다",
+      "form": "과거분사",
+      "synonyms": [
+        "revealed",
+        "declared"
+      ],
+      "ipa": "/əˈnaʊnst/"
+    },
+    "january": {
+      "lemma": "January",
+      "pos": "proper-noun",
+      "ko": "1월",
+      "form": null,
+      "ipa": "/ˈdʒænjuˌɛri/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "different": {
+      "lemma": "different",
+      "pos": "adjective",
+      "ko": "다양한, 서로 다른",
+      "form": null,
+      "synonyms": [
+        "various",
+        "diverse"
+      ],
+      "ipa": "/ˈdɪfərənt/"
+    },
+    "skillsets": {
+      "lemma": "skillset",
+      "pos": "noun",
+      "ko": "기술(능력) 묶음",
+      "form": "복수형",
+      "synonyms": [
+        "abilities",
+        "expertise"
+      ],
+      "ipa": null
+    },
+    "leverage": {
+      "lemma": "leverage",
+      "pos": "verb",
+      "ko": "활용하다",
+      "form": null,
+      "synonyms": [
+        "use",
+        "harness"
+      ],
+      "ipa": "/ˈlɛvərɪdʒ/"
+    },
+    "gold-standard": {
+      "lemma": "gold-standard",
+      "pos": "adjective",
+      "ko": "최고 수준의, 표준이 되는",
+      "form": null,
+      "synonyms": [
+        "top-quality",
+        "best"
+      ],
+      "ipa": "/ɡoʊld-ˈstændərd/"
+    },
+    "datasets": {
+      "lemma": "dataset",
+      "pos": "noun",
+      "ko": "데이터 세트들",
+      "form": "복수형",
+      "synonyms": [
+        "data collections",
+        "databases"
+      ],
+      "ipa": "/ˈdeɪtəˌsɛts/"
+    },
+    "real": {
+      "lemma": "real",
+      "pos": "adjective",
+      "ko": "실제의, 진짜",
+      "form": null,
+      "synonyms": [
+        "actual",
+        "genuine"
+      ],
+      "ipa": "/riːl/"
+    },
+    "facing": {
+      "lemma": "face",
+      "pos": "verb",
+      "ko": "~에 닥친, 직면한",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "confronting"
+      ],
+      "ipa": "/ˈfeɪsɪŋ/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기에서",
+      "form": null,
+      "synonyms": [
+        "in this place"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "stated",
+        "remarked"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "amy": {
+      "lemma": "Amy",
+      "pos": "proper-noun",
+      "ko": "에이미 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈeɪmi/"
+    },
+    "kaminski": {
+      "lemma": "Kaminski",
+      "pos": "proper-noun",
+      "ko": "카민스키 (성)",
+      "form": null,
+      "ipa": "/kəˈmɪnski/"
+    },
+    "engagement": {
+      "lemma": "engagement",
+      "pos": "noun",
+      "ko": "참여 (대중과의 교류)",
+      "form": null,
+      "synonyms": [
+        "outreach",
+        "involvement"
+      ],
+      "ipa": "/ɛnˈɡeɪdʒmənt/"
+    },
+    "branch": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "부서, 지부",
+      "form": null,
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/bræntʃ/"
+    },
+    "chief": {
+      "lemma": "chief",
+      "pos": "noun",
+      "ko": "책임자, 장",
+      "form": null,
+      "synonyms": [
+        "head",
+        "leader"
+      ],
+      "ipa": "/tʃiːf/"
+    },
+    "mission": {
+      "lemma": "mission",
+      "pos": "noun",
+      "ko": "임무",
+      "form": null,
+      "synonyms": [
+        "task",
+        "assignment"
+      ],
+      "ipa": "/ˈmɪʃən/"
+    },
+    "directorate": {
+      "lemma": "directorate",
+      "pos": "noun",
+      "ko": "국(局), 부서",
+      "form": null,
+      "synonyms": [
+        "department",
+        "division"
+      ],
+      "ipa": "/dəˈrɛktərət/"
+    },
+    "headquarters": {
+      "lemma": "headquarters",
+      "pos": "noun",
+      "ko": "본부",
+      "form": null,
+      "synonyms": [
+        "head office",
+        "main office"
+      ],
+      "ipa": "/ˈhɛdˌkwɔːrtərz/"
+    },
+    "washington": {
+      "lemma": "Washington",
+      "pos": "proper-noun",
+      "ko": "워싱턴 (미국 수도)",
+      "form": null,
+      "ipa": "/ˈwɑːʃɪŋtən/"
+    },
+    "we're": {
+      "lemma": "we are",
+      "pos": "pronoun",
+      "ko": "우리는 ~이다",
+      "form": "줄임말",
+      "ipa": "/wiːr/"
+    },
+    "thrilled": {
+      "lemma": "thrilled",
+      "pos": "adjective",
+      "ko": "아주 기쁜, 신이 난",
+      "form": null,
+      "synonyms": [
+        "delighted",
+        "excited"
+      ],
+      "ipa": "/θrɪld/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "watch",
+        "witness"
+      ],
+      "ipa": "/siː/"
+    },
+    "tackling": {
+      "lemma": "tackle",
+      "pos": "verb",
+      "ko": "(문제에) 도전하는, 씨름하는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "taking on",
+        "dealing with"
+      ],
+      "ipa": "/ˈtæklɪŋ/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "helping": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "assisting",
+        "aiding"
+      ],
+      "ipa": "/ˈhɛlpɪŋ/"
+    },
+    "accelerate": {
+      "lemma": "accelerate",
+      "pos": "verb",
+      "ko": "가속하다, 앞당기다",
+      "form": null,
+      "synonyms": [
+        "speed up",
+        "hasten"
+      ],
+      "ipa": "/ækˈsɛləˌreɪt/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "ability": {
+      "lemma": "ability",
+      "pos": "noun",
+      "ko": "능력",
+      "form": null,
+      "synonyms": [
+        "capacity",
+        "skill"
+      ],
+      "ipa": "/əˈbɪləˌtiː/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "찾다",
+      "form": null,
+      "synonyms": [
+        "discover",
+        "reach"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "solutions": {
+      "lemma": "solution",
+      "pos": "noun",
+      "ko": "해결책들",
+      "form": "복수형",
+      "synonyms": [
+        "answers",
+        "fixes"
+      ],
+      "ipa": "/səˈluːʃənz/"
+    }
+  }
+}
