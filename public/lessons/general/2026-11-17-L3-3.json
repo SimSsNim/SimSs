@@ -1,0 +1,1636 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-17-L3-3",
+  "date": "2026-11-17",
+  "level": 3,
+  "title": "The Elves and the Shoemaker",
+  "titleKo": "요정과 구두장이",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "kindness"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (The Elves and the Shoemaker)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'The Elves and the Shoemaker' 첫 두 단락 전체와 셋째 단락의 첫 문장 (‘There was once a shoemaker’부터 ‘…bought leather enough to make two pairs more.’까지, 210단어). 두 단락만으로는 170단어라 레벨 범위(200~250)에 못 미치고 셋째 단락 전체를 넣으면 324단어라, 셋째 단락은 첫 문장(구두가 팔리는 장면)에서 끊음. gutenberg.org 점검 중이라 archive.org에 보관된 같은 전자책의 옛 판(PG #2591, grimm10.txt)에서 가져왔고 줄바꿈만 공백 하나로 이음."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_39_theelves.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_39_theelves_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Sean Randall",
+    "durationSec": 286,
+    "startSec": 15,
+    "endSec": 100,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 39 'The Elves and the Shoemaker' (전체 4:45). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:40 (추정)."
+  },
+  "wordCount": 210,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "옛날에 한 구두장이가 있었는데, 그는 무척 열심히 일했고 아주 정직했다. 그런데도 먹고살 만큼 돈을 벌 수가 없었고, 마침내 가진 것이 모두 없어지고 구두 한 켤레를 만들 가죽만 겨우 남게 되었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "그래서 구두장이는 다음 날 바로 구두를 지을 수 있도록 가죽을 재단해 두었다. 아침 일찍 일어나 일을 시작할 생각이었다. 온갖 걱정거리 속에서도 그의 양심은 깨끗했고 마음은 가벼웠다. 그래서 그는 편안히 잠자리에 들어 모든 근심을 하늘에 맡기고 곧 잠이 들었다. 아침에 기도를 드린 뒤 일을 하려고 자리에 앉았는데, 깜짝 놀랍게도 구두가 이미 다 만들어진 채 탁자 위에 놓여 있었다. 착한 구두장이는 이런 희한한 일이 일어나자 무슨 말을 해야 할지, 어떻게 생각해야 할지 몰랐다. 그는 솜씨를 살펴보았다. 구두 전체에 잘못된 바늘땀이 하나도 없었고, 모든 것이 아주 깔끔하고 정확해서 그야말로 걸작이었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "바로 그날 손님이 한 명 들어왔는데, 구두가 그의 마음에 쏙 들어서 그는 기꺼이 평소보다 비싼 값을 치렀다. 가난한 구두장이는 그 돈으로 구두 두 켤레를 더 만들 수 있는 가죽을 샀다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was once a shoemaker, who worked very hard and was very honest: but still he could not earn enough to live upon; and at last all he had in the world was gone, save just leather enough to make one pair of shoes.",
+      "ko": "옛날에 한 구두장이가 있었는데, 그는 무척 열심히 일했고 아주 정직했다. 그런데도 먹고살 만큼 돈을 벌 수가 없었고, 마침내 가진 것이 모두 없어지고 구두 한 켤레를 만들 가죽만 겨우 남게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Then he cut his leather out, all ready to make up the next day, meaning to rise early in the morning to his work.",
+      "ko": "그래서 구두장이는 다음 날 바로 구두를 지을 수 있도록 가죽을 재단해 두었다. 아침 일찍 일어나 일을 시작할 생각이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "His conscience was clear and his heart light amidst all his troubles; so he went peaceably to bed, left all his cares to Heaven, and soon fell asleep.",
+      "ko": "온갖 걱정거리 속에서도 그의 양심은 깨끗했고 마음은 가벼웠다. 그래서 그는 편안히 잠자리에 들어 모든 근심을 하늘에 맡기고 곧 잠이 들었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "In the morning after he had said his prayers, he sat himself down to his work; when, to his great wonder, there stood the shoes all ready made, upon the table.",
+      "ko": "아침에 기도를 드린 뒤 일을 하려고 자리에 앉았는데, 깜짝 놀랍게도 구두가 이미 다 만들어진 채 탁자 위에 놓여 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "The good man knew not what to say or think at such an odd thing happening.",
+      "ko": "착한 구두장이는 이런 희한한 일이 일어나자 무슨 말을 해야 할지, 어떻게 생각해야 할지 몰랐다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "He looked at the workmanship; there was not one false stitch in the whole job; all was so neat and true, that it was quite a masterpiece.",
+      "ko": "그는 솜씨를 살펴보았다. 구두 전체에 잘못된 바늘땀이 하나도 없었고, 모든 것이 아주 깔끔하고 정확해서 그야말로 걸작이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "The same day a customer came in, and the shoes suited him so well that he willingly paid a price higher than usual for them; and the poor shoemaker, with the money, bought leather enough to make two pairs more.",
+      "ko": "바로 그날 손님이 한 명 들어왔는데, 구두가 그의 마음에 쏙 들어서 그는 기꺼이 평소보다 비싼 값을 치렀다. 가난한 구두장이는 그 돈으로 구두 두 켤레를 더 만들 수 있는 가죽을 샀다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "earn",
+      "pos": "verb",
+      "meaningKo": "(돈을) 벌다",
+      "ipa": "/ɝn/",
+      "synonyms": [
+        "make",
+        "gain"
+      ],
+      "matchText": "earn",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She earns money by teaching piano.",
+        "ko": "그녀는 피아노를 가르쳐서 돈을 번다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "conscience",
+      "pos": "noun",
+      "meaningKo": "양심",
+      "ipa": "/ˈkɑnʃəns/",
+      "synonyms": [
+        "sense of right",
+        "morals"
+      ],
+      "matchText": "conscience",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He told the truth because his conscience bothered him.",
+        "ko": "그는 양심에 찔려서 사실대로 말했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "to one's wonder",
+      "pos": "phrase",
+      "meaningKo": "놀랍게도",
+      "ipa": "/tu wʌnz ˈwʌndɚ/",
+      "synonyms": [
+        "to one's surprise",
+        "amazingly"
+      ],
+      "matchText": "to his great wonder",
+      "sentenceId": "s4",
+      "example": {
+        "en": "To my great wonder, the old car started on the first try.",
+        "ko": "정말 놀랍게도 그 낡은 차가 한 번에 시동이 걸렸다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "masterpiece",
+      "pos": "noun",
+      "meaningKo": "걸작, 명작",
+      "ipa": "/ˈmæstɚˌpis/",
+      "synonyms": [
+        "masterwork",
+        "work of art"
+      ],
+      "matchText": "masterpiece",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Many people think this painting is his masterpiece.",
+        "ko": "많은 사람이 이 그림을 그의 걸작이라고 생각한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "willingly",
+      "pos": "adverb",
+      "meaningKo": "기꺼이, 자진해서",
+      "ipa": "/ˈwɪlɪŋli/",
+      "synonyms": [
+        "gladly",
+        "happily",
+        "readily"
+      ],
+      "matchText": "willingly",
+      "sentenceId": "s7",
+      "example": {
+        "en": "She willingly helped her friend move house.",
+        "ko": "그녀는 기꺼이 친구의 이사를 도왔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "There",
+          "role": "M",
+          "sub": false,
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "sub": false,
+          "ko": "옛날에"
+        },
+        {
+          "text": "a shoemaker,",
+          "role": "S",
+          "sub": false,
+          "ko": "한 구두장이가"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그런데 그는)"
+        },
+        {
+          "text": "worked",
+          "role": "V",
+          "sub": true,
+          "ko": "일했다"
+        },
+        {
+          "text": "very hard",
+          "role": "M",
+          "sub": true,
+          "ko": "무척 열심히"
+        },
+        {
+          "text": "and was",
+          "role": "V",
+          "sub": true,
+          "ko": "그리고 ~였다"
+        },
+        {
+          "text": "very honest:",
+          "role": "C",
+          "sub": true,
+          "ko": "아주 정직한"
+        },
+        {
+          "text": "but still",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데도"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "could not earn",
+          "role": "V",
+          "sub": false,
+          "ko": "벌 수 없었다"
+        },
+        {
+          "text": "enough to live upon;",
+          "role": "O",
+          "sub": false,
+          "ko": "먹고살 만큼을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "at last",
+          "role": "M",
+          "sub": false,
+          "ko": "마침내"
+        },
+        {
+          "text": "all",
+          "role": "S",
+          "sub": false,
+          "ko": "모든 것이"
+        },
+        {
+          "text": "he had in the world",
+          "role": "M",
+          "sub": true,
+          "ko": "그가 세상에 가진"
+        },
+        {
+          "text": "was gone,",
+          "role": "V",
+          "sub": false,
+          "ko": "없어졌다"
+        },
+        {
+          "text": "save",
+          "role": "M",
+          "sub": false,
+          "ko": "~을 빼고"
+        },
+        {
+          "text": "just leather enough to make one pair of shoes.",
+          "role": "M",
+          "sub": false,
+          "ko": "구두 한 켤레를 만들 만큼의 가죽만"
+        }
+      ],
+      "skeleton": "There was a shoemaker, but he could not earn enough; and all was gone",
+      "explanation": "콜론(:)과 세미콜론(;)으로 세 덩어리가 이어진 긴 문장이다. who worked ~ honest는 a shoemaker를 덧붙여 설명하는 관계대명사절이다. all (that) he had in the world는 '그가 가진 모든 것'이라는 주어로, all 뒤에 관계대명사 that이 생략되었다. save는 여기서 '~을 제외하고(except)'라는 전치사다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "The same day",
+          "role": "M",
+          "sub": false,
+          "ko": "바로 그날"
+        },
+        {
+          "text": "a customer",
+          "role": "S",
+          "sub": false,
+          "ko": "손님 한 명이"
+        },
+        {
+          "text": "came in,",
+          "role": "V",
+          "sub": false,
+          "ko": "들어왔다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the shoes",
+          "role": "S",
+          "sub": false,
+          "ko": "그 구두가"
+        },
+        {
+          "text": "suited",
+          "role": "V",
+          "sub": false,
+          "ko": "잘 맞았다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "so well",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 잘"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "willingly",
+          "role": "M",
+          "sub": true,
+          "ko": "기꺼이"
+        },
+        {
+          "text": "paid",
+          "role": "V",
+          "sub": true,
+          "ko": "치렀다"
+        },
+        {
+          "text": "a price higher than usual",
+          "role": "O",
+          "sub": true,
+          "ko": "평소보다 비싼 값을"
+        },
+        {
+          "text": "for them;",
+          "role": "M",
+          "sub": true,
+          "ko": "그 구두에 대해"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the poor shoemaker,",
+          "role": "S",
+          "sub": false,
+          "ko": "가난한 구두장이는"
+        },
+        {
+          "text": "with the money,",
+          "role": "M",
+          "sub": false,
+          "ko": "그 돈으로"
+        },
+        {
+          "text": "bought",
+          "role": "V",
+          "sub": false,
+          "ko": "샀다"
+        },
+        {
+          "text": "leather enough to make two pairs more.",
+          "role": "O",
+          "sub": false,
+          "ko": "두 켤레를 더 만들 만큼의 가죽을"
+        }
+      ],
+      "skeleton": "A customer came in, and the shoes suited him so well that he paid ~; and the shoemaker bought leather",
+      "explanation": "'so well that ~'은 '너무 잘 ~해서 …하다'라는 결과 구문이다. 구두가 손님에게 아주 잘 맞은 결과, 손님이 기꺼이 비싼 값을 냈다. 뒤 절의 leather enough to make ~는 '~을 만들기에 충분한 가죽'이라는 뜻으로, enough가 명사 뒤에서 to부정사와 함께 쓰였다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "enough + to부정사: ~할 만큼 충분한",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "enough to live upon",
+        "leather enough to make one pair of shoes"
+      ],
+      "explanation": "'enough + to부정사'는 '~하기에 충분한(만큼)'이라는 뜻이다. enough to live upon은 '먹고살 만큼(의 돈)', leather enough to make one pair of shoes는 '구두 한 켤레를 만들 만큼의 가죽'이다. 이 글처럼 옛 문체에서는 명사 뒤에 enough를 두기도 한다(요즘은 보통 enough leather).",
+      "example": {
+        "en": "I don't have enough money to buy a new bike.",
+        "ko": "나는 새 자전거를 살 만큼 돈이 충분하지 않다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "분사구문: meaning to ~",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "meaning to rise early in the morning"
+      ],
+      "explanation": "meaning to rise early ~는 'and he meant to rise early ~(그리고 일찍 일어날 생각이었다)'를 줄인 분사구문이다. 주어가 앞 절과 같은 he이므로 생략하고 동사를 -ing 형태로 바꿨다. mean to + 동사원형은 '~할 작정이다, ~하려고 하다'라는 뜻이다.",
+      "example": {
+        "en": "She went to bed early, meaning to study in the morning.",
+        "ko": "그녀는 아침에 공부할 생각으로 일찍 잠자리에 들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "옛 영어의 부정문: knew not",
+      "tags": [
+        "어순",
+        "기타"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "knew not what to say or think"
+      ],
+      "explanation": "오늘날 영어라면 did not know라고 쓰지만, 옛 영어에서는 일반동사 바로 뒤에 not을 붙여 knew not처럼 부정문을 만들기도 했다. what to say or think는 '의문사 + to부정사'로 '무엇을 말하고 생각해야 할지'라는 뜻이며 knew의 목적어 역할을 한다.",
+      "example": {
+        "en": "I didn't know what to say.",
+        "ko": "나는 무슨 말을 해야 할지 몰랐다."
+      },
+      "note": "옛 문체 예: I know not why. (= I don't know why.)"
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was: ~이 있었다, there stood: ~이 서 있었다)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다 (was gone: 없어졌다)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "shoemaker": {
+      "lemma": "shoemaker",
+      "pos": "noun",
+      "ko": "구두장이, 구두 만드는 사람",
+      "form": null,
+      "synonyms": [
+        "cobbler"
+      ],
+      "ipa": "/ˈʃuːˌmeɪkər/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(그런데) 그는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": "과거형",
+      "synonyms": [
+        "labor",
+        "toil"
+      ],
+      "ipa": "/wɜːrkt/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "synonyms": [
+        "really"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "열심히",
+      "form": null,
+      "synonyms": [
+        "diligently"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "honest": {
+      "lemma": "honest",
+      "pos": "adjective",
+      "ko": "정직한",
+      "form": null,
+      "synonyms": [
+        "truthful",
+        "sincere"
+      ],
+      "ipa": "/ˈɑːnəst/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "ipa": "/bʌt/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "그런데도, 그래도",
+      "form": null,
+      "synonyms": [
+        "yet",
+        "nevertheless"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "ipa": "/hiː/"
+    },
+    "could": {
+      "lemma": "could",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": null,
+      "ipa": "/kʊd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "earn": {
+      "lemma": "earn",
+      "pos": "verb",
+      "ko": "(돈을) 벌다",
+      "form": null,
+      "synonyms": [
+        "make",
+        "gain"
+      ],
+      "ipa": "/ɜːrn/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "pronoun",
+      "ko": "충분한 양 / (명사 뒤) ~할 만큼 충분한",
+      "form": null,
+      "ipa": "/ɪˈnʌf/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "ipa": "/tuː/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "(live upon) ~로 먹고살다",
+      "form": null,
+      "synonyms": [
+        "survive",
+        "subsist"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "(live upon) ~에 의지하여 / ~ 위에",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at last: 마침내)",
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것 / (determiner) 모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다",
+      "form": "과거형",
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상",
+      "form": null,
+      "synonyms": [
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "gone": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be gone) 없어지다, 사라지다",
+      "form": "과거분사",
+      "synonyms": [
+        "vanish",
+        "disappear"
+      ],
+      "ipa": "/ɡɔːn/"
+    },
+    "save": {
+      "lemma": "save",
+      "pos": "preposition",
+      "ko": "~을 제외하고",
+      "form": null,
+      "synonyms": [
+        "except",
+        "but"
+      ],
+      "ipa": "/seɪv/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "겨우, 단지",
+      "form": null,
+      "synonyms": [
+        "only",
+        "merely"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "leather": {
+      "lemma": "leather",
+      "pos": "noun",
+      "ko": "가죽",
+      "form": null,
+      "synonyms": [
+        "hide",
+        "skin"
+      ],
+      "ipa": "/ˈlɛðər/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다",
+      "form": null,
+      "synonyms": [
+        "produce",
+        "craft"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의, 한",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "pair": {
+      "lemma": "pair",
+      "pos": "noun",
+      "ko": "한 켤레, 한 쌍",
+      "form": null,
+      "synonyms": [
+        "couple",
+        "set"
+      ],
+      "ipa": "/pɛr/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의",
+      "ipa": "/ʌv/"
+    },
+    "shoes": {
+      "lemma": "shoe",
+      "pos": "noun",
+      "ko": "구두, 신발",
+      "form": "복수형",
+      "synonyms": [
+        "footwear"
+      ],
+      "ipa": "/ʃuːz/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그래서, 그러고 나서",
+      "form": null,
+      "synonyms": [
+        "next"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "cut": {
+      "lemma": "cut",
+      "pos": "verb",
+      "ko": "(cut out) 재단하다, 잘라 내다",
+      "form": "과거형(현재형과 같음)",
+      "synonyms": [
+        "trim",
+        "shape"
+      ],
+      "ipa": "/kʌt/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(cut out) 오려 내어",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "ready": {
+      "lemma": "ready",
+      "pos": "adjective",
+      "ko": "준비된",
+      "form": null,
+      "synonyms": [
+        "prepared",
+        "set"
+      ],
+      "ipa": "/ˈrɛdi/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(make up) (재료로) 만들어 내다",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "meaning": {
+      "lemma": "mean",
+      "pos": "verb",
+      "ko": "(mean to) ~할 작정이다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "intend",
+        "plan"
+      ],
+      "ipa": "/ˈmiːnɪŋ/"
+    },
+    "rise": {
+      "lemma": "rise",
+      "pos": "verb",
+      "ko": "(잠자리에서) 일어나다",
+      "form": null,
+      "synonyms": [
+        "get up",
+        "wake"
+      ],
+      "ipa": "/raɪz/"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "일찍",
+      "form": null,
+      "ipa": "/ˈɜːrli/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침",
+      "form": null,
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일, 작업",
+      "form": null,
+      "synonyms": [
+        "labor",
+        "task"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "conscience": {
+      "lemma": "conscience",
+      "pos": "noun",
+      "ko": "양심",
+      "form": null,
+      "synonyms": [
+        "morals"
+      ],
+      "ipa": "/ˈkɑːnʃəns/"
+    },
+    "clear": {
+      "lemma": "clear",
+      "pos": "adjective",
+      "ko": "(양심이) 깨끗한, 거리낌 없는",
+      "form": null,
+      "synonyms": [
+        "clean",
+        "untroubled"
+      ],
+      "ipa": "/klɪr/"
+    },
+    "heart": {
+      "lemma": "heart",
+      "pos": "noun",
+      "ko": "마음",
+      "form": null,
+      "synonyms": [
+        "spirit",
+        "feelings"
+      ],
+      "ipa": "/hɑːrt/"
+    },
+    "light": {
+      "lemma": "light",
+      "pos": "adjective",
+      "ko": "(마음이) 가벼운, 홀가분한",
+      "form": null,
+      "synonyms": [
+        "carefree",
+        "cheerful"
+      ],
+      "ipa": "/laɪt/"
+    },
+    "amidst": {
+      "lemma": "amidst",
+      "pos": "preposition",
+      "ko": "~ 가운데에서, ~ 속에서",
+      "form": null,
+      "ipa": "/əˈmɪdst/"
+    },
+    "troubles": {
+      "lemma": "trouble",
+      "pos": "noun",
+      "ko": "걱정거리, 고생",
+      "form": "복수형",
+      "synonyms": [
+        "problem",
+        "hardship"
+      ],
+      "ipa": "/ˈtrʌbəlz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다 (go to bed: 잠자리에 들다)",
+      "form": "과거형",
+      "ipa": "/wɛnt/"
+    },
+    "peaceably": {
+      "lemma": "peaceably",
+      "pos": "adverb",
+      "ko": "평온하게, 편안히",
+      "form": null,
+      "synonyms": [
+        "calmly",
+        "peacefully"
+      ],
+      "ipa": "/ˈpiːsəbli/"
+    },
+    "bed": {
+      "lemma": "bed",
+      "pos": "noun",
+      "ko": "침대, 잠자리",
+      "form": null,
+      "ipa": "/bɛd/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "맡기다, 내버려 두다",
+      "form": "과거형",
+      "synonyms": [
+        "entrust",
+        "hand over"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "cares": {
+      "lemma": "care",
+      "pos": "noun",
+      "ko": "근심, 걱정",
+      "form": "복수형",
+      "synonyms": [
+        "worry",
+        "anxiety"
+      ],
+      "ipa": "/kɛrz/"
+    },
+    "heaven": {
+      "lemma": "Heaven",
+      "pos": "noun",
+      "ko": "하늘, 하느님",
+      "form": null,
+      "synonyms": [
+        "God",
+        "providence"
+      ],
+      "ipa": "/ˈhɛvən/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall asleep) 잠들다",
+      "form": "과거형",
+      "synonyms": [
+        "drop"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "asleep": {
+      "lemma": "asleep",
+      "pos": "adjective",
+      "ko": "잠든",
+      "form": null,
+      "synonyms": [
+        "sleeping"
+      ],
+      "ipa": "/əˈsliːp/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "conjunction",
+      "ko": "~한 뒤에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "(say one's prayers) 기도하다",
+      "form": "과거분사",
+      "synonyms": [
+        "recite"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "prayers": {
+      "lemma": "prayer",
+      "pos": "noun",
+      "ko": "기도",
+      "form": "복수형",
+      "ipa": "/prɛrz/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "(sit oneself down) 자리에 앉다",
+      "form": "과거형",
+      "synonyms": [
+        "settle"
+      ],
+      "ipa": "/sæt/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신 (sat himself down: 자리에 앉았다)",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로 (sit down: 앉다)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "그런데 그때 (when + 놀라운 일)",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "huge"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "wonder": {
+      "lemma": "wonder",
+      "pos": "noun",
+      "ko": "놀라움",
+      "form": null,
+      "synonyms": [
+        "amazement",
+        "surprise"
+      ],
+      "ipa": "/ˈwʌndər/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다, 놓여 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "be placed"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다 (ready made: 이미 다 만들어진)",
+      "form": "과거분사",
+      "synonyms": [
+        "finished"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "table": {
+      "lemma": "table",
+      "pos": "noun",
+      "ko": "탁자",
+      "form": null,
+      "ipa": "/ˈteɪbəl/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "착한, 선량한",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "decent"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 남자",
+      "form": null,
+      "ipa": "/mæn/"
+    },
+    "knew": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": "과거형",
+      "ipa": "/nuː/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는, 혹은",
+      "ipa": "/ɔːr/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": null,
+      "synonyms": [
+        "suppose",
+        "believe"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "이러한, 그런",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)",
+      "ipa": "/æn/"
+    },
+    "odd": {
+      "lemma": "odd",
+      "pos": "adjective",
+      "ko": "이상한, 희한한",
+      "form": null,
+      "synonyms": [
+        "strange",
+        "weird"
+      ],
+      "ipa": "/ɑːd/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "일, 것",
+      "form": null,
+      "synonyms": [
+        "event",
+        "matter"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "happening": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "일어나다, 생기다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "occur",
+        "take place"
+      ],
+      "ipa": "/ˈhæpənɪŋ/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look at) ~을 살펴보다",
+      "form": "과거형",
+      "synonyms": [
+        "examine",
+        "inspect"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "workmanship": {
+      "lemma": "workmanship",
+      "pos": "noun",
+      "ko": "솜씨, 만듦새",
+      "form": null,
+      "synonyms": [
+        "craftsmanship",
+        "skill"
+      ],
+      "ipa": "/ˈwɜːrkmənˌʃɪp/"
+    },
+    "false": {
+      "lemma": "false",
+      "pos": "adjective",
+      "ko": "잘못된, 틀린",
+      "form": null,
+      "synonyms": [
+        "wrong",
+        "faulty"
+      ],
+      "ipa": "/fɔːls/"
+    },
+    "stitch": {
+      "lemma": "stitch",
+      "pos": "noun",
+      "ko": "바늘땀, 바느질 한 땀",
+      "form": null,
+      "synonyms": [
+        "seam"
+      ],
+      "ipa": "/stɪtʃ/"
+    },
+    "whole": {
+      "lemma": "whole",
+      "pos": "adjective",
+      "ko": "전체의",
+      "form": null,
+      "synonyms": [
+        "entire",
+        "complete"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "job": {
+      "lemma": "job",
+      "pos": "noun",
+      "ko": "일, 작업물",
+      "form": null,
+      "synonyms": [
+        "work",
+        "piece of work"
+      ],
+      "ipa": "/dʒɑːb/"
+    },
+    "neat": {
+      "lemma": "neat",
+      "pos": "adjective",
+      "ko": "깔끔한",
+      "form": null,
+      "synonyms": [
+        "tidy",
+        "clean"
+      ],
+      "ipa": "/niːt/"
+    },
+    "true": {
+      "lemma": "true",
+      "pos": "adjective",
+      "ko": "정확한, 반듯한",
+      "form": null,
+      "synonyms": [
+        "accurate",
+        "exact"
+      ],
+      "ipa": "/truː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서, 그 결과",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "그야말로, 완전히",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "really"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "masterpiece": {
+      "lemma": "masterpiece",
+      "pos": "noun",
+      "ko": "걸작, 명작",
+      "form": null,
+      "synonyms": [
+        "masterwork",
+        "work of art"
+      ],
+      "ipa": "/ˈmæstərˌpiːs/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은 (the same day: 바로 그날)",
+      "form": null,
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "손님, 고객",
+      "form": null,
+      "synonyms": [
+        "buyer",
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come in: 들어오다)",
+      "form": "과거형",
+      "synonyms": [
+        "enter"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "suited": {
+      "lemma": "suit",
+      "pos": "verb",
+      "ko": "~에게 잘 맞다, 어울리다",
+      "form": "과거형",
+      "synonyms": [
+        "fit",
+        "please"
+      ],
+      "ipa": "/ˈsuːtɪd/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘",
+      "form": null,
+      "synonyms": [
+        "nicely"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "willingly": {
+      "lemma": "willingly",
+      "pos": "adverb",
+      "ko": "기꺼이",
+      "form": null,
+      "synonyms": [
+        "gladly",
+        "readily"
+      ],
+      "ipa": "/ˈwɪlɪŋli/"
+    },
+    "paid": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(값을) 치르다",
+      "form": "과거형",
+      "synonyms": [
+        "spend"
+      ],
+      "ipa": "/peɪd/"
+    },
+    "price": {
+      "lemma": "price",
+      "pos": "noun",
+      "ko": "값, 가격",
+      "form": null,
+      "synonyms": [
+        "cost",
+        "charge"
+      ],
+      "ipa": "/praɪs/"
+    },
+    "higher": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "더 높은, 더 비싼",
+      "form": "비교급",
+      "synonyms": [
+        "greater",
+        "bigger"
+      ],
+      "ipa": "/ˈhaɪər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "usual": {
+      "lemma": "usual",
+      "pos": "adjective",
+      "ko": "평소의 (than usual: 평소보다)",
+      "form": null,
+      "synonyms": [
+        "normal",
+        "ordinary"
+      ],
+      "ipa": "/ˈjuːʒəwəl/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~의 값으로, ~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들 (구두)",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "penniless"
+      ],
+      "ipa": "/puːr/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "form": null,
+      "synonyms": [
+        "cash"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "bought": {
+      "lemma": "buy",
+      "pos": "verb",
+      "ko": "사다",
+      "form": "과거형",
+      "synonyms": [
+        "purchase"
+      ],
+      "ipa": "/bɑːt/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "pairs": {
+      "lemma": "pair",
+      "pos": "noun",
+      "ko": "켤레",
+      "form": "복수형",
+      "ipa": "/pɛrz/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (two pairs more: 두 켤레 더)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    }
+  }
+}

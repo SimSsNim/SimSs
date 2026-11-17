@@ -1,0 +1,2054 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-16-L4-3",
+  "date": "2026-11-16",
+  "level": 4,
+  "title": "Rip Van Winkle: The Kaatskill Mountains",
+  "titleKo": "립 밴 윙클: 캐츠킬산맥",
+  "genre": "short-story",
+  "tags": [
+    "Washington Irving",
+    "Rip Van Winkle",
+    "short-story",
+    "American literature",
+    "landscape"
+  ],
+  "source": {
+    "work": "Rip Van Winkle (The Sketch Book of Geoffrey Crayon, Gent.)",
+    "author": "Washington Irving",
+    "translator": null,
+    "year": 1819,
+    "edition": "Project Gutenberg #2048",
+    "url": "https://www.gutenberg.org/ebooks/2048",
+    "license": "public-domain",
+    "excerptNote": "「Rip Van Winkle」 본문의 첫 두 단락 전체(‘WHOEVER has made a voyage up the Hudson…’부터 ‘…surmounted with weathercocks.’까지). 앞의 제사(Cartwright 시구)와 디드리히 니커보커의 서문 메모는 건너뛰었다. 원문의 줄바꿈만 공백으로 이었고, 첫 단어 WHOEVER의 대문자 표기와 ‘Village’의 대문자, 괄호 안의 ‘(may he rest in peace!)’는 원문 그대로 두었다(괄호 속 느낌표는 문장 끝이 아니므로 나누지 않음)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/sketchbook_geoffreycrayon_1203_librivox/geoffreycrayon_05_irving.mp3",
+    "mp3Low": "https://www.archive.org/download/sketchbook_geoffreycrayon_1203_librivox/geoffreycrayon_05_irving_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-sketch-book-of-geoffrey-crayon-gent-by-washington-irving/",
+    "reader": "Easton",
+    "durationSec": 3318,
+    "startSec": 195,
+    "endSec": 315,
+    "note": "LibriVox 'The Sketch Book of Geoffrey Crayon, Gent.' 트랙 5 'Rip Van Winkle'(55:17). 트랙 앞부분의 제사와 니커보커 서문 메모(약 440단어) 다음에 지문이 나온다(약 3:15~5:15, 낭독 속도로 추정)."
+  },
+  "wordCount": 270,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "허드슨강을 거슬러 올라가 본 사람이라면 누구나 캐츠킬산맥을 기억할 것이다. 그 산들은 거대한 애팔래치아 산계에서 떨어져 나온 한 갈래로, 강 서쪽 멀리 보이며, 웅장한 높이로 솟아올라 주변 지역을 굽어보며 군림하고 있다. 계절이 바뀔 때마다, 날씨가 바뀔 때마다, 아니 실로 하루의 매 시간마다 이 산들의 신비로운 빛깔과 모양에는 어떤 변화가 생긴다. 그래서 원근 각지의 선량한 아낙네들은 모두 이 산을 완벽한 기압계로 여긴다. 날씨가 맑고 안정되어 있을 때면 산들은 푸른빛과 자줏빛 옷을 입고 맑은 저녁 하늘에 대담한 윤곽을 새긴다. 그러나 때로는 나머지 풍경에 구름 한 점 없을 때에도 산꼭대기 주위에 잿빛 안개의 두건을 두르곤 하는데, 그 안개는 지는 해의 마지막 햇살을 받아 영광의 왕관처럼 환하게 빛난다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "ko": "이 동화 같은 산들의 기슭에서, 여행자는 어느 마을에서 옅은 연기가 피어오르는 것을 보았을지도 모른다. 그 마을의 널빤지 지붕들은 나무들 사이로 반짝이는데, 바로 고지대의 푸른 빛깔이 더 가까운 풍경의 싱그러운 초록빛 속으로 녹아드는 곳에 자리하고 있다. 그곳은 아주 오래된 작은 마을로, 식민지 초기, 그러니까 선량한 피터 스타이브선트(그가 편히 잠들기를!)의 통치가 막 시작될 무렵에 네덜란드 이주민 몇몇이 세운 곳이다. 그리고 불과 몇 해 전까지만 해도 최초 정착민들의 집 몇 채가 서 있었는데, 그 집들은 네덜란드에서 실어 온 작은 노란 벽돌로 지어졌고, 격자창과 박공 정면을 갖추었으며, 꼭대기에는 바람개비가 얹혀 있었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "WHOEVER has made a voyage up the Hudson must remember the Kaatskill mountains.",
+      "ko": "허드슨강을 거슬러 올라가 본 사람이라면 누구나 캐츠킬산맥을 기억할 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "They are a dismembered branch of the great Appalachian family, and are seen away to the west of the river, swelling up to a noble height, and lording it over the surrounding country.",
+      "ko": "그 산들은 거대한 애팔래치아 산계에서 떨어져 나온 한 갈래로, 강 서쪽 멀리 보이며, 웅장한 높이로 솟아올라 주변 지역을 굽어보며 군림하고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Every change of season, every change of weather, indeed, every hour of the day produces some change in the magical hues and shapes of these mountains; and they are regarded by all the good wives, far and near, as perfect barometers.",
+      "ko": "계절이 바뀔 때마다, 날씨가 바뀔 때마다, 아니 실로 하루의 매 시간마다 이 산들의 신비로운 빛깔과 모양에는 어떤 변화가 생긴다. 그래서 원근 각지의 선량한 아낙네들은 모두 이 산을 완벽한 기압계로 여긴다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "When the weather is fair and settled, they are clothed in blue and purple, and print their bold outlines on the clear evening sky; but sometimes, when the rest of the landscape is cloudless, they will gather a hood of gray vapors about their summits, which, in the last rays of the setting sun, will glow and light up like a crown of glory.",
+      "ko": "날씨가 맑고 안정되어 있을 때면 산들은 푸른빛과 자줏빛 옷을 입고 맑은 저녁 하늘에 대담한 윤곽을 새긴다. 그러나 때로는 나머지 풍경에 구름 한 점 없을 때에도 산꼭대기 주위에 잿빛 안개의 두건을 두르곤 하는데, 그 안개는 지는 해의 마지막 햇살을 받아 영광의 왕관처럼 환하게 빛난다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "At the foot of these fairy mountains, the voyager may have descried the light smoke curling up from a Village, whose shingle roofs gleam among the trees, just where the blue tints of the upland melt away into the fresh green of the nearer landscape.",
+      "ko": "이 동화 같은 산들의 기슭에서, 여행자는 어느 마을에서 옅은 연기가 피어오르는 것을 보았을지도 모른다. 그 마을의 널빤지 지붕들은 나무들 사이로 반짝이는데, 바로 고지대의 푸른 빛깔이 더 가까운 풍경의 싱그러운 초록빛 속으로 녹아드는 곳에 자리하고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "It is a little village of great antiquity, having been founded by some of the Dutch colonists, in the early times of the province, just about the beginning of the government of the good Peter Stuyvesant (may he rest in peace!), and there were some of the houses of the original settlers standing within a few years, built of small yellow bricks, brought from Holland, having latticed windows and gable fronts, surmounted with weathercocks.",
+      "ko": "그곳은 아주 오래된 작은 마을로, 식민지 초기, 그러니까 선량한 피터 스타이브선트(그가 편히 잠들기를!)의 통치가 막 시작될 무렵에 네덜란드 이주민 몇몇이 세운 곳이다. 그리고 불과 몇 해 전까지만 해도 최초 정착민들의 집 몇 채가 서 있었는데, 그 집들은 네덜란드에서 실어 온 작은 노란 벽돌로 지어졌고, 격자창과 박공 정면을 갖추었으며, 꼭대기에는 바람개비가 얹혀 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "dismembered",
+      "pos": "adjective",
+      "meaningKo": "(본체에서) 떨어져 나온, 분리된",
+      "ipa": "/dɪsˈmɛmbərd/",
+      "synonyms": [
+        "detached",
+        "separated",
+        "severed"
+      ],
+      "matchText": "dismembered",
+      "sentenceId": "s2",
+      "example": {
+        "en": "After the war, the old empire was left a dismembered state.",
+        "ko": "전쟁 후 그 옛 제국은 갈가리 찢긴 나라가 되었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "lord it over",
+      "pos": "idiom",
+      "meaningKo": "~ 위에 군림하다, ~을 내려다보며 으스대다",
+      "ipa": "/ˈlɔrd ɪt ˈoʊvər/",
+      "synonyms": [
+        "dominate",
+        "tower over",
+        "boss around"
+      ],
+      "matchText": "lording it over",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He loves to lord it over his younger brothers.",
+        "ko": "그는 남동생들 위에 군림하며 으스대기를 좋아한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "hue",
+      "pos": "noun",
+      "meaningKo": "색조, 빛깔",
+      "ipa": "/hjuː/",
+      "synonyms": [
+        "shade",
+        "tint",
+        "color"
+      ],
+      "matchText": "hues",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The sky turned a soft hue of pink at sunset.",
+        "ko": "해 질 녘 하늘이 부드러운 분홍빛으로 물들었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "descry",
+      "pos": "verb",
+      "meaningKo": "(멀리 있는 것을) 알아보다, 발견하다",
+      "ipa": "/dɪˈskraɪ/",
+      "synonyms": [
+        "spot",
+        "glimpse",
+        "make out"
+      ],
+      "matchText": "descried",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The sailors descried a ship on the horizon.",
+        "ko": "선원들은 수평선 위에 떠 있는 배 한 척을 알아보았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "antiquity",
+      "pos": "noun",
+      "meaningKo": "오래됨, 고대",
+      "ipa": "/ænˈtɪkwəti/",
+      "synonyms": [
+        "ancientness",
+        "age",
+        "oldness"
+      ],
+      "matchText": "antiquity",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The temple is a building of great antiquity.",
+        "ko": "그 사원은 아주 오래된 건물이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "WHOEVER has made a voyage up the Hudson",
+          "role": "S",
+          "ko": "허드슨강을 거슬러 항해해 본 사람은 누구나"
+        },
+        {
+          "text": "must remember",
+          "role": "V",
+          "ko": "틀림없이 기억할 것이다"
+        },
+        {
+          "text": "the Kaatskill mountains.",
+          "role": "O",
+          "ko": "캐츠킬산맥을"
+        }
+      ],
+      "skeleton": "Whoever ~ must remember the Kaatskill mountains.",
+      "explanation": "'Whoever has made a voyage up the Hudson' 전체가 하나의 명사절로 문장의 주어다(= Anyone who has made ~). must는 여기서 '~해야 한다'가 아니라 '틀림없이 ~할 것이다'라는 강한 추측이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "When",
+          "role": "CONJ",
+          "ko": "~할 때",
+          "sub": true
+        },
+        {
+          "text": "the weather",
+          "role": "S",
+          "ko": "날씨가",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "fair and settled,",
+          "role": "C",
+          "ko": "맑고 안정된",
+          "sub": true
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그 산들은"
+        },
+        {
+          "text": "are clothed",
+          "role": "V",
+          "ko": "옷을 입는다"
+        },
+        {
+          "text": "in blue and purple,",
+          "role": "M",
+          "ko": "푸른빛과 자줏빛으로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "print",
+          "role": "V",
+          "ko": "새긴다"
+        },
+        {
+          "text": "their bold outlines",
+          "role": "O",
+          "ko": "그들의 대담한 윤곽을"
+        },
+        {
+          "text": "on the clear evening sky;",
+          "role": "M",
+          "ko": "맑은 저녁 하늘에"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "ko": "그러나"
+        },
+        {
+          "text": "sometimes,",
+          "role": "M",
+          "ko": "때때로"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~할 때",
+          "sub": true
+        },
+        {
+          "text": "the rest of the landscape",
+          "role": "S",
+          "ko": "나머지 풍경이",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "cloudless,",
+          "role": "C",
+          "ko": "구름 한 점 없는",
+          "sub": true
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그 산들은"
+        },
+        {
+          "text": "will gather",
+          "role": "V",
+          "ko": "두르곤 한다"
+        },
+        {
+          "text": "a hood of gray vapors",
+          "role": "O",
+          "ko": "잿빛 안개의 두건을"
+        },
+        {
+          "text": "about their summits,",
+          "role": "M",
+          "ko": "산꼭대기 주위에"
+        },
+        {
+          "text": "which,",
+          "role": "CONJ",
+          "ko": "그리고 그것(안개 두건)은",
+          "sub": true
+        },
+        {
+          "text": "in the last rays of the setting sun,",
+          "role": "M",
+          "ko": "지는 해의 마지막 햇살 속에서",
+          "sub": true
+        },
+        {
+          "text": "will glow and light up",
+          "role": "V",
+          "ko": "빛나며 환해진다",
+          "sub": true
+        },
+        {
+          "text": "like a crown of glory.",
+          "role": "M",
+          "ko": "영광의 왕관처럼",
+          "sub": true
+        }
+      ],
+      "skeleton": "they are clothed ~ and print ~; but they will gather a hood ~",
+      "explanation": "세미콜론(;)과 but을 중심으로 두 부분으로 나뉜다. 앞부분은 When절(날씨가 좋을 때) + 주절 'they are clothed ~ and print ~'로, 하나의 주어에 동사 두 개가 and로 이어졌다. 뒷부분은 when절 + 주절 'they will gather a hood ~'이고, 이어지는 ', which,'는 계속적 용법의 관계대명사로 a hood of gray vapors를 받아 '그리고 그것은 ~ 빛난다'로 덧붙인다. 여기서 will은 미래가 아니라 '~하곤 한다'는 습성을 나타낸다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "ko": "그곳은"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "a little village of great antiquity,",
+          "role": "C",
+          "ko": "아주 오래된 작은 마을"
+        },
+        {
+          "text": "having been founded by some of the Dutch colonists, in the early times of the province, just about the beginning of the government of the good Peter Stuyvesant (may he rest in peace!),",
+          "role": "M",
+          "ko": "식민지 초기, 선량한 피터 스타이브선트(그가 편히 잠들기를!)의 통치가 시작될 무렵에 네덜란드 이주민 몇몇에 의해 세워졌는데"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "there were",
+          "role": "V",
+          "ko": "있었다"
+        },
+        {
+          "text": "some of the houses of the original settlers",
+          "role": "S",
+          "ko": "최초 정착민들의 집 몇 채가"
+        },
+        {
+          "text": "standing within a few years,",
+          "role": "M",
+          "ko": "몇 해 전까지만 해도 서 있는 채로"
+        },
+        {
+          "text": "built of small yellow bricks, brought from Holland,",
+          "role": "M",
+          "ko": "네덜란드에서 가져온 작은 노란 벽돌로 지어진"
+        },
+        {
+          "text": "having latticed windows and gable fronts, surmounted with weathercocks.",
+          "role": "M",
+          "ko": "격자창과 박공 정면을 갖추고 꼭대기에 바람개비를 얹은"
+        }
+      ],
+      "skeleton": "It is a little village ~, and there were some of the houses ~",
+      "explanation": "두 개의 절이 and로 이어진 긴 문장이다. 앞 절 'It is a little village of great antiquity' 뒤에 'having been founded ~'라는 분사구문이 붙어 마을이 세워진 내력을 덧붙인다. 뒤 절은 'there were + 주어(some of the houses ~)' 구조이고, standing / built / brought / having / surmounted 같은 분사들이 줄줄이 이어지며 그 집들의 모습을 묘사한다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "복합관계대명사 whoever = anyone who",
+      "tags": [
+        "관계사",
+        "명사절"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "WHOEVER has made a voyage up the Hudson"
+      ],
+      "explanation": "whoever는 '~하는 사람은 누구나'라는 뜻으로, 그 자체가 선행사를 품고 있어 'anyone who'와 같다. 'Whoever + 동사 ~' 덩어리 전체가 명사절이 되어 문장의 주어로 쓰였다. 원문은 첫 단어를 대문자로 강조해 WHOEVER로 적었다.",
+      "example": {
+        "en": "Whoever finishes first will get a prize.",
+        "ko": "먼저 끝내는 사람은 누구든 상을 받을 것이다."
+      },
+      "note": "whatever(~하는 것은 무엇이든), whichever(~하는 것은 어느 것이든)도 같은 원리다."
+    },
+    {
+      "id": "g2",
+      "title": "소유격 관계대명사 whose",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "a Village, whose shingle roofs gleam"
+      ],
+      "explanation": "whose는 앞의 명사(a Village)를 받아 '그것의'라는 소유의 뜻을 나타내며 바로 뒤에 명사(shingle roofs)가 온다. 'a Village, whose shingle roofs gleam ~' = '어느 마을, 그리고 그 마을의 지붕들은 반짝인다'. 쉼표가 있으므로 계속적 용법이다.",
+      "example": {
+        "en": "I met a girl whose father is a pilot.",
+        "ko": "나는 아버지가 조종사인 소녀를 만났다."
+      },
+      "note": "같은 문장의 'may have descried'는 '조동사 + have p.p.'로 '(과거에) ~했을지도 모른다'는 추측이다."
+    },
+    {
+      "id": "g3",
+      "title": "완료 수동 분사구문 having been p.p.",
+      "tags": [
+        "분사구문",
+        "수동태"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "having been founded by some of the Dutch colonists"
+      ],
+      "explanation": "'having been + 과거분사'는 주절보다 앞선 때에 '~되었다'는 수동의 뜻을 나타내는 분사구문이다. 마을이 '지금 오래된 마을이다(is)'보다 훨씬 전에 '세워졌다(was founded)'는 것을 보여 준다. = as it was founded by some of the Dutch colonists.",
+      "example": {
+        "en": "Having been written in haste, the letter had many mistakes.",
+        "ko": "급하게 쓰였기 때문에 그 편지에는 실수가 많았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "whoever": {
+      "lemma": "whoever",
+      "pos": "pronoun",
+      "ko": "~하는 사람은 누구나",
+      "form": null,
+      "ipa": "/huˈɛvər/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(완료) ~한 적이 있다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(여행을) 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "taken",
+        "undertaken"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "voyage": {
+      "lemma": "voyage",
+      "pos": "noun",
+      "ko": "항해, (긴) 여행",
+      "form": null,
+      "synonyms": [
+        "journey",
+        "trip",
+        "passage"
+      ],
+      "ipa": "/ˈvɔɪədʒ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "preposition",
+      "ko": "(강을) 거슬러 올라",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "hudson": {
+      "lemma": "Hudson",
+      "pos": "proper-noun",
+      "ko": "허드슨강 (미국 뉴욕주의 강)",
+      "form": null,
+      "ipa": "/ˈhʌdsən/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "틀림없이 ~할 것이다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "remember": {
+      "lemma": "remember",
+      "pos": "verb",
+      "ko": "기억하다",
+      "form": null,
+      "synonyms": [
+        "recall",
+        "recollect"
+      ],
+      "ipa": "/rɪˈmɛmbər/"
+    },
+    "kaatskill": {
+      "lemma": "Kaatskill",
+      "pos": "proper-noun",
+      "ko": "캐츠킬 (뉴욕주의 산맥 이름, Catskill의 옛 표기)",
+      "form": null,
+      "ipa": "/ˈkætskɪl/"
+    },
+    "mountains": {
+      "lemma": "mountain",
+      "pos": "noun",
+      "ko": "산, 산맥",
+      "form": "복수형",
+      "synonyms": [
+        "peaks",
+        "hills"
+      ],
+      "ipa": "/ˈmaʊntənz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들, 그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (수동태) ~되다",
+      "form": "현재형 (복수)",
+      "ipa": "/ɑːr/"
+    },
+    "dismembered": {
+      "lemma": "dismembered",
+      "pos": "adjective",
+      "ko": "떨어져 나온, 분리된",
+      "form": null,
+      "synonyms": [
+        "detached",
+        "separated"
+      ],
+      "ipa": "/dɪˈsmɛmbərd/"
+    },
+    "branch": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "갈래, 지맥",
+      "form": null,
+      "synonyms": [
+        "offshoot",
+        "arm",
+        "spur"
+      ],
+      "ipa": "/bræntʃ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "거대한; 대단한",
+      "form": null,
+      "synonyms": [
+        "vast",
+        "huge",
+        "considerable"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "appalachian": {
+      "lemma": "Appalachian",
+      "pos": "proper-noun",
+      "ko": "애팔래치아의 (미국 동부의 산맥)",
+      "form": null,
+      "ipa": "/ˌæpəˈleɪtʃən/"
+    },
+    "family": {
+      "lemma": "family",
+      "pos": "noun",
+      "ko": "(같은 계통의) 무리, 산계",
+      "form": null,
+      "synonyms": [
+        "group",
+        "range",
+        "chain"
+      ],
+      "ipa": "/ˈfæməli/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거분사",
+      "synonyms": [
+        "viewed",
+        "observed"
+      ],
+      "ipa": "/siːn/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떨어져",
+      "form": null,
+      "synonyms": [
+        "off",
+        "afar"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~쪽으로, ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "west": {
+      "lemma": "west",
+      "pos": "noun",
+      "ko": "서쪽",
+      "form": null,
+      "synonyms": [
+        "occident"
+      ],
+      "ipa": "/wɛst/"
+    },
+    "river": {
+      "lemma": "river",
+      "pos": "noun",
+      "ko": "강",
+      "form": null,
+      "synonyms": [
+        "stream",
+        "waterway"
+      ],
+      "ipa": "/ˈrɪvər/"
+    },
+    "swelling": {
+      "lemma": "swell",
+      "pos": "verb",
+      "ko": "부풀어 오르다, 솟아오르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rising",
+        "mounting",
+        "bulging"
+      ],
+      "ipa": "/ˈswɛlɪŋ/"
+    },
+    "noble": {
+      "lemma": "noble",
+      "pos": "adjective",
+      "ko": "웅장한, 당당한",
+      "form": null,
+      "synonyms": [
+        "grand",
+        "majestic",
+        "stately"
+      ],
+      "ipa": "/ˈnoʊbəl/"
+    },
+    "height": {
+      "lemma": "height",
+      "pos": "noun",
+      "ko": "높이",
+      "form": null,
+      "synonyms": [
+        "altitude",
+        "elevation"
+      ],
+      "ipa": "/haɪt/"
+    },
+    "lording": {
+      "lemma": "lord",
+      "pos": "verb",
+      "ko": "(lord it over) ~ 위에 군림하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "dominating",
+        "towering"
+      ],
+      "ipa": "/ˈlɔrdɪŋ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(lord it over의 it) 형식상의 목적어",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 위에, ~을 넘어",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "surrounding": {
+      "lemma": "surrounding",
+      "pos": "adjective",
+      "ko": "주변의, 둘러싼",
+      "form": null,
+      "synonyms": [
+        "nearby",
+        "neighboring",
+        "adjacent"
+      ],
+      "ipa": "/səˈraʊndɪŋ/"
+    },
+    "country": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "지역, 지방, 시골",
+      "form": null,
+      "synonyms": [
+        "region",
+        "land",
+        "countryside"
+      ],
+      "ipa": "/ˈkʌntri/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변화, 바뀜",
+      "form": null,
+      "synonyms": [
+        "shift",
+        "alteration",
+        "variation"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    },
+    "season": {
+      "lemma": "season",
+      "pos": "noun",
+      "ko": "계절",
+      "form": null,
+      "synonyms": [
+        "time of year"
+      ],
+      "ipa": "/ˈsiːzən/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨",
+      "form": null,
+      "synonyms": [
+        "climate",
+        "conditions"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "indeed": {
+      "lemma": "indeed",
+      "pos": "adverb",
+      "ko": "실로, 아니 사실은",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "in fact",
+        "really"
+      ],
+      "ipa": "/ˌɪnˈdiːd/"
+    },
+    "hour": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간, 때",
+      "form": null,
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/ˈaʊər/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "하루, 낮",
+      "form": null,
+      "synonyms": [
+        "daytime"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "produces": {
+      "lemma": "produce",
+      "pos": "verb",
+      "ko": "만들어 내다, 일으키다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "causes",
+        "brings about",
+        "creates"
+      ],
+      "ipa": "/prəˈduːsəz/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤; 몇몇의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에; (색) ~으로",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "magical": {
+      "lemma": "magical",
+      "pos": "adjective",
+      "ko": "신비로운, 마법 같은",
+      "form": null,
+      "synonyms": [
+        "enchanting",
+        "mysterious",
+        "wondrous"
+      ],
+      "ipa": "/ˈmædʒɪkəl/"
+    },
+    "hues": {
+      "lemma": "hue",
+      "pos": "noun",
+      "ko": "색조, 빛깔",
+      "form": "복수형",
+      "synonyms": [
+        "shades",
+        "tints",
+        "colors"
+      ],
+      "ipa": "/hjuːz/"
+    },
+    "shapes": {
+      "lemma": "shape",
+      "pos": "noun",
+      "ko": "모양, 형태",
+      "form": "복수형",
+      "synonyms": [
+        "forms",
+        "outlines",
+        "contours"
+      ],
+      "ipa": "/ʃeɪps/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "regarded": {
+      "lemma": "regard",
+      "pos": "verb",
+      "ko": "(regard A as B) A를 B로 여기다",
+      "form": "과거분사",
+      "synonyms": [
+        "considered",
+        "viewed",
+        "seen"
+      ],
+      "ipa": "/rɪˈɡɑːrdɪd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "선량한, 착한",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "worthy",
+        "decent"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "wives": {
+      "lemma": "wife",
+      "pos": "noun",
+      "ko": "아내; (옛말) 아낙네, 부인",
+      "form": "복수형",
+      "synonyms": [
+        "housewives",
+        "women"
+      ],
+      "ipa": "/waɪvz/"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "멀리 (far and near: 원근 각지에서)",
+      "form": null,
+      "synonyms": [
+        "afar",
+        "distantly"
+      ],
+      "ipa": "/fɑːr/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "adverb",
+      "ko": "가까이",
+      "form": null,
+      "synonyms": [
+        "close",
+        "nearby"
+      ],
+      "ipa": "/nɪr/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~로(서)",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "perfect": {
+      "lemma": "perfect",
+      "pos": "adjective",
+      "ko": "완벽한",
+      "form": null,
+      "synonyms": [
+        "flawless",
+        "ideal",
+        "exact"
+      ],
+      "ipa": "/pərˈfɛkt/"
+    },
+    "barometers": {
+      "lemma": "barometer",
+      "pos": "noun",
+      "ko": "기압계; (변화의) 지표",
+      "form": "복수형",
+      "synonyms": [
+        "gauges",
+        "indicators"
+      ],
+      "ipa": "/bəˈrɑːmɪtərz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "fair": {
+      "lemma": "fair",
+      "pos": "adjective",
+      "ko": "(날씨가) 맑은",
+      "form": null,
+      "synonyms": [
+        "clear",
+        "sunny",
+        "fine"
+      ],
+      "ipa": "/fɛr/"
+    },
+    "settled": {
+      "lemma": "settled",
+      "pos": "adjective",
+      "ko": "(날씨가) 안정된",
+      "form": null,
+      "synonyms": [
+        "stable",
+        "steady",
+        "calm"
+      ],
+      "ipa": "/ˈsɛtəld/"
+    },
+    "clothed": {
+      "lemma": "clothe",
+      "pos": "verb",
+      "ko": "옷을 입히다, 덮다",
+      "form": "과거분사",
+      "synonyms": [
+        "dressed",
+        "covered",
+        "draped"
+      ],
+      "ipa": "/kloʊðd/"
+    },
+    "blue": {
+      "lemma": "blue",
+      "pos": "noun",
+      "ko": "푸른색",
+      "form": null,
+      "synonyms": [
+        "azure"
+      ],
+      "ipa": "/bluː/"
+    },
+    "purple": {
+      "lemma": "purple",
+      "pos": "noun",
+      "ko": "자주색",
+      "form": null,
+      "synonyms": [
+        "violet"
+      ],
+      "ipa": "/ˈpɜːrpəl/"
+    },
+    "print": {
+      "lemma": "print",
+      "pos": "verb",
+      "ko": "새기다, 찍다",
+      "form": null,
+      "synonyms": [
+        "imprint",
+        "stamp",
+        "etch"
+      ],
+      "ipa": "/prɪnt/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의, 그것들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "bold": {
+      "lemma": "bold",
+      "pos": "adjective",
+      "ko": "대담한, 뚜렷한",
+      "form": null,
+      "synonyms": [
+        "striking",
+        "strong",
+        "clear"
+      ],
+      "ipa": "/boʊld/"
+    },
+    "outlines": {
+      "lemma": "outline",
+      "pos": "noun",
+      "ko": "윤곽, 외형",
+      "form": "복수형",
+      "synonyms": [
+        "contours",
+        "silhouettes",
+        "profiles"
+      ],
+      "ipa": "/ˈaʊtˌlaɪnz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "clear": {
+      "lemma": "clear",
+      "pos": "adjective",
+      "ko": "맑은, 깨끗한",
+      "form": null,
+      "synonyms": [
+        "cloudless",
+        "bright"
+      ],
+      "ipa": "/klɪr/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁",
+      "form": null,
+      "synonyms": [
+        "dusk",
+        "twilight"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "sky": {
+      "lemma": "sky",
+      "pos": "noun",
+      "ko": "하늘",
+      "form": null,
+      "synonyms": [
+        "heavens"
+      ],
+      "ipa": "/skaɪ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "sometimes": {
+      "lemma": "sometimes",
+      "pos": "adverb",
+      "ko": "때때로",
+      "form": null,
+      "synonyms": [
+        "occasionally",
+        "at times"
+      ],
+      "ipa": "/səmˈtaɪmz/"
+    },
+    "rest": {
+      "lemma": "rest",
+      "pos": "noun",
+      "ko": "나머지; (rest in peace) 안식",
+      "form": null,
+      "synonyms": [
+        "remainder",
+        "remaining part"
+      ],
+      "ipa": "/rɛst/"
+    },
+    "landscape": {
+      "lemma": "landscape",
+      "pos": "noun",
+      "ko": "풍경, 경치",
+      "form": null,
+      "synonyms": [
+        "scenery",
+        "view",
+        "countryside"
+      ],
+      "ipa": "/ˈlændˌskeɪp/"
+    },
+    "cloudless": {
+      "lemma": "cloudless",
+      "pos": "adjective",
+      "ko": "구름 한 점 없는",
+      "form": null,
+      "synonyms": [
+        "clear",
+        "unclouded"
+      ],
+      "ipa": "/ˈklaʊdləs/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하곤 한다 (습성); ~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "gather": {
+      "lemma": "gather",
+      "pos": "verb",
+      "ko": "모으다, (주위에) 두르다",
+      "form": null,
+      "synonyms": [
+        "collect",
+        "draw",
+        "assemble"
+      ],
+      "ipa": "/ˈɡæðər/"
+    },
+    "hood": {
+      "lemma": "hood",
+      "pos": "noun",
+      "ko": "두건, 덮개",
+      "form": null,
+      "synonyms": [
+        "cowl",
+        "cap",
+        "covering"
+      ],
+      "ipa": "/hʊd/"
+    },
+    "gray": {
+      "lemma": "gray",
+      "pos": "adjective",
+      "ko": "회색의, 잿빛의",
+      "form": null,
+      "synonyms": [
+        "grey",
+        "ashen"
+      ],
+      "ipa": "/ɡreɪ/"
+    },
+    "vapors": {
+      "lemma": "vapor",
+      "pos": "noun",
+      "ko": "안개, 수증기",
+      "form": "복수형",
+      "synonyms": [
+        "mists",
+        "fogs",
+        "clouds"
+      ],
+      "ipa": "/ˈveɪpərz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~ 주위에",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "summits": {
+      "lemma": "summit",
+      "pos": "noun",
+      "ko": "산꼭대기, 정상",
+      "form": "복수형",
+      "synonyms": [
+        "peaks",
+        "tops"
+      ],
+      "ipa": "/ˈsʌmɪts/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그리고 그것은",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "마지막의",
+      "form": null,
+      "synonyms": [
+        "final",
+        "closing"
+      ],
+      "ipa": "/læst/"
+    },
+    "rays": {
+      "lemma": "ray",
+      "pos": "noun",
+      "ko": "광선, 햇살",
+      "form": "복수형",
+      "synonyms": [
+        "beams",
+        "shafts"
+      ],
+      "ipa": "/reɪz/"
+    },
+    "setting": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(해가) 지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "sinking",
+        "going down"
+      ],
+      "ipa": "/ˈsɛtɪŋ/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 태양",
+      "form": null,
+      "synonyms": [
+        "sunlight"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "glow": {
+      "lemma": "glow",
+      "pos": "verb",
+      "ko": "빛나다, 타오르다",
+      "form": null,
+      "synonyms": [
+        "shine",
+        "gleam",
+        "radiate"
+      ],
+      "ipa": "/ɡloʊ/"
+    },
+    "light": {
+      "lemma": "light",
+      "pos": "verb",
+      "ko": "(light up) 환해지다; (형) 옅은, 가벼운",
+      "form": null,
+      "synonyms": [
+        "brighten",
+        "illuminate"
+      ],
+      "ipa": "/laɪt/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "crown": {
+      "lemma": "crown",
+      "pos": "noun",
+      "ko": "왕관",
+      "form": null,
+      "synonyms": [
+        "diadem",
+        "coronet"
+      ],
+      "ipa": "/kraʊn/"
+    },
+    "glory": {
+      "lemma": "glory",
+      "pos": "noun",
+      "ko": "영광, 찬란함",
+      "form": null,
+      "synonyms": [
+        "splendor",
+        "magnificence",
+        "radiance"
+      ],
+      "ipa": "/ˈɡlɔːri/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "foot": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "(산의) 기슭, 밑부분",
+      "form": null,
+      "synonyms": [
+        "base",
+        "bottom"
+      ],
+      "ipa": "/fʊt/"
+    },
+    "fairy": {
+      "lemma": "fairy",
+      "pos": "adjective",
+      "ko": "요정 같은, 동화 같은",
+      "form": null,
+      "synonyms": [
+        "magical",
+        "enchanted",
+        "dreamlike"
+      ],
+      "ipa": "/ˈfɛri/"
+    },
+    "voyager": {
+      "lemma": "voyager",
+      "pos": "noun",
+      "ko": "항해자, 여행자",
+      "form": null,
+      "synonyms": [
+        "traveler",
+        "sailor"
+      ],
+      "ipa": "/ˈvɔɪədʒər/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(may have p.p.) ~했을지도",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "descried": {
+      "lemma": "descry",
+      "pos": "verb",
+      "ko": "(멀리서) 알아보다, 발견하다",
+      "form": "과거분사",
+      "synonyms": [
+        "spotted",
+        "glimpsed",
+        "made out"
+      ],
+      "ipa": "/dɪˈskraɪd/"
+    },
+    "smoke": {
+      "lemma": "smoke",
+      "pos": "noun",
+      "ko": "연기",
+      "form": null,
+      "synonyms": [
+        "fumes"
+      ],
+      "ipa": "/smoʊk/"
+    },
+    "curling": {
+      "lemma": "curl",
+      "pos": "verb",
+      "ko": "(연기가) 감기며 피어오르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "spiraling",
+        "wreathing",
+        "twisting"
+      ],
+      "ipa": "/ˈkɜːrlɪŋ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "village": {
+      "lemma": "village",
+      "pos": "noun",
+      "ko": "마을",
+      "form": null,
+      "synonyms": [
+        "hamlet",
+        "settlement"
+      ],
+      "ipa": "/ˈvɪlədʒ/"
+    },
+    "whose": {
+      "lemma": "whose",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것의",
+      "form": "소유격",
+      "ipa": "/huːz/"
+    },
+    "shingle": {
+      "lemma": "shingle",
+      "pos": "noun",
+      "ko": "지붕널, 널빤지 (지붕용)",
+      "form": null,
+      "synonyms": [
+        "roof tile",
+        "slat"
+      ],
+      "ipa": "/ˈʃɪŋɡəl/"
+    },
+    "roofs": {
+      "lemma": "roof",
+      "pos": "noun",
+      "ko": "지붕",
+      "form": "복수형",
+      "synonyms": [
+        "rooftops"
+      ],
+      "ipa": "/ruːfs/"
+    },
+    "gleam": {
+      "lemma": "gleam",
+      "pos": "verb",
+      "ko": "반짝이다, 희미하게 빛나다",
+      "form": null,
+      "synonyms": [
+        "shine",
+        "glint",
+        "glimmer"
+      ],
+      "ipa": "/ɡliːm/"
+    },
+    "among": {
+      "lemma": "among",
+      "pos": "preposition",
+      "ko": "~ 사이에(서)",
+      "form": null,
+      "ipa": "/əˈmʌŋ/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "synonyms": [
+        "woods"
+      ],
+      "ipa": "/triːz/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "바로, 막",
+      "form": null,
+      "synonyms": [
+        "exactly",
+        "precisely",
+        "right"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "~하는 곳에",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "tints": {
+      "lemma": "tint",
+      "pos": "noun",
+      "ko": "빛깔, 색조",
+      "form": "복수형",
+      "synonyms": [
+        "hues",
+        "shades",
+        "tones"
+      ],
+      "ipa": "/tɪnts/"
+    },
+    "upland": {
+      "lemma": "upland",
+      "pos": "noun",
+      "ko": "고지대, 산지",
+      "form": null,
+      "synonyms": [
+        "highland",
+        "hills"
+      ],
+      "ipa": "/ˈʌplənd/"
+    },
+    "melt": {
+      "lemma": "melt",
+      "pos": "verb",
+      "ko": "(melt away into) 서서히 녹아들다",
+      "form": null,
+      "synonyms": [
+        "fade",
+        "dissolve",
+        "blend"
+      ],
+      "ipa": "/mɛlt/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 속으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "fresh": {
+      "lemma": "fresh",
+      "pos": "adjective",
+      "ko": "싱그러운, 신선한",
+      "form": null,
+      "synonyms": [
+        "vivid",
+        "bright",
+        "new"
+      ],
+      "ipa": "/frɛʃ/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "noun",
+      "ko": "초록빛",
+      "form": null,
+      "synonyms": [
+        "verdure",
+        "greenery"
+      ],
+      "ipa": "/ɡriːn/"
+    },
+    "nearer": {
+      "lemma": "near",
+      "pos": "adjective",
+      "ko": "더 가까운",
+      "form": "비교급",
+      "synonyms": [
+        "closer"
+      ],
+      "ipa": "/ˈnɪrər/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "antiquity": {
+      "lemma": "antiquity",
+      "pos": "noun",
+      "ko": "오래됨, 고대",
+      "form": null,
+      "synonyms": [
+        "age",
+        "ancientness",
+        "oldness"
+      ],
+      "ipa": "/ænˈtɪkwəti/"
+    },
+    "having": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(having been p.p.) ~되어서; (동) 갖추고",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈhævɪŋ/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(완료 수동) ~되어",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "founded": {
+      "lemma": "found",
+      "pos": "verb",
+      "ko": "세우다, 설립하다",
+      "form": "과거분사",
+      "synonyms": [
+        "established",
+        "set up",
+        "built"
+      ],
+      "ipa": "/ˈfaʊndɪd/"
+    },
+    "dutch": {
+      "lemma": "Dutch",
+      "pos": "proper-noun",
+      "ko": "네덜란드의, 네덜란드인의",
+      "form": null,
+      "ipa": "/dʌtʃ/"
+    },
+    "colonists": {
+      "lemma": "colonist",
+      "pos": "noun",
+      "ko": "식민지 개척자, 이주민",
+      "form": "복수형",
+      "synonyms": [
+        "settlers",
+        "pioneers"
+      ],
+      "ipa": "/ˈkɑːlənɪsts/"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adjective",
+      "ko": "초기의",
+      "form": null,
+      "synonyms": [
+        "first",
+        "initial"
+      ],
+      "ipa": "/ˈɜːrli/"
+    },
+    "times": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시대, 시절",
+      "form": "복수형",
+      "synonyms": [
+        "days",
+        "period",
+        "era"
+      ],
+      "ipa": "/taɪmz/"
+    },
+    "province": {
+      "lemma": "province",
+      "pos": "noun",
+      "ko": "(영국의) 식민지 지방, 주",
+      "form": null,
+      "synonyms": [
+        "colony",
+        "territory",
+        "region"
+      ],
+      "ipa": "/ˈprɑːvəns/"
+    },
+    "beginning": {
+      "lemma": "beginning",
+      "pos": "noun",
+      "ko": "시작, 처음",
+      "form": null,
+      "synonyms": [
+        "start",
+        "outset",
+        "dawn"
+      ],
+      "ipa": "/bɪˈɡɪnɪŋ/"
+    },
+    "government": {
+      "lemma": "government",
+      "pos": "noun",
+      "ko": "통치, 정부",
+      "form": null,
+      "synonyms": [
+        "rule",
+        "administration",
+        "governorship"
+      ],
+      "ipa": "/ˈɡʌvərmənt/"
+    },
+    "peter": {
+      "lemma": "Peter",
+      "pos": "proper-noun",
+      "ko": "피터 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈpiːtər/"
+    },
+    "stuyvesant": {
+      "lemma": "Stuyvesant",
+      "pos": "proper-noun",
+      "ko": "스타이브선트 (뉴암스테르담의 마지막 네덜란드 총독)",
+      "form": null,
+      "ipa": "/ˈstaɪvəsənt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "peace": {
+      "lemma": "peace",
+      "pos": "noun",
+      "ko": "평화, 안식",
+      "form": null,
+      "synonyms": [
+        "tranquility",
+        "calm",
+        "repose"
+      ],
+      "ipa": "/piːs/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there were) ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있었다, ~이었다",
+      "form": "과거형 (복수)",
+      "ipa": "/wɜːr/"
+    },
+    "houses": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": "복수형",
+      "synonyms": [
+        "homes",
+        "dwellings"
+      ],
+      "ipa": "/ˈhaʊsəz/"
+    },
+    "original": {
+      "lemma": "original",
+      "pos": "adjective",
+      "ko": "최초의, 원래의",
+      "form": null,
+      "synonyms": [
+        "first",
+        "earliest",
+        "initial"
+      ],
+      "ipa": "/əˈrɪdʒənəl/"
+    },
+    "settlers": {
+      "lemma": "settler",
+      "pos": "noun",
+      "ko": "정착민",
+      "form": "복수형",
+      "synonyms": [
+        "colonists",
+        "pioneers"
+      ],
+      "ipa": "/ˈsɛtlərz/"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다, 남아 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "remaining",
+        "existing"
+      ],
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에 (within a few years: 몇 해 전까지)",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇몇의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "ipa": "/jɪrz/"
+    },
+    "built": {
+      "lemma": "build",
+      "pos": "verb",
+      "ko": "짓다, 건축하다",
+      "form": "과거분사",
+      "synonyms": [
+        "constructed",
+        "made"
+      ],
+      "ipa": "/bɪlt/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "tiny"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "yellow": {
+      "lemma": "yellow",
+      "pos": "adjective",
+      "ko": "노란",
+      "form": null,
+      "synonyms": [
+        "golden",
+        "amber"
+      ],
+      "ipa": "/ˈjɛloʊ/"
+    },
+    "bricks": {
+      "lemma": "brick",
+      "pos": "noun",
+      "ko": "벽돌",
+      "form": "복수형",
+      "synonyms": [
+        "blocks"
+      ],
+      "ipa": "/brɪks/"
+    },
+    "brought": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "form": "과거분사",
+      "synonyms": [
+        "carried",
+        "transported",
+        "shipped"
+      ],
+      "ipa": "/brɔːt/"
+    },
+    "holland": {
+      "lemma": "Holland",
+      "pos": "proper-noun",
+      "ko": "홀란트 (네덜란드)",
+      "form": null,
+      "ipa": "/ˈhɑːlənd/"
+    },
+    "latticed": {
+      "lemma": "latticed",
+      "pos": "adjective",
+      "ko": "격자 모양의",
+      "form": null,
+      "synonyms": [
+        "grid-like",
+        "crisscrossed"
+      ],
+      "ipa": "/ˈlætɪst/"
+    },
+    "windows": {
+      "lemma": "window",
+      "pos": "noun",
+      "ko": "창문",
+      "form": "복수형",
+      "synonyms": [
+        "casements"
+      ],
+      "ipa": "/ˈwɪndoʊz/"
+    },
+    "gable": {
+      "lemma": "gable",
+      "pos": "noun",
+      "ko": "박공 (삼각형 지붕 끝 벽)",
+      "form": null,
+      "synonyms": [
+        "pediment"
+      ],
+      "ipa": "/ˈɡeɪbəl/"
+    },
+    "fronts": {
+      "lemma": "front",
+      "pos": "noun",
+      "ko": "(건물의) 정면",
+      "form": "복수형",
+      "synonyms": [
+        "facades",
+        "faces"
+      ],
+      "ipa": "/frʌnts/"
+    },
+    "surmounted": {
+      "lemma": "surmount",
+      "pos": "verb",
+      "ko": "(꼭대기에) 얹다, 올려놓다",
+      "form": "과거분사",
+      "synonyms": [
+        "topped",
+        "capped",
+        "crowned"
+      ],
+      "ipa": "/sərˈmaʊntɪd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "weathercocks": {
+      "lemma": "weathercock",
+      "pos": "noun",
+      "ko": "수탉 모양의 바람개비, 풍향계",
+      "form": "복수형",
+      "synonyms": [
+        "weather vanes",
+        "vanes"
+      ],
+      "ipa": "/ˈwɛðərˌkɑks/"
+    }
+  }
+}

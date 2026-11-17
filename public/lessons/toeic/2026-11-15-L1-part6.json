@@ -1,0 +1,1254 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-15-L1-part6",
+  "date": "2026-11-15",
+  "level": 1,
+  "title": "Database Training Memo",
+  "titleKo": "새 고객 데이터베이스 교육 안내 메모",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 6",
+    "메모",
+    "사내 교육"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 103,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "받는 사람: 영업부 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "보내는 사람: 나디아 브룩스, 교육 담당 매니저"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 11월 16일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 데이터베이스 교육"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "다음 주부터 영업팀은 새 고객 데이터베이스를 쓰기 시작합니다. 여러분이 익힐 수 있도록 310호에서 교육을 두 번 진행합니다. 첫 번째는 화요일 오전, 두 번째는 목요일 오후입니다. 둘 중 하나만 참석하면 됩니다. 두 교육은 같은 내용을 다룹니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "ko": "견본 고객 기록으로 실습할 것이니 노트북을 가져오세요. 새 시스템은 고객 정보의 정리 상태를 개선해 줄 것입니다. 질문이 있으면 내선 245번으로 연락 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Sales Staff",
+      "ko": "받는 사람: 영업부 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Nadia Brooks, Training Manager",
+      "ko": "보내는 사람: 나디아 브룩스, 교육 담당 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: November 16",
+      "ko": "날짜: 11월 16일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: Database Training",
+      "ko": "제목: 데이터베이스 교육",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Next week, the sales team will start using a new customer database.",
+      "ko": "다음 주부터 영업팀은 새 고객 데이터베이스를 쓰기 시작합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "To help you learn it, we will offer two training sessions in Room 310.",
+      "ko": "여러분이 익힐 수 있도록 310호에서 교육을 두 번 진행합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "The first is on Tuesday morning, and the second is on Thursday afternoon.",
+      "ko": "첫 번째는 화요일 오전, 두 번째는 목요일 오후입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "You only need to attend one of them.",
+      "ko": "둘 중 하나만 참석하면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Both sessions will cover the same material.",
+      "ko": "두 교육은 같은 내용을 다룹니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "Please bring your laptop because you will practice with sample customer records.",
+      "ko": "견본 고객 기록으로 실습할 것이니 노트북을 가져오세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "The new system will improve the organization of our client information.",
+      "ko": "새 시스템은 고객 정보의 정리 상태를 개선해 줄 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "If you have any questions, please contact me at extension 245.",
+      "ko": "질문이 있으면 내선 245번으로 연락 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "database",
+      "pos": "noun",
+      "meaningKo": "데이터베이스, 자료 저장 시스템",
+      "ipa": "/ˈdeɪtəbeɪs/",
+      "synonyms": [
+        "data system",
+        "records system"
+      ],
+      "matchText": "database",
+      "sentenceId": "s5",
+      "example": {
+        "en": "All customer names are stored in the database.",
+        "ko": "모든 고객 이름은 데이터베이스에 저장되어 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "training session",
+      "pos": "noun",
+      "meaningKo": "교육 (시간), 연수",
+      "ipa": "/ˈtreɪnɪŋ ˈseʃən/",
+      "synonyms": [
+        "workshop",
+        "class"
+      ],
+      "matchText": "training sessions",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The training session lasts two hours.",
+        "ko": "그 교육은 두 시간 동안 진행된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "attend",
+      "pos": "verb",
+      "meaningKo": "참석하다",
+      "ipa": "/əˈtend/",
+      "synonyms": [
+        "go to",
+        "join"
+      ],
+      "matchText": "attend",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Over fifty people attended the meeting.",
+        "ko": "50명이 넘는 사람이 그 회의에 참석했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "material",
+      "pos": "noun",
+      "meaningKo": "(교육) 내용, 자료",
+      "ipa": "/məˈtɪriəl/",
+      "synonyms": [
+        "content",
+        "information"
+      ],
+      "matchText": "material",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The teacher handed out new reading material.",
+        "ko": "선생님이 새 읽기 자료를 나눠 주었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "improve",
+      "pos": "verb",
+      "meaningKo": "개선하다, 향상시키다",
+      "ipa": "/ɪmˈpruːv/",
+      "synonyms": [
+        "make better",
+        "enhance"
+      ],
+      "matchText": "improve",
+      "sentenceId": "s11",
+      "example": {
+        "en": "We want to improve our customer service.",
+        "ko": "우리는 고객 서비스를 개선하고 싶다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "To help you learn it,",
+          "role": "M",
+          "ko": "여러분이 그것을 익히도록 돕기 위해"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "우리는"
+        },
+        {
+          "text": "will offer",
+          "role": "V",
+          "ko": "제공할 것이다"
+        },
+        {
+          "text": "two training sessions",
+          "role": "O",
+          "ko": "두 번의 교육을"
+        },
+        {
+          "text": "in Room 310.",
+          "role": "M",
+          "ko": "310호에서"
+        }
+      ],
+      "skeleton": "we will offer two training sessions",
+      "explanation": "To help ~ = '~하기 위해'(목적의 to부정사). help + 사람 + 동사원형(learn)."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "Please bring",
+          "role": "V",
+          "ko": "가져오세요"
+        },
+        {
+          "text": "your laptop",
+          "role": "O",
+          "ko": "여러분의 노트북을"
+        },
+        {
+          "text": "because",
+          "role": "CONJ",
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "여러분이",
+          "sub": true
+        },
+        {
+          "text": "will practice",
+          "role": "V",
+          "ko": "실습할 것이다",
+          "sub": true
+        },
+        {
+          "text": "with sample customer records.",
+          "role": "M",
+          "ko": "견본 고객 기록으로",
+          "sub": true
+        }
+      ],
+      "skeleton": "Please bring your laptop",
+      "explanation": "Please + 동사원형 명령문. because 뒤에는 주어 + 동사가 있는 이유절."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "one of + 복수 대명사",
+      "tags": [
+        "대명사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "one of them"
+      ],
+      "explanation": "one of 뒤에는 복수 명사나 복수 대명사가 온다. 앞의 two training sessions를 가리키므로 them(목적격).",
+      "example": {
+        "en": "One of them is my sister.",
+        "ko": "그들 중 한 명이 내 여동생이다."
+      },
+      "note": "전치사(of) 뒤 대명사는 목적격 them."
+    },
+    {
+      "id": "g2",
+      "title": "because + 주어 + 동사",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "because you will practice"
+      ],
+      "explanation": "because는 접속사라 뒤에 '주어 + 동사' 문장이 온다. 같은 뜻의 because of는 전치사라 명사만 온다.",
+      "example": {
+        "en": "I stayed home because it was raining.",
+        "ko": "비가 와서 나는 집에 있었다."
+      },
+      "note": "뒤에 주어+동사가 있으면 because, 명사만 있으면 because of."
+    },
+    {
+      "id": "g3",
+      "title": "help + 사람 + 동사원형",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "To help you learn it"
+      ],
+      "explanation": "문장 맨 앞의 To help는 '돕기 위해'라는 목적을 나타낸다. help 뒤에는 '사람 + 동사원형(learn)'이 온다.",
+      "example": {
+        "en": "Can you help me carry this box?",
+        "ko": "이 상자 옮기는 것 좀 도와줄래요?"
+      },
+      "note": "help + 목적어 + (to) 동사원형."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사 표시)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매",
+      "form": null,
+      "synonyms": [
+        "selling",
+        "trade"
+      ],
+      "ipa": "/seɪlz/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원(들)",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "nadia": {
+      "lemma": "Nadia",
+      "pos": "proper-noun",
+      "ko": "나디아 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈnædjə/"
+    },
+    "brooks": {
+      "lemma": "Brooks",
+      "pos": "proper-noun",
+      "ko": "브룩스 (사람 성)",
+      "form": null,
+      "ipa": "/brʊks/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수",
+      "form": null,
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "synonyms": [
+        "day"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "database": {
+      "lemma": "database",
+      "pos": "noun",
+      "ko": "데이터베이스",
+      "form": null,
+      "synonyms": [
+        "data system",
+        "records"
+      ],
+      "ipa": "/ˈdeɪtəˌbeɪs/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "ipa": "/wiːk/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "department"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "start": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": null,
+      "synonyms": [
+        "begin"
+      ],
+      "ipa": "/stɑːrt/"
+    },
+    "using": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "operating",
+        "working with"
+      ],
+      "ipa": "/ˈjuːzɪŋ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "recent"
+      ],
+      "ipa": "/nuː/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "support"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "learn": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "익히다, 배우다",
+      "form": null,
+      "synonyms": [
+        "master",
+        "study"
+      ],
+      "ipa": "/lɜːrn/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "offer": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다, 열다",
+      "form": null,
+      "synonyms": [
+        "provide",
+        "hold"
+      ],
+      "ipa": "/ˈɔːfər/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "sessions": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 회",
+      "form": "복수형",
+      "synonyms": [
+        "classes",
+        "meetings"
+      ],
+      "ipa": "/ˈsɛʃənz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에(서), ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": null,
+      "synonyms": [
+        "space",
+        "chamber"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째(의)",
+      "form": null,
+      "synonyms": [
+        "initial"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 있다",
+      "form": "3인칭 단수 현재",
+      "synonyms": [
+        "remain"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·요일), ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일",
+      "form": null,
+      "ipa": "/ˈtuːzdi/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "synonyms": [
+        "forenoon"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째(의)",
+      "form": null,
+      "synonyms": [
+        "next"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일",
+      "form": null,
+      "ipa": "/ˈθɜːrzˌdeɪ/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~만, 겨우",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요하다",
+      "form": null,
+      "synonyms": [
+        "require"
+      ],
+      "ipa": "/niːd/"
+    },
+    "attend": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다",
+      "form": null,
+      "synonyms": [
+        "go to",
+        "join"
+      ],
+      "ipa": "/əˈtɛnd/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중에",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을, 그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "both": {
+      "lemma": "both",
+      "pos": "determiner",
+      "ko": "둘 다의",
+      "form": null,
+      "ipa": "/boʊθ/"
+    },
+    "cover": {
+      "lemma": "cover",
+      "pos": "verb",
+      "ko": "(내용을) 다루다",
+      "form": null,
+      "synonyms": [
+        "deal with",
+        "include"
+      ],
+      "ipa": "/ˈkʌvər/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "form": null,
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "material": {
+      "lemma": "material",
+      "pos": "noun",
+      "ko": "(교육) 내용, 자료",
+      "form": null,
+      "synonyms": [
+        "content",
+        "information"
+      ],
+      "ipa": "/məˈtɪriəl/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "take along"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신(들)의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "laptop": {
+      "lemma": "laptop",
+      "pos": "noun",
+      "ko": "노트북 컴퓨터",
+      "form": null,
+      "synonyms": [
+        "notebook computer"
+      ],
+      "ipa": "/ˈlæpˌtɑːp/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "practice": {
+      "lemma": "practice",
+      "pos": "verb",
+      "ko": "연습하다, 실습하다",
+      "form": null,
+      "synonyms": [
+        "train",
+        "rehearse"
+      ],
+      "ipa": "/ˈpræktəs/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "sample": {
+      "lemma": "sample",
+      "pos": "adjective",
+      "ko": "견본의, 예시용의",
+      "form": null,
+      "synonyms": [
+        "example",
+        "test"
+      ],
+      "ipa": "/ˈsæmpəl/"
+    },
+    "records": {
+      "lemma": "record",
+      "pos": "noun",
+      "ko": "기록",
+      "form": "복수형",
+      "synonyms": [
+        "files",
+        "data"
+      ],
+      "ipa": "/rəˈkɔːrdz/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 체계",
+      "form": null,
+      "synonyms": [
+        "program",
+        "platform"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "improve": {
+      "lemma": "improve",
+      "pos": "verb",
+      "ko": "개선하다",
+      "form": null,
+      "synonyms": [
+        "enhance",
+        "make better"
+      ],
+      "ipa": "/ˌɪmˈpruːv/"
+    },
+    "organization": {
+      "lemma": "organization",
+      "pos": "noun",
+      "ko": "정리, 체계화",
+      "form": null,
+      "synonyms": [
+        "arrangement",
+        "order"
+      ],
+      "ipa": "/ˌɔːrɡənəˈzeɪʃən/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "client": {
+      "lemma": "client",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "customer"
+      ],
+      "ipa": "/ˈklaɪənt/"
+    },
+    "information": {
+      "lemma": "information",
+      "pos": "noun",
+      "ko": "정보",
+      "form": null,
+      "synonyms": [
+        "data",
+        "details"
+      ],
+      "ipa": "/ˌɪnfərˈmeɪʃən/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "form": null,
+      "synonyms": [
+        "own",
+        "hold"
+      ],
+      "ipa": "/hæv/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 아무",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "inquiries"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "call"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를, 저에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에(서) (시각·장소)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (전화번호)",
+      "form": null,
+      "synonyms": [
+        "line"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "will offer"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "offers"
+        },
+        {
+          "key": "B",
+          "text": "offered"
+        },
+        {
+          "key": "C",
+          "text": "will offer"
+        },
+        {
+          "key": "D",
+          "text": "offering"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "앞 문장의 Next week(다음 주)로 보아 앞으로 할 일이다 → 미래 시제 will offer.",
+      "choiceNotesKo": {
+        "A": "주어 we에는 offers(3인칭 단수형)를 쓸 수 없다.",
+        "B": "과거형은 다음 주 일정과 맞지 않는다."
+      },
+      "skill": "시제(미래)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "them"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "they"
+        },
+        {
+          "key": "B",
+          "text": "them"
+        },
+        {
+          "key": "C",
+          "text": "their"
+        },
+        {
+          "key": "D",
+          "text": "it"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "one of 뒤에는 복수 목적격이 온다. 두 교육(two training sessions)을 가리키므로 them.",
+      "choiceNotesKo": {
+        "D": "it은 단수라 two sessions를 가리킬 수 없다.",
+        "A": "they는 주격이라 전치사 of 뒤에 못 온다."
+      },
+      "skill": "대명사(목적격)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "Both sessions will cover the same material."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Both sessions will cover the same material."
+        },
+        {
+          "key": "B",
+          "text": "The database was created by an outside company."
+        },
+        {
+          "key": "C",
+          "text": "Room 310 is being painted this week."
+        },
+        {
+          "key": "D",
+          "text": "Sales increased by ten percent last quarter."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'둘 중 하나만 참석하면 된다' 바로 뒤에 그 이유인 '두 교육 내용이 같다'가 와야 흐름이 자연스럽다.",
+      "choiceNotesKo": {
+        "C": "310호에서 교육한다고 했는데 이번 주에 칠한다는 말은 앞뒤와 맞지 않는다.",
+        "B": "데이터베이스를 누가 만들었는지는 교육 참석 이야기와 관계가 없다."
+      },
+      "skill": "문장 넣기(앞 문장의 이유)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "because"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "because"
+        },
+        {
+          "key": "B",
+          "text": "although"
+        },
+        {
+          "key": "C",
+          "text": "unless"
+        },
+        {
+          "key": "D",
+          "text": "or"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'실습을 할 것이기 때문에 노트북을 가져오라' → 이유를 나타내는 because.",
+      "choiceNotesKo": {
+        "B": "although(비록 ~지만)는 반대 내용일 때 쓴다.",
+        "C": "unless(~하지 않으면)는 뜻이 맞지 않는다."
+      },
+      "skill": "접속사 의미(이유)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s11",
+        "answerText": "organization"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "organize"
+        },
+        {
+          "key": "B",
+          "text": "organized"
+        },
+        {
+          "key": "C",
+          "text": "organizes"
+        },
+        {
+          "key": "D",
+          "text": "organization"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "관사 the 뒤, 전치사 of 앞은 명사 자리 → organization(정리, 체계).",
+      "choiceNotesKo": {
+        "B": "organized는 형용사/과거분사라 뒤에 명사가 필요하다."
+      },
+      "skill": "명사 자리"
+    }
+  ]
+}

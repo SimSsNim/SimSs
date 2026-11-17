@@ -1,0 +1,1567 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-16-L3",
+  "date": "2026-11-16",
+  "level": 3,
+  "title": "The Brave Tin Soldier",
+  "titleKo": "꿋꿋한 주석 병정",
+  "genre": "fairy-tale",
+  "tags": [
+    "Hans Christian Andersen",
+    "fairy tale",
+    "toys"
+  ],
+  "source": {
+    "work": "Fairy Tales of Hans Christian Andersen (The Brave Tin Soldier)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1872,
+    "edition": "Project Gutenberg #27200",
+    "url": "https://www.gutenberg.org/ebooks/27200",
+    "license": "public-domain",
+    "excerptNote": "'The Brave Tin Soldier'(흔히 'The Steadfast Tin Soldier'로 알려진 작품) 첫 단락 전체와 둘째 단락의 처음 네 문장 (‘There were once five-and-twenty tin soldiers’부터 ‘and were reflected in it.’까지, 216단어). 둘째 단락이 매우 길어(400단어 이상) 문장 경계에서 끊었다. 이 작품은 PG #1597(Andersen's Fairy Tales)에는 실려 있지 않아, LibriVox 음원이 원문으로 쓰는 PG #27200에서 가져왔다. 원문 .txt판 기준으로 줄바꿈만 공백 하나로 이음 (따옴표는 원문 그대로 곧은 따옴표 \"). PG #27200 영어 번역 (Gutenberg에 번역자 표기 없음)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/emperorsnewclothes_1311_librivox/emperorsnewclothes_04_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/emperorsnewclothes_1311_librivox/emperorsnewclothes_04_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-emperors-new-clothes-by-hans-christian-andersen/",
+    "reader": "Phil Chenevert",
+    "durationSec": 704,
+    "startSec": 20,
+    "endSec": 110,
+    "note": "LibriVox 'The Emperor's New Clothes' (Andersen 동화 모음, 원문 PG #27200), 트랙 4 'The Brave Little Tin Soldier' (전체 11:44). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:20~1:50 (추정)."
+  },
+  "wordCount": 216,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "옛날에 스물다섯 명의 주석 병정이 있었는데, 모두 형제였다. 같은 낡은 주석 숟가락 하나를 녹여 만들어졌기 때문이다. 그들은 어깨에 총을 메고 앞을 똑바로 바라보았으며, 빨간색과 파란색으로 된 멋진 군복을 입고 있었다. 그들이 세상에 나와 맨 처음 들은 것은 \"주석 병정이다!\"라는 말이었다. 그것은 그들이 누워 있던 상자의 뚜껑이 열리자 기뻐서 손뼉을 친 한 어린 소년이 외친 말이었다. 병정들은 소년에게 생일 선물로 주어졌고, 소년은 탁자 앞에 서서 그들을 하나하나 세워 놓았다. 병정들은 모두 똑같이 생겼지만, 단 하나만은 다리가 하나뿐이었다. 그는 맨 마지막에 만들어졌는데, 그때는 녹인 주석이 모자라 그를 다 완성할 수 없었다. 그래서 사람들은 그를 한 다리로 굳건히 서도록 만들었고, 이 때문에 그는 아주 눈에 띄는 병정이 되었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "주석 병정들이 서 있던 탁자에는 다른 장난감들도 잔뜩 놓여 있었지만, 그중 가장 눈길을 끄는 것은 예쁘고 작은 종이 성이었다. 작은 창문들 너머로 성 안의 방들이 들여다보였다. 성 앞에는 작은 나무 여러 그루가 거울 조각 하나를 둘러싸고 있었는데, 그 거울은 맑고 투명한 호수를 나타내려고 놓아둔 것이었다. 밀랍으로 만든 백조들이 그 호수 위를 헤엄쳤고, 물에 그 모습이 비쳤다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There were once five-and-twenty tin soldiers, who were all brothers, for they had been made out of the same old tin spoon.",
+      "ko": "옛날에 스물다섯 명의 주석 병정이 있었는데, 모두 형제였다. 같은 낡은 주석 숟가락 하나를 녹여 만들어졌기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "They shouldered arms and looked straight before them, and wore a splendid uniform, red and blue.",
+      "ko": "그들은 어깨에 총을 메고 앞을 똑바로 바라보았으며, 빨간색과 파란색으로 된 멋진 군복을 입고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The first thing in the world they ever heard were the words, \"Tin soldiers!\"",
+      "ko": "그들이 세상에 나와 맨 처음 들은 것은 \"주석 병정이다!\"라는 말이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "uttered by a little boy, who clapped his hands with delight when the lid of the box, in which they lay, was taken off.",
+      "ko": "그것은 그들이 누워 있던 상자의 뚜껑이 열리자 기뻐서 손뼉을 친 한 어린 소년이 외친 말이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "They were given him for a birthday present, and he stood at the table to set them up.",
+      "ko": "병정들은 소년에게 생일 선물로 주어졌고, 소년은 탁자 앞에 서서 그들을 하나하나 세워 놓았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "The soldiers were all exactly alike, excepting one, who had only one leg; he had been left to the last, and then there was not enough of the melted tin to finish him, so they made him to stand firmly on one leg, and this caused him to be very remarkable.",
+      "ko": "병정들은 모두 똑같이 생겼지만, 단 하나만은 다리가 하나뿐이었다. 그는 맨 마지막에 만들어졌는데, 그때는 녹인 주석이 모자라 그를 다 완성할 수 없었다. 그래서 사람들은 그를 한 다리로 굳건히 서도록 만들었고, 이 때문에 그는 아주 눈에 띄는 병정이 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "The table on which the tin soldiers stood, was covered with other playthings, but the most attractive to the eye was a pretty little paper castle.",
+      "ko": "주석 병정들이 서 있던 탁자에는 다른 장난감들도 잔뜩 놓여 있었지만, 그중 가장 눈길을 끄는 것은 예쁘고 작은 종이 성이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "Through the small windows the rooms could be seen.",
+      "ko": "작은 창문들 너머로 성 안의 방들이 들여다보였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p2",
+      "en": "In front of the castle a number of little trees surrounded a piece of looking-glass, which was intended to represent a transparent lake.",
+      "ko": "성 앞에는 작은 나무 여러 그루가 거울 조각 하나를 둘러싸고 있었는데, 그 거울은 맑고 투명한 호수를 나타내려고 놓아둔 것이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p2",
+      "en": "Swans, made of wax, swam on the lake, and were reflected in it.",
+      "ko": "밀랍으로 만든 백조들이 그 호수 위를 헤엄쳤고, 물에 그 모습이 비쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "shoulder arms",
+      "pos": "phrase",
+      "meaningKo": "(군인이) 총을 어깨에 메다, '어깨총' 자세를 하다",
+      "ipa": "/ˈʃoʊldɚ ɑrmz/",
+      "synonyms": [
+        "carry rifles",
+        "bear arms"
+      ],
+      "matchText": "shouldered arms",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The guards shouldered arms as the general walked past.",
+        "ko": "장군이 지나가자 경비병들이 어깨총 자세를 취했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "splendid",
+      "pos": "adjective",
+      "meaningKo": "훌륭한, 화려한, 멋진",
+      "ipa": "/ˈsplɛndɪd/",
+      "synonyms": [
+        "magnificent",
+        "gorgeous",
+        "grand"
+      ],
+      "matchText": "splendid",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She wore a splendid gown to the ball.",
+        "ko": "그녀는 무도회에 화려한 드레스를 입고 갔다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "with delight",
+      "pos": "phrase",
+      "meaningKo": "기뻐서, 신이 나서",
+      "ipa": "/wɪð dɪˈlaɪt/",
+      "synonyms": [
+        "joyfully",
+        "happily",
+        "with joy"
+      ],
+      "matchText": "with delight",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The children screamed with delight when they saw the snow.",
+        "ko": "아이들은 눈을 보고 신이 나서 소리를 질렀다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "remarkable",
+      "pos": "adjective",
+      "meaningKo": "눈에 띄는, 주목할 만한, 특별한",
+      "ipa": "/rɪˈmɑrkəbəl/",
+      "synonyms": [
+        "notable",
+        "striking",
+        "unusual"
+      ],
+      "matchText": "remarkable",
+      "sentenceId": "s6",
+      "example": {
+        "en": "It is remarkable that he finished the race with an injured knee.",
+        "ko": "그가 다친 무릎으로 경주를 끝까지 마쳤다는 것은 놀라운 일이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "represent",
+      "pos": "verb",
+      "meaningKo": "나타내다, 상징하다, ~을 표현하다",
+      "ipa": "/ˌrɛprɪˈzɛnt/",
+      "synonyms": [
+        "stand for",
+        "symbolize",
+        "depict"
+      ],
+      "matchText": "represent",
+      "sentenceId": "s9",
+      "example": {
+        "en": "On this map, the blue lines represent rivers.",
+        "ko": "이 지도에서 파란 선은 강을 나타낸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "There were",
+          "role": "V",
+          "ko": "~이 있었다"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "ko": "옛날에"
+        },
+        {
+          "text": "five-and-twenty tin soldiers,",
+          "role": "S",
+          "ko": "스물다섯 명의 주석 병정이"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "그들은 (관계대명사)",
+          "sub": true
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "ko": "~였다",
+          "sub": true
+        },
+        {
+          "text": "all brothers,",
+          "role": "C",
+          "ko": "모두 형제",
+          "sub": true
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그들은"
+        },
+        {
+          "text": "had been made",
+          "role": "V",
+          "ko": "만들어졌기 때문에"
+        },
+        {
+          "text": "out of the same old tin spoon.",
+          "role": "M",
+          "ko": "같은 낡은 주석 숟가락으로"
+        }
+      ],
+      "skeleton": "There were soldiers (, for they had been made …)",
+      "explanation": "'There were + 주어'는 '~이 있었다'라는 존재 구문으로, 진짜 주어는 동사 뒤의 five-and-twenty tin soldiers이다. who 이하는 병정들을 덧붙여 설명하는 관계절, for는 '왜냐하면'이라는 뜻의 등위접속사로 앞 내용의 이유를 말한다. had been made는 과거완료 수동태로, 이야기 시점보다 더 먼저 만들어졌음을 나타낸다. five-and-twenty는 twenty-five의 옛 표현."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "The table",
+          "role": "S",
+          "ko": "탁자는"
+        },
+        {
+          "text": "on which",
+          "role": "CONJ",
+          "ko": "그 위에",
+          "sub": true
+        },
+        {
+          "text": "the tin soldiers",
+          "role": "S",
+          "ko": "주석 병정들이",
+          "sub": true
+        },
+        {
+          "text": "stood,",
+          "role": "V",
+          "ko": "서 있던",
+          "sub": true
+        },
+        {
+          "text": "was covered",
+          "role": "V",
+          "ko": "덮여 있었다"
+        },
+        {
+          "text": "with other playthings,",
+          "role": "M",
+          "ko": "다른 장난감들로"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "ko": "그러나"
+        },
+        {
+          "text": "the most attractive to the eye",
+          "role": "S",
+          "ko": "가장 눈길을 끄는 것은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~이었다"
+        },
+        {
+          "text": "a pretty little paper castle.",
+          "role": "C",
+          "ko": "예쁘고 작은 종이 성"
+        }
+      ],
+      "skeleton": "The table was covered …, but the most attractive was a castle.",
+      "explanation": "앞 절의 주어 The table을 '전치사 + 관계대명사(on which)' 절이 꾸며 주고 있어 주어와 동사(was covered) 사이가 멀다. 원문에는 stood 뒤에 쉼표가 있지만 문장 성분은 그대로 '주어 + 동사'로 이어진다. but 뒤 절에서는 'the most attractive (thing)'처럼 '최상급 형용사'가 명사 역할을 하는 주어로 쓰였다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "In front of the castle",
+          "role": "M",
+          "ko": "성 앞에는"
+        },
+        {
+          "text": "a number of little trees",
+          "role": "S",
+          "ko": "작은 나무 여러 그루가"
+        },
+        {
+          "text": "surrounded",
+          "role": "V",
+          "ko": "둘러싸고 있었다"
+        },
+        {
+          "text": "a piece of looking-glass,",
+          "role": "O",
+          "ko": "거울 한 조각을"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그것은 (관계대명사)",
+          "sub": true
+        },
+        {
+          "text": "was intended",
+          "role": "V",
+          "ko": "의도된 것이었다",
+          "sub": true
+        },
+        {
+          "text": "to represent a transparent lake.",
+          "role": "M",
+          "ko": "투명한 호수를 나타내도록",
+          "sub": true
+        }
+      ],
+      "skeleton": "trees surrounded a piece of looking-glass",
+      "explanation": "장소 부사구(In front of the castle)가 앞에 나오고, 그 뒤는 '주어 + 동사 + 목적어'의 평범한 어순이다. a number of는 '여러, 많은'이라는 뜻으로 복수 명사와 함께 쓴다. 쉼표 뒤 which 절은 looking-glass(거울)를 덧붙여 설명하며, be intended to + 동사원형은 '~하도록 의도되다, ~하려고 만든 것이다'라는 뜻이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "조동사 + 수동태 (could be seen)",
+      "tags": [
+        "조동사",
+        "수동태"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "could be seen"
+      ],
+      "explanation": "수동태 'be + 과거분사' 앞에 조동사가 오면 be는 항상 원형으로 쓴다: could + be + seen. '방들이 보일 수 있었다', 즉 '방들이 들여다보였다'는 뜻이다. 문장 맨 앞의 Through the small windows는 장소를 나타내는 부사구로, 강조를 위해 앞으로 나왔다.",
+      "example": {
+        "en": "The stars could be seen clearly from the mountaintop.",
+        "ko": "산꼭대기에서는 별들이 또렷하게 보였다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "전치사 + 관계대명사 (on which, in which)",
+      "tags": [
+        "관계사",
+        "전치사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "on which the tin soldiers stood"
+      ],
+      "explanation": "'The tin soldiers stood on the table.'에서 on the table을 관계대명사로 바꾸면 on which가 된다. 전치사를 관계대명사 앞에 두는 것은 격식 있는 문체이며, 일상적으로는 'the table (which) the tin soldiers stood on'처럼 전치사를 뒤에 남기기도 한다. s4의 'the box, in which they lay'도 같은 구조다.",
+      "example": {
+        "en": "This is the house in which my grandfather was born.",
+        "ko": "이곳이 우리 할아버지께서 태어나신 집이다."
+      },
+      "note": "on which = where로 바꿔 쓸 수도 있다: the table where the tin soldiers stood."
+    },
+    {
+      "id": "g3",
+      "title": "make + 목적어 + to부정사 (옛 문체) / cause + 목적어 + to부정사",
+      "tags": [
+        "to부정사",
+        "기타"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "made him to stand",
+        "caused him to be"
+      ],
+      "explanation": "사역동사 make는 현대 영어에서 'make + 목적어 + 동사원형'(made him stand)으로 쓰지만, 이 옛 번역문에는 to가 들어간 made him to stand가 쓰였다. 반면 cause는 원래 'cause + 목적어 + to부정사' 형태로 쓰여 '~가 …하게 만들다(원인이 되다)'라는 뜻을 나타낸다.",
+      "example": {
+        "en": "The heavy rain caused the river to overflow.",
+        "ko": "폭우 때문에 강물이 넘쳤다."
+      },
+      "note": "현대 영어: They made him stand firmly on one leg. (수동태에서는 to가 살아난다: He was made to stand on one leg.)"
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(There were ~) ~이 있었다 (유도부사)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; ~이 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "long ago"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "five-and-twenty": {
+      "lemma": "five-and-twenty",
+      "pos": "number",
+      "ko": "스물다섯 (twenty-five의 옛 표현)",
+      "form": null,
+      "ipa": "/faɪv-ənd-ˈtwɛnti/"
+    },
+    "tin": {
+      "lemma": "tin",
+      "pos": "noun",
+      "ko": "주석 (금속)",
+      "form": null,
+      "synonyms": [
+        "pewter",
+        "metal"
+      ],
+      "ipa": "/tɪn/"
+    },
+    "soldiers": {
+      "lemma": "soldier",
+      "pos": "noun",
+      "ko": "병정, 군인",
+      "form": "복수형",
+      "synonyms": [
+        "troops",
+        "warriors"
+      ],
+      "ipa": "/ˈsoʊldʒərz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그들은, ~하는",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모두",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "brothers": {
+      "lemma": "brother",
+      "pos": "noun",
+      "ko": "형제",
+      "form": "복수형",
+      "synonyms": [
+        "siblings"
+      ],
+      "ipa": "/ˈbrʌðərz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면; (for a present) ~으로",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had been) 과거완료 조동사; (had) 가지고 있었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(had been made) 수동태·완료형을 만듦",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다; (made him to ~) ~하게 하다",
+      "form": "과거분사·과거형",
+      "synonyms": [
+        "created",
+        "formed"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~으로, ~에서",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; (made of) ~으로 된",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "form": null,
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "낡은, 오래된",
+      "form": null,
+      "synonyms": [
+        "worn",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "spoon": {
+      "lemma": "spoon",
+      "pos": "noun",
+      "ko": "숟가락",
+      "form": null,
+      "synonyms": [
+        "ladle"
+      ],
+      "ipa": "/spuːn/"
+    },
+    "shouldered": {
+      "lemma": "shoulder",
+      "pos": "verb",
+      "ko": "(총을) 어깨에 메다",
+      "form": "과거형",
+      "synonyms": [
+        "carried",
+        "bore"
+      ],
+      "ipa": "/ˈʃoʊldərd/"
+    },
+    "arms": {
+      "lemma": "arm",
+      "pos": "noun",
+      "ko": "무기, 총 (shoulder arms: 어깨총)",
+      "form": "복수형",
+      "synonyms": [
+        "weapons",
+        "rifles"
+      ],
+      "ipa": "/ɑːrmz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다, 바라보다",
+      "form": "과거형",
+      "synonyms": [
+        "gazed",
+        "stared"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "straight": {
+      "lemma": "straight",
+      "pos": "adverb",
+      "ko": "똑바로, 곧장",
+      "form": null,
+      "synonyms": [
+        "directly"
+      ],
+      "ipa": "/streɪt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~의 앞에 (= in front of)",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을, 그들",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "wore": {
+      "lemma": "wear",
+      "pos": "verb",
+      "ko": "입고 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "had on",
+        "dressed in"
+      ],
+      "ipa": "/wɔːr/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "splendid": {
+      "lemma": "splendid",
+      "pos": "adjective",
+      "ko": "멋진, 화려한",
+      "form": null,
+      "synonyms": [
+        "magnificent",
+        "gorgeous"
+      ],
+      "ipa": "/ˈsplɛndɪd/"
+    },
+    "uniform": {
+      "lemma": "uniform",
+      "pos": "noun",
+      "ko": "제복, 군복",
+      "form": null,
+      "synonyms": [
+        "outfit",
+        "costume"
+      ],
+      "ipa": "/ˈjuːnəˌfɔːrm/"
+    },
+    "red": {
+      "lemma": "red",
+      "pos": "adjective",
+      "ko": "빨간",
+      "form": null,
+      "synonyms": [
+        "scarlet",
+        "crimson"
+      ],
+      "ipa": "/rɛd/"
+    },
+    "blue": {
+      "lemma": "blue",
+      "pos": "adjective",
+      "ko": "파란",
+      "form": null,
+      "synonyms": [
+        "azure"
+      ],
+      "ipa": "/bluː/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의, 맨 처음의",
+      "form": null,
+      "synonyms": [
+        "earliest",
+        "initial"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "것, 일",
+      "form": null,
+      "synonyms": [
+        "object",
+        "matter"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상",
+      "form": null,
+      "synonyms": [
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "(지금까지) 한 번이라도",
+      "form": null,
+      "ipa": "/ˈɛvər/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "과거형",
+      "synonyms": [
+        "listened to"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "words": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "말, 단어",
+      "form": "복수형",
+      "synonyms": [
+        "remark",
+        "utterance"
+      ],
+      "ipa": "/wɜːrdz/"
+    },
+    "uttered": {
+      "lemma": "utter",
+      "pos": "verb",
+      "ko": "(말을) 하다, 소리 내다",
+      "form": "과거분사",
+      "synonyms": [
+        "spoken",
+        "said"
+      ],
+      "ipa": "/ˈʌtərd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은, 어린",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "boy": {
+      "lemma": "boy",
+      "pos": "noun",
+      "ko": "소년",
+      "form": null,
+      "synonyms": [
+        "lad",
+        "youngster"
+      ],
+      "ipa": "/bɔɪ/"
+    },
+    "clapped": {
+      "lemma": "clap",
+      "pos": "verb",
+      "ko": "(손뼉을) 치다",
+      "form": "과거형",
+      "synonyms": [
+        "applauded"
+      ],
+      "ipa": "/klæpt/"
+    },
+    "his": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "hands": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": "복수형",
+      "ipa": "/hændz/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~을 가지고, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "delight": {
+      "lemma": "delight",
+      "pos": "noun",
+      "ko": "기쁨, 즐거움",
+      "form": null,
+      "synonyms": [
+        "joy",
+        "pleasure"
+      ],
+      "ipa": "/dɪˈlaɪt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "lid": {
+      "lemma": "lid",
+      "pos": "noun",
+      "ko": "뚜껑",
+      "form": null,
+      "synonyms": [
+        "cover",
+        "top"
+      ],
+      "ipa": "/lɪd/"
+    },
+    "box": {
+      "lemma": "box",
+      "pos": "noun",
+      "ko": "상자",
+      "form": null,
+      "synonyms": [
+        "case",
+        "container"
+      ],
+      "ipa": "/bɑːks/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "누워 있다, 놓여 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rested",
+        "reclined"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "taken": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take off) 벗기다, 떼어 내다",
+      "form": "과거분사",
+      "synonyms": [
+        "removed",
+        "lifted"
+      ],
+      "ipa": "/ˈteɪkən/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(떨어져) 벗겨져, 떼어져",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "given": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "과거분사",
+      "synonyms": [
+        "presented",
+        "handed"
+      ],
+      "ipa": "/ˈɡɪvən/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그에게, 그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "birthday": {
+      "lemma": "birthday",
+      "pos": "noun",
+      "ko": "생일",
+      "form": null,
+      "ipa": "/ˈbɜːrθˌdeɪ/"
+    },
+    "present": {
+      "lemma": "present",
+      "pos": "noun",
+      "ko": "선물",
+      "form": null,
+      "synonyms": [
+        "gift"
+      ],
+      "ipa": "/ˈprɛzənt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다, 서다",
+      "form": "과거형",
+      "synonyms": [
+        "was standing",
+        "rose"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~ 앞에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "table": {
+      "lemma": "table",
+      "pos": "noun",
+      "ko": "탁자, 테이블",
+      "form": null,
+      "synonyms": [
+        "desk"
+      ],
+      "ipa": "/ˈteɪbəl/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사); ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(set up) 세우다, 배치하다",
+      "form": null,
+      "synonyms": [
+        "place",
+        "arrange"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(set up) 세워, 위로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "exactly": {
+      "lemma": "exactly",
+      "pos": "adverb",
+      "ko": "정확히, 꼭",
+      "form": null,
+      "synonyms": [
+        "precisely",
+        "just"
+      ],
+      "ipa": "/ɪɡˈzæktli/"
+    },
+    "alike": {
+      "lemma": "alike",
+      "pos": "adjective",
+      "ko": "똑같은, 비슷한",
+      "form": null,
+      "synonyms": [
+        "identical",
+        "similar"
+      ],
+      "ipa": "/əˈlaɪk/"
+    },
+    "excepting": {
+      "lemma": "excepting",
+      "pos": "preposition",
+      "ko": "~을 제외하고 (= except)",
+      "form": null,
+      "ipa": "/ˌɛkˈsɛptɪŋ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나; 한 명",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adjective",
+      "ko": "오직 ~뿐인",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "leg": {
+      "lemma": "leg",
+      "pos": "noun",
+      "ko": "다리",
+      "form": null,
+      "synonyms": [
+        "limb"
+      ],
+      "ipa": "/lɛɡ/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "(left to the last) 맨 나중으로 남겨지다",
+      "form": "과거분사",
+      "synonyms": [
+        "kept",
+        "saved"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "마지막 (to the last: 맨 끝까지)",
+      "form": null,
+      "synonyms": [
+        "end",
+        "final"
+      ],
+      "ipa": "/læst/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그러자",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "pronoun",
+      "ko": "충분한 양",
+      "form": null,
+      "ipa": "/ɪˈnʌf/"
+    },
+    "melted": {
+      "lemma": "melt",
+      "pos": "verb",
+      "ko": "녹인",
+      "form": "과거분사",
+      "synonyms": [
+        "molten",
+        "liquefied"
+      ],
+      "ipa": "/ˈmɛltəd/"
+    },
+    "finish": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝내다, 완성하다",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "end"
+      ],
+      "ipa": "/ˈfɪnɪʃ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "stand": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서다",
+      "form": null,
+      "synonyms": [
+        "stay upright"
+      ],
+      "ipa": "/stænd/"
+    },
+    "firmly": {
+      "lemma": "firmly",
+      "pos": "adverb",
+      "ko": "굳건히, 단단히",
+      "form": null,
+      "synonyms": [
+        "steadily",
+        "solidly"
+      ],
+      "ipa": "/ˈfɜːrmli/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~로 (서다)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 일",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "caused": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "~하게 하다, ~의 원인이 되다",
+      "form": "과거형",
+      "synonyms": [
+        "made",
+        "led"
+      ],
+      "ipa": "/kɑːzd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "extremely",
+        "highly"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "remarkable": {
+      "lemma": "remarkable",
+      "pos": "adjective",
+      "ko": "눈에 띄는, 특별한",
+      "form": null,
+      "synonyms": [
+        "notable",
+        "striking"
+      ],
+      "ipa": "/rɪˈmɑːrkəbəl/"
+    },
+    "covered": {
+      "lemma": "cover",
+      "pos": "verb",
+      "ko": "덮다, (물건으로) 가득 놓이다",
+      "form": "과거분사",
+      "synonyms": [
+        "spread",
+        "laden"
+      ],
+      "ipa": "/ˈkʌvərd/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "playthings": {
+      "lemma": "plaything",
+      "pos": "noun",
+      "ko": "장난감",
+      "form": "복수형",
+      "synonyms": [
+        "toys"
+      ],
+      "ipa": "/ˈpleɪˌθɪŋz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급)",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "attractive": {
+      "lemma": "attractive",
+      "pos": "adjective",
+      "ko": "마음을 끄는, 매력적인",
+      "form": null,
+      "synonyms": [
+        "appealing",
+        "charming"
+      ],
+      "ipa": "/əˈtræktɪv/"
+    },
+    "eye": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈 (to the eye: 보기에)",
+      "form": null,
+      "synonyms": [
+        "sight"
+      ],
+      "ipa": "/aɪ/"
+    },
+    "pretty": {
+      "lemma": "pretty",
+      "pos": "adjective",
+      "ko": "예쁜",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "cute"
+      ],
+      "ipa": "/ˈprɪti/"
+    },
+    "paper": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "종이 (명사가 형용사처럼 쓰임: 종이로 된)",
+      "form": null,
+      "ipa": "/ˈpeɪpər/"
+    },
+    "castle": {
+      "lemma": "castle",
+      "pos": "noun",
+      "ko": "성",
+      "form": null,
+      "synonyms": [
+        "palace",
+        "fortress"
+      ],
+      "ipa": "/ˈkæsəl/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해, ~ 너머로",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "tiny"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "windows": {
+      "lemma": "window",
+      "pos": "noun",
+      "ko": "창문",
+      "form": "복수형",
+      "ipa": "/ˈwɪndoʊz/"
+    },
+    "rooms": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방",
+      "form": "복수형",
+      "synonyms": [
+        "chambers"
+      ],
+      "ipa": "/ruːmz/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다 (could be seen: 보였다)",
+      "form": "과거분사",
+      "synonyms": [
+        "viewed",
+        "observed"
+      ],
+      "ipa": "/siːn/"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "noun",
+      "ko": "앞 (in front of: ~의 앞에)",
+      "form": null,
+      "synonyms": [
+        "face"
+      ],
+      "ipa": "/frʌnt/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "수 (a number of: 여러, 많은)",
+      "form": null,
+      "synonyms": [
+        "quantity",
+        "several"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "ipa": "/triːz/"
+    },
+    "surrounded": {
+      "lemma": "surround",
+      "pos": "verb",
+      "ko": "둘러싸다",
+      "form": "과거형",
+      "synonyms": [
+        "encircled",
+        "enclosed"
+      ],
+      "ipa": "/səˈraʊndɪd/"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각",
+      "form": null,
+      "synonyms": [
+        "bit",
+        "fragment"
+      ],
+      "ipa": "/piːs/"
+    },
+    "looking-glass": {
+      "lemma": "looking-glass",
+      "pos": "noun",
+      "ko": "거울 (옛말)",
+      "form": null,
+      "synonyms": [
+        "mirror"
+      ],
+      "ipa": "/ˈlʊkɪŋ-ɡlæs/"
+    },
+    "intended": {
+      "lemma": "intend",
+      "pos": "verb",
+      "ko": "(be intended to) ~하도록 의도되다",
+      "form": "과거분사",
+      "synonyms": [
+        "meant",
+        "designed"
+      ],
+      "ipa": "/ˌɪnˈtɛndɪd/"
+    },
+    "represent": {
+      "lemma": "represent",
+      "pos": "verb",
+      "ko": "나타내다, 상징하다",
+      "form": null,
+      "synonyms": [
+        "stand for",
+        "depict"
+      ],
+      "ipa": "/ˌrɛprɪˈzɛnt/"
+    },
+    "transparent": {
+      "lemma": "transparent",
+      "pos": "adjective",
+      "ko": "투명한, 맑은",
+      "form": null,
+      "synonyms": [
+        "clear",
+        "see-through"
+      ],
+      "ipa": "/trænˈspɛrənt/"
+    },
+    "lake": {
+      "lemma": "lake",
+      "pos": "noun",
+      "ko": "호수",
+      "form": null,
+      "synonyms": [
+        "pond",
+        "pool"
+      ],
+      "ipa": "/leɪk/"
+    },
+    "swans": {
+      "lemma": "swan",
+      "pos": "noun",
+      "ko": "백조",
+      "form": "복수형",
+      "ipa": "/swɑːnz/"
+    },
+    "wax": {
+      "lemma": "wax",
+      "pos": "noun",
+      "ko": "밀랍, 왁스",
+      "form": null,
+      "ipa": "/wæks/"
+    },
+    "swam": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "floated",
+        "glided"
+      ],
+      "ipa": "/swæm/"
+    },
+    "reflected": {
+      "lemma": "reflect",
+      "pos": "verb",
+      "ko": "(물·거울에) 비치다",
+      "form": "과거분사",
+      "synonyms": [
+        "mirrored"
+      ],
+      "ipa": "/rɪˈflɛktɪd/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (= 호수)",
+      "form": null,
+      "ipa": "/ɪt/"
+    }
+  }
+}

@@ -1,0 +1,1318 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-15-L2-3",
+  "date": "2026-11-15",
+  "level": 2,
+  "title": "The Mouse, the Frog, and the Hawk",
+  "titleKo": "쥐와 개구리와 매",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_17_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_17_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-3-fables-51-75",
+    "reader": "Mr. Baby Man",
+    "durationSec": 74,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 03, 17번 트랙(전체 67번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 159,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "쥐와 개구리가 친구가 되었다. 그러나 둘은 잘 어울리는 짝이 아니었다. 쥐는 오로지 땅 위에서만 살았지만, 개구리는 땅에서든 물속에서든 똑같이 편안했기 때문이다. 둘이 절대 떨어지지 않도록, 개구리는 실 한 가닥으로 자기와 쥐의 다리를 함께 묶었다. 마른 땅 위를 다니는 동안에는 그럭저럭 별일이 없었다. 그러나 연못가에 이르자 개구리는 쥐를 데리고 물속으로 뛰어들어, 신이 나서 개굴개굴 울며 이리저리 헤엄치기 시작했다. 하지만 불쌍한 쥐는 곧 물에 빠져 죽었고, 개구리가 지나간 물살을 따라 물 위에 둥둥 떠다녔다. 그때 매 한 마리가 그를 발견하고 덮쳐 내려와 발톱으로 움켜잡았다. 개구리는 자기를 쥐에게 묶어 놓은 매듭을 풀 수가 없었고, 그래서 쥐와 함께 끌려가 매에게 잡아먹히고 말았다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Mouse and a Frog struck up a friendship; they were not well mated, for the Mouse lived entirely on land, while the Frog was equally at home on land or in the water.",
+      "ko": "쥐와 개구리가 친구가 되었다. 그러나 둘은 잘 어울리는 짝이 아니었다. 쥐는 오로지 땅 위에서만 살았지만, 개구리는 땅에서든 물속에서든 똑같이 편안했기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "In order that they might never be separated, the Frog tied himself and the Mouse together by the leg with a piece of thread.",
+      "ko": "둘이 절대 떨어지지 않도록, 개구리는 실 한 가닥으로 자기와 쥐의 다리를 함께 묶었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "As long as they kept on dry land all went fairly well; but, coming to the edge of a pool, the Frog jumped in, taking the Mouse with him, and began swimming about and croaking with pleasure.",
+      "ko": "마른 땅 위를 다니는 동안에는 그럭저럭 별일이 없었다. 그러나 연못가에 이르자 개구리는 쥐를 데리고 물속으로 뛰어들어, 신이 나서 개굴개굴 울며 이리저리 헤엄치기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The unhappy Mouse, however, was soon drowned, and floated about on the surface in the wake of the Frog.",
+      "ko": "하지만 불쌍한 쥐는 곧 물에 빠져 죽었고, 개구리가 지나간 물살을 따라 물 위에 둥둥 떠다녔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "There he was spied by a Hawk, who pounced down on him and seized him in his talons.",
+      "ko": "그때 매 한 마리가 그를 발견하고 덮쳐 내려와 발톱으로 움켜잡았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "The Frog was unable to loose the knot which bound him to the Mouse, and thus was carried off along with him and eaten by the Hawk.",
+      "ko": "개구리는 자기를 쥐에게 묶어 놓은 매듭을 풀 수가 없었고, 그래서 쥐와 함께 끌려가 매에게 잡아먹히고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "strike up",
+      "pos": "phrasal-verb",
+      "meaningKo": "(우정·대화를) 시작하다, 맺다",
+      "ipa": "/straɪk ʌp/",
+      "synonyms": [
+        "start",
+        "begin",
+        "form"
+      ],
+      "matchText": "struck up",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She struck up a conversation with the new student.",
+        "ko": "그녀는 새로 온 학생에게 말을 걸었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "at home",
+      "pos": "phrase",
+      "meaningKo": "편안한, 익숙한",
+      "ipa": "/æt hoʊm/",
+      "synonyms": [
+        "comfortable",
+        "at ease"
+      ],
+      "matchText": "at home",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He feels at home in the water.",
+        "ko": "그는 물속에서 편안함을 느낀다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in order that",
+      "pos": "phrase",
+      "meaningKo": "~하도록, ~하기 위해",
+      "ipa": "/ɪn ˈɔːrdər ðæt/",
+      "synonyms": [
+        "so that"
+      ],
+      "matchText": "In order that",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Speak slowly in order that everyone can understand.",
+        "ko": "모두가 이해할 수 있도록 천천히 말해라."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "pounce",
+      "pos": "verb",
+      "meaningKo": "(갑자기) 덮치다, 달려들다",
+      "ipa": "/paʊns/",
+      "synonyms": [
+        "swoop",
+        "leap",
+        "spring"
+      ],
+      "matchText": "pounced",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The cat pounced on the toy mouse.",
+        "ko": "고양이가 장난감 쥐에게 확 달려들었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "seize",
+      "pos": "verb",
+      "meaningKo": "(꽉) 움켜잡다, 붙잡다",
+      "ipa": "/siːz/",
+      "synonyms": [
+        "grab",
+        "grasp",
+        "catch"
+      ],
+      "matchText": "seized",
+      "sentenceId": "s5",
+      "example": {
+        "en": "He seized my hand and pulled me up.",
+        "ko": "그는 내 손을 꽉 잡고 끌어 올렸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Mouse and a Frog",
+          "role": "S",
+          "sub": false,
+          "ko": "쥐와 개구리가"
+        },
+        {
+          "text": "struck up",
+          "role": "V",
+          "sub": false,
+          "ko": "맺었다"
+        },
+        {
+          "text": "a friendship;",
+          "role": "O",
+          "sub": false,
+          "ko": "우정을;"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~이었다"
+        },
+        {
+          "text": "not well mated,",
+          "role": "C",
+          "sub": false,
+          "ko": "잘 어울리는 짝이 아닌,"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "the Mouse",
+          "role": "S",
+          "sub": true,
+          "ko": "쥐는"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": true,
+          "ko": "살았다"
+        },
+        {
+          "text": "entirely",
+          "role": "M",
+          "sub": true,
+          "ko": "오로지"
+        },
+        {
+          "text": "on land,",
+          "role": "M",
+          "sub": true,
+          "ko": "땅 위에서,"
+        },
+        {
+          "text": "while",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "반면에"
+        },
+        {
+          "text": "the Frog",
+          "role": "S",
+          "sub": true,
+          "ko": "개구리는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "equally",
+          "role": "M",
+          "sub": true,
+          "ko": "똑같이"
+        },
+        {
+          "text": "at home",
+          "role": "C",
+          "sub": true,
+          "ko": "편안한"
+        },
+        {
+          "text": "on land or in the water.",
+          "role": "M",
+          "sub": true,
+          "ko": "땅에서나 물속에서나."
+        }
+      ],
+      "skeleton": "A Mouse and a Frog struck up a friendship; they were not well mated (쥐와 개구리가 친구가 되었지만 잘 맞지 않았다)",
+      "explanation": "세미콜론(;) 앞뒤로 두 문장이 있어요. for는 '왜냐하면'이라는 이유의 접속사이고, 그 안에서 while은 '반면에'라는 뜻으로 쥐와 개구리를 대조해요. be at home은 '편안하다, 익숙하다'예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "As long as they kept on dry land",
+          "role": "M",
+          "sub": true,
+          "ko": "그들이 마른 땅 위에 있는 동안은"
+        },
+        {
+          "text": "all",
+          "role": "S",
+          "sub": false,
+          "ko": "모든 것이"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": false,
+          "ko": "되어 갔다"
+        },
+        {
+          "text": "fairly well;",
+          "role": "M",
+          "sub": false,
+          "ko": "그럭저럭 잘;"
+        },
+        {
+          "text": "but,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나,"
+        },
+        {
+          "text": "coming to the edge of a pool,",
+          "role": "M",
+          "sub": false,
+          "ko": "연못가에 이르자,"
+        },
+        {
+          "text": "the Frog",
+          "role": "S",
+          "sub": false,
+          "ko": "개구리는"
+        },
+        {
+          "text": "jumped in,",
+          "role": "V",
+          "sub": false,
+          "ko": "뛰어들었다,"
+        },
+        {
+          "text": "taking the Mouse with him,",
+          "role": "M",
+          "sub": false,
+          "ko": "쥐를 데리고,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "began",
+          "role": "V",
+          "sub": false,
+          "ko": "시작했다"
+        },
+        {
+          "text": "swimming about",
+          "role": "O",
+          "sub": false,
+          "ko": "이리저리 헤엄치기를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "croaking",
+          "role": "O",
+          "sub": false,
+          "ko": "개굴개굴 울기를"
+        },
+        {
+          "text": "with pleasure.",
+          "role": "M",
+          "sub": false,
+          "ko": "신이 나서."
+        }
+      ],
+      "skeleton": "all went fairly well; but the Frog jumped in ~ and began swimming",
+      "explanation": "as long as는 '~하는 동안은, ~하는 한'이라는 접속사예요. 뒤쪽 문장의 주어는 the Frog이고 동사는 jumped in과 began이에요. coming to ~와 taking ~은 둘 다 분사구문으로 '~에 이르자', '~을 데리고'라는 뜻을 더해 줘요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "The Frog",
+          "role": "S",
+          "sub": false,
+          "ko": "개구리는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "unable",
+          "role": "C",
+          "sub": false,
+          "ko": "할 수 없는"
+        },
+        {
+          "text": "to loose the knot",
+          "role": "M",
+          "sub": false,
+          "ko": "매듭을 푸는 것을"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는"
+        },
+        {
+          "text": "bound",
+          "role": "V",
+          "sub": true,
+          "ko": "묶었다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "to the Mouse,",
+          "role": "M",
+          "sub": true,
+          "ko": "쥐에게,"
+        },
+        {
+          "text": "and thus",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "was carried off",
+          "role": "V",
+          "sub": false,
+          "ko": "끌려갔다"
+        },
+        {
+          "text": "along with him",
+          "role": "M",
+          "sub": false,
+          "ko": "그와 함께"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "eaten",
+          "role": "V",
+          "sub": false,
+          "ko": "먹혔다"
+        },
+        {
+          "text": "by the Hawk.",
+          "role": "M",
+          "sub": false,
+          "ko": "매에게."
+        }
+      ],
+      "skeleton": "The Frog was unable to loose the knot ~ and thus was carried off ~ and eaten (개구리는 매듭을 풀 수 없었고, 그래서 끌려가 먹혔다)",
+      "explanation": "be unable to ~는 '~할 수 없다'예요. which bound him to the Mouse는 the knot를 꾸미는 관계대명사절이에요. 뒤쪽은 was carried off와 (was) eaten이 and로 이어진 수동태라서 '끌려가고 먹혔다'로 해석해요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "수동태 (was + 과거분사 + by ~)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "was spied by a Hawk"
+      ],
+      "explanation": "was spied by a Hawk는 '매에게 발견되었다'예요. 쥐가 한 일이 아니라 당한 일이라서 수동태를 썼고, 누가 했는지는 by 뒤에 나와요. 6번째 문장의 was carried off ~ and eaten by the Hawk도 같은 수동태예요.",
+      "example": {
+        "en": "The window was broken by a ball.",
+        "ko": "창문이 공에 맞아 깨졌다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "계속적 용법의 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "a Hawk, who pounced down on him"
+      ],
+      "explanation": "쉼표 뒤의 who는 앞의 a Hawk를 받아 '그런데 그 매는 ~했다'처럼 이야기를 이어 가요. 앞에서부터 순서대로 해석하면 돼요.",
+      "example": {
+        "en": "I called Mina, who answered at once.",
+        "ko": "나는 미나에게 전화했는데, 그녀는 바로 받았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "begin + 동명사 (-ing)",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "began swimming about and croaking"
+      ],
+      "explanation": "begin 뒤에는 to부정사와 동명사가 모두 올 수 있고 뜻은 거의 같아요. 여기서는 swimming과 croaking 두 동명사가 and로 이어져 '헤엄치고 울기 시작했다'는 뜻이에요.",
+      "example": {
+        "en": "The baby began crying.",
+        "ko": "아기가 울기 시작했다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "mouse": {
+      "lemma": "mouse",
+      "pos": "noun",
+      "ko": "쥐",
+      "form": null,
+      "ipa": "/maʊs/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "frog": {
+      "lemma": "frog",
+      "pos": "noun",
+      "ko": "개구리",
+      "form": null,
+      "ipa": "/frɑːɡ/"
+    },
+    "struck": {
+      "lemma": "strike",
+      "pos": "verb",
+      "ko": "(strike up) (우정을) 맺었다",
+      "form": "과거형",
+      "synonyms": [
+        "started",
+        "began"
+      ],
+      "ipa": "/strʌk/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(strike up) 시작하여",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "friendship": {
+      "lemma": "friendship",
+      "pos": "noun",
+      "ko": "우정",
+      "form": null,
+      "synonyms": [
+        "companionship",
+        "bond"
+      ],
+      "ipa": "/ˈfrɛndʃɪp/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘",
+      "form": null,
+      "ipa": "/wɛl/"
+    },
+    "mated": {
+      "lemma": "mate",
+      "pos": "verb",
+      "ko": "짝지어진, 어울리는",
+      "form": "과거분사",
+      "synonyms": [
+        "matched",
+        "paired"
+      ],
+      "ipa": "/ˈmeɪtɪd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살았다",
+      "form": "과거형",
+      "synonyms": [
+        "dwelt"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "entirely": {
+      "lemma": "entirely",
+      "pos": "adverb",
+      "ko": "오로지, 완전히",
+      "form": null,
+      "synonyms": [
+        "only",
+        "wholly",
+        "completely"
+      ],
+      "ipa": "/ɪnˈtaɪərli/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "land": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "땅, 육지",
+      "form": null,
+      "synonyms": [
+        "ground",
+        "earth"
+      ],
+      "ipa": "/lænd/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "반면에; ~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "equally": {
+      "lemma": "equally",
+      "pos": "adverb",
+      "ko": "똑같이",
+      "form": null,
+      "synonyms": [
+        "just as"
+      ],
+      "ipa": "/ˈiːkwəli/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at home) 편안한; ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "noun",
+      "ko": "집 (at home: 편안한, 익숙한)",
+      "form": null,
+      "ipa": "/hoʊm/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에서; (in order that) ~하도록",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "form": null,
+      "ipa": "/ˈwɔːtər/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "(in order that) ~하도록",
+      "form": null,
+      "ipa": "/ˈɔːrdər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(in order that) ~하도록",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "might": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다, ~하도록",
+      "form": "과거형",
+      "ipa": "/maɪt/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "separated": {
+      "lemma": "separate",
+      "pos": "verb",
+      "ko": "떨어진, 갈라진",
+      "form": "과거분사",
+      "synonyms": [
+        "parted",
+        "divided"
+      ],
+      "ipa": "/ˈsɛpəˌreɪtɪd/"
+    },
+    "tied": {
+      "lemma": "tie",
+      "pos": "verb",
+      "ko": "묶었다",
+      "form": "과거형",
+      "synonyms": [
+        "bound",
+        "fastened"
+      ],
+      "ipa": "/taɪd/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "자기 자신을",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "jointly"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "(신체 부위)를; ~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "leg": {
+      "lemma": "leg",
+      "pos": "noun",
+      "ko": "다리",
+      "form": null,
+      "ipa": "/lɛɡ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로; ~와 함께; ~하여",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각, 한 가닥",
+      "form": null,
+      "synonyms": [
+        "bit",
+        "length"
+      ],
+      "ipa": "/piːs/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "thread": {
+      "lemma": "thread",
+      "pos": "noun",
+      "ko": "실",
+      "form": null,
+      "synonyms": [
+        "string",
+        "yarn"
+      ],
+      "ipa": "/θrɛd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as long as) ~하는 동안은, ~하는 한",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(as long as) ~하는 한",
+      "form": null,
+      "ipa": "/lɔːŋ/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep on) 계속 ~에 머물렀다",
+      "form": "과거형",
+      "synonyms": [
+        "stayed",
+        "remained"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "dry": {
+      "lemma": "dry",
+      "pos": "adjective",
+      "ko": "마른",
+      "form": null,
+      "synonyms": [
+        "arid"
+      ],
+      "ipa": "/draɪ/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(일이) 되어 갔다",
+      "form": "과거형",
+      "synonyms": [
+        "proceeded"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "fairly": {
+      "lemma": "fairly",
+      "pos": "adverb",
+      "ko": "꽤, 그럭저럭",
+      "form": null,
+      "synonyms": [
+        "quite",
+        "reasonably"
+      ],
+      "ipa": "/ˈfɛrli/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 이르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "arriving",
+        "reaching"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에, ~으로; ~하는 것 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "edge": {
+      "lemma": "edge",
+      "pos": "noun",
+      "ko": "가장자리",
+      "form": null,
+      "synonyms": [
+        "brink",
+        "bank",
+        "border"
+      ],
+      "ipa": "/ɛdʒ/"
+    },
+    "pool": {
+      "lemma": "pool",
+      "pos": "noun",
+      "ko": "연못, 웅덩이",
+      "form": null,
+      "synonyms": [
+        "pond"
+      ],
+      "ipa": "/puːl/"
+    },
+    "jumped": {
+      "lemma": "jump",
+      "pos": "verb",
+      "ko": "뛰어들었다",
+      "form": "과거형",
+      "synonyms": [
+        "leapt",
+        "sprang"
+      ],
+      "ipa": "/dʒʌmpt/"
+    },
+    "taking": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데리고 가다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "bringing",
+        "carrying"
+      ],
+      "ipa": "/ˈteɪkɪŋ/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작했다",
+      "form": "과거형",
+      "synonyms": [
+        "started"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "swimming": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄치기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "paddling"
+      ],
+      "ipa": "/ˈswɪmɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "이리저리",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "croaking": {
+      "lemma": "croak",
+      "pos": "verb",
+      "ko": "개굴개굴 울기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "ribbiting"
+      ],
+      "ipa": "/ˈkroʊkɪŋ/"
+    },
+    "pleasure": {
+      "lemma": "pleasure",
+      "pos": "noun",
+      "ko": "기쁨, 즐거움",
+      "form": null,
+      "synonyms": [
+        "delight",
+        "joy"
+      ],
+      "ipa": "/ˈplɛʒər/"
+    },
+    "unhappy": {
+      "lemma": "unhappy",
+      "pos": "adjective",
+      "ko": "불운한, 불쌍한",
+      "form": null,
+      "synonyms": [
+        "unlucky",
+        "wretched",
+        "poor"
+      ],
+      "ipa": "/ənˈhæpi/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly",
+        "quickly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "drowned": {
+      "lemma": "drown",
+      "pos": "verb",
+      "ko": "물에 빠져 죽었다",
+      "form": "과거분사",
+      "ipa": "/draʊnd/"
+    },
+    "floated": {
+      "lemma": "float",
+      "pos": "verb",
+      "ko": "떠다녔다",
+      "form": "과거형",
+      "synonyms": [
+        "drifted",
+        "bobbed"
+      ],
+      "ipa": "/ˈfloʊtəd/"
+    },
+    "surface": {
+      "lemma": "surface",
+      "pos": "noun",
+      "ko": "수면, 표면",
+      "form": null,
+      "synonyms": [
+        "top"
+      ],
+      "ipa": "/ˈsɜːrfəs/"
+    },
+    "wake": {
+      "lemma": "wake",
+      "pos": "noun",
+      "ko": "(배·헤엄친) 자국, 지나간 물살 (in the wake of: ~의 뒤를 따라)",
+      "form": null,
+      "synonyms": [
+        "trail",
+        "path"
+      ],
+      "ipa": "/weɪk/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기서, 그때",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (수컷)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "spied": {
+      "lemma": "spy",
+      "pos": "verb",
+      "ko": "발견된, 눈에 띈",
+      "form": "과거분사",
+      "synonyms": [
+        "spotted",
+        "noticed",
+        "seen"
+      ],
+      "ipa": "/spaɪd/"
+    },
+    "hawk": {
+      "lemma": "hawk",
+      "pos": "noun",
+      "ko": "매",
+      "form": null,
+      "ipa": "/hɔːk/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "그런데 그는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "pounced": {
+      "lemma": "pounce",
+      "pos": "verb",
+      "ko": "덮쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "swooped",
+        "leapt"
+      ],
+      "ipa": "/paʊnst/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "seized": {
+      "lemma": "seize",
+      "pos": "verb",
+      "ko": "움켜잡았다",
+      "form": "과거형",
+      "synonyms": [
+        "grabbed",
+        "grasped"
+      ],
+      "ipa": "/siːzd/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "talons": {
+      "lemma": "talon",
+      "pos": "noun",
+      "ko": "(맹금류의) 발톱",
+      "form": "복수형",
+      "synonyms": [
+        "claws"
+      ],
+      "ipa": "/ˈtælənz/"
+    },
+    "unable": {
+      "lemma": "unable",
+      "pos": "adjective",
+      "ko": "~할 수 없는",
+      "form": null,
+      "synonyms": [
+        "incapable"
+      ],
+      "ipa": "/əˈneɪbəl/"
+    },
+    "loose": {
+      "lemma": "loose",
+      "pos": "verb",
+      "ko": "풀다, 느슨하게 하다",
+      "form": null,
+      "synonyms": [
+        "untie",
+        "undo",
+        "unfasten"
+      ],
+      "ipa": "/luːs/"
+    },
+    "knot": {
+      "lemma": "knot",
+      "pos": "noun",
+      "ko": "매듭",
+      "form": null,
+      "synonyms": [
+        "tie",
+        "bow"
+      ],
+      "ipa": "/nɑːt/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "bound": {
+      "lemma": "bind",
+      "pos": "verb",
+      "ko": "묶었다",
+      "form": "과거형",
+      "synonyms": [
+        "tied",
+        "fastened"
+      ],
+      "ipa": "/baʊnd/"
+    },
+    "thus": {
+      "lemma": "thus",
+      "pos": "adverb",
+      "ko": "그래서, 따라서",
+      "form": null,
+      "synonyms": [
+        "therefore",
+        "so"
+      ],
+      "ipa": "/ðʌs/"
+    },
+    "carried": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "(carry off) 끌고 가다",
+      "form": "과거분사",
+      "synonyms": [
+        "taken",
+        "borne"
+      ],
+      "ipa": "/ˈkɛrid/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "멀리, 가 버려",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "(along with) ~와 함께",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "eaten": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹힌",
+      "form": "과거분사",
+      "synonyms": [
+        "devoured",
+        "consumed"
+      ],
+      "ipa": "/ˈiːtən/"
+    }
+  }
+}

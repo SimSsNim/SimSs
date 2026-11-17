@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-14-L1-part7",
+  "date": "2026-11-14",
+  "level": 1,
+  "title": "New Customer Service Hours",
+  "titleKo": "고객 서비스 데스크 운영 시간 변경 공지",
+  "genre": "notice",
+  "tags": [
+    "TOEIC Part 7",
+    "공지",
+    "고객 서비스"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 118,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "공지: 고객 서비스 데스크 운영 시간 변경"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "4월 7일 월요일부터 메이플우드 쇼핑센터의 고객 서비스 데스크 운영 시간이 바뀝니다. 월요일부터 토요일까지 데스크는 오전 9시에 열고 저녁 8시에 닫습니다. 일요일에는 오전 11시부터 저녁 6시까지 운영합니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "ko": "데스크에서 쇼핑객은 물건을 반품하고, 상품권을 사고, 유모차나 휠체어를 무료로 빌릴 수 있습니다. 분실물도 30일 동안 데스크에서 보관합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "많은 쇼핑객이 저녁에 더 늦게까지 운영해 달라고 요청해서 이번 변경이 이루어졌습니다. 이 시간 외에 도움이 필요한 쇼핑객은 안내 전화 555-0192로 연락하시면 됩니다. 메이플우드를 이용해 주셔서 감사합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Notice: New Customer Service Hours",
+      "ko": "공지: 고객 서비스 데스크 운영 시간 변경",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Starting on Monday, April 7, the customer service desk at Maplewood Shopping Center will change its hours.",
+      "ko": "4월 7일 월요일부터 메이플우드 쇼핑센터의 고객 서비스 데스크 운영 시간이 바뀝니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The desk will open at nine in the morning and close at eight in the evening, Monday through Saturday.",
+      "ko": "월요일부터 토요일까지 데스크는 오전 9시에 열고 저녁 8시에 닫습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "On Sundays, it will be open from eleven in the morning until six in the evening.",
+      "ko": "일요일에는 오전 11시부터 저녁 6시까지 운영합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "At the desk, shoppers can return items, buy gift cards, and borrow strollers or wheelchairs for free.",
+      "ko": "데스크에서 쇼핑객은 물건을 반품하고, 상품권을 사고, 유모차나 휠체어를 무료로 빌릴 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Lost items will also be kept at the desk for thirty days.",
+      "ko": "분실물도 30일 동안 데스크에서 보관합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "These changes were made because many shoppers asked for later evening hours.",
+      "ko": "많은 쇼핑객이 저녁에 더 늦게까지 운영해 달라고 요청해서 이번 변경이 이루어졌습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Shoppers who need help outside these hours can call our information line at 555-0192.",
+      "ko": "이 시간 외에 도움이 필요한 쇼핑객은 안내 전화 555-0192로 연락하시면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Thank you for shopping at Maplewood.",
+      "ko": "메이플우드를 이용해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "customer service desk",
+      "pos": "noun",
+      "meaningKo": "고객 서비스 데스크, 고객 센터",
+      "ipa": "/ˈkʌstəmər ˈsɜːrvɪs desk/",
+      "synonyms": [
+        "help desk",
+        "information desk"
+      ],
+      "matchText": "customer service desk",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Please ask at the customer service desk.",
+        "ko": "고객 서비스 데스크에 문의해 주세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "return",
+      "pos": "verb",
+      "meaningKo": "반품하다, 돌려주다",
+      "ipa": "/rɪˈtɜːrn/",
+      "synonyms": [
+        "give back",
+        "send back"
+      ],
+      "matchText": "return",
+      "sentenceId": "s5",
+      "example": {
+        "en": "You can return the shoes within two weeks.",
+        "ko": "그 신발은 2주 안에 반품할 수 있다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "borrow",
+      "pos": "verb",
+      "meaningKo": "빌리다",
+      "ipa": "/ˈbɑːroʊ/",
+      "synonyms": [
+        "rent",
+        "use"
+      ],
+      "matchText": "borrow",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Can I borrow your pen for a minute?",
+        "ko": "펜 좀 잠깐 빌릴 수 있을까요?"
+      }
+    },
+    {
+      "id": "v4",
+      "term": "for free",
+      "pos": "adverb",
+      "meaningKo": "무료로",
+      "ipa": "/fər ˈfriː/",
+      "synonyms": [
+        "free of charge",
+        "at no cost"
+      ],
+      "matchText": "for free",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Children can enter the museum for free.",
+        "ko": "어린이는 박물관에 무료로 들어갈 수 있다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "ask for",
+      "pos": "phrasal-verb",
+      "meaningKo": "~을 요청하다",
+      "ipa": "/æsk fɔːr/",
+      "synonyms": [
+        "request",
+        "call for"
+      ],
+      "matchText": "asked for",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The customer asked for a refund.",
+        "ko": "그 고객은 환불을 요청했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "At the desk,",
+          "role": "M",
+          "ko": "데스크에서"
+        },
+        {
+          "text": "shoppers",
+          "role": "S",
+          "ko": "쇼핑객은"
+        },
+        {
+          "text": "can return",
+          "role": "V",
+          "ko": "반품할 수 있다"
+        },
+        {
+          "text": "items,",
+          "role": "O",
+          "ko": "물건을"
+        },
+        {
+          "text": "buy",
+          "role": "V",
+          "ko": "사다"
+        },
+        {
+          "text": "gift cards,",
+          "role": "O",
+          "ko": "상품권을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "borrow",
+          "role": "V",
+          "ko": "빌리다"
+        },
+        {
+          "text": "strollers or wheelchairs",
+          "role": "O",
+          "ko": "유모차나 휠체어를"
+        },
+        {
+          "text": "for free.",
+          "role": "M",
+          "ko": "무료로"
+        }
+      ],
+      "skeleton": "shoppers can return items, buy gift cards, and borrow strollers",
+      "explanation": "조동사 can 뒤에 동사원형 세 개(return, buy, borrow)가 'A, B, and C' 형태로 나란히 이어졌다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "Shoppers",
+          "role": "S",
+          "ko": "쇼핑객은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "~하는",
+          "sub": true
+        },
+        {
+          "text": "need",
+          "role": "V",
+          "ko": "필요로 하다",
+          "sub": true
+        },
+        {
+          "text": "help",
+          "role": "O",
+          "ko": "도움을",
+          "sub": true
+        },
+        {
+          "text": "outside these hours",
+          "role": "M",
+          "ko": "이 시간 외에",
+          "sub": true
+        },
+        {
+          "text": "can call",
+          "role": "V",
+          "ko": "전화할 수 있다"
+        },
+        {
+          "text": "our information line",
+          "role": "O",
+          "ko": "안내 전화로"
+        },
+        {
+          "text": "at 555-0192.",
+          "role": "M",
+          "ko": "555-0192번으로"
+        }
+      ],
+      "skeleton": "Shoppers can call our information line",
+      "explanation": "who need help outside these hours가 앞의 Shoppers를 꾸미는 관계사절. 문장의 진짜 동사는 can call."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "from A until B",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "from eleven in the morning until six in the evening"
+      ],
+      "explanation": "from A until B = A부터 B까지. 시간의 시작과 끝을 함께 말할 때 쓴다.",
+      "example": {
+        "en": "The store is open from ten until nine.",
+        "ko": "그 가게는 10시부터 9시까지 연다."
+      },
+      "note": "from이 보이면 짝이 되는 until/to를 고른다."
+    },
+    {
+      "id": "g2",
+      "title": "미래 수동태 will be kept",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "will also be kept"
+      ],
+      "explanation": "분실물(Lost items)은 스스로 보관하는 것이 아니라 '보관되는' 것이라 will be + 과거분사.",
+      "example": {
+        "en": "Your bags will be kept in a safe place.",
+        "ko": "가방은 안전한 곳에 보관될 것이다."
+      },
+      "note": "사물 주어 + 빈칸 + 전치사구 → 수동태 자리일 가능성이 높다."
+    },
+    {
+      "id": "g3",
+      "title": "사람을 꾸미는 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "Shoppers who need help"
+      ],
+      "explanation": "who는 사람 명사 뒤에서 '~하는 (사람)'이라는 뜻으로 꾸며 준다. who 뒤에는 동사가 바로 온다.",
+      "example": {
+        "en": "Employees who work late can take a taxi.",
+        "ko": "늦게까지 일하는 직원은 택시를 탈 수 있다."
+      },
+      "note": "사람 명사 + 빈칸 + 동사 → who."
+    }
+  ],
+  "glossary": {
+    "notice": {
+      "lemma": "notice",
+      "pos": "noun",
+      "ko": "공지, 안내문",
+      "synonyms": [
+        "announcement",
+        "bulletin"
+      ],
+      "ipa": "/ˈnoʊtəs/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "synonyms": [
+        "latest",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "synonyms": [
+        "client",
+        "shopper"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스",
+      "synonyms": [
+        "assistance",
+        "support"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "(운영) 시간",
+      "form": "복수형",
+      "synonyms": [
+        "times",
+        "schedule"
+      ],
+      "ipa": "/ˈaʊərz/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(Starting on: ~부터)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beginning"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·층)",
+      "ipa": "/ɑːn/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "ipa": "/ˈmʌndi/"
+    },
+    "april": {
+      "lemma": "April",
+      "pos": "proper-noun",
+      "ko": "4월",
+      "ipa": "/ˈeɪprəl/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "(안내) 데스크, 창구",
+      "synonyms": [
+        "counter",
+        "help desk"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서; ~에 (시각); ~번으로 (전화)",
+      "ipa": "/æt/"
+    },
+    "maplewood": {
+      "lemma": "Maplewood",
+      "pos": "proper-noun",
+      "ko": "메이플우드(쇼핑센터 이름)",
+      "ipa": "/ˈmeɪpəlˌwʊd/"
+    },
+    "shopping": {
+      "lemma": "shopping",
+      "pos": "noun",
+      "ko": "쇼핑, 물건 사기",
+      "synonyms": [
+        "buying"
+      ],
+      "ipa": "/ˈʃɑːpɪŋ/"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터, 중심 시설",
+      "synonyms": [
+        "complex",
+        "mall"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "verb",
+      "ko": "바꾸다, 바뀌다",
+      "synonyms": [
+        "alter",
+        "adjust"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "ipa": "/ɪts/"
+    },
+    "open": {
+      "lemma": "open",
+      "pos": "adjective",
+      "ko": "문을 연, 운영 중인",
+      "synonyms": [
+        "operating"
+      ],
+      "ipa": "/ˈoʊpən/"
+    },
+    "nine": {
+      "lemma": "nine",
+      "pos": "number",
+      "ko": "9, 아홉 (시)",
+      "ipa": "/naɪn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "close": {
+      "lemma": "close",
+      "pos": "verb",
+      "ko": "문을 닫다",
+      "synonyms": [
+        "shut"
+      ],
+      "ipa": "/kloʊs/"
+    },
+    "eight": {
+      "lemma": "eight",
+      "pos": "number",
+      "ko": "8, 여덟 (시)",
+      "ipa": "/eɪt/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁",
+      "synonyms": [
+        "night"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "(Monday through Saturday: 월요일부터 토요일까지)",
+      "ipa": "/θruː/"
+    },
+    "saturday": {
+      "lemma": "Saturday",
+      "pos": "proper-noun",
+      "ko": "토요일",
+      "ipa": "/ˈsætərdi/"
+    },
+    "sundays": {
+      "lemma": "Sunday",
+      "pos": "proper-noun",
+      "ko": "일요일마다",
+      "form": "복수형",
+      "ipa": "/ˈsʌnˌdeɪz/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (데스크)",
+      "ipa": "/ɪt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (be동사 원형)",
+      "ipa": "/biː/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~부터",
+      "ipa": "/frʌm/"
+    },
+    "eleven": {
+      "lemma": "eleven",
+      "pos": "number",
+      "ko": "11, 열하나 (시)",
+      "ipa": "/ɪˈlɛvən/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "preposition",
+      "ko": "~까지",
+      "ipa": "/ənˈtɪl/"
+    },
+    "six": {
+      "lemma": "six",
+      "pos": "number",
+      "ko": "6, 여섯 (시)",
+      "ipa": "/sɪks/"
+    },
+    "shoppers": {
+      "lemma": "shopper",
+      "pos": "noun",
+      "ko": "쇼핑객",
+      "form": "복수형",
+      "synonyms": [
+        "customers",
+        "buyers"
+      ],
+      "ipa": "/ˈʃɑːpərz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "반품하다",
+      "synonyms": [
+        "give back",
+        "send back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물건, 물품",
+      "form": "복수형",
+      "synonyms": [
+        "goods",
+        "products"
+      ],
+      "ipa": "/ˈaɪtəmz/"
+    },
+    "buy": {
+      "lemma": "buy",
+      "pos": "verb",
+      "ko": "사다",
+      "synonyms": [
+        "purchase",
+        "get"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "gift": {
+      "lemma": "gift",
+      "pos": "noun",
+      "ko": "선물 (gift card: 상품권)",
+      "synonyms": [
+        "present"
+      ],
+      "ipa": "/ɡɪft/"
+    },
+    "cards": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드",
+      "form": "복수형",
+      "ipa": "/kɑːrdz/"
+    },
+    "borrow": {
+      "lemma": "borrow",
+      "pos": "verb",
+      "ko": "빌리다",
+      "synonyms": [
+        "rent",
+        "use"
+      ],
+      "ipa": "/ˈbɑːˌroʊ/"
+    },
+    "strollers": {
+      "lemma": "stroller",
+      "pos": "noun",
+      "ko": "유모차",
+      "form": "복수형",
+      "synonyms": [
+        "baby carriages",
+        "pushchairs"
+      ],
+      "ipa": "/ˈstroʊlərz/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "ipa": "/ɔːr/"
+    },
+    "wheelchairs": {
+      "lemma": "wheelchair",
+      "pos": "noun",
+      "ko": "휠체어",
+      "form": "복수형",
+      "ipa": "/ˈwiːlˌtʃɛrz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안 (for thirty days); for free: 무료로",
+      "ipa": "/fɔːr/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의 (for free: 무료로)",
+      "synonyms": [
+        "complimentary"
+      ],
+      "ipa": "/friː/"
+    },
+    "lost": {
+      "lemma": "lose",
+      "pos": "adjective",
+      "ko": "잃어버린, 분실된",
+      "form": "과거분사",
+      "synonyms": [
+        "missing",
+        "misplaced"
+      ],
+      "ipa": "/lɔːst/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "synonyms": [
+        "too",
+        "additionally"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "보관되는",
+      "form": "과거분사",
+      "synonyms": [
+        "stored",
+        "held"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "pos": "number",
+      "ko": "30, 서른",
+      "ipa": "/ˈθɜːrˌdiː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날들 (business days: 영업일)",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "these": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이 ~들",
+      "form": "복수형",
+      "ipa": "/ðiːz/"
+    },
+    "changes": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변화, 변경 사항",
+      "form": "복수형",
+      "synonyms": [
+        "adjustments",
+        "modifications"
+      ],
+      "ipa": "/ˈtʃeɪndʒəz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다 (be동사)",
+      "form": "과거형(복수)",
+      "ipa": "/wɜːr/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "이루어진 (were made)",
+      "form": "과거분사",
+      "synonyms": [
+        "carried out",
+        "done"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "ipa": "/ˈmɛni/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "(asked for: 요청했다)",
+      "form": "과거형",
+      "synonyms": [
+        "requested"
+      ],
+      "ipa": "/æskt/"
+    },
+    "later": {
+      "lemma": "late",
+      "pos": "adjective",
+      "ko": "더 늦은",
+      "form": "비교급",
+      "ipa": "/ˈleɪtər/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "ipa": "/huː/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다",
+      "synonyms": [
+        "require",
+        "want"
+      ],
+      "ipa": "/niːd/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "noun",
+      "ko": "도움",
+      "synonyms": [
+        "assistance",
+        "support"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "outside": {
+      "lemma": "outside",
+      "pos": "preposition",
+      "ko": "~ 밖에, ~ 외에",
+      "ipa": "/ˈaʊtˈsaɪd/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다",
+      "synonyms": [
+        "phone",
+        "contact"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "ipa": "/ˈaʊər/"
+    },
+    "information": {
+      "lemma": "information",
+      "pos": "noun",
+      "ko": "안내, 정보",
+      "synonyms": [
+        "details"
+      ],
+      "ipa": "/ˌɪnfərˈmeɪʃən/"
+    },
+    "line": {
+      "lemma": "line",
+      "pos": "noun",
+      "ko": "(전화) 회선, 번호",
+      "synonyms": [
+        "number",
+        "phone line"
+      ],
+      "ipa": "/laɪn/"
+    },
+    "555-0192": {
+      "lemma": "555-0192",
+      "pos": "number",
+      "ko": "전화번호 555-0192",
+      "ipa": null
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "ipa": "/juː/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the purpose of the notice?",
+      "evidenceSentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To announce the opening of a new shopping center"
+        },
+        {
+          "key": "B",
+          "text": "To tell shoppers about a change in a desk's opening times"
+        },
+        {
+          "key": "C",
+          "text": "To advertise a sale on gift cards"
+        },
+        {
+          "key": "D",
+          "text": "To ask shoppers to return lost items"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "제목과 첫 문장에서 고객 서비스 데스크의 운영 시간(hours)이 바뀐다고 알린다. change its hours → a change in opening times로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "A": "쇼핑센터는 이미 있고, 새로 연다는 말은 없다.",
+        "C": "상품권은 데스크에서 살 수 있다고만 나온다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "Why were the changes made?",
+      "evidenceSentenceIds": [
+        "s7"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "The shopping center hired more staff."
+        },
+        {
+          "key": "B",
+          "text": "The desk was moved to a new location."
+        },
+        {
+          "key": "C",
+          "text": "Fewer people visited on Sundays."
+        },
+        {
+          "key": "D",
+          "text": "Customers wanted the desk to stay open later."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "많은 쇼핑객이 저녁에 더 늦은 시간(later evening hours)을 요청했다고 한다. asked for later evening hours → wanted the desk to stay open later.",
+      "choiceNotesKo": {
+        "C": "일요일 방문객 수에 대한 내용은 없다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-not-true",
+      "prompt": "What is NOT mentioned as a service at the desk?",
+      "evidenceSentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Wrapping gifts"
+        },
+        {
+          "key": "B",
+          "text": "Accepting returned goods"
+        },
+        {
+          "key": "C",
+          "text": "Selling gift cards"
+        },
+        {
+          "key": "D",
+          "text": "Lending wheelchairs"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "반품(return items), 상품권 판매(buy gift cards), 휠체어 대여(borrow wheelchairs)는 나오지만 선물 포장은 없다.",
+      "choiceNotesKo": {
+        "B": "return items → accepting returned goods로 바꿔 말한 것.",
+        "D": "borrow wheelchairs → lending wheelchairs. 빌려 주는 쪽에서 말한 표현."
+      },
+      "skill": "사실이 아닌 것(NOT)"
+    }
+  ]
+}

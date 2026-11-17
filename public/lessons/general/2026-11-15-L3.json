@@ -1,0 +1,1682 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-15-L3",
+  "date": "2026-11-15",
+  "level": 3,
+  "title": "The Nightingale and the Rose",
+  "titleKo": "나이팅게일과 장미",
+  "genre": "fairy-tale",
+  "tags": [
+    "Oscar Wilde",
+    "fairy tale",
+    "literary fairy tale"
+  ],
+  "source": {
+    "work": "The Nightingale and the Rose (The Happy Prince and Other Tales)",
+    "author": "Oscar Wilde",
+    "translator": null,
+    "year": 1888,
+    "edition": "Project Gutenberg #902",
+    "url": "https://www.gutenberg.org/ebooks/902",
+    "license": "public-domain",
+    "excerptNote": "8~18단락 (\"“Why is he weeping?” asked a little Green Lizard…\" ~ \"…and perhaps he will give you what you want.”\"). 학생이 붉은 장미가 없어 우는 첫머리(1~7단락) 바로 다음 장면으로, 나이팅게일이 첫 번째(흰) 장미나무를 찾아가는 부분까지. 첫머리 단락들은 단락 경계에서 200~250단어로 끊기지 않아(1~4단락 177단어, 1~5단락 273단어) 이어지는 장면을 골랐음. 줄바꿈은 한 칸 띄어쓰기로 잇고, 문장 사이 두 칸 띄어쓰기는 한 칸으로 바꿈"
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/thehappyprinceandothertales_1411_librivox/thehappyprinceandothertales_02_wilde_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/thehappyprinceandothertales_1411_librivox/thehappyprinceandothertales_02_wilde_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-happy-prince-and-other-tales-by-oscar-wilde-2/",
+    "reader": "Phil Chenevert",
+    "durationSec": 956,
+    "startSec": 190,
+    "endSec": 280,
+    "note": "트랙 02 'The Nightingale and the Rose'(15:56) 중 앞부분. 안내 멘트와 1~7단락(434단어) 뒤, 대략 3:10~4:40 부분 (단어 수로 어림한 위치). 음원 대본은 Project Gutenberg #30120(같은 책의 다른 전자판)으로, 이 발췌 부분의 단어·구두점은 #902와 같음(따옴표 모양만 다름)"
+  },
+  "wordCount": 219,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "“그는 왜 울고 있지?” 꼬리를 공중에 치켜든 채 그의 곁을 달려 지나가던 작은 초록 도마뱀이 물었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "“그러게, 정말 왜일까?” 햇살 한 줄기를 쫓아 팔랑팔랑 날아다니던 나비가 말했다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "“그러게, 정말 왜일까?” 데이지 꽃이 이웃에게 부드럽고 나지막한 목소리로 속삭였다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "“붉은 장미 한 송이 때문에 울고 있는 거야.” 나이팅게일이 말했다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "“붉은 장미 때문에?” 그들이 외쳤다. “정말 어처구니없군!” 그리고 세상을 좀 비꼬아 보는 성격이던 작은 도마뱀은 대놓고 깔깔 웃었다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "하지만 나이팅게일은 학생이 슬퍼하는 이유를 알고 있었다. 그래서 떡갈나무 위에 말없이 앉아 사랑의 신비에 대해 곰곰이 생각했다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "갑자기 나이팅게일은 날아오르려고 갈색 날개를 펼치더니 하늘 높이 솟아올랐다. 그녀는 그림자처럼 작은 숲을 지나, 그림자처럼 정원을 가로질러 미끄러지듯 날아갔다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "잔디밭 한가운데에는 아름다운 장미나무 한 그루가 서 있었다. 나이팅게일은 그것을 보자 그쪽으로 날아가 작은 가지 위에 내려앉았다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "“제게 붉은 장미 한 송이를 주세요.” 나이팅게일이 외쳤다. “그러면 당신에게 제 가장 아름다운 노래를 불러 드릴게요.”"
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "하지만 나무는 고개를 저었다."
+    },
+    {
+      "id": "p11",
+      "sentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "ko": "“내 장미는 하얗단다.” 나무가 대답했다. “바다의 물거품만큼 하얗고, 산 위의 눈보다도 더 하얗지. 하지만 해시계 둘레에서 자라는 내 형제에게 가 보렴. 어쩌면 그가 네가 원하는 것을 줄지도 몰라.”"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "“Why is he weeping?” asked a little Green Lizard, as he ran past him with his tail in the air.",
+      "ko": "“그는 왜 울고 있지?” 꼬리를 공중에 치켜든 채 그의 곁을 달려 지나가던 작은 초록 도마뱀이 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "“Why, indeed?” said a Butterfly, who was fluttering about after a sunbeam.",
+      "ko": "“그러게, 정말 왜일까?” 햇살 한 줄기를 쫓아 팔랑팔랑 날아다니던 나비가 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "“Why, indeed?” whispered a Daisy to his neighbour, in a soft, low voice.",
+      "ko": "“그러게, 정말 왜일까?” 데이지 꽃이 이웃에게 부드럽고 나지막한 목소리로 속삭였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "“He is weeping for a red rose,” said the Nightingale.",
+      "ko": "“붉은 장미 한 송이 때문에 울고 있는 거야.” 나이팅게일이 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "“For a red rose?” they cried; “how very ridiculous!” and the little Lizard, who was something of a cynic, laughed outright.",
+      "ko": "“붉은 장미 때문에?” 그들이 외쳤다. “정말 어처구니없군!” 그리고 세상을 좀 비꼬아 보는 성격이던 작은 도마뱀은 대놓고 깔깔 웃었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "But the Nightingale understood the secret of the Student’s sorrow, and she sat silent in the oak-tree, and thought about the mystery of Love.",
+      "ko": "하지만 나이팅게일은 학생이 슬퍼하는 이유를 알고 있었다. 그래서 떡갈나무 위에 말없이 앉아 사랑의 신비에 대해 곰곰이 생각했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "Suddenly she spread her brown wings for flight, and soared into the air.",
+      "ko": "갑자기 나이팅게일은 날아오르려고 갈색 날개를 펼치더니 하늘 높이 솟아올랐다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p7",
+      "en": "She passed through the grove like a shadow, and like a shadow she sailed across the garden.",
+      "ko": "그녀는 그림자처럼 작은 숲을 지나, 그림자처럼 정원을 가로질러 미끄러지듯 날아갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p8",
+      "en": "In the centre of the grass-plot was standing a beautiful Rose-tree, and when she saw it she flew over to it, and lit upon a spray.",
+      "ko": "잔디밭 한가운데에는 아름다운 장미나무 한 그루가 서 있었다. 나이팅게일은 그것을 보자 그쪽으로 날아가 작은 가지 위에 내려앉았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p9",
+      "en": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
+      "ko": "“제게 붉은 장미 한 송이를 주세요.” 나이팅게일이 외쳤다. “그러면 당신에게 제 가장 아름다운 노래를 불러 드릴게요.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p10",
+      "en": "But the Tree shook its head.",
+      "ko": "하지만 나무는 고개를 저었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p11",
+      "en": "“My roses are white,” it answered; “as white as the foam of the sea, and whiter than the snow upon the mountain.",
+      "ko": "“내 장미는 하얗단다.” 나무가 대답했다. “바다의 물거품만큼 하얗고, 산 위의 눈보다도 더 하얗지.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p11",
+      "en": "But go to my brother who grows round the old sun-dial, and perhaps he will give you what you want.”",
+      "ko": "하지만 해시계 둘레에서 자라는 내 형제에게 가 보렴. 어쩌면 그가 네가 원하는 것을 줄지도 몰라.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "flutter",
+      "pos": "verb",
+      "meaningKo": "(나비·새가) 팔랑거리며 날다",
+      "ipa": "/ˈflʌtər/",
+      "synonyms": [
+        "flit",
+        "flap",
+        "hover"
+      ],
+      "matchText": "fluttering",
+      "sentenceId": "s2",
+      "example": {
+        "en": "A small bird was fluttering around the window.",
+        "ko": "작은 새 한 마리가 창문 주위를 파닥이며 날고 있었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "ridiculous",
+      "pos": "adjective",
+      "meaningKo": "터무니없는, 어처구니없는",
+      "ipa": "/rɪˈdɪkjələs/",
+      "synonyms": [
+        "absurd",
+        "silly",
+        "foolish"
+      ],
+      "matchText": "ridiculous",
+      "sentenceId": "s5",
+      "example": {
+        "en": "It is ridiculous to cry over such a small thing.",
+        "ko": "그런 사소한 일로 우는 건 어처구니없는 일이다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "cynic",
+      "pos": "noun",
+      "meaningKo": "냉소적인 사람, 매사를 비꼬아 보는 사람",
+      "ipa": "/ˈsɪnɪk/",
+      "synonyms": [
+        "skeptic",
+        "doubter",
+        "pessimist"
+      ],
+      "matchText": "cynic",
+      "sentenceId": "s5",
+      "example": {
+        "en": "He is such a cynic that he never believes anyone is truly kind.",
+        "ko": "그는 워낙 냉소적인 사람이라 누가 진심으로 친절하다고는 절대 믿지 않는다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "soar",
+      "pos": "verb",
+      "meaningKo": "(하늘 높이) 날아오르다, 솟구치다",
+      "ipa": "/sɔːr/",
+      "synonyms": [
+        "rise",
+        "fly up",
+        "ascend"
+      ],
+      "matchText": "soared",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The eagle soared high above the mountains.",
+        "ko": "독수리가 산 위로 높이 날아올랐다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "light upon",
+      "pos": "phrasal-verb",
+      "meaningKo": "(새 등이) ~에 내려앉다",
+      "ipa": "/laɪt əˈpɑːn/",
+      "synonyms": [
+        "land on",
+        "settle on",
+        "alight on"
+      ],
+      "matchText": "lit upon",
+      "sentenceId": "s9",
+      "example": {
+        "en": "A butterfly lit upon her shoulder for a moment.",
+        "ko": "나비 한 마리가 잠깐 그녀의 어깨에 내려앉았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "“For a red rose?”",
+          "role": "M",
+          "ko": "“붉은 장미 때문에?”"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그들이"
+        },
+        {
+          "text": "cried;",
+          "role": "V",
+          "ko": "외쳤다"
+        },
+        {
+          "text": "“how very ridiculous!”",
+          "role": "M",
+          "ko": "“정말 어처구니없군!”"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "the little Lizard,",
+          "role": "S",
+          "ko": "작은 도마뱀은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그는)",
+          "sub": true
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~였다",
+          "sub": true
+        },
+        {
+          "text": "something of a cynic,",
+          "role": "C",
+          "ko": "약간 냉소적인 사람",
+          "sub": true
+        },
+        {
+          "text": "laughed",
+          "role": "V",
+          "ko": "웃었다"
+        },
+        {
+          "text": "outright.",
+          "role": "M",
+          "ko": "대놓고"
+        }
+      ],
+      "skeleton": "they cried; and the little Lizard laughed",
+      "explanation": "인용문 두 개 사이에 'they cried(그들이 외쳤다)'가 끼어 있고, and 뒤에 새 주어 the little Lizard와 동사 laughed가 온다. 쉼표 사이의 'who was something of a cynic'은 도마뱀이 어떤 성격인지 덧붙여 설명하는 관계대명사절(계속적 용법)이다. something of a ~ 는 '약간 ~ 같은 사람/것'이라는 뜻."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "In the centre of the grass-plot",
+          "role": "M",
+          "ko": "잔디밭 한가운데에"
+        },
+        {
+          "text": "was standing",
+          "role": "V",
+          "ko": "서 있었다"
+        },
+        {
+          "text": "a beautiful Rose-tree,",
+          "role": "S",
+          "ko": "아름다운 장미나무 한 그루가"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~했을 때",
+          "sub": true
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "ko": "그녀가",
+          "sub": true
+        },
+        {
+          "text": "saw",
+          "role": "V",
+          "ko": "보았다",
+          "sub": true
+        },
+        {
+          "text": "it",
+          "role": "O",
+          "ko": "그것을",
+          "sub": true
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "ko": "그녀는"
+        },
+        {
+          "text": "flew",
+          "role": "V",
+          "ko": "날아갔다"
+        },
+        {
+          "text": "over to it,",
+          "role": "M",
+          "ko": "그쪽으로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "lit",
+          "role": "V",
+          "ko": "내려앉았다"
+        },
+        {
+          "text": "upon a spray.",
+          "role": "M",
+          "ko": "작은 가지 위에"
+        }
+      ],
+      "skeleton": "was standing a beautiful Rose-tree (= a beautiful Rose-tree was standing), and she flew ... and lit",
+      "explanation": "장소를 나타내는 부사구(In the centre of the grass-plot)가 문장 맨 앞에 나오면서 동사 was standing이 주어 a beautiful Rose-tree보다 먼저 왔다(도치). and 뒤에서는 when절(그것을 보았을 때)이 먼저 나오고, 주어 she에 동사 두 개(flew, lit)가 and로 이어진다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s13",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "ko": "하지만"
+        },
+        {
+          "text": "go",
+          "role": "V",
+          "ko": "가 보렴"
+        },
+        {
+          "text": "to my brother",
+          "role": "M",
+          "ko": "내 형제에게"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그는)",
+          "sub": true
+        },
+        {
+          "text": "grows",
+          "role": "V",
+          "ko": "자란다",
+          "sub": true
+        },
+        {
+          "text": "round the old sun-dial,",
+          "role": "M",
+          "ko": "오래된 해시계 둘레에서",
+          "sub": true
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그러면"
+        },
+        {
+          "text": "perhaps",
+          "role": "M",
+          "ko": "어쩌면"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그가"
+        },
+        {
+          "text": "will give",
+          "role": "V",
+          "ko": "줄 것이다"
+        },
+        {
+          "text": "you",
+          "role": "IO",
+          "ko": "너에게"
+        },
+        {
+          "text": "what you want.”",
+          "role": "O",
+          "ko": "네가 원하는 것을"
+        }
+      ],
+      "skeleton": "go to my brother, and he will give you what you want",
+      "explanation": "'명령문 + and ~'는 '~해라, 그러면 …할 것이다'라는 뜻이다. who grows round the old sun-dial은 my brother를 꾸미는 관계대명사절. 뒤 문장은 give + 간접목적어(you) + 직접목적어(what you want)의 4형식이고, what you want는 '네가 원하는 것'이라는 명사절이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "관계대명사 who의 계속적 용법 (, who ~,)",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "a Butterfly, who was fluttering about after a sunbeam"
+      ],
+      "explanation": "앞 명사 뒤에 쉼표를 찍고 who를 쓰면, 그 사람(동물)에 대한 정보를 덧붙여 설명하는 '계속적 용법'이 된다. '그런데 그 나비는 햇살을 쫓아 날아다니고 있었다' 정도로 풀어 읽으면 자연스럽다. 5번째 문장의 'the little Lizard, who was something of a cynic,'도 같은 쓰임이다. 반대로 13번째 문장의 'my brother who grows round the old sun-dial'은 쉼표 없이 어느 형제인지 범위를 좁혀 주는 한정적 용법이다.",
+      "example": {
+        "en": "I met Tom, who had just come back from London.",
+        "ko": "나는 톰을 만났는데, 그는 막 런던에서 돌아온 참이었다."
+      },
+      "note": "was fluttering은 과거진행형(~하고 있었다). about은 '이리저리'라는 부사로 쓰였다."
+    },
+    {
+      "id": "g2",
+      "title": "장소 부사구 도치: 장소 + 동사 + 주어",
+      "tags": [
+        "도치"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "In the centre of the grass-plot was standing a beautiful Rose-tree"
+      ],
+      "explanation": "원래 어순은 'A beautiful Rose-tree was standing in the centre of the grass-plot.'이다. 장소를 나타내는 부사구를 문장 맨 앞으로 보내면 '동사 + 주어' 순서로 바뀌는 경우가 많다(도치). 이렇게 하면 읽는 사람의 눈이 먼저 장소로 향했다가 새로운 대상(장미나무)에 도착하므로, 이야기 속 장면이 그림처럼 펼쳐지는 효과가 있다.",
+      "example": {
+        "en": "On the hill stood an old castle.",
+        "ko": "언덕 위에는 오래된 성 하나가 서 있었다."
+      },
+      "note": "centre는 영국식 철자(미국식 center)."
+    },
+    {
+      "id": "g3",
+      "title": "비교: as + 원급 + as / 비교급 + than",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "as white as the foam of the sea",
+        "whiter than the snow"
+      ],
+      "explanation": "'as 원급 as A'는 'A만큼 ~한', '비교급 + than A'는 'A보다 더 ~한'이라는 뜻이다. 장미나무는 자기 장미가 바다 물거품만큼 하얗고, 산 위의 눈보다 더 하얗다며 하얀색을 두 단계로 강조한다. 그만큼 하얗다는 것은 곧 나이팅게일이 원하는 '붉은' 장미와는 거리가 멀다는 뜻이기도 하다.",
+      "example": {
+        "en": "Her hands were as cold as ice, and colder than the window glass.",
+        "ko": "그녀의 손은 얼음처럼 차가웠고, 유리창보다도 더 차가웠다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "why": {
+      "lemma": "why",
+      "pos": "adverb",
+      "ko": "왜",
+      "synonyms": [
+        "for what reason"
+      ],
+      "ipa": "/waɪ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (학생/형제 장미나무)",
+      "ipa": "/hiː/"
+    },
+    "weeping": {
+      "lemma": "weep",
+      "pos": "verb",
+      "ko": "울다, 눈물을 흘리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "cry",
+        "sob"
+      ],
+      "ipa": "/ˈwiːpɪŋ/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거형",
+      "synonyms": [
+        "inquire",
+        "question"
+      ],
+      "ipa": "/æskt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "초록색의",
+      "synonyms": [
+        "emerald",
+        "verdant"
+      ],
+      "ipa": "/ɡriːn/"
+    },
+    "lizard": {
+      "lemma": "lizard",
+      "pos": "noun",
+      "ko": "도마뱀",
+      "synonyms": [
+        "reptile",
+        "gecko"
+      ],
+      "ipa": "/ˈlɪzərd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하면서, ~할 때; ~만큼 (as ~ as)",
+      "ipa": "/æz/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "달리다",
+      "form": "과거형",
+      "synonyms": [
+        "dash",
+        "hurry"
+      ],
+      "ipa": "/ræn/"
+    },
+    "past": {
+      "lemma": "past",
+      "pos": "preposition",
+      "ko": "~을 지나서",
+      "ipa": "/pæst/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를 (학생)",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~한 채로, ~을 가지고",
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "ipa": "/hɪz/"
+    },
+    "tail": {
+      "lemma": "tail",
+      "pos": "noun",
+      "ko": "꼬리",
+      "synonyms": [
+        "brush"
+      ],
+      "ipa": "/teɪl/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "air": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "공중, 하늘",
+      "synonyms": [
+        "sky"
+      ],
+      "ipa": "/ɛr/"
+    },
+    "indeed": {
+      "lemma": "indeed",
+      "pos": "adverb",
+      "ko": "정말, 참으로",
+      "synonyms": [
+        "really",
+        "truly"
+      ],
+      "ipa": "/ˌɪnˈdiːd/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "remark",
+        "reply"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "butterfly": {
+      "lemma": "butterfly",
+      "pos": "noun",
+      "ko": "나비",
+      "synonyms": [
+        "moth"
+      ],
+      "ipa": "/ˈbʌtərˌflaɪ/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그런데 그는, ~하는",
+      "ipa": "/huː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~였다; (진행형) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "fluttering": {
+      "lemma": "flutter",
+      "pos": "verb",
+      "ko": "팔랑거리며 날다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "flit",
+        "flap",
+        "hover"
+      ],
+      "ipa": "/ˈflʌtərɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "이리저리, 여기저기",
+      "ipa": "/əˈbaʊt/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~을 쫓아서",
+      "ipa": "/ˈæftər/"
+    },
+    "sunbeam": {
+      "lemma": "sunbeam",
+      "pos": "noun",
+      "ko": "햇살, 햇빛 한 줄기",
+      "synonyms": [
+        "sunray",
+        "ray of sunlight"
+      ],
+      "ipa": "/ˈsʌnˌbiːm/"
+    },
+    "whispered": {
+      "lemma": "whisper",
+      "pos": "verb",
+      "ko": "속삭이다",
+      "form": "과거형",
+      "synonyms": [
+        "murmur",
+        "breathe"
+      ],
+      "ipa": "/ˈwɪspərd/"
+    },
+    "daisy": {
+      "lemma": "daisy",
+      "pos": "noun",
+      "ko": "데이지 (꽃)",
+      "synonyms": [
+        "flower"
+      ],
+      "ipa": "/ˈdeɪzi/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로",
+      "ipa": "/tuː/"
+    },
+    "neighbour": {
+      "lemma": "neighbour",
+      "pos": "noun",
+      "ko": "이웃 (영국식 철자)",
+      "synonyms": [
+        "neighbor"
+      ],
+      "ipa": "/ˈneɪbər/"
+    },
+    "soft": {
+      "lemma": "soft",
+      "pos": "adjective",
+      "ko": "부드러운",
+      "synonyms": [
+        "gentle",
+        "quiet"
+      ],
+      "ipa": "/sɑːft/"
+    },
+    "low": {
+      "lemma": "low",
+      "pos": "adjective",
+      "ko": "(목소리가) 낮은, 나지막한",
+      "synonyms": [
+        "quiet",
+        "hushed"
+      ],
+      "ipa": "/loʊ/"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "synonyms": [
+        "tone",
+        "speech"
+      ],
+      "ipa": "/vɔɪs/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 때문에; ~을 위해",
+      "ipa": "/fɔːr/"
+    },
+    "red": {
+      "lemma": "red",
+      "pos": "adjective",
+      "ko": "붉은, 빨간",
+      "synonyms": [
+        "crimson",
+        "scarlet"
+      ],
+      "ipa": "/rɛd/"
+    },
+    "rose": {
+      "lemma": "rose",
+      "pos": "noun",
+      "ko": "장미",
+      "synonyms": [
+        "bloom",
+        "flower"
+      ],
+      "ipa": "/roʊz/"
+    },
+    "nightingale": {
+      "lemma": "nightingale",
+      "pos": "noun",
+      "ko": "나이팅게일 (밤에 우는 작은 새)",
+      "synonyms": [
+        "songbird"
+      ],
+      "ipa": "/ˈnaɪtɪŋɡeɪl/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들 (도마뱀·나비·데이지)",
+      "ipa": "/ðeɪ/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다, 소리치다",
+      "form": "과거형",
+      "synonyms": [
+        "exclaim",
+        "shout"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나 (감탄)",
+      "ipa": "/haʊ/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 정말",
+      "synonyms": [
+        "extremely",
+        "really"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "ridiculous": {
+      "lemma": "ridiculous",
+      "pos": "adjective",
+      "ko": "터무니없는, 어처구니없는",
+      "synonyms": [
+        "absurd",
+        "silly",
+        "foolish"
+      ],
+      "ipa": "/rɪˈdɪkjələs/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고; 그러면 (명령문 뒤)",
+      "ipa": "/ənd/"
+    },
+    "something": {
+      "lemma": "something",
+      "pos": "pronoun",
+      "ko": "(something of a ~) 약간 ~ 같은 것",
+      "ipa": "/ˈsʌmθɪŋ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "cynic": {
+      "lemma": "cynic",
+      "pos": "noun",
+      "ko": "냉소적인 사람",
+      "synonyms": [
+        "skeptic",
+        "doubter"
+      ],
+      "ipa": "/ˈsɪnɪk/"
+    },
+    "laughed": {
+      "lemma": "laugh",
+      "pos": "verb",
+      "ko": "웃다",
+      "form": "과거형",
+      "synonyms": [
+        "chuckle",
+        "giggle"
+      ],
+      "ipa": "/læft/"
+    },
+    "outright": {
+      "lemma": "outright",
+      "pos": "adverb",
+      "ko": "대놓고, 거리낌 없이",
+      "synonyms": [
+        "openly",
+        "aloud"
+      ],
+      "ipa": "/ˈaʊˈtraɪt/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만, 그러나",
+      "ipa": "/bʌt/"
+    },
+    "understood": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다, 알다",
+      "form": "과거형",
+      "synonyms": [
+        "grasp",
+        "realize"
+      ],
+      "ipa": "/ˌʌndərˈstʊd/"
+    },
+    "secret": {
+      "lemma": "secret",
+      "pos": "noun",
+      "ko": "비밀, 숨은 이유",
+      "synonyms": [
+        "mystery",
+        "key"
+      ],
+      "ipa": "/ˈsiːkrət/"
+    },
+    "student's": {
+      "lemma": "student",
+      "pos": "noun",
+      "ko": "학생의",
+      "form": "소유격",
+      "synonyms": [
+        "scholar",
+        "pupil"
+      ],
+      "ipa": "/ˈstuːdənts/"
+    },
+    "sorrow": {
+      "lemma": "sorrow",
+      "pos": "noun",
+      "ko": "슬픔",
+      "synonyms": [
+        "grief",
+        "sadness"
+      ],
+      "ipa": "/ˈsɑːroʊ/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀 (나이팅게일)",
+      "ipa": "/ʃiː/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다",
+      "form": "과거형",
+      "synonyms": [
+        "perch",
+        "rest"
+      ],
+      "ipa": "/sæt/"
+    },
+    "silent": {
+      "lemma": "silent",
+      "pos": "adjective",
+      "ko": "말없는, 조용한",
+      "synonyms": [
+        "quiet",
+        "still"
+      ],
+      "ipa": "/ˈsaɪlənt/"
+    },
+    "oak-tree": {
+      "lemma": "oak-tree",
+      "pos": "noun",
+      "ko": "떡갈나무, 참나무",
+      "synonyms": [
+        "oak"
+      ],
+      "ipa": "/oʊk-triː/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "ponder",
+        "reflect"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "mystery": {
+      "lemma": "mystery",
+      "pos": "noun",
+      "ko": "신비, 수수께끼",
+      "synonyms": [
+        "secret",
+        "puzzle",
+        "riddle"
+      ],
+      "ipa": "/ˈmɪstəri/"
+    },
+    "love": {
+      "lemma": "love",
+      "pos": "noun",
+      "ko": "사랑",
+      "synonyms": [
+        "affection",
+        "passion"
+      ],
+      "ipa": "/lʌv/"
+    },
+    "suddenly": {
+      "lemma": "suddenly",
+      "pos": "adverb",
+      "ko": "갑자기",
+      "synonyms": [
+        "abruptly",
+        "all at once"
+      ],
+      "ipa": "/ˈsʌdənli/"
+    },
+    "spread": {
+      "lemma": "spread",
+      "pos": "verb",
+      "ko": "펼치다",
+      "form": "과거형",
+      "synonyms": [
+        "open",
+        "unfold",
+        "stretch"
+      ],
+      "ipa": "/sprɛd/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "determiner",
+      "ko": "그녀의",
+      "ipa": "/hɜːr/"
+    },
+    "brown": {
+      "lemma": "brown",
+      "pos": "adjective",
+      "ko": "갈색의",
+      "synonyms": [
+        "tan",
+        "dusky"
+      ],
+      "ipa": "/braʊn/"
+    },
+    "wings": {
+      "lemma": "wing",
+      "pos": "noun",
+      "ko": "날개",
+      "form": "복수형",
+      "synonyms": [
+        "pinion"
+      ],
+      "ipa": "/wɪŋz/"
+    },
+    "flight": {
+      "lemma": "flight",
+      "pos": "noun",
+      "ko": "비행, 날기",
+      "synonyms": [
+        "flying"
+      ],
+      "ipa": "/flaɪt/"
+    },
+    "soared": {
+      "lemma": "soar",
+      "pos": "verb",
+      "ko": "높이 날아오르다",
+      "form": "과거형",
+      "synonyms": [
+        "rise",
+        "fly up",
+        "ascend"
+      ],
+      "ipa": "/sɔːrd/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 속으로",
+      "ipa": "/ˈɪntu/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "go",
+        "move",
+        "travel"
+      ],
+      "ipa": "/pæst/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통과하여, ~을 지나",
+      "ipa": "/θruː/"
+    },
+    "grove": {
+      "lemma": "grove",
+      "pos": "noun",
+      "ko": "작은 숲",
+      "synonyms": [
+        "wood",
+        "thicket"
+      ],
+      "ipa": "/ɡroʊv/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼",
+      "ipa": "/laɪk/"
+    },
+    "shadow": {
+      "lemma": "shadow",
+      "pos": "noun",
+      "ko": "그림자",
+      "synonyms": [
+        "shade",
+        "silhouette"
+      ],
+      "ipa": "/ˈʃæˌdoʊ/"
+    },
+    "sailed": {
+      "lemma": "sail",
+      "pos": "verb",
+      "ko": "미끄러지듯 날아가다",
+      "form": "과거형",
+      "synonyms": [
+        "glide",
+        "float",
+        "drift"
+      ],
+      "ipa": "/seɪld/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~을 가로질러",
+      "ipa": "/əˈkrɔːs/"
+    },
+    "garden": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원",
+      "synonyms": [
+        "yard"
+      ],
+      "ipa": "/ˈɡɑːrdən/"
+    },
+    "centre": {
+      "lemma": "centre",
+      "pos": "noun",
+      "ko": "한가운데, 중심 (영국식 철자)",
+      "synonyms": [
+        "center",
+        "middle"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "grass-plot": {
+      "lemma": "grass-plot",
+      "pos": "noun",
+      "ko": "잔디밭",
+      "synonyms": [
+        "lawn",
+        "green"
+      ],
+      "ipa": "/ɡræs-plɑːt/"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stay",
+        "rise"
+      ],
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "rose-tree": {
+      "lemma": "rose-tree",
+      "pos": "noun",
+      "ko": "장미나무",
+      "synonyms": [
+        "rosebush",
+        "rose bush"
+      ],
+      "ipa": "/roʊz-triː/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "ipa": "/wɛn/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "notice",
+        "spot"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (장미나무)",
+      "ipa": "/ɪt/"
+    },
+    "flew": {
+      "lemma": "fly",
+      "pos": "verb",
+      "ko": "날아가다",
+      "form": "과거형",
+      "synonyms": [
+        "wing",
+        "soar"
+      ],
+      "ipa": "/fluː/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "adverb",
+      "ko": "(over to ~) ~ 쪽으로 건너가",
+      "ipa": "/ˈoʊvər/"
+    },
+    "lit": {
+      "lemma": "light",
+      "pos": "verb",
+      "ko": "(light upon) 내려앉다",
+      "form": "과거형",
+      "synonyms": [
+        "land",
+        "settle",
+        "alight"
+      ],
+      "ipa": "/lɪt/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (= on)",
+      "ipa": "/əˈpɑːn/"
+    },
+    "spray": {
+      "lemma": "spray",
+      "pos": "noun",
+      "ko": "(꽃·잎이 달린) 작은 가지",
+      "synonyms": [
+        "sprig",
+        "twig",
+        "branch"
+      ],
+      "ipa": "/spreɪ/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "synonyms": [
+        "hand",
+        "offer"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "ipa": "/aɪ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~하겠다",
+      "ipa": "/wɪl/"
+    },
+    "sing": {
+      "lemma": "sing",
+      "pos": "verb",
+      "ko": "노래하다",
+      "synonyms": [
+        "chant",
+        "perform"
+      ],
+      "ipa": "/sɪŋ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신 (에게)",
+      "ipa": "/juː/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "ipa": "/maɪ/"
+    },
+    "sweetest": {
+      "lemma": "sweet",
+      "pos": "adjective",
+      "ko": "가장 아름다운, 가장 감미로운",
+      "form": "최상급",
+      "synonyms": [
+        "loveliest",
+        "finest"
+      ],
+      "ipa": "/ˈswiːtəst/"
+    },
+    "song": {
+      "lemma": "song",
+      "pos": "noun",
+      "ko": "노래",
+      "synonyms": [
+        "tune",
+        "melody"
+      ],
+      "ipa": "/sɔːŋ/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "synonyms": [
+        "plant"
+      ],
+      "ipa": "/triː/"
+    },
+    "shook": {
+      "lemma": "shake",
+      "pos": "verb",
+      "ko": "(고개를) 젓다, 흔들다",
+      "form": "과거형",
+      "synonyms": [
+        "wag",
+        "move"
+      ],
+      "ipa": "/ʃʊk/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "ipa": "/ɪts/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리, 고개",
+      "synonyms": [
+        "top",
+        "crown"
+      ],
+      "ipa": "/hɛd/"
+    },
+    "roses": {
+      "lemma": "rose",
+      "pos": "noun",
+      "ko": "장미",
+      "form": "복수형",
+      "synonyms": [
+        "blooms",
+        "flowers"
+      ],
+      "ipa": "/ˈroʊzɪz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재",
+      "ipa": "/ɑːr/"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "하얀",
+      "synonyms": [
+        "snowy",
+        "pale"
+      ],
+      "ipa": "/waɪt/"
+    },
+    "answered": {
+      "lemma": "answer",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "reply",
+        "respond"
+      ],
+      "ipa": "/ˈænsərd/"
+    },
+    "foam": {
+      "lemma": "foam",
+      "pos": "noun",
+      "ko": "거품, 물거품",
+      "synonyms": [
+        "froth",
+        "spray",
+        "surf"
+      ],
+      "ipa": "/foʊm/"
+    },
+    "sea": {
+      "lemma": "sea",
+      "pos": "noun",
+      "ko": "바다",
+      "synonyms": [
+        "ocean"
+      ],
+      "ipa": "/siː/"
+    },
+    "whiter": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "더 하얀",
+      "form": "비교급",
+      "synonyms": [
+        "paler",
+        "snowier"
+      ],
+      "ipa": "/ˈwaɪtər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "ipa": "/ðæn/"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈",
+      "synonyms": [
+        "snowfall"
+      ],
+      "ipa": "/snoʊ/"
+    },
+    "mountain": {
+      "lemma": "mountain",
+      "pos": "noun",
+      "ko": "산",
+      "synonyms": [
+        "peak",
+        "hill"
+      ],
+      "ipa": "/ˈmaʊntən/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "synonyms": [
+        "head",
+        "travel"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "brother": {
+      "lemma": "brother",
+      "pos": "noun",
+      "ko": "형제 (다른 장미나무)",
+      "synonyms": [
+        "sibling",
+        "kin"
+      ],
+      "ipa": "/ˈbrʌðər/"
+    },
+    "grows": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자라다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "live",
+        "flourish"
+      ],
+      "ipa": "/ɡroʊz/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "preposition",
+      "ko": "~의 둘레에 (= around)",
+      "ipa": "/raʊnd/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "오래된",
+      "synonyms": [
+        "ancient",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "sun-dial": {
+      "lemma": "sun-dial",
+      "pos": "noun",
+      "ko": "해시계",
+      "synonyms": [
+        "sundial",
+        "dial"
+      ],
+      "ipa": "/sʌn-ˈdaɪəl/"
+    },
+    "perhaps": {
+      "lemma": "perhaps",
+      "pos": "adverb",
+      "ko": "어쩌면, 아마",
+      "synonyms": [
+        "maybe",
+        "possibly"
+      ],
+      "ipa": "/pərˈhæps/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~하는 것 (관계대명사)",
+      "ipa": "/wʌt/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "synonyms": [
+        "wish for",
+        "desire"
+      ],
+      "ipa": "/wɑːnt/"
+    }
+  }
+}

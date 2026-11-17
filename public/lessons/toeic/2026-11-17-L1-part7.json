@@ -1,0 +1,1306 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-17-L1-part7",
+  "date": "2026-11-17",
+  "level": 1,
+  "title": "Running Late for a Client Meeting",
+  "titleKo": "고객사 회의 지각 관련 채팅",
+  "genre": "chat",
+  "tags": [
+    "TOEIC Part 7",
+    "채팅",
+    "출장·여행"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 131,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "하나 조 (9:02): 안녕하세요 벤, 리버턴행 기차가 40분쯤 늦어지고 있어요. 코벨 푸드와의 10시 30분 회의에 제시간에 도착하지 못할 것 같아요."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "벤 월시 (9:04): 안됐네요. 저는 벌써 그 회사 사무실에 와 있어요. 조금 늦게 시작하자고 부탁해 볼까요?"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "하나 조 (9:05): 네, 부탁해요. 11시 15분이 가능한지 물어봐 줄래요? 샘플 제품을 제가 가지고 있어서 시연 때는 꼭 있어야 해요."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "벤 월시 (9:09): 방금 듀발 씨와 이야기했어요. 11시 15분은 괜찮은데 회의실은 12시 30분까지만 비어 있대요."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11",
+        "s12"
+      ],
+      "ko": "하나 조 (9:10): 그 정도면 시간이 충분할 거예요. 시간을 아끼려고 역에서 택시를 탈게요."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s13",
+        "s14"
+      ],
+      "ko": "벤 월시 (9:11): 좋은 생각이에요. 로비에서 기다릴게요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Hana Cho (9:02): Hi Ben, my train to Riverton is running about forty minutes late.",
+      "ko": "하나 조 (9:02): 안녕하세요 벤, 리버턴행 기차가 40분쯤 늦어지고 있어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "I don't think I will arrive in time for the ten-thirty meeting with Corvel Foods.",
+      "ko": "코벨 푸드와의 10시 30분 회의에 제시간에 도착하지 못할 것 같아요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Ben Walsh (9:04): That's too bad.",
+      "ko": "벤 월시 (9:04): 안됐네요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "I'm already at their office.",
+      "ko": "저는 벌써 그 회사 사무실에 와 있어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Should I ask them to start a little later?",
+      "ko": "조금 늦게 시작하자고 부탁해 볼까요?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Hana Cho (9:05): Yes, please.",
+      "ko": "하나 조 (9:05): 네, 부탁해요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Could you ask if eleven-fifteen is possible?",
+      "ko": "11시 15분이 가능한지 물어봐 줄래요?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "I have the sample products with me, so I need to be there for the demonstration.",
+      "ko": "샘플 제품을 제가 가지고 있어서 시연 때는 꼭 있어야 해요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Ben Walsh (9:09): I just talked to Ms. Duval.",
+      "ko": "벤 월시 (9:09): 방금 듀발 씨와 이야기했어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "She said eleven-fifteen is fine, but the meeting room is only free until twelve-thirty.",
+      "ko": "11시 15분은 괜찮은데 회의실은 12시 30분까지만 비어 있대요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Hana Cho (9:10): That should be enough time.",
+      "ko": "하나 조 (9:10): 그 정도면 시간이 충분할 거예요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "I'll take a taxi from the station to save time.",
+      "ko": "시간을 아끼려고 역에서 택시를 탈게요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "Ben Walsh (9:11): Good idea.",
+      "ko": "벤 월시 (9:11): 좋은 생각이에요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p6",
+      "en": "I'll wait for you in the lobby.",
+      "ko": "로비에서 기다릴게요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "in time",
+      "pos": "phrase",
+      "meaningKo": "제시간에, 늦지 않게",
+      "ipa": "/ɪn ˈtaɪm/",
+      "synonyms": [
+        "on time",
+        "early enough"
+      ],
+      "matchText": "in time",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We arrived in time for the movie.",
+        "ko": "우리는 영화 시간에 늦지 않게 도착했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "sample",
+      "pos": "adjective",
+      "meaningKo": "견본의, 샘플",
+      "ipa": "/ˈsæmpəl/",
+      "synonyms": [
+        "example",
+        "trial"
+      ],
+      "matchText": "sample",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The store gave out sample cookies.",
+        "ko": "가게가 시식용 쿠키를 나눠 주었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "demonstration",
+      "pos": "noun",
+      "meaningKo": "시연, 실물 설명",
+      "ipa": "/ˌdɛmənˈstreɪʃən/",
+      "synonyms": [
+        "presentation",
+        "showing"
+      ],
+      "matchText": "demonstration",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The salesperson gave a demonstration of the vacuum.",
+        "ko": "판매원이 청소기 시연을 했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "save time",
+      "pos": "phrase",
+      "meaningKo": "시간을 아끼다",
+      "ipa": "/seɪv ˈtaɪm/",
+      "synonyms": [
+        "hurry",
+        "speed things up"
+      ],
+      "matchText": "save time",
+      "sentenceId": "s12",
+      "example": {
+        "en": "Online banking helps you save time.",
+        "ko": "온라인 뱅킹은 시간을 아끼는 데 도움이 된다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "lobby",
+      "pos": "noun",
+      "meaningKo": "로비, 현관 홀",
+      "ipa": "/ˈlɑːbi/",
+      "synonyms": [
+        "entrance hall",
+        "reception area"
+      ],
+      "matchText": "lobby",
+      "sentenceId": "s14",
+      "example": {
+        "en": "Let's meet in the hotel lobby.",
+        "ko": "호텔 로비에서 만나자."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "I",
+          "role": "S",
+          "ko": "저는"
+        },
+        {
+          "text": "have",
+          "role": "V",
+          "ko": "가지고 있다"
+        },
+        {
+          "text": "the sample products",
+          "role": "O",
+          "ko": "샘플 제품을"
+        },
+        {
+          "text": "with me,",
+          "role": "M",
+          "ko": "제가"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "ko": "그래서"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "ko": "저는"
+        },
+        {
+          "text": "need",
+          "role": "V",
+          "ko": "필요하다"
+        },
+        {
+          "text": "to be there",
+          "role": "O",
+          "ko": "그곳에 있는 것이"
+        },
+        {
+          "text": "for the demonstration.",
+          "role": "M",
+          "ko": "시연을 위해"
+        }
+      ],
+      "skeleton": "I have the products, so I need to be there",
+      "explanation": "so로 이유(제품을 가지고 있다)와 결과(그곳에 있어야 한다)를 잇는다. need + to V."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "She",
+          "role": "S",
+          "ko": "그녀는"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "ko": "말했다"
+        },
+        {
+          "text": "eleven-fifteen",
+          "role": "S",
+          "ko": "11시 15분은",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "fine,",
+          "role": "C",
+          "ko": "괜찮은",
+          "sub": true
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "ko": "하지만"
+        },
+        {
+          "text": "the meeting room",
+          "role": "S",
+          "ko": "회의실은"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "only free",
+          "role": "C",
+          "ko": "비어 있을 뿐인"
+        },
+        {
+          "text": "until twelve-thirty.",
+          "role": "M",
+          "ko": "12시 30분까지"
+        }
+      ],
+      "skeleton": "She said eleven-fifteen is fine, but the room is only free",
+      "explanation": "said 뒤에 that이 생략된 명사절. but 뒤는 제한 조건."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "ask + 사람 + to V (~에게 …해 달라고 부탁하다)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "ask them to start"
+      ],
+      "explanation": "ask 뒤에 사람(목적어)과 to부정사가 오면 '그 사람에게 ~해 달라고 부탁하다'.",
+      "example": {
+        "en": "I asked him to call me back.",
+        "ko": "나는 그에게 다시 전화해 달라고 부탁했다."
+      },
+      "note": "ask/tell/want + 목적어 + to V 형태가 자주 나온다."
+    },
+    {
+      "id": "g2",
+      "title": "if = ~인지 (명사절)",
+      "tags": [
+        "명사절"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "ask if eleven-fifteen is possible"
+      ],
+      "explanation": "ask 뒤의 if는 '만약'이 아니라 '~인지'라는 뜻으로 목적어 역할을 한다. whether로 바꿔 쓸 수 있다.",
+      "example": {
+        "en": "Can you check if the store is open?",
+        "ko": "가게가 열었는지 확인해 줄래요?"
+      },
+      "note": "ask/know/check + if절 → '~인지'."
+    },
+    {
+      "id": "g3",
+      "title": "to부정사의 목적 (~하려고)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "to save time"
+      ],
+      "explanation": "문장 끝 to save time은 '시간을 아끼기 위해'라는 목적을 나타낸다.",
+      "example": {
+        "en": "She left early to catch the bus.",
+        "ko": "그녀는 버스를 타려고 일찍 나갔다."
+      },
+      "note": "완전한 문장 + to V → '~하기 위해'."
+    }
+  ],
+  "glossary": {
+    "hana": {
+      "lemma": "Hana",
+      "pos": "proper-noun",
+      "ko": "하나 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈhænə/"
+    },
+    "cho": {
+      "lemma": "Cho",
+      "pos": "proper-noun",
+      "ko": "조 (사람 성)",
+      "form": null,
+      "ipa": "/tʃoʊ/"
+    },
+    "hi": {
+      "lemma": "hi",
+      "pos": "interjection",
+      "ko": "안녕, 안녕하세요",
+      "form": null,
+      "ipa": "/haɪ/"
+    },
+    "ben": {
+      "lemma": "Ben",
+      "pos": "proper-noun",
+      "ko": "벤 (사람 이름)",
+      "form": null,
+      "ipa": "/bɛn/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "train": {
+      "lemma": "train",
+      "pos": "noun",
+      "ko": "기차",
+      "form": null,
+      "synonyms": [
+        "railway",
+        "rail"
+      ],
+      "ipa": "/treɪn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~에게; (to부정사) ~하는 것, ~하려고",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "riverton": {
+      "lemma": "Riverton",
+      "pos": "proper-noun",
+      "ko": "리버턴 (도시 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (be + p.p.) ~되다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "running": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(run late) 늦어지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "operate",
+        "go"
+      ],
+      "ipa": "/ˈrʌnɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관하여; 약, 대략",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "forty": {
+      "lemma": "forty",
+      "pos": "number",
+      "ko": "40",
+      "form": null,
+      "ipa": "/ˈfɔːrti/"
+    },
+    "minutes": {
+      "lemma": "minute",
+      "pos": "noun",
+      "ko": "분",
+      "form": "복수형",
+      "synonyms": [
+        "moment",
+        "short time"
+      ],
+      "ipa": "/ˈmɪnəts/"
+    },
+    "late": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "늦게",
+      "form": null,
+      "synonyms": [
+        "behind schedule",
+        "delayed"
+      ],
+      "ipa": "/leɪt/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 저",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "don't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않다",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": null,
+      "synonyms": [
+        "believe",
+        "expect"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "get there",
+        "reach"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": null,
+      "synonyms": [
+        "period",
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에 대한; ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "ten-thirty": {
+      "lemma": "ten-thirty",
+      "pos": "number",
+      "ko": "10시 30분",
+      "form": null,
+      "ipa": "/tɛn-ˈθɜːrˌdiː/"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의",
+      "form": null,
+      "synonyms": [
+        "conference",
+        "session"
+      ],
+      "ipa": "/ˈmiːtɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~을 가진, ~을 지니고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "corvel": {
+      "lemma": "Corvel",
+      "pos": "proper-noun",
+      "ko": "코벨 (회사 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "foods": {
+      "lemma": "Foods",
+      "pos": "proper-noun",
+      "ko": "푸드 (회사 이름의 일부)",
+      "form": null,
+      "ipa": "/fuːdz/"
+    },
+    "walsh": {
+      "lemma": "Walsh",
+      "pos": "proper-noun",
+      "ko": "월시 (사람 성)",
+      "form": null,
+      "ipa": "/wɔːlʃ/"
+    },
+    "that's": {
+      "lemma": "that is",
+      "pos": "phrase",
+      "ko": "그것은 ~이다",
+      "form": "줄임말",
+      "ipa": "/ðæts/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "synonyms": [
+        "very",
+        "really"
+      ],
+      "ipa": "/tuː/"
+    },
+    "bad": {
+      "lemma": "bad",
+      "pos": "adjective",
+      "ko": "안된, 나쁜",
+      "form": null,
+      "synonyms": [
+        "unfortunate",
+        "unlucky"
+      ],
+      "ipa": "/bæd/"
+    },
+    "i'm": {
+      "lemma": "I am",
+      "pos": "phrase",
+      "ko": "나는 ~이다, ~에 있다",
+      "form": "줄임말",
+      "ipa": "/aɪm/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미, 벌써",
+      "form": null,
+      "synonyms": [
+        "by now",
+        "before now"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서; ~에 (시각)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "synonyms": [
+        "workplace",
+        "bureau"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 하다; (Should I ~?) ~할까요?; ~일 것이다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "ask": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "부탁하다; 묻다",
+      "form": null,
+      "synonyms": [
+        "request",
+        "inquire"
+      ],
+      "ipa": "/æsk/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들에게, 그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "start": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": null,
+      "synonyms": [
+        "begin",
+        "kick off"
+      ],
+      "ipa": "/stɑːrt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adverb",
+      "ko": "(a little) 조금",
+      "form": null,
+      "synonyms": [
+        "slightly",
+        "a bit"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "later": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "더 늦게, 나중에",
+      "form": "비교급",
+      "synonyms": [
+        "afterward",
+        "after"
+      ],
+      "ipa": "/ˈleɪtər/"
+    },
+    "yes": {
+      "lemma": "yes",
+      "pos": "interjection",
+      "ko": "네, 예",
+      "form": null,
+      "ipa": "/jɛs/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "could": {
+      "lemma": "could",
+      "pos": "auxiliary",
+      "ko": "(Could you ~?) ~해 주시겠어요?",
+      "form": null,
+      "ipa": "/kʊd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~인지; 만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "eleven-fifteen": {
+      "lemma": "eleven-fifteen",
+      "pos": "number",
+      "ko": "11시 15분",
+      "form": null,
+      "ipa": "/ɪˈlɛvən-fɪfˈtiːn/"
+    },
+    "possible": {
+      "lemma": "possible",
+      "pos": "adjective",
+      "ko": "가능한",
+      "form": null,
+      "synonyms": [
+        "doable",
+        "workable"
+      ],
+      "ipa": "/ˈpɑːsəbəl/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "hold"
+      ],
+      "ipa": "/hæv/"
+    },
+    "sample": {
+      "lemma": "sample",
+      "pos": "adjective",
+      "ko": "견본의, 샘플",
+      "form": null,
+      "synonyms": [
+        "example",
+        "trial"
+      ],
+      "ipa": "/ˈsæmpəl/"
+    },
+    "products": {
+      "lemma": "product",
+      "pos": "noun",
+      "ko": "제품, 상품",
+      "form": "복수형",
+      "synonyms": [
+        "item",
+        "goods"
+      ],
+      "ipa": "/ˈprɑːdəkts/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나, 나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요하다, ~해야 하다",
+      "form": null,
+      "synonyms": [
+        "require",
+        "have to"
+      ],
+      "ipa": "/niːd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있다; ~이다",
+      "form": null,
+      "synonyms": [
+        "stay",
+        "attend"
+      ],
+      "ipa": "/biː/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there is) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "demonstration": {
+      "lemma": "demonstration",
+      "pos": "noun",
+      "ko": "시연, 실물 설명",
+      "form": null,
+      "synonyms": [
+        "presentation",
+        "showing"
+      ],
+      "ipa": "/ˌdɛmənˈstreɪʃən/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "방금, 막",
+      "form": null,
+      "synonyms": [
+        "recently",
+        "a moment ago"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "talked": {
+      "lemma": "talk",
+      "pos": "verb",
+      "ko": "이야기하다",
+      "form": "과거형",
+      "synonyms": [
+        "speak",
+        "chat"
+      ],
+      "ipa": "/tɔːkt/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "duval": {
+      "lemma": "Duval",
+      "pos": "proper-noun",
+      "ko": "듀발 (사람 성)",
+      "form": null,
+      "ipa": "/duˈvæl/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "state"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "괜찮은",
+      "form": null,
+      "synonyms": [
+        "okay",
+        "acceptable"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만, 그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": null,
+      "synonyms": [
+        "space",
+        "hall"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~만, 오직",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "비어 있는, 사용 가능한",
+      "form": null,
+      "synonyms": [
+        "available",
+        "open"
+      ],
+      "ipa": "/friː/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "preposition",
+      "ko": "~까지 (계속)",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "twelve-thirty": {
+      "lemma": "twelve-thirty",
+      "pos": "number",
+      "ko": "12시 30분",
+      "form": null,
+      "ipa": "/twɛlv-ˈθɜːrˌdiː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것, 그 정도",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adjective",
+      "ko": "충분한",
+      "form": null,
+      "synonyms": [
+        "sufficient",
+        "plenty of"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    },
+    "i'll": {
+      "lemma": "I will",
+      "pos": "phrase",
+      "ko": "나는 ~할 것이다",
+      "form": "줄임말",
+      "ipa": "/aɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(교통수단을) 타다",
+      "form": null,
+      "synonyms": [
+        "ride",
+        "catch"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "taxi": {
+      "lemma": "taxi",
+      "pos": "noun",
+      "ko": "택시",
+      "form": null,
+      "synonyms": [
+        "cab",
+        "car"
+      ],
+      "ipa": "/ˈtæksi/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "station": {
+      "lemma": "station",
+      "pos": "noun",
+      "ko": "역",
+      "form": null,
+      "synonyms": [
+        "terminal",
+        "stop"
+      ],
+      "ipa": "/ˈsteɪʃən/"
+    },
+    "save": {
+      "lemma": "save",
+      "pos": "verb",
+      "ko": "아끼다, 절약하다",
+      "form": null,
+      "synonyms": [
+        "spare",
+        "reduce"
+      ],
+      "ipa": "/seɪv/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은",
+      "form": null,
+      "synonyms": [
+        "great",
+        "nice"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "idea": {
+      "lemma": "idea",
+      "pos": "noun",
+      "ko": "생각, 아이디어",
+      "form": null,
+      "synonyms": [
+        "plan",
+        "suggestion"
+      ],
+      "ipa": "/aɪˈdiːə/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "stay",
+        "hold on"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "lobby": {
+      "lemma": "lobby",
+      "pos": "noun",
+      "ko": "로비, 현관 홀",
+      "form": null,
+      "synonyms": [
+        "entrance hall",
+        "reception area"
+      ],
+      "ipa": "/ˈlɑːbi/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "Why did Ms. Cho send the first message?",
+      "evidenceSentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To ask Mr. Walsh to buy her a ticket"
+        },
+        {
+          "key": "B",
+          "text": "To let Mr. Walsh know about a travel delay"
+        },
+        {
+          "key": "C",
+          "text": "To cancel a meeting with a client"
+        },
+        {
+          "key": "D",
+          "text": "To invite Mr. Walsh to a demonstration"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "첫 메시지에서 기차가 40분 늦어지고(running about forty minutes late) 회의에 제시간에 못 갈 것 같다고 한다. → a travel delay.",
+      "choiceNotesKo": {
+        "C": "회의를 취소하지 않고 시작 시간을 늦춘다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What does Ms. Cho have with her?",
+      "evidenceSentenceIds": [
+        "s8"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "A signed contract"
+        },
+        {
+          "key": "B",
+          "text": "Some printed menus"
+        },
+        {
+          "key": "C",
+          "text": "Items to show the client"
+        },
+        {
+          "key": "D",
+          "text": "A new laptop computer"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "I have the sample products with me → 고객에게 보여 줄 샘플 제품. sample products를 Items to show the client로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "D": "노트북에 대한 말은 없다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "At 9:11, what does Mr. Walsh most likely mean when he writes, \"Good idea\"?",
+      "evidenceSentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "He agrees with Ms. Cho's plan to take a taxi."
+        },
+        {
+          "key": "B",
+          "text": "He thinks the meeting should end earlier."
+        },
+        {
+          "key": "C",
+          "text": "He wants to meet Ms. Cho at the station."
+        },
+        {
+          "key": "D",
+          "text": "He likes the sample products."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "바로 앞에서 하나 조가 '시간을 아끼려고 역에서 택시를 타겠다'고 했고, 그에 대한 대답이 Good idea다. → 택시 계획에 동의.",
+      "choiceNotesKo": {
+        "C": "벤은 역이 아니라 로비에서 기다리겠다고 한다."
+      },
+      "skill": "의도 파악(추론)"
+    }
+  ]
+}

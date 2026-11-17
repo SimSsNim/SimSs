@@ -1,0 +1,1413 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-14-L2",
+  "date": "2026-11-14",
+  "level": 2,
+  "title": "The Milkmaid and Her Pail",
+  "titleKo": "우유 짜는 아가씨와 우유 통",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_04_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_04_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-2-fables-26-50",
+    "reader": "Annie Coleman Rothenberg",
+    "durationSec": 102,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 02, 04번 트랙(전체 29번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 192,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "한 농부의 딸이 소젖을 짜러 나갔다가, 우유 통을 머리에 이고 낙농장으로 돌아오고 있었다. 걸어가면서 그녀는 이런 식으로 공상에 빠졌다. \"이 통에 든 우유로 크림을 얻을 거야. 그걸 버터로 만들어 시장에 가져가 팔아야지. 그 돈으로 달걀을 여러 개 사면, 그 달걀이 부화해서 병아리가 될 테고, 머지않아 나는 꽤 큰 양계장을 갖게 될 거야. 그러면 닭을 몇 마리 팔고, 그 닭들로 번 돈으로 새 드레스를 사서 장터에 갈 때 입어야지. 그러면 젊은 남자들이 모두 감탄하며 다가와 내게 구애하겠지만, 나는 고개를 홱 젖히고 그들에게 아무 말도 하지 않을 거야.\" 그녀는 우유 통은 까맣게 잊은 채, 말에 맞춰 행동까지 하며 고개를 홱 젖혔다. 우유 통이 떨어져 우유는 모두 쏟아졌고, 그녀의 멋진 공상(허황된 꿈)은 한순간에 모두 사라져 버렸다!"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "병아리가 부화하기도 전에 병아리 수를 세지 마라."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A farmer's daughter had been out to milk the cows, and was returning to the dairy carrying her pail of milk upon her head.",
+      "ko": "한 농부의 딸이 소젖을 짜러 나갔다가, 우유 통을 머리에 이고 낙농장으로 돌아오고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "As she walked along, she fell a-musing after this fashion: \"The milk in this pail will provide me with cream, which I will make into butter and take to market to sell.",
+      "ko": "걸어가면서 그녀는 이런 식으로 공상에 빠졌다. \"이 통에 든 우유로 크림을 얻을 거야. 그걸 버터로 만들어 시장에 가져가 팔아야지.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "With the money I will buy a number of eggs, and these, when hatched, will produce chickens, and by and by I shall have quite a large poultry-yard.",
+      "ko": "그 돈으로 달걀을 여러 개 사면, 그 달걀이 부화해서 병아리가 될 테고, 머지않아 나는 꽤 큰 양계장을 갖게 될 거야.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Then I shall sell some of my fowls, and with the money which they will bring in I will buy myself a new gown, which I shall wear when I go to the fair; and all the young fellows will admire it, and come and make love to me, but I shall toss my head and have nothing to say to them.\"",
+      "ko": "그러면 닭을 몇 마리 팔고, 그 닭들로 번 돈으로 새 드레스를 사서 장터에 갈 때 입어야지. 그러면 젊은 남자들이 모두 감탄하며 다가와 내게 구애하겠지만, 나는 고개를 홱 젖히고 그들에게 아무 말도 하지 않을 거야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Forgetting all about the pail, and suiting the action to the word, she tossed her head.",
+      "ko": "그녀는 우유 통은 까맣게 잊은 채, 말에 맞춰 행동까지 하며 고개를 홱 젖혔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Down went the pail, all the milk was spilled, and all her fine castles in the air vanished in a moment!",
+      "ko": "우유 통이 떨어져 우유는 모두 쏟아졌고, 그녀의 멋진 공상(허황된 꿈)은 한순간에 모두 사라져 버렸다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Do not count your chickens before they are hatched.",
+      "ko": "병아리가 부화하기도 전에 병아리 수를 세지 마라.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "fall a-musing",
+      "pos": "phrase",
+      "meaningKo": "공상(생각)에 잠기다",
+      "ipa": "/fɔl əˈmjuzɪŋ/",
+      "synonyms": [
+        "daydream",
+        "start pondering"
+      ],
+      "matchText": "fell a-musing",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Looking at the sea, he fell a-musing about his childhood.",
+        "ko": "바다를 보며 그는 어린 시절에 대한 생각에 잠겼다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "by and by",
+      "pos": "phrase",
+      "meaningKo": "머지않아, 곧",
+      "ipa": "/baɪ ən baɪ/",
+      "synonyms": [
+        "soon",
+        "before long",
+        "eventually"
+      ],
+      "matchText": "by and by",
+      "sentenceId": "s3",
+      "example": {
+        "en": "By and by, the rain stopped.",
+        "ko": "머지않아 비가 그쳤다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "admire",
+      "pos": "verb",
+      "meaningKo": "감탄하다, 칭찬하며 바라보다",
+      "ipa": "/ədˈmaɪər/",
+      "synonyms": [
+        "praise",
+        "look up to",
+        "appreciate"
+      ],
+      "matchText": "admire",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Everyone admired her beautiful painting.",
+        "ko": "모두가 그녀의 아름다운 그림에 감탄했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "castles in the air",
+      "pos": "idiom",
+      "meaningKo": "허황된 꿈, 공상",
+      "ipa": "/ˈkæsəlz ɪn ði ɛr/",
+      "synonyms": [
+        "daydreams",
+        "pipe dreams",
+        "fantasies"
+      ],
+      "matchText": "castles in the air",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Stop building castles in the air and start studying.",
+        "ko": "허황된 꿈은 그만 꾸고 공부를 시작해라."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "vanish",
+      "pos": "verb",
+      "meaningKo": "사라지다",
+      "ipa": "/ˈvænɪʃ/",
+      "synonyms": [
+        "disappear",
+        "fade"
+      ],
+      "matchText": "vanished",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The magician made the coin vanish.",
+        "ko": "마술사가 동전을 사라지게 했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A farmer's daughter",
+          "role": "S",
+          "sub": false,
+          "ko": "한 농부의 딸이"
+        },
+        {
+          "text": "had been out",
+          "role": "V",
+          "sub": false,
+          "ko": "나가 있었다"
+        },
+        {
+          "text": "to milk the cows,",
+          "role": "M",
+          "sub": false,
+          "ko": "소젖을 짜러"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "was returning",
+          "role": "V",
+          "sub": false,
+          "ko": "돌아오고 있었다"
+        },
+        {
+          "text": "to the dairy",
+          "role": "M",
+          "sub": false,
+          "ko": "낙농장으로"
+        },
+        {
+          "text": "carrying her pail of milk upon her head.",
+          "role": "M",
+          "sub": false,
+          "ko": "우유 통을 머리에 이고서"
+        }
+      ],
+      "skeleton": "A farmer's daughter had been out ... and was returning",
+      "explanation": "주어 하나에 동사 두 개(had been out / was returning)가 and로 이어진다. to milk는 \"젖을 짜러\"라는 목적의 to부정사, carrying ... 은 \"~을 이고서\"라는 동시 동작의 분사구문이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "With the money",
+          "role": "M",
+          "sub": false,
+          "ko": "그 돈으로"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": false,
+          "ko": "나는"
+        },
+        {
+          "text": "will buy",
+          "role": "V",
+          "sub": false,
+          "ko": "살 것이다"
+        },
+        {
+          "text": "a number of eggs,",
+          "role": "O",
+          "sub": false,
+          "ko": "달걀 여러 개를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "these,",
+          "role": "S",
+          "sub": false,
+          "ko": "이것들은"
+        },
+        {
+          "text": "when hatched,",
+          "role": "M",
+          "sub": true,
+          "ko": "부화하면"
+        },
+        {
+          "text": "will produce",
+          "role": "V",
+          "sub": false,
+          "ko": "만들어 낼 것이다"
+        },
+        {
+          "text": "chickens,",
+          "role": "O",
+          "sub": false,
+          "ko": "병아리들을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "by and by",
+          "role": "M",
+          "sub": false,
+          "ko": "머지않아"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": false,
+          "ko": "나는"
+        },
+        {
+          "text": "shall have",
+          "role": "V",
+          "sub": false,
+          "ko": "갖게 될 것이다"
+        },
+        {
+          "text": "quite a large poultry-yard.",
+          "role": "O",
+          "sub": false,
+          "ko": "꽤 큰 양계장을"
+        }
+      ],
+      "skeleton": "I will buy eggs, and these will produce chickens, and I shall have a poultry-yard",
+      "explanation": "세 개의 절이 and로 이어지며 계획이 한 단계씩 커진다. when hatched는 when they are hatched에서 they are가 생략된 형태다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Down",
+          "role": "M",
+          "sub": false,
+          "ko": "아래로"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": false,
+          "ko": "떨어졌다"
+        },
+        {
+          "text": "the pail,",
+          "role": "S",
+          "sub": false,
+          "ko": "우유 통이"
+        },
+        {
+          "text": "all the milk",
+          "role": "S",
+          "sub": false,
+          "ko": "모든 우유가"
+        },
+        {
+          "text": "was spilled,",
+          "role": "V",
+          "sub": false,
+          "ko": "쏟아졌다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "all her fine castles in the air",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀의 모든 멋진 공상이"
+        },
+        {
+          "text": "vanished",
+          "role": "V",
+          "sub": false,
+          "ko": "사라졌다"
+        },
+        {
+          "text": "in a moment!",
+          "role": "M",
+          "sub": false,
+          "ko": "한순간에!"
+        }
+      ],
+      "skeleton": "Down went the pail",
+      "explanation": "원래 순서는 The pail went down이지만, Down을 문장 맨 앞에 두어 주어와 동사의 순서가 바뀌었다(도치). 갑자기 통이 떨어지는 장면이 생생하게 느껴진다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "부사 도치: Down went the pail",
+      "tags": [
+        "도치",
+        "강조"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "Down went the pail"
+      ],
+      "explanation": "방향을 나타내는 부사(down, up, away 등)를 문장 앞에 두면 \"동사 + 주어\" 순서로 바뀔 수 있다. 장면을 극적으로 보여 주는 효과가 있다. (주어가 대명사이면 Down it went처럼 순서가 바뀌지 않는다.)",
+      "example": {
+        "en": "Away flew the bird.",
+        "ko": "새가 휙 날아가 버렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "when + 과거분사 (주어+be동사 생략)",
+      "tags": [
+        "생략",
+        "분사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "when hatched"
+      ],
+      "explanation": "when hatched는 when they are hatched(그것들이 부화되면)에서 주어와 be동사가 생략된 형태다. 부사절의 주어가 주절의 주어(these)와 같을 때 자주 생략된다.",
+      "example": {
+        "en": "When asked, he told the truth.",
+        "ko": "질문을 받자 그는 진실을 말했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "분사구문: Forgetting ..., she tossed her head.",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "Forgetting all about the pail",
+        "suiting the action to the word"
+      ],
+      "explanation": "문장 앞의 Forgetting ..., suiting ... 은 분사구문으로 \"~한 채, ~하면서\"라는 뜻이다. 주어 she가 우유 통을 잊고, 말에 맞춰 행동하면서 고개를 젖혔다.",
+      "example": {
+        "en": "Singing a song, she walked home.",
+        "ko": "노래를 부르면서 그녀는 집으로 걸어갔다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "farmer's": {
+      "lemma": "farmer",
+      "pos": "noun",
+      "ko": "농부의",
+      "form": "소유격",
+      "synonyms": [
+        "grower",
+        "peasant"
+      ],
+      "ipa": "/ˈfɑːrmərz/"
+    },
+    "daughter": {
+      "lemma": "daughter",
+      "pos": "noun",
+      "ko": "딸",
+      "form": null,
+      "synonyms": [
+        "girl"
+      ],
+      "ipa": "/ˈdɔːtər/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(어디에) 있다, 가 있다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖에, 밖으로",
+      "form": null,
+      "synonyms": [
+        "outside",
+        "away"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로; (to부정사) ~하러, ~할",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "milk": {
+      "lemma": "milk",
+      "pos": "noun",
+      "ko": "우유; (동사) 젖을 짜다",
+      "form": null,
+      "synonyms": [
+        "dairy"
+      ],
+      "ipa": "/mɪlk/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "cows": {
+      "lemma": "cow",
+      "pos": "noun",
+      "ko": "암소",
+      "form": "복수형",
+      "synonyms": [
+        "cattle"
+      ],
+      "ipa": "/kaʊz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다 (진행형·수동태를 만듦)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "returning": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌아오다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "come back",
+        "go back"
+      ],
+      "ipa": "/rɪˈtɜːrnɪŋ/"
+    },
+    "dairy": {
+      "lemma": "dairy",
+      "pos": "noun",
+      "ko": "낙농장, 우유 가공장",
+      "form": null,
+      "synonyms": [
+        "creamery",
+        "milk house"
+      ],
+      "ipa": "/ˈdɛri/"
+    },
+    "carrying": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "나르다, 이다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "bear",
+        "hold"
+      ],
+      "ipa": "/ˈkæriɪŋ/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의",
+      "form": "소유격",
+      "ipa": "/hɜːr/"
+    },
+    "pail": {
+      "lemma": "pail",
+      "pos": "noun",
+      "ko": "들통, 양동이",
+      "form": null,
+      "synonyms": [
+        "bucket"
+      ],
+      "ipa": "/peɪl/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~이 든",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": null,
+      "synonyms": [
+        "skull"
+      ],
+      "ipa": "/hɛd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하면서, ~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "walked": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다",
+      "form": "과거형",
+      "synonyms": [
+        "stroll",
+        "go"
+      ],
+      "ipa": "/wɔːkt/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "(앞으로) 쭉",
+      "form": null,
+      "synonyms": [
+        "onward",
+        "forward"
+      ],
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall a-musing) ~한 상태가 되다",
+      "form": "과거형",
+      "synonyms": [
+        "drift",
+        "sink"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "a-musing": {
+      "lemma": "a-musing",
+      "pos": "adverb",
+      "ko": "공상에 잠겨 (옛말, = musing)",
+      "form": null,
+      "synonyms": [
+        "daydreaming",
+        "pondering"
+      ],
+      "ipa": "/ə-ˈmjuːzɪŋ/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "(after this fashion) ~을 따라, ~식으로",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이런",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "fashion": {
+      "lemma": "fashion",
+      "pos": "noun",
+      "ko": "방식, 식",
+      "form": null,
+      "synonyms": [
+        "way",
+        "manner"
+      ],
+      "ipa": "/ˈfæʃən/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에; (in a moment) ~만에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "provide": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공하다, 주다",
+      "form": null,
+      "synonyms": [
+        "supply",
+        "give"
+      ],
+      "ipa": "/prəˈvaɪd/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나에게, 나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "cream": {
+      "lemma": "cream",
+      "pos": "noun",
+      "ko": "크림",
+      "form": null,
+      "ipa": "/kriːm/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다; (make love to) ~에게 구애하다",
+      "form": null,
+      "synonyms": [
+        "turn",
+        "produce"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~으로 (변화)",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "butter": {
+      "lemma": "butter",
+      "pos": "noun",
+      "ko": "버터",
+      "form": null,
+      "ipa": "/ˈbʌtər/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "가져가다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "carry"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "market": {
+      "lemma": "market",
+      "pos": "noun",
+      "ko": "시장",
+      "form": null,
+      "synonyms": [
+        "bazaar",
+        "marketplace"
+      ],
+      "ipa": "/ˈmɑːrkət/"
+    },
+    "sell": {
+      "lemma": "sell",
+      "pos": "verb",
+      "ko": "팔다",
+      "form": null,
+      "synonyms": [
+        "trade",
+        "vend"
+      ],
+      "ipa": "/sɛl/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "form": null,
+      "synonyms": [
+        "cash",
+        "funds"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "buy": {
+      "lemma": "buy",
+      "pos": "verb",
+      "ko": "사다",
+      "form": null,
+      "synonyms": [
+        "purchase",
+        "get"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "(a number of) 여러 개의, 많은",
+      "form": null,
+      "synonyms": [
+        "quantity",
+        "amount"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "eggs": {
+      "lemma": "egg",
+      "pos": "noun",
+      "ko": "달걀",
+      "form": "복수형",
+      "ipa": "/ɛɡz/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "pronoun",
+      "ko": "이것들",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하면",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "hatched": {
+      "lemma": "hatch",
+      "pos": "verb",
+      "ko": "부화하다, 알을 까다",
+      "form": "과거분사",
+      "synonyms": [
+        "breed",
+        "incubate"
+      ],
+      "ipa": "/hætʃt/"
+    },
+    "produce": {
+      "lemma": "produce",
+      "pos": "verb",
+      "ko": "낳다, 만들어 내다",
+      "form": null,
+      "synonyms": [
+        "yield",
+        "create"
+      ],
+      "ipa": "/prəˈduːs/"
+    },
+    "chickens": {
+      "lemma": "chicken",
+      "pos": "noun",
+      "ko": "병아리, 닭",
+      "form": "복수형",
+      "synonyms": [
+        "chicks",
+        "hens"
+      ],
+      "ipa": "/ˈtʃɪkənz/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "adverb",
+      "ko": "(by and by) 머지않아",
+      "form": null,
+      "synonyms": [
+        "soon"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (1인칭 미래)",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 갖게 되다",
+      "form": null,
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "꽤, 상당히",
+      "form": null,
+      "synonyms": [
+        "fairly",
+        "rather"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "big",
+        "sizable"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "poultry-yard": {
+      "lemma": "poultry-yard",
+      "pos": "noun",
+      "ko": "양계장, 가금 사육장",
+      "form": null,
+      "synonyms": [
+        "chicken farm",
+        "henhouse"
+      ],
+      "ipa": "/ˈpoʊltri-jɑːrd/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러면, 그다음에",
+      "form": null,
+      "synonyms": [
+        "next",
+        "after that"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "몇몇의, 약간의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "fowls": {
+      "lemma": "fowl",
+      "pos": "noun",
+      "ko": "닭, 가금",
+      "form": "복수형",
+      "synonyms": [
+        "poultry",
+        "hens"
+      ],
+      "ipa": "/faʊlz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "(bring in) 벌어들이다",
+      "form": null,
+      "synonyms": [
+        "earn",
+        "fetch"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "myself": {
+      "lemma": "myself",
+      "pos": "pronoun",
+      "ko": "나 자신 (나를 위해)",
+      "form": null,
+      "ipa": "/ˌmaɪˈsɛlf/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "fresh",
+        "brand-new"
+      ],
+      "ipa": "/nuː/"
+    },
+    "gown": {
+      "lemma": "gown",
+      "pos": "noun",
+      "ko": "드레스, 긴 원피스",
+      "form": null,
+      "synonyms": [
+        "dress",
+        "robe"
+      ],
+      "ipa": "/ɡaʊn/"
+    },
+    "wear": {
+      "lemma": "wear",
+      "pos": "verb",
+      "ko": "입다",
+      "form": null,
+      "synonyms": [
+        "put on",
+        "dress in"
+      ],
+      "ipa": "/wɛr/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "travel",
+        "head"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "fair": {
+      "lemma": "fair",
+      "pos": "noun",
+      "ko": "장터, 축제 시장",
+      "form": null,
+      "synonyms": [
+        "festival",
+        "market"
+      ],
+      "ipa": "/fɛr/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든; (all about) 완전히",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "young": {
+      "lemma": "young",
+      "pos": "adjective",
+      "ko": "젊은",
+      "form": null,
+      "synonyms": [
+        "youthful"
+      ],
+      "ipa": "/jʌŋ/"
+    },
+    "fellows": {
+      "lemma": "fellow",
+      "pos": "noun",
+      "ko": "남자, 녀석",
+      "form": "복수형",
+      "synonyms": [
+        "men",
+        "lads"
+      ],
+      "ipa": "/ˈfɛloʊz/"
+    },
+    "admire": {
+      "lemma": "admire",
+      "pos": "verb",
+      "ko": "감탄하다, 칭찬하며 보다",
+      "form": null,
+      "synonyms": [
+        "praise",
+        "appreciate"
+      ],
+      "ipa": "/ædˈmaɪr/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 다가오다",
+      "form": null,
+      "synonyms": [
+        "approach",
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "love": {
+      "lemma": "love",
+      "pos": "noun",
+      "ko": "(make love to) 구애, 사랑 고백 (옛 표현)",
+      "form": null,
+      "synonyms": [
+        "courtship",
+        "affection"
+      ],
+      "ipa": "/lʌv/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "toss": {
+      "lemma": "toss",
+      "pos": "verb",
+      "ko": "(고개를) 홱 젖히다",
+      "form": null,
+      "synonyms": [
+        "flip",
+        "throw"
+      ],
+      "ipa": "/tɔːs/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 않음",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들에게, 그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "forgetting": {
+      "lemma": "forget",
+      "pos": "verb",
+      "ko": "잊다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "overlook",
+        "neglect"
+      ],
+      "ipa": "/fərˈɡɛtɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "suiting": {
+      "lemma": "suit",
+      "pos": "verb",
+      "ko": "(suit the action to the word) 말에 행동을 맞추다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "match",
+        "fit"
+      ],
+      "ipa": "/ˈsuːtɪŋ/"
+    },
+    "action": {
+      "lemma": "action",
+      "pos": "noun",
+      "ko": "행동, 동작",
+      "form": null,
+      "synonyms": [
+        "act",
+        "movement"
+      ],
+      "ipa": "/ˈækʃən/"
+    },
+    "word": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "말, 단어",
+      "form": null,
+      "synonyms": [
+        "speech",
+        "saying"
+      ],
+      "ipa": "/wɜːrd/"
+    },
+    "tossed": {
+      "lemma": "toss",
+      "pos": "verb",
+      "ko": "(고개를) 홱 젖혔다",
+      "form": "과거형",
+      "synonyms": [
+        "flipped",
+        "jerked"
+      ],
+      "ipa": "/tɔːst/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다, (떨어져) 내려가다",
+      "form": "과거형",
+      "synonyms": [
+        "fell",
+        "dropped"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "spilled": {
+      "lemma": "spill",
+      "pos": "verb",
+      "ko": "쏟다, 엎지르다",
+      "form": "과거분사",
+      "synonyms": [
+        "pour out",
+        "slop"
+      ],
+      "ipa": "/spɪld/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "멋진, 훌륭한",
+      "form": null,
+      "synonyms": [
+        "splendid",
+        "lovely"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "castles": {
+      "lemma": "castle",
+      "pos": "noun",
+      "ko": "성; (castles in the air) 공상",
+      "form": "복수형",
+      "synonyms": [
+        "palaces",
+        "fortresses"
+      ],
+      "ipa": "/ˈkæsəlz/"
+    },
+    "air": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "공기, 공중",
+      "form": null,
+      "synonyms": [
+        "sky"
+      ],
+      "ipa": "/ɛr/"
+    },
+    "vanished": {
+      "lemma": "vanish",
+      "pos": "verb",
+      "ko": "사라지다",
+      "form": "과거형",
+      "synonyms": [
+        "disappeared",
+        "faded"
+      ],
+      "ipa": "/ˈvænɪʃt/"
+    },
+    "moment": {
+      "lemma": "moment",
+      "pos": "noun",
+      "ko": "순간",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "second"
+      ],
+      "ipa": "/ˈmoʊmənt/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정 명령문을 만듦) ~하지 마라",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다, ~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "count": {
+      "lemma": "count",
+      "pos": "verb",
+      "ko": "세다",
+      "form": null,
+      "synonyms": [
+        "number",
+        "tally"
+      ],
+      "ipa": "/kaʊnt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (수동태를 만듦)",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    }
+  }
+}

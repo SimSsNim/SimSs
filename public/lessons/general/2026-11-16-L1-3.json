@@ -1,0 +1,1068 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-16-L1-3",
+  "date": "2026-11-16",
+  "level": 1,
+  "title": "The Oak and the Reeds",
+  "titleKo": "참나무와 갈대",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_16_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_16_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-2-fables-26-50",
+    "reader": "phoenixascending",
+    "durationSec": 63,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 02, 16번 트랙(전체 41번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 104,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "강둑에서 자라던 참나무 한 그루가 거센 강풍에 뿌리째 뽑혀 강물을 가로질러 내동댕이쳐졌다. 참나무는 물가에서 자라는 갈대들 사이로 쓰러졌고, 갈대들에게 말했다. \"그렇게 약하고 가느다란 너희는 어떻게 폭풍을 견뎌 냈니? 나는 이렇게 힘이 센데도 뿌리째 뽑혀 강물에 던져졌는데 말이야.\" \"당신은 고집이 셌어요.\" 대답이 돌아왔다. \"그래서 당신보다 더 강한 폭풍에 맞서 싸웠지요. 하지만 우리는 바람이 불 때마다 고개를 숙이고 따르니, 강풍이 우리 머리 위로 아무 해 없이 지나간 거예요.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "An Oak that grew on the bank of a river was uprooted by a severe gale of wind, and thrown across the stream.",
+      "ko": "강둑에서 자라던 참나무 한 그루가 거센 강풍에 뿌리째 뽑혀 강물을 가로질러 내동댕이쳐졌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "It fell among some Reeds growing by the water, and said to them, \"How is it that you, who are so frail and slender, have managed to weather the storm, whereas I, with all my strength, have been torn up by the roots and hurled into the river?\"",
+      "ko": "참나무는 물가에서 자라는 갈대들 사이로 쓰러졌고, 갈대들에게 말했다. \"그렇게 약하고 가느다란 너희는 어떻게 폭풍을 견뎌 냈니? 나는 이렇게 힘이 센데도 뿌리째 뽑혀 강물에 던져졌는데 말이야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "\"You were stubborn,\" came the reply, \"and fought against the storm, which proved stronger than you: but we bow and yield to every breeze, and thus the gale passed harmlessly over our heads.\"",
+      "ko": "\"당신은 고집이 셌어요.\" 대답이 돌아왔다. \"그래서 당신보다 더 강한 폭풍에 맞서 싸웠지요. 하지만 우리는 바람이 불 때마다 고개를 숙이고 따르니, 강풍이 우리 머리 위로 아무 해 없이 지나간 거예요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "uproot",
+      "pos": "verb",
+      "meaningKo": "뿌리째 뽑다",
+      "ipa": "/ʌpˈruːt/",
+      "synonyms": [
+        "pull up",
+        "tear up"
+      ],
+      "matchText": "uprooted",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Many trees were uprooted by the typhoon.",
+        "ko": "태풍에 많은 나무가 뿌리째 뽑혔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "frail",
+      "pos": "adjective",
+      "meaningKo": "약한, 연약한",
+      "ipa": "/freɪl/",
+      "synonyms": [
+        "weak",
+        "fragile",
+        "delicate"
+      ],
+      "matchText": "frail",
+      "sentenceId": "s2",
+      "example": {
+        "en": "My grandmother is old and frail.",
+        "ko": "우리 할머니는 나이가 많고 몸이 약하시다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "weather",
+      "pos": "verb",
+      "meaningKo": "(폭풍·어려움을) 견뎌 내다, 무사히 넘기다",
+      "ipa": "/ˈwɛðər/",
+      "synonyms": [
+        "survive",
+        "endure",
+        "get through"
+      ],
+      "matchText": "weather",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The small shop weathered the hard times.",
+        "ko": "그 작은 가게는 힘든 시기를 견뎌 냈다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "stubborn",
+      "pos": "adjective",
+      "meaningKo": "고집 센, 완고한",
+      "ipa": "/ˈstʌbərn/",
+      "synonyms": [
+        "obstinate",
+        "headstrong"
+      ],
+      "matchText": "stubborn",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He is too stubborn to say sorry.",
+        "ko": "그는 너무 고집이 세서 미안하다는 말을 안 한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "yield",
+      "pos": "verb",
+      "meaningKo": "굴복하다, (힘에) 따르다",
+      "ipa": "/jiːld/",
+      "synonyms": [
+        "give way",
+        "bend",
+        "give in"
+      ],
+      "matchText": "yield",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The door finally yielded when I pushed hard.",
+        "ko": "세게 밀자 문이 마침내 열렸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "An Oak",
+          "role": "S",
+          "sub": false,
+          "ko": "참나무 한 그루가"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~한"
+        },
+        {
+          "text": "grew",
+          "role": "V",
+          "sub": true,
+          "ko": "자란"
+        },
+        {
+          "text": "on the bank of a river",
+          "role": "M",
+          "sub": true,
+          "ko": "강둑에서"
+        },
+        {
+          "text": "was uprooted",
+          "role": "V",
+          "sub": false,
+          "ko": "뿌리째 뽑혔다"
+        },
+        {
+          "text": "by a severe gale of wind,",
+          "role": "M",
+          "sub": false,
+          "ko": "거센 강풍에 의해,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "thrown",
+          "role": "V",
+          "sub": false,
+          "ko": "던져졌다"
+        },
+        {
+          "text": "across the stream.",
+          "role": "M",
+          "sub": false,
+          "ko": "강물을 가로질러."
+        }
+      ],
+      "skeleton": "An Oak was uprooted and (was) thrown",
+      "explanation": "주어 An Oak를 that grew on the bank of a river(강둑에서 자란)가 뒤에서 꾸며 줘요. 동사는 수동태 was uprooted와 (was) thrown 두 개가 and로 이어져 있어요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "\"You",
+          "role": "S",
+          "sub": false,
+          "ko": "\"당신은"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "stubborn,\"",
+          "role": "C",
+          "sub": false,
+          "ko": "고집이 센,\""
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "왔다"
+        },
+        {
+          "text": "the reply,",
+          "role": "S",
+          "sub": false,
+          "ko": "대답이,"
+        },
+        {
+          "text": "\"and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "\"그리고"
+        },
+        {
+          "text": "fought",
+          "role": "V",
+          "sub": false,
+          "ko": "싸웠다"
+        },
+        {
+          "text": "against the storm,",
+          "role": "M",
+          "sub": false,
+          "ko": "폭풍에 맞서,"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그것은"
+        },
+        {
+          "text": "proved",
+          "role": "V",
+          "sub": true,
+          "ko": "드러났다"
+        },
+        {
+          "text": "stronger than you:",
+          "role": "C",
+          "sub": true,
+          "ko": "당신보다 더 강한 것으로:"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "sub": false,
+          "ko": "우리는"
+        },
+        {
+          "text": "bow and yield",
+          "role": "V",
+          "sub": false,
+          "ko": "숙이고 따른다"
+        },
+        {
+          "text": "to every breeze,",
+          "role": "M",
+          "sub": false,
+          "ko": "모든 바람에,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "thus",
+          "role": "M",
+          "sub": false,
+          "ko": "그리하여"
+        },
+        {
+          "text": "the gale",
+          "role": "S",
+          "sub": false,
+          "ko": "강풍이"
+        },
+        {
+          "text": "passed",
+          "role": "V",
+          "sub": false,
+          "ko": "지나갔다"
+        },
+        {
+          "text": "harmlessly",
+          "role": "M",
+          "sub": false,
+          "ko": "해 없이"
+        },
+        {
+          "text": "over our heads.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "우리 머리 위로.\""
+        }
+      ],
+      "skeleton": "You were stubborn and fought ~ : but we bow and yield ~",
+      "explanation": "came the reply는 the reply came이 뒤집힌 형태(도치)로 '대답이 돌아왔다'는 뜻이에요. 쉼표 뒤 which는 앞의 the storm을 보충 설명해요. but 뒤에는 갈대들의 방법이 대조되어 나와요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "수동태 (was + 과거분사)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "was uprooted",
+        "thrown"
+      ],
+      "explanation": "was uprooted는 '뿌리째 뽑혔다', (was) thrown은 '던져졌다'라는 뜻이에요. 참나무가 스스로 한 일이 아니라 바람에 의해 당한 일이라 수동태를 써요.",
+      "example": {
+        "en": "The window was broken by the ball.",
+        "ko": "창문이 공에 깨졌다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "현재완료 (have + 과거분사)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "have managed",
+        "have been torn up"
+      ],
+      "explanation": "have managed는 '(지금까지) 해냈다', have been torn up은 '(방금) 뽑혀 버렸다'라는 뜻이에요. 과거에 일어난 일이 지금까지 영향을 줄 때 현재완료를 써요.",
+      "example": {
+        "en": "I have lost my key, so I cannot open the door.",
+        "ko": "열쇠를 잃어버려서 문을 열 수가 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "비교급 + than (~보다 더 …한)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "stronger than you"
+      ],
+      "explanation": "stronger than you는 '당신보다 더 강한'이라는 뜻이에요. 짧은 형용사는 뒤에 -er을 붙여 비교급을 만들어요.",
+      "example": {
+        "en": "My bag is heavier than yours.",
+        "ko": "내 가방이 네 것보다 더 무겁다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "oak": {
+      "lemma": "oak",
+      "pos": "noun",
+      "ko": "참나무, 떡갈나무",
+      "form": null,
+      "ipa": "/oʊk/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~한",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "grew": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자라다",
+      "form": "과거형",
+      "synonyms": [
+        "sprout"
+      ],
+      "ipa": "/ɡruː/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "bank": {
+      "lemma": "bank",
+      "pos": "noun",
+      "ko": "둑, 강기슭",
+      "form": null,
+      "synonyms": [
+        "shore",
+        "riverside"
+      ],
+      "ipa": "/bæŋk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "river": {
+      "lemma": "river",
+      "pos": "noun",
+      "ko": "강",
+      "form": null,
+      "synonyms": [
+        "stream"
+      ],
+      "ipa": "/ˈrɪvər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "uprooted": {
+      "lemma": "uproot",
+      "pos": "verb",
+      "ko": "뿌리째 뽑다",
+      "form": "과거분사",
+      "synonyms": [
+        "pull up"
+      ],
+      "ipa": "/əˈpruːtɪd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; ~ 옆에",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "severe": {
+      "lemma": "severe",
+      "pos": "adjective",
+      "ko": "심한, 거센",
+      "form": null,
+      "synonyms": [
+        "violent",
+        "fierce"
+      ],
+      "ipa": "/səˈvɪr/"
+    },
+    "gale": {
+      "lemma": "gale",
+      "pos": "noun",
+      "ko": "강풍, 돌풍",
+      "form": null,
+      "synonyms": [
+        "storm",
+        "strong wind"
+      ],
+      "ipa": "/ɡeɪl/"
+    },
+    "wind": {
+      "lemma": "wind",
+      "pos": "noun",
+      "ko": "바람",
+      "form": null,
+      "synonyms": [
+        "breeze"
+      ],
+      "ipa": "/waɪnd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "thrown": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던져지다",
+      "form": "과거분사",
+      "synonyms": [
+        "hurl",
+        "fling"
+      ],
+      "ipa": "/θroʊn/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~을 가로질러",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "stream": {
+      "lemma": "stream",
+      "pos": "noun",
+      "ko": "강물, 시내",
+      "form": null,
+      "synonyms": [
+        "river",
+        "creek"
+      ],
+      "ipa": "/striːm/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (참나무); (가주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "쓰러지다, 떨어지다",
+      "form": "과거형",
+      "synonyms": [
+        "drop"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "among": {
+      "lemma": "among",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/əˈmʌŋ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "몇몇의, 어떤",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "reeds": {
+      "lemma": "reed",
+      "pos": "noun",
+      "ko": "갈대",
+      "form": "복수형",
+      "synonyms": [
+        "rush"
+      ],
+      "ipa": "/riːdz/"
+    },
+    "growing": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자라는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "sprout"
+      ],
+      "ipa": "/ˈɡroʊɪŋ/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물, 물가",
+      "form": null,
+      "ipa": "/ˈwɔːtər/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들(에게)",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너(희), 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~한 (사람·것)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 아주",
+      "form": null,
+      "synonyms": [
+        "very"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "frail": {
+      "lemma": "frail",
+      "pos": "adjective",
+      "ko": "약한, 연약한",
+      "form": null,
+      "synonyms": [
+        "weak",
+        "fragile"
+      ],
+      "ipa": "/freɪl/"
+    },
+    "slender": {
+      "lemma": "slender",
+      "pos": "adjective",
+      "ko": "가느다란, 호리호리한",
+      "form": null,
+      "synonyms": [
+        "thin",
+        "slim"
+      ],
+      "ipa": "/ˈslɛndər/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다, ~했다",
+      "form": "현재형",
+      "ipa": "/hæv/"
+    },
+    "managed": {
+      "lemma": "manage",
+      "pos": "verb",
+      "ko": "(manage to) 간신히 ~해내다",
+      "form": "과거분사",
+      "synonyms": [
+        "succeed"
+      ],
+      "ipa": "/ˈmænədʒd/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "verb",
+      "ko": "(폭풍을) 견뎌 내다",
+      "form": null,
+      "synonyms": [
+        "survive",
+        "endure"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "storm": {
+      "lemma": "storm",
+      "pos": "noun",
+      "ko": "폭풍",
+      "form": null,
+      "synonyms": [
+        "tempest"
+      ],
+      "ipa": "/stɔːrm/"
+    },
+    "whereas": {
+      "lemma": "whereas",
+      "pos": "conjunction",
+      "ko": "~인 반면에",
+      "form": null,
+      "ipa": "/wɛˈræz/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고도",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "strength": {
+      "lemma": "strength",
+      "pos": "noun",
+      "ko": "힘",
+      "form": null,
+      "synonyms": [
+        "power",
+        "might"
+      ],
+      "ipa": "/strɛŋkθ/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "torn": {
+      "lemma": "tear",
+      "pos": "verb",
+      "ko": "(tear up) 뜯기다, 뽑히다",
+      "form": "과거분사",
+      "synonyms": [
+        "rip"
+      ],
+      "ipa": "/tɔːrn/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(tear up) 뽑아서, 위로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "roots": {
+      "lemma": "root",
+      "pos": "noun",
+      "ko": "뿌리",
+      "form": "복수형",
+      "ipa": "/ruːts/"
+    },
+    "hurled": {
+      "lemma": "hurl",
+      "pos": "verb",
+      "ko": "내던지다",
+      "form": "과거분사",
+      "synonyms": [
+        "throw",
+        "fling"
+      ],
+      "ipa": "/hɜːrld/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "stubborn": {
+      "lemma": "stubborn",
+      "pos": "adjective",
+      "ko": "고집 센, 완고한",
+      "form": null,
+      "synonyms": [
+        "obstinate",
+        "headstrong"
+      ],
+      "ipa": "/ˈstʌbərn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(대답이) 오다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "reply": {
+      "lemma": "reply",
+      "pos": "noun",
+      "ko": "대답",
+      "form": null,
+      "synonyms": [
+        "answer",
+        "response"
+      ],
+      "ipa": "/rɪˈplaɪ/"
+    },
+    "fought": {
+      "lemma": "fight",
+      "pos": "verb",
+      "ko": "싸우다",
+      "form": "과거형",
+      "synonyms": [
+        "battle",
+        "struggle"
+      ],
+      "ipa": "/fɔːt/"
+    },
+    "against": {
+      "lemma": "against",
+      "pos": "preposition",
+      "ko": "~에 맞서",
+      "form": null,
+      "ipa": "/əˈɡɛnst/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그런데 그것은",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "proved": {
+      "lemma": "prove",
+      "pos": "verb",
+      "ko": "~임이 드러나다, 판명되다",
+      "form": "과거형",
+      "synonyms": [
+        "turn out"
+      ],
+      "ipa": "/pruːvd/"
+    },
+    "stronger": {
+      "lemma": "strong",
+      "pos": "adjective",
+      "ko": "더 강한",
+      "form": "비교급",
+      "synonyms": [
+        "more powerful"
+      ],
+      "ipa": "/ˈstrɔːŋər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "preposition",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "bow": {
+      "lemma": "bow",
+      "pos": "verb",
+      "ko": "숙이다, 굽히다",
+      "form": null,
+      "synonyms": [
+        "bend",
+        "stoop"
+      ],
+      "ipa": "/baʊ/"
+    },
+    "yield": {
+      "lemma": "yield",
+      "pos": "verb",
+      "ko": "굴복하다, 따르다",
+      "form": null,
+      "synonyms": [
+        "give way",
+        "give in"
+      ],
+      "ipa": "/jiːld/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "breeze": {
+      "lemma": "breeze",
+      "pos": "noun",
+      "ko": "산들바람, 바람",
+      "form": null,
+      "synonyms": [
+        "wind",
+        "gust"
+      ],
+      "ipa": "/briːz/"
+    },
+    "thus": {
+      "lemma": "thus",
+      "pos": "adverb",
+      "ko": "그리하여, 그래서",
+      "form": null,
+      "synonyms": [
+        "so",
+        "therefore"
+      ],
+      "ipa": "/ðʌs/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "go by"
+      ],
+      "ipa": "/pæst/"
+    },
+    "harmlessly": {
+      "lemma": "harmlessly",
+      "pos": "adverb",
+      "ko": "해 없이, 무해하게",
+      "form": null,
+      "synonyms": [
+        "safely"
+      ],
+      "ipa": "/ˈhɑːrmləsli/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 위로",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "heads": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": "복수형",
+      "ipa": "/hɛdz/"
+    }
+  }
+}

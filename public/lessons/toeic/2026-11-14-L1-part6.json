@@ -1,0 +1,1234 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-14-L1-part6",
+  "date": "2026-11-14",
+  "level": 1,
+  "title": "Team Dinner Reservation",
+  "titleKo": "단체 저녁 식사 예약 확인 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "식당·호텔"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 107,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "오카포 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "팀 저녁 식사 장소로 벨몬트 그릴을 선택해 주셔서 감사합니다. 3월 6일 금요일 저녁 7시, 12명 예약을 확인해 드리게 되어 기쁩니다. 일행분들은 2층에 있는 단독 식사 공간(프라이빗 룸)으로 안내됩니다. 이 방은 조용해서 업무 식사에 아주 좋습니다. 또한 10명 이상 단체를 위한 특별 세트 메뉴도 있습니다. 그 메뉴를 주문하고 싶으시면 수요일까지 알려 주세요."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "계획이 바뀌면 555-0148로 전화 주세요. 고객님과 팀원분들을 모시게 되기를 기대합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "감사합니다,"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "리나 모로"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "예약 담당 매니저"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Ms. Okafor,",
+      "ko": "오카포 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for choosing Bellmont Grill for your team dinner.",
+      "ko": "팀 저녁 식사 장소로 벨몬트 그릴을 선택해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "We are happy to confirm your reservation for twelve people on Friday, March 6, at seven in the evening.",
+      "ko": "3월 6일 금요일 저녁 7시, 12명 예약을 확인해 드리게 되어 기쁩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Your group will be seated in our private dining room on the second floor.",
+      "ko": "일행분들은 2층에 있는 단독 식사 공간(프라이빗 룸)으로 안내됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "This room is quiet, so it is perfect for business meals.",
+      "ko": "이 방은 조용해서 업무 식사에 아주 좋습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "We also offer a special set menu for groups of ten or more.",
+      "ko": "또한 10명 이상 단체를 위한 특별 세트 메뉴도 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Please let us know by Wednesday if you would like to order it.",
+      "ko": "그 메뉴를 주문하고 싶으시면 수요일까지 알려 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "If your plans change, please call us at 555-0148.",
+      "ko": "계획이 바뀌면 555-0148로 전화 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "We look forward to serving you and your team.",
+      "ko": "고객님과 팀원분들을 모시게 되기를 기대합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Best regards,",
+      "ko": "감사합니다,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Lina Moreau",
+      "ko": "리나 모로",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Reservations Manager",
+      "ko": "예약 담당 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "reservation",
+      "pos": "noun",
+      "meaningKo": "예약",
+      "ipa": "/ˌrezərˈveɪʃən/",
+      "synonyms": [
+        "booking"
+      ],
+      "matchText": "reservation",
+      "sentenceId": "s3",
+      "example": {
+        "en": "I made a reservation for two at the restaurant.",
+        "ko": "나는 그 식당에 2인 예약을 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "be seated",
+      "pos": "verb",
+      "meaningKo": "(자리에) 앉다, 안내되다",
+      "ipa": "/bi ˈsiːtɪd/",
+      "synonyms": [
+        "sit down",
+        "take a seat"
+      ],
+      "matchText": "be seated",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Please be seated before the speech begins.",
+        "ko": "연설이 시작되기 전에 자리에 앉아 주세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "private",
+      "pos": "adjective",
+      "meaningKo": "전용의, 개인의",
+      "ipa": "/ˈpraɪvət/",
+      "synonyms": [
+        "personal",
+        "exclusive"
+      ],
+      "matchText": "private",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The hotel has a private beach for guests.",
+        "ko": "그 호텔에는 투숙객 전용 해변이 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "perfect for",
+      "pos": "adjective",
+      "meaningKo": "~에 아주 알맞은",
+      "ipa": "/ˈpɜːrfɪkt fɔːr/",
+      "synonyms": [
+        "ideal for",
+        "suitable for"
+      ],
+      "matchText": "perfect for",
+      "sentenceId": "s5",
+      "example": {
+        "en": "This bag is perfect for short trips.",
+        "ko": "이 가방은 짧은 여행에 딱 좋다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "look forward to",
+      "pos": "phrasal-verb",
+      "meaningKo": "~을 기대하다, 고대하다",
+      "ipa": "/lʊk ˈfɔːrwərd tuː/",
+      "synonyms": [
+        "anticipate",
+        "await"
+      ],
+      "matchText": "look forward to",
+      "sentenceId": "s9",
+      "example": {
+        "en": "I look forward to meeting you.",
+        "ko": "당신을 만나기를 기대합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "happy",
+          "role": "C",
+          "ko": "기쁜"
+        },
+        {
+          "text": "to confirm",
+          "role": "M",
+          "ko": "확인하게 되어"
+        },
+        {
+          "text": "your reservation",
+          "role": "O",
+          "ko": "귀하의 예약을"
+        },
+        {
+          "text": "for twelve people",
+          "role": "M",
+          "ko": "12명에 대한"
+        },
+        {
+          "text": "on Friday, March 6, at seven in the evening.",
+          "role": "M",
+          "ko": "3월 6일 금요일 저녁 7시에"
+        }
+      ],
+      "skeleton": "We are happy to confirm your reservation",
+      "explanation": "be happy to + 동사원형 = ~하게 되어 기쁘다. to confirm의 목적어가 your reservation이고, 뒤는 인원·날짜·시간 정보."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Please let",
+          "role": "V",
+          "ko": "~하게 해 주세요"
+        },
+        {
+          "text": "us",
+          "role": "O",
+          "ko": "저희가"
+        },
+        {
+          "text": "know",
+          "role": "OC",
+          "ko": "알도록"
+        },
+        {
+          "text": "by Wednesday",
+          "role": "M",
+          "ko": "수요일까지"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "ko": "~인지"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "귀하가",
+          "sub": true
+        },
+        {
+          "text": "would like to order",
+          "role": "V",
+          "ko": "주문하고 싶다",
+          "sub": true
+        },
+        {
+          "text": "it.",
+          "role": "O",
+          "ko": "그것을",
+          "sub": true
+        }
+      ],
+      "skeleton": "(You) let us know",
+      "explanation": "let + 목적어 + 동사원형(know) = ~가 …하게 하다. let us know = 알려 주세요. by Wednesday는 마감 기한."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래 수동태 will be p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "will be seated"
+      ],
+      "explanation": "주어 Your group이 스스로 앉히는 것이 아니라 '자리로 안내되는' 것이므로 수동태 will be + 과거분사(seated).",
+      "example": {
+        "en": "The package will be delivered tomorrow.",
+        "ko": "그 소포는 내일 배달될 것이다."
+      },
+      "note": "seat는 '앉히다'라는 타동사라 사람이 주어면 be seated를 쓴다."
+    },
+    {
+      "id": "g2",
+      "title": "결과를 나타내는 접속사 so",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "so"
+      ],
+      "explanation": "'원인, so 결과' 순서. 방이 조용하다(원인) → 업무 식사에 좋다(결과).",
+      "example": {
+        "en": "It was raining, so we stayed inside.",
+        "ko": "비가 와서 우리는 안에 있었다."
+      },
+      "note": "앞이 이유, 뒤가 결과면 so를 고른다."
+    },
+    {
+      "id": "g3",
+      "title": "기한을 나타내는 by",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "by Wednesday"
+      ],
+      "explanation": "by + 시점 = '~까지(그때까지는 완료)'. 한 번 하면 끝나는 일(알려 주기)에 쓴다.",
+      "example": {
+        "en": "Please return the book by Monday.",
+        "ko": "월요일까지 책을 반납해 주세요."
+      },
+      "note": "let us know, submit, finish 같은 동사 + by + 날짜."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "ipa": "/dɪr/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "synonyms": [
+        "madam"
+      ],
+      "ipa": "/mɪz/"
+    },
+    "okafor": {
+      "lemma": "Okafor",
+      "pos": "proper-noun",
+      "ko": "오카포(사람 성)",
+      "ipa": null
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해; ~명을 위한",
+      "ipa": "/fɔːr/"
+    },
+    "choosing": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "선택하는 것",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "selecting",
+        "picking"
+      ],
+      "ipa": "/ˈtʃuːzɪŋ/"
+    },
+    "bellmont": {
+      "lemma": "Bellmont",
+      "pos": "proper-noun",
+      "ko": "벨몬트(식당 이름)",
+      "ipa": null
+    },
+    "grill": {
+      "lemma": "grill",
+      "pos": "proper-noun",
+      "ko": "그릴 (식당 이름 Bellmont Grill의 일부)",
+      "ipa": "/ɡrɪl/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 귀하의",
+      "ipa": "/jɔːr/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "synonyms": [
+        "group",
+        "department"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "dinner": {
+      "lemma": "dinner",
+      "pos": "noun",
+      "ko": "저녁 식사",
+      "synonyms": [
+        "evening meal",
+        "supper"
+      ],
+      "ipa": "/ˈdɪnər/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하다 (be동사)",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "happy": {
+      "lemma": "happy",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "synonyms": [
+        "glad",
+        "pleased"
+      ],
+      "ipa": "/ˈhæpi/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사)",
+      "ipa": "/tuː/"
+    },
+    "confirm": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인해 주다, 확정하다",
+      "synonyms": [
+        "verify",
+        "approve"
+      ],
+      "ipa": "/kənˈfɜːrm/"
+    },
+    "reservation": {
+      "lemma": "reservation",
+      "pos": "noun",
+      "ko": "예약",
+      "synonyms": [
+        "booking"
+      ],
+      "ipa": "/ˌrɛzərˈveɪʃən/"
+    },
+    "twelve": {
+      "lemma": "twelve",
+      "pos": "number",
+      "ko": "12, 열둘",
+      "ipa": "/twɛlv/"
+    },
+    "people": {
+      "lemma": "person",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": "복수형",
+      "synonyms": [
+        "persons",
+        "individuals"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·층)",
+      "ipa": "/ɑːn/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "ipa": "/ˈfraɪdi/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "ipa": "/mɑːrtʃ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (시각); ~번으로 (전화)",
+      "ipa": "/æt/"
+    },
+    "seven": {
+      "lemma": "seven",
+      "pos": "number",
+      "ko": "7, 일곱 (시)",
+      "ipa": "/ˈsɛvən/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁",
+      "synonyms": [
+        "night"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "group": {
+      "lemma": "group",
+      "pos": "noun",
+      "ko": "일행, 단체",
+      "synonyms": [
+        "party",
+        "team"
+      ],
+      "ipa": "/ɡruːp/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (be동사 원형)",
+      "ipa": "/biː/"
+    },
+    "seated": {
+      "lemma": "seat",
+      "pos": "verb",
+      "ko": "자리에 앉혀진, 안내된",
+      "form": "과거분사",
+      "synonyms": [
+        "placed",
+        "sat"
+      ],
+      "ipa": "/ˈsiːtɪd/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "ipa": "/ˈaʊər/"
+    },
+    "private": {
+      "lemma": "private",
+      "pos": "adjective",
+      "ko": "전용의, 단독의",
+      "synonyms": [
+        "personal",
+        "exclusive"
+      ],
+      "ipa": "/ˈpraɪvət/"
+    },
+    "dining": {
+      "lemma": "dining",
+      "pos": "noun",
+      "ko": "식사 (dining room: 식당 방)",
+      "synonyms": [
+        "eating"
+      ],
+      "ipa": "/ˈdaɪnɪŋ/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 공간",
+      "synonyms": [
+        "space",
+        "hall"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "ipa": "/ˈsɛkənd/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이; 이것",
+      "ipa": "/ðɪs/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (be동사)",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "quiet": {
+      "lemma": "quiet",
+      "pos": "adjective",
+      "ko": "조용한",
+      "synonyms": [
+        "silent",
+        "peaceful"
+      ],
+      "ipa": "/ˈkwaɪət/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서; (so ~ that: 너무 ~해서)",
+      "ipa": "/soʊ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (세트 메뉴)",
+      "ipa": "/ɪt/"
+    },
+    "perfect": {
+      "lemma": "perfect",
+      "pos": "adjective",
+      "ko": "아주 알맞은, 완벽한",
+      "synonyms": [
+        "ideal",
+        "suitable"
+      ],
+      "ipa": "/pərˈfɛkt/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "업무, 사업",
+      "synonyms": [
+        "work",
+        "commerce"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "meals": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사",
+      "form": "복수형",
+      "synonyms": [
+        "dinners",
+        "lunches"
+      ],
+      "ipa": "/miːlz/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "synonyms": [
+        "too",
+        "additionally"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "offer": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다, 내놓다",
+      "synonyms": [
+        "provide",
+        "serve"
+      ],
+      "ipa": "/ˈɔːfər/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "special": {
+      "lemma": "special",
+      "pos": "adjective",
+      "ko": "특별한",
+      "synonyms": [
+        "unique",
+        "exclusive"
+      ],
+      "ipa": "/ˈspɛʃəl/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "adjective",
+      "ko": "정해진 (set menu: 세트 메뉴)",
+      "synonyms": [
+        "fixed"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "menu": {
+      "lemma": "menu",
+      "pos": "noun",
+      "ko": "메뉴",
+      "ipa": "/ˈmɛnju/"
+    },
+    "groups": {
+      "lemma": "group",
+      "pos": "noun",
+      "ko": "단체들",
+      "form": "복수형",
+      "synonyms": [
+        "parties"
+      ],
+      "ipa": "/ɡruːps/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "ten": {
+      "lemma": "ten",
+      "pos": "number",
+      "ko": "10, 열",
+      "ipa": "/tɛn/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "ipa": "/ɔːr/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "ipa": "/mɔːr/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)",
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다",
+      "synonyms": [
+        "allow"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리에게",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "synonyms": [
+        "understand"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한); ~으로 (수단)",
+      "ipa": "/baɪ/"
+    },
+    "wednesday": {
+      "lemma": "Wednesday",
+      "pos": "proper-noun",
+      "ko": "수요일",
+      "ipa": "/ˈwɛnzdi/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면; ~인지",
+      "ipa": "/ɪf/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (will의 과거); would like to: ~하고 싶다",
+      "ipa": "/wʊd/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "(would like to: ~하고 싶다)",
+      "synonyms": [
+        "want",
+        "wish"
+      ],
+      "ipa": "/laɪk/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "verb",
+      "ko": "주문하다",
+      "synonyms": [
+        "request",
+        "choose"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "plans": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "계획",
+      "form": "복수형",
+      "synonyms": [
+        "arrangements",
+        "schedule"
+      ],
+      "ipa": "/plænz/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "verb",
+      "ko": "바꾸다, 바뀌다",
+      "synonyms": [
+        "alter",
+        "adjust"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다",
+      "synonyms": [
+        "phone",
+        "contact"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "555-0148": {
+      "lemma": "555-0148",
+      "pos": "number",
+      "ko": "전화번호 555-0148",
+      "ipa": null
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look forward to: 기대하다)",
+      "ipa": "/lʊk/"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "(look forward to: 기대하다)",
+      "synonyms": [
+        "ahead"
+      ],
+      "ipa": "/ˈfɔːrwərd/"
+    },
+    "serving": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "(손님을) 모시는 것, 대접하는 것",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "hosting",
+        "waiting on"
+      ],
+      "ipa": "/ˈsɜːrvɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "best": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "(Best regards: 맺음말 인사)",
+      "form": "최상급",
+      "synonyms": [
+        "finest"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "regards": {
+      "lemma": "regard",
+      "pos": "noun",
+      "ko": "(Best regards: 안부, 맺음말 인사)",
+      "form": "복수형",
+      "synonyms": [
+        "wishes",
+        "greetings"
+      ],
+      "ipa": "/rɪˈɡɑːrdz/"
+    },
+    "lina": {
+      "lemma": "Lina",
+      "pos": "proper-noun",
+      "ko": "리나(사람 이름)",
+      "ipa": "/ˈliːnə/"
+    },
+    "moreau": {
+      "lemma": "Moreau",
+      "pos": "proper-noun",
+      "ko": "모로(사람 성)",
+      "ipa": "/məˈroʊ/"
+    },
+    "reservations": {
+      "lemma": "reservation",
+      "pos": "noun",
+      "ko": "예약 (Reservations Manager: 예약 담당 매니저)",
+      "form": "복수형",
+      "synonyms": [
+        "bookings"
+      ],
+      "ipa": "/ˌrɛzərˈveɪʃənz/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "will be seated"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "seat"
+        },
+        {
+          "key": "B",
+          "text": "will be seated"
+        },
+        {
+          "key": "C",
+          "text": "seating"
+        },
+        {
+          "key": "D",
+          "text": "has seated"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "일행(Your group)은 '자리로 안내되는' 대상이므로 수동태. 예약일(3월 6일)은 앞으로의 일이라 미래형 will be seated.",
+      "choiceNotesKo": {
+        "A": "Your group은 단수라 seat가 올 수 없고, 의미도 능동이 되어 버린다.",
+        "D": "has seated는 능동이라 '누군가를 앉혔다'는 뜻이 된다."
+      },
+      "skill": "미래 수동태"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "so"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "unless"
+        },
+        {
+          "key": "B",
+          "text": "although"
+        },
+        {
+          "key": "C",
+          "text": "if"
+        },
+        {
+          "key": "D",
+          "text": "so"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "방이 조용하다(이유) → 그래서 업무 식사에 좋다(결과). 결과를 잇는 so.",
+      "choiceNotesKo": {
+        "B": "although(비록 ~지만)는 앞뒤가 반대될 때 쓴다.",
+        "A": "unless(~하지 않으면)는 뜻이 맞지 않는다."
+      },
+      "skill": "접속사 의미(원인→결과)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "We also offer a special set menu for groups of ten or more."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "We also offer a special set menu for groups of ten or more."
+        },
+        {
+          "key": "B",
+          "text": "Our restaurant first opened downtown in 2015."
+        },
+        {
+          "key": "C",
+          "text": "The kitchen is closed every Monday."
+        },
+        {
+          "key": "D",
+          "text": "Many guests enjoy our outdoor patio in summer."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "바로 다음 문장이 '그것(it)을 주문하고 싶으면 알려 달라'이다. 주문할 수 있는 것, 즉 세트 메뉴를 소개하는 문장이 와야 it이 자연스럽다.",
+      "choiceNotesKo": {
+        "B": "식당 역사는 예약 안내 흐름과 관계없고, order it과 이어지지 않는다.",
+        "D": "야외 테라스는 주문하는 대상이 아니고, 이미 2층 방으로 정해졌다."
+      },
+      "skill": "문장 넣기(지시어 it)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "by"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "among"
+        },
+        {
+          "key": "B",
+          "text": "since"
+        },
+        {
+          "key": "C",
+          "text": "by"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "'수요일까지 알려 달라'는 기한이므로 by + 시점.",
+      "choiceNotesKo": {
+        "B": "since는 '~이후로'라서 완료 시제와 쓴다.",
+        "A": "among은 '(셋 이상) 사이에'라서 시점 앞에 쓰지 않는다."
+      },
+      "skill": "기한 전치사 by"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "serving"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "serve"
+        },
+        {
+          "key": "B",
+          "text": "serving"
+        },
+        {
+          "key": "C",
+          "text": "served"
+        },
+        {
+          "key": "D",
+          "text": "to serve"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "look forward to의 to는 전치사라서 뒤에 동명사 serving이 온다.",
+      "choiceNotesKo": {
+        "A": "to 뒤라고 동사원형을 고르기 쉽지만, 여기서 to는 전치사다.",
+        "D": "to를 한 번 더 쓰면 문법이 틀린다."
+      },
+      "skill": "look forward to + -ing"
+    }
+  ]
+}

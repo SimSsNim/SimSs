@@ -1,0 +1,1701 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-18-L3",
+  "date": "2026-11-18",
+  "level": 3,
+  "title": "Little Red-Cap",
+  "titleKo": "빨간 모자",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "obedience"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Little Red-Cap)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Little Red-Cap'(원문 제목 'LITTLE RED-CAP [LITTLE RED RIDING HOOD]', 흔히 '빨간 모자'로 알려진 이야기) 첫 4개 단락 전체 (‘Once upon a time there was a dear little girl’부터 ‘…was not at all afraid of him.’까지, 225단어). 다음 단락부터 늑대와의 대화가 이어지는데, 첫 단락들만으로 레벨 범위(200~250)에 맞아 늑대를 만나는 장면에서 끊음. gutenberg.org 점검 중(503)이라 archive.org에 보관된 같은 전자책의 옛 판(PG #2591, grimm10.txt)에서 가져왔고, 줄바꿈만 공백 하나로 이음. 첫 단락 끝의 'Red-/Cap'은 줄 끝 하이픈이라 'Red-Cap'으로 붙임."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_22_littleredcap.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_22_littleredcap_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "R. Francis Smith",
+    "durationSec": 467,
+    "startSec": 15,
+    "endSec": 105,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 22 'Little Red-Cap' (전체 7:46). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:45 (추정)."
+  },
+  "wordCount": 225,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "옛날 옛적에 사랑스러운 어린 소녀가 하나 있었는데, 그 아이를 본 사람은 누구나 아이를 사랑했지만 누구보다도 할머니가 아이를 가장 아꼈고, 할머니는 아이에게 무엇이든 주지 못할 것이 없었다. 한번은 할머니가 아이에게 빨간 벨벳으로 만든 작은 모자를 주었는데, 그 모자가 아이에게 어찌나 잘 어울렸던지 아이는 다른 것은 절대 쓰려 하지 않았다. 그래서 아이는 늘 '빨간 모자'라고 불렸다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4"
+      ],
+      "ko": "어느 날 어머니가 아이에게 말했다. \"이리 오렴, 빨간 모자야. 여기 케이크 한 조각과 포도주 한 병이 있단다. 할머니께 갖다 드리렴. 할머니가 편찮으시고 기운이 없으신데, 이걸 드시면 기운이 나실 거야. 날이 더워지기 전에 출발하고, 가는 동안에는 얌전하고 조용히 걸어가고 길에서 벗어나 뛰어다니지 마라. 그러다 넘어져서 병을 깨뜨리면 할머니는 아무것도 못 드시게 된단다. 그리고 할머니 방에 들어가면 '좋은 아침이에요' 하고 인사하는 걸 잊지 말고, 인사도 하기 전에 구석구석 기웃거리지 마라.\""
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "\"잘 조심할게요.\" 빨간 모자는 어머니에게 이렇게 말하고, 손을 내밀어 꼭 그러겠다고 약속했다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s6",
+        "s7"
+      ],
+      "ko": "할머니는 마을에서 반 리그쯤 떨어진 숲속에 살았는데, 빨간 모자가 막 숲에 들어섰을 때 늑대 한 마리가 아이와 마주쳤다. 빨간 모자는 늑대가 얼마나 못된 동물인지 알지 못했고, 그래서 늑대를 조금도 무서워하지 않았다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Once upon a time there was a dear little girl who was loved by everyone who looked at her, but most of all by her grandmother, and there was nothing that she would not have given to the child.",
+      "ko": "옛날 옛적에 사랑스러운 어린 소녀가 하나 있었는데, 그 아이를 본 사람은 누구나 아이를 사랑했지만 누구보다도 할머니가 아이를 가장 아꼈고, 할머니는 아이에게 무엇이든 주지 못할 것이 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Once she gave her a little cap of red velvet, which suited her so well that she would never wear anything else; so she was always called 'Little Red-Cap.'",
+      "ko": "한번은 할머니가 아이에게 빨간 벨벳으로 만든 작은 모자를 주었는데, 그 모자가 아이에게 어찌나 잘 어울렸던지 아이는 다른 것은 절대 쓰려 하지 않았다. 그래서 아이는 늘 '빨간 모자'라고 불렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "One day her mother said to her: 'Come, Little Red-Cap, here is a piece of cake and a bottle of wine; take them to your grandmother, she is ill and weak, and they will do her good.",
+      "ko": "어느 날 어머니가 아이에게 말했다. \"이리 오렴, 빨간 모자야. 여기 케이크 한 조각과 포도주 한 병이 있단다. 할머니께 갖다 드리렴. 할머니가 편찮으시고 기운이 없으신데, 이걸 드시면 기운이 나실 거야.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Set out before it gets hot, and when you are going, walk nicely and quietly and do not run off the path, or you may fall and break the bottle, and then your grandmother will get nothing; and when you go into her room, don't forget to say, \"Good morning\", and don't peep into every corner before you do it.'",
+      "ko": "날이 더워지기 전에 출발하고, 가는 동안에는 얌전하고 조용히 걸어가고 길에서 벗어나 뛰어다니지 마라. 그러다 넘어져서 병을 깨뜨리면 할머니는 아무것도 못 드시게 된단다. 그리고 할머니 방에 들어가면 '좋은 아침이에요' 하고 인사하는 걸 잊지 말고, 인사도 하기 전에 구석구석 기웃거리지 마라.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "'I will take great care,' said Little Red-Cap to her mother, and gave her hand on it.",
+      "ko": "\"잘 조심할게요.\" 빨간 모자는 어머니에게 이렇게 말하고, 손을 내밀어 꼭 그러겠다고 약속했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "The grandmother lived out in the wood, half a league from the village, and just as Little Red-Cap entered the wood, a wolf met her.",
+      "ko": "할머니는 마을에서 반 리그쯤 떨어진 숲속에 살았는데, 빨간 모자가 막 숲에 들어섰을 때 늑대 한 마리가 아이와 마주쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "Red-Cap did not know what a wicked creature he was, and was not at all afraid of him.",
+      "ko": "빨간 모자는 늑대가 얼마나 못된 동물인지 알지 못했고, 그래서 늑대를 조금도 무서워하지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "suit",
+      "pos": "verb",
+      "meaningKo": "(옷·색 등이) ~에게 어울리다",
+      "ipa": "/sut/",
+      "synonyms": [
+        "become",
+        "look good on"
+      ],
+      "matchText": "suited",
+      "sentenceId": "s2",
+      "example": {
+        "en": "That blue dress really suits you.",
+        "ko": "그 파란 드레스가 너한테 정말 잘 어울린다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "velvet",
+      "pos": "noun",
+      "meaningKo": "벨벳, 우단 (부드러운 털이 있는 천)",
+      "ipa": "/ˈvɛlvət/",
+      "synonyms": [
+        "plush",
+        "velour"
+      ],
+      "matchText": "velvet",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The queen wore a long velvet cloak.",
+        "ko": "여왕은 긴 벨벳 망토를 입었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "peep",
+      "pos": "verb",
+      "meaningKo": "엿보다, 살짝 들여다보다",
+      "ipa": "/pip/",
+      "synonyms": [
+        "peek",
+        "pry"
+      ],
+      "matchText": "peep",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The children peeped through the window at the presents.",
+        "ko": "아이들은 창문 너머로 선물을 몰래 엿보았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "give one's hand on it",
+      "pos": "idiom",
+      "meaningKo": "(손을 내밀어) 약속하다, 맹세하다",
+      "ipa": "/ɡɪv wʌnz hænd ɑn ɪt/",
+      "synonyms": [
+        "promise",
+        "shake on it"
+      ],
+      "matchText": "gave her hand on it",
+      "sentenceId": "s5",
+      "example": {
+        "en": "He said he would pay me back, and he gave his hand on it.",
+        "ko": "그는 돈을 갚겠다고 하면서 손을 내밀어 약속했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "wicked",
+      "pos": "adjective",
+      "meaningKo": "사악한, 못된",
+      "ipa": "/ˈwɪkɪd/",
+      "synonyms": [
+        "evil",
+        "cruel"
+      ],
+      "matchText": "wicked",
+      "sentenceId": "s7",
+      "example": {
+        "en": "In the story, a wicked witch locks the girl in a tower.",
+        "ko": "이야기에서 사악한 마녀가 소녀를 탑에 가둔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Once upon a time",
+          "role": "M",
+          "sub": false,
+          "ko": "옛날 옛적에"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": false,
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "a dear little girl",
+          "role": "S",
+          "sub": false,
+          "ko": "사랑스러운 어린 소녀가"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그런데 그 아이는)"
+        },
+        {
+          "text": "was loved",
+          "role": "V",
+          "sub": true,
+          "ko": "사랑받았다"
+        },
+        {
+          "text": "by everyone",
+          "role": "M",
+          "sub": true,
+          "ko": "모든 사람에게"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 사람은)"
+        },
+        {
+          "text": "looked at",
+          "role": "V",
+          "sub": true,
+          "ko": "보았다"
+        },
+        {
+          "text": "her,",
+          "role": "O",
+          "sub": true,
+          "ko": "그 아이를"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "most of all",
+          "role": "M",
+          "sub": false,
+          "ko": "무엇보다도"
+        },
+        {
+          "text": "by her grandmother,",
+          "role": "M",
+          "sub": false,
+          "ko": "할머니에게 (사랑받았다)"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": false,
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "없었다"
+        },
+        {
+          "text": "nothing",
+          "role": "S",
+          "sub": false,
+          "ko": "아무것도"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그것을)"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "할머니가"
+        },
+        {
+          "text": "would not have given",
+          "role": "V",
+          "sub": true,
+          "ko": "주지 않았을"
+        },
+        {
+          "text": "to the child.",
+          "role": "M",
+          "sub": true,
+          "ko": "그 아이에게"
+        }
+      ],
+      "skeleton": "there was a girl ~, and there was nothing ~",
+      "explanation": "There was(~이 있었다) 문장 두 개가 but/and로 이어진 긴 문장이다. 첫 who절은 girl을, 둘째 who절은 everyone을 꾸미는 관계대명사절이다. 'but most of all by her grandmother'는 앞의 was loved가 생략된 형태로 '무엇보다 할머니에게 (사랑받았다)'라는 뜻. 뒤의 that절은 nothing을 꾸며 '할머니가 그 아이에게 주지 않았을 것은 아무것도 없었다' = '무엇이든 다 주었을 것이다'가 된다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "The grandmother",
+          "role": "S",
+          "sub": false,
+          "ko": "할머니는"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": false,
+          "ko": "살았다"
+        },
+        {
+          "text": "out in the wood,",
+          "role": "M",
+          "sub": false,
+          "ko": "저 숲속에"
+        },
+        {
+          "text": "half a league from the village,",
+          "role": "M",
+          "sub": false,
+          "ko": "마을에서 반 리그 떨어진"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "just as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "막 ~할 때"
+        },
+        {
+          "text": "Little Red-Cap",
+          "role": "S",
+          "sub": true,
+          "ko": "빨간 모자가"
+        },
+        {
+          "text": "entered",
+          "role": "V",
+          "sub": true,
+          "ko": "들어섰다"
+        },
+        {
+          "text": "the wood,",
+          "role": "O",
+          "sub": true,
+          "ko": "숲에"
+        },
+        {
+          "text": "a wolf",
+          "role": "S",
+          "sub": false,
+          "ko": "늑대 한 마리가"
+        },
+        {
+          "text": "met",
+          "role": "V",
+          "sub": false,
+          "ko": "마주쳤다"
+        },
+        {
+          "text": "her.",
+          "role": "O",
+          "sub": false,
+          "ko": "그 아이를"
+        }
+      ],
+      "skeleton": "The grandmother lived ~, and a wolf met her",
+      "explanation": "두 개의 절이 and로 이어졌다. 앞 절은 S+V(lived) 뒤에 장소를 나타내는 수식어 두 개가 붙었다. 뒤 절에서는 'just as ~ the wood'(막 숲에 들어섰을 때)라는 시간 부사절이 먼저 나오고 주절 a wolf met her가 이어진다. enter는 '~에 들어가다'라는 뜻의 타동사라 뒤에 into 없이 바로 목적어가 온다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Red-Cap",
+          "role": "S",
+          "sub": false,
+          "ko": "빨간 모자는"
+        },
+        {
+          "text": "did not know",
+          "role": "V",
+          "sub": false,
+          "ko": "알지 못했다"
+        },
+        {
+          "text": "what a wicked creature",
+          "role": "C",
+          "sub": true,
+          "ko": "얼마나 못된 동물인지"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그(늑대)가"
+        },
+        {
+          "text": "was,",
+          "role": "V",
+          "sub": true,
+          "ko": "~인지"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "not at all afraid",
+          "role": "C",
+          "sub": false,
+          "ko": "전혀 무서워하지 않는"
+        },
+        {
+          "text": "of him.",
+          "role": "M",
+          "sub": false,
+          "ko": "그를"
+        }
+      ],
+      "skeleton": "Red-Cap did not know what ~, and was not at all afraid",
+      "explanation": "did not know의 목적어 자리에 'what a wicked creature he was'라는 명사절이 왔다. 감탄문 어순(what a + 형용사 + 명사 + 주어 + 동사)이 그대로 명사절이 된 것으로 '그가 얼마나 못된 동물인지'라는 뜻이다. and 뒤에는 주어 Red-Cap이 생략되었고, not at all은 '전혀 ~않다'라는 강한 부정이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "would not have + 과거분사: ~하지 않았을 것이다",
+      "tags": [
+        "조동사",
+        "가정법"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "nothing that she would not have given"
+      ],
+      "explanation": "would have + 과거분사는 '(그런 상황이었다면) ~했을 것이다'라는 과거에 대한 추측·가정을 나타낸다. 여기서는 nothing(아무것도 없다)과 not이 함께 쓰여 이중부정이 되므로, '할머니가 주지 않았을 것은 하나도 없었다' 즉 '아이를 위해서라면 무엇이든 주었을 것이다'라는 강한 긍정의 뜻이 된다.",
+      "example": {
+        "en": "There was nothing he would not have done for his family.",
+        "ko": "그가 가족을 위해 하지 않았을 일은 하나도 없었다(= 무엇이든 했을 것이다)."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "so ~ that …: 너무 ~해서 …하다",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "so well that"
+      ],
+      "explanation": "so + 형용사/부사 + that + 주어 + 동사는 '너무 ~해서 …하다'라는 원인과 결과를 나타낸다. 모자가 '아주 잘 어울려서(so well)' 그 결과 '다른 것은 절대 쓰지 않으려 했다(that she would never wear anything else)'는 뜻이다.",
+      "example": {
+        "en": "The soup was so hot that I could not eat it.",
+        "ko": "수프가 너무 뜨거워서 나는 먹을 수가 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "forget + to부정사: (앞으로) ~할 것을 잊다",
+      "tags": [
+        "to부정사",
+        "동명사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "don't forget to say"
+      ],
+      "explanation": "forget 뒤에 to부정사가 오면 '앞으로 해야 할 일을 잊다'라는 뜻이다. don't forget to say는 '(들어가서) 인사하는 것을 잊지 마라'라는 당부. 반대로 forget + 동명사(-ing)는 '이미 한 일을 잊다'라는 뜻이 된다(예: I'll never forget meeting you).",
+      "example": {
+        "en": "Don't forget to lock the door when you leave.",
+        "ko": "나갈 때 문 잠그는 것 잊지 마."
+      },
+      "note": "remember도 같다: remember to do(~할 것을 기억하다) / remember doing(~한 것을 기억하다)."
+    }
+  ],
+  "glossary": {
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에; 한번은",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "one time"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에 (once upon a time: 옛날 옛적에)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시절 (once upon a time: 옛날 옛적에)",
+      "form": null,
+      "synonyms": [
+        "period",
+        "age"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was: ~이 있었다)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다 (was loved: 사랑받았다)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "사랑스러운, 귀여운",
+      "form": null,
+      "synonyms": [
+        "sweet",
+        "lovely"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은, 어린",
+      "form": null,
+      "synonyms": [
+        "small",
+        "young"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "소녀, 여자아이",
+      "form": null,
+      "synonyms": [
+        "lass",
+        "young girl"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "loved": {
+      "lemma": "love",
+      "pos": "verb",
+      "ko": "사랑받는 (was loved)",
+      "form": "과거분사",
+      "synonyms": [
+        "adored",
+        "cherished"
+      ],
+      "ipa": "/lʌvd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; ~에게서",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "everyone": {
+      "lemma": "everyone",
+      "pos": "pronoun",
+      "ko": "모든 사람, 누구나",
+      "form": null,
+      "ipa": "/ˈɛvriˌwʌn/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보았다 (look at: ~을 보다)",
+      "form": "과거형",
+      "synonyms": [
+        "gazed",
+        "glanced"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (look at); ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀를; 그녀의",
+      "form": "목적격/소유격",
+      "ipa": "/hɜːr/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (most of all: 무엇보다도)",
+      "form": null,
+      "synonyms": [
+        "especially"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; ~ 중에서",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모두 (most of all: 무엇보다도, not at all: 전혀 ~않다)",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "grandmother": {
+      "lemma": "grandmother",
+      "pos": "noun",
+      "ko": "할머니",
+      "form": null,
+      "synonyms": [
+        "grandma",
+        "granny"
+      ],
+      "ipa": "/ˈɡrændˌmʌðər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 (~ 없음)",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사); (so ~ that) ~할 정도로",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀 (할머니/아이/어머니)",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "~했을 것이다; ~하려 하다",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(would have + 과거분사: ~했을 것이다)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "given": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "과거분사",
+      "synonyms": [
+        "offered",
+        "handed"
+      ],
+      "ipa": "/ˈɡɪvən/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로 (to say: 말하는 것을)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "child": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이",
+      "form": null,
+      "synonyms": [
+        "kid",
+        "little one"
+      ],
+      "ipa": "/tʃaɪld/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주었다 (gave her hand on it: 손을 걸고 약속했다)",
+      "form": "과거형",
+      "synonyms": [
+        "handed",
+        "presented"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "cap": {
+      "lemma": "cap",
+      "pos": "noun",
+      "ko": "(챙 없는) 모자",
+      "form": null,
+      "synonyms": [
+        "hat",
+        "bonnet"
+      ],
+      "ipa": "/kæp/"
+    },
+    "red": {
+      "lemma": "red",
+      "pos": "adjective",
+      "ko": "빨간",
+      "form": null,
+      "synonyms": [
+        "scarlet",
+        "crimson"
+      ],
+      "ipa": "/rɛd/"
+    },
+    "velvet": {
+      "lemma": "velvet",
+      "pos": "noun",
+      "ko": "벨벳, 우단",
+      "form": null,
+      "synonyms": [
+        "plush",
+        "velour"
+      ],
+      "ipa": "/ˈvɛlvət/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(그런데) 그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "suited": {
+      "lemma": "suit",
+      "pos": "verb",
+      "ko": "어울렸다",
+      "form": "과거형",
+      "synonyms": [
+        "fitted",
+        "looked good on"
+      ],
+      "ipa": "/ˈsuːtɪd/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "아주, 그렇게 (so ~ that); 그래서",
+      "form": null,
+      "synonyms": [
+        "very",
+        "therefore"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘",
+      "form": null,
+      "synonyms": [
+        "nicely",
+        "properly"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~않다",
+      "form": null,
+      "synonyms": [
+        "not ever"
+      ],
+      "ipa": "/ˈnɛvər/"
+    },
+    "wear": {
+      "lemma": "wear",
+      "pos": "verb",
+      "ko": "(모자를) 쓰다, 입다",
+      "form": null,
+      "synonyms": [
+        "put on",
+        "don"
+      ],
+      "ipa": "/wɛr/"
+    },
+    "anything": {
+      "lemma": "anything",
+      "pos": "pronoun",
+      "ko": "어떤 것 (anything else: 다른 어떤 것)",
+      "form": null,
+      "ipa": "/ˈɛniˌθɪŋ/"
+    },
+    "else": {
+      "lemma": "else",
+      "pos": "adverb",
+      "ko": "그 밖에, 다른",
+      "form": null,
+      "synonyms": [
+        "other",
+        "besides"
+      ],
+      "ipa": "/ɛls/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "항상, 늘",
+      "form": null,
+      "synonyms": [
+        "forever",
+        "constantly"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "불리는 (was called: ~라고 불렸다)",
+      "form": "과거분사",
+      "synonyms": [
+        "named",
+        "known as"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "red-cap": {
+      "lemma": "Red-Cap",
+      "pos": "proper-noun",
+      "ko": "레드캡, 빨간 모자 (주인공 소녀의 별명)",
+      "form": null,
+      "ipa": "/rɛd-kæp/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느 (one day: 어느 날)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "occasion"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니",
+      "form": null,
+      "synonyms": [
+        "mom",
+        "mum"
+      ],
+      "ipa": "/ˈmʌðər/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (Come: 이리 오렴)",
+      "form": null,
+      "synonyms": [
+        "approach",
+        "come here"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기 (here is: 여기 ~이 있다)",
+      "form": null,
+      "synonyms": [
+        "over here"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각",
+      "form": null,
+      "synonyms": [
+        "slice",
+        "bit"
+      ],
+      "ipa": "/piːs/"
+    },
+    "cake": {
+      "lemma": "cake",
+      "pos": "noun",
+      "ko": "케이크, 과자",
+      "form": null,
+      "synonyms": [
+        "pastry",
+        "bun"
+      ],
+      "ipa": "/keɪk/"
+    },
+    "bottle": {
+      "lemma": "bottle",
+      "pos": "noun",
+      "ko": "병",
+      "form": null,
+      "synonyms": [
+        "flask"
+      ],
+      "ipa": "/ˈbɑːtəl/"
+    },
+    "wine": {
+      "lemma": "wine",
+      "pos": "noun",
+      "ko": "포도주",
+      "form": null,
+      "synonyms": [
+        "red wine"
+      ],
+      "ipa": "/waɪn/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "가져가다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "carry"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "ill": {
+      "lemma": "ill",
+      "pos": "adjective",
+      "ko": "아픈, 편찮은",
+      "form": null,
+      "synonyms": [
+        "sick",
+        "unwell"
+      ],
+      "ipa": "/ɪl/"
+    },
+    "weak": {
+      "lemma": "weak",
+      "pos": "adjective",
+      "ko": "약한, 기운 없는",
+      "form": null,
+      "synonyms": [
+        "feeble",
+        "frail"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들 (케이크와 포도주)",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "(do her good: 그녀에게 도움이 되다); (do it) 하다; (do not) ~하지 마라",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "perform"
+      ],
+      "ipa": "/duː/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "noun",
+      "ko": "이로움, 도움 (do ~ good: ~에게 좋다); (Good morning) 좋은",
+      "form": null,
+      "synonyms": [
+        "benefit",
+        "help"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(set out: 출발하다)",
+      "form": null,
+      "synonyms": [
+        "start",
+        "leave"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(set out: 출발하다); 저 멀리 (out in the wood: 저 숲속에)",
+      "form": null,
+      "synonyms": [
+        "away",
+        "off"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(날씨를 나타내는 it); 그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "gets": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "~해지다 (gets hot: 더워지다)",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "becomes",
+        "grows"
+      ],
+      "ipa": "/ɡɛts/"
+    },
+    "hot": {
+      "lemma": "hot",
+      "pos": "adjective",
+      "ko": "더운, 뜨거운",
+      "form": null,
+      "synonyms": [
+        "warm",
+        "sultry"
+      ],
+      "ipa": "/hɑːt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (are going: 가고 있다)",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가는 중인 (are going)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "travelling",
+        "heading"
+      ],
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "walk": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다",
+      "form": null,
+      "synonyms": [
+        "stroll",
+        "step"
+      ],
+      "ipa": "/wɔːk/"
+    },
+    "nicely": {
+      "lemma": "nicely",
+      "pos": "adverb",
+      "ko": "얌전하게, 바르게",
+      "form": null,
+      "synonyms": [
+        "properly",
+        "politely"
+      ],
+      "ipa": "/ˈnaɪsli/"
+    },
+    "quietly": {
+      "lemma": "quietly",
+      "pos": "adverb",
+      "ko": "조용히",
+      "form": null,
+      "synonyms": [
+        "calmly",
+        "silently"
+      ],
+      "ipa": "/ˈkwaɪətli/"
+    },
+    "run": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "(run off: ~에서 벗어나 달려가다)",
+      "form": null,
+      "synonyms": [
+        "dash",
+        "wander"
+      ],
+      "ipa": "/rʌn/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "preposition",
+      "ko": "~에서 벗어나, ~에서 떨어져",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "path": {
+      "lemma": "path",
+      "pos": "noun",
+      "ko": "길, 오솔길",
+      "form": null,
+      "synonyms": [
+        "track",
+        "trail"
+      ],
+      "ipa": "/pæθ/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "그렇지 않으면",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "fall": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "넘어지다",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "tumble"
+      ],
+      "ipa": "/fɔːl/"
+    },
+    "break": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "깨뜨리다",
+      "form": null,
+      "synonyms": [
+        "smash",
+        "crack"
+      ],
+      "ipa": "/breɪk/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러면, 그렇게 되면",
+      "form": null,
+      "synonyms": [
+        "in that case",
+        "next"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다, 받다 (get nothing: 아무것도 못 받다)",
+      "form": null,
+      "synonyms": [
+        "receive",
+        "obtain"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다 (go into: ~에 들어가다)",
+      "form": null,
+      "synonyms": [
+        "enter",
+        "walk"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방",
+      "form": null,
+      "synonyms": [
+        "chamber",
+        "bedroom"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "don't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 마라 (do not)",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "forget": {
+      "lemma": "forget",
+      "pos": "verb",
+      "ko": "잊다",
+      "form": null,
+      "synonyms": [
+        "neglect",
+        "overlook"
+      ],
+      "ipa": "/fərˈɡɛt/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침 (Good morning: 아침 인사)",
+      "form": null,
+      "synonyms": [
+        "daybreak",
+        "forenoon"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "peep": {
+      "lemma": "peep",
+      "pos": "verb",
+      "ko": "엿보다, 기웃거리다",
+      "form": null,
+      "synonyms": [
+        "peek",
+        "pry"
+      ],
+      "ipa": "/piːp/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "corner": {
+      "lemma": "corner",
+      "pos": "noun",
+      "ko": "구석, 모퉁이",
+      "form": null,
+      "synonyms": [
+        "nook",
+        "angle"
+      ],
+      "ipa": "/ˈkɔːrnər/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 많은 (great care: 각별한 주의)",
+      "form": null,
+      "synonyms": [
+        "much",
+        "close"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "care": {
+      "lemma": "care",
+      "pos": "noun",
+      "ko": "주의, 조심",
+      "form": null,
+      "synonyms": [
+        "caution",
+        "attention"
+      ],
+      "ipa": "/kɛr/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손 (give one's hand on it: 손을 걸고 약속하다)",
+      "form": null,
+      "synonyms": [
+        "palm"
+      ],
+      "ipa": "/hænd/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 대해 (gave her hand on it: 그것을 손을 걸고 약속했다)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살았다",
+      "form": "과거형",
+      "synonyms": [
+        "dwelt",
+        "resided"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "wood": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "forest",
+        "woods"
+      ],
+      "ipa": "/wʊd/"
+    },
+    "half": {
+      "lemma": "half",
+      "pos": "determiner",
+      "ko": "절반의 (half a league: 반 리그)",
+      "form": null,
+      "ipa": "/hæf/"
+    },
+    "league": {
+      "lemma": "league",
+      "pos": "noun",
+      "ko": "리그 (옛 거리 단위, 약 4.8km)",
+      "form": null,
+      "synonyms": [
+        "three miles"
+      ],
+      "ipa": "/liːɡ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "village": {
+      "lemma": "village",
+      "pos": "noun",
+      "ko": "마을",
+      "form": null,
+      "synonyms": [
+        "hamlet",
+        "town"
+      ],
+      "ipa": "/ˈvɪlədʒ/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 바로 (just as: 막 ~할 때)",
+      "form": null,
+      "synonyms": [
+        "exactly",
+        "right"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때 (just as: 막 ~할 때)",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "entered": {
+      "lemma": "enter",
+      "pos": "verb",
+      "ko": "들어갔다",
+      "form": "과거형",
+      "synonyms": [
+        "went into",
+        "came into"
+      ],
+      "ipa": "/ˈɛntərd/"
+    },
+    "wolf": {
+      "lemma": "wolf",
+      "pos": "noun",
+      "ko": "늑대",
+      "form": null,
+      "synonyms": [
+        "beast"
+      ],
+      "ipa": "/wʊlf/"
+    },
+    "met": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "마주쳤다, 만났다",
+      "form": "과거형",
+      "synonyms": [
+        "encountered",
+        "came across"
+      ],
+      "ipa": "/mɛt/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(did not: ~하지 않았다)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand",
+        "realize"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "얼마나 ~한 (what a ~: 얼마나 ~한)",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "wicked": {
+      "lemma": "wicked",
+      "pos": "adjective",
+      "ko": "사악한, 못된",
+      "form": null,
+      "synonyms": [
+        "evil",
+        "cruel"
+      ],
+      "ipa": "/ˈwɪkəd/"
+    },
+    "creature": {
+      "lemma": "creature",
+      "pos": "noun",
+      "ko": "동물, 생물",
+      "form": null,
+      "synonyms": [
+        "beast",
+        "animal"
+      ],
+      "ipa": "/ˈkriːtʃər/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (늑대)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "afraid": {
+      "lemma": "afraid",
+      "pos": "adjective",
+      "ko": "무서워하는, 겁내는",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "frightened"
+      ],
+      "ipa": "/əˈfreɪd/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를 (늑대)",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    }
+  }
+}
