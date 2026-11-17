@@ -26,7 +26,8 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
   const [busy, setBusy] = useState(false);
   const pen = usePen();
   const { tool, setTool, color, setColor, size, setSize, eraseMode, setEraseMode, finger, setFinger } = pen;
-  const dtOn = useSettings().penDoubleTap !== 'none';
+  const set = useSettings();
+  const dtOn = set.penDoubleTap !== 'none';
   const sen = sents[i];
   const note = useInkNote(hwKey(lessonKey, sen.id), { lessonKey, kind: 'hw', ref: sen.id });
   const rows = useLiveQuery(() => db.inkNotes.where('lessonKey').equals(lessonKey).filter((r) => r.kind === 'hw').toArray(), [lessonKey]);
@@ -74,7 +75,7 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
           <p lang="en" style={{ fontFamily: 'var(--serif)', fontSize: 'var(--read-size)', lineHeight: 1.5, margin: 0 }} data-testid="hw-sentence">{sen.en}</p>
           <div style={{ position: 'relative', width: '100%', aspectRatio: `1 / ${PAD_ASPECT}`, backgroundColor: '#fff', backgroundImage: padBg, border: '1px solid var(--line)', borderRadius: 10, touchAction: 'pan-y' }}
             data-testid="hw-pad">
-            <InkSurface strokes={note.strokes} onChange={note.set} active tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn ? () => pen.doubleTap(note) : undefined} testid="hw-surface" />
+            <InkSurface strokes={note.strokes} onChange={note.set} active tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn ? () => pen.doubleTap(note) : undefined} scribbleErase={set.scribbleErase} testid="hw-surface" />
           </div>
           <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} size={size} setSize={setSize} fingerDraw={finger} setFingerDraw={setFinger} onUndo={note.undo} onRedo={note.redo} canUndo={note.canUndo} canRedo={note.canRedo} eraseMode={eraseMode} setEraseMode={setEraseMode} onClear={note.clear} />
           <div className={s.row}>

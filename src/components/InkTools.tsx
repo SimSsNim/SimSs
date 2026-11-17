@@ -75,13 +75,14 @@ export function usePen() {
   const doubleTap = (note: { undo: () => void }) => {
     const act = getSettings().penDoubleTap;
     if (act === 'undo') { note.undo(); toast('↶ 이전', { ms: 900 }); return; }
-    if (act === 'eraser') {
+    if (act === 'eraser' || act === 'eraser-part') {
+      // 두 번 톡: 지우개로, 다시 두 번 톡: 펜으로
       setToolRaw((cur) => {
-        if (cur === 'eraser') { toast('✏️ 펜으로', { ms: 900 }); return prevTool.current; }
-        prevTool.current = cur;
-        toast('🧽 지우개로', { ms: 900 });
+        if (cur === 'eraser') { toast('✏️ 펜으로', { ms: 900 }); return 'pen'; }
+        toast(act === 'eraser-part' ? '🧽 부분 지우개로' : '🧽 지우개로', { ms: 900 });
         return 'eraser';
       });
+      setEraseMode(act === 'eraser-part' ? 'part' : 'stroke');
       return;
     }
     if (act === 'hl') {
@@ -124,6 +125,7 @@ export function InkToolbar({ tool, setTool, color, setColor, size, setSize, fing
       {done}
     </div>
     <div className={s.chips} data-testid="ink-row2" style={{ alignItems: 'center', padding: 0, flexWrap: 'wrap', overflow: 'visible' }}>
+      <button type="button" className={s.chip} aria-pressed={tool === 'pen'} onClick={() => setTool('pen')} style={btn} data-testid="ink-pen">✏️ 펜</button>
       <button type="button" className={s.chip} aria-pressed={tool === 'hl'} onClick={() => setTool('hl')} style={btn} data-testid="ink-hl">🖍 형광펜</button>
       <button type="button" className={s.chip} aria-pressed={tool === 'eraser' && eraseMode === 'stroke'} onClick={() => { setTool('eraser'); setEraseMode('stroke'); }} style={btn} data-testid="ink-eraser" title="닿은 획을 통째로 지움">지우개(획)</button>
       <button type="button" className={s.chip} aria-pressed={tool === 'eraser' && eraseMode === 'part'} onClick={() => { setTool('eraser'); setEraseMode('part'); }} style={btn} data-testid="ink-eraser-part" title="지우개가 지나간 부분만 지움">지우개(부분)</button>

@@ -28,15 +28,18 @@ export function SettingsPanel() {
       <LevelToggleSection />
       <section className={s.card + ' ' + s.stack}>
         <b>화면</b>
-        <label className={s.check}><input type="checkbox" checked={st.penAuto} onChange={(e) => setSetting('penAuto', e.target.checked)} data-testid="pen-auto" />애플펜슬로 바로 메모(펜슬이 닿으면 메모가 켜지고, 손가락은 그대로 단어 누르기·스크롤)</label>
+        <label className={s.check}><input type="checkbox" checked={!st.penAuto} onChange={(e) => setSetting('penAuto', !e.target.checked)} data-testid="pen-button-only" />메모 버튼을 눌러야만 펜으로 쓰기(끄면 펜슬이 닿는 순간 바로 써지고, 펜슬을 내려놓으면 6초 뒤 저절로 완료)</label>
+        <label className={s.check}><input type="checkbox" checked={st.penLock} onChange={(e) => setSetting('penLock', e.target.checked)} data-testid="pen-lock-setting" />펜 글씨 잠금(펜슬로 써지지 않고 누르기·스크롤만 — 레슨 화면의 🔓 펜 잠금 버튼과 같아요)</label>
+        <label className={s.check}><input type="checkbox" checked={st.scribbleErase} onChange={(e) => setSetting('scribbleErase', e.target.checked)} data-testid="scribble-erase" />낙서하듯 여러 번 긁으면 그 아래 글씨 지우기</label>
         <label className={s.label}>펜슬로 화면을 두 번 톡 치면
-          <select className={s.select} value={st.penDoubleTap} onChange={(e) => setSetting('penDoubleTap', e.target.value as 'eraser' | 'undo' | 'hl' | 'none')} data-testid="pen-double-tap">
-            <option value="eraser">지우개 ↔ 펜 바꾸기</option>
+          <select className={s.select} value={st.penDoubleTap} onChange={(e) => setSetting('penDoubleTap', e.target.value as 'eraser' | 'eraser-part' | 'undo' | 'hl' | 'none')} data-testid="pen-double-tap">
+            <option value="eraser">지우개(획) ↔ 펜 바꾸기</option>
+            <option value="eraser-part">지우개(부분) ↔ 펜 바꾸기</option>
             <option value="undo">이전(직전 획 지우기)</option>
             <option value="hl">형광펜 ↔ 펜 바꾸기</option>
             <option value="none">아무것도 안 함</option>
           </select>
-          <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>펜슬 몸통 두 번 톡(애플펜슬 2·Pro)은 웹 앱에서 받을 수 없어서, 펜슬 끝으로 화면을 빠르게 두 번 톡 치는 방식이에요.</span>
+          <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>펜슬 옆면 두 번 톡(애플펜슬 2·Pro)은 아이패드가 웹 앱에 알려 주지 않아서 받을 수 없어요. 대신 펜슬 끝으로 화면을 빠르게 두 번 톡 치면 바뀌고, 다시 두 번 톡 치면 펜으로 돌아와요.</span>
         </label>
         <label className={s.label}>화면 꺼짐 방지
           <select className={s.select} value={st.keepAwake} onChange={(e) => setSetting('keepAwake', e.target.value as 'off' | 'lesson' | 'always')} data-testid="keep-awake">

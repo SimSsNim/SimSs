@@ -119,3 +119,64 @@ export function eraseAtPoint(strokes: InkStroke[], x: number, y: number, r: numb
   }
   return changed ? out : null;
 }
+
+/** 낙서로 지우기: 짧은 범위 안에서 여러 번 왔다 갔다 한 획인지(가로 또는 세로로 방향이 4번 이상 바뀜) */
+export function isScribble(p: number[]): boolean {
+  const n = p.length / 3;
+  if (n < 8) return false;
+  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity, len = 0;
+  for (let i = 0; i < n; i++) {
+    const x = p[i * 3], y = p[i * 3 + 1];
+    minX = Math.min(minX, x); maxX = Math.max(maxX, x); minY = Math.min(minY, y); maxY = Math.max(maxY, y);
+    if (i) len += Math.hypot(x - p[(i - 1) * 3], y - p[(i - 1) * 3 + 1]);
+  }
+  const span = Math.max(maxX - minX, maxY - minY);
+  if (span < 0.015 || span > 0.6 || len < span * 3) return false;
+  const turns = (axis: 0 | 1) => {
+    let dir = 0, acc = 0, count = 0;
+    for (let i = 1; i < n; i++) {
+      const d = p[i * 3 + axis] - p[(i - 1) * 3 + axis];
+      if (!d) continue;
+      const sgn = Math.sign(d);
+      if (sgn === dir) { acc += Math.abs(d); continue; }
+      if (dir !== 0 && acc > span * 0.25) count++;
+      dir = sgn;
+      acc = Math.abs(d);
+    }
+    return count;
+  };
+  return Math.max(turns(0), turns(1)) >= 4;
+}
+
+/** 점과 선분 사이 거리 */
+function segDist(px: number, py: number, ax: number, ay: number, bx: number, by: number): number {
+  const dx = bx - ax, dy = by - ay;
+  const L = dx * dx + dy * dy;
+  const k = L ? Math.max(0, Math.min(1, ((px - ax) * dx + (py - ay) * dy) / L)) : 0;
+  return Math.hypot(px - (ax + dx * k), py - (ay + dy * k));
+}
+
+/** 낙서 획이 지나간 자리에 걸친 획 번호들(점이 듬성해도 선분 기준으로 판단) */
+export function strokesUnderScribble(strokes: InkStroke[], scribble: number[], r = 0.012): number[] {
+  // 낙서 선을 촘촘한 점으로
+  const pts: [number, number][] = [];
+  for (let i = 0; i < scribble.length; i += 3) {
+    if (i) {
+      const [x0, y0, x1, y1] = [scribble[i - 3], scribble[i - 2], scribble[i], scribble[i + 1]];
+      const n = Math.ceil(Math.hypot(x1 - x0, y1 - y0) / (r / 2));
+      for (let k = 1; k < n; k++) pts.push([x0 + ((x1 - x0) * k) / n, y0 + ((y1 - y0) * k) / n]);
+    }
+    pts.push([scribble[i], scribble[i + 1]]);
+  }
+  const out: number[] = [];
+  strokes.forEach((s, idx) => {
+    const m = s.p.length / 3;
+    const near = (x: number, y: number) => {
+      if (m === 1) return Math.hypot(x - s.p[0], y - s.p[1]) <= r;
+      for (let j = 1; j < m; j++) if (segDist(x, y, s.p[(j - 1) * 3], s.p[(j - 1) * 3 + 1], s.p[j * 3], s.p[j * 3 + 1]) <= r) return true;
+      return false;
+    };
+    if (pts.some(([x, y]) => near(x, y))) out.push(idx);
+  });
+  return out;
+}

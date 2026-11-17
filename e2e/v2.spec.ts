@@ -849,7 +849,7 @@ test('v38. 애플펜슬이 닿으면 바로 메모(버튼 없이), 손가락·�
   await page.getByRole('dialog', { name: /단어/ }).getByRole('button', { name: '닫기' }).click();
   // 설정에서 끄면 펜슬도 버튼을 눌러야
   await page.goto('./#/records/settings');
-  await page.getByTestId('pen-auto').uncheck();
+  await page.getByTestId('pen-button-only').check();
   await page.goto('./#/general/lesson/2026-11-12-L1/full');
   await penLine(page, 'ink-box', 0.1, 3, 0.5);
   await expect(page.getByTestId('ink-stroke')).toHaveCount(2);
@@ -928,4 +928,65 @@ test('v40. 펜 색 직접 고르기·굵기, 펜슬 두 번 톡 = 지우개 ↔ 
   await page.reload();
   await page.getByTestId('ink-toggle').click();
   await expect(page.getByTestId('ink-size-0')).toHaveAttribute('aria-pressed', 'true');
+});
+
+async function penPath(page: Page, testid: string, pts: [number, number][]) {
+  const b = (await page.getByTestId(testid).boundingBox())!;
+  await page.evaluate(({ b, pts }) => {
+    const at = ([fx, fy]: [number, number]) => ({ x: b.x + b.width * fx, y: b.y + 120 * fy });
+    const p0 = at(pts[0]);
+    const target = document.elementFromPoint(p0.x, p0.y)!;
+    const fire = (type: string, p: { x: number; y: number }) => target.dispatchEvent(new PointerEvent(type, {
+      pointerType: 'pen', pointerId: 11, isPrimary: true, clientX: p.x, clientY: p.y, pressure: 0.6, bubbles: true, cancelable: true, button: 0, buttons: 1,
+    }));
+    fire('pointerdown', p0);
+    for (const q of pts.slice(1)) fire('pointermove', at(q));
+    fire('pointerup', at(pts[pts.length - 1]));
+  }, { b, pts });
+}
+
+test('v41. 펜 잠금·낙서 지우기·두 번 톡 후 펜으로·✏️ 펜 버튼', async ({ page }) => {
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  const strokes = page.getByTestId('ink-stroke');
+  // 잠금: 펜슬로 안 써짐
+  await page.getByTestId('pen-lock').click();
+  await expect(page.getByTestId('pen-lock')).toHaveAttribute('aria-pressed', 'true');
+  await penLine(page, 'ink-box', 0.1, 1, 0.6);
+  await expect(strokes).toHaveCount(0);
+  await expect(page.getByTestId('ink-toolbar')).toHaveCount(0);
+  await page.getByTestId('pen-lock').click();
+  // 쓰고, 그 위를 여러 번 긁으면 지워지고 긁은 선은 안 남음
+  await penLine(page, 'ink-box', 0.2, 1, 0.5);
+  await expect(strokes).toHaveCount(1);
+  const zig: [number, number][] = [];
+  for (let k = 0; k <= 12; k++) zig.push([k % 2 ? 0.45 : 0.25, 0.85 + k * 0.025]);
+  await penPath(page, 'ink-box', zig);
+  await expect(strokes).toHaveCount(0);
+  await page.getByTestId('ink-undo').click();
+  await expect(strokes).toHaveCount(1);
+  // 형광펜 → ✏️ 펜 버튼으로 돌아오기
+  await page.getByTestId('ink-hl').click();
+  await page.getByTestId('ink-pen').click();
+  await expect(page.getByTestId('ink-pen')).toHaveAttribute('aria-pressed', 'true');
+  // 두 번 톡: 지우개 → 다시 두 번 톡: 펜(형광펜이었어도 펜으로)
+  await page.getByTestId('ink-hl').click();
+  await penTap(page, 'ink-box', 0.7, 2.2);
+  await penTap(page, 'ink-box', 0.7, 2.2);
+  await expect(page.getByTestId('ink-eraser')).toHaveAttribute('aria-pressed', 'true');
+  await penTap(page, 'ink-box', 0.7, 2.6);
+  await penTap(page, 'ink-box', 0.7, 2.6);
+  await expect(page.getByTestId('ink-pen')).toHaveAttribute('aria-pressed', 'true');
+});
+
+test('v42. 펜슬로 바로 쓴 메모는 펜슬을 내려놓으면 저절로 완료', async ({ page }, info) => {
+  test.skip(info.project.name !== 'desktop-light', '6초를 기다리는 테스트라 한 번만');
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await penLine(page, 'ink-box', 0.1, 1, 0.6);
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible();
+  await page.waitForTimeout(7000);
+  await expect(page.getByTestId('ink-toolbar')).toHaveCount(0);
+  // 버튼으로 연 메모는 저절로 닫히지 않음
+  await page.getByTestId('ink-toggle').click();
+  await page.waitForTimeout(7000);
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible();
 });

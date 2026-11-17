@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { strokePath, strokeWidth, hitStrokes, eraseAtPoint, PEN_W, HL_W, HL_COLOR, type InkStroke } from '../lib/ink';
+import { strokePath, strokeWidth, hitStrokes, eraseAtPoint, isScribble, strokesUnderScribble, PEN_W, HL_W, HL_COLOR, type InkStroke } from '../lib/ink';
 
 export type InkTool = 'pen' | 'hl' | 'eraser';
 export type EraseMode = 'stroke' | 'part';
@@ -11,11 +11,14 @@ export type EraseMode = 'stroke' | 'part';
  * - penAlways: 메모 모드가 아니어도 애플펜슬이 닿으면 바로 그림(onPenStart 로 알림)
  * 좌표는 칸 너비를 1 로 둔 비율 → 화면 폭이 바뀌어도 비율대로 따라감
  */
-export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw, penAlways = false, onPenStart, eraseMode = 'stroke', size = 1, onPenDoubleTap, testid = 'ink-surface' }: {
+export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw, penAlways = false, onPenStart, eraseMode = 'stroke', size = 1, onPenDoubleTap, locked = false, onPenActivity, scribbleErase = false, testid = 'ink-surface' }: {
   strokes: InkStroke[]; onChange: (next: InkStroke[]) => void; active: boolean; tool: InkTool; color: string; fingerDraw: boolean; eraseMode?: EraseMode;
   /** 굵기 배수 */ size?: number;
   /** 펜슬 끝으로 화면을 빠르게 두 번 톡 */ onPenDoubleTap?: () => void;
   penAlways?: boolean; onPenStart?: () => void; testid?: string;
+  /** 펜 글씨 잠금: 아무것도 그리지 않음(펜슬은 손가락처럼) */ locked?: boolean;
+  /** 펜슬이 닿거나 가까이 있을 때마다(자동 완료 타이머용) */ onPenActivity?: () => void;
+  /** 여러 번 긁으면 그 아래 글씨를 지움 */ scribbleErase?: boolean;
 }) {
   const ref = useRef<SVGSVGElement>(null);
   const [W, setW] = useState(0);
@@ -25,8 +28,8 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
   const cur = useRef<{ id: number; stroke: InkStroke | null; erased: InkStroke[] | null; pen: boolean; at: number; x0: number; y0: number; far: boolean } | null>(null);
   const lastEnd = useRef({ at: 0, x: 0, y: 0 });
   // 리스너에서 최신 값을 쓰도록
-  const st = useRef({ strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode, size, onPenDoubleTap });
-  st.current = { strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode, size, onPenDoubleTap };
+  const st = useRef({ strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode, size, onPenDoubleTap, locked, onPenActivity, scribbleErase });
+  st.current = { strokes, onChange, active, tool, color, fingerDraw, penAlways, onPenStart, eraseMode, size, onPenDoubleTap, locked, onPenActivity, scribbleErase };
   /** 펜슬로 톡 친 점: 두 번째 톡이 오는지 잠깐 기다렸다 저장 */
   const tapWait = useRef<{ at: number; x: number; y: number; stroke: InkStroke | null; timer: number } | null>(null);
 
@@ -45,6 +48,7 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
     if (!svg || !box) return;
     const accept = (e: PointerEvent) => {
       const s = st.current;
+      if (s.locked) return false;
       if (e.pointerType === 'pen') return s.active || s.penAlways;
       return s.active && (e.pointerType === 'mouse' || (e.pointerType === 'touch' && s.fingerDraw));
     };
@@ -71,6 +75,7 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
       e.preventDefault();
       e.stopPropagation();
       const s = st.current;
+      if (e.pointerType === 'pen') s.onPenActivity?.();
       if (!s.active && e.pointerType === 'pen') s.onPenStart?.(); // 펜슬이 닿으면 메모 모드 켜짐
       try { box.setPointerCapture(e.pointerId); } catch { /* */ }
       const [x, y, p] = pt(e);
@@ -85,6 +90,7 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
       setLive({ ...stroke });
     };
     const move = (e: PointerEvent) => {
+      if (e.pointerType === 'pen') st.current.onPenActivity?.(); // 펜슬이 닿아 있거나 가까이 떠 있음
       const c = cur.current;
       if (!c || c.id !== e.pointerId) return;
       e.preventDefault();
@@ -132,6 +138,15 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
         return;
       }
       setLive(null);
+      if (c.stroke && s.scribbleErase && c.stroke.t === 'pen' && isScribble(c.stroke.p)) {
+        // 낙서 지우기: 여러 번 왔다 갔다 긁은 자리의 글씨를 지우고, 긁은 선은 남기지 않음
+        const hit = strokesUnderScribble(s.strokes, c.stroke.p);
+        if (hit.length) {
+          s.onChange(s.strokes.filter((_, i) => !hit.includes(i)));
+          setPreview(null);
+          return;
+        }
+      }
       if (c.stroke) s.onChange([...s.strokes, c.stroke]);
       else if (c.erased) s.onChange(c.erased);
       setPreview(null);
@@ -146,6 +161,7 @@ export function InkSurface({ strokes, onChange, active, tool, color, fingerDraw,
     const touch = (e: TouchEvent) => {
       const s = st.current;
       const t = e.touches[0] as (Touch & { touchType?: string }) | undefined;
+      if (s.locked) return;
       if (t?.touchType === 'stylus' ? s.active || s.penAlways : s.active && s.fingerDraw) e.preventDefault();
     };
     box.addEventListener('pointerdown', down, { capture: true });

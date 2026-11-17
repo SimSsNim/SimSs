@@ -62,7 +62,11 @@ export interface Settings {
   /** 애플펜슬이 닿으면 바로 메모(메모 모드 자동으로 켜짐) */
   penAuto: boolean;
   /** 펜슬 끝으로 두 번 톡: 지우개로 바꾸기 / 이전 / 형광펜으로 바꾸기 / 없음 */
-  penDoubleTap: 'eraser' | 'undo' | 'hl' | 'none';
+  penDoubleTap: 'eraser' | 'eraser-part' | 'undo' | 'hl' | 'none';
+  /** 펜 글씨 잠금: 펜슬은 손가락처럼(누르기·스크롤만) */
+  penLock: boolean;
+  /** 펜으로 여러 번 왔다 갔다 긁으면 그 아래 글씨를 지움 */
+  scribbleErase: boolean;
   /** 단어를 누르면 바로 발음 읽기(듣기 재생 중에는 안 읽음) */
   wordAutoSpeak: boolean;
 }
@@ -77,6 +81,8 @@ export const DEFAULT_SETTINGS: Settings = {
   keepAwake: 'lesson',
   penAuto: true,
   penDoubleTap: 'eraser',
+  penLock: false,
+  scribbleErase: true,
   wordAutoSpeak: true,
   track: 'general',
   levelByTrack: { general: null, toeic: null },
