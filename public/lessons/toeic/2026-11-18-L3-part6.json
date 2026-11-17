@@ -1,0 +1,1474 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-18-L3-part6",
+  "date": "2026-11-18",
+  "level": 3,
+  "title": "Communication Workshop E-mail",
+  "titleKo": "의사소통 워크숍 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "사내 교육"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 138,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "팀원 여러분께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "다음 달 우리 부서에서 효과적인 의사소통에 관한 이틀짜리 워크숍을 연다는 소식을 기쁘게 전합니다. 강의는 우리 업계의 여러 회사와 함께 일해 온 경험 많은 강사 데이나 휘트필드 씨가 진행합니다. 참가자들은 고객 및 동료와의 어려운 대화를 다루는 법을 배우게 됩니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "워크숍은 3월 9일과 10일에 B 회의실에서 열립니다. 참석 인원은 직원 20명으로 제한되어 있으니 가능한 한 빨리 등록해 주세요. 회사 인트라넷의 교육 페이지에서 신청하실 수 있습니다. 이틀 모두 점심이 제공됩니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "워크숍을 마친 직원은 수료증을 받게 됩니다. 또한 이 참여는 회사가 요구하는 연간 교육 시간에 포함됩니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "궁금한 점이 있으면 내선 214번으로 제게 연락해 주세요."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "감사합니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "헬렌 모리츠"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Team Members,",
+      "ko": "팀원 여러분께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "I am pleased to announce that our department will offer a two-day workshop on effective communication next month.",
+      "ko": "다음 달 우리 부서에서 효과적인 의사소통에 관한 이틀짜리 워크숍을 연다는 소식을 기쁘게 전합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The sessions will be led by Dana Whitfield, an experienced trainer who has worked with many companies in our industry.",
+      "ko": "강의는 우리 업계의 여러 회사와 함께 일해 온 경험 많은 강사 데이나 휘트필드 씨가 진행합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Participants will learn how to handle difficult conversations with customers and colleagues.",
+      "ko": "참가자들은 고객 및 동료와의 어려운 대화를 다루는 법을 배우게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "The workshop will take place on March 9 and 10 in Conference Room B.",
+      "ko": "워크숍은 3월 9일과 10일에 B 회의실에서 열립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Attendance is limited to twenty employees, so please register as soon as possible.",
+      "ko": "참석 인원은 직원 20명으로 제한되어 있으니 가능한 한 빨리 등록해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "You can sign up through the training page on the company intranet.",
+      "ko": "회사 인트라넷의 교육 페이지에서 신청하실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Lunch will be provided on both days.",
+      "ko": "이틀 모두 점심이 제공됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Employees who complete the workshop will receive a certificate.",
+      "ko": "워크숍을 마친 직원은 수료증을 받게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "In addition, their participation will count toward the annual training hours required by the company.",
+      "ko": "또한 이 참여는 회사가 요구하는 연간 교육 시간에 포함됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "If you have any questions, please contact me at extension 214.",
+      "ko": "궁금한 점이 있으면 내선 214번으로 제게 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Best regards,",
+      "ko": "감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Helen Moritz",
+      "ko": "헬렌 모리츠",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "effective",
+      "pos": "adjective",
+      "meaningKo": "효과적인",
+      "ipa": "/ɪˈfektɪv/",
+      "synonyms": [
+        "successful",
+        "productive",
+        "useful"
+      ],
+      "matchText": "effective",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We need a more effective way to share information.",
+        "ko": "정보를 공유할 더 효과적인 방법이 필요하다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "handle",
+      "pos": "verb",
+      "meaningKo": "다루다, 처리하다",
+      "ipa": "/ˈhændəl/",
+      "synonyms": [
+        "deal with",
+        "manage"
+      ],
+      "matchText": "handle",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She handles all customer complaints.",
+        "ko": "그녀가 모든 고객 불만을 처리한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "register",
+      "pos": "verb",
+      "meaningKo": "등록하다",
+      "ipa": "/ˈredʒɪstər/",
+      "synonyms": [
+        "sign up",
+        "enroll"
+      ],
+      "matchText": "register",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Please register online by Friday.",
+        "ko": "금요일까지 온라인으로 등록해 주세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "certificate",
+      "pos": "noun",
+      "meaningKo": "수료증, 증명서",
+      "ipa": "/sərˈtɪfɪkət/",
+      "synonyms": [
+        "credential",
+        "diploma"
+      ],
+      "matchText": "certificate",
+      "sentenceId": "s9",
+      "example": {
+        "en": "You will receive a certificate after the course.",
+        "ko": "과정 후 수료증을 받게 됩니다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "count toward",
+      "pos": "phrase",
+      "meaningKo": "~에 포함되다, ~에 산입되다",
+      "ipa": "/ˈkaʊnt tɔːrd/",
+      "synonyms": [
+        "contribute to",
+        "be included in"
+      ],
+      "matchText": "count toward",
+      "sentenceId": "s10",
+      "example": {
+        "en": "These hours count toward your annual leave.",
+        "ko": "이 시간은 연차에 포함된다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The sessions",
+          "role": "S",
+          "ko": "강의는"
+        },
+        {
+          "text": "will be led",
+          "role": "V",
+          "ko": "진행될 것이다"
+        },
+        {
+          "text": "by Dana Whitfield,",
+          "role": "M",
+          "ko": "데이나 휘트필드 씨에 의해"
+        },
+        {
+          "text": "an experienced trainer",
+          "role": "M",
+          "ko": "경험 많은 강사인"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "(그 강사는)",
+          "sub": true
+        },
+        {
+          "text": "has worked",
+          "role": "V",
+          "ko": "일해 왔다",
+          "sub": true
+        },
+        {
+          "text": "with many companies in our industry.",
+          "role": "M",
+          "ko": "우리 업계의 많은 회사와",
+          "sub": true
+        }
+      ],
+      "skeleton": "S will be p.p. by N, N [who V M]",
+      "explanation": "will be led by는 미래 수동태. an experienced trainer는 Dana Whitfield를 다시 설명하는 동격 명사구이고, who 이하가 trainer를 꾸민다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Attendance",
+          "role": "S",
+          "ko": "참석 인원은"
+        },
+        {
+          "text": "is limited",
+          "role": "V",
+          "ko": "제한된다"
+        },
+        {
+          "text": "to twenty employees,",
+          "role": "M",
+          "ko": "직원 20명으로"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "ko": "그러니"
+        },
+        {
+          "text": "please register",
+          "role": "V",
+          "ko": "등록해 주세요"
+        },
+        {
+          "text": "as soon as possible.",
+          "role": "M",
+          "ko": "가능한 한 빨리"
+        }
+      ],
+      "skeleton": "S is limited to N, so please V M",
+      "explanation": "be limited to(~로 제한되다) + 결과를 잇는 접속사 so. so 뒤는 please로 시작하는 명령문."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "In addition,",
+          "role": "M",
+          "ko": "또한"
+        },
+        {
+          "text": "their participation",
+          "role": "S",
+          "ko": "그들의 참여는"
+        },
+        {
+          "text": "will count",
+          "role": "V",
+          "ko": "포함될 것이다"
+        },
+        {
+          "text": "toward the annual training hours",
+          "role": "M",
+          "ko": "연간 교육 시간에"
+        },
+        {
+          "text": "required by the company.",
+          "role": "M",
+          "ko": "회사가 요구하는"
+        }
+      ],
+      "skeleton": "In addition, S will V toward N p.p. by N",
+      "explanation": "required by the company는 hours를 뒤에서 꾸미는 과거분사구(회사에 의해 요구되는)."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "주격 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "who has worked"
+      ],
+      "explanation": "앞 명사(trainer)가 사람이고 관계사 뒤에 주어 없이 동사(has worked)가 바로 오면 주격 관계대명사 who를 쓴다.",
+      "example": {
+        "en": "We hired a designer who speaks three languages.",
+        "ko": "우리는 3개 국어를 하는 디자이너를 고용했다."
+      },
+      "note": "사람 선행사 + 빈칸 + 동사 → who. 뒤에 주어가 있으면 whom, 명사가 바로 오면 whose."
+    },
+    {
+      "id": "g2",
+      "title": "미래 수동태 will be p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "will be provided"
+      ],
+      "explanation": "점심은 '제공되는' 대상이므로 수동태. 미래 수동태는 will be + 과거분사.",
+      "example": {
+        "en": "The results will be announced next week.",
+        "ko": "결과는 다음 주에 발표된다."
+      },
+      "note": "will be 뒤 빈칸 + 목적어 없음 → 과거분사."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 인사말)",
+      "synonyms": [
+        "to"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "synonyms": [
+        "group",
+        "unit"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "구성원",
+      "form": "복수형",
+      "synonyms": [
+        "colleagues",
+        "staff"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 저",
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "1인칭 단수 현재",
+      "ipa": "/æm/"
+    },
+    "pleased": {
+      "lemma": "pleased",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "synonyms": [
+        "glad",
+        "happy",
+        "delighted"
+      ],
+      "ipa": "/pliːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하게 (to부정사), ~로",
+      "ipa": "/tuː/"
+    },
+    "announce": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "알리다, 발표하다",
+      "synonyms": [
+        "declare",
+        "share",
+        "report"
+      ],
+      "ipa": "/əˈnaʊns/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절)",
+      "ipa": "/ðæt/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "offer": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다, 열다",
+      "synonyms": [
+        "provide",
+        "hold",
+        "run"
+      ],
+      "ipa": "/ˈɔːfər/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "two-day": {
+      "lemma": "two-day",
+      "pos": "adjective",
+      "ko": "이틀간의",
+      "synonyms": [
+        "two-session"
+      ],
+      "ipa": "/tuː-deɪ/"
+    },
+    "workshop": {
+      "lemma": "workshop",
+      "pos": "noun",
+      "ko": "워크숍, 연수",
+      "synonyms": [
+        "seminar",
+        "training session"
+      ],
+      "ipa": "/ˈwɜːrkˌʃɑːp/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 관한; (날짜) ~에",
+      "ipa": "/ɑːn/"
+    },
+    "effective": {
+      "lemma": "effective",
+      "pos": "adjective",
+      "ko": "효과적인",
+      "synonyms": [
+        "successful",
+        "productive"
+      ],
+      "ipa": "/ɪˈfɛktɪv/"
+    },
+    "communication": {
+      "lemma": "communication",
+      "pos": "noun",
+      "ko": "의사소통",
+      "synonyms": [
+        "interaction",
+        "dialogue"
+      ],
+      "ipa": "/kəˌmjuːnəˈkeɪʃən/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "synonyms": [
+        "coming",
+        "following"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 월",
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/mʌnθ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "sessions": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 강의",
+      "form": "복수형",
+      "synonyms": [
+        "classes",
+        "meetings"
+      ],
+      "ipa": "/ˈsɛʃənz/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "ipa": "/biː/"
+    },
+    "led": {
+      "lemma": "lead",
+      "pos": "verb",
+      "ko": "진행된, 이끌어진",
+      "form": "과거분사",
+      "synonyms": [
+        "run",
+        "conducted",
+        "guided"
+      ],
+      "ipa": "/lɛd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "ipa": "/baɪ/"
+    },
+    "dana": {
+      "lemma": "Dana",
+      "pos": "proper-noun",
+      "ko": "데이나 (사람 이름)",
+      "ipa": "/ˈdeɪnə/"
+    },
+    "whitfield": {
+      "lemma": "Whitfield",
+      "pos": "proper-noun",
+      "ko": "휘트필드 (사람 성)",
+      "ipa": "/ˈwɪtfild/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/æn/"
+    },
+    "experienced": {
+      "lemma": "experienced",
+      "pos": "adjective",
+      "ko": "경험 많은, 숙련된",
+      "synonyms": [
+        "skilled",
+        "seasoned",
+        "veteran"
+      ],
+      "ipa": "/ɪkˈspɪriənst/"
+    },
+    "trainer": {
+      "lemma": "trainer",
+      "pos": "noun",
+      "ko": "강사, 교육자",
+      "synonyms": [
+        "instructor",
+        "coach"
+      ],
+      "ipa": "/ˈtreɪnər/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (주격 관계대명사)",
+      "ipa": "/huː/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~해 왔다 (현재완료)",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일했다",
+      "form": "과거분사",
+      "synonyms": [
+        "collaborated",
+        "partnered"
+      ],
+      "ipa": "/wɜːrkt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께",
+      "ipa": "/wɪð/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "ipa": "/ˈmɛni/"
+    },
+    "companies": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": "복수형",
+      "synonyms": [
+        "firms",
+        "businesses"
+      ],
+      "ipa": "/ˈkʌmpəˌniːz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "ipa": "/ɪn/"
+    },
+    "industry": {
+      "lemma": "industry",
+      "pos": "noun",
+      "ko": "업계, 산업",
+      "synonyms": [
+        "field",
+        "sector"
+      ],
+      "ipa": "/ˈɪndəstri/"
+    },
+    "participants": {
+      "lemma": "participant",
+      "pos": "noun",
+      "ko": "참가자",
+      "form": "복수형",
+      "synonyms": [
+        "attendees",
+        "trainees"
+      ],
+      "ipa": "/pɑrˈtɪsəpənts/"
+    },
+    "learn": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "배우다",
+      "synonyms": [
+        "study",
+        "master"
+      ],
+      "ipa": "/lɜːrn/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게 (how to ~하는 법)",
+      "ipa": "/haʊ/"
+    },
+    "handle": {
+      "lemma": "handle",
+      "pos": "verb",
+      "ko": "다루다, 처리하다",
+      "synonyms": [
+        "deal with",
+        "manage"
+      ],
+      "ipa": "/ˈhændəl/"
+    },
+    "difficult": {
+      "lemma": "difficult",
+      "pos": "adjective",
+      "ko": "어려운",
+      "synonyms": [
+        "challenging",
+        "tough"
+      ],
+      "ipa": "/ˈdɪfəkəlt/"
+    },
+    "conversations": {
+      "lemma": "conversation",
+      "pos": "noun",
+      "ko": "대화",
+      "form": "복수형",
+      "synonyms": [
+        "discussions",
+        "talks"
+      ],
+      "ipa": "/ˌkɑːnvərˈseɪʃənz/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "clients",
+        "buyers"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "ipa": "/ənd/"
+    },
+    "colleagues": {
+      "lemma": "colleague",
+      "pos": "noun",
+      "ko": "동료",
+      "form": "복수형",
+      "synonyms": [
+        "coworkers",
+        "peers"
+      ],
+      "ipa": "/ˈkɑːliɡz/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 열리다",
+      "synonyms": [
+        "occur"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place) 개최되다",
+      "synonyms": [
+        "occurrence"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "ipa": "/mɑːrtʃ/"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "회의",
+      "synonyms": [
+        "meeting"
+      ],
+      "ipa": "/ˈkɑːnfərəns/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "synonyms": [
+        "hall",
+        "space"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "b": {
+      "lemma": "B",
+      "pos": "noun",
+      "ko": "B (회의실 이름의 알파벳)",
+      "ipa": "/biː/"
+    },
+    "attendance": {
+      "lemma": "attendance",
+      "pos": "noun",
+      "ko": "참석 (인원)",
+      "synonyms": [
+        "participation",
+        "turnout"
+      ],
+      "ipa": "/əˈtɛndəns/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "limited": {
+      "lemma": "limit",
+      "pos": "verb",
+      "ko": "제한된",
+      "form": "과거분사",
+      "synonyms": [
+        "restricted",
+        "capped"
+      ],
+      "ipa": "/ˈlɪmətəd/"
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "pos": "number",
+      "ko": "스물, 20",
+      "ipa": "/ˈtwɛnti/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "staff",
+        "workers"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서, 그러니",
+      "ipa": "/soʊ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "ipa": "/pliːz/"
+    },
+    "register": {
+      "lemma": "register",
+      "pos": "verb",
+      "ko": "등록하다",
+      "synonyms": [
+        "sign up",
+        "enroll"
+      ],
+      "ipa": "/ˈrɛdʒɪstər/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as soon as possible) 가능한 한",
+      "ipa": "/æz/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧, 빨리",
+      "synonyms": [
+        "quickly",
+        "promptly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "possible": {
+      "lemma": "possible",
+      "pos": "adjective",
+      "ko": "가능한",
+      "synonyms": [
+        "feasible"
+      ],
+      "ipa": "/ˈpɑːsəbəl/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "ipa": "/juː/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "ipa": "/kæn/"
+    },
+    "sign": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "(sign up) 신청하다",
+      "synonyms": [
+        "register",
+        "enroll"
+      ],
+      "ipa": "/saɪn/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(sign up) 신청하여",
+      "ipa": "/ʌp/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해",
+      "ipa": "/θruː/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수",
+      "synonyms": [
+        "instruction",
+        "development"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "page": {
+      "lemma": "page",
+      "pos": "noun",
+      "ko": "(웹) 페이지",
+      "synonyms": [
+        "webpage",
+        "section"
+      ],
+      "ipa": "/peɪdʒ/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "synonyms": [
+        "firm",
+        "organization"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "intranet": {
+      "lemma": "intranet",
+      "pos": "noun",
+      "ko": "인트라넷 (사내 전산망)",
+      "synonyms": [
+        "internal network"
+      ],
+      "ipa": "/ˈɪntrəˌnɛt/"
+    },
+    "lunch": {
+      "lemma": "lunch",
+      "pos": "noun",
+      "ko": "점심",
+      "synonyms": [
+        "midday meal"
+      ],
+      "ipa": "/lʌntʃ/"
+    },
+    "provided": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공된",
+      "form": "과거분사",
+      "synonyms": [
+        "supplied",
+        "served",
+        "offered"
+      ],
+      "ipa": "/prəˈvaɪdɪd/"
+    },
+    "both": {
+      "lemma": "both",
+      "pos": "determiner",
+      "ko": "둘 다의",
+      "ipa": "/boʊθ/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": "복수형",
+      "synonyms": [
+        "dates"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "마치다, 수료하다",
+      "synonyms": [
+        "finish",
+        "pass"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "certificate": {
+      "lemma": "certificate",
+      "pos": "noun",
+      "ko": "수료증, 증명서",
+      "synonyms": [
+        "credential",
+        "diploma"
+      ],
+      "ipa": "/sərˈtɪfɪkət/"
+    },
+    "addition": {
+      "lemma": "addition",
+      "pos": "noun",
+      "ko": "(in addition) 게다가, 또한",
+      "synonyms": [
+        "extra"
+      ],
+      "ipa": "/əˈdɪʃən/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "participation": {
+      "lemma": "participation",
+      "pos": "noun",
+      "ko": "참여",
+      "synonyms": [
+        "involvement",
+        "attendance"
+      ],
+      "ipa": "/pɑrˌtɪsəˈpeɪʃən/"
+    },
+    "count": {
+      "lemma": "count",
+      "pos": "verb",
+      "ko": "(count toward) ~에 포함되다",
+      "synonyms": [
+        "contribute",
+        "apply"
+      ],
+      "ipa": "/kaʊnt/"
+    },
+    "toward": {
+      "lemma": "toward",
+      "pos": "preposition",
+      "ko": "~에, ~을 향해",
+      "ipa": "/təˈwɔːrd/"
+    },
+    "annual": {
+      "lemma": "annual",
+      "pos": "adjective",
+      "ko": "연간의, 매년의",
+      "synonyms": [
+        "yearly"
+      ],
+      "ipa": "/ˈænjuəl/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/ˈaʊərz/"
+    },
+    "required": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "요구되는",
+      "form": "과거분사",
+      "synonyms": [
+        "mandated",
+        "demanded"
+      ],
+      "ipa": "/riˈkwaɪərd/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "ipa": "/ɪf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "synonyms": [
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무슨",
+      "ipa": "/ˈɛni/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "inquiries",
+        "queries"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "synonyms": [
+        "call",
+        "reach"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를, 저에게",
+      "ipa": "/miː/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~로, ~에서",
+      "ipa": "/æt/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (번호)",
+      "synonyms": [
+        "line",
+        "ext."
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    },
+    "best": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "최고의 (Best regards 맺음말)",
+      "form": "최상급",
+      "synonyms": [
+        "warmest",
+        "kindest"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "regards": {
+      "lemma": "regard",
+      "pos": "noun",
+      "ko": "안부 (Best regards 맺음말)",
+      "form": "복수형",
+      "synonyms": [
+        "wishes",
+        "greetings"
+      ],
+      "ipa": "/rɪˈɡɑːrdz/"
+    },
+    "helen": {
+      "lemma": "Helen",
+      "pos": "proper-noun",
+      "ko": "헬렌 (사람 이름)",
+      "ipa": "/ˈhɛlən/"
+    },
+    "moritz": {
+      "lemma": "Moritz",
+      "pos": "proper-noun",
+      "ko": "모리츠 (사람 성)",
+      "ipa": "/mɔˈrɪts/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "who"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "whom"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "선행사 trainer는 사람이고, 빈칸 뒤에 주어 없이 동사 has worked가 바로 온다 → 주격 관계대명사 who.",
+      "choiceNotesKo": {
+        "A": "whom은 목적격이라 뒤에 주어 + 동사가 와야 한다.",
+        "D": "which는 사물 선행사에 쓴다."
+      },
+      "skill": "주격 관계대명사(사람)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Attendance"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Attend"
+        },
+        {
+          "key": "B",
+          "text": "Attendant"
+        },
+        {
+          "key": "C",
+          "text": "Attendance"
+        },
+        {
+          "key": "D",
+          "text": "Attentive"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "동사 is limited 앞은 주어인 명사 자리. '참석 (인원)'이 20명으로 제한된다 → Attendance.",
+      "choiceNotesKo": {
+        "B": "Attendant(안내원)는 셀 수 있는 명사라 관사 없이 단수로 쓸 수 없고 뜻도 맞지 않는다.",
+        "D": "Attentive는 형용사라 주어가 될 수 없다."
+      },
+      "skill": "명사 자리(주어)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "You can sign up through the training page on the company intranet."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The trainer has written two books on leadership."
+        },
+        {
+          "key": "B",
+          "text": "Last year's workshop focused on time management."
+        },
+        {
+          "key": "C",
+          "text": "Conference Room B is currently being renovated."
+        },
+        {
+          "key": "D",
+          "text": "You can sign up through the training page on the company intranet."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "바로 앞 문장이 '가능한 한 빨리 등록하라(register)'이므로, 이어서 '어디서 신청(sign up)하는지' 알려 주는 문장이 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "강사 소개는 앞 단락에 어울리고, 등록 안내 사이에 들어가면 흐름이 끊긴다.",
+        "C": "바로 앞에서 B 회의실에서 열린다고 했으므로 공사 중이라는 말은 모순이다."
+      },
+      "skill": "문장 넣기(register → sign up 연결)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "provided"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "provided"
+        },
+        {
+          "key": "B",
+          "text": "provide"
+        },
+        {
+          "key": "C",
+          "text": "providing"
+        },
+        {
+          "key": "D",
+          "text": "provides"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "점심은 '제공되는' 것이므로 will be + 과거분사(수동태) → provided.",
+      "choiceNotesKo": {
+        "C": "will be providing은 '제공하는 중일 것'이라는 능동 진행형으로, 주어 Lunch가 제공하는 주체가 될 수 없다."
+      },
+      "skill": "미래 수동태(will be p.p.)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "In addition"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "However"
+        },
+        {
+          "key": "B",
+          "text": "Otherwise"
+        },
+        {
+          "key": "C",
+          "text": "For instance"
+        },
+        {
+          "key": "D",
+          "text": "In addition"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장 '수료증을 받는다'에 '연간 교육 시간에도 포함된다'는 혜택을 하나 더 더하므로 In addition(또한).",
+      "choiceNotesKo": {
+        "A": "However는 반대 내용을 이을 때 쓴다.",
+        "C": "For instance는 앞 내용의 예를 들 때 쓴다."
+      },
+      "skill": "접속부사(추가)"
+    }
+  ]
+}
