@@ -337,7 +337,8 @@ test('핵심 단어가 아닌 단어도 누르면 뜻·기본형이 나오고 �
   await expect(dlg.getByRole('button', { name: /내 단어/ })).toHaveCount(0);
   await dlg.getByTestId('word-fav').click();
   await page.getByTestId('pick-folder-default').click();
-  await expect(dlg.getByTestId('word-fav')).toHaveText('★ 즐겨찾기됨');
+  await expect(dlg.getByTestId('word-fav')).toHaveText('★');
+  await expect(dlg.getByTestId('word-fav')).toHaveAttribute('aria-pressed', 'true');
 });
 
 test('설정에서 끄면 단어를 눌러도 자동으로 읽지 않는다(버튼으로는 들림)', async ({ page }) => {

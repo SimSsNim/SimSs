@@ -88,6 +88,11 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, gr
   const voices = useVoices();
   const sayText = vocab?.term ?? word;
   const say = (text: string, slow = false) => speakWord(text, slow);
+  const fav = vocab
+    ? { term: vocab.term, snap: { meaningKo: vocab.meaningKo, pos: vocab.pos, ipa: vocab.ipa ?? null, synonyms: vocab.synonyms, sentence, lessonKey } }
+    : gloss
+      ? { term: gloss.pos === 'proper-noun' ? gloss.lemma : gloss.lemma.toLowerCase(), snap: { meaningKo: gloss.ko, pos: POS_KO[gloss.pos] ?? gloss.pos, ipa: gloss.ipa ?? null, synonyms: gloss.synonyms, sentence, lessonKey } }
+      : { term: word.toLowerCase(), snap: { meaningKo: '', sentence, lessonKey } };
   return (
     <Sheet onClose={onClose} label={`단어 ${word}`}>
       <div className={s.between} style={{ alignItems: 'flex-start' }}>
@@ -99,6 +104,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, gr
             {voices.supported && (
               <button type="button" className={s.iconSm} onClick={() => say(sayText)} aria-label={`${sayText} 발음 듣기`} data-testid="word-speak" style={{ fontSize: 15 }}>🔊</button>
             )}
+            <FavWordButton term={fav.term} snap={fav.snap} />
           </div>
           {(vocab?.ipa || (!vocab && gloss?.ipa)) && <span className={s.ipaLine} data-testid="ipa">{fmtIpa(vocab?.ipa ?? gloss?.ipa)}</span>}
           {!voices.supported && <div className={s.small + ' ' + s.muted}>이 기기에서 영어 음성을 찾지 못해 발음을 들을 수 없어요.</div>}
@@ -107,9 +113,8 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, gr
       </div>
       {vocab ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
-          <div style={{ fontWeight: 700 }}>{vocab.meaningKo}</div>
+          <div style={{ fontWeight: 700, color: 'var(--ok)' }} data-testid="word-meaning">{vocab.meaningKo}</div>
           {vocab.synonyms?.length ? <div className={s.small}>유사 단어: {vocab.synonyms.join(', ')}</div> : null}
-          <div><FavWordButton term={vocab.term} snap={{ meaningKo: vocab.meaningKo, pos: vocab.pos, ipa: vocab.ipa ?? null, synonyms: vocab.synonyms, sentence, lessonKey }} /></div>
           {vocab.example && (
             <div className={s.small}>
               <div style={{ fontFamily: 'var(--serif)' }}>{vocab.example.en} <SpeakBtn text={vocab.example.en} label="예문 듣기" /></div>
@@ -119,7 +124,7 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, gr
         </div>
       ) : gloss ? (
         <div className={s.stack} style={{ marginTop: 6 }}>
-          <div style={{ fontWeight: 700 }}>{gloss.ko}</div>
+          <div style={{ fontWeight: 700, color: 'var(--ok)' }} data-testid="word-meaning">{gloss.ko}</div>
           {gloss.synonyms?.length ? <div className={s.small} data-testid="gloss-synonyms">유사 단어: <span lang="en">{gloss.synonyms.join(', ')}</span></div> : null}
           {(gloss.form || gloss.lemma.toLowerCase() !== word.toLowerCase()) && (
             <div className={s.small + ' ' + s.muted}>
@@ -127,15 +132,12 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, gr
             </div>
           )}
           <div className={s.row}>
-            <FavWordButton term={gloss.pos === 'proper-noun' ? gloss.lemma : gloss.lemma.toLowerCase()}
-              snap={{ meaningKo: gloss.ko, pos: POS_KO[gloss.pos] ?? gloss.pos, ipa: gloss.ipa ?? null, synonyms: gloss.synonyms, sentence, lessonKey }} />
             <a className={s.ghost} href={dictUrl(gloss.lemma)} target="_blank" rel="noopener noreferrer">사전에서 더 보기 ↗</a>
           </div>
         </div>
       ) : (
         <div className={s.row} style={{ marginTop: 8 }}>
           <span className={s.muted + ' ' + s.small}>이 레슨 파일에는 이 단어의 뜻 정보가 없어요.</span>
-          <FavWordButton term={word.toLowerCase()} snap={{ meaningKo: '', sentence, lessonKey }} />
           <a className={s.ghost} href={dictUrl(word)} target="_blank" rel="noopener noreferrer">사전에서 찾기 ↗</a>
         </div>
       )}
@@ -216,11 +218,12 @@ function FavWordButton({ term, snap }: { term: string; snap: { meaningKo: string
   const st = useLiveQuery(() => db.wordState.get(key), [key]);
   const on = !!st?.starred;
   return (
-    <button type="button" className={on ? s.primary : s.btn} aria-pressed={on} data-testid="word-fav"
+    <button type="button" className={s.iconSm} aria-pressed={on} data-testid="word-fav" aria-label={on ? '즐겨찾기에서 빼기' : '즐겨찾기'} title={on ? '즐겨찾기됨' : '즐겨찾기'}
+      style={{ fontSize: 18, color: on ? '#e0a100' : undefined }}
       onClick={async () => {
         if (await setFavorite('word', key, !on, () => toggleStar(term), { term, ...snap })) toast(on ? '즐겨찾기에서 뺐어요' : '즐겨찾기에 넣었어요');
       }}>
-      {on ? '★ 즐겨찾기됨' : '☆ 즐겨찾기'}
+      {on ? '★' : '☆'}
     </button>
   );
 }

@@ -136,7 +136,10 @@ export function LessonPage() {
     <>
       <AppHeader track={track} target="stay" sticky={false}>
         <div className={s.row} style={{ flexWrap: 'nowrap', maxWidth: 760, margin: '6px auto 0' }}>
-          <Link to={backTarget(track)} className={s.iconSm} aria-label="뒤로" style={{ flex: 'none' }}>‹</Link>
+          <Link to={backTarget(track)} className={s.primary} aria-label="뒤로" data-testid="lesson-back"
+            style={{ flex: 'none', minHeight: 38, padding: '0 12px 0 8px', gap: 2, fontSize: 15, fontWeight: 800, borderRadius: 12, boxShadow: 'var(--shadow)', textDecoration: 'none' }}>
+            <span aria-hidden="true" style={{ fontSize: 24, lineHeight: 1, marginTop: -3 }}>‹</span>뒤로
+          </Link>
           <div className={s.grow}>
             <div style={{ fontFamily: 'var(--serif)', fontWeight: 700, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }} data-testid="lesson-title">
               {lesson?.title ?? summary?.title ?? id}
