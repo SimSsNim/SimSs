@@ -1,3 +1,5 @@
+import { INK_ACTION_LABEL } from '../components/InkTools';
+import type { InkAction } from '../lib/settings';
 import { useState } from 'react';
 import s from '../styles/ui.module.css';
 import { useSettings, setSetting, type Theme, type DisplayMode, type Accent } from '../lib/settings';
@@ -6,6 +8,9 @@ import { LevelChips, enabledLevelsOf } from '../components/LevelChips';
 import { TRACKS, TRACK_LABEL, LEVELS, LEVEL_DESC, type Level, type Track } from '../lib/types';
 import { toast } from '../components/Toast';
 import { wakeLockSupported } from '../lib/wakeLock';
+
+const PEN_ACTIONS: InkAction[] = ['eraser', 'eraser-part', 'hl', 'undo', 'redo', 'lock', 'none'];
+const FINGER_ACTIONS: InkAction[] = ['undo', 'redo', 'lock', 'memo', 'eraser', 'eraser-part', 'hl', 'none'];
 
 export function SettingsPanel() {
   const st = useSettings();
@@ -32,15 +37,21 @@ export function SettingsPanel() {
         <label className={s.check}><input type="checkbox" checked={st.penLock} onChange={(e) => setSetting('penLock', e.target.checked)} data-testid="pen-lock-setting" />펜 글씨 잠금(펜슬로 써지지 않고 누르기·스크롤만 — 레슨 화면의 🔓 펜 잠금 버튼과 같아요)</label>
         <label className={s.check}><input type="checkbox" checked={st.scribbleErase} onChange={(e) => setSetting('scribbleErase', e.target.checked)} data-testid="scribble-erase" />낙서하듯 여러 번 긁으면 그 아래 글씨 지우기</label>
         <label className={s.label}>펜슬로 화면을 두 번 톡 치면
-          <select className={s.select} value={st.penDoubleTap} onChange={(e) => setSetting('penDoubleTap', e.target.value as 'eraser' | 'eraser-part' | 'undo' | 'hl' | 'lock' | 'none')} data-testid="pen-double-tap">
-            <option value="eraser">지우개(획) ↔ 펜 바꾸기</option>
-            <option value="eraser-part">지우개(부분) ↔ 펜 바꾸기</option>
-            <option value="undo">이전(직전 획 지우기)</option>
-            <option value="hl">형광펜 ↔ 펜 바꾸기</option>
-            <option value="lock">펜 글씨 잠금 켜기 ↔ 끄기</option>
-            <option value="none">아무것도 안 함</option>
+          <select className={s.select} value={st.penDoubleTap} onChange={(e) => setSetting('penDoubleTap', e.target.value as InkAction)} data-testid="pen-double-tap">
+            {PEN_ACTIONS.map((a) => <option key={a} value={a}>{INK_ACTION_LABEL[a]}</option>)}
           </select>
-          <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>펜슬 옆면 두 번 톡(애플펜슬 2·Pro)은 아이패드가 웹 앱에 알려 주지 않아서 받을 수 없어요. 대신 펜슬 끝으로 화면을 빠르게 두 번 톡 치면 바뀌고, 다시 두 번 톡 치면 펜으로 돌아와요.</span>
+          <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>펜슬 옆면 두 번 톡(애플펜슬 2·Pro)은 아이패드가 웹 앱에 알려 주지 않아서 받을 수 없어요. 대신 펜슬 끝으로 화면을 빠르게 두 번 톡 치면 바뀌고, 다시 두 번 톡 치면 돌아와요. 글씨를 쓰다가(0.7초 안에) 찍은 점은 두 번 톡으로 보지 않아요.</span>
+        </label>
+        <label className={s.label}>손가락 두 개로 화면을 두 번 톡 치면
+          <select className={s.select} value={st.twoFingerTap} onChange={(e) => setSetting('twoFingerTap', e.target.value as InkAction)} data-testid="two-finger-tap">
+            {FINGER_ACTIONS.map((a) => <option key={a} value={a}>{INK_ACTION_LABEL[a]}</option>)}
+          </select>
+        </label>
+        <label className={s.label}>손가락 세 개로 화면을 두 번 톡 치면
+          <select className={s.select} value={st.threeFingerTap} onChange={(e) => setSetting('threeFingerTap', e.target.value as InkAction)} data-testid="three-finger-tap">
+            {FINGER_ACTIONS.map((a) => <option key={a} value={a}>{INK_ACTION_LABEL[a]}</option>)}
+          </select>
+          <span className={s.small + ' ' + s.muted} style={{ fontWeight: 400 }}>레슨 본문과 손글씨 필사 칸에서 돼요(메모를 안 열어도). 아이폰·아이패드 설정 → 손쉬운 사용 → 확대/축소를 켜 두었다면 세 손가락 두 번 톡은 기기 확대가 먼저 동작해요.</span>
         </label>
         <label className={s.label}>화면 꺼짐 방지
           <select className={s.select} value={st.keepAwake} onChange={(e) => setSetting('keepAwake', e.target.value as 'off' | 'lesson' | 'always')} data-testid="keep-awake">

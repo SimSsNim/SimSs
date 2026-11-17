@@ -6,6 +6,9 @@ export type Theme = 'system' | 'light' | 'dark';
 export type DisplayMode = 'en' | 'ko' | 'both-sentence' | 'both-paragraph';
 export type Accent = 'en-US' | 'en-GB' | 'en-AU' | 'en-CA';
 
+/** 펜슬·손가락 제스처로 할 일 */
+export type InkAction = 'eraser' | 'eraser-part' | 'undo' | 'redo' | 'hl' | 'lock' | 'memo' | 'none';
+
 export interface Settings {
   track: Track;
   /** 트랙마다 따로 고른 '내 레벨'. null = 아직 안 고름(첫 실행 화면) */
@@ -62,7 +65,11 @@ export interface Settings {
   /** 애플펜슬이 닿으면 바로 메모(메모 모드 자동으로 켜짐) */
   penAuto: boolean;
   /** 펜슬 끝으로 두 번 톡: 지우개로 바꾸기 / 이전 / 형광펜으로 바꾸기 / 없음 */
-  penDoubleTap: 'eraser' | 'eraser-part' | 'undo' | 'hl' | 'lock' | 'none';
+  penDoubleTap: InkAction;
+  /** 손가락 두 개로 두 번 톡 */
+  twoFingerTap: InkAction;
+  /** 손가락 세 개로 두 번 톡 */
+  threeFingerTap: InkAction;
   /** 듣기: 다음 지문까지 이어서(끄면 보고 있는 지문만) */
   playContinue: boolean;
   /** 펜 글씨 잠금: 펜슬은 손가락처럼(누르기·스크롤만) */
@@ -83,6 +90,8 @@ export const DEFAULT_SETTINGS: Settings = {
   keepAwake: 'lesson',
   penAuto: true,
   penDoubleTap: 'eraser',
+  twoFingerTap: 'undo',
+  threeFingerTap: 'lock',
   playContinue: false,
   penLock: false,
   scribbleErase: true,

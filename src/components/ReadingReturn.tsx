@@ -1,4 +1,5 @@
 import { useLocation, useNavigate } from 'react-router-dom';
+import { ViewportLayer } from './ViewportLayer';
 import s from '../styles/ui.module.css';
 import { useReadingSpot, clearReadingSpot } from '../lib/backTarget';
 import { useLessons } from '../lib/lessons';
@@ -25,6 +26,7 @@ export function ReadingReturn() {
     for (const ms of [60, 250, 600]) setTimeout(() => window.scrollTo(0, y), ms);
   };
   return (
+    <ViewportLayer zIndex={35}>
     <div data-pdf-skip="1" data-testid="reading-return"
       style={{ position: 'fixed', left: 12, bottom: 'calc(var(--nav-h) + var(--player-h) + 12px + env(safe-area-inset-bottom))', zIndex: 35, display: 'flex', alignItems: 'stretch', maxWidth: 'min(300px, calc(100vw - 210px))', boxShadow: 'var(--shadow)', borderRadius: 999 }}>
       <button type="button" className={s.primary} onClick={go} data-testid="reading-return-go" title={`${title} · ${tabLabel}`}
@@ -35,5 +37,6 @@ export function ReadingReturn() {
       <button type="button" className={s.primary} onClick={clearReadingSpot} aria-label="보던 화면 버튼 닫기" data-testid="reading-return-close"
         style={{ borderRadius: '0 999px 999px 0', padding: '0 10px', borderLeft: '1px solid rgb(255 255 255 / 30%)', minWidth: 0 }}>✕</button>
     </div>
+    </ViewportLayer>
   );
 }

@@ -75,7 +75,7 @@ export function HandwriteMode({ lesson, lessonKey }: TabProps) {
           <p lang="en" style={{ fontFamily: 'var(--serif)', fontSize: 'var(--read-size)', lineHeight: 1.5, margin: 0 }} data-testid="hw-sentence">{sen.en}</p>
           <div style={{ position: 'relative', width: '100%', aspectRatio: `1 / ${PAD_ASPECT}`, backgroundColor: '#fff', backgroundImage: padBg, border: '1px solid var(--line)', borderRadius: 10, touchAction: 'pan-y' }}
             data-testid="hw-pad">
-            <InkSurface strokes={note.strokes} onChange={note.set} active tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn ? () => pen.doubleTap(note) : undefined} scribbleErase={set.scribbleErase} testid="hw-surface" />
+            <InkSurface strokes={note.strokes} onChange={note.set} active tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn ? () => pen.doubleTap(note) : undefined} scribbleErase={set.scribbleErase} onMultiDoubleTap={(n) => pen.runAction(n === 2 ? set.twoFingerTap : set.threeFingerTap, note)} testid="hw-surface" />
           </div>
           <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} size={size} setSize={setSize} fingerDraw={finger} setFingerDraw={setFinger} onUndo={note.undo} onRedo={note.redo} canUndo={note.canUndo} canRedo={note.canRedo} eraseMode={eraseMode} setEraseMode={setEraseMode} onClear={note.clear} />
           <div className={s.row}>

@@ -8,6 +8,8 @@ import { screenPdf, offerPdf } from '../lib/pdf';
 import { toast } from './Toast';
 import { formatKo } from '../lib/date';
 import type { Lesson } from '../lib/types';
+import { isPhone } from '../lib/device';
+import { ViewportLayer } from './ViewportLayer';
 
 /** 메모할 수 있는 탭(내용이 고정된 화면) */
 export const INK_TABS = ['full', 'vocab', 'grammar'];
@@ -39,9 +41,21 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
     }, PEN_IDLE_MS);
   };
   useEffect(() => () => clearTimeout(idleTimer.current), []);
-  const openByButton = () => { autoOpened.current = false; clearTimeout(idleTimer.current); if (st.penLock) setSetting('penLock', false); setOn(true); };
+  /** 아이폰: 펜슬이 없으니 메모는 손가락으로 쓰고, 잠금은 '손글씨 잠금'(메모는 열어 둔 채 잠깐 스크롤·단어 누르기) */
+  const phone = isPhone();
+  const lockName = phone ? '손글씨 잠금' : '펜 잠금';
+  const openByButton = () => { autoOpened.current = false; clearTimeout(idleTimer.current); if (st.penLock) setSetting('penLock', false); if (phone) setFinger(true); setOn(true); };
   const close = () => { autoOpened.current = false; clearTimeout(idleTimer.current); setOn(false); };
-  const toggleLock = () => { const next = !st.penLock; setSetting('penLock', next); if (next) close(); toast(next ? '🔒 펜 글씨 잠금: 펜슬은 누르기·스크롤만' : '🔓 펜 글씨 잠금 풀림', { ms: 1500 }); };
+  const toggleLock = () => {
+    const next = !st.penLock;
+    setSetting('penLock', next);
+    if (next && !phone) close();
+    if (!next && phone && !on) openByButton();
+    toast(next ? (phone ? '🔒 손글씨 잠금: 손가락은 누르기·스크롤만' : '🔒 펜 글씨 잠금: 펜슬은 누르기·스크롤만') : `🔓 ${phone ? '손글씨' : '펜 글씨'} 잠금 풀림`, { ms: 1500 });
+  };
+  const toggleMemo = () => (on ? close() : openByButton());
+  /** 손가락 2·3개로 두 번 톡 */
+  const multiTap = (n: 2 | 3) => pen.runAction(n === 2 ? st.twoFingerTap : st.threeFingerTap, note, { lock: toggleLock, memo: toggleMemo });
 
   const saved = note.row?.view;
   const differs = !!saved && note.strokes.length > 0 && VIEW_KEYS.some((k) => saved[k] !== undefined && saved[k] !== st[k]);
@@ -68,19 +82,20 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
           <button type="button" className={s.chip} onClick={() => VIEW_KEYS.forEach((k) => saved![k] !== undefined && setSetting(k, saved![k] as never))}>메모할 때 설정으로 보기</button>
         </div>
       )}
-      <div ref={box} style={{ position: 'relative', cursor: on ? (tool === 'eraser' ? 'cell' : 'crosshair') : undefined, touchAction: on && finger ? 'none' : undefined, userSelect: on ? 'none' : undefined }} data-testid="ink-box">
+      <div ref={box} style={{ position: 'relative', cursor: on ? (tool === 'eraser' ? 'cell' : 'crosshair') : undefined, touchAction: on && finger && !st.penLock ? 'none' : undefined, userSelect: on && !st.penLock ? 'none' : undefined }} data-testid="ink-box">
         {children}
         <InkSurface strokes={note.strokes} onChange={note.set} active={on} tool={tool} color={color} fingerDraw={finger} eraseMode={eraseMode} size={size} onPenDoubleTap={dtOn && (!st.penLock || st.penDoubleTap === 'lock') ? () => pen.doubleTap(note, toggleLock) : undefined}
           penAlways={st.penAuto && !st.penLock} locked={st.penLock} scribbleErase={st.scribbleErase} onPenActivity={penActive}
-          onPenStart={() => { autoOpened.current = true; setOn(true); penActive(); }} />
+          onPenStart={() => { autoOpened.current = true; setOn(true); penActive(); }} onMultiDoubleTap={multiTap} />
       </div>
+      <ViewportLayer>
       <div data-pdf-skip="1" style={{ position: 'fixed', right: 12, bottom: 'calc(var(--nav-h) + var(--player-h) + 12px + env(safe-area-inset-bottom))', zIndex: 36, maxWidth: 'calc(100vw - 24px)' }}>
-        <div style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: 6 }}>
+        {(!phone || on) && <div style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: 6 }}>
           <button type="button" className={st.penLock ? s.primary : s.btn} aria-pressed={st.penLock} onClick={toggleLock} data-testid="pen-lock"
-            title="켜면 펜슬로 글씨가 써지지 않고 누르기·스크롤만 돼요" style={{ boxShadow: 'var(--shadow)', minHeight: 34, fontSize: 13 }}>
-            {st.penLock ? '🔒 펜 잠금' : '🔓 펜 잠금'}
+            title={phone ? '켜면 손가락으로 글씨가 써지지 않고 누르기·스크롤만 돼요' : '켜면 펜슬로 글씨가 써지지 않고 누르기·스크롤만 돼요'} style={{ boxShadow: 'var(--shadow)', minHeight: 34, fontSize: 13 }}>
+            {st.penLock ? `🔒 ${lockName}` : `🔓 ${lockName}`}
           </button>
-        </div>
+        </div>}
         {on ? (
           <div className={s.card} style={{ padding: '6px 8px', boxShadow: '0 6px 24px rgb(0 0 0 / 18%)', maxWidth: 'min(740px, calc(100vw - 24px))' }}>
             <InkToolbar tool={tool} setTool={setTool} color={color} setColor={setColor} size={size} setSize={setSize} fingerDraw={finger} setFingerDraw={setFinger}
@@ -97,6 +112,7 @@ export function ScreenInk({ lesson, lessonKey, tab, tabLabel, children }: { less
           </div>
         )}
       </div>
+      </ViewportLayer>
     </>
   );
 }

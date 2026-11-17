@@ -9,6 +9,7 @@ import r from '../styles/reading.module.css';
 import { segmentSentence } from '../lib/lessonUtils';
 import type { GlossEntry, GrammarPoint, Lesson, Sentence, Structure, Vocab } from '../lib/types';
 import { POS_KO } from '../lib/lessonAdapter';
+import { ViewportLayer } from './ViewportLayer';
 import { getVoiceState, speak, useVoices } from '../lib/tts';
 import { getSettings } from '../lib/settings';
 import { toggleStar } from '../lib/words';
@@ -48,13 +49,13 @@ export function SentenceText(props: {
 
 export function Sheet({ onClose, children, label }: { onClose: () => void; children: ReactNode; label: string }) {
   return (
-    <>
+    <ViewportLayer zIndex={60}>
       <div className={s.backdrop} onClick={onClose} aria-hidden="true" />
       <div className={s.popover} role="dialog" aria-modal="true" aria-label={label}
         onKeyDown={(e) => e.key === 'Escape' && onClose()}>
         {children}
       </div>
-    </>
+    </ViewportLayer>
   );
 }
 

@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import s from '../styles/ui.module.css';
 import { INK_COLORS, PEN_SIZES, PEN_SIZE_LABEL, loadInk, saveInk, type InkStroke } from '../lib/ink';
-import { getSettings } from '../lib/settings';
+import { getSettings, type InkAction } from '../lib/settings';
 import { toast } from './Toast';
 import type { InkTool, EraseMode } from './InkSurface';
 import type { InkNoteRow } from '../lib/db';
@@ -71,13 +71,15 @@ export function usePen() {
   const setTool = (t: InkTool) => { setToolRaw((cur) => { if (cur !== 'eraser' && cur !== t) prevTool.current = cur; return t; }); };
   const setColor = (c: string) => { setColorRaw(c); save({ color: c }); };
   const setSize = (n: number) => { setSizeRaw(n); save({ size: n }); };
-  /** 펜슬 두 번 톡: 설정한 기능 */
-  const doubleTap = (note: { undo: () => void }, onLock?: () => void) => {
-    const act = getSettings().penDoubleTap;
-    if (act === 'lock') { onLock?.(); return; }
+  /** 제스처(펜슬 두 번 톡, 손가락 2·3개 두 번 톡)로 정한 기능 실행 */
+  const runAction = (act: InkAction, note: { undo: () => void; redo: () => void }, more: { lock?: () => void; memo?: () => void } = {}) => {
+    if (act === 'none') return;
+    if (act === 'lock') { if (more.lock) more.lock(); else toast('여기서는 잠금을 쓸 수 없어요', { ms: 1200 }); return; }
+    if (act === 'memo') { more.memo?.(); return; }
     if (act === 'undo') { note.undo(); toast('↶ 이전', { ms: 900 }); return; }
+    if (act === 'redo') { note.redo(); toast('↷ 되살리기', { ms: 900 }); return; }
     if (act === 'eraser' || act === 'eraser-part') {
-      // 두 번 톡: 지우개로, 다시 두 번 톡: 펜으로
+      // 한 번: 지우개로, 다시: 펜으로
       setToolRaw((cur) => {
         if (cur === 'eraser') { toast('✏️ 펜으로', { ms: 900 }); return 'pen'; }
         toast(act === 'eraser-part' ? '🧽 부분 지우개로' : '🧽 지우개로', { ms: 900 });
@@ -90,7 +92,9 @@ export function usePen() {
       setToolRaw((cur) => { const next = cur === 'hl' ? 'pen' : 'hl'; toast(next === 'hl' ? '🖍 형광펜으로' : '✏️ 펜으로', { ms: 900 }); return next; });
     }
   };
-  return { tool, setTool, color, setColor, size, setSize, eraseMode, setEraseMode, finger, setFinger, doubleTap };
+  /** 펜슬 두 번 톡: 설정한 기능 */
+  const doubleTap = (note: { undo: () => void; redo: () => void }, onLock?: () => void) => runAction(getSettings().penDoubleTap, note, { lock: onLock });
+  return { tool, setTool, color, setColor, size, setSize, eraseMode, setEraseMode, finger, setFinger, doubleTap, runAction };
 }
 
 /** 펜 도구 줄: 색·형광펜·지우개·되돌리기·모두 지우기·손가락으로도 쓰기 */
@@ -141,3 +145,15 @@ export function InkToolbar({ tool, setTool, color, setColor, size, setSize, fing
     </div>
   );
 }
+
+/** 설정 화면용 이름 */
+export const INK_ACTION_LABEL: Record<InkAction, string> = {
+  lock: '손글씨·펜 글씨 잠금 켜기 ↔ 끄기',
+  memo: '메모 열기 ↔ 완료',
+  eraser: '지우개(획) ↔ 펜 바꾸기',
+  'eraser-part': '지우개(부분) ↔ 펜 바꾸기',
+  undo: '이전(직전 획 지우기)',
+  redo: '되살리기',
+  hl: '형광펜 ↔ 펜 바꾸기',
+  none: '아무것도 안 함',
+};

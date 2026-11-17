@@ -912,7 +912,7 @@ test('v40. 펜 색 직접 고르기·굵기, 펜슬 두 번 톡 = 지우개 ↔ 
   // 펜슬 한 번 톡 = 점 하나(잠깐 뒤 저장)
   await penTap(page, 'ink-box', 0.5, 1.5);
   await expect(page.getByTestId('ink-stroke')).toHaveCount(3);
-  await page.waitForTimeout(600);
+  await page.waitForTimeout(800); // 쓰다가 바로 찍은 점은 두 번 톡으로 안 봄 → 잠깐 쉬었다가
   // 두 번 톡 = 지우개로(점 안 남김)
   await penTap(page, 'ink-box', 0.6, 2.2);
   await penTap(page, 'ink-box', 0.6, 2.2);
@@ -945,7 +945,8 @@ async function penPath(page: Page, testid: string, pts: [number, number][]) {
   }, { b, pts });
 }
 
-test('v41. 펜 잠금·낙서 지우기·두 번 톡 후 펜으로·✏️ 펜 버튼', async ({ page }) => {
+test('v41. 펜 잠금·낙서 지우기·두 번 톡 후 펜으로·✏️ 펜 버튼', async ({ page }, info) => {
+  test.skip(info.project.name.startsWith('mobile'), '아이폰 화면은 펜슬 대신 손글씨 잠금(v46)');
   await start(page, './#/general/lesson/2026-11-12-L1/full');
   const strokes = page.getByTestId('ink-stroke');
   // 잠금: 펜슬로 안 써짐
@@ -970,6 +971,7 @@ test('v41. 펜 잠금·낙서 지우기·두 번 톡 후 펜으로·✏️ 펜 �
   await expect(page.getByTestId('ink-pen')).toHaveAttribute('aria-pressed', 'true');
   // 두 번 톡: 지우개 → 다시 두 번 톡: 펜(형광펜이었어도 펜으로)
   await page.getByTestId('ink-hl').click();
+  await page.waitForTimeout(800);
   await penTap(page, 'ink-box', 0.7, 2.2);
   await penTap(page, 'ink-box', 0.7, 2.2);
   await expect(page.getByTestId('ink-eraser')).toHaveAttribute('aria-pressed', 'true');
@@ -991,7 +993,8 @@ test('v42. 펜슬로 바로 쓴 메모는 펜슬을 내려놓으면 저절로 �
   await expect(page.getByTestId('ink-toolbar')).toBeVisible();
 });
 
-test('v43. 펜슬 두 번 톡 = 펜 글씨 잠금 켜기 ↔ 끄기', async ({ page }) => {
+test('v43. 펜슬 두 번 톡 = 펜 글씨 잠금 켜기 ↔ 끄기', async ({ page }, info) => {
+  test.skip(info.project.name.startsWith('mobile'), '아이폰 화면은 펜슬 대신 손글씨 잠금(v46)');
   await start(page, './#/records/settings');
   await page.getByTestId('pen-double-tap').selectOption('lock');
   await page.goto('./#/general/lesson/2026-11-12-L1/full');
@@ -1054,4 +1057,69 @@ test('v45. 읽다가 문법·단어·설정으로 가도 ↩ 보던 화면으로
   await expect(page.getByTestId('reading-return')).toBeVisible();
   await page.getByTestId('reading-return-close').click();
   await expect(page.getByTestId('reading-return')).toHaveCount(0);
+});
+
+/** 손가락 n개로 화면을 톡(터치 이벤트) */
+async function fingerTap(page: Page, testid: string, n: number) {
+  const b = (await page.getByTestId(testid).boundingBox())!;
+  await page.evaluate(({ b, n }) => {
+    const target = document.elementFromPoint(b.x + b.width / 2, b.y + 60)!;
+    const ts = Array.from({ length: n }, (_, i) => new Touch({ identifier: 100 + i, target, clientX: b.x + 60 + i * 50, clientY: b.y + 60 }));
+    target.dispatchEvent(new TouchEvent('touchstart', { touches: ts, changedTouches: ts, bubbles: true, cancelable: true }));
+    target.dispatchEvent(new TouchEvent('touchend', { touches: [], changedTouches: ts, bubbles: true, cancelable: true }));
+  }, { b, n });
+}
+
+test('v46. 아이폰: 메모를 누르면 손가락으로 쓰고, 손글씨 잠금·두/세 손가락 두 번 톡', async ({ page }, info) => {
+  test.skip(!info.project.name.startsWith('mobile'), '터치 화면에서만');
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await expect(page.getByTestId('pen-lock')).toHaveCount(0); // 메모를 열기 전엔 잠금 버튼 없음
+  await page.getByTestId('ink-toggle').click();
+  await expect(page.getByTestId('ink-finger')).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.getByTestId('pen-lock')).toContainText('손글씨 잠금');
+  await page.getByTestId('pen-lock').click();
+  await expect(page.getByTestId('pen-lock')).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible(); // 메모는 열어 둔 채
+  // 세 손가락 두 번 톡(기본: 잠금 켜기↔끄기)
+  await fingerTap(page, 'ink-box', 3);
+  await fingerTap(page, 'ink-box', 3);
+  await expect(page.getByTestId('pen-lock')).toHaveAttribute('aria-pressed', 'false');
+  // 두 손가락 두 번 톡(기본: 이전)
+  await drawLine(page, 'ink-box', 0.1, 0.2, 0.8, 0.2);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(1);
+  await fingerTap(page, 'ink-box', 2);
+  await fingerTap(page, 'ink-box', 2);
+  await expect(page.getByTestId('ink-stroke')).toHaveCount(0);
+  // 설정: 두 손가락 = 메모 열기↔완료
+  await page.goto('./#/records/settings');
+  await page.getByTestId('two-finger-tap').selectOption('memo');
+  await page.goto('./#/general/lesson/2026-11-12-L1/full');
+  await fingerTap(page, 'ink-box', 2);
+  await fingerTap(page, 'ink-box', 2);
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible();
+});
+
+test('v47. 화면을 확대해도 메모 버튼·도구 줄·단어 창은 보이는 곳에 같은 크기로', async ({ page }) => {
+  // 두 손가락 확대(2배, 오른쪽 아래 쪽을 보는 중)를 흉내
+  await page.addInitScript(() => {
+    const vv = new EventTarget() as EventTarget & Record<string, number>;
+    Object.assign(vv, { scale: 2, offsetLeft: 60, offsetTop: 200, width: innerWidth / 2, height: innerHeight / 2, pageLeft: 60, pageTop: 200 });
+    Object.defineProperty(window, 'visualViewport', { value: vv, configurable: true });
+  });
+  await start(page, './#/general/lesson/2026-11-12-L1/full');
+  await expect(page.getByTestId('viewport-layer-zoomed').first()).toBeAttached();
+  const vp = page.viewportSize()!;
+  const b = (await page.getByTestId('ink-toggle').boundingBox())!;
+  // 보이는 영역(왼쪽 60, 위 200, 너비·높이 절반) 안 오른쪽 아래
+  expect(b.x).toBeGreaterThan(60);
+  expect(b.x + b.width).toBeLessThanOrEqual(60 + vp.width / 2 + 1);
+  expect(b.y + b.height).toBeLessThanOrEqual(200 + vp.height / 2 + 1);
+  expect(b.y).toBeGreaterThan(200 + vp.height / 4);
+  // 화면 좌표로는 절반 크기 = 확대된 눈으로는 원래 크기
+  expect(b.height).toBeLessThan(30);
+  await page.getByTestId('ink-toggle').click();
+  await expect(page.getByTestId('ink-toolbar')).toBeVisible();
+  const tb = (await page.getByTestId('ink-toolbar').boundingBox())!;
+  expect(tb.x).toBeGreaterThanOrEqual(59);
+  expect(tb.x + tb.width).toBeLessThanOrEqual(60 + vp.width / 2 + 1);
 });
