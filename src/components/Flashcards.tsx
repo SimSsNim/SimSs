@@ -8,6 +8,7 @@ import { useSwipe, useKeys } from '../hooks';
 import { speak, cancelSpeech, useVoices } from '../lib/tts';
 import { getSettings } from '../lib/settings';
 import { shuffle, fmtIpa } from '../lib/text';
+import { POS_KO } from '../lib/lessonAdapter';
 import { useSticky, getSticky, setSticky } from '../lib/sticky';
 
 export type FlashMode = 'term' | 'meaning' | 'both' | 'cloze';
@@ -162,7 +163,14 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
   if (n === 0) return <p className={s.empty}>카드가 없어요. 범위나 필터를 바꿔 보세요.</p>;
 
   const cz = card ? clozeOf(card) : null;
-  const ipaLine = card?.ipa ? <div className={s.ipaLine} data-testid="flash-ipa" style={{ fontSize: 17 }}>{fmtIpa(card.ipa)}</div> : null;
+  const posKo = card?.pos ? POS_KO[card.pos] ?? card.pos : '';
+  // 단어 아래: 품사(동사·부사…) + 발음기호
+  const ipaLine = card && (card.ipa || posKo) ? (
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8, flexWrap: 'wrap' }}>
+      {posKo && <span className={s.badge} data-testid="flash-pos" style={{ fontSize: 14 }}>{posKo}</span>}
+      {card.ipa && <span className={s.ipaLine} data-testid="flash-ipa" style={{ fontSize: 17, display: 'inline' }}>{fmtIpa(card.ipa)}</span>}
+    </div>
+  ) : null;
   const front = () => {
     if (!card) return null;
     if (mode === 'meaning') return <div className={w.flashMeaning}>{card.meaningKo}</div>;

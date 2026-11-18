@@ -1,4 +1,5 @@
 import { fmtIpa } from '../lib/text';
+import { POS_KO } from '../lib/lessonAdapter';
 import { setFavorite } from '../lib/favorites';
 import s from '../styles/ui.module.css';
 import w from '../styles/words.module.css';
@@ -69,7 +70,7 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
         <div style={{ minWidth: 0, flex: 1 }}>
           <div className={s.row}>
             <span className={w.term} lang="en">{item.term}</span>
-            {item.pos && <span className={s.muted}>{item.pos}</span>}
+            {item.pos && <span className={s.muted}>{POS_KO[item.pos] ?? item.pos}</span>}
           </div>
           {item.ipa && <span className={s.ipaLine} data-testid="ipa">{fmtIpa(item.ipa)}</span>}
         </div>

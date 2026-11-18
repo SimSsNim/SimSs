@@ -100,8 +100,8 @@ export function WordPopup({ word, vocab, gloss, sentence, lessonKey, onClose, gr
         <div style={{ minWidth: 0, flex: 1 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexWrap: 'wrap' }}>
             <b style={{ fontSize: 20, fontFamily: 'var(--serif)' }}>{vocab?.term ?? word}</b>
-            {vocab && <span className={s.muted}>{vocab.pos}</span>}
-            {!vocab && gloss && <span className={s.muted}>{POS_KO[gloss.pos] ?? gloss.pos}</span>}
+            {vocab && <span className={s.muted} data-testid="word-pos">{POS_KO[vocab.pos] ?? vocab.pos}</span>}
+            {!vocab && gloss && <span className={s.muted} data-testid="word-pos">{POS_KO[gloss.pos] ?? gloss.pos}</span>}
             {voices.supported && (
               <button type="button" className={s.iconSm} onClick={() => say(sayText)} aria-label={`${sayText} 발음 듣기`} data-testid="word-speak" style={{ fontSize: 15 }}>🔊</button>
             )}

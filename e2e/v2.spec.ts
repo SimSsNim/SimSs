@@ -1138,6 +1138,7 @@ test('v48. 메뉴를 옮겨 다녀도 보던 하위 탭(복습 → 플래시카�
   await page.goto('./#/general/lesson/2026-11-12-L1/vocab');
   await page.getByTestId('vocab-flash').click();
   await expect(page.getByTestId('flash-ipa')).toBeVisible();
+  await expect(page.getByTestId('flash-pos')).toHaveText('동사'); // observe: verb → 동사
   await page.getByTestId('flash-play').click();
   await expect(page.getByTestId('flash-full').getByTestId('flash-ipa')).toBeVisible();
   const idx = page.getByTestId('flash-index');
