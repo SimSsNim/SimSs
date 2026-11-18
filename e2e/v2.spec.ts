@@ -1142,8 +1142,10 @@ test('v48. 메뉴를 옮겨 다녀도 보던 하위 탭(복습 → 플래시카�
   await expect(page.getByTestId('flash-full').getByTestId('flash-ipa')).toBeVisible();
   const idx = page.getByTestId('flash-index');
   const before = await idx.textContent();
+  // 자동 재생 중 분류: 표시만 되고 카드는 그대로(재생 흐름 그대로)
   await page.getByTestId('flash-full').getByTestId('flash-known').click();
-  await expect(idx).not.toHaveText(before!);
+  await expect(page.getByTestId('flash-full').getByTestId('flash-known')).toHaveAttribute('aria-pressed', 'true');
+  await expect(idx).toHaveText(before!);
   await page.getByTestId('flash-stop').click();
   // 스크롤해 둔 자리에서 자동 재생 → 정지하면 그 자리로(맨 위가 아니라)
   await page.setViewportSize({ width: page.viewportSize()!.width, height: 480 });

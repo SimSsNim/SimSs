@@ -135,6 +135,17 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
     next();
   };
 
+  /** 자동 재생 중 분류: 기록만 하고 넘기지 않음(재생 흐름·속도 그대로) */
+  const [marked, setMarked] = useState<{ i: number; a: Answer } | null>(null);
+  const mark = async (a: Answer) => {
+    if (!card) return;
+    const at = i;
+    await answerWord(card.term, a, card.sources[0]?.lessonKey);
+    setAnswered((x) => x + 1);
+    setMarked({ i: at, a });
+  };
+  const markedHere = marked && marked.i === i ? marked.a : null;
+
   const tapCard = () => {
     if (auto) setPaused((p) => !p);
     else setFlipped((f) => !f);
@@ -190,9 +201,9 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
           {paused && <span className={s.badge} data-testid="flash-paused">⏸ 일시정지 · 탭하면 계속</span>}
         </div>
         <div className={w.classify}>
-          <button type="button" className={s.btn} onClick={() => void classify('unknown')} data-testid="flash-unknown">← 몰라요</button>
-          <button type="button" className={s.btn} onClick={() => void classify('confused')} data-testid="flash-confused">↑ 헷갈려요</button>
-          <button type="button" className={s.btn} onClick={() => void classify('known')} data-testid="flash-known">알아요 →</button>
+          {([['unknown', '← 몰라요'], ['confused', '↑ 헷갈려요'], ['known', '알아요 →']] as const).map(([a, l]) => (
+            <button key={a} type="button" className={markedHere === a ? s.primary : s.btn} aria-pressed={markedHere === a} onClick={() => void mark(a)} data-testid={`flash-${a}`}>{markedHere === a ? `✓ ${l}` : l}</button>
+          ))}
         </div>
         <button type="button" className={s.primary + ' ' + s.big} onClick={stop} data-testid="flash-stop" style={{ width: '100%', justifyContent: 'center' }}>■ 정지</button>
       </div>
