@@ -7,7 +7,8 @@ import { useSettings, setSetting } from '../lib/settings';
 import { useSwipe, useKeys } from '../hooks';
 import { speak, cancelSpeech, useVoices } from '../lib/tts';
 import { getSettings } from '../lib/settings';
-import { shuffle } from '../lib/text';
+import { shuffle, fmtIpa } from '../lib/text';
+import { useSticky, getSticky, setSticky } from '../lib/sticky';
 
 export type FlashMode = 'term' | 'meaning' | 'both' | 'cloze';
 const MODES: { id: FlashMode; label: string }[] = [
@@ -30,10 +31,11 @@ const say = (text: string) => speak(text, { rate: getSettings().ttsRate, accent:
 export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: WordItem[]; onFinish?: (answered: number) => void; title?: string; deckKey?: string }) {
   const st = useSettings();
   const voices = useVoices();
-  const [mode, setMode] = useState<FlashMode>('term');
+  const [mode, setMode] = useSticky<FlashMode>('fc:mode', 'term');
   const [order, setOrder] = useState<'seq' | 'random'>('seq');
   const [seed, setSeed] = useState(0);
-  const [i, setI] = useState(0);
+  // 보던 카드 위치: 다른 메뉴에 갔다 와도 그대로
+  const [i, setI] = useSticky(`fc:i:${deckKey}`, 0);
   const [flipped, setFlipped] = useState(false);
   const [auto, setAuto] = useState(false);
   const [paused, setPaused] = useState(false);
@@ -56,9 +58,13 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
   const done = i >= n;
 
   useEffect(() => {
-    setI(0);
+    const sig = `${keySig}|${order}|${seed}`;
+    // 처음 그릴 때 같은 덱이면 보던 자리 유지
+    if (getSticky(`fc:sig:${deckKey}`, '') !== sig) setI(0);
+    setSticky(`fc:sig:${deckKey}`, sig);
     setFlipped(false);
     finishedRef.current = false;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [keySig, order, seed]);
 
   const next = () => {
@@ -133,6 +139,7 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
   if (n === 0) return <p className={s.empty}>카드가 없어요. 범위나 필터를 바꿔 보세요.</p>;
 
   const cz = card ? clozeOf(card) : null;
+  const ipaLine = card?.ipa ? <div className={s.ipaLine} data-testid="flash-ipa" style={{ fontSize: 17 }}>{fmtIpa(card.ipa)}</div> : null;
   const front = () => {
     if (!card) return null;
     if (mode === 'meaning') return <div className={w.flashMeaning}>{card.meaningKo}</div>;
@@ -141,13 +148,13 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
         <div className={w.flashSent} lang="en">{cz.before}<span className={w.blank} aria-label="빈칸">{flipped ? <b>{cz.answer}</b> : ' '}</span>{cz.after}</div>
       ) : <div className={w.flashMeaning}>{card.meaningKo}</div>;
     }
-    return <div className={w.flashBig} lang="en">{card.term}</div>;
+    return <div className={s.stack} style={{ alignItems: 'center', gap: 2 }}><div className={w.flashBig} lang="en">{card.term}</div>{ipaLine}</div>;
   };
   const back = () => {
     if (!card) return null;
     return (
       <div className={s.stack} style={{ alignItems: 'center' }}>
-        {mode !== 'term' && mode !== 'both' && <div className={w.flashBig} lang="en">{card.term}</div>}
+        {mode !== 'term' && mode !== 'both' && <div className={s.stack} style={{ alignItems: 'center', gap: 2 }}><div className={w.flashBig} lang="en">{card.term}</div>{ipaLine}</div>}
         {mode !== 'meaning' && <div className={w.flashMeaning}>{card.meaningKo}</div>}
         {card.synonyms.length > 0 && <div className={s.small}>유사 단어: {card.synonyms.join(', ')}</div>}
         {card.example && <div className={s.small} lang="en" style={{ fontFamily: 'var(--serif)' }}>{card.example.en}</div>}
@@ -171,6 +178,11 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
           {(flipped || mode === 'both') && mode !== 'cloze' ? back() : null}
           {mode === 'cloze' && flipped ? <div className={w.flashMeaning}>{card.meaningKo}</div> : null}
           {paused && <span className={s.badge} data-testid="flash-paused">⏸ 일시정지 · 탭하면 계속</span>}
+        </div>
+        <div className={w.classify}>
+          <button type="button" className={s.btn} onClick={() => void classify('unknown')} data-testid="flash-unknown">← 몰라요</button>
+          <button type="button" className={s.btn} onClick={() => void classify('confused')} data-testid="flash-confused">↑ 헷갈려요</button>
+          <button type="button" className={s.btn} onClick={() => void classify('known')} data-testid="flash-known">알아요 →</button>
         </div>
         <button type="button" className={s.primary + ' ' + s.big} onClick={stop} data-testid="flash-stop" style={{ width: '100%', justifyContent: 'center' }}>■ 정지</button>
       </div>

@@ -145,7 +145,7 @@ test('3. 플래시카드 자동 넘김 2초 · 일시정지 · 탭 이동 시 �
   const t0 = Date.now();
   await page.getByTestId('flash-play').click();
   await expect(page.getByTestId('flash-full')).toBeVisible(); // 화면을 꽉 채움
-  await expect(page.getByTestId('flash-full').getByRole('button')).toHaveCount(2); // 카드 + 정지 버튼뿐
+  await expect(page.getByTestId('flash-full').getByRole('button')).toHaveCount(5); // 카드 + 몰라요·헷갈려요·알아요 + 정지
   await expect(idx).toHaveText('2 / 5', { timeout: 4000 });
   const dt = Date.now() - t0;
   expect(dt).toBeGreaterThan(1500);
@@ -169,10 +169,11 @@ test('3. 플래시카드 자동 넘김 2초 · 일시정지 · 탭 이동 시 �
   await page.waitForTimeout(2600);
   expect(errors).toEqual([]);
   await page.getByTestId('tab-vocab').click();
-  await page.getByTestId('vocab-flash').click();
-  await expect(page.getByTestId('flash-index')).toHaveText('1 / 5');
+  // 돌아오면 보던 플래시카드 탭·카드 그대로(자동 재생은 멈춘 채)
+  await expect(page.getByTestId('flash-index')).toBeVisible();
+  const at = await page.getByTestId('flash-index').textContent();
   await page.waitForTimeout(2500);
-  await expect(page.getByTestId('flash-index')).toHaveText('1 / 5');
+  await expect(page.getByTestId('flash-index')).toHaveText(at!);
 });
 
 test('4. 몰라요 2개 + 알아요 3개 → 필터 개수 2/3, 새로고침 후 유지', async ({ page }) => {

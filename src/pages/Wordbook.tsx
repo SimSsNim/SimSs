@@ -1,4 +1,5 @@
-import { useMemo, useState } from 'react';
+import { useSticky } from '../lib/sticky';
+import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
@@ -46,10 +47,11 @@ export function WordbookPanel({ trackF, level, day = '' }: { trackF: TrackFilter
   const settings = useSettings();
   const [params] = useSearchParams();
   const { lessons, summaries } = useLessons();
-  const [filter, setFilter] = useState<WordFilter>('all');
-  const [view, setView] = useState<'list' | 'flash' | 'review'>(params.get('review') ? 'review' : 'list');
+  const [filter, setFilter] = useSticky<WordFilter>('wb:filter', 'all');
+  const [view, setView] = useSticky<'list' | 'flash' | 'review'>('wb:view', 'list');
+  useEffect(() => { if (params.get('review')) setView('review'); }, []); // eslint-disable-line react-hooks/exhaustive-deps
   const [q, setQ] = useState('');
-  const [sort, setSort] = useState<Sort>('recent');
+  const [sort, setSort] = useSticky<Sort>('wb:sort', 'recent');
   const myWords = useLiveQuery(() => db.myWords.toArray(), []);
   const rows = useLiveQuery(() => db.wordState.toArray(), []);
   const states = useMemo(() => new Map((rows ?? []).map((r) => [r.key, r])), [rows]);
@@ -83,7 +85,7 @@ export function WordbookPanel({ trackF, level, day = '' }: { trackF: TrackFilter
     <>
         <div className={s.seg} role="tablist" aria-label="보기">
           <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'list'} onClick={() => setView('list')}>목록</button>
-          <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'flash'} onClick={() => setView('flash')}>플래시카드</button>
+          <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'flash'} onClick={() => setView('flash')} data-testid="wb-flash">플래시카드</button>
           <button type="button" role="tab" className={s.segBtn} aria-selected={view === 'review'} onClick={() => setView('review')} data-testid="review-btn">복습 {due.length}</button>
         </div>
         {view === 'review' ? (

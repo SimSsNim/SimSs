@@ -1,3 +1,4 @@
+import { useSticky } from '../lib/sticky';
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { DatePick } from '../components/DatePick';
 import { useLiveQuery } from 'dexie-react-hooks';
@@ -175,7 +176,8 @@ export function Home({ all = false }: { all?: boolean }) {
 
 /** 같은 날 이야기가 여러 편이면 위에 고르는 칩 */
 function StoryPicker({ lessons, checklistOf, steps }: { lessons: LessonSummary[]; checklistOf: (key: string) => Record<string, boolean>; steps: 'none' | 'collapsed' }) {
-  const [i, setI] = useState(0);
+  // 보던 이야기(1·2…)를 기억: 다른 메뉴에 갔다 와도 그대로
+  const [i, setI] = useSticky(`home:story:${lessons.map((l) => l.key).join(',')}`, 0);
   const cur = lessons[Math.min(i, lessons.length - 1)];
   return (
     <>

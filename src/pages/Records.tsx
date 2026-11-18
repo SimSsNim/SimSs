@@ -1,3 +1,4 @@
+import { useSticky } from '../lib/sticky';
 import { useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
@@ -63,7 +64,7 @@ const ACTION_LABEL: Record<string, string> = {
 };
 
 function Stats() {
-  const [levelF, setLevelF] = useState<LevelFilter>('all');
+  const [levelF, setLevelF] = useSticky<LevelFilter>('rc:level', 'all');
   const daily = useLiveQuery(() => db.dailyLog.toArray(), []);
   const progress = useLiveQuery(() => db.lessonProgress.toArray(), []);
   const words = useLiveQuery(() => db.wordState.toArray(), []);

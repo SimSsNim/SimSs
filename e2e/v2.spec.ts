@@ -338,6 +338,11 @@ test('v17. 이야기: 하루 여러 편 고르기, 뉴스 칩, 레벨 켜고 끄
   await expect(page.getByTestId('today-card')).toContainText('The Fox and the Crow');
   await page.getByTestId('story-2').click();
   await expect(page.getByTestId('today-card')).toContainText('Second Story');
+  // 설정에 갔다가 홈으로 돌아와도 보던 이야기(2) 그대로
+  await page.getByRole('link', { name: '기록/설정' }).click();
+  await page.getByRole('link', { name: '홈' }).click();
+  await expect(page.getByTestId('story-2')).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.getByTestId('today-card')).toContainText('Second Story');
   await page.getByTestId('level-news').click();
   await expect(page.getByRole('heading', { level: 1 })).toContainText('이야기 뉴스');
   await expect(page.getByTestId('today-card')).toContainText('Sample News');
@@ -1032,6 +1037,7 @@ test('v44. 토익 Part 5 듣기: 보고 있는 문제의 지문만, 켜면 다�
 });
 
 test('v45. 읽다가 문법·단어·설정으로 가도 ↩ 보던 화면으로 바로 돌아옴', async ({ page }) => {
+  await page.setViewportSize({ width: page.viewportSize()!.width, height: 480 }); // 스크롤할 만큼 짧게
   await start(page, './#/general/lesson/2026-11-12-L1/full');
   await expect(page.getByTestId('reading-return')).toHaveCount(0);
   await page.evaluate(() => window.scrollTo(0, 300));
@@ -1114,4 +1120,29 @@ test('v47. 화면을 확대해도 메모 버튼·도구 줄·단어 창은 보�
   const tb = (await page.getByTestId('ink-toolbar').boundingBox())!;
   expect(tb.x).toBeGreaterThanOrEqual(59);
   expect(tb.x + tb.width).toBeLessThanOrEqual(60 + vp.width / 2 + 1);
+});
+
+test('v48. 메뉴를 옮겨 다녀도 보던 하위 탭(복습 → 플래시카드)·카드·발음기호', async ({ page }) => {
+  await start(page, './#/review');
+  await page.getByTestId('wb-flash').click();
+  await expect(page.getByTestId('flashcards')).toBeVisible();
+  await page.getByTestId('flash-next').click();
+  const at = await page.getByTestId('flash-index').textContent();
+  expect(at).toMatch(/^2 \//);
+  await page.getByRole('link', { name: '기록/설정' }).click();
+  await expect(page).toHaveURL(/#\/records/);
+  await page.getByRole('link', { name: '복습' }).click();
+  await expect(page.getByTestId('flashcards')).toBeVisible();
+  await expect(page.getByTestId('flash-index')).toHaveText(at!);
+  // 레슨 단어 탭의 플래시카드: 단어 아래 발음기호, 전체 화면에서도 분류
+  await page.goto('./#/general/lesson/2026-11-12-L1/vocab');
+  await page.getByTestId('vocab-flash').click();
+  await expect(page.getByTestId('flash-ipa')).toBeVisible();
+  await page.getByTestId('flash-play').click();
+  await expect(page.getByTestId('flash-full').getByTestId('flash-ipa')).toBeVisible();
+  const idx = page.getByTestId('flash-index');
+  const before = await idx.textContent();
+  await page.getByTestId('flash-full').getByTestId('flash-known').click();
+  await expect(idx).not.toHaveText(before!);
+  await page.getByTestId('flash-stop').click();
 });

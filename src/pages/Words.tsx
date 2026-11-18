@@ -1,3 +1,4 @@
+import { useSticky } from '../lib/sticky';
 import { useMemo, useState } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
@@ -26,11 +27,11 @@ interface Group { id: string; label: string; order: string; words: WordItem[] }
 export function Words() {
   const settings = useSettings();
   const { lessons, status } = useLessons();
-  const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
-  const [day, setDay] = useState('');
+  const [trackF, setTrackF] = useSticky<TrackFilter>('wd:track', settings.track);
+  const [day, setDay] = useSticky('wd:day', '');
   const [q, setQ] = useState('');
-  const [groupBy, setGroupBy] = useState<GroupBy>('none');
-  const [sel, setSel] = useState('all');
+  const [groupBy, setGroupBy] = useSticky<GroupBy>('wd:group', 'none');
+  const [sel, setSel] = useSticky('wd:sel', 'all');
   const myWords = useLiveQuery(() => db.myWords.toArray(), []);
   const rows = useLiveQuery(() => db.wordState.toArray(), []);
   const states = useMemo(() => new Map((rows ?? []).map((r) => [r.key, r])), [rows]);

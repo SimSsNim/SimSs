@@ -1,3 +1,4 @@
+import { useSticky } from '../lib/sticky';
 import { useMemo, useState } from 'react';
 import { setFavorite, moveFavorite, assignKey, sortFolders, DEFAULT_FOLDER, DEFAULT_FOLDER_NAME, type FavKind } from '../lib/favorites';
 import { FolderManager } from '../components/FavFolders';
@@ -28,9 +29,9 @@ const KINDS: [Kind, string][] = [['all', '전체'], ['sentence', '문장'], ['wo
 /** 하단 탭 '즐겨찾기': 북마크한 문장·★ 단어·★ 문법·★ 문제를 한곳에서 */
 export function Favorites() {
   const settings = useSettings();
-  const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
-  const [kind, setKind] = useState<Kind>('all');
-  const [day, setDay] = useState('');
+  const [trackF, setTrackF] = useSticky<TrackFilter>('fv:track', settings.track);
+  const [kind, setKind] = useSticky<Kind>('fv:kind', 'all');
+  const [day, setDay] = useSticky('fv:day', '');
   const { lessons, status } = useLessons();
   const marks = useLiveQuery(() => db.sentenceMarks.filter((m) => m.bookmark).toArray(), []);
   const words = useLiveQuery(() => db.wordState.filter((w) => w.starred).toArray(), []);
@@ -39,7 +40,7 @@ export function Favorites() {
   const questions = useLiveQuery(() => db.questionState.filter((q) => !!q.starred).toArray(), []);
   const assigns = useLiveQuery(() => db.favAssign.toArray(), []);
   const folders = useLiveQuery(() => db.favFolders.toArray(), []);
-  const [folder, setFolder] = useState<string>('all');
+  const [folder, setFolder] = useSticky<string>('fv:folder', 'all');
   const [manage, setManage] = useState(false);
   const folderOf = useMemo(() => new Map((assigns ?? []).map((a) => [a.key, a.folderId])), [assigns]);
   const snapOf = useMemo(() => new Map((assigns ?? []).map((a) => [a.key, a.snap])), [assigns]);

@@ -1,4 +1,5 @@
-import { useMemo, useState } from 'react';
+import { useSticky } from '../lib/sticky';
+import { useMemo } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
 import { DatePick } from '../components/DatePick';
@@ -13,11 +14,11 @@ import { TrackFilterSeg, LevelFilterChips, type TrackFilter, type LevelFilter } 
 export function GrammarAll() {
   const settings = useSettings();
   const { lessons } = useLessons();
-  const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
-  const [levelF, setLevelF] = useState<LevelFilter>('all');
-  const [tag, setTag] = useState<string | null>(null);
-  const [reviewOnly, setReviewOnly] = useState(false);
-  const [day, setDay] = useState('');
+  const [trackF, setTrackF] = useSticky<TrackFilter>('gr:track', settings.track);
+  const [levelF, setLevelF] = useSticky<LevelFilter>('gr:level', 'all');
+  const [tag, setTag] = useSticky<string | null>('gr:tag', null);
+  const [reviewOnly, setReviewOnly] = useSticky('gr:review', false);
+  const [day, setDay] = useSticky('gr:day', '');
   const states = useLiveQuery(() => db.grammarState.toArray(), []);
   const stMap = new Map((states ?? []).map((x) => [x.key, x]));
   const points = useMemo(() => Object.values(lessons)

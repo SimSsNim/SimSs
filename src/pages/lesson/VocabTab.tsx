@@ -1,4 +1,5 @@
-import { useMemo, useState } from 'react';
+import { useSticky } from '../../lib/sticky';
+import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../../styles/ui.module.css';
@@ -13,8 +14,8 @@ import { isDue } from '../../lib/leitner';
 import { kstDate } from '../../lib/date';
 
 export function VocabTab({ lesson, lessonKey }: TabProps) {
-  const [view, setView] = useState<'list' | 'flash' | 'review'>('list');
-  const [filter, setFilter] = useState<WordFilter>('all');
+  const [view, setView] = useSticky<'list' | 'flash' | 'review'>(`vt:view:${lessonKey}`, 'list');
+  const [filter, setFilter] = useSticky<WordFilter>(`vt:filter:${lessonKey}`, 'all');
   const items = useMemo(() => lesson.vocab.map((v) => vocabToItem(lesson, v)), [lesson]);
   const keys = items.map((x) => x.key);
   const rows = useLiveQuery(() => db.wordState.bulkGet(keys), [keys.join('|')]);

@@ -1,4 +1,5 @@
-import { useMemo, useState } from 'react';
+import { useSticky } from '../lib/sticky';
+import { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
 import s from '../styles/ui.module.css';
@@ -25,9 +26,9 @@ export function Review() {
   const settings = useSettings();
   const [params, setParams] = useSearchParams();
   const tab = params.get('tab') === 'wrong' ? 'wrong' : 'words';
-  const [trackF, setTrackF] = useState<TrackFilter>(settings.track);
-  const [level, setLevel] = useState<LevelFilter>('all');
-  const [day, setDay] = useState('');
+  const [trackF, setTrackF] = useSticky<TrackFilter>('rv:track', settings.track);
+  const [level, setLevel] = useSticky<LevelFilter>('rv:level', 'all');
+  const [day, setDay] = useSticky('rv:day', '');
   const { summaries } = useLessons();
   return (
     <>
@@ -59,10 +60,11 @@ function WrongNotePanel({ level, setLevel, day }: { level: LevelFilter; setLevel
   const { lessons, status } = useLessons();
   const rows = useLiveQuery(() => db.questionState.where('inWrongNote').equals(1).toArray(), []);
   const [onlyUnsure, setOnlyUnsure] = useState(false);
-  const [view, setView] = useState<'list' | 'review'>(params.get('review') ? 'review' : 'list');
-  const [chapter, setChapter] = useState<string>('all');
-  const [skill, setSkill] = useState<string>('all');
-  const [sort, setSort] = useState<'recent' | 'wrong'>('recent');
+  const [view, setView] = useSticky<'list' | 'review'>('wn:view', 'list');
+  useEffect(() => { if (params.get('review')) setView('review'); }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  const [chapter, setChapter] = useSticky<string>('wn:chapter', 'all');
+  const [skill, setSkill] = useSticky<string>('wn:skill', 'all');
+  const [sort, setSort] = useSticky<'recent' | 'wrong'>('wn:sort', 'recent');
   const today = kstDate();
   const items: DrillItem[] = useMemo(() => {
     const out: DrillItem[] = [];
