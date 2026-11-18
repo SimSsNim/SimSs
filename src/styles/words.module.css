@@ -10,6 +10,6 @@
 .flash { min-height: 300px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 12px; padding: 24px 16px; touch-action: none; user-select: none; cursor: pointer; }
 .flashBig { font-family: var(--serif); font-size: 34px; font-weight: 700; word-break: break-word; }
 .flashMeaning { font-size: 22px; font-weight: 700; }
-.flashSent { font-family: var(--serif); font-size: 18px; line-height: 1.7; }
+.flashSent { font-family: var(--serif); font-size: 21px; line-height: 1.6; }
 .blank { display: inline-block; min-width: 4em; border-bottom: 2px solid var(--text); }
 .classify { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
