@@ -1,0 +1,1340 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-19-L1-part6",
+  "date": "2026-11-19",
+  "level": 1,
+  "title": "New Office Supply Ordering System",
+  "titleKo": "사무용품 주문 방식 변경 안내 메모",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 6",
+    "메모",
+    "주문·배송"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 120,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: 마크 펜턴, 사무실 관리 책임자"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "제목: 사무용품 주문"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "6월 1일부터 사무용품 주문에 새 방식을 사용합니다. 지금까지는 부서마다 각자 주문을 해 왔습니다. 새 방식에서는 모든 주문을 구매부의 레이철 던 씨가 처리합니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "물품을 요청하려면 회사 웹사이트의 온라인 양식을 작성해 주세요. 양식을 작성하는 데는 몇 분밖에 걸리지 않습니다. 수요일까지 들어온 주문은 다음 주 월요일에 도착합니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s10",
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "물품을 개인 돈으로 사지 마세요. 승인 없이 한 구매는 돈을 돌려받지 못합니다. 이번 변경은 우리가 지출을 파악하고 예산 안에서 쓰는 데 도움이 될 것입니다. 협조해 주셔서 감사합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Staff",
+      "ko": "수신: 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Mark Fenton, Office Manager",
+      "ko": "발신: 마크 펜턴, 사무실 관리 책임자",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Subject: Ordering Office Supplies",
+      "ko": "제목: 사무용품 주문",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Starting on June 1, we will use a new system for ordering office supplies.",
+      "ko": "6월 1일부터 사무용품 주문에 새 방식을 사용합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "Until now, each department has placed its own orders.",
+      "ko": "지금까지는 부서마다 각자 주문을 해 왔습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "Under the new system, all orders will be handled by Rachel Dunn in the purchasing department.",
+      "ko": "새 방식에서는 모든 주문을 구매부의 레이철 던 씨가 처리합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "To request items, please fill out the online form on the company website.",
+      "ko": "물품을 요청하려면 회사 웹사이트의 온라인 양식을 작성해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "The form takes only a few minutes to complete.",
+      "ko": "양식을 작성하는 데는 몇 분밖에 걸리지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Orders received by Wednesday will arrive the following Monday.",
+      "ko": "수요일까지 들어온 주문은 다음 주 월요일에 도착합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "Please do not buy supplies with your own money.",
+      "ko": "물품을 개인 돈으로 사지 마세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "Purchases made without approval will not be paid back.",
+      "ko": "승인 없이 한 구매는 돈을 돌려받지 못합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "This change will help us keep track of our spending and stay within our budget.",
+      "ko": "이번 변경은 우리가 지출을 파악하고 예산 안에서 쓰는 데 도움이 될 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "Thank you for your cooperation.",
+      "ko": "협조해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "office supplies",
+      "pos": "noun",
+      "meaningKo": "사무용품",
+      "ipa": "/ˈɔːfɪs səˈplaɪz/",
+      "synonyms": [
+        "stationery",
+        "office materials"
+      ],
+      "matchText": "office supplies",
+      "sentenceId": "s4",
+      "example": {
+        "en": "We are running low on office supplies.",
+        "ko": "사무용품이 떨어져 가고 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "place an order",
+      "pos": "phrase",
+      "meaningKo": "주문하다",
+      "ipa": "/pleɪs ən ˈɔːrdər/",
+      "synonyms": [
+        "order",
+        "make an order"
+      ],
+      "matchText": "placed its own orders",
+      "sentenceId": "s5",
+      "example": {
+        "en": "I placed an order for new chairs.",
+        "ko": "나는 새 의자를 주문했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "handle",
+      "pos": "verb",
+      "meaningKo": "처리하다, 담당하다",
+      "ipa": "/ˈhændəl/",
+      "synonyms": [
+        "deal with",
+        "manage",
+        "take care of"
+      ],
+      "matchText": "handled",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Mr. Ross handles all customer complaints.",
+        "ko": "로스 씨가 고객 불만을 모두 처리한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "approval",
+      "pos": "noun",
+      "meaningKo": "승인, 허가",
+      "ipa": "/əˈpruːvəl/",
+      "synonyms": [
+        "permission",
+        "consent"
+      ],
+      "matchText": "approval",
+      "sentenceId": "s11",
+      "example": {
+        "en": "You need your manager's approval first.",
+        "ko": "먼저 상사의 승인을 받아야 한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "keep track of",
+      "pos": "phrase",
+      "meaningKo": "~을 기록하다, 파악하다",
+      "ipa": "/kiːp træk ʌv/",
+      "synonyms": [
+        "monitor",
+        "follow",
+        "record"
+      ],
+      "matchText": "keep track of",
+      "sentenceId": "s12",
+      "example": {
+        "en": "I use an app to keep track of my expenses.",
+        "ko": "나는 앱으로 지출을 기록한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Under the new system,",
+          "role": "M",
+          "ko": "새 방식에서는"
+        },
+        {
+          "text": "all orders",
+          "role": "S",
+          "ko": "모든 주문이"
+        },
+        {
+          "text": "will be handled",
+          "role": "V",
+          "ko": "처리될 것이다"
+        },
+        {
+          "text": "by Rachel Dunn in the purchasing department.",
+          "role": "M",
+          "ko": "구매부의 레이철 던 씨에 의해"
+        }
+      ],
+      "skeleton": "all orders will be handled by Rachel Dunn",
+      "explanation": "주문은 '처리되는' 대상이므로 수동태(will be + 과거분사). by 뒤가 실제로 일을 하는 사람."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "This change",
+          "role": "S",
+          "ko": "이 변경은"
+        },
+        {
+          "text": "will help",
+          "role": "V",
+          "ko": "도울 것이다"
+        },
+        {
+          "text": "us",
+          "role": "O",
+          "ko": "우리가"
+        },
+        {
+          "text": "keep track of our spending and stay within our budget.",
+          "role": "OC",
+          "ko": "지출을 파악하고 예산 안에서 쓰도록"
+        }
+      ],
+      "skeleton": "This change will help us keep track and stay",
+      "explanation": "help + 사람 + 동사원형 = (사람)이 ~하도록 돕다. keep과 stay가 and로 나란히 이어진다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Until now + 현재완료",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "Until now",
+        "has placed"
+      ],
+      "explanation": "'지금까지 계속 ~해 왔다'는 현재완료(have/has + 과거분사)로 나타낸다. Until now, so far 같은 표현과 자주 함께 쓴다.",
+      "example": {
+        "en": "So far, we have received ten orders.",
+        "ko": "지금까지 우리는 주문 10건을 받았다."
+      },
+      "note": "Until now / so far / since → 현재완료."
+    },
+    {
+      "id": "g2",
+      "title": "명사를 뒤에서 꾸미는 과거분사",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "Orders received by Wednesday"
+      ],
+      "explanation": "received by Wednesday가 앞의 명사 Orders를 뒤에서 꾸민다. '수요일까지 받은 주문'이라는 수동의 뜻.",
+      "example": {
+        "en": "The photos taken at the event are online.",
+        "ko": "행사에서 찍은 사진들이 온라인에 있다."
+      },
+      "note": "명사 + p.p. + 수식어 → 문장의 진짜 동사는 그 뒤에 있다."
+    },
+    {
+      "id": "g3",
+      "title": "전치사 within",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "within our budget"
+      ],
+      "explanation": "within은 '(범위·기간) 안에서'라는 뜻이다. stay within the budget = 예산을 넘지 않다.",
+      "example": {
+        "en": "Please reply within three days.",
+        "ko": "3일 안에 답장해 주세요."
+      },
+      "note": "within + 기간/범위가 자주 나온다."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하기",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원들",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "mark": {
+      "lemma": "Mark",
+      "pos": "proper-noun",
+      "ko": "마크 (남자 이름)",
+      "form": null,
+      "ipa": "/mɑːrk/"
+    },
+    "fenton": {
+      "lemma": "Fenton",
+      "pos": "proper-noun",
+      "ko": "펜턴 (사람 성)",
+      "form": null,
+      "ipa": "/ˈfɛntən/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "synonyms": [
+        "workplace"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저, 상사",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "boss"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "ordering": {
+      "lemma": "order",
+      "pos": "verb",
+      "ko": "주문하기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "buy",
+        "purchase"
+      ],
+      "ipa": "/ˈɔːrdərɪŋ/"
+    },
+    "supplies": {
+      "lemma": "supply",
+      "pos": "noun",
+      "ko": "용품, 물품",
+      "form": "복수형",
+      "synonyms": [
+        "materials",
+        "goods"
+      ],
+      "ipa": "/səˈplaɪz/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(starting on/in) ~부터",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beginning"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "june": {
+      "lemma": "June",
+      "pos": "proper-noun",
+      "ko": "6월",
+      "form": null,
+      "ipa": "/dʒuːn/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": null,
+      "synonyms": [
+        "utilize",
+        "employ"
+      ],
+      "ipa": "/juːs/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "recent",
+        "latest"
+      ],
+      "ipa": "/nuː/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "방식, 체계, 시스템",
+      "form": null,
+      "synonyms": [
+        "method",
+        "process"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "preposition",
+      "ko": "~까지 (until now: 지금까지)",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금, 이제",
+      "form": null,
+      "synonyms": [
+        "currently",
+        "at present"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각각",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "form": null,
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다; 가지다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "placed": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "(주문을) 하다, 두다",
+      "form": "과거분사",
+      "synonyms": [
+        "put",
+        "make"
+      ],
+      "ipa": "/pleɪst/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "synonyms": [
+        "personal"
+      ],
+      "ipa": "/oʊn/"
+    },
+    "orders": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "주문",
+      "form": "복수형",
+      "synonyms": [
+        "purchase",
+        "request"
+      ],
+      "ipa": "/ˈɔːrdərz/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래에서, ~에 따라",
+      "form": null,
+      "ipa": "/ˈʌndər/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "handled": {
+      "lemma": "handle",
+      "pos": "verb",
+      "ko": "처리하다",
+      "form": "과거분사",
+      "synonyms": [
+        "deal with",
+        "manage"
+      ],
+      "ipa": "/ˈhændəld/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지; ~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "rachel": {
+      "lemma": "Rachel",
+      "pos": "proper-noun",
+      "ko": "레이철 (여자 이름)",
+      "form": null,
+      "ipa": "/ˈreɪtʃəl/"
+    },
+    "dunn": {
+      "lemma": "Dunn",
+      "pos": "proper-noun",
+      "ko": "던 (사람 성)",
+      "form": null,
+      "ipa": "/dʌn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "purchasing": {
+      "lemma": "purchasing",
+      "pos": "noun",
+      "ko": "구매 (업무)",
+      "form": null,
+      "synonyms": [
+        "buying",
+        "procurement"
+      ],
+      "ipa": "/ˈpɜːrtʃəsɪŋ/"
+    },
+    "request": {
+      "lemma": "request",
+      "pos": "verb",
+      "ko": "요청하다",
+      "form": null,
+      "synonyms": [
+        "ask for",
+        "order"
+      ],
+      "ipa": "/rɪˈkwɛst/"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물품, 품목",
+      "form": "복수형",
+      "synonyms": [
+        "product",
+        "article"
+      ],
+      "ipa": "/ˈaɪtəmz/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "fill": {
+      "lemma": "fill",
+      "pos": "verb",
+      "ko": "(fill out) 작성하다",
+      "form": null,
+      "synonyms": [
+        "complete"
+      ],
+      "ipa": "/fɪl/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(fill out) 끝까지, 다",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adjective",
+      "ko": "온라인의",
+      "form": null,
+      "synonyms": [
+        "digital",
+        "web-based"
+      ],
+      "ipa": "/ˈɔːnˌlaɪn/"
+    },
+    "form": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": null,
+      "synonyms": [
+        "document",
+        "application"
+      ],
+      "ipa": "/fɔːrm/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "website": {
+      "lemma": "website",
+      "pos": "noun",
+      "ko": "웹사이트",
+      "form": null,
+      "synonyms": [
+        "site",
+        "web page"
+      ],
+      "ipa": "/ˈwɛbˌsaɪt/"
+    },
+    "takes": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간이) 걸리다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "require",
+        "need"
+      ],
+      "ipa": "/teɪks/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "단지, ~만",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇몇의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "minutes": {
+      "lemma": "minute",
+      "pos": "noun",
+      "ko": "분 (시간)",
+      "form": "복수형",
+      "ipa": "/ˈmɪnəts/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "작성하다, 끝내다",
+      "form": null,
+      "synonyms": [
+        "finish",
+        "fill out"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": "과거분사",
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːvd/"
+    },
+    "wednesday": {
+      "lemma": "Wednesday",
+      "pos": "proper-noun",
+      "ko": "수요일",
+      "form": null,
+      "ipa": "/ˈwɛnzdi/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "come",
+        "reach"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "following": {
+      "lemma": "following",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "next",
+        "subsequent"
+      ],
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "buy": {
+      "lemma": "buy",
+      "pos": "verb",
+      "ko": "사다",
+      "form": null,
+      "synonyms": [
+        "purchase",
+        "get"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 여러분의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "form": null,
+      "synonyms": [
+        "cash",
+        "funds"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "purchases": {
+      "lemma": "purchase",
+      "pos": "noun",
+      "ko": "구매(품)",
+      "form": "복수형",
+      "synonyms": [
+        "buy",
+        "order"
+      ],
+      "ipa": "/ˈpɜːrtʃəsəz/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "하다, 만들다",
+      "form": "과거분사",
+      "synonyms": [
+        "do",
+        "create"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "approval": {
+      "lemma": "approval",
+      "pos": "noun",
+      "ko": "승인",
+      "form": null,
+      "synonyms": [
+        "permission",
+        "consent"
+      ],
+      "ipa": "/əˈpruːvəl/"
+    },
+    "paid": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(돈을) 지불하다, 지급하다",
+      "form": "과거분사",
+      "synonyms": [
+        "reimburse",
+        "settle"
+      ],
+      "ipa": "/peɪd/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "(pay back) 되돌려",
+      "form": null,
+      "ipa": "/bæk/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변경, 변화",
+      "form": null,
+      "synonyms": [
+        "update",
+        "shift"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "support"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep track of) 파악하다, 유지하다",
+      "form": null,
+      "synonyms": [
+        "maintain"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "track": {
+      "lemma": "track",
+      "pos": "noun",
+      "ko": "(keep track of) 기록, 추적",
+      "form": null,
+      "synonyms": [
+        "record"
+      ],
+      "ipa": "/træk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 대한",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "spending": {
+      "lemma": "spending",
+      "pos": "noun",
+      "ko": "지출",
+      "form": null,
+      "synonyms": [
+        "expenses",
+        "costs"
+      ],
+      "ipa": "/ˈspɛndɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "stay": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "머무르다, 유지하다",
+      "form": null,
+      "synonyms": [
+        "remain",
+        "keep"
+      ],
+      "ipa": "/steɪ/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 안에서, ~ 이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "budget": {
+      "lemma": "budget",
+      "pos": "noun",
+      "ko": "예산",
+      "form": null,
+      "synonyms": [
+        "funds",
+        "spending plan"
+      ],
+      "ipa": "/ˈbʌdʒɪt/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다 (thank you: 감사합니다)",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "cooperation": {
+      "lemma": "cooperation",
+      "pos": "noun",
+      "ko": "협조, 협력",
+      "form": null,
+      "synonyms": [
+        "help",
+        "support"
+      ],
+      "ipa": "/koʊˌɑːpəˈreɪʃən/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "has placed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "places"
+        },
+        {
+          "key": "B",
+          "text": "has placed"
+        },
+        {
+          "key": "C",
+          "text": "will place"
+        },
+        {
+          "key": "D",
+          "text": "placing"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "Until now(지금까지)는 과거부터 지금까지 이어진 일을 말하므로 현재완료 has placed가 맞다.",
+      "choiceNotesKo": {
+        "C": "will place는 미래라 Until now와 맞지 않는다.",
+        "D": "-ing만으로는 문장의 동사가 될 수 없다."
+      },
+      "skill": "시제(현재완료)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "will be handled"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "will handle"
+        },
+        {
+          "key": "B",
+          "text": "handling"
+        },
+        {
+          "key": "C",
+          "text": "has handled"
+        },
+        {
+          "key": "D",
+          "text": "will be handled"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "주어 all orders는 '처리되는' 대상이고 뒤에 by(~에 의해)가 있으므로 수동태 will be handled.",
+      "choiceNotesKo": {
+        "A": "능동태라면 handle 뒤에 목적어가 필요하다.",
+        "C": "능동태이고 시제도 새 방식(미래)과 맞지 않는다."
+      },
+      "skill": "수동태"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "The form takes only a few minutes to complete."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The form takes only a few minutes to complete."
+        },
+        {
+          "key": "B",
+          "text": "The cafeteria will be closed for cleaning next week."
+        },
+        {
+          "key": "C",
+          "text": "Our sales increased by ten percent last year."
+        },
+        {
+          "key": "D",
+          "text": "Please send your vacation requests to your manager."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "앞 문장은 온라인 양식을 작성하라는 안내, 뒤 문장은 주문 도착 시기. 그 사이에 '양식(The form)은 몇 분이면 작성한다'가 자연스럽다. 앞 문장의 form을 이어받는 것이 단서.",
+      "choiceNotesKo": {
+        "B": "구내식당 이야기는 주문 방식과 관계없다.",
+        "D": "휴가 신청은 사무용품 주문과 관계없다."
+      },
+      "skill": "문장 넣기(앞 단어 이어받기)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s11",
+        "answerText": "approval"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "approve"
+        },
+        {
+          "key": "B",
+          "text": "approved"
+        },
+        {
+          "key": "C",
+          "text": "approval"
+        },
+        {
+          "key": "D",
+          "text": "approves"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "전치사 without 뒤는 명사 자리. approval(승인)이 명사.",
+      "choiceNotesKo": {
+        "A": "동사원형은 전치사 뒤에 올 수 없다.",
+        "D": "3인칭 단수 동사도 전치사 뒤에 올 수 없다."
+      },
+      "skill": "명사 자리(전치사 뒤)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s12",
+        "answerText": "within"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "within"
+        },
+        {
+          "key": "B",
+          "text": "among"
+        },
+        {
+          "key": "C",
+          "text": "along"
+        },
+        {
+          "key": "D",
+          "text": "beside"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "'예산 안에서(넘지 않게)'라는 뜻이므로 within. stay within the budget은 자주 쓰는 표현.",
+      "choiceNotesKo": {
+        "B": "among은 셋 이상 '사이에'라는 뜻으로 뒤에 복수 명사가 온다.",
+        "C": "along은 '(길 등을) 따라'라는 뜻."
+      },
+      "skill": "전치사(within)"
+    }
+  ]
+}
