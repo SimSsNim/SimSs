@@ -1,0 +1,1401 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-19-L3-part6",
+  "date": "2026-11-19",
+  "level": 3,
+  "title": "Air-Conditioning Upgrade Memo",
+  "titleKo": "냉방 설비 교체 안내 메모",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 6",
+    "메모",
+    "시설 보수"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 139,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 펜윅 보험 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: 시설관리부"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "제목: 냉방 설비 교체"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "다음 주에 3층 냉방 시스템이 교체된다는 점을 알려 드립니다. 코바인 기계설비가 수행하는 이 작업은 사흘이 걸릴 것으로 예상됩니다. 이 기간 동안 3층 직원들은 2층 교육실에서 근무하게 됩니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "금요일에 퇴근하기 전에 책상에서 개인 물품을 모두 치워 제공된 상자에 넣어 주세요. 상자마다 이름을 또렷하게 적어 주시기 바랍니다. 저희 팀원들이 주말 동안 상자를 여러분의 임시 업무 공간으로 옮겨 드릴 것입니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "새 장비는 기존 시스템보다 에너지를 덜 쓰며, 여름 내내 층을 더 쾌적한 온도로 유지해 줄 것입니다. 이전과 관련한 문의는 내선 305번 오언 하틀리 씨에게 해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Staff, Fenwick Insurance",
+      "ko": "수신: 펜윅 보험 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Facilities Department",
+      "ko": "발신: 시설관리부",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Subject: Air-Conditioning Upgrade",
+      "ko": "제목: 냉방 설비 교체",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Please be aware that the air-conditioning system on the third floor will be replaced next week.",
+      "ko": "다음 주에 3층 냉방 시스템이 교체된다는 점을 알려 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "The work, performed by Corvane Mechanical, is expected to take three days.",
+      "ko": "코바인 기계설비가 수행하는 이 작업은 사흘이 걸릴 것으로 예상됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "During this time, employees on the third floor will work in the training rooms on the second floor.",
+      "ko": "이 기간 동안 3층 직원들은 2층 교육실에서 근무하게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "Before you leave on Friday, please remove all personal items from your desk and place them in the boxes provided.",
+      "ko": "금요일에 퇴근하기 전에 책상에서 개인 물품을 모두 치워 제공된 상자에 넣어 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "Be sure to write your name clearly on each one.",
+      "ko": "상자마다 이름을 또렷하게 적어 주시기 바랍니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Members of our team will move the boxes to your temporary workspace over the weekend.",
+      "ko": "저희 팀원들이 주말 동안 상자를 여러분의 임시 업무 공간으로 옮겨 드릴 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "The new units use less energy than the old system, and they should keep the floor at a more comfortable temperature throughout the summer.",
+      "ko": "새 장비는 기존 시스템보다 에너지를 덜 쓰며, 여름 내내 층을 더 쾌적한 온도로 유지해 줄 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "Questions about the move should be addressed to Owen Hartley at extension 305.",
+      "ko": "이전과 관련한 문의는 내선 305번 오언 하틀리 씨에게 해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "replace",
+      "pos": "verb",
+      "meaningKo": "교체하다",
+      "ipa": "/rɪˈpleɪs/",
+      "synonyms": [
+        "substitute",
+        "swap"
+      ],
+      "matchText": "replaced",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The old printers will be replaced in May.",
+        "ko": "오래된 프린터들은 5월에 교체될 것이다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "be expected to",
+      "pos": "phrase",
+      "meaningKo": "~할 것으로 예상되다",
+      "ipa": "/bi ɪkˈspektɪd tuː/",
+      "synonyms": [
+        "be likely to",
+        "be anticipated to"
+      ],
+      "matchText": "is expected to",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The meeting is expected to last an hour.",
+        "ko": "회의는 한 시간 정도 걸릴 것으로 예상된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "remove",
+      "pos": "verb",
+      "meaningKo": "치우다, 제거하다",
+      "ipa": "/rɪˈmuːv/",
+      "synonyms": [
+        "take away",
+        "clear"
+      ],
+      "matchText": "remove",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please remove your car from the lot by six.",
+        "ko": "6시까지 주차장에서 차를 빼 주세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "temporary",
+      "pos": "adjective",
+      "meaningKo": "임시의, 일시적인",
+      "ipa": "/ˈtempəreri/",
+      "synonyms": [
+        "provisional",
+        "short-term"
+      ],
+      "matchText": "temporary",
+      "sentenceId": "s9",
+      "example": {
+        "en": "She is working in a temporary office.",
+        "ko": "그녀는 임시 사무실에서 일하고 있다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "address A to B",
+      "pos": "phrase",
+      "meaningKo": "A를 B에게 보내다(문의하다)",
+      "ipa": "/əˈdres eɪ tə biː/",
+      "synonyms": [
+        "direct A to B",
+        "send A to B"
+      ],
+      "matchText": "addressed to",
+      "sentenceId": "s11",
+      "example": {
+        "en": "Complaints should be addressed to the manager.",
+        "ko": "불만 사항은 관리자에게 제기해야 한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The work,",
+          "role": "S",
+          "ko": "그 작업은"
+        },
+        {
+          "text": "performed by Corvane Mechanical,",
+          "role": "M",
+          "ko": "코바인 기계설비가 수행하는"
+        },
+        {
+          "text": "is expected",
+          "role": "V",
+          "ko": "예상된다"
+        },
+        {
+          "text": "to take three days.",
+          "role": "C",
+          "ko": "사흘이 걸릴 것으로"
+        }
+      ],
+      "skeleton": "S, p.p. by N, is expected to V",
+      "explanation": "콤마 사이의 performed by ~는 주어 The work를 덧붙여 설명하는 과거분사구. 동사는 is expected."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Before",
+          "role": "CONJ",
+          "ko": "~하기 전에",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "여러분이",
+          "sub": true
+        },
+        {
+          "text": "leave",
+          "role": "V",
+          "ko": "떠나다",
+          "sub": true
+        },
+        {
+          "text": "on Friday,",
+          "role": "M",
+          "ko": "금요일에",
+          "sub": true
+        },
+        {
+          "text": "please remove",
+          "role": "V",
+          "ko": "치워 주세요"
+        },
+        {
+          "text": "all personal items",
+          "role": "O",
+          "ko": "모든 개인 물품을"
+        },
+        {
+          "text": "from your desk",
+          "role": "M",
+          "ko": "책상에서"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "place",
+          "role": "V",
+          "ko": "넣어 주세요"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "ko": "그것들을"
+        },
+        {
+          "text": "in the boxes provided.",
+          "role": "M",
+          "ko": "제공된 상자에"
+        }
+      ],
+      "skeleton": "Before S V, please V O M and V O M",
+      "explanation": "명령문 두 개(remove, place)가 and로 이어진다. the boxes provided는 '제공된 상자'로 과거분사가 뒤에서 꾸민다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "The new units",
+          "role": "S",
+          "ko": "새 장비는"
+        },
+        {
+          "text": "use",
+          "role": "V",
+          "ko": "사용한다"
+        },
+        {
+          "text": "less energy",
+          "role": "O",
+          "ko": "더 적은 에너지를"
+        },
+        {
+          "text": "than the old system,",
+          "role": "M",
+          "ko": "기존 시스템보다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그것들은"
+        },
+        {
+          "text": "should keep",
+          "role": "V",
+          "ko": "유지할 것이다"
+        },
+        {
+          "text": "the floor",
+          "role": "O",
+          "ko": "층을"
+        },
+        {
+          "text": "at a more comfortable temperature",
+          "role": "M",
+          "ko": "더 쾌적한 온도로"
+        },
+        {
+          "text": "throughout the summer.",
+          "role": "M",
+          "ko": "여름 내내"
+        }
+      ],
+      "skeleton": "S V O than N, and S should keep O at N M",
+      "explanation": "keep + 목적어 + at + 상태: ~을 …한 상태로 유지하다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "명사 뒤에서 꾸미는 과거분사",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "performed by Corvane Mechanical"
+      ],
+      "explanation": "작업(The work)은 회사에 의해 '수행되는' 것이므로 과거분사 performed가 뒤에서 꾸민다. 이미 동사 is expected가 있으므로 빈칸에 동사(performs)는 올 수 없다.",
+      "example": {
+        "en": "The report, written by Ms. Kim, was very clear.",
+        "ko": "김 씨가 쓴 보고서는 매우 명확했다."
+      },
+      "note": "문장에 동사가 이미 있고 빈칸 뒤에 by가 오면 과거분사(p.p.)."
+    },
+    {
+      "id": "g2",
+      "title": "미래 수동태",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "will be replaced"
+      ],
+      "explanation": "시스템은 '교체되는' 대상이므로 수동태. 다음 주 일이므로 will be + p.p.",
+      "example": {
+        "en": "The windows will be cleaned on Saturday.",
+        "ko": "창문은 토요일에 청소될 것이다."
+      },
+      "note": "주어가 사물이고 뒤에 목적어가 없으면 수동태를 먼저 의심한다."
+    },
+    {
+      "id": "g3",
+      "title": "비교급 less/more",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "less energy than",
+        "more comfortable"
+      ],
+      "explanation": "less + 명사 + than은 '~보다 적은 …', more + 형용사는 '더 ~한'. comfortable처럼 긴 형용사는 -er 대신 more를 쓴다.",
+      "example": {
+        "en": "This model is more affordable than the old one.",
+        "ko": "이 모델은 이전 모델보다 더 저렴하다."
+      },
+      "note": "a more ___ + 명사 → 빈칸은 형용사."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; 수신 (메모 머리말)",
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "ipa": "/ɔːl/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원",
+      "synonyms": [
+        "employees",
+        "personnel"
+      ],
+      "ipa": "/stæf/"
+    },
+    "fenwick": {
+      "lemma": "Fenwick",
+      "pos": "proper-noun",
+      "ko": "펜윅 (회사 이름의 일부)",
+      "ipa": "/ˈfɛnˌwɪk/"
+    },
+    "insurance": {
+      "lemma": "insurance",
+      "pos": "noun",
+      "ko": "보험",
+      "synonyms": [
+        "coverage"
+      ],
+      "ipa": "/ˌɪnˈʃʊrəns/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터; 발신 (메모 머리말)",
+      "ipa": "/frʌm/"
+    },
+    "facilities": {
+      "lemma": "facility",
+      "pos": "noun",
+      "ko": "시설",
+      "form": "복수형",
+      "synonyms": [
+        "premises",
+        "building"
+      ],
+      "ipa": "/fəˈsɪlətiz/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목",
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "air-conditioning": {
+      "lemma": "air-conditioning",
+      "pos": "noun",
+      "ko": "냉방 (장치)",
+      "synonyms": [
+        "cooling",
+        "AC"
+      ],
+      "ipa": "/ɛr-kənˈdɪʃənɪŋ/"
+    },
+    "upgrade": {
+      "lemma": "upgrade",
+      "pos": "noun",
+      "ko": "개선, 교체",
+      "synonyms": [
+        "improvement",
+        "update"
+      ],
+      "ipa": "/əpˈɡreɪd/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, ~해 주세요",
+      "ipa": "/pliːz/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 되다",
+      "ipa": "/biː/"
+    },
+    "aware": {
+      "lemma": "aware",
+      "pos": "adjective",
+      "ko": "알고 있는",
+      "synonyms": [
+        "informed",
+        "conscious"
+      ],
+      "ipa": "/əˈwɛr/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "ipa": "/ðæt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 설비",
+      "synonyms": [
+        "equipment",
+        "setup"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~위에",
+      "ipa": "/ɑːn/"
+    },
+    "third": {
+      "lemma": "third",
+      "pos": "adjective",
+      "ko": "세 번째의",
+      "ipa": "/θɜːrd/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "replaced": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "교체하다",
+      "form": "과거분사",
+      "synonyms": [
+        "substitute",
+        "swap"
+      ],
+      "ipa": "/ˌriːˈpleɪst/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "ipa": "/wiːk/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "작업 (s5) / 일하다 (s6)",
+      "synonyms": [
+        "job",
+        "task"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "performed": {
+      "lemma": "perform",
+      "pos": "verb",
+      "ko": "수행된",
+      "form": "과거분사",
+      "synonyms": [
+        "carry out",
+        "conduct"
+      ],
+      "ipa": "/pərˈfɔːrmd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지, ~에 의해",
+      "ipa": "/baɪ/"
+    },
+    "corvane": {
+      "lemma": "Corvane",
+      "pos": "proper-noun",
+      "ko": "코바인 (회사 이름의 일부)",
+      "ipa": "/ˈkɔːrveɪn/"
+    },
+    "mechanical": {
+      "lemma": "mechanical",
+      "pos": "noun",
+      "ko": "기계설비 (회사 이름의 일부)",
+      "ipa": "/məˈkænɪkəl/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "expected": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상되다",
+      "form": "과거분사",
+      "synonyms": [
+        "anticipate",
+        "predict"
+      ],
+      "ipa": "/ɪkˈspɛktəd/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간이) 걸리다",
+      "synonyms": [
+        "require",
+        "last"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "ipa": "/θriː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~동안",
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이것",
+      "ipa": "/ðɪs/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간, 기간",
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "ipa": "/ɪn/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수",
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "rooms": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": "복수형",
+      "synonyms": [
+        "space"
+      ],
+      "ipa": "/ruːmz/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "ipa": "/ˈsɛkənd/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "ipa": "/juː/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "떠나다, 퇴근하다",
+      "synonyms": [
+        "depart",
+        "go"
+      ],
+      "ipa": "/liːv/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "ipa": "/ˈfraɪdi/"
+    },
+    "remove": {
+      "lemma": "remove",
+      "pos": "verb",
+      "ko": "치우다",
+      "synonyms": [
+        "clear",
+        "take away"
+      ],
+      "ipa": "/riˈmuːv/"
+    },
+    "personal": {
+      "lemma": "personal",
+      "pos": "adjective",
+      "ko": "개인의",
+      "synonyms": [
+        "private",
+        "individual"
+      ],
+      "ipa": "/ˈpɜːrsɪnəl/"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물품",
+      "form": "복수형",
+      "synonyms": [
+        "belonging",
+        "object"
+      ],
+      "ipa": "/ˈaɪtəmz/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 여러분의",
+      "ipa": "/jɔːr/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "책상",
+      "synonyms": [
+        "workstation"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "놓다, 넣다",
+      "synonyms": [
+        "put",
+        "set"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "ipa": "/ðɛm/"
+    },
+    "boxes": {
+      "lemma": "box",
+      "pos": "noun",
+      "ko": "상자",
+      "form": "복수형",
+      "synonyms": [
+        "carton",
+        "container"
+      ],
+      "ipa": "/ˈbɑːksəz/"
+    },
+    "provided": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공된",
+      "form": "과거분사",
+      "synonyms": [
+        "supply",
+        "give"
+      ],
+      "ipa": "/prəˈvaɪdɪd/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확실한 (be sure to: 꼭 ~하다)",
+      "synonyms": [
+        "certain"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "write": {
+      "lemma": "write",
+      "pos": "verb",
+      "ko": "쓰다",
+      "synonyms": [
+        "put down",
+        "mark"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "name": {
+      "lemma": "name",
+      "pos": "noun",
+      "ko": "이름",
+      "ipa": "/neɪm/"
+    },
+    "clearly": {
+      "lemma": "clearly",
+      "pos": "adverb",
+      "ko": "또렷하게",
+      "synonyms": [
+        "legibly",
+        "plainly"
+      ],
+      "ipa": "/ˈklɪrli/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "ipa": "/iːtʃ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, 것 (앞의 상자를 가리킴)",
+      "ipa": "/wʌn/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "구성원",
+      "form": "복수형",
+      "synonyms": [
+        "colleague",
+        "staff"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "ipa": "/ʌv/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "ipa": "/ˈaʊər/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "synonyms": [
+        "group",
+        "crew"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "옮기다 (s9) / 이전 (s11)",
+      "synonyms": [
+        "transfer",
+        "carry"
+      ],
+      "ipa": "/muːv/"
+    },
+    "temporary": {
+      "lemma": "temporary",
+      "pos": "adjective",
+      "ko": "임시의",
+      "synonyms": [
+        "provisional",
+        "short-term"
+      ],
+      "ipa": "/ˈtɛmpəˌrɛri/"
+    },
+    "workspace": {
+      "lemma": "workspace",
+      "pos": "noun",
+      "ko": "업무 공간",
+      "synonyms": [
+        "work area",
+        "office"
+      ],
+      "ipa": "/ˈwɜːrkˌspeɪs/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~동안 (내내)",
+      "ipa": "/ˈoʊvər/"
+    },
+    "weekend": {
+      "lemma": "weekend",
+      "pos": "noun",
+      "ko": "주말",
+      "ipa": "/ˈwiːˌkɛnd/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "synonyms": [
+        "latest"
+      ],
+      "ipa": "/nuː/"
+    },
+    "units": {
+      "lemma": "unit",
+      "pos": "noun",
+      "ko": "(기계) 장치, 기기",
+      "form": "복수형",
+      "synonyms": [
+        "device",
+        "machine"
+      ],
+      "ipa": "/ˈjuːnəts/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "synonyms": [
+        "consume",
+        "utilize"
+      ],
+      "ipa": "/juːs/"
+    },
+    "less": {
+      "lemma": "less",
+      "pos": "determiner",
+      "ko": "더 적은",
+      "form": "비교급",
+      "ipa": "/lɛs/"
+    },
+    "energy": {
+      "lemma": "energy",
+      "pos": "noun",
+      "ko": "에너지",
+      "synonyms": [
+        "power",
+        "electricity"
+      ],
+      "ipa": "/ˈɛnərdʒi/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "ipa": "/ðæn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "오래된, 기존의",
+      "synonyms": [
+        "previous",
+        "former"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그것들",
+      "ipa": "/ðeɪ/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "ipa": "/ʃʊd/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "유지하다",
+      "synonyms": [
+        "maintain",
+        "hold"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서, ~에",
+      "ipa": "/æt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "comfortable": {
+      "lemma": "comfortable",
+      "pos": "adjective",
+      "ko": "쾌적한, 편안한",
+      "synonyms": [
+        "pleasant",
+        "agreeable"
+      ],
+      "ipa": "/ˈkʌmfərtəbəl/"
+    },
+    "temperature": {
+      "lemma": "temperature",
+      "pos": "noun",
+      "ko": "온도",
+      "ipa": "/ˈtɛmprətʃər/"
+    },
+    "throughout": {
+      "lemma": "throughout",
+      "pos": "preposition",
+      "ko": "~내내",
+      "ipa": "/θruˈaʊt/"
+    },
+    "summer": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름",
+      "ipa": "/ˈsʌmər/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 문의",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관한",
+      "ipa": "/əˈbaʊt/"
+    },
+    "addressed": {
+      "lemma": "address",
+      "pos": "verb",
+      "ko": "(문의를) 보내다, 제기하다",
+      "form": "과거분사",
+      "synonyms": [
+        "direct",
+        "send"
+      ],
+      "ipa": "/əˈdrɛst/"
+    },
+    "owen": {
+      "lemma": "Owen",
+      "pos": "proper-noun",
+      "ko": "오언 (사람 이름)",
+      "ipa": "/ˈoʊən/"
+    },
+    "hartley": {
+      "lemma": "Hartley",
+      "pos": "proper-noun",
+      "ko": "하틀리 (사람 성)",
+      "ipa": "/ˈhɑːrtli/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 번호",
+      "synonyms": [
+        "line",
+        "ext"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "performed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "performing"
+        },
+        {
+          "key": "B",
+          "text": "performed"
+        },
+        {
+          "key": "C",
+          "text": "performs"
+        },
+        {
+          "key": "D",
+          "text": "performance"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "문장의 동사는 is expected이고, 콤마 사이는 주어 The work를 꾸미는 말이다. 작업은 '수행되는' 것이고 뒤에 by가 있으므로 과거분사 performed.",
+      "choiceNotesKo": {
+        "A": "performing은 '수행하는' 능동이라 by와 맞지 않는다.",
+        "C": "이미 동사 is expected가 있어 동사가 또 올 수 없다."
+      },
+      "skill": "과거분사(명사 후치 수식)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "personal"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "personal"
+        },
+        {
+          "key": "B",
+          "text": "personnel"
+        },
+        {
+          "key": "C",
+          "text": "personality"
+        },
+        {
+          "key": "D",
+          "text": "personally"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "명사 items 앞에서 꾸미는 형용사 자리. personal items = 개인 물품.",
+      "choiceNotesKo": {
+        "B": "personnel은 '직원, 인사부'라는 명사. 철자가 비슷해 헷갈리기 쉽다.",
+        "D": "부사는 명사를 꾸미지 못한다."
+      },
+      "skill": "혼동 어휘(personal vs personnel)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "Be sure to write your name clearly on each one."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The new system uses much less energy than the old one."
+        },
+        {
+          "key": "B",
+          "text": "Desks on the second floor are reserved for visitors."
+        },
+        {
+          "key": "C",
+          "text": "The installation was originally planned for the spring."
+        },
+        {
+          "key": "D",
+          "text": "Be sure to write your name clearly on each one."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장에서 물품을 상자(boxes)에 넣으라고 했고, 뒤 문장에서 팀원이 상자를 옮긴다고 한다. each one(상자 하나하나)에 이름을 쓰라는 D가 흐름을 잇는다.",
+      "choiceNotesKo": {
+        "A": "에너지 이야기는 마지막 단락에 나오며 짐 싸기 안내 사이에는 어색하다.",
+        "B": "2층 교육실에서 일한다는 내용과 충돌한다."
+      },
+      "skill": "문장 넣기(each one 지시 단서)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "comfortable"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "comfort"
+        },
+        {
+          "key": "B",
+          "text": "comfortably"
+        },
+        {
+          "key": "C",
+          "text": "comfortable"
+        },
+        {
+          "key": "D",
+          "text": "comforts"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "a more ___ temperature: 관사와 명사 사이에서 more의 꾸밈을 받는 형용사 자리. comfortable(쾌적한).",
+      "choiceNotesKo": {
+        "B": "부사는 명사 temperature를 꾸밀 수 없다."
+      },
+      "skill": "형용사 자리(a more + _ + 명사)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s11",
+        "answerText": "addressed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "addressed"
+        },
+        {
+          "key": "B",
+          "text": "replied"
+        },
+        {
+          "key": "C",
+          "text": "informed"
+        },
+        {
+          "key": "D",
+          "text": "responded"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "be addressed to + 사람 = (문의·편지가) ~에게 보내지다. 문의는 오언 하틀리 씨에게 하라는 뜻.",
+      "choiceNotesKo": {
+        "B": "reply, respond는 자동사라서 replied to처럼 써야 하고, 문의가 주어인 수동태로 쓰면 의미가 맞지 않는다.",
+        "C": "inform은 사람을 목적어로 받아 'inform A of B'로 쓴다."
+      },
+      "skill": "어휘(be addressed to)"
+    }
+  ]
+}
