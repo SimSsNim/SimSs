@@ -1,0 +1,1793 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-19-L3-3",
+  "date": "2026-11-19",
+  "level": 3,
+  "title": "The Star-Child",
+  "titleKo": "별 아이",
+  "genre": "fairy-tale",
+  "tags": [
+    "Oscar Wilde",
+    "fairy tale",
+    "winter"
+  ],
+  "source": {
+    "work": "A House of Pomegranates (The Star-Child)",
+    "author": "Oscar Wilde",
+    "translator": null,
+    "year": 1891,
+    "edition": "Project Gutenberg #873",
+    "url": "https://www.gutenberg.org/ebooks/873",
+    "license": "public-domain",
+    "excerptNote": "'The Star-Child' 헌사 뒤 첫 여섯 단락 전체 (‘Once upon a time two poor Woodcutters…’부터 늑대의 ‘…never at a loss for a good argument.’까지, 227단어). gutenberg.org가 503(점검 중)이라 archive.org에 보관된 같은 전자책(PG #873, hpomg10.txt)에서 가져왔고, 줄바꿈과 문장 사이 두 칸 공백만 공백 하나로 이음(줄 끝에서 나뉜 Mountain-Torrent는 붙여 씀)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/houseofpomegranates_al_librivox/houseofpomegranates_6_wilde.mp3",
+    "mp3Low": "https://www.archive.org/download/houseofpomegranates_al_librivox/houseofpomegranates_6_wilde_64kb.mp3",
+    "pageUrl": "https://librivox.org/a-house-of-pomegranates/",
+    "reader": "Alex Lau",
+    "durationSec": 2351,
+    "startSec": 25,
+    "endSec": 130,
+    "note": "LibriVox A House of Pomegranates (version 1), 트랙 06 'The Star-Child' (전체 39:11). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트·제목·헌사 뒤 약 0:25~2:10 (추정)."
+  },
+  "wordCount": 227,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "옛날 옛적에 가난한 나무꾼 두 사람이 커다란 소나무 숲을 지나 집으로 돌아가고 있었다. 겨울이었고, 살을 에는 듯이 추운 밤이었다. 눈이 땅 위에도, 나뭇가지 위에도 두껍게 쌓여 있었다. 두 사람이 지나갈 때면 서리가 양옆의 잔가지들을 계속 똑똑 부러뜨렸다. 그리고 산골짜기 급류에 이르러 보니, 급류는 허공에 매달린 채 꼼짝도 하지 않았다. 얼음왕이 그녀에게 입을 맞추었기 때문이다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "어찌나 추웠는지 동물들과 새들조차 이게 대체 어찌 된 일인지 알 수가 없었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "ko": "“으으!” 늑대가 꼬리를 다리 사이에 말아 넣고 덤불 사이로 절뚝절뚝 걸어가며 으르렁거렸다. “정말 끔찍한 날씨로군. 정부는 왜 이걸 처리하지 않는 거야?”"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "“짹! 짹! 짹!” 초록 방울새들이 지저귀었다. “늙은 대지가 죽어서, 사람들이 대지에게 하얀 수의를 입혀 눕혀 놓았어.”"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "“대지가 곧 결혼을 하나 봐. 이건 대지의 신부 드레스야.” 멧비둘기들이 서로 속삭였다. 멧비둘기들의 작은 분홍색 발은 완전히 동상에 걸려 있었지만, 그들은 이 상황을 낭만적으로 바라보는 것이 자기들의 의무라고 생각했다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "ko": "“헛소리!” 늑대가 으르렁거렸다. “이건 전부 정부 탓이라니까. 내 말을 안 믿으면 너희를 잡아먹을 테다.” 늑대는 철저히 현실적인 사고방식을 지니고 있었고, 그럴듯한 논리가 궁해서 말문이 막히는 법이 결코 없었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Once upon a time two poor Woodcutters were making their way home through a great pine-forest.",
+      "ko": "옛날 옛적에 가난한 나무꾼 두 사람이 커다란 소나무 숲을 지나 집으로 돌아가고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "It was winter, and a night of bitter cold.",
+      "ko": "겨울이었고, 살을 에는 듯이 추운 밤이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The snow lay thick upon the ground, and upon the branches of the trees: the frost kept snapping the little twigs on either side of them, as they passed: and when they came to the Mountain-Torrent she was hanging motionless in air, for the Ice-King had kissed her.",
+      "ko": "눈이 땅 위에도, 나뭇가지 위에도 두껍게 쌓여 있었다. 두 사람이 지나갈 때면 서리가 양옆의 잔가지들을 계속 똑똑 부러뜨렸다. 그리고 산골짜기 급류에 이르러 보니, 급류는 허공에 매달린 채 꼼짝도 하지 않았다. 얼음왕이 그녀에게 입을 맞추었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "So cold was it that even the animals and the birds did not know what to make of it.",
+      "ko": "어찌나 추웠는지 동물들과 새들조차 이게 대체 어찌 된 일인지 알 수가 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "'Ugh!' snarled the Wolf, as he limped through the brushwood with his tail between his legs, 'this is perfectly monstrous weather.",
+      "ko": "“으으!” 늑대가 꼬리를 다리 사이에 말아 넣고 덤불 사이로 절뚝절뚝 걸어가며 으르렁거렸다. “정말 끔찍한 날씨로군.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Why doesn't the Government look to it?'",
+      "ko": "정부는 왜 이걸 처리하지 않는 거야?”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "'Weet! weet! weet!' twittered the green Linnets, 'the old Earth is dead and they have laid her out in her white shroud.'",
+      "ko": "“짹! 짹! 짹!” 초록 방울새들이 지저귀었다. “늙은 대지가 죽어서, 사람들이 대지에게 하얀 수의를 입혀 눕혀 놓았어.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "'The Earth is going to be married, and this is her bridal dress,' whispered the Turtle-doves to each other.",
+      "ko": "“대지가 곧 결혼을 하나 봐. 이건 대지의 신부 드레스야.” 멧비둘기들이 서로 속삭였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Their little pink feet were quite frost-bitten, but they felt that it was their duty to take a romantic view of the situation.",
+      "ko": "멧비둘기들의 작은 분홍색 발은 완전히 동상에 걸려 있었지만, 그들은 이 상황을 낭만적으로 바라보는 것이 자기들의 의무라고 생각했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "'Nonsense!' growled the Wolf.",
+      "ko": "“헛소리!” 늑대가 으르렁거렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "'I tell you that it is all the fault of the Government, and if you don't believe me I shall eat you.'",
+      "ko": "“이건 전부 정부 탓이라니까. 내 말을 안 믿으면 너희를 잡아먹을 테다.”",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "The Wolf had a thoroughly practical mind, and was never at a loss for a good argument.",
+      "ko": "늑대는 철저히 현실적인 사고방식을 지니고 있었고, 그럴듯한 논리가 궁해서 말문이 막히는 법이 결코 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "motionless",
+      "pos": "adjective",
+      "meaningKo": "움직이지 않는, 꼼짝 않는",
+      "ipa": "/ˈmoʊʃənləs/",
+      "synonyms": [
+        "still",
+        "frozen",
+        "unmoving"
+      ],
+      "matchText": "motionless",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The cat sat motionless, watching the bird.",
+        "ko": "고양이는 꼼짝도 않고 앉아서 새를 지켜보았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "know what to make of",
+      "pos": "idiom",
+      "meaningKo": "~을 어떻게 이해해야 할지 알다 (주로 부정문: 영문을 모르다)",
+      "ipa": "/noʊ wʌt tə meɪk əv/",
+      "synonyms": [
+        "understand",
+        "figure out"
+      ],
+      "matchText": "know what to make of",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I didn't know what to make of his strange message.",
+        "ko": "나는 그의 이상한 메시지를 어떻게 받아들여야 할지 몰랐다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "limp",
+      "pos": "verb",
+      "meaningKo": "절뚝거리다, 절뚝거리며 걷다",
+      "ipa": "/lɪmp/",
+      "synonyms": [
+        "hobble",
+        "stumble"
+      ],
+      "matchText": "limped",
+      "sentenceId": "s5",
+      "example": {
+        "en": "After the fall, he limped home slowly.",
+        "ko": "넘어진 뒤 그는 천천히 절뚝거리며 집에 갔다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "monstrous",
+      "pos": "adjective",
+      "meaningKo": "끔찍한, 지독한",
+      "ipa": "/ˈmɑnstrəs/",
+      "synonyms": [
+        "terrible",
+        "awful",
+        "horrible"
+      ],
+      "matchText": "monstrous",
+      "sentenceId": "s5",
+      "example": {
+        "en": "It is monstrous to leave a dog out in the snow.",
+        "ko": "개를 눈 속에 내버려 두는 것은 끔찍한 일이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "be at a loss for",
+      "pos": "idiom",
+      "meaningKo": "~이 없어 쩔쩔매다, ~이 궁하다",
+      "ipa": "/bi æt ə lɔs fɔr/",
+      "synonyms": [
+        "lack",
+        "be stuck for"
+      ],
+      "matchText": "at a loss for",
+      "sentenceId": "s12",
+      "example": {
+        "en": "For once, she was at a loss for words.",
+        "ko": "이번만은 그녀도 할 말을 잃었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "So cold",
+          "role": "C",
+          "sub": false,
+          "ko": "그토록 추웠다"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "(날씨가)"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "even the animals and the birds",
+          "role": "S",
+          "sub": true,
+          "ko": "동물들과 새들조차"
+        },
+        {
+          "text": "did not know",
+          "role": "V",
+          "sub": true,
+          "ko": "알지 못했다"
+        },
+        {
+          "text": "what to make of it.",
+          "role": "O",
+          "sub": true,
+          "ko": "그것을 어떻게 이해해야 할지"
+        }
+      ],
+      "skeleton": "So cold was it (that ~ did not know ~)",
+      "explanation": "원래 어순은 It was so cold that ~ (너무 추워서 ~했다)입니다. 보어 So cold를 문장 맨 앞으로 보내 강조하면서 주어 it과 동사 was의 자리가 바뀌었어요(도치). that 이하는 그 결과(동물과 새들조차 영문을 몰랐다)를 말하고, what to make of it은 '그것을 어떻게 받아들여야 할지'라는 명사구로 know의 목적어입니다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "'Ugh!'",
+          "role": "M",
+          "sub": false,
+          "ko": "“으으!”"
+        },
+        {
+          "text": "snarled",
+          "role": "V",
+          "sub": false,
+          "ko": "으르렁거렸다"
+        },
+        {
+          "text": "the Wolf,",
+          "role": "S",
+          "sub": false,
+          "ko": "늑대가"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하면서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "limped",
+          "role": "V",
+          "sub": true,
+          "ko": "절뚝거리며 갔다"
+        },
+        {
+          "text": "through the brushwood",
+          "role": "M",
+          "sub": true,
+          "ko": "덤불 사이로"
+        },
+        {
+          "text": "with his tail between his legs,",
+          "role": "M",
+          "sub": true,
+          "ko": "꼬리를 다리 사이에 낀 채"
+        },
+        {
+          "text": "'this",
+          "role": "S",
+          "sub": false,
+          "ko": "“이건"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "sub": false,
+          "ko": "~이다"
+        },
+        {
+          "text": "perfectly monstrous weather.",
+          "role": "C",
+          "sub": false,
+          "ko": "정말 끔찍한 날씨"
+        }
+      ],
+      "skeleton": "snarled the Wolf, 'this is weather'",
+      "explanation": "인용문 뒤에서 '말했다'를 나타낼 때는 snarled the Wolf처럼 동사가 주어 앞에 오는 경우가 많습니다(= the Wolf snarled). as 이하는 '~하면서'라는 동시 동작을 나타내는 부사절이고, with + 명사 + 전치사구(with his tail between his legs)는 '꼬리를 다리 사이에 낀 채로'라는 상태를 보여 줍니다. 뒤의 'this is ~ weather'가 늑대가 실제로 한 말이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Their little pink feet",
+          "role": "S",
+          "sub": false,
+          "ko": "그들의 작은 분홍 발은"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "quite frost-bitten,",
+          "role": "C",
+          "sub": false,
+          "ko": "완전히 동상에 걸린"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "felt",
+          "role": "V",
+          "sub": false,
+          "ko": "느꼈다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "(그것은)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "their duty",
+          "role": "C",
+          "sub": true,
+          "ko": "자기들의 의무"
+        },
+        {
+          "text": "to take a romantic view of the situation.",
+          "role": "S",
+          "sub": true,
+          "ko": "상황을 낭만적으로 보는 것"
+        }
+      ],
+      "skeleton": "Their feet were frost-bitten, but they felt (that ~)",
+      "explanation": "but으로 두 문장이 이어져 있습니다. 뒤 문장의 that절 안에서 it은 가주어이고, 진짜 주어는 to take a romantic view of the situation(상황을 낭만적으로 보는 것)입니다. 발이 얼어 아픈데도 '낭만적으로 봐야 한다'고 여기는 모습에서 작가의 유머가 느껴져요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "So + 형용사 + 동사 + 주어 + that ~ : 너무 ~해서 …하다 (도치)",
+      "tags": [
+        "도치",
+        "강조",
+        "부사절"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "So cold was it that"
+      ],
+      "explanation": "It was so cold that ~을 강조하려고 So cold를 맨 앞으로 옮기면 동사와 주어의 순서가 바뀌어 So cold was it that ~이 됩니다. 뜻은 똑같이 '너무 추워서 ~했다'예요. 이야기나 문어체에서 장면을 생생하게 강조할 때 자주 쓰입니다.",
+      "example": {
+        "en": "So tired was she that she fell asleep at once.",
+        "ko": "그녀는 너무 피곤해서 곧바로 잠들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "keep + -ing : 계속 ~하다",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "kept snapping"
+      ],
+      "explanation": "keep 뒤에 동사-ing가 오면 '계속해서 ~하다'라는 뜻입니다. 서리가 잔가지들을 한 번만이 아니라 계속 똑똑 부러뜨렸다는 반복을 나타내요. 같은 문장의 had kissed는 과거완료로, 급류가 얼어 있던 것보다 얼음왕의 입맞춤이 먼저 일어났음을 보여 줍니다.",
+      "example": {
+        "en": "The baby kept crying all night.",
+        "ko": "아기는 밤새 계속 울었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "be going to + 동사원형 : ~할 것이다 (예정)",
+      "tags": [
+        "시제",
+        "수동태"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "is going to be married"
+      ],
+      "explanation": "be going to는 이미 정해진 일이나 곧 일어날 일을 말할 때 씁니다. 여기서는 be married(결혼하다)와 합쳐져 '대지가 곧 결혼할 것이다'라는 뜻이에요. 멧비둘기들은 하얀 눈을 신부 드레스로 상상하고 있습니다.",
+      "example": {
+        "en": "My sister is going to be married next spring.",
+        "ko": "우리 언니는 내년 봄에 결혼할 예정이다."
+      },
+      "note": "같은 장면에서 방울새들은 하얀 눈을 수의(shroud)로, 멧비둘기들은 신부 드레스(bridal dress)로 봅니다. 같은 눈을 정반대로 해석하는 대비를 눈여겨보세요."
+    }
+  ],
+  "glossary": {
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(once upon a time) 옛날 옛적에",
+      "form": null,
+      "synonyms": [
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시절",
+      "form": null,
+      "synonyms": [
+        "period",
+        "age"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "penniless"
+      ],
+      "ipa": "/puːr/"
+    },
+    "woodcutters": {
+      "lemma": "woodcutter",
+      "pos": "noun",
+      "ko": "나무꾼",
+      "form": "복수형",
+      "synonyms": [
+        "lumberjack",
+        "woodsman"
+      ],
+      "ipa": "/ˈwʊdˌkʌtɚz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~하고 있었다 (were making)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "making": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make one's way) 나아가다, 가다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "proceed",
+        "go"
+      ],
+      "ipa": "/ˈmeɪkɪŋ/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "route",
+        "path"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 지나, ~ 사이로",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "커다란, 거대한",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "vast"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "pine-forest": {
+      "lemma": "pine-forest",
+      "pos": "noun",
+      "ko": "소나무 숲",
+      "form": null,
+      "synonyms": [
+        "pinewood"
+      ],
+      "ipa": "/paɪn-ˈfɔːrəst/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것; (날씨·시간을 나타내는 주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "winter": {
+      "lemma": "winter",
+      "pos": "noun",
+      "ko": "겨울",
+      "form": null,
+      "ipa": "/ˈwɪntər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "synonyms": [
+        "evening"
+      ],
+      "ipa": "/naɪt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 관한",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "bitter": {
+      "lemma": "bitter",
+      "pos": "adjective",
+      "ko": "(추위가) 혹독한, 살을 에는",
+      "form": null,
+      "synonyms": [
+        "harsh",
+        "biting",
+        "severe"
+      ],
+      "ipa": "/ˈbɪtər/"
+    },
+    "cold": {
+      "lemma": "cold",
+      "pos": "noun",
+      "ko": "추위; (형용사) 추운",
+      "form": null,
+      "synonyms": [
+        "chill",
+        "freezing"
+      ],
+      "ipa": "/koʊld/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈",
+      "form": null,
+      "ipa": "/snoʊ/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "놓여 있었다, 쌓여 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "sit"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "thick": {
+      "lemma": "thick",
+      "pos": "adverb",
+      "ko": "두껍게, 두툼하게",
+      "form": null,
+      "synonyms": [
+        "deeply",
+        "heavily"
+      ],
+      "ipa": "/θɪk/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅, 지면",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "land"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "bough",
+        "limb"
+      ],
+      "ipa": "/ˈbræntʃəz/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "ipa": "/triːz/"
+    },
+    "frost": {
+      "lemma": "frost",
+      "pos": "noun",
+      "ko": "서리, 혹한",
+      "form": null,
+      "synonyms": [
+        "ice",
+        "rime"
+      ],
+      "ipa": "/frɔːst/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep -ing) 계속 ~하다",
+      "form": "과거형",
+      "synonyms": [
+        "continue"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "snapping": {
+      "lemma": "snap",
+      "pos": "verb",
+      "ko": "똑 부러뜨리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "break",
+        "crack"
+      ],
+      "ipa": "/ˈsnæpɪŋ/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "twigs": {
+      "lemma": "twig",
+      "pos": "noun",
+      "ko": "잔가지",
+      "form": "복수형",
+      "synonyms": [
+        "sprig",
+        "stick"
+      ],
+      "ipa": "/twɪɡz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "either": {
+      "lemma": "either",
+      "pos": "determiner",
+      "ko": "(on either side) 양쪽의",
+      "form": null,
+      "ipa": "/ˈiːðər/"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "쪽, 옆",
+      "form": null,
+      "synonyms": [
+        "flank"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을, 그들",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하면서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "go by"
+      ],
+      "ipa": "/pæst/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 이르다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive",
+        "reach"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에, ~로; (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "mountain-torrent": {
+      "lemma": "Mountain-Torrent",
+      "pos": "noun",
+      "ko": "산골짜기 급류 (여기선 의인화)",
+      "form": null,
+      "synonyms": [
+        "stream",
+        "rapids"
+      ],
+      "ipa": "/ˈmaʊntən-ˈtɔːrənt/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀 (의인화된 급류·대지를 가리킴)",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "hanging": {
+      "lemma": "hang",
+      "pos": "verb",
+      "ko": "매달려 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "dangle",
+        "hover"
+      ],
+      "ipa": "/ˈhæŋɪŋ/"
+    },
+    "motionless": {
+      "lemma": "motionless",
+      "pos": "adjective",
+      "ko": "움직이지 않는",
+      "form": null,
+      "synonyms": [
+        "still",
+        "frozen"
+      ],
+      "ipa": "/ˈmoʊʃənləs/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "air": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "공중, 허공",
+      "form": null,
+      "synonyms": [
+        "midair",
+        "sky"
+      ],
+      "ipa": "/ɛr/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면; (전치사) ~을 위해, ~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "ice-king": {
+      "lemma": "Ice-King",
+      "pos": "proper-noun",
+      "ko": "아이스킹, 얼음왕 (추위를 의인화한 인물)",
+      "form": null,
+      "ipa": "/aɪs-kɪŋ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사: 과거완료) / (동사) 가지고 있었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "kissed": {
+      "lemma": "kiss",
+      "pos": "verb",
+      "ko": "입 맞추다",
+      "form": "과거분사",
+      "synonyms": [
+        "peck"
+      ],
+      "ipa": "/kɪst/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀를; 그녀의",
+      "form": "목적격/소유격",
+      "ipa": "/hɜːr/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그토록, 너무",
+      "form": null,
+      "synonyms": [
+        "such",
+        "very"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~해서, ~라는 것; (대명사) 그것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차",
+      "form": null,
+      "synonyms": [
+        "still"
+      ],
+      "ipa": "/ˈiːvɪn/"
+    },
+    "animals": {
+      "lemma": "animal",
+      "pos": "noun",
+      "ko": "동물",
+      "form": "복수형",
+      "synonyms": [
+        "creature",
+        "beast"
+      ],
+      "ipa": "/ˈænəməlz/"
+    },
+    "birds": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새",
+      "form": "복수형",
+      "ipa": "/bɜːrdz/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make of) ~을 이해하다, 생각하다",
+      "form": null,
+      "synonyms": [
+        "understand",
+        "interpret"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "ugh": {
+      "lemma": "ugh",
+      "pos": "interjection",
+      "ko": "으으, 윽 (불쾌함을 나타내는 소리)",
+      "form": null,
+      "ipa": "/ʌɡ/"
+    },
+    "snarled": {
+      "lemma": "snarl",
+      "pos": "verb",
+      "ko": "으르렁거리다, 으르렁대며 말하다",
+      "form": "과거형",
+      "synonyms": [
+        "growl",
+        "snap"
+      ],
+      "ipa": "/ˈsnɑːrəld/"
+    },
+    "wolf": {
+      "lemma": "wolf",
+      "pos": "noun",
+      "ko": "늑대",
+      "form": null,
+      "ipa": "/wʊlf/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (늑대를 가리킴)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "limped": {
+      "lemma": "limp",
+      "pos": "verb",
+      "ko": "절뚝거리다",
+      "form": "과거형",
+      "synonyms": [
+        "hobble"
+      ],
+      "ipa": "/lɪmpt/"
+    },
+    "brushwood": {
+      "lemma": "brushwood",
+      "pos": "noun",
+      "ko": "덤불, 잡목 숲",
+      "form": null,
+      "synonyms": [
+        "undergrowth",
+        "thicket"
+      ],
+      "ipa": "/ˈbrʌʃˌwʊd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~한 채로, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "tail": {
+      "lemma": "tail",
+      "pos": "noun",
+      "ko": "꼬리",
+      "form": null,
+      "ipa": "/teɪl/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "legs": {
+      "lemma": "leg",
+      "pos": "noun",
+      "ko": "다리",
+      "form": "복수형",
+      "synonyms": [
+        "limb"
+      ],
+      "ipa": "/lɛɡz/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "perfectly": {
+      "lemma": "perfectly",
+      "pos": "adverb",
+      "ko": "완전히, 정말로",
+      "form": null,
+      "synonyms": [
+        "utterly",
+        "totally"
+      ],
+      "ipa": "/ˈpɜːrfəktli/"
+    },
+    "monstrous": {
+      "lemma": "monstrous",
+      "pos": "adjective",
+      "ko": "끔찍한, 지독한",
+      "form": null,
+      "synonyms": [
+        "terrible",
+        "awful",
+        "dreadful"
+      ],
+      "ipa": "/ˈmɑːnstrəs/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨",
+      "form": null,
+      "synonyms": [
+        "climate"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "why": {
+      "lemma": "why",
+      "pos": "adverb",
+      "ko": "왜",
+      "form": null,
+      "ipa": "/waɪ/"
+    },
+    "doesn't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 않다 (does not의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/ˈdʌzənt/"
+    },
+    "government": {
+      "lemma": "government",
+      "pos": "noun",
+      "ko": "정부",
+      "form": null,
+      "synonyms": [
+        "authorities",
+        "state"
+      ],
+      "ipa": "/ˈɡʌvərmənt/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look to) ~을 처리하다, 돌보다",
+      "form": null,
+      "synonyms": [
+        "attend",
+        "see to"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "weet": {
+      "lemma": "weet",
+      "pos": "interjection",
+      "ko": "짹 (새 울음소리)",
+      "form": null,
+      "ipa": "/wit/"
+    },
+    "twittered": {
+      "lemma": "twitter",
+      "pos": "verb",
+      "ko": "(새가) 지저귀다",
+      "form": "과거형",
+      "synonyms": [
+        "chirp",
+        "tweet"
+      ],
+      "ipa": "/ˈtwɪtɚd/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "초록색의",
+      "form": null,
+      "ipa": "/ɡriːn/"
+    },
+    "linnets": {
+      "lemma": "linnet",
+      "pos": "noun",
+      "ko": "방울새 (작은 노래하는 새)",
+      "form": "복수형",
+      "synonyms": [
+        "finch",
+        "songbird"
+      ],
+      "ipa": "/ˈlɪnɪts/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 오래된",
+      "form": null,
+      "synonyms": [
+        "aged",
+        "ancient"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "earth": {
+      "lemma": "Earth",
+      "pos": "noun",
+      "ko": "대지, 땅 (여기선 의인화)",
+      "form": null,
+      "synonyms": [
+        "world",
+        "land"
+      ],
+      "ipa": "/ɜːrθ/"
+    },
+    "dead": {
+      "lemma": "dead",
+      "pos": "adjective",
+      "ko": "죽은",
+      "form": null,
+      "synonyms": [
+        "lifeless",
+        "deceased"
+      ],
+      "ipa": "/dɛd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have + 과거분사: 현재완료)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "laid": {
+      "lemma": "lay",
+      "pos": "verb",
+      "ko": "(lay out) 시신을 눕혀 장례 준비를 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "place",
+        "arrange"
+      ],
+      "ipa": "/leɪd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(lay out) 펼쳐 눕혀서",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "흰, 하얀",
+      "form": null,
+      "synonyms": [
+        "snowy",
+        "pale"
+      ],
+      "ipa": "/waɪt/"
+    },
+    "shroud": {
+      "lemma": "shroud",
+      "pos": "noun",
+      "ko": "수의 (죽은 사람에게 입히는 옷)",
+      "form": null,
+      "synonyms": [
+        "burial cloth",
+        "winding sheet"
+      ],
+      "ipa": "/ʃraʊd/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~할 것이다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다, ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "married": {
+      "lemma": "marry",
+      "pos": "verb",
+      "ko": "(be married) 결혼하다",
+      "form": "과거분사",
+      "synonyms": [
+        "wed"
+      ],
+      "ipa": "/ˈmɛrid/"
+    },
+    "bridal": {
+      "lemma": "bridal",
+      "pos": "adjective",
+      "ko": "신부의, 결혼식의",
+      "form": null,
+      "synonyms": [
+        "wedding",
+        "nuptial"
+      ],
+      "ipa": "/ˈbraɪdəl/"
+    },
+    "dress": {
+      "lemma": "dress",
+      "pos": "noun",
+      "ko": "드레스, 옷",
+      "form": null,
+      "synonyms": [
+        "gown",
+        "robe"
+      ],
+      "ipa": "/drɛs/"
+    },
+    "whispered": {
+      "lemma": "whisper",
+      "pos": "verb",
+      "ko": "속삭이다",
+      "form": "과거형",
+      "synonyms": [
+        "murmur"
+      ],
+      "ipa": "/ˈwɪspərd/"
+    },
+    "turtle-doves": {
+      "lemma": "turtle-dove",
+      "pos": "noun",
+      "ko": "멧비둘기",
+      "form": "복수형",
+      "synonyms": [
+        "dove"
+      ],
+      "ipa": "/ˈtɜːrtəl-dʌvz/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "(each other) 서로",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "(each other) 서로",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "pink": {
+      "lemma": "pink",
+      "pos": "adjective",
+      "ko": "분홍색의",
+      "form": null,
+      "synonyms": [
+        "rosy"
+      ],
+      "ipa": "/pɪŋk/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": "복수형",
+      "ipa": "/fiːt/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "완전히, 아주",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "thoroughly"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "frost-bitten": {
+      "lemma": "frost-bitten",
+      "pos": "adjective",
+      "ko": "동상에 걸린",
+      "form": null,
+      "synonyms": [
+        "frozen",
+        "numb"
+      ],
+      "ipa": "/frɔːst-ˈbɪtən/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "felt": {
+      "lemma": "feel",
+      "pos": "verb",
+      "ko": "느끼다, 생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "believe",
+        "think"
+      ],
+      "ipa": "/fɛlt/"
+    },
+    "duty": {
+      "lemma": "duty",
+      "pos": "noun",
+      "ko": "의무, 본분",
+      "form": null,
+      "synonyms": [
+        "obligation",
+        "responsibility"
+      ],
+      "ipa": "/ˈduːti/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take a view of) ~을 ~하게 보다",
+      "form": null,
+      "synonyms": [
+        "adopt",
+        "hold"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "romantic": {
+      "lemma": "romantic",
+      "pos": "adjective",
+      "ko": "낭만적인",
+      "form": null,
+      "synonyms": [
+        "sentimental",
+        "dreamy"
+      ],
+      "ipa": "/roʊˈmæntɪk/"
+    },
+    "view": {
+      "lemma": "view",
+      "pos": "noun",
+      "ko": "견해, 보는 관점",
+      "form": null,
+      "synonyms": [
+        "outlook",
+        "perspective"
+      ],
+      "ipa": "/vjuː/"
+    },
+    "situation": {
+      "lemma": "situation",
+      "pos": "noun",
+      "ko": "상황",
+      "form": null,
+      "synonyms": [
+        "circumstances",
+        "state of affairs"
+      ],
+      "ipa": "/ˌsɪtʃuˈeɪʃən/"
+    },
+    "nonsense": {
+      "lemma": "nonsense",
+      "pos": "interjection",
+      "ko": "헛소리! 말도 안 돼!",
+      "form": null,
+      "ipa": "/ˈnɑːnsɛns/"
+    },
+    "growled": {
+      "lemma": "growl",
+      "pos": "verb",
+      "ko": "으르렁거리다",
+      "form": "과거형",
+      "synonyms": [
+        "snarl",
+        "grumble"
+      ],
+      "ipa": "/ɡraʊld/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "say",
+        "inform"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너희, 너희를",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "전부, 완전히",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "fault": {
+      "lemma": "fault",
+      "pos": "noun",
+      "ko": "잘못, 탓",
+      "form": null,
+      "synonyms": [
+        "blame",
+        "responsibility"
+      ],
+      "ipa": "/fɔːlt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "don't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 않다 (do not의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "believe": {
+      "lemma": "believe",
+      "pos": "verb",
+      "ko": "믿다",
+      "form": null,
+      "synonyms": [
+        "trust",
+        "accept"
+      ],
+      "ipa": "/bɪˈliːv/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (의지·위협)",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다, 잡아먹다",
+      "form": null,
+      "synonyms": [
+        "devour",
+        "consume"
+      ],
+      "ipa": "/iːt/"
+    },
+    "thoroughly": {
+      "lemma": "thoroughly",
+      "pos": "adverb",
+      "ko": "철저히, 완전히",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "utterly"
+      ],
+      "ipa": "/ˈθɜːroʊli/"
+    },
+    "practical": {
+      "lemma": "practical",
+      "pos": "adjective",
+      "ko": "현실적인, 실용적인",
+      "form": null,
+      "synonyms": [
+        "realistic",
+        "down-to-earth"
+      ],
+      "ipa": "/ˈpræktəkəl/"
+    },
+    "mind": {
+      "lemma": "mind",
+      "pos": "noun",
+      "ko": "사고방식, 정신",
+      "form": null,
+      "synonyms": [
+        "outlook",
+        "intellect"
+      ],
+      "ipa": "/maɪnd/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~ 않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at a loss) ~한 상태에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "loss": {
+      "lemma": "loss",
+      "pos": "noun",
+      "ko": "(at a loss for) ~이 궁하여 쩔쩔맴",
+      "form": null,
+      "synonyms": [
+        "lack",
+        "want"
+      ],
+      "ipa": "/lɔːs/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은, 그럴듯한",
+      "form": null,
+      "synonyms": [
+        "sound",
+        "convincing"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "argument": {
+      "lemma": "argument",
+      "pos": "noun",
+      "ko": "논거, 주장",
+      "form": null,
+      "synonyms": [
+        "reasoning",
+        "case"
+      ],
+      "ipa": "/ˈɑːrɡjəmənt/"
+    }
+  }
+}
