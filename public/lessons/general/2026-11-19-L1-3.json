@@ -1,0 +1,1041 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-19-L1-3",
+  "date": "2026-11-19",
+  "level": 1,
+  "title": "The Lion in Love",
+  "titleKo": "사랑에 빠진 사자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_17_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_17_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-9-fables-201-225",
+    "reader": "Bronwyn Kate Gannan",
+    "durationSec": 60,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 09, 17번 트랙(전체 217번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 128,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "사자 한 마리가 시골 농부의 딸과 깊은 사랑에 빠져 그녀와 결혼하고 싶어 했다. 그러나 그녀의 아버지는 그렇게 무시무시한 신랑에게 딸을 주고 싶지 않았고, 그렇다고 사자의 기분을 상하게 하고 싶지도 않았다. 그래서 그는 다음과 같은 꾀를 생각해 냈다. 그는 사자에게 가서 말했다. \"자네라면 내 딸에게 아주 좋은 남편이 될 것 같네. 하지만 내가 자네의 이빨을 뽑고 발톱을 깎게 해 주지 않으면 이 결혼을 허락할 수 없네. 내 딸이 그것들을 몹시 무서워하거든.\" 사자는 사랑에 푹 빠져 있었기 때문에 그렇게 하자고 선뜻 동의했다. 그러나 일단 그렇게 무장이 풀리자, 농부는 더 이상 사자를 두려워하지 않고 몽둥이로 그를 쫓아내 버렸다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Lion fell deeply in love with the daughter of a cottager and wanted to marry her; but her father was unwilling to give her to so fearsome a husband, and yet didn't want to offend the Lion; so he hit upon the following expedient.",
+      "ko": "사자 한 마리가 시골 농부의 딸과 깊은 사랑에 빠져 그녀와 결혼하고 싶어 했다. 그러나 그녀의 아버지는 그렇게 무시무시한 신랑에게 딸을 주고 싶지 않았고, 그렇다고 사자의 기분을 상하게 하고 싶지도 않았다. 그래서 그는 다음과 같은 꾀를 생각해 냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "He went to the Lion and said, \"I think you will make a very good husband for my daughter: but I cannot consent to your union unless you let me draw your teeth and pare your nails, for my daughter is terribly afraid of them.\"",
+      "ko": "그는 사자에게 가서 말했다. \"자네라면 내 딸에게 아주 좋은 남편이 될 것 같네. 하지만 내가 자네의 이빨을 뽑고 발톱을 깎게 해 주지 않으면 이 결혼을 허락할 수 없네. 내 딸이 그것들을 몹시 무서워하거든.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The Lion was so much in love that he readily agreed that this should be done.",
+      "ko": "사자는 사랑에 푹 빠져 있었기 때문에 그렇게 하자고 선뜻 동의했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "When once, however, he was thus disarmed, the Cottager was afraid of him no longer, but drove him away with his club.",
+      "ko": "그러나 일단 그렇게 무장이 풀리자, 농부는 더 이상 사자를 두려워하지 않고 몽둥이로 그를 쫓아내 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "fall in love with",
+      "pos": "idiom",
+      "meaningKo": "~와 사랑에 빠지다",
+      "ipa": "/fɔl ɪn lʌv wɪð/",
+      "synonyms": [
+        "fall for",
+        "adore"
+      ],
+      "matchText": "fell deeply in love with",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She fell in love with the little puppy at once.",
+        "ko": "그녀는 그 작은 강아지에게 단번에 반했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "offend",
+      "pos": "verb",
+      "meaningKo": "기분을 상하게 하다, 화나게 하다",
+      "ipa": "/əˈfɛnd/",
+      "synonyms": [
+        "upset",
+        "insult",
+        "hurt"
+      ],
+      "matchText": "offend",
+      "sentenceId": "s1",
+      "example": {
+        "en": "I didn't mean to offend you.",
+        "ko": "너의 기분을 상하게 하려던 건 아니었어."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "expedient",
+      "pos": "noun",
+      "meaningKo": "방편, 묘책, 임시 수단",
+      "ipa": "/ɪkˈspidiənt/",
+      "synonyms": [
+        "plan",
+        "trick",
+        "measure"
+      ],
+      "matchText": "expedient",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Using a coin as a screwdriver was a clever expedient.",
+        "ko": "동전을 드라이버로 쓴 것은 기발한 방편이었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "consent",
+      "pos": "verb",
+      "meaningKo": "동의하다, 허락하다 (consent to)",
+      "ipa": "/kənˈsɛnt/",
+      "synonyms": [
+        "agree",
+        "allow",
+        "approve"
+      ],
+      "matchText": "consent",
+      "sentenceId": "s2",
+      "example": {
+        "en": "My parents consented to my trip.",
+        "ko": "부모님은 내 여행을 허락하셨다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "disarm",
+      "pos": "verb",
+      "meaningKo": "무장을 해제하다, 무기를 빼앗다",
+      "ipa": "/dɪsˈɑrm/",
+      "synonyms": [
+        "weaken",
+        "make harmless"
+      ],
+      "matchText": "disarmed",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The police disarmed the robber.",
+        "ko": "경찰이 강도의 무기를 빼앗았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The Lion",
+          "role": "S",
+          "sub": false,
+          "ko": "사자는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "so much in love",
+          "role": "C",
+          "sub": false,
+          "ko": "너무나 사랑에 빠져 있어서"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "readily",
+          "role": "M",
+          "sub": true,
+          "ko": "선뜻"
+        },
+        {
+          "text": "agreed",
+          "role": "V",
+          "sub": true,
+          "ko": "동의했다"
+        },
+        {
+          "text": "that this should be done.",
+          "role": "O",
+          "sub": true,
+          "ko": "이것이 행해져야 한다는 데."
+        }
+      ],
+      "skeleton": "The Lion was so much in love (+ that he agreed …)",
+      "explanation": "'so ~ that …'은 '너무 ~해서 …하다'예요. 두 번째 that절은 agreed의 목적어로 '~하는 데 동의했다'라는 뜻이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "When",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하자"
+        },
+        {
+          "text": "once,",
+          "role": "M",
+          "sub": true,
+          "ko": "일단,"
+        },
+        {
+          "text": "however,",
+          "role": "M",
+          "sub": false,
+          "ko": "그러나,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "was thus disarmed,",
+          "role": "V",
+          "sub": true,
+          "ko": "그렇게 무장이 풀리자,"
+        },
+        {
+          "text": "the Cottager",
+          "role": "S",
+          "sub": false,
+          "ko": "농부는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "afraid of him",
+          "role": "C",
+          "sub": false,
+          "ko": "그를 두려워하는"
+        },
+        {
+          "text": "no longer,",
+          "role": "M",
+          "sub": false,
+          "ko": "더 이상 ~않다,"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "오히려"
+        },
+        {
+          "text": "drove",
+          "role": "V",
+          "sub": false,
+          "ko": "몰아냈다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그를"
+        },
+        {
+          "text": "away with his club.",
+          "role": "M",
+          "sub": false,
+          "ko": "몽둥이로 쫓아."
+        }
+      ],
+      "skeleton": "the Cottager was afraid of him no longer, but drove him away",
+      "explanation": "When으로 시작하는 부사절(때)이 앞에 오고, however는 '그러나'라는 연결 부사로 끼어 있어요. 주절은 두 동사(was, drove)가 but으로 이어져 있어요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "so ~ that … (너무 ~해서 …하다)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so much in love that"
+      ],
+      "explanation": "'so + 형용사/부사 + that + 주어 + 동사'는 '너무 ~해서 …하다'예요. 원인(사랑에 푹 빠짐)과 결과(선뜻 동의함)를 함께 말해요.",
+      "example": {
+        "en": "It was so cold that we stayed home.",
+        "ko": "너무 추워서 우리는 집에 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "unless (~하지 않으면)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "unless you let me draw your teeth"
+      ],
+      "explanation": "unless는 'if ~ not'과 같은 뜻으로 '~하지 않는다면'이에요. unless 뒤에는 이미 부정의 뜻이 있으니 not을 또 쓰지 않아요.",
+      "example": {
+        "en": "You will be late unless you hurry.",
+        "ko": "서두르지 않으면 너는 늦을 거야."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "사역동사 let + 목적어 + 동사원형",
+      "tags": [
+        "기타"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "let me draw your teeth and pare your nails"
+      ],
+      "explanation": "'let + 사람 + 동사원형'은 '~가 …하게 허락하다(두다)'라는 뜻이에요. to를 쓰지 않고 동사원형(draw, pare)을 바로 써요.",
+      "example": {
+        "en": "Let me help you with your bag.",
+        "ko": "가방 드는 거 내가 도와줄게."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lion": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": null,
+      "ipa": "/ˈlaɪən/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall in love) 사랑에 빠지다",
+      "form": "과거형",
+      "ipa": "/fɛl/"
+    },
+    "deeply": {
+      "lemma": "deeply",
+      "pos": "adverb",
+      "ko": "깊이, 몹시",
+      "form": null,
+      "synonyms": [
+        "greatly",
+        "truly"
+      ],
+      "ipa": "/ˈdiːpli/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "love": {
+      "lemma": "love",
+      "pos": "noun",
+      "ko": "사랑 (in love: 사랑에 빠진)",
+      "form": null,
+      "synonyms": [
+        "affection"
+      ],
+      "ipa": "/lʌv/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "daughter": {
+      "lemma": "daughter",
+      "pos": "noun",
+      "ko": "딸",
+      "form": null,
+      "ipa": "/ˈdɔːtər/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "cottager": {
+      "lemma": "cottager",
+      "pos": "noun",
+      "ko": "오두막에 사는 사람, 시골 농부",
+      "form": null,
+      "synonyms": [
+        "villager",
+        "peasant"
+      ],
+      "ipa": "/ˈkɑtɪdʒər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원했다",
+      "form": "과거형",
+      "synonyms": [
+        "wish",
+        "desire"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "marry": {
+      "lemma": "marry",
+      "pos": "verb",
+      "ko": "~와 결혼하다",
+      "form": null,
+      "synonyms": [
+        "wed"
+      ],
+      "ipa": "/ˈmɛri/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀를; 그녀의",
+      "form": "목적격/소유격",
+      "ipa": "/hɜːr/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "father": {
+      "lemma": "father",
+      "pos": "noun",
+      "ko": "아버지",
+      "form": null,
+      "ipa": "/ˈfɑːðər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "unwilling": {
+      "lemma": "unwilling",
+      "pos": "adjective",
+      "ko": "~하고 싶어 하지 않는",
+      "form": null,
+      "synonyms": [
+        "reluctant"
+      ],
+      "ipa": "/ənˈwɪlɪŋ/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(딸을 시집) 보내다, 주다",
+      "form": null,
+      "synonyms": [
+        "hand over"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 그토록; (접속사) 그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "fearsome": {
+      "lemma": "fearsome",
+      "pos": "adjective",
+      "ko": "무시무시한, 무서운",
+      "form": null,
+      "synonyms": [
+        "frightening",
+        "scary"
+      ],
+      "ipa": "/ˈfɪrsəm/"
+    },
+    "husband": {
+      "lemma": "husband",
+      "pos": "noun",
+      "ko": "남편",
+      "form": null,
+      "ipa": "/ˈhʌzbənd/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "adverb",
+      "ko": "그런데도, 그렇지만",
+      "form": null,
+      "synonyms": [
+        "still"
+      ],
+      "ipa": "/jɛt/"
+    },
+    "didn't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 않았다",
+      "form": "줄임말(did not)",
+      "ipa": "/ˈdɪdənt/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": null,
+      "synonyms": [
+        "wish"
+      ],
+      "ipa": "/wɑːnt/"
+    },
+    "offend": {
+      "lemma": "offend",
+      "pos": "verb",
+      "ko": "기분을 상하게 하다",
+      "form": null,
+      "synonyms": [
+        "upset",
+        "insult"
+      ],
+      "ipa": "/əˈfɛnd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "hit": {
+      "lemma": "hit",
+      "pos": "verb",
+      "ko": "(hit upon) 문득 생각해 내다",
+      "form": "과거형",
+      "synonyms": [
+        "think of"
+      ],
+      "ipa": "/hɪt/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "following": {
+      "lemma": "following",
+      "pos": "adjective",
+      "ko": "다음의, 다음과 같은",
+      "form": null,
+      "synonyms": [
+        "next"
+      ],
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "expedient": {
+      "lemma": "expedient",
+      "pos": "noun",
+      "ko": "방편, 묘책",
+      "form": null,
+      "synonyms": [
+        "plan",
+        "trick",
+        "measure"
+      ],
+      "ipa": "/ɪkˈspiːdiənt/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다",
+      "form": "과거형",
+      "ipa": "/wɛnt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "say",
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": null,
+      "synonyms": [
+        "believe"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": null,
+      "synonyms": [
+        "become"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은, 훌륭한",
+      "form": null,
+      "synonyms": [
+        "fine"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "cannot": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "부정형(can not)",
+      "ipa": "/ˈkænɑt/"
+    },
+    "consent": {
+      "lemma": "consent",
+      "pos": "verb",
+      "ko": "동의하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "agree",
+        "allow"
+      ],
+      "ipa": "/kənˈsɛnt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의, 너희의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "union": {
+      "lemma": "union",
+      "pos": "noun",
+      "ko": "결합, 결혼",
+      "form": null,
+      "synonyms": [
+        "marriage"
+      ],
+      "ipa": "/ˈjuːnjən/"
+    },
+    "unless": {
+      "lemma": "unless",
+      "pos": "conjunction",
+      "ko": "~하지 않으면",
+      "form": null,
+      "ipa": "/ənˈlɛs/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "allow"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "draw": {
+      "lemma": "draw",
+      "pos": "verb",
+      "ko": "(이를) 뽑다",
+      "form": null,
+      "synonyms": [
+        "pull",
+        "extract"
+      ],
+      "ipa": "/drɔː/"
+    },
+    "teeth": {
+      "lemma": "tooth",
+      "pos": "noun",
+      "ko": "이, 이빨",
+      "form": "복수형",
+      "ipa": "/tiːθ/"
+    },
+    "pare": {
+      "lemma": "pare",
+      "pos": "verb",
+      "ko": "(손톱을) 깎다, 다듬다",
+      "form": null,
+      "synonyms": [
+        "trim",
+        "cut"
+      ],
+      "ipa": "/pɛr/"
+    },
+    "nails": {
+      "lemma": "nail",
+      "pos": "noun",
+      "ko": "발톱, 손톱",
+      "form": "복수형",
+      "synonyms": [
+        "claw"
+      ],
+      "ipa": "/neɪlz/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재형",
+      "ipa": "/ɪz/"
+    },
+    "terribly": {
+      "lemma": "terribly",
+      "pos": "adverb",
+      "ko": "몹시, 지독히",
+      "form": null,
+      "synonyms": [
+        "very",
+        "awfully"
+      ],
+      "ipa": "/ˈtɛrəbli/"
+    },
+    "afraid": {
+      "lemma": "afraid",
+      "pos": "adjective",
+      "ko": "무서워하는, 두려워하는",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "frightened"
+      ],
+      "ipa": "/əˈfreɪd/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을 (이빨과 발톱)",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "매우, 많이",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서; ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "readily": {
+      "lemma": "readily",
+      "pos": "adverb",
+      "ko": "선뜻, 기꺼이",
+      "form": null,
+      "synonyms": [
+        "willingly",
+        "gladly"
+      ],
+      "ipa": "/ˈrɛdəli/"
+    },
+    "agreed": {
+      "lemma": "agree",
+      "pos": "verb",
+      "ko": "동의했다",
+      "form": "과거형",
+      "synonyms": [
+        "consent"
+      ],
+      "ipa": "/əˈɡriːd/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다, ~하기로 하다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "done": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다, 행하다",
+      "form": "과거분사",
+      "synonyms": [
+        "carry out"
+      ],
+      "ipa": "/dʌn/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "일단 (when once: 일단 ~하자)",
+      "form": null,
+      "ipa": "/wʌns/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "synonyms": [
+        "but"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "thus": {
+      "lemma": "thus",
+      "pos": "adverb",
+      "ko": "그렇게, 이와 같이",
+      "form": null,
+      "synonyms": [
+        "so"
+      ],
+      "ipa": "/ðʌs/"
+    },
+    "disarmed": {
+      "lemma": "disarm",
+      "pos": "verb",
+      "ko": "무장을 해제하다",
+      "form": "과거분사",
+      "synonyms": [
+        "weaken"
+      ],
+      "ipa": "/dɪˈsɑːrmd/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상 ~않다",
+      "form": "비교급",
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "drove": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(drive away) 몰아내다, 쫓아내다",
+      "form": "과거형",
+      "synonyms": [
+        "chase",
+        "force"
+      ],
+      "ipa": "/droʊv/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떠나서",
+      "form": null,
+      "ipa": "/əˈweɪ/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "club": {
+      "lemma": "club",
+      "pos": "noun",
+      "ko": "곤봉, 몽둥이",
+      "form": null,
+      "synonyms": [
+        "stick",
+        "cudgel"
+      ],
+      "ipa": "/klʌb/"
+    }
+  }
+}
