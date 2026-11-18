@@ -145,7 +145,7 @@ test('3. 플래시카드 자동 넘김 2초 · 일시정지 · 탭 이동 시 �
   const t0 = Date.now();
   await page.getByTestId('flash-play').click();
   await expect(page.getByTestId('flash-full')).toBeVisible(); // 화면을 꽉 채움
-  await expect(page.getByTestId('flash-full').getByRole('button')).toHaveCount(5); // 카드 + 몰라요·헷갈려요·알아요 + 정지
+  await expect(page.getByTestId('flash-full').getByRole('button')).toHaveCount(8); // 위: 이전·일시정지·다음 / 카드 / 몰라요·헷갈려요·알아요 / 정지
   await expect(idx).toHaveText('2 / 5', { timeout: 4000 });
   const dt = Date.now() - t0;
   expect(dt).toBeGreaterThan(1500);

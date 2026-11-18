@@ -156,6 +156,8 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
     '1': () => void classify('known'), '2': () => void classify('confused'), '3': () => void classify('unknown'),
   }, [i, n, auto, card]);
   const swipe = useSwipe({ right: () => void classify('known'), left: () => void classify('unknown'), up: () => void classify('confused'), tap: tapCard });
+  // 자동 재생 중 밀기: 기록만(넘기지 않음). 왼쪽 = 몰라요, 위 = 헷갈려요, 오른쪽 = 알아요
+  const swipeFull = useSwipe({ right: () => void mark('known'), left: () => void mark('unknown'), up: () => void mark('confused'), tap: tapCard });
 
   if (n === 0) return <p className={s.empty}>카드가 없어요. 범위나 필터를 바꿔 보세요.</p>;
 
@@ -192,8 +194,13 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
       <div data-testid="flash-full" role="dialog" aria-label="플래시카드 자동 재생"
         style={{ position: 'fixed', inset: 0, zIndex: 80, background: 'var(--bg)', display: 'flex', flexDirection: 'column', gap: 10,
           padding: 'calc(env(safe-area-inset-top) + 12px) 12px calc(env(safe-area-inset-bottom) + 12px)' }}>
-        <span className={s.badgeAccent} data-testid="flash-index" aria-live="polite" style={{ alignSelf: 'flex-start' }}>{i + 1} / {n}</span>
-        <div className={`${s.card} ${w.flash}`} {...swipe} role="button" tabIndex={0} data-testid="flash-card"
+        <div className={s.row} style={{ flexWrap: 'nowrap', gap: 6 }}>
+          <span className={s.badgeAccent} data-testid="flash-index" aria-live="polite" style={{ flex: 'none' }}>{i + 1} / {n}</span>
+          <button type="button" className={s.btn} onClick={prev} disabled={i === 0} aria-label="이전 카드" data-testid="flash-full-prev" style={{ flex: 1, justifyContent: 'center' }}>‹ 이전</button>
+          <button type="button" className={paused ? s.primary : s.btn} onClick={() => setPaused((p) => !p)} data-testid="flash-full-pause" style={{ flex: 1.3, justifyContent: 'center' }}>{paused ? '▶ 계속' : '⏸ 일시정지'}</button>
+          <button type="button" className={s.btn} onClick={next} aria-label="다음 카드" data-testid="flash-full-next" style={{ flex: 1, justifyContent: 'center' }}>다음 ›</button>
+        </div>
+        <div className={`${s.card} ${w.flash}`} {...swipeFull} role="button" tabIndex={0} data-testid="flash-card"
           aria-label={paused ? '일시정지됨. 탭하면 계속' : '탭하면 일시정지'} style={{ flex: 1, minHeight: 0, overflow: 'auto', fontSize: '1.15em' }}>
           {front()}
           {(flipped || mode === 'both') && mode !== 'cloze' ? back() : null}

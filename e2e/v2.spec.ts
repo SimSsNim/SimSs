@@ -1146,6 +1146,21 @@ test('v48. 메뉴를 옮겨 다녀도 보던 하위 탭(복습 → 플래시카�
   await page.getByTestId('flash-full').getByTestId('flash-known').click();
   await expect(page.getByTestId('flash-full').getByTestId('flash-known')).toHaveAttribute('aria-pressed', 'true');
   await expect(idx).toHaveText(before!);
+  // 카드를 왼쪽으로 밀기 = 몰라요(넘기지 않음)
+  const cb = (await page.getByTestId('flash-full').getByTestId('flash-card').boundingBox())!;
+  await page.mouse.move(cb.x + cb.width * 0.8, cb.y + cb.height / 2);
+  await page.mouse.down();
+  for (let k = 1; k <= 6; k++) await page.mouse.move(cb.x + cb.width * (0.8 - k * 0.1), cb.y + cb.height / 2);
+  await page.mouse.up();
+  await expect(page.getByTestId('flash-full').getByTestId('flash-unknown')).toHaveAttribute('aria-pressed', 'true');
+  await expect(idx).toHaveText(before!);
+  // 위쪽 버튼: 일시정지·다음·이전
+  await page.getByTestId('flash-full-pause').click();
+  await expect(page.getByTestId('flash-paused')).toBeVisible();
+  await page.getByTestId('flash-full-next').click();
+  await expect(idx).not.toHaveText(before!);
+  await page.getByTestId('flash-full-prev').click();
+  await expect(idx).toHaveText(before!);
   await page.getByTestId('flash-stop').click();
   // 스크롤해 둔 자리에서 자동 재생 → 정지하면 그 자리로(맨 위가 아니라)
   await page.setViewportSize({ width: page.viewportSize()!.width, height: 480 });
