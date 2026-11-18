@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import s from '../styles/ui.module.css';
 import w from '../styles/words.module.css';
 import { answerWord, type WordItem } from '../lib/words';
@@ -45,6 +45,8 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
   const [loop, setLoop] = useState(false);
   const [answered, setAnswered] = useState(0);
   const finishedRef = useRef(false);
+  /** 자동 재생 전 스크롤 위치: 정지하면 그 자리로(전체 화면이 사라지며 맨 위로 튀지 않게) */
+  const savedY = useRef<number | null>(null);
 
   // 카드 목록은 시작할 때 고정(분류해서 필터에서 빠져도 덱이 바뀌지 않게). deckKey 가 바뀌면 새로 만든다.
   const itemsRef = useRef(items);
@@ -98,6 +100,14 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
     return () => window.clearTimeout(t);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [auto, paused, done, i, flipped, twoPhase, st.flashFrontSec, st.flashBackSec, n, loop]);
+
+  useLayoutEffect(() => {
+    if (auto || savedY.current === null) return;
+    const y = savedY.current;
+    savedY.current = null;
+    window.scrollTo(0, y);
+    requestAnimationFrame(() => window.scrollTo(0, y));
+  }, [auto]);
 
   // 앱이 백그라운드로 가면 자동 일시정지
   useEffect(() => {
@@ -163,7 +173,7 @@ export function Flashcards({ items, onFinish, title, deckKey = '' }: { items: Wo
   };
 
   const stop = () => { setAuto(false); setPaused(false); };
-  const start = () => { if (done) { setSeed((x) => x + 1); setAnswered(0); } setAuto(true); setPaused(false); };
+  const start = () => { savedY.current = window.scrollY; if (done) { setSeed((x) => x + 1); setAnswered(0); } setAuto(true); setPaused(false); };
 
   // 자동 재생: 카드가 화면을 꽉 채우고, 아래에는 정지 버튼만
   if (auto && !done && card) {

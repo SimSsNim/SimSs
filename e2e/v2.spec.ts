@@ -1145,4 +1145,13 @@ test('v48. 메뉴를 옮겨 다녀도 보던 하위 탭(복습 → 플래시카�
   await page.getByTestId('flash-full').getByTestId('flash-known').click();
   await expect(idx).not.toHaveText(before!);
   await page.getByTestId('flash-stop').click();
+  // 스크롤해 둔 자리에서 자동 재생 → 정지하면 그 자리로(맨 위가 아니라)
+  await page.setViewportSize({ width: page.viewportSize()!.width, height: 480 });
+  await page.getByTestId('flash-play').scrollIntoViewIfNeeded();
+  const y0 = await page.evaluate(() => Math.round(window.scrollY));
+  expect(y0).toBeGreaterThan(50);
+  await page.getByTestId('flash-play').click();
+  await page.getByTestId('flash-stop').click();
+  await expect.poll(() => page.evaluate(() => Math.round(window.scrollY))).toBeGreaterThan(y0 - 5);
+  await expect(page.getByTestId('flash-play')).toBeInViewport();
 });
