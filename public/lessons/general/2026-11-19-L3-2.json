@@ -1,0 +1,1870 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-19-L3-2",
+  "date": "2026-11-19",
+  "level": 3,
+  "title": "The Swineherd",
+  "titleKo": "돼지치기 왕자",
+  "genre": "fairy-tale",
+  "tags": [
+    "Hans Christian Andersen",
+    "fairy tale",
+    "pride"
+  ],
+  "source": {
+    "work": "The Swineherd (in Andersen's Fairy Tales)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1841,
+    "edition": "Project Gutenberg #1597",
+    "url": "https://www.gutenberg.org/ebooks/1597",
+    "license": "public-domain",
+    "excerptNote": "'The Swineherd' 첫머리 1~7단락 ('There was once a poor Prince'부터 '…beautiful rose came to view.'까지, 244단어). 다음 단락까지 넣으면 255단어라 장미나무가 모습을 드러내는 일곱째 단락에서 끊음. PG #1597 영어 번역 (Gutenberg에 번역자 표기 없음). gutenberg.org 점검 중이라 archive.org에 보관된 같은 전자책(PG #1597, hcaft10.txt)에서 가져왔고, 줄바꿈만 공백 하나로 이음 (따옴표는 원문 그대로 곧은 따옴표 \", 줄표도 원문 그대로 --)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_02_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_02_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/andersens-fairy-tales-by-hc-andersen/",
+    "reader": "Gesine",
+    "durationSec": 687,
+    "startSec": 20,
+    "endSec": 110,
+    "note": "LibriVox 'Andersen's Fairy Tales'(PG #1597 낭독) 2번 트랙 'The Swineherd'(11:26) 중 첫머리. 안내 멘트 뒤 약 0:20~1:50 부분 (단어 수로 어림한 위치)"
+  },
+  "wordCount": 244,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "옛날에 가난한 왕자가 하나 있었는데, 그에게는 왕국이 있었다. 그의 왕국은 아주 작았지만, 그래도 결혼해서 살기에는 충분히 컸다. 그리고 그는 결혼하고 싶었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "황제의 딸에게 \"나와 결혼해 주겠소?\"라고 말한 것은 확실히 꽤 대담한 일이었다. 하지만 그는 정말 그렇게 했다. 그의 이름은 널리 알려져 있었고, \"좋아요!\", \"정말 고마워요.\"라고 대답했을 공주가 백 명은 있었기 때문이다. 이 공주가 뭐라고 했는지 한번 보자."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "들어 보라!"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "마침 왕자의 아버지가 묻힌 곳에 장미나무 한 그루가 자라고 있었다. 그것은 무척 아름다운 장미나무로, 5년에 단 한 번만 꽃을 피웠고, 그때도 꽃을 딱 한 송이만 맺었지만, 그 꽃은 정말 대단한 장미였다! 그 향기가 너무나 달콤해서, 그 향기를 들이마신 사람은 모든 걱정과 슬픔을 잊었다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "게다가 왕자에게는 나이팅게일 한 마리가 있었는데, 그 새는 마치 세상의 모든 아름다운 선율이 그 작은 목 안에 깃들어 있는 것처럼 노래할 수 있었다. 그래서 공주는 그 장미와 나이팅게일을 받게 되었다. 그리하여 그것들은 커다란 은 상자에 담겨 공주에게 보내졌다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "황제는 그것들을 큰 홀로 가져오게 했는데, 그곳에서는 공주가 궁정의 귀부인들과 '손님 놀이'를 하고 있었다. 공주는 선물이 든 상자들을 보자 기뻐서 손뼉을 쳤다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s13",
+        "s14"
+      ],
+      "ko": "\"아, 작은 야옹이라면 좋을 텐데!\" 하고 공주가 말했다. 하지만 아름다운 장미가 핀 장미나무가 모습을 드러냈다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was once a poor Prince, who had a kingdom.",
+      "ko": "옛날에 가난한 왕자가 하나 있었는데, 그에게는 왕국이 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "His kingdom was very small, but still quite large enough to marry upon; and he wished to marry.",
+      "ko": "그의 왕국은 아주 작았지만, 그래도 결혼해서 살기에는 충분히 컸다. 그리고 그는 결혼하고 싶었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "It was certainly rather cool of him to say to the Emperor's daughter, \"Will you have me?\"",
+      "ko": "황제의 딸에게 \"나와 결혼해 주겠소?\"라고 말한 것은 확실히 꽤 대담한 일이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "But so he did; for his name was renowned far and wide; and there were a hundred princesses who would have answered, \"Yes!\"",
+      "ko": "하지만 그는 정말 그렇게 했다. 그의 이름은 널리 알려져 있었고, \"좋아요!\"라고 대답했을 공주가 백 명은 있었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "and \"Thank you kindly.\"",
+      "ko": "그리고 \"정말 고마워요.\"라고 말이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "We shall see what this princess said.",
+      "ko": "이 공주가 뭐라고 했는지 한번 보자.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Listen!",
+      "ko": "들어 보라!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "It happened that where the Prince's father lay buried, there grew a rose tree--a most beautiful rose tree, which blossomed only once in every five years, and even then bore only one flower, but that was a rose!",
+      "ko": "마침 왕자의 아버지가 묻힌 곳에 장미나무 한 그루가 자라고 있었다. 그것은 무척 아름다운 장미나무로, 5년에 단 한 번만 꽃을 피웠고, 그때도 꽃을 딱 한 송이만 맺었지만, 그 꽃은 정말 대단한 장미였다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "It smelt so sweet that all cares and sorrows were forgotten by him who inhaled its fragrance.",
+      "ko": "그 향기가 너무나 달콤해서, 그 향기를 들이마신 사람은 모든 걱정과 슬픔을 잊었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "And furthermore, the Prince had a nightingale, who could sing in such a manner that it seemed as though all sweet melodies dwelt in her little throat.",
+      "ko": "게다가 왕자에게는 나이팅게일 한 마리가 있었는데, 그 새는 마치 세상의 모든 아름다운 선율이 그 작은 목 안에 깃들어 있는 것처럼 노래할 수 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "So the Princess was to have the rose, and the nightingale; and they were accordingly put into large silver caskets, and sent to her.",
+      "ko": "그래서 공주는 그 장미와 나이팅게일을 받게 되었다. 그리하여 그것들은 커다란 은 상자에 담겨 공주에게 보내졌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "The Emperor had them brought into a large hall, where the Princess was playing at \"Visiting,\" with the ladies of the court; and when she saw the caskets with the presents, she clapped her hands for joy.",
+      "ko": "황제는 그것들을 큰 홀로 가져오게 했는데, 그곳에서는 공주가 궁정의 귀부인들과 '손님 놀이'를 하고 있었다. 공주는 선물이 든 상자들을 보자 기뻐서 손뼉을 쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "\"Ah, if it were but a little pussy-cat!\"",
+      "ko": "\"아, 작은 야옹이라면 좋을 텐데!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p7",
+      "en": "said she; but the rose tree, with its beautiful rose came to view.",
+      "ko": "하고 공주가 말했다. 하지만 아름다운 장미가 핀 장미나무가 모습을 드러냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "renowned",
+      "pos": "adjective",
+      "meaningKo": "유명한, 명성 있는",
+      "ipa": "/rɪˈnaʊnd/",
+      "synonyms": [
+        "famous",
+        "celebrated",
+        "well-known"
+      ],
+      "matchText": "renowned",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The city is renowned for its beautiful old bridges.",
+        "ko": "그 도시는 아름다운 옛 다리들로 유명하다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "blossom",
+      "pos": "verb",
+      "meaningKo": "꽃이 피다",
+      "ipa": "/ˈblɑsəm/",
+      "synonyms": [
+        "bloom",
+        "flower"
+      ],
+      "matchText": "blossomed",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The cherry trees blossom in early April.",
+        "ko": "벚나무는 4월 초에 꽃이 핀다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "fragrance",
+      "pos": "noun",
+      "meaningKo": "향기, 향",
+      "ipa": "/ˈfreɪɡrəns/",
+      "synonyms": [
+        "scent",
+        "perfume",
+        "aroma"
+      ],
+      "matchText": "fragrance",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The fragrance of fresh bread filled the kitchen.",
+        "ko": "갓 구운 빵 향기가 부엌을 가득 채웠다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "dwell",
+      "pos": "verb",
+      "meaningKo": "살다, 깃들다 (과거형 dwelt)",
+      "ipa": "/dwɛl/",
+      "synonyms": [
+        "live",
+        "reside",
+        "stay"
+      ],
+      "matchText": "dwelt",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Long ago, a wise old man dwelt in this forest.",
+        "ko": "오래전, 지혜로운 노인이 이 숲에 살았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "casket",
+      "pos": "noun",
+      "meaningKo": "(보석 등을 넣는) 작은 상자, 함",
+      "ipa": "/ˈkæskɪt/",
+      "synonyms": [
+        "box",
+        "chest",
+        "case"
+      ],
+      "matchText": "caskets",
+      "sentenceId": "s11",
+      "example": {
+        "en": "She kept her mother's ring in a small wooden casket.",
+        "ko": "그녀는 어머니의 반지를 작은 나무 상자에 보관했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "certainly rather cool of him",
+          "role": "C",
+          "sub": false,
+          "ko": "확실히 그로서는 꽤 대담한 일"
+        },
+        {
+          "text": "to say to the Emperor's daughter,",
+          "role": "S",
+          "sub": false,
+          "ko": "황제의 딸에게 말한 것은 (진주어)"
+        },
+        {
+          "text": "\"Will you have me?\"",
+          "role": "O",
+          "sub": true,
+          "ko": "\"나와 결혼해 주겠소?\"라고"
+        }
+      ],
+      "skeleton": "It was cool (of him) to say ~",
+      "explanation": "It은 형식상의 주어(가주어)이고, 진짜 주어는 to say to the Emperor's daughter, \"Will you have me?\"(황제의 딸에게 '나와 결혼해 주겠소?'라고 말한 것)이다. 'It is + 형용사 + of 사람 + to부정사'는 사람의 성격·태도를 평가할 때 쓰는 형태로, of him은 '그가 그렇게 한 것은'이라는 뜻이다. 여기서 cool은 '시원한'이 아니라 '뻔뻔할 만큼 대담한'이라는 뜻이고, have me는 '나를 (남편으로) 받아들이다'라는 뜻이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은(장미는)"
+        },
+        {
+          "text": "smelt",
+          "role": "V",
+          "sub": false,
+          "ko": "냄새가 났다"
+        },
+        {
+          "text": "so sweet",
+          "role": "C",
+          "sub": false,
+          "ko": "너무나 달콤한"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "all cares and sorrows",
+          "role": "S",
+          "sub": true,
+          "ko": "모든 걱정과 슬픔이"
+        },
+        {
+          "text": "were forgotten",
+          "role": "V",
+          "sub": true,
+          "ko": "잊혔다"
+        },
+        {
+          "text": "by him",
+          "role": "M",
+          "sub": true,
+          "ko": "그 사람에 의해"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 사람은)"
+        },
+        {
+          "text": "inhaled",
+          "role": "V",
+          "sub": true,
+          "ko": "들이마셨다"
+        },
+        {
+          "text": "its fragrance.",
+          "role": "O",
+          "sub": true,
+          "ko": "그 향기를"
+        }
+      ],
+      "skeleton": "It smelt so sweet that ~ were forgotten",
+      "explanation": "'so + 형용사 + that ~'은 '너무 ~해서 …하다'라는 뜻이다. smell(냄새가 나다)은 뒤에 형용사 보어 sweet가 오는 감각동사이고, smelt는 smell의 영국식 과거형이다. that절은 수동태(were forgotten by ~)로, '그 향기를 들이마신 사람에 의해 모든 걱정과 슬픔이 잊혔다', 곧 '향기를 맡은 사람은 근심을 다 잊었다'는 뜻이다. him who ~는 '~하는 사람'이라는 옛 문체 표현이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "The Emperor",
+          "role": "S",
+          "sub": false,
+          "ko": "황제는"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": false,
+          "ko": "~하게 했다"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "sub": false,
+          "ko": "그것들을"
+        },
+        {
+          "text": "brought into a large hall,",
+          "role": "OC",
+          "sub": false,
+          "ko": "큰 홀로 가져오도록"
+        },
+        {
+          "text": "where",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그곳에서"
+        },
+        {
+          "text": "the Princess",
+          "role": "S",
+          "sub": true,
+          "ko": "공주가"
+        },
+        {
+          "text": "was playing at \"Visiting,\"",
+          "role": "V",
+          "sub": true,
+          "ko": "'손님 놀이'를 하고 있었다"
+        },
+        {
+          "text": "with the ladies of the court;",
+          "role": "M",
+          "sub": true,
+          "ko": "궁정의 귀부인들과"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "saw",
+          "role": "V",
+          "sub": true,
+          "ko": "보았다"
+        },
+        {
+          "text": "the caskets with the presents,",
+          "role": "O",
+          "sub": true,
+          "ko": "선물이 든 상자들을"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "clapped",
+          "role": "V",
+          "sub": false,
+          "ko": "쳤다"
+        },
+        {
+          "text": "her hands",
+          "role": "O",
+          "sub": false,
+          "ko": "손뼉을"
+        },
+        {
+          "text": "for joy.",
+          "role": "M",
+          "sub": false,
+          "ko": "기뻐서"
+        }
+      ],
+      "skeleton": "The Emperor had them brought ~; and she clapped her hands",
+      "explanation": "'have + 목적어 + 과거분사'는 '(남을 시켜) 목적어가 ~되게 하다'라는 사역 표현이다. 상자들이 '옮겨지는' 것이므로 과거분사 brought를 썼다. where는 a large hall을 꾸미는 관계부사로 '그런데 그 홀에서'라는 뜻이다. 세미콜론 뒤 and 다음에는 when이 이끄는 부사절(상자를 보았을 때)이 먼저 오고, 주절 she clapped her hands for joy가 이어진다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "형용사 + enough + to부정사: ~할 만큼 충분히 …한",
+      "tags": [
+        "to부정사",
+        "어순"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "large enough to marry upon"
+      ],
+      "explanation": "enough가 형용사나 부사를 꾸밀 때는 반드시 그 뒤에 온다(large enough, ○ / enough large, ×). 뒤에 to부정사가 붙으면 '~할 만큼 충분히 …한'이 된다. marry upon은 '~을 밑천 삼아 결혼하다'라는 옛 표현으로, 왕국이 작아도 결혼해서 살 만큼은 된다는 뜻이다. 앞의 but still quite(그래도 꽤)와 함께 '작지만 그래도 충분하다'는 대조를 만든다.",
+      "example": {
+        "en": "She is old enough to travel alone.",
+        "ko": "그녀는 혼자 여행할 만큼 나이가 들었다."
+      },
+      "note": "명사를 꾸밀 때는 enough가 앞에 온다: enough money to buy a car (차를 살 만큼 충분한 돈)."
+    },
+    {
+      "id": "g2",
+      "title": "seem as though ~ : 마치 ~인 것처럼 보이다",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "it seemed as though",
+        "dwelt"
+      ],
+      "explanation": "as though(= as if)는 '마치 ~인 것처럼'이라는 뜻의 접속사다. it seemed as though ~는 '마치 ~인 것 같았다'로, 나이팅게일의 노래가 어찌나 아름다운지 세상의 모든 달콤한 선율이 그 작은 목 안에 살고 있는 것 같았다는 비유다. 앞의 in such a manner that(~할 정도로 그런 방식으로)과 이어져 노래 솜씨를 강조한다. dwelt는 dwell(살다, 깃들다)의 과거형이다.",
+      "example": {
+        "en": "It seemed as though the rain would never stop.",
+        "ko": "마치 비가 절대 그치지 않을 것 같았다."
+      },
+      "note": "일상 영어에서는 as though보다 as if를 더 자주 쓴다: It looks as if it's going to rain."
+    },
+    {
+      "id": "g3",
+      "title": "If + 주어 + were but ~! : ~이기만 하다면 좋을 텐데 (가정법 과거)",
+      "tags": [
+        "가정법"
+      ],
+      "sentenceId": "s13",
+      "highlight": [
+        "if it were but a little pussy-cat"
+      ],
+      "explanation": "현재 사실과 반대되는 바람을 말할 때 가정법 과거(If + 주어 + were)를 쓴다. 주어가 it이어도 가정법에서는 was 대신 were를 쓴다. 여기서 but은 '그러나'가 아니라 only(단지, ~이기만)라는 뜻의 옛 표현이다. 결과절 없이 if절만 감탄문처럼 써서 '아, 그게 작은 고양이이기만 하다면!' 하는 소망을 나타낸다. 선물이 고양이가 아니라는 것을 아는 공주의 철없는 바람이 드러난다.",
+      "example": {
+        "en": "If I were but a little taller!",
+        "ko": "내 키가 조금만 더 크기만 하다면!"
+      },
+      "note": "요즘 영어로는 If only it were a little cat! 이나 I wish it were a little cat. 으로 말한다."
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(there was: ~이 있었다)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때; 한 번 (once in every five years: 5년에 한 번)",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "one time"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "penniless"
+      ],
+      "ipa": "/puːr/"
+    },
+    "prince": {
+      "lemma": "prince",
+      "pos": "noun",
+      "ko": "왕자",
+      "form": null,
+      "synonyms": [
+        "royal son"
+      ],
+      "ipa": "/prɪns/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다; (have+목적어+p.p.) ~하게 했다",
+      "form": "과거형",
+      "synonyms": [
+        "owned",
+        "possessed"
+      ],
+      "ipa": "/hæd/"
+    },
+    "kingdom": {
+      "lemma": "kingdom",
+      "pos": "noun",
+      "ko": "왕국",
+      "form": null,
+      "synonyms": [
+        "realm",
+        "domain"
+      ],
+      "ipa": "/ˈkɪŋdəm/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주, 매우",
+      "form": null,
+      "synonyms": [
+        "extremely",
+        "really"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "tiny"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나; (if it were but ~) 단지, ~이기만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "그래도, 그럼에도",
+      "form": null,
+      "synonyms": [
+        "nevertheless",
+        "yet"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "꽤, 상당히",
+      "form": null,
+      "synonyms": [
+        "fairly",
+        "rather"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "big",
+        "sizable"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adverb",
+      "ko": "(형용사 뒤에서) 충분히",
+      "form": null,
+      "synonyms": [
+        "sufficiently"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; (to부정사) ~하는 것, ~할",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "marry": {
+      "lemma": "marry",
+      "pos": "verb",
+      "ko": "결혼하다 (marry upon: ~을 밑천으로 결혼하다)",
+      "form": null,
+      "synonyms": [
+        "wed"
+      ],
+      "ipa": "/ˈmɛri/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에 기대어, ~을 바탕으로 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "wished": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "바랐다, 원했다",
+      "form": "과거형",
+      "synonyms": [
+        "wanted",
+        "desired"
+      ],
+      "ipa": "/wɪʃt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것; (가주어) 그것은",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "certainly": {
+      "lemma": "certainly",
+      "pos": "adverb",
+      "ko": "확실히, 분명히",
+      "form": null,
+      "synonyms": [
+        "surely",
+        "definitely"
+      ],
+      "ipa": "/ˈsɜːrtənli/"
+    },
+    "rather": {
+      "lemma": "rather",
+      "pos": "adverb",
+      "ko": "꽤, 다소",
+      "form": null,
+      "synonyms": [
+        "fairly",
+        "quite"
+      ],
+      "ipa": "/ˈræðər/"
+    },
+    "cool": {
+      "lemma": "cool",
+      "pos": "adjective",
+      "ko": "뻔뻔할 만큼 대담한, 태연한",
+      "form": null,
+      "synonyms": [
+        "bold",
+        "daring",
+        "impudent"
+      ],
+      "ipa": "/kuːl/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; (cool of him) 그가 ~하다니",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게; (him who ~) ~하는 사람",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "emperor's": {
+      "lemma": "emperor",
+      "pos": "noun",
+      "ko": "황제의",
+      "form": "소유격",
+      "synonyms": [
+        "monarch's",
+        "ruler's"
+      ],
+      "ipa": "/ˈɛmpərərz/"
+    },
+    "daughter": {
+      "lemma": "daughter",
+      "pos": "noun",
+      "ko": "딸",
+      "form": null,
+      "synonyms": [
+        "girl",
+        "child"
+      ],
+      "ipa": "/ˈdɔːtər/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "(Will you ~?) ~해 주겠소?",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 그대",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(배우자로) 받아들이다, 맞이하다",
+      "form": null,
+      "synonyms": [
+        "accept",
+        "take",
+        "marry"
+      ],
+      "ipa": "/hæv/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게; 너무나 (so sweet); 그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "했다 (so he did: 그는 정말 그렇게 했다)",
+      "form": "과거형",
+      "synonyms": [
+        "acted"
+      ],
+      "ipa": "/dɪd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이므로; (for joy) ~으로, ~해서",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "name": {
+      "lemma": "name",
+      "pos": "noun",
+      "ko": "이름, 명성",
+      "form": null,
+      "synonyms": [
+        "reputation",
+        "fame"
+      ],
+      "ipa": "/neɪm/"
+    },
+    "renowned": {
+      "lemma": "renowned",
+      "pos": "adjective",
+      "ko": "유명한, 명성 있는",
+      "form": null,
+      "synonyms": [
+        "famous",
+        "celebrated"
+      ],
+      "ipa": "/rɪˈnaʊnd/"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "멀리 (far and wide: 널리, 방방곡곡)",
+      "form": null,
+      "synonyms": [
+        "widely"
+      ],
+      "ipa": "/fɑːr/"
+    },
+    "wide": {
+      "lemma": "wide",
+      "pos": "adverb",
+      "ko": "넓게 (far and wide: 널리)",
+      "form": null,
+      "synonyms": [
+        "broadly",
+        "everywhere"
+      ],
+      "ipa": "/waɪd/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다; (가정법) ~라면",
+      "form": "과거형",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/wɜːr/"
+    },
+    "hundred": {
+      "lemma": "hundred",
+      "pos": "number",
+      "ko": "백(100)",
+      "form": null,
+      "ipa": "/ˈhʌndrəd/"
+    },
+    "princesses": {
+      "lemma": "princess",
+      "pos": "noun",
+      "ko": "공주들",
+      "form": "복수형",
+      "synonyms": [
+        "royal daughters"
+      ],
+      "ipa": "/ˈprɪnsɛsɪz/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "(would have p.p.) ~했을 것이다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "answered": {
+      "lemma": "answer",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거분사",
+      "synonyms": [
+        "replied",
+        "responded"
+      ],
+      "ipa": "/ˈænsərd/"
+    },
+    "yes": {
+      "lemma": "yes",
+      "pos": "interjection",
+      "ko": "네, 좋아요",
+      "form": null,
+      "ipa": "/jɛs/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다 (Thank you: 고마워요)",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "kindly": {
+      "lemma": "kindly",
+      "pos": "adverb",
+      "ko": "친절하게, 진심으로 (Thank you kindly: 정말 고마워요)",
+      "form": null,
+      "synonyms": [
+        "warmly",
+        "heartily"
+      ],
+      "ipa": "/ˈkaɪndli/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (We shall see: 한번 보자)",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 알아보다",
+      "form": null,
+      "synonyms": [
+        "find out",
+        "watch"
+      ],
+      "ipa": "/siː/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇, ~한 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "princess": {
+      "lemma": "princess",
+      "pos": "noun",
+      "ko": "공주",
+      "form": null,
+      "synonyms": [
+        "royal daughter"
+      ],
+      "ipa": "/ˈprɪnsɛs/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "listen": {
+      "lemma": "listen",
+      "pos": "verb",
+      "ko": "들어 보라, 귀 기울이다",
+      "form": null,
+      "synonyms": [
+        "hear",
+        "pay attention"
+      ],
+      "ipa": "/ˈlɪsən/"
+    },
+    "happened": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "(It happened that ~) 마침 ~했다, 일어났다",
+      "form": "과거형",
+      "synonyms": [
+        "occurred",
+        "chanced"
+      ],
+      "ipa": "/ˈhæpənd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(명사절·결과절을 이끎) ~라는 것, 그래서 ~하다",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "~하는 곳에; (관계부사) 그곳에서",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "prince's": {
+      "lemma": "prince",
+      "pos": "noun",
+      "ko": "왕자의",
+      "form": "소유격",
+      "synonyms": [
+        "royal son's"
+      ],
+      "ipa": "/ˈprɪnsɪz/"
+    },
+    "father": {
+      "lemma": "father",
+      "pos": "noun",
+      "ko": "아버지",
+      "form": null,
+      "synonyms": [
+        "dad",
+        "parent"
+      ],
+      "ipa": "/ˈfɑːðər/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "누워 있었다 (lay buried: 묻혀 있었다)",
+      "form": "과거형",
+      "synonyms": [
+        "rested",
+        "remained"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "buried": {
+      "lemma": "bury",
+      "pos": "verb",
+      "ko": "묻힌, 매장된",
+      "form": "과거분사",
+      "synonyms": [
+        "interred",
+        "entombed"
+      ],
+      "ipa": "/ˈbɛrid/"
+    },
+    "grew": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자랐다",
+      "form": "과거형",
+      "synonyms": [
+        "sprouted",
+        "developed"
+      ],
+      "ipa": "/ɡruː/"
+    },
+    "rose": {
+      "lemma": "rose",
+      "pos": "noun",
+      "ko": "장미",
+      "form": null,
+      "synonyms": [
+        "bloom"
+      ],
+      "ipa": "/roʊz/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무 (rose tree: 장미나무)",
+      "form": null,
+      "synonyms": [
+        "bush",
+        "shrub"
+      ],
+      "ipa": "/triː/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "매우, 무척",
+      "form": null,
+      "synonyms": [
+        "very",
+        "extremely"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것은, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "blossomed": {
+      "lemma": "blossom",
+      "pos": "verb",
+      "ko": "꽃이 피었다",
+      "form": "과거형",
+      "synonyms": [
+        "bloomed",
+        "flowered"
+      ],
+      "ipa": "/ˈblɑːsəmd/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, 단지",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, 매 ~ (once in every five years: 5년에 한 번)",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "다섯(5)",
+      "form": null,
+      "ipa": "/faɪv/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "synonyms": [
+        "twelvemonths"
+      ],
+      "ipa": "/jɪrz/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~도",
+      "form": null,
+      "synonyms": [
+        "still"
+      ],
+      "ipa": "/ˈiːvɪn/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때",
+      "form": null,
+      "synonyms": [
+        "at that time"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "bore": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(꽃·열매를) 맺었다",
+      "form": "과거형",
+      "synonyms": [
+        "produced",
+        "yielded"
+      ],
+      "ipa": "/bɔːr/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "한, 하나의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "flower": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": null,
+      "synonyms": [
+        "bloom",
+        "blossom"
+      ],
+      "ipa": "/ˈflaʊər/"
+    },
+    "smelt": {
+      "lemma": "smell",
+      "pos": "verb",
+      "ko": "냄새가 났다 (smelt의 미국식은 smelled)",
+      "form": "과거형",
+      "synonyms": [
+        "scented"
+      ],
+      "ipa": "/smɛlt/"
+    },
+    "sweet": {
+      "lemma": "sweet",
+      "pos": "adjective",
+      "ko": "(향기가) 달콤한, 향긋한",
+      "form": null,
+      "synonyms": [
+        "fragrant",
+        "pleasant"
+      ],
+      "ipa": "/swiːt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "cares": {
+      "lemma": "care",
+      "pos": "noun",
+      "ko": "걱정, 근심",
+      "form": "복수형",
+      "synonyms": [
+        "worries",
+        "troubles"
+      ],
+      "ipa": "/kɛrz/"
+    },
+    "sorrows": {
+      "lemma": "sorrow",
+      "pos": "noun",
+      "ko": "슬픔",
+      "form": "복수형",
+      "synonyms": [
+        "griefs",
+        "sadness"
+      ],
+      "ipa": "/ˈsɑːroʊz/"
+    },
+    "forgotten": {
+      "lemma": "forget",
+      "pos": "verb",
+      "ko": "잊힌",
+      "form": "과거분사",
+      "synonyms": [
+        "unremembered",
+        "left behind"
+      ],
+      "ipa": "/fərˈɡɑːtən/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "inhaled": {
+      "lemma": "inhale",
+      "pos": "verb",
+      "ko": "들이마셨다",
+      "form": "과거형",
+      "synonyms": [
+        "breathed in",
+        "sniffed"
+      ],
+      "ipa": "/ˌɪnˈheɪld/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "fragrance": {
+      "lemma": "fragrance",
+      "pos": "noun",
+      "ko": "향기",
+      "form": null,
+      "synonyms": [
+        "scent",
+        "perfume",
+        "aroma"
+      ],
+      "ipa": "/ˈfreɪɡrəns/"
+    },
+    "furthermore": {
+      "lemma": "furthermore",
+      "pos": "adverb",
+      "ko": "게다가, 더욱이",
+      "form": null,
+      "synonyms": [
+        "moreover",
+        "besides",
+        "also"
+      ],
+      "ipa": "/ˈfɜːrðərˌmɔːr/"
+    },
+    "nightingale": {
+      "lemma": "nightingale",
+      "pos": "noun",
+      "ko": "나이팅게일 (밤에 고운 소리로 우는 작은 새)",
+      "form": null,
+      "synonyms": [
+        "songbird"
+      ],
+      "ipa": "/ˈnaɪtɪŋɡeɪl/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "sing": {
+      "lemma": "sing",
+      "pos": "verb",
+      "ko": "노래하다",
+      "form": null,
+      "synonyms": [
+        "chant",
+        "warble"
+      ],
+      "ipa": "/sɪŋ/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그러한, 그런 (in such a manner that: ~할 정도로)",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "manner": {
+      "lemma": "manner",
+      "pos": "noun",
+      "ko": "방식",
+      "form": null,
+      "synonyms": [
+        "way",
+        "fashion",
+        "style"
+      ],
+      "ipa": "/ˈmænər/"
+    },
+    "seemed": {
+      "lemma": "seem",
+      "pos": "verb",
+      "ko": "~인 것 같았다, ~처럼 보였다",
+      "form": "과거형",
+      "synonyms": [
+        "appeared",
+        "looked"
+      ],
+      "ipa": "/siːmd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as though) 마치 ~인 것처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "conjunction",
+      "ko": "(as though) 마치 ~인 것처럼",
+      "form": null,
+      "ipa": "/ðoʊ/"
+    },
+    "melodies": {
+      "lemma": "melody",
+      "pos": "noun",
+      "ko": "선율, 가락",
+      "form": "복수형",
+      "synonyms": [
+        "tunes",
+        "songs"
+      ],
+      "ipa": "/ˈmɛlədiz/"
+    },
+    "dwelt": {
+      "lemma": "dwell",
+      "pos": "verb",
+      "ko": "살았다, 깃들어 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "lived",
+        "resided"
+      ],
+      "ipa": "/dwɛlt/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "determiner",
+      "ko": "그녀의",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "throat": {
+      "lemma": "throat",
+      "pos": "noun",
+      "ko": "목, 목구멍",
+      "form": null,
+      "synonyms": [
+        "neck",
+        "voice"
+      ],
+      "ipa": "/θroʊt/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "accordingly": {
+      "lemma": "accordingly",
+      "pos": "adverb",
+      "ko": "그에 따라, 그리하여",
+      "form": null,
+      "synonyms": [
+        "therefore",
+        "consequently"
+      ],
+      "ipa": "/əˈkɔːrdɪŋli/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "넣어진, 놓인",
+      "form": "과거분사",
+      "synonyms": [
+        "placed",
+        "packed"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "silver": {
+      "lemma": "silver",
+      "pos": "adjective",
+      "ko": "은으로 만든, 은(銀)의",
+      "form": null,
+      "synonyms": [
+        "silvery"
+      ],
+      "ipa": "/ˈsɪlvər/"
+    },
+    "caskets": {
+      "lemma": "casket",
+      "pos": "noun",
+      "ko": "(보석 등을 넣는) 작은 상자, 함",
+      "form": "복수형",
+      "synonyms": [
+        "boxes",
+        "chests"
+      ],
+      "ipa": "/ˈkæskəts/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내진",
+      "form": "과거분사",
+      "synonyms": [
+        "delivered",
+        "dispatched"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "emperor": {
+      "lemma": "emperor",
+      "pos": "noun",
+      "ko": "황제",
+      "form": null,
+      "synonyms": [
+        "monarch",
+        "ruler"
+      ],
+      "ipa": "/ˈɛmpərər/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "brought": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져와진 (have them brought: 가져오게 하다)",
+      "form": "과거분사",
+      "synonyms": [
+        "carried",
+        "fetched"
+      ],
+      "ipa": "/brɔːt/"
+    },
+    "hall": {
+      "lemma": "hall",
+      "pos": "noun",
+      "ko": "홀, 넓은 방",
+      "form": null,
+      "synonyms": [
+        "chamber",
+        "room"
+      ],
+      "ipa": "/hɔːl/"
+    },
+    "playing": {
+      "lemma": "play",
+      "pos": "verb",
+      "ko": "놀고 있는 (play at ~: ~ 놀이를 하다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "pretending",
+        "acting"
+      ],
+      "ipa": "/ˈpleɪɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(play at ~) ~ 놀이를 하는",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "visiting": {
+      "lemma": "visiting",
+      "pos": "noun",
+      "ko": "'방문' 놀이 (손님 오가는 흉내를 내는 놀이)",
+      "form": null,
+      "synonyms": [
+        "calling",
+        "house-visiting game"
+      ],
+      "ipa": "/ˈvɪzɪtɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~이 들어 있는",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "ladies": {
+      "lemma": "lady",
+      "pos": "noun",
+      "ko": "귀부인들",
+      "form": "복수형",
+      "synonyms": [
+        "noblewomen",
+        "gentlewomen"
+      ],
+      "ipa": "/ˈleɪdiz/"
+    },
+    "court": {
+      "lemma": "court",
+      "pos": "noun",
+      "ko": "궁정, 궁중",
+      "form": null,
+      "synonyms": [
+        "royal household",
+        "palace"
+      ],
+      "ipa": "/kɔːrt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀는",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보았다",
+      "form": "과거형",
+      "synonyms": [
+        "noticed",
+        "spotted"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "presents": {
+      "lemma": "present",
+      "pos": "noun",
+      "ko": "선물",
+      "form": "복수형",
+      "synonyms": [
+        "gifts"
+      ],
+      "ipa": "/ˈprɛzənts/"
+    },
+    "clapped": {
+      "lemma": "clap",
+      "pos": "verb",
+      "ko": "(손뼉을) 쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "applauded"
+      ],
+      "ipa": "/klæpt/"
+    },
+    "hands": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": "복수형",
+      "synonyms": [
+        "palms"
+      ],
+      "ipa": "/hændz/"
+    },
+    "joy": {
+      "lemma": "joy",
+      "pos": "noun",
+      "ko": "기쁨",
+      "form": null,
+      "synonyms": [
+        "delight",
+        "happiness"
+      ],
+      "ipa": "/dʒɔɪ/"
+    },
+    "ah": {
+      "lemma": "ah",
+      "pos": "interjection",
+      "ko": "아! (감탄·아쉬움)",
+      "form": null,
+      "ipa": "/ɑː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면 (if it were but ~: ~이기만 하다면)",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "pussy-cat": {
+      "lemma": "pussy-cat",
+      "pos": "noun",
+      "ko": "야옹이, 고양이 (아이들 말)",
+      "form": null,
+      "synonyms": [
+        "kitty",
+        "cat"
+      ],
+      "ipa": "/ˈpʊsi-kæt/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다 (came to view: 모습을 드러냈다)",
+      "form": "과거형",
+      "synonyms": [
+        "appeared",
+        "emerged"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "view": {
+      "lemma": "view",
+      "pos": "noun",
+      "ko": "시야, 보이는 곳 (come to view: 눈앞에 나타나다)",
+      "form": null,
+      "synonyms": [
+        "sight",
+        "vision"
+      ],
+      "ipa": "/vjuː/"
+    }
+  }
+}
