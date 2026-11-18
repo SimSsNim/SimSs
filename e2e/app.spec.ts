@@ -186,6 +186,11 @@ test('4. 몰라요 2개 + 알아요 3개 → 필터 개수 2/3, 새로고침 후
   await expect(page.getByTestId('count-unknown')).toHaveText('2');
   await expect(page.getByTestId('count-known')).toHaveText('3');
   await expect(page.getByTestId('count-new')).toHaveText('0');
+  // 아는 것 빼고 = 모르는 2개만
+  await expect(page.getByTestId('count-notKnown')).toHaveText('2');
+  await page.getByTestId('filter-notKnown').click();
+  await expect(page.getByTestId('word-row')).toHaveCount(2);
+  await page.getByTestId('filter-all').click();
   await page.reload();
   await expect(page.getByTestId('count-unknown')).toHaveText('2');
   await expect(page.getByTestId('count-known')).toHaveText('3');

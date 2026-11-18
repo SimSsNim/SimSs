@@ -110,5 +110,5 @@ export function vocabToItem(l: Lesson, v: Vocab): WordItem {
 }
 
 export const statusOf = (r: WordStateRow | undefined): WordStatus => r?.status ?? 'new';
-export const STATUS_LABEL: Record<WordStatus, string> = { new: '새 단어', unknown: '모르는 단어', confused: '헷갈리는 단어', known: '아는 단어' };
+export const STATUS_LABEL: Record<WordStatus, string> = { new: '미선택', unknown: '모르는 단어', confused: '헷갈리는 단어', known: '아는 단어' };
 export const dueCount = (rows: WordStateRow[], today = kstDate()) => rows.filter((r) => isDue(r, today)).length;

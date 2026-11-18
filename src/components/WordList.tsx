@@ -10,19 +10,21 @@ import { SpeakBtn } from './SentenceView';
 import { Icon } from './Icon';
 import { Link } from 'react-router-dom';
 
-export type WordFilter = 'all' | WordStatus | 'star';
+export type WordFilter = 'all' | 'notKnown' | WordStatus | 'star';
 export const FILTERS: { id: WordFilter; label: string }[] = [
   { id: 'all', label: '전체' },
+  { id: 'notKnown', label: '아는 것 빼고' },
+  { id: 'new', label: '미선택' },
   { id: 'unknown', label: '모르는' },
   { id: 'confused', label: '헷갈리는' },
   { id: 'known', label: '아는' },
-  { id: 'new', label: '새' },
   { id: 'star', label: '★' },
 ];
 
 export function matchFilter(f: WordFilter, st?: WordStateRow) {
   if (f === 'all') return true;
   if (f === 'star') return !!st?.starred;
+  if (f === 'notKnown') return (st?.status ?? 'new') !== 'known';
   return (st?.status ?? 'new') === f;
 }
 
@@ -103,10 +105,10 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
         <button type="button" className={s.btn + ' ' + s.grow} onClick={() => void answer('known')} aria-pressed={status === 'known'} data-testid="btn-known">알아요</button>
         <button type="button" className={s.btn + ' ' + s.grow} onClick={() => void answer('unknown')} aria-pressed={status === 'unknown'} data-testid="btn-unknown">몰라요</button>
         {status !== 'new' && (
-          <button type="button" className={s.btn} data-testid="btn-reset" aria-label={`${item.term} 상태 지우기(새 단어로)`}
+          <button type="button" className={s.btn} data-testid="btn-reset" aria-label={`${item.term} 상태 지우기(미선택으로)`}
             onClick={async () => {
               const prev = await resetWord(item.term);
-              if (prev) toast(`'${item.term}' 를 새 단어로 되돌렸어요`, { action: { label: '되돌리기', run: () => void restoreWord(prev) }, ms: 6000 });
+              if (prev) toast(`'${item.term}' 를 미선택으로 되돌렸어요`, { action: { label: '되돌리기', run: () => void restoreWord(prev) }, ms: 6000 });
             }}>↺</button>
         )}
       </div>
