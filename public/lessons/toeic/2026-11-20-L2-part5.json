@@ -1,0 +1,1605 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-20-L2-part5",
+  "date": "2026-11-20",
+  "level": 2,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 122,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Grant 씨는 학회에서 고객 충성도에 관해 매우 유익한 강연을 했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "동관의 고장 난 엘리베이터는 아직 수리되지 않았다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "주차 허가증이 만료된 직원들은 이달 말까지 갱신해야 한다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "이사회는 부산에 새 지점을 여는 것을 검토하고 있다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "예산이 한정되어 있었지만 팀은 제때 프로젝트를 끝냈다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "Novak 씨는 Carlow Logistics에서 10년 넘게 일해 왔다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "영업팀은 올해 꾸준히 목표를 초과 달성해 왔다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "중앙 로비가 보수되는 동안 협조해 주셔서 감사합니다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "첨부된 양식을 작성해 금요일까지 Patel 씨에게 돌려주세요."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "Tanaka 씨는 회계 부서의 신입 사원 교육을 담당하고 있다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Ms. Grant gave a very informative talk about customer loyalty at the conference.",
+      "ko": "Grant 씨는 학회에서 고객 충성도에 관해 매우 유익한 강연을 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The broken elevator in the east wing has not been repaired yet.",
+      "ko": "동관의 고장 난 엘리베이터는 아직 수리되지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Employees whose parking permits have expired must renew them by the end of the month.",
+      "ko": "주차 허가증이 만료된 직원들은 이달 말까지 갱신해야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "The board is considering opening a new branch office in Busan.",
+      "ko": "이사회는 부산에 새 지점을 여는 것을 검토하고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Even though the budget was limited, the team finished the project on time.",
+      "ko": "예산이 한정되어 있었지만 팀은 제때 프로젝트를 끝냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "Ms. Novak has worked at Carlow Logistics for more than ten years.",
+      "ko": "Novak 씨는 Carlow Logistics에서 10년 넘게 일해 왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "The sales team has consistently exceeded its targets this year.",
+      "ko": "영업팀은 올해 꾸준히 목표를 초과 달성해 왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "We appreciate your cooperation while the main lobby is being renovated.",
+      "ko": "중앙 로비가 보수되는 동안 협조해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "Please complete the attached form and return it to Ms. Patel by Friday.",
+      "ko": "첨부된 양식을 작성해 금요일까지 Patel 씨에게 돌려주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "Mr. Tanaka is responsible for training new employees in the accounting department.",
+      "ko": "Tanaka 씨는 회계 부서의 신입 사원 교육을 담당하고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "informative",
+      "pos": "adjective",
+      "meaningKo": "유익한, 정보가 많은",
+      "ipa": "/ɪnˈfɔrmətɪv/",
+      "synonyms": [
+        "educational",
+        "useful",
+        "instructive"
+      ],
+      "matchText": "informative",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The guidebook was short but informative.",
+        "ko": "그 안내서는 짧지만 유익했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "renew",
+      "pos": "verb",
+      "meaningKo": "갱신하다, 연장하다",
+      "ipa": "/rɪˈnu/",
+      "synonyms": [
+        "extend",
+        "update"
+      ],
+      "matchText": "renew",
+      "sentenceId": "s3",
+      "example": {
+        "en": "You need to renew your passport before it expires.",
+        "ko": "여권이 만료되기 전에 갱신해야 한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "exceed",
+      "pos": "verb",
+      "meaningKo": "초과하다, 넘어서다",
+      "ipa": "/ɪkˈsid/",
+      "synonyms": [
+        "surpass",
+        "go beyond",
+        "outperform"
+      ],
+      "matchText": "exceeded",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Our sales exceeded expectations.",
+        "ko": "우리 매출이 기대를 넘어섰다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "cooperation",
+      "pos": "noun",
+      "meaningKo": "협조, 협력",
+      "ipa": "/koʊˌɑpəˈreɪʃən/",
+      "synonyms": [
+        "assistance",
+        "support",
+        "collaboration"
+      ],
+      "matchText": "cooperation",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Thank you for your cooperation.",
+        "ko": "협조해 주셔서 감사합니다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "be responsible for",
+      "pos": "phrase",
+      "meaningKo": "~을 담당하다, ~에 책임이 있다",
+      "ipa": "/bi rɪˈspɑnsəbəl fɔr/",
+      "synonyms": [
+        "be in charge of",
+        "handle",
+        "oversee"
+      ],
+      "matchText": "is responsible for",
+      "sentenceId": "s10",
+      "example": {
+        "en": "She is responsible for the company's social media.",
+        "ko": "그녀는 회사 소셜 미디어를 담당한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Employees",
+          "role": "S",
+          "ko": "직원들은"
+        },
+        {
+          "text": "whose",
+          "role": "CONJ",
+          "ko": "그들의",
+          "sub": true
+        },
+        {
+          "text": "parking permits",
+          "role": "S",
+          "ko": "주차 허가증이",
+          "sub": true
+        },
+        {
+          "text": "have expired",
+          "role": "V",
+          "ko": "만료된",
+          "sub": true
+        },
+        {
+          "text": "must renew",
+          "role": "V",
+          "ko": "갱신해야 한다"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "ko": "그것들을"
+        },
+        {
+          "text": "by the end of the month.",
+          "role": "M",
+          "ko": "이달 말까지"
+        }
+      ],
+      "skeleton": "Employees (whose permits have expired) must renew them.",
+      "explanation": "whose가 이끄는 관계절이 주어 Employees를 꾸민다. 문장의 진짜 동사는 must renew."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Even though",
+          "role": "CONJ",
+          "ko": "비록 ~이지만",
+          "sub": true
+        },
+        {
+          "text": "the budget",
+          "role": "S",
+          "ko": "예산이",
+          "sub": true
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~였다",
+          "sub": true
+        },
+        {
+          "text": "limited,",
+          "role": "C",
+          "ko": "한정된",
+          "sub": true
+        },
+        {
+          "text": "the team",
+          "role": "S",
+          "ko": "팀은"
+        },
+        {
+          "text": "finished",
+          "role": "V",
+          "ko": "끝냈다"
+        },
+        {
+          "text": "the project",
+          "role": "O",
+          "ko": "프로젝트를"
+        },
+        {
+          "text": "on time.",
+          "role": "M",
+          "ko": "제때"
+        }
+      ],
+      "skeleton": "Even though the budget was limited, the team finished the project.",
+      "explanation": "Even though(양보 접속사) + 절이 앞에 오고, 쉼표 뒤에 주절이 온다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "소유격 관계대명사 whose",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "whose parking permits"
+      ],
+      "explanation": "whose 뒤에는 관사 없는 명사가 오고 '그 사람의 ~'라는 뜻. Employees' parking permits를 관계절로 바꾼 것.",
+      "example": {
+        "en": "I met a client whose office is in Seoul.",
+        "ko": "사무실이 서울에 있는 고객을 만났다."
+      },
+      "note": "빈칸 뒤에 '명사 + 동사'가 오고 앞 명사와 소유 관계면 whose."
+    },
+    {
+      "id": "g2",
+      "title": "현재완료 수동태 has been p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "has not been repaired"
+      ],
+      "explanation": "엘리베이터는 '수리되는' 대상이므로 수동태, yet(아직)과 어울리는 현재완료 → has not been repaired.",
+      "example": {
+        "en": "The report has already been sent.",
+        "ko": "보고서는 이미 발송되었다."
+      },
+      "note": "yet·already·since·for + 기간은 현재완료의 단서."
+    },
+    {
+      "id": "g3",
+      "title": "consider + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "considering opening"
+      ],
+      "explanation": "consider(고려하다)는 목적어로 to부정사가 아니라 동명사를 쓴다.",
+      "example": {
+        "en": "We are considering moving to a larger office.",
+        "ko": "우리는 더 큰 사무실로 옮기는 것을 고려하고 있다."
+      },
+      "note": "동명사를 쓰는 동사: consider, suggest, avoid, finish, postpone, recommend."
+    }
+  ],
+  "glossary": {
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "grant": {
+      "lemma": "Grant",
+      "pos": "proper-noun",
+      "ko": "그랜트 (사람 성)",
+      "form": null,
+      "ipa": "/ɡrænt/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(강연을) 하다, 주다",
+      "form": "과거형",
+      "synonyms": [
+        "deliver",
+        "present"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "really",
+        "highly"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "informative": {
+      "lemma": "informative",
+      "pos": "adjective",
+      "ko": "유익한, 정보가 많은",
+      "form": null,
+      "synonyms": [
+        "educational",
+        "useful",
+        "instructive"
+      ],
+      "ipa": "/ˌɪnˈfɔːrmətɪv/"
+    },
+    "talk": {
+      "lemma": "talk",
+      "pos": "noun",
+      "ko": "강연, 연설",
+      "form": null,
+      "synonyms": [
+        "lecture",
+        "speech"
+      ],
+      "ipa": "/tɔːk/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관한",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "loyalty": {
+      "lemma": "loyalty",
+      "pos": "noun",
+      "ko": "충성도",
+      "form": null,
+      "synonyms": [
+        "devotion",
+        "commitment"
+      ],
+      "ipa": "/ˈlɔɪəlti/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "학회, 회의",
+      "form": null,
+      "synonyms": [
+        "convention",
+        "meeting"
+      ],
+      "ipa": "/ˈkɑːnfərəns/"
+    },
+    "broken": {
+      "lemma": "broken",
+      "pos": "adjective",
+      "ko": "고장 난",
+      "form": null,
+      "synonyms": [
+        "damaged",
+        "out of order"
+      ],
+      "ipa": "/ˈbroʊkən/"
+    },
+    "elevator": {
+      "lemma": "elevator",
+      "pos": "noun",
+      "ko": "엘리베이터",
+      "form": null,
+      "synonyms": [
+        "lift"
+      ],
+      "ipa": "/ˈɛləˌveɪtər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에 있는, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "east": {
+      "lemma": "east",
+      "pos": "adjective",
+      "ko": "동쪽의",
+      "form": null,
+      "synonyms": [
+        "eastern"
+      ],
+      "ipa": "/iːst/"
+    },
+    "wing": {
+      "lemma": "wing",
+      "pos": "noun",
+      "ko": "(건물의) 동, 부속 건물",
+      "form": null,
+      "synonyms": [
+        "section",
+        "annex"
+      ],
+      "ipa": "/wɪŋ/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "repaired": {
+      "lemma": "repair",
+      "pos": "verb",
+      "ko": "수리하다",
+      "form": "과거분사",
+      "synonyms": [
+        "fix",
+        "mend"
+      ],
+      "ipa": "/rɪˈpɛrd/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "adverb",
+      "ko": "(부정문) 아직",
+      "form": null,
+      "synonyms": [
+        "so far"
+      ],
+      "ipa": "/jɛt/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "staff member",
+        "worker"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "whose": {
+      "lemma": "whose",
+      "pos": "pronoun",
+      "ko": "그 사람의 (소유격 관계대명사)",
+      "form": null,
+      "ipa": "/huːz/"
+    },
+    "parking": {
+      "lemma": "parking",
+      "pos": "noun",
+      "ko": "주차",
+      "form": null,
+      "ipa": "/ˈpɑːrkɪŋ/"
+    },
+    "permits": {
+      "lemma": "permit",
+      "pos": "noun",
+      "ko": "허가증",
+      "form": "복수형",
+      "synonyms": [
+        "pass",
+        "license"
+      ],
+      "ipa": "/pərˈmɪts/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "expired": {
+      "lemma": "expire",
+      "pos": "verb",
+      "ko": "만료되다",
+      "form": "과거분사",
+      "synonyms": [
+        "run out",
+        "end"
+      ],
+      "ipa": "/ɪkˈspaɪrd/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "renew": {
+      "lemma": "renew",
+      "pos": "verb",
+      "ko": "갱신하다",
+      "form": null,
+      "synonyms": [
+        "extend",
+        "update"
+      ],
+      "ipa": "/rɪˈnuː/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝",
+      "form": null,
+      "synonyms": [
+        "close",
+        "finish"
+      ],
+      "ipa": "/ɛnd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달",
+      "form": null,
+      "ipa": "/mʌnθ/"
+    },
+    "board": {
+      "lemma": "board",
+      "pos": "noun",
+      "ko": "이사회",
+      "form": null,
+      "synonyms": [
+        "directors",
+        "committee"
+      ],
+      "ipa": "/bɔːrd/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "considering": {
+      "lemma": "consider",
+      "pos": "verb",
+      "ko": "고려하다, 검토하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "think about",
+        "weigh"
+      ],
+      "ipa": "/kənˈsɪdərɪŋ/"
+    },
+    "opening": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열다, 개설하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "launch",
+        "establish"
+      ],
+      "ipa": "/ˈoʊpənɪŋ/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "ipa": "/nuː/"
+    },
+    "branch": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "지점, 지사",
+      "form": null,
+      "ipa": "/bræntʃ/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실 (branch office 지점)",
+      "form": null,
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "busan": {
+      "lemma": "Busan",
+      "pos": "proper-noun",
+      "ko": "부산 (한국의 도시)",
+      "form": null,
+      "ipa": "/ˈbuːsɑːn/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "(even though) 비록 ~이지만",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "conjunction",
+      "ko": "~이지만",
+      "form": null,
+      "ipa": "/ðoʊ/"
+    },
+    "budget": {
+      "lemma": "budget",
+      "pos": "noun",
+      "ko": "예산",
+      "form": null,
+      "synonyms": [
+        "funds"
+      ],
+      "ipa": "/ˈbʌdʒɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "한정된, 제한된",
+      "form": null,
+      "synonyms": [
+        "restricted",
+        "small"
+      ],
+      "ipa": "/ˈlɪmətəd/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "finished": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝내다",
+      "form": "과거형",
+      "synonyms": [
+        "complete"
+      ],
+      "ipa": "/ˈfɪnɪʃt/"
+    },
+    "project": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트, 과제",
+      "form": null,
+      "synonyms": [
+        "task"
+      ],
+      "ipa": "/ˈprɑːdʒɛkt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on time) 제때에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간 (on time 제때)",
+      "form": null,
+      "ipa": "/taɪm/"
+    },
+    "novak": {
+      "lemma": "Novak",
+      "pos": "proper-noun",
+      "ko": "노박 (사람 성)",
+      "form": null,
+      "ipa": "/ˈnoʊvæk/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": "과거분사",
+      "ipa": "/wɜːrkt/"
+    },
+    "carlow": {
+      "lemma": "Carlow",
+      "pos": "proper-noun",
+      "ko": "칼로 (회사 이름 Carlow Logistics의 일부)",
+      "form": null,
+      "ipa": "/ˈkɑːrˌloʊ/"
+    },
+    "logistics": {
+      "lemma": "Logistics",
+      "pos": "proper-noun",
+      "ko": "로지스틱스 (회사 이름의 일부, 물류)",
+      "form": null,
+      "ipa": "/ləˈdʒɪstɪks/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안, ~을 (위해)",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adjective",
+      "ko": "더 많은 (more than ~ 이상)",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "ten": {
+      "lemma": "ten",
+      "pos": "number",
+      "ko": "10, 열",
+      "form": null,
+      "ipa": "/tɛn/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "ipa": "/jɪrz/"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매",
+      "form": "복수형",
+      "synonyms": [
+        "selling"
+      ],
+      "ipa": "/seɪlz/"
+    },
+    "consistently": {
+      "lemma": "consistently",
+      "pos": "adverb",
+      "ko": "꾸준히, 한결같이",
+      "form": null,
+      "synonyms": [
+        "steadily",
+        "regularly"
+      ],
+      "ipa": "/kənˈsɪstəntli/"
+    },
+    "exceeded": {
+      "lemma": "exceed",
+      "pos": "verb",
+      "ko": "초과하다",
+      "form": "과거분사",
+      "synonyms": [
+        "surpass",
+        "beat"
+      ],
+      "ipa": "/ɪkˈsiːdəd/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "targets": {
+      "lemma": "target",
+      "pos": "noun",
+      "ko": "목표",
+      "form": "복수형",
+      "synonyms": [
+        "goal",
+        "objective"
+      ],
+      "ipa": "/ˈtɑːrɡəts/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": null,
+      "ipa": "/jɪr/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "appreciate": {
+      "lemma": "appreciate",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "value",
+        "be grateful for"
+      ],
+      "ipa": "/əˈpriːʃiˌeɪt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "cooperation": {
+      "lemma": "cooperation",
+      "pos": "noun",
+      "ko": "협조, 협력",
+      "form": null,
+      "synonyms": [
+        "assistance",
+        "support"
+      ],
+      "ipa": "/koʊˌɑːpəˈreɪʃən/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "중앙의, 주된",
+      "form": null,
+      "synonyms": [
+        "central",
+        "primary"
+      ],
+      "ipa": "/meɪn/"
+    },
+    "lobby": {
+      "lemma": "lobby",
+      "pos": "noun",
+      "ko": "로비",
+      "form": null,
+      "synonyms": [
+        "entrance hall",
+        "foyer"
+      ],
+      "ipa": "/ˈlɑːbi/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행 수동태) ~되고 있는",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "renovated": {
+      "lemma": "renovate",
+      "pos": "verb",
+      "ko": "보수하다, 개조하다",
+      "form": "과거분사",
+      "synonyms": [
+        "remodel",
+        "refurbish"
+      ],
+      "ipa": "/ˈrɛnəˌveɪtɪd/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "(양식을) 작성하다",
+      "form": null,
+      "synonyms": [
+        "fill out",
+        "fill in"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "attached": {
+      "lemma": "attached",
+      "pos": "adjective",
+      "ko": "첨부된",
+      "form": null,
+      "synonyms": [
+        "enclosed"
+      ],
+      "ipa": "/əˈtætʃt/"
+    },
+    "form": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": null,
+      "synonyms": [
+        "document",
+        "application"
+      ],
+      "ipa": "/fɔːrm/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌려주다, 제출하다",
+      "form": null,
+      "synonyms": [
+        "send back",
+        "submit"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것을",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "patel": {
+      "lemma": "Patel",
+      "pos": "proper-noun",
+      "ko": "파텔 (사람 성)",
+      "form": null,
+      "ipa": "/pəˈtɛl/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "tanaka": {
+      "lemma": "Tanaka",
+      "pos": "proper-noun",
+      "ko": "다나카 (사람 성)",
+      "form": null,
+      "ipa": "/tɑˈnɑːkə/"
+    },
+    "responsible": {
+      "lemma": "responsible",
+      "pos": "adjective",
+      "ko": "책임이 있는, 담당하는",
+      "form": null,
+      "synonyms": [
+        "in charge",
+        "accountable"
+      ],
+      "ipa": "/riˈspɑːnsəbəl/"
+    },
+    "training": {
+      "lemma": "train",
+      "pos": "verb",
+      "ko": "교육하다, 훈련시키다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "teach",
+        "instruct"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "accounting": {
+      "lemma": "accounting",
+      "pos": "noun",
+      "ko": "회계",
+      "form": null,
+      "synonyms": [
+        "bookkeeping",
+        "finance"
+      ],
+      "ipa": "/əˈkaʊntɪŋ/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "form": null,
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "informative"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "inform"
+        },
+        {
+          "key": "B",
+          "text": "information"
+        },
+        {
+          "key": "C",
+          "text": "informative"
+        },
+        {
+          "key": "D",
+          "text": "informatively"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "관사 a + 부사 very 뒤, 명사 talk 앞은 형용사 자리. informative = 유익한.",
+      "choiceNotesKo": {
+        "B": "information은 명사라 very의 꾸밈을 받을 수 없다.",
+        "D": "부사는 명사를 꾸미지 못한다."
+      },
+      "skill": "형용사 자리(명사 앞)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "has not been repaired"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "has not been repaired"
+        },
+        {
+          "key": "B",
+          "text": "has not repaired"
+        },
+        {
+          "key": "C",
+          "text": "is not repairing"
+        },
+        {
+          "key": "D",
+          "text": "not repairing"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "엘리베이터는 수리'되는' 대상이고 빈칸 뒤에 목적어가 없다. yet과 함께 현재완료 수동태.",
+      "choiceNotesKo": {
+        "B": "능동태라 '엘리베이터가 (무언가를) 수리하지 않았다'는 뜻이 된다.",
+        "D": "동사가 없어 문장이 안 된다."
+      },
+      "skill": "현재완료 수동태"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "whose"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "빈칸 뒤에 명사(parking permits) + 동사(have expired)가 오고, '직원들의 허가증'이라는 소유 관계이므로 whose.",
+      "choiceNotesKo": {
+        "A": "who 뒤에는 동사가 바로 오거나 주어가 빠진 절이 온다.",
+        "C": "what은 앞에 꾸밀 명사가 있으면 쓸 수 없다."
+      },
+      "skill": "소유격 관계대명사"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "opening"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "to open"
+        },
+        {
+          "key": "B",
+          "text": "opening"
+        },
+        {
+          "key": "C",
+          "text": "open"
+        },
+        {
+          "key": "D",
+          "text": "opened"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "consider는 동명사를 목적어로 쓴다. is considering opening = 여는 것을 검토 중이다.",
+      "choiceNotesKo": {
+        "A": "consider는 to부정사를 목적어로 쓰지 않는다."
+      },
+      "skill": "동명사를 쓰는 동사"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "Even though"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Even though"
+        },
+        {
+          "key": "B",
+          "text": "Despite"
+        },
+        {
+          "key": "C",
+          "text": "However"
+        },
+        {
+          "key": "D",
+          "text": "Due to"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "빈칸 뒤에 주어+동사(the budget was)가 있어 접속사가 필요하다. '예산이 한정되었지만 제때 끝냈다'는 양보 → Even though.",
+      "choiceNotesKo": {
+        "B": "Despite는 전치사라 뒤에 절이 올 수 없다.",
+        "C": "However는 부사라 두 절을 이을 수 없다."
+      },
+      "skill": "전치사 vs 접속사(양보)"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "for"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "since"
+        },
+        {
+          "key": "B",
+          "text": "during"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "while"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "빈칸 뒤 more than ten years는 '기간'이고 현재완료(has worked)와 함께 쓰인다 → for + 기간.",
+      "choiceNotesKo": {
+        "A": "since 뒤에는 시작 시점(2015 등)이 온다.",
+        "B": "during은 현재완료 '계속'과 기간 숫자에 쓰지 않는다."
+      },
+      "skill": "for + 기간(현재완료)"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "consistently"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "consistent"
+        },
+        {
+          "key": "B",
+          "text": "consistency"
+        },
+        {
+          "key": "C",
+          "text": "consist"
+        },
+        {
+          "key": "D",
+          "text": "consistently"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "has와 exceeded 사이(조동사와 과거분사 사이)는 부사 자리. consistently = 꾸준히.",
+      "choiceNotesKo": {
+        "A": "형용사는 동사를 꾸밀 수 없다."
+      },
+      "skill": "부사 자리(have와 p.p. 사이)"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "cooperation"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "cooperate"
+        },
+        {
+          "key": "B",
+          "text": "cooperation"
+        },
+        {
+          "key": "C",
+          "text": "cooperative"
+        },
+        {
+          "key": "D",
+          "text": "cooperatively"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "소유격 your 뒤, appreciate의 목적어인 명사 자리 → cooperation(협조).",
+      "choiceNotesKo": {
+        "C": "cooperative는 형용사라 혼자 명사 자리에 올 수 없다."
+      },
+      "skill": "명사 자리(소유격 뒤)"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "complete"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "attend"
+        },
+        {
+          "key": "B",
+          "text": "remain"
+        },
+        {
+          "key": "C",
+          "text": "complete"
+        },
+        {
+          "key": "D",
+          "text": "depart"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "목적어 the attached form(첨부 양식)과 어울리는 동사는 complete(작성하다).",
+      "choiceNotesKo": {
+        "B": "remain은 목적어를 갖지 않는다.",
+        "A": "attend는 행사·회의에 쓴다."
+      },
+      "skill": "동사 어휘(complete a form)"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "responsible"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "responsible"
+        },
+        {
+          "key": "B",
+          "text": "capable"
+        },
+        {
+          "key": "C",
+          "text": "aware"
+        },
+        {
+          "key": "D",
+          "text": "familiar"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "빈칸 뒤 전치사 for와 짝을 이루어 '~을 담당하다'가 되는 것은 be responsible for.",
+      "choiceNotesKo": {
+        "B": "capable은 of와 쓴다.",
+        "C": "aware는 of와 쓴다.",
+        "D": "familiar는 with와 쓴다."
+      },
+      "skill": "형용사 어휘(전치사 짝)"
+    }
+  ]
+}
