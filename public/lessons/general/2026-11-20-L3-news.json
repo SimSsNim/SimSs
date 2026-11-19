@@ -1,0 +1,1769 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-20-L3-news",
+  "date": "2026-11-20",
+  "level": 3,
+  "title": "El Niño Rains Paint the Atacama",
+  "titleKo": "엘니뇨 비가 아타카마 사막을 물들이다",
+  "genre": "news",
+  "tags": [
+    "NASA",
+    "weather",
+    "climate",
+    "El Niño",
+    "Chile"
+  ],
+  "source": {
+    "work": "El Niño Rains Paint the Atacama",
+    "author": "NASA",
+    "translator": null,
+    "year": 2026,
+    "edition": "NASA News",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "license": "us-government-work",
+    "excerptNote": "첫 4단락"
+  },
+  "audio": null,
+  "wordCount": 225,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "칠레 북부의 아타카마 사막 일부는 평소 지구에서 가장 건조한 곳 중 하나이지만, 유난히 비가 많았던 겨울이 지난 뒤 2026년 남반구의 봄에 붉은 보라색, 초록색, 흰색으로 물들었다. 비는 흙 속에서 잠들어 있던 씨앗들을 깨웠고, 과학자들이 위성 시대 들어 가장 넓은 '데시에르토 플로리도', 즉 '꽃 피는 사막'일 수 있다고 말하는 현상을 일으켰다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "이 비는 열대 태평양에서 엘니뇨가 강해지고 있을 때 내렸다. 엘니뇨가 나타나는 동안에는 평소 이 지역을 건조하게 유지하는 아열대 태평양 고기압이 약해지고, 남아메리카 끝 근처의 남태평양에는 블로킹 고기압이 생기는 경향이 있다. 이 변화들이 함께 남반구의 폭풍 경로를 적도 쪽으로 밀어 올린다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7"
+      ],
+      "ko": "칠레 기상청(Dirección Meteorológica de Chile)에 따르면, 7월 중순부터 대기의 강이 공급한 일련의 폭풍 전선이 아타카마 지역에서 남쪽 로스라고스까지 칠레의 긴 구간에 수십 년 만에 가장 많은 7월 비 중 하나를 뿌렸다. 8월에는 연이은 겨울 폭풍이 아타카마 사막 일부를 보기 드문 눈으로 덮었다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "그 뒤에 이어진 봄꽃은 이 위성 사진 짝들에서 볼 수 있는데, 사진들은 9월 14일(왼쪽)과 10월 24일(오른쪽)에 서로 다른 개화 단계에 있는 사막을 보여 준다. 랜드샛 8호의 OLI(운용 지상 영상기)가 9월 사진을, 랜드샛 9호의 OLI가 10월 사진을 촬영했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually wet winter.",
+      "ko": "칠레 북부의 아타카마 사막 일부는 평소 지구에서 가장 건조한 곳 중 하나이지만, 유난히 비가 많았던 겨울이 지난 뒤 2026년 남반구의 봄에 붉은 보라색, 초록색, 흰색으로 물들었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The rain woke seeds lying dormant in the soil, setting off what scientists say may be the most extensive desierto florido, or “flowering desert,” of the satellite era.",
+      "ko": "비는 흙 속에서 잠들어 있던 씨앗들을 깨웠고, 과학자들이 위성 시대 들어 가장 넓은 '데시에르토 플로리도', 즉 '꽃 피는 사막'일 수 있다고 말하는 현상을 일으켰다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The rains came as El Niño was strengthening in the tropical Pacific.",
+      "ko": "이 비는 열대 태평양에서 엘니뇨가 강해지고 있을 때 내렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "During an El Niño, the subtropical Pacific high that normally keeps the region dry weakens, while a blocking high tends to form in the South Pacific near the tip of South America.",
+      "ko": "엘니뇨가 나타나는 동안에는 평소 이 지역을 건조하게 유지하는 아열대 태평양 고기압이 약해지고, 남아메리카 끝 근처의 남태평양에는 블로킹 고기압이 생기는 경향이 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Together, these shifts push the Southern Hemisphere storm track equatorward.",
+      "ko": "이 변화들이 함께 남반구의 폭풍 경로를 적도 쪽으로 밀어 올린다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Beginning in mid-July, a series of storm fronts fed by an atmospheric river brought one of the heaviest July rain events in decades to a long stretch of Chile, from the Atacama region south to Los Lagos, according to Chile’s national weather service (Dirección Meteorológica de Chile).",
+      "ko": "칠레 기상청(Dirección Meteorológica de Chile)에 따르면, 7월 중순부터 대기의 강이 공급한 일련의 폭풍 전선이 아타카마 지역에서 남쪽 로스라고스까지 칠레의 긴 구간에 수십 년 만에 가장 많은 7월 비 중 하나를 뿌렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "In August, back-to-back winter storms blanketed parts of the Atacama Desert in rare snow.",
+      "ko": "8월에는 연이은 겨울 폭풍이 아타카마 사막 일부를 보기 드문 눈으로 덮었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "The spring blooms that followed are visible in these satellite image pairs, which show the desert at different stages of flowering on September 14 (left) and on October 24 (right).",
+      "ko": "그 뒤에 이어진 봄꽃은 이 위성 사진 짝들에서 볼 수 있는데, 사진들은 9월 14일(왼쪽)과 10월 24일(오른쪽)에 서로 다른 개화 단계에 있는 사막을 보여 준다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "The OLI (Operational Land Imager) on Landsat 8 acquired the September images, and the OLI on Landsat 9 acquired the October images.",
+      "ko": "랜드샛 8호의 OLI(운용 지상 영상기)가 9월 사진을, 랜드샛 9호의 OLI가 10월 사진을 촬영했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "dormant",
+      "pos": "adjective",
+      "meaningKo": "휴면 중인, 잠들어 있는",
+      "ipa": "/ˈdɔrmənt/",
+      "synonyms": [
+        "inactive",
+        "sleeping",
+        "latent"
+      ],
+      "matchText": "dormant",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The volcano has been dormant for hundreds of years.",
+        "ko": "그 화산은 수백 년 동안 휴면 상태였다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "set off",
+      "pos": "phrasal-verb",
+      "meaningKo": "(일·현상을) 일으키다, 촉발하다",
+      "ipa": "/sɛt ɔf/",
+      "synonyms": [
+        "trigger",
+        "spark",
+        "cause"
+      ],
+      "matchText": "setting off",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The news set off a wave of protests.",
+        "ko": "그 소식은 시위의 물결을 촉발했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "tend to",
+      "pos": "phrase",
+      "meaningKo": "~하는 경향이 있다",
+      "ipa": "/tɛnd tu/",
+      "synonyms": [
+        "be likely to",
+        "usually"
+      ],
+      "matchText": "tends to",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Prices tend to rise during the holidays.",
+        "ko": "휴가철에는 물가가 오르는 경향이 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "back-to-back",
+      "pos": "adjective",
+      "meaningKo": "연이은, 잇따른",
+      "ipa": "/ˌbæk tə ˈbæk/",
+      "synonyms": [
+        "consecutive",
+        "successive",
+        "one after another"
+      ],
+      "matchText": "back-to-back",
+      "sentenceId": "s7",
+      "example": {
+        "en": "She had back-to-back meetings all afternoon.",
+        "ko": "그녀는 오후 내내 연이어 회의가 있었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "acquire",
+      "pos": "verb",
+      "meaningKo": "(자료·영상을) 얻다, 획득하다",
+      "ipa": "/əˈkwaɪər/",
+      "synonyms": [
+        "obtain",
+        "capture",
+        "get"
+      ],
+      "matchText": "acquired",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The probe acquired new images of the planet.",
+        "ko": "탐사선은 그 행성의 새 사진을 얻었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Parts of the Atacama Desert in northern Chile,",
+          "role": "S",
+          "sub": false,
+          "ko": "칠레 북부 아타카마 사막의 일부는"
+        },
+        {
+          "text": "normally one of the driest places on Earth,",
+          "role": "M",
+          "sub": false,
+          "ko": "(평소 지구에서 가장 건조한 곳 중 하나인)"
+        },
+        {
+          "text": "turned",
+          "role": "V",
+          "sub": false,
+          "ko": "변했다"
+        },
+        {
+          "text": "red-purple, green, and white",
+          "role": "C",
+          "sub": false,
+          "ko": "붉은 보라색, 초록색, 흰색으로"
+        },
+        {
+          "text": "in austral spring 2026",
+          "role": "M",
+          "sub": false,
+          "ko": "2026년 남반구의 봄에"
+        },
+        {
+          "text": "following an unusually wet winter.",
+          "role": "M",
+          "sub": false,
+          "ko": "유난히 비가 많았던 겨울 뒤에"
+        }
+      ],
+      "skeleton": "Parts turned red-purple, green, and white",
+      "explanation": "주어 Parts of ~ Chile 뒤에 쉼표로 낀 normally one of ~ Earth는 주어를 설명하는 동격 표현이다. 동사 turned는 '~이 되다'라는 뜻으로, 뒤의 색깔 형용사들이 주격 보어(C)다. following은 여기서 '~ 뒤에(after)'라는 전치사처럼 쓰였다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "During an El Niño,",
+          "role": "M",
+          "sub": false,
+          "ko": "엘니뇨 동안에는"
+        },
+        {
+          "text": "the subtropical Pacific high",
+          "role": "S",
+          "sub": false,
+          "ko": "아열대 태평양 고기압이"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그것이)"
+        },
+        {
+          "text": "normally",
+          "role": "M",
+          "sub": true,
+          "ko": "평소에"
+        },
+        {
+          "text": "keeps",
+          "role": "V",
+          "sub": true,
+          "ko": "유지하는"
+        },
+        {
+          "text": "the region",
+          "role": "O",
+          "sub": true,
+          "ko": "이 지역을"
+        },
+        {
+          "text": "dry",
+          "role": "OC",
+          "sub": true,
+          "ko": "건조하게"
+        },
+        {
+          "text": "weakens,",
+          "role": "V",
+          "sub": false,
+          "ko": "약해진다"
+        },
+        {
+          "text": "while",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고 한편"
+        },
+        {
+          "text": "a blocking high",
+          "role": "S",
+          "sub": true,
+          "ko": "블로킹 고기압이"
+        },
+        {
+          "text": "tends to form",
+          "role": "V",
+          "sub": true,
+          "ko": "생기는 경향이 있다"
+        },
+        {
+          "text": "in the South Pacific near the tip of South America.",
+          "role": "M",
+          "sub": true,
+          "ko": "남아메리카 끝 근처의 남태평양에"
+        }
+      ],
+      "skeleton": "The high weakens, while a blocking high tends to form",
+      "explanation": "주어 the subtropical Pacific high를 관계대명사 that절이 꾸민다. that절 안은 keep + 목적어 + 형용사(OC) 구조로 '~을 …하게 유지하다'. 진짜 동사는 한참 뒤의 weakens다. while은 '~하는 한편'으로 두 변화를 나란히 대조한다. 여기서 high는 '고기압'이라는 명사다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "In August,",
+          "role": "M",
+          "sub": false,
+          "ko": "8월에는"
+        },
+        {
+          "text": "back-to-back winter storms",
+          "role": "S",
+          "sub": false,
+          "ko": "연이은 겨울 폭풍이"
+        },
+        {
+          "text": "blanketed",
+          "role": "V",
+          "sub": false,
+          "ko": "덮었다"
+        },
+        {
+          "text": "parts of the Atacama Desert",
+          "role": "O",
+          "sub": false,
+          "ko": "아타카마 사막 일부를"
+        },
+        {
+          "text": "in rare snow.",
+          "role": "M",
+          "sub": false,
+          "ko": "보기 드문 눈으로"
+        }
+      ],
+      "skeleton": "Storms blanketed parts",
+      "explanation": "blanket은 원래 '담요'라는 명사지만 여기서는 '담요처럼 온통 덮다'라는 동사로 쓰였다. blanket A in B = A를 B로 뒤덮다. 기본 3형식(S+V+O) 문장이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "분사구문: ~하면서, 그 결과 ~하다",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "setting off"
+      ],
+      "explanation": "콤마 뒤 setting off ~는 앞 문장의 결과를 이어 말하는 분사구문이다. 'and it set off ~'(그리고 그것이 ~을 일으켰다)로 바꿔 읽으면 쉽다. 앞의 seeds lying dormant는 '잠들어 있는 씨앗'처럼 명사를 뒤에서 꾸미는 현재분사다.",
+      "example": {
+        "en": "The storm hit the coast, causing heavy flooding.",
+        "ko": "폭풍이 해안을 덮쳐 큰 홍수를 일으켰다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "접속사 as: ~할 때 / 과거진행형",
+      "tags": [
+        "접속사",
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "as",
+        "was strengthening"
+      ],
+      "explanation": "as는 여기서 '~할 때, ~하는 중에'라는 시간 접속사다. was strengthening(과거진행형)은 엘니뇨가 '강해지는 중이었다'는 진행 상황을 배경으로 깔고, came(과거)은 그때 일어난 일을 말한다.",
+      "example": {
+        "en": "The phone rang as I was cooking dinner.",
+        "ko": "내가 저녁을 요리하고 있을 때 전화가 울렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거분사의 후치 수식: fed by ~",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "fed by an atmospheric river"
+      ],
+      "explanation": "fed by an atmospheric river는 앞의 storm fronts를 꾸미는 과거분사구로 '대기의 강에 의해 공급받은'이라는 수동 의미다. 주어가 a series of storm fronts fed by ~로 길어졌지만 동사는 brought 하나다.",
+      "example": {
+        "en": "The bread baked by my father was delicious.",
+        "ko": "아버지가 구운 빵은 맛있었다."
+      },
+      "note": "atmospheric river(대기의 강)는 수증기가 강처럼 길게 흐르는 대기 현상을 말한다."
+    }
+  ],
+  "glossary": {
+    "parts": {
+      "lemma": "part",
+      "pos": "noun",
+      "ko": "일부, 부분",
+      "form": "복수형",
+      "synonyms": [
+        "portions",
+        "areas",
+        "sections"
+      ],
+      "ipa": "/pɑːrts/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "atacama": {
+      "lemma": "Atacama",
+      "pos": "proper-noun",
+      "ko": "아타카마 (칠레 북부의 사막·지역)",
+      "form": null,
+      "ipa": "/ˈɑːtɑˌkɑːmɑ/"
+    },
+    "desert": {
+      "lemma": "desert",
+      "pos": "noun",
+      "ko": "사막",
+      "form": null,
+      "synonyms": [
+        "wasteland",
+        "arid land"
+      ],
+      "ipa": "/ˈdɛzərt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에, ~로",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "northern": {
+      "lemma": "northern",
+      "pos": "adjective",
+      "ko": "북쪽의, 북부의",
+      "form": null,
+      "synonyms": [
+        "north"
+      ],
+      "ipa": "/ˈnɔːrðərn/"
+    },
+    "chile": {
+      "lemma": "Chile",
+      "pos": "proper-noun",
+      "ko": "칠레 (남아메리카의 나라)",
+      "form": null,
+      "ipa": "/ˈtʃɪli/"
+    },
+    "normally": {
+      "lemma": "normally",
+      "pos": "adverb",
+      "ko": "보통, 평소에",
+      "form": null,
+      "synonyms": [
+        "usually",
+        "typically",
+        "ordinarily"
+      ],
+      "ipa": "/ˈnɔːrməli/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, (~중) 하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "driest": {
+      "lemma": "dry",
+      "pos": "adjective",
+      "ko": "건조한",
+      "form": "최상급",
+      "synonyms": [
+        "most arid",
+        "parched"
+      ],
+      "ipa": "/ˈdraɪəst/"
+    },
+    "places": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "곳, 장소",
+      "form": "복수형",
+      "synonyms": [
+        "locations",
+        "spots",
+        "areas"
+      ],
+      "ipa": "/ˈpleɪsəz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "earth": {
+      "lemma": "Earth",
+      "pos": "proper-noun",
+      "ko": "지구",
+      "form": null,
+      "ipa": "/ɜːrθ/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(~한 상태로) 변하다, ~이 되다",
+      "form": "과거형",
+      "synonyms": [
+        "became",
+        "changed"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "red-purple": {
+      "lemma": "red-purple",
+      "pos": "adjective",
+      "ko": "붉은 보라색의",
+      "form": null,
+      "synonyms": [
+        "magenta",
+        "reddish-purple"
+      ],
+      "ipa": "/rɛd-ˈpɜːrpəl/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "초록색의",
+      "form": null,
+      "synonyms": [
+        "verdant"
+      ],
+      "ipa": "/ɡriːn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "흰색의",
+      "form": null,
+      "synonyms": [
+        "pale",
+        "snowy"
+      ],
+      "ipa": "/waɪt/"
+    },
+    "austral": {
+      "lemma": "austral",
+      "pos": "adjective",
+      "ko": "남반구의, 남쪽의",
+      "form": null,
+      "synonyms": [
+        "southern"
+      ],
+      "ipa": "/ˈɔːstrəl/"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "봄",
+      "form": null,
+      "synonyms": [
+        "springtime"
+      ],
+      "ipa": "/sprɪŋ/"
+    },
+    "following": {
+      "lemma": "following",
+      "pos": "preposition",
+      "ko": "~ 뒤에, ~ 다음에",
+      "form": null,
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "unusually": {
+      "lemma": "unusually",
+      "pos": "adverb",
+      "ko": "유난히, 평소와 달리",
+      "form": null,
+      "synonyms": [
+        "exceptionally",
+        "remarkably"
+      ],
+      "ipa": "/ənˈjuːˌʒuːəli/"
+    },
+    "wet": {
+      "lemma": "wet",
+      "pos": "adjective",
+      "ko": "비가 많은, 습한",
+      "form": null,
+      "synonyms": [
+        "rainy",
+        "damp",
+        "soggy"
+      ],
+      "ipa": "/wɛt/"
+    },
+    "winter": {
+      "lemma": "winter",
+      "pos": "noun",
+      "ko": "겨울",
+      "form": null,
+      "synonyms": [
+        "wintertime"
+      ],
+      "ipa": "/ˈwɪntər/"
+    },
+    "rain": {
+      "lemma": "rain",
+      "pos": "noun",
+      "ko": "비",
+      "form": null,
+      "synonyms": [
+        "rainfall",
+        "precipitation"
+      ],
+      "ipa": "/reɪn/"
+    },
+    "woke": {
+      "lemma": "wake",
+      "pos": "verb",
+      "ko": "깨우다",
+      "form": "과거형",
+      "synonyms": [
+        "roused",
+        "awakened",
+        "stirred"
+      ],
+      "ipa": "/woʊk/"
+    },
+    "seeds": {
+      "lemma": "seed",
+      "pos": "noun",
+      "ko": "씨앗",
+      "form": "복수형",
+      "synonyms": [
+        "grains",
+        "kernels"
+      ],
+      "ipa": "/siːdz/"
+    },
+    "lying": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "(어떤 상태로) 있다, 놓여 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "resting",
+        "remaining"
+      ],
+      "ipa": "/ˈlaɪɪŋ/"
+    },
+    "dormant": {
+      "lemma": "dormant",
+      "pos": "adjective",
+      "ko": "휴면 중인, 잠들어 있는",
+      "form": null,
+      "synonyms": [
+        "inactive",
+        "sleeping",
+        "latent"
+      ],
+      "ipa": "/ˈdɔːrmənt/"
+    },
+    "soil": {
+      "lemma": "soil",
+      "pos": "noun",
+      "ko": "흙, 토양",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "ground",
+        "dirt"
+      ],
+      "ipa": "/sɔɪl/"
+    },
+    "setting": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(set off) 일으키다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "triggering",
+        "sparking"
+      ],
+      "ipa": "/ˈsɛtɪŋ/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(set off) 일으키다의 일부",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "scientists": {
+      "lemma": "scientist",
+      "pos": "noun",
+      "ko": "과학자",
+      "form": "복수형",
+      "synonyms": [
+        "researchers",
+        "experts"
+      ],
+      "ipa": "/ˈsaɪəntɪsts/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "state",
+        "claim"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급)",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "extensive": {
+      "lemma": "extensive",
+      "pos": "adjective",
+      "ko": "광범위한, 넓은",
+      "form": null,
+      "synonyms": [
+        "widespread",
+        "vast",
+        "large"
+      ],
+      "ipa": "/ɪkˈstɛnsɪv/"
+    },
+    "desierto": {
+      "lemma": "desierto",
+      "pos": "noun",
+      "ko": "(스페인어) 사막",
+      "form": null,
+      "ipa": null
+    },
+    "florido": {
+      "lemma": "florido",
+      "pos": "adjective",
+      "ko": "(스페인어) 꽃이 핀",
+      "form": null,
+      "ipa": null
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "즉, 또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "flowering": {
+      "lemma": "flowering",
+      "pos": "adjective",
+      "ko": "꽃이 피는",
+      "form": null,
+      "synonyms": [
+        "blooming",
+        "blossoming"
+      ],
+      "ipa": "/ˈflaʊərɪŋ/"
+    },
+    "satellite": {
+      "lemma": "satellite",
+      "pos": "noun",
+      "ko": "인공위성",
+      "form": null,
+      "synonyms": [
+        "spacecraft"
+      ],
+      "ipa": "/ˈsætəˌlaɪt/"
+    },
+    "era": {
+      "lemma": "era",
+      "pos": "noun",
+      "ko": "시대",
+      "form": null,
+      "synonyms": [
+        "age",
+        "period",
+        "time"
+      ],
+      "ipa": "/ˈɛrə/"
+    },
+    "rains": {
+      "lemma": "rain",
+      "pos": "noun",
+      "ko": "비, 우기의 비",
+      "form": "복수형",
+      "synonyms": [
+        "downpours",
+        "showers"
+      ],
+      "ipa": "/reɪnz/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, (비가) 내리다",
+      "form": "과거형",
+      "synonyms": [
+        "arrived",
+        "fell"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하는 중에",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "el": {
+      "lemma": "El",
+      "pos": "proper-noun",
+      "ko": "(El Niño의 일부) 엘",
+      "form": null,
+      "ipa": "/ɛl/"
+    },
+    "ni": {
+      "lemma": "Niño",
+      "pos": "proper-noun",
+      "ko": "(El Niño의 일부) 니뇨 — 엘니뇨: 열대 태평양 바닷물이 따뜻해지는 현상",
+      "form": null,
+      "ipa": "/niː/"
+    },
+    "o": {
+      "lemma": "Niño",
+      "pos": "proper-noun",
+      "ko": "(El Niño의 일부, ñ 뒤 글자)",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "strengthening": {
+      "lemma": "strengthen",
+      "pos": "verb",
+      "ko": "강해지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "intensifying",
+        "growing"
+      ],
+      "ipa": "/ˈstrɛŋθənɪŋ/"
+    },
+    "tropical": {
+      "lemma": "tropical",
+      "pos": "adjective",
+      "ko": "열대의",
+      "form": null,
+      "synonyms": [
+        "equatorial"
+      ],
+      "ipa": "/ˈtrɑːpɪkəl/"
+    },
+    "pacific": {
+      "lemma": "Pacific",
+      "pos": "proper-noun",
+      "ko": "태평양",
+      "form": null,
+      "ipa": "/pəˈsɪfɪk/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "subtropical": {
+      "lemma": "subtropical",
+      "pos": "adjective",
+      "ko": "아열대의",
+      "form": null,
+      "synonyms": [
+        "semi-tropical"
+      ],
+      "ipa": "/ˌsʌbˈtrɑpɪkəl/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "noun",
+      "ko": "고기압 (지역)",
+      "form": null,
+      "synonyms": [
+        "high-pressure area",
+        "anticyclone"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "keeps": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(~한 상태로) 유지하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "maintains",
+        "holds"
+      ],
+      "ipa": "/kiːps/"
+    },
+    "region": {
+      "lemma": "region",
+      "pos": "noun",
+      "ko": "지역",
+      "form": null,
+      "synonyms": [
+        "area",
+        "zone"
+      ],
+      "ipa": "/ˈriːdʒən/"
+    },
+    "dry": {
+      "lemma": "dry",
+      "pos": "adjective",
+      "ko": "건조한",
+      "form": null,
+      "synonyms": [
+        "arid",
+        "parched"
+      ],
+      "ipa": "/draɪ/"
+    },
+    "weakens": {
+      "lemma": "weaken",
+      "pos": "verb",
+      "ko": "약해지다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "fades",
+        "diminishes",
+        "declines"
+      ],
+      "ipa": "/ˈwiːkənz/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 한편, 반면",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "blocking": {
+      "lemma": "blocking",
+      "pos": "adjective",
+      "ko": "(기상) 흐름을 막는, 블로킹",
+      "form": null,
+      "synonyms": [
+        "obstructing"
+      ],
+      "ipa": "/ˈblɑːkɪŋ/"
+    },
+    "tends": {
+      "lemma": "tend",
+      "pos": "verb",
+      "ko": "(tend to) ~하는 경향이 있다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "is likely",
+        "inclines"
+      ],
+      "ipa": "/tɛndz/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로, ~까지; (to부정사) ~하는",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "form": {
+      "lemma": "form",
+      "pos": "verb",
+      "ko": "생기다, 형성되다",
+      "form": null,
+      "synonyms": [
+        "develop",
+        "emerge",
+        "take shape"
+      ],
+      "ipa": "/fɔːrm/"
+    },
+    "south": {
+      "lemma": "south",
+      "pos": "adverb",
+      "ko": "남쪽의; 남쪽으로",
+      "form": null,
+      "ipa": "/saʊθ/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "preposition",
+      "ko": "~ 근처에",
+      "form": null,
+      "ipa": "/nɪr/"
+    },
+    "tip": {
+      "lemma": "tip",
+      "pos": "noun",
+      "ko": "(뾰족한) 끝",
+      "form": null,
+      "synonyms": [
+        "end",
+        "point"
+      ],
+      "ipa": "/tɪp/"
+    },
+    "america": {
+      "lemma": "America",
+      "pos": "proper-noun",
+      "ko": "아메리카 (South America: 남아메리카)",
+      "form": null,
+      "ipa": "/əˈmɛrəkə/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께, 합쳐서",
+      "form": null,
+      "synonyms": [
+        "jointly",
+        "combined"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 ~들",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "shifts": {
+      "lemma": "shift",
+      "pos": "noun",
+      "ko": "변화, 이동",
+      "form": "복수형",
+      "synonyms": [
+        "changes",
+        "movements"
+      ],
+      "ipa": "/ʃɪfts/"
+    },
+    "push": {
+      "lemma": "push",
+      "pos": "verb",
+      "ko": "밀다, 밀어붙이다",
+      "form": null,
+      "synonyms": [
+        "drive",
+        "move",
+        "shove"
+      ],
+      "ipa": "/pʊʃ/"
+    },
+    "southern": {
+      "lemma": "southern",
+      "pos": "adjective",
+      "ko": "남쪽의, 남부의",
+      "form": null,
+      "synonyms": [
+        "austral"
+      ],
+      "ipa": "/ˈsʌðərn/"
+    },
+    "hemisphere": {
+      "lemma": "hemisphere",
+      "pos": "noun",
+      "ko": "(지구의) 반구",
+      "form": null,
+      "synonyms": [
+        "half"
+      ],
+      "ipa": "/ˈhɛmɪsˌfɪr/"
+    },
+    "storm": {
+      "lemma": "storm",
+      "pos": "noun",
+      "ko": "폭풍",
+      "form": null,
+      "synonyms": [
+        "tempest"
+      ],
+      "ipa": "/stɔːrm/"
+    },
+    "track": {
+      "lemma": "track",
+      "pos": "noun",
+      "ko": "경로, 진로",
+      "form": null,
+      "synonyms": [
+        "path",
+        "route",
+        "course"
+      ],
+      "ipa": "/træk/"
+    },
+    "equatorward": {
+      "lemma": "equatorward",
+      "pos": "adverb",
+      "ko": "적도 쪽으로",
+      "form": null,
+      "synonyms": [
+        "toward the equator"
+      ],
+      "ipa": "/ɪˈkweɪtərwərd/"
+    },
+    "beginning": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "starting",
+        "commencing"
+      ],
+      "ipa": "/bɪˈɡɪnɪŋ/"
+    },
+    "mid-july": {
+      "lemma": "mid-July",
+      "pos": "noun",
+      "ko": "7월 중순",
+      "form": null,
+      "ipa": "/mɪd-ˌdʒuːˈlaɪ/"
+    },
+    "series": {
+      "lemma": "series",
+      "pos": "noun",
+      "ko": "연속, 일련",
+      "form": null,
+      "synonyms": [
+        "sequence",
+        "string",
+        "succession"
+      ],
+      "ipa": "/ˈsɪriz/"
+    },
+    "fronts": {
+      "lemma": "front",
+      "pos": "noun",
+      "ko": "(기상) 전선",
+      "form": "복수형",
+      "synonyms": [
+        "boundaries"
+      ],
+      "ipa": "/frʌnts/"
+    },
+    "fed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "(물·에너지를) 공급하다",
+      "form": "과거분사",
+      "synonyms": [
+        "supplied",
+        "fueled"
+      ],
+      "ipa": "/fɛd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "atmospheric": {
+      "lemma": "atmospheric",
+      "pos": "adjective",
+      "ko": "대기의",
+      "form": null,
+      "synonyms": [
+        "aerial",
+        "air"
+      ],
+      "ipa": "/ˌætməsˈfɛrɪk/"
+    },
+    "river": {
+      "lemma": "river",
+      "pos": "noun",
+      "ko": "강 (atmospheric river: 대기의 강)",
+      "form": null,
+      "synonyms": [
+        "stream",
+        "flow"
+      ],
+      "ipa": "/ˈrɪvər/"
+    },
+    "brought": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다, 몰고 오다",
+      "form": "과거형",
+      "synonyms": [
+        "delivered",
+        "carried"
+      ],
+      "ipa": "/brɔːt/"
+    },
+    "heaviest": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "(비가) 많은, 심한",
+      "form": "최상급",
+      "synonyms": [
+        "strongest",
+        "most intense"
+      ],
+      "ipa": "/ˈhɛviəst/"
+    },
+    "july": {
+      "lemma": "July",
+      "pos": "proper-noun",
+      "ko": "7월",
+      "form": null,
+      "ipa": "/ˌdʒuːˈlaɪ/"
+    },
+    "events": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "(일어난) 일, 현상",
+      "form": "복수형",
+      "synonyms": [
+        "episodes",
+        "occurrences"
+      ],
+      "ipa": "/ɪˈvɛnts/"
+    },
+    "decades": {
+      "lemma": "decade",
+      "pos": "noun",
+      "ko": "10년 (in decades: 수십 년 만에)",
+      "form": "복수형",
+      "synonyms": [
+        "ten years"
+      ],
+      "ipa": "/dɛˈkeɪdz/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "stretch": {
+      "lemma": "stretch",
+      "pos": "noun",
+      "ko": "(길게 뻗은) 구간, 지대",
+      "form": null,
+      "synonyms": [
+        "expanse",
+        "strip",
+        "area"
+      ],
+      "ipa": "/strɛtʃ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "los": {
+      "lemma": "Los",
+      "pos": "proper-noun",
+      "ko": "(Los Lagos의 일부) 로스",
+      "form": null,
+      "ipa": "/loʊs/"
+    },
+    "lagos": {
+      "lemma": "Lagos",
+      "pos": "proper-noun",
+      "ko": "(Los Lagos) 로스라고스 (칠레 남부의 지역)",
+      "form": null,
+      "ipa": "/ˈleɪɡɔs/"
+    },
+    "according": {
+      "lemma": "according",
+      "pos": "preposition",
+      "ko": "(according to) ~에 따르면",
+      "form": null,
+      "ipa": "/əˈkɔːrdɪŋ/"
+    },
+    "chile's": {
+      "lemma": "Chile",
+      "pos": "proper-noun",
+      "ko": "칠레의",
+      "form": "소유격",
+      "ipa": "/ˈtʃɪliz/"
+    },
+    "national": {
+      "lemma": "national",
+      "pos": "adjective",
+      "ko": "국가의, 국립의",
+      "form": null,
+      "synonyms": [
+        "state",
+        "federal"
+      ],
+      "ipa": "/ˈnæʃənəl/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨, 기상",
+      "form": null,
+      "synonyms": [
+        "climate",
+        "meteorology"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "(공공) 기관, 서비스",
+      "form": null,
+      "synonyms": [
+        "agency",
+        "office"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "direcci": {
+      "lemma": "Dirección",
+      "pos": "proper-noun",
+      "ko": "(스페인어 Dirección의 일부) 디렉시온 — 청, 국",
+      "form": null,
+      "ipa": null
+    },
+    "n": {
+      "lemma": "Dirección",
+      "pos": "proper-noun",
+      "ko": "(Dirección의 끝 글자 n)",
+      "form": null,
+      "ipa": "/ɛn/"
+    },
+    "meteorol": {
+      "lemma": "Meteorológica",
+      "pos": "proper-noun",
+      "ko": "(스페인어 Meteorológica의 일부) 메테오롤로히카 — 기상의",
+      "form": null,
+      "ipa": null
+    },
+    "gica": {
+      "lemma": "Meteorológica",
+      "pos": "proper-noun",
+      "ko": "(Meteorológica의 뒷부분)",
+      "form": null,
+      "ipa": null
+    },
+    "de": {
+      "lemma": "de",
+      "pos": "preposition",
+      "ko": "(스페인어) ~의",
+      "form": null,
+      "ipa": "/diː/"
+    },
+    "august": {
+      "lemma": "August",
+      "pos": "proper-noun",
+      "ko": "8월",
+      "form": null,
+      "ipa": "/ˈɑːɡəst/"
+    },
+    "back-to-back": {
+      "lemma": "back-to-back",
+      "pos": "adjective",
+      "ko": "연이은, 잇따른",
+      "form": null,
+      "synonyms": [
+        "consecutive",
+        "successive"
+      ],
+      "ipa": "/bæk-tuː-bæk/"
+    },
+    "storms": {
+      "lemma": "storm",
+      "pos": "noun",
+      "ko": "폭풍",
+      "form": "복수형",
+      "synonyms": [
+        "tempests",
+        "gales"
+      ],
+      "ipa": "/stɔːrmz/"
+    },
+    "blanketed": {
+      "lemma": "blanket",
+      "pos": "verb",
+      "ko": "(담요처럼) 뒤덮다",
+      "form": "과거형",
+      "synonyms": [
+        "covered",
+        "coated"
+      ],
+      "ipa": "/ˈblæŋkətɪd/"
+    },
+    "rare": {
+      "lemma": "rare",
+      "pos": "adjective",
+      "ko": "드문, 보기 힘든",
+      "form": null,
+      "synonyms": [
+        "unusual",
+        "uncommon"
+      ],
+      "ipa": "/rɛr/"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈",
+      "form": null,
+      "synonyms": [
+        "snowfall"
+      ],
+      "ipa": "/snoʊ/"
+    },
+    "blooms": {
+      "lemma": "bloom",
+      "pos": "noun",
+      "ko": "(무리 지어 핀) 꽃, 개화",
+      "form": "복수형",
+      "synonyms": [
+        "flowers",
+        "blossoms"
+      ],
+      "ipa": "/bluːmz/"
+    },
+    "followed": {
+      "lemma": "follow",
+      "pos": "verb",
+      "ko": "뒤따르다, 이어지다",
+      "form": "과거형",
+      "synonyms": [
+        "came after",
+        "ensued"
+      ],
+      "ipa": "/ˈfɑːloʊd/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "ipa": "/ɑːr/"
+    },
+    "visible": {
+      "lemma": "visible",
+      "pos": "adjective",
+      "ko": "보이는, 볼 수 있는",
+      "form": null,
+      "synonyms": [
+        "seen",
+        "noticeable",
+        "apparent"
+      ],
+      "ipa": "/ˈvɪzəbəl/"
+    },
+    "image": {
+      "lemma": "image",
+      "pos": "noun",
+      "ko": "영상, 사진",
+      "form": null,
+      "synonyms": [
+        "picture",
+        "photo"
+      ],
+      "ipa": "/ˈɪmədʒ/"
+    },
+    "pairs": {
+      "lemma": "pair",
+      "pos": "noun",
+      "ko": "짝, 쌍",
+      "form": "복수형",
+      "synonyms": [
+        "sets",
+        "couples"
+      ],
+      "ipa": "/pɛrz/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그리고 그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "show": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다",
+      "form": null,
+      "synonyms": [
+        "display",
+        "reveal"
+      ],
+      "ipa": "/ʃoʊ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~의 (단계)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "different": {
+      "lemma": "different",
+      "pos": "adjective",
+      "ko": "서로 다른",
+      "form": null,
+      "synonyms": [
+        "various",
+        "distinct"
+      ],
+      "ipa": "/ˈdɪfərənt/"
+    },
+    "stages": {
+      "lemma": "stage",
+      "pos": "noun",
+      "ko": "단계",
+      "form": "복수형",
+      "synonyms": [
+        "phases",
+        "steps"
+      ],
+      "ipa": "/ˈsteɪdʒəz/"
+    },
+    "september": {
+      "lemma": "September",
+      "pos": "proper-noun",
+      "ko": "9월",
+      "form": null,
+      "ipa": "/sɛpˈtɛmbər/"
+    },
+    "left": {
+      "lemma": "left",
+      "pos": "noun",
+      "ko": "왼쪽",
+      "form": null,
+      "synonyms": [
+        "left side"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "october": {
+      "lemma": "October",
+      "pos": "proper-noun",
+      "ko": "10월",
+      "form": null,
+      "ipa": "/ɑkˈtoʊbər/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "noun",
+      "ko": "오른쪽",
+      "form": null,
+      "synonyms": [
+        "right side"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "oli": {
+      "lemma": "OLI",
+      "pos": "proper-noun",
+      "ko": "OLI (운용 지상 영상기, 랜드샛 위성의 관측 장비)",
+      "form": null,
+      "ipa": "/ˌoʊ ɛl ˈaɪ/"
+    },
+    "operational": {
+      "lemma": "operational",
+      "pos": "adjective",
+      "ko": "운용의, 작동하는",
+      "form": null,
+      "synonyms": [
+        "working",
+        "functioning"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənəl/"
+    },
+    "land": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "땅, 육지",
+      "form": null,
+      "synonyms": [
+        "ground",
+        "terrain"
+      ],
+      "ipa": "/lænd/"
+    },
+    "imager": {
+      "lemma": "imager",
+      "pos": "noun",
+      "ko": "영상 장비, 촬영기",
+      "form": null,
+      "synonyms": [
+        "camera",
+        "sensor"
+      ],
+      "ipa": "/ˈɪmɪdʒər/"
+    },
+    "landsat": {
+      "lemma": "Landsat",
+      "pos": "proper-noun",
+      "ko": "랜드샛 (NASA·USGS의 지구 관측 위성)",
+      "form": null,
+      "ipa": "/ˈlændˈsæt/"
+    },
+    "acquired": {
+      "lemma": "acquire",
+      "pos": "verb",
+      "ko": "(자료·영상을) 얻다, 확보하다",
+      "form": "과거형",
+      "synonyms": [
+        "obtained",
+        "captured",
+        "collected"
+      ],
+      "ipa": "/əˈkwaɪərd/"
+    },
+    "images": {
+      "lemma": "image",
+      "pos": "noun",
+      "ko": "영상, 사진",
+      "form": "복수형",
+      "synonyms": [
+        "pictures",
+        "photos"
+      ],
+      "ipa": "/ˈɪmədʒəz/"
+    }
+  }
+}
