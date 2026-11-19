@@ -1,0 +1,1362 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-19-L2-3",
+  "date": "2026-11-19",
+  "level": 2,
+  "title": "The Miser",
+  "titleKo": "구두쇠",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_12_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_12_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-11-fables-251-275",
+    "reader": "David Barnes",
+    "durationSec": 101,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 11, 12번 트랙(전체 262번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 길이는 archive.org 파일 기준(LibriVox 페이지 표기는 0:54)"
+  },
+  "wordCount": 176,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "한 구두쇠가 가진 것을 모두 팔고, 모아 둔 금을 녹여 덩어리 하나로 만든 다음, 그것을 들판에 몰래 묻었다. 그는 날마다 그것을 보러 갔고, 때로는 몇 시간씩 자기 보물을 바라보며 흐뭇해하곤 했다. 그의 일꾼 중 한 사람이 그가 그곳에 자주 들르는 것을 눈치챘고, 어느 날 그를 지켜보다가 그의 비밀을 알아냈다. 그 일꾼은 기회를 엿보다가 어느 날 밤 그곳에 가서 금을 파내어 훔쳐 갔다. 다음 날 구두쇠는 여느 때처럼 그곳에 갔다가 보물이 사라진 것을 알고는, 머리를 쥐어뜯으며 잃어버린 것을 두고 끙끙 앓기 시작했다. 그런 모습을 이웃 한 사람이 보고는 무슨 걱정거리가 있느냐고 물었다. 구두쇠가 그에게 자신의 불행을 이야기하자, 이웃은 이렇게 대답했다. \"친구, 너무 마음 쓰지 말게. 구멍에 벽돌 하나를 넣어 두고 날마다 그걸 보러 가게. 그래도 자네 형편은 전보다 조금도 나빠지지 않을 걸세. 금을 가지고 있을 때도 그건 자네에게 아무 쓸모가 없었으니까.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Miser sold everything he had, and melted down his hoard of gold into a single lump, which he buried secretly in a field.",
+      "ko": "한 구두쇠가 가진 것을 모두 팔고, 모아 둔 금을 녹여 덩어리 하나로 만든 다음, 그것을 들판에 몰래 묻었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Every day he went to look at it, and would sometimes spend long hours gloating over his treasure.",
+      "ko": "그는 날마다 그것을 보러 갔고, 때로는 몇 시간씩 자기 보물을 바라보며 흐뭇해하곤 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "One of his men noticed his frequent visits to the spot, and one day watched him and discovered his secret.",
+      "ko": "그의 일꾼 중 한 사람이 그가 그곳에 자주 들르는 것을 눈치챘고, 어느 날 그를 지켜보다가 그의 비밀을 알아냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Waiting his opportunity, he went one night and dug up the gold and stole it.",
+      "ko": "그 일꾼은 기회를 엿보다가 어느 날 밤 그곳에 가서 금을 파내어 훔쳐 갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Next day the Miser visited the place as usual, and, finding his treasure gone, fell to tearing his hair and groaning over his loss.",
+      "ko": "다음 날 구두쇠는 여느 때처럼 그곳에 갔다가 보물이 사라진 것을 알고는, 머리를 쥐어뜯으며 잃어버린 것을 두고 끙끙 앓기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "In this condition he was seen by one of his neighbours, who asked him what his trouble was.",
+      "ko": "그런 모습을 이웃 한 사람이 보고는 무슨 걱정거리가 있느냐고 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "The Miser told him of his misfortune; but the other replied, \"Don't take it so much to heart, my friend; put a brick into the hole, and take a look at it every day: you won't be any worse off than before, for even when you had your gold it was of no earthly use to you.\"",
+      "ko": "구두쇠가 그에게 자신의 불행을 이야기하자, 이웃은 이렇게 대답했다. \"친구, 너무 마음 쓰지 말게. 구멍에 벽돌 하나를 넣어 두고 날마다 그걸 보러 가게. 그래도 자네 형편은 전보다 조금도 나빠지지 않을 걸세. 금을 가지고 있을 때도 그건 자네에게 아무 쓸모가 없었으니까.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "hoard",
+      "pos": "noun",
+      "meaningKo": "(돈·보물 등의) 비축, 몰래 모아 둔 것",
+      "ipa": "/hɔrd/",
+      "synonyms": [
+        "stash",
+        "store",
+        "stockpile"
+      ],
+      "matchText": "hoard",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The squirrel kept a hoard of nuts under the tree.",
+        "ko": "다람쥐는 나무 밑에 도토리를 잔뜩 모아 두었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "gloat over",
+      "pos": "phrasal-verb",
+      "meaningKo": "~을 흐뭇하게(탐욕스럽게) 바라보다",
+      "ipa": "/ɡloʊt ˈoʊvər/",
+      "synonyms": [
+        "delight in",
+        "relish"
+      ],
+      "matchText": "gloating over",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The dragon sat gloating over its gold.",
+        "ko": "용은 자기 금을 흐뭇하게 바라보며 앉아 있었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "frequent",
+      "pos": "adjective",
+      "meaningKo": "잦은, 빈번한",
+      "ipa": "/ˈfrikwənt/",
+      "synonyms": [
+        "regular",
+        "constant",
+        "repeated"
+      ],
+      "matchText": "frequent",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She makes frequent trips to the library.",
+        "ko": "그녀는 도서관에 자주 간다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "misfortune",
+      "pos": "noun",
+      "meaningKo": "불운, 불행",
+      "ipa": "/mɪsˈfɔrtʃən/",
+      "synonyms": [
+        "bad luck",
+        "trouble",
+        "disaster"
+      ],
+      "matchText": "misfortune",
+      "sentenceId": "s7",
+      "example": {
+        "en": "He had the misfortune to lose his wallet.",
+        "ko": "그는 지갑을 잃어버리는 불운을 겪었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "take ~ to heart",
+      "pos": "idiom",
+      "meaningKo": "~을 마음에 담아 두다, 몹시 마음 쓰다",
+      "ipa": "/teɪk tu hɑrt/",
+      "synonyms": [
+        "be upset by",
+        "worry about"
+      ],
+      "matchText": "take it so much to heart",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Don't take his words to heart.",
+        "ko": "그의 말을 너무 마음에 담아 두지 마."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Miser",
+          "role": "S",
+          "sub": false,
+          "ko": "한 구두쇠가"
+        },
+        {
+          "text": "sold",
+          "role": "V",
+          "sub": false,
+          "ko": "팔았다"
+        },
+        {
+          "text": "everything",
+          "role": "O",
+          "sub": false,
+          "ko": "모든 것을"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "had,",
+          "role": "V",
+          "sub": true,
+          "ko": "가진,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "melted down",
+          "role": "V",
+          "sub": false,
+          "ko": "녹였다"
+        },
+        {
+          "text": "his hoard of gold",
+          "role": "O",
+          "sub": false,
+          "ko": "모아 둔 금을"
+        },
+        {
+          "text": "into a single lump,",
+          "role": "M",
+          "sub": false,
+          "ko": "덩어리 하나로,"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고 그것을"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "buried",
+          "role": "V",
+          "sub": true,
+          "ko": "묻었다"
+        },
+        {
+          "text": "secretly in a field.",
+          "role": "M",
+          "sub": true,
+          "ko": "들판에 몰래."
+        }
+      ],
+      "skeleton": "A Miser sold everything and melted down his hoard of gold",
+      "explanation": "everything 뒤에는 목적격 관계대명사(that)가 생략된 'he had'가 붙어 있어요. 쉼표 뒤의 which는 앞의 a single lump를 이어서 설명해요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Waiting his opportunity,",
+          "role": "M",
+          "sub": false,
+          "ko": "기회를 엿보다가,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": false,
+          "ko": "갔다"
+        },
+        {
+          "text": "one night",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날 밤"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "dug up",
+          "role": "V",
+          "sub": false,
+          "ko": "파냈다"
+        },
+        {
+          "text": "the gold",
+          "role": "O",
+          "sub": false,
+          "ko": "금을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "stole",
+          "role": "V",
+          "sub": false,
+          "ko": "훔쳤다"
+        },
+        {
+          "text": "it.",
+          "role": "O",
+          "sub": false,
+          "ko": "그것을."
+        }
+      ],
+      "skeleton": "he went … and dug up the gold and stole it",
+      "explanation": "주어 he 하나에 동사 세 개(went, dug up, stole)가 and로 이어져 일이 일어난 순서를 보여 줘요. 앞의 'Waiting ~'은 분사구문이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Next day",
+          "role": "M",
+          "sub": false,
+          "ko": "다음 날"
+        },
+        {
+          "text": "the Miser",
+          "role": "S",
+          "sub": false,
+          "ko": "구두쇠는"
+        },
+        {
+          "text": "visited",
+          "role": "V",
+          "sub": false,
+          "ko": "찾아갔다"
+        },
+        {
+          "text": "the place",
+          "role": "O",
+          "sub": false,
+          "ko": "그곳을"
+        },
+        {
+          "text": "as usual,",
+          "role": "M",
+          "sub": false,
+          "ko": "여느 때처럼,"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고,"
+        },
+        {
+          "text": "finding his treasure gone,",
+          "role": "M",
+          "sub": false,
+          "ko": "보물이 사라진 것을 알고는,"
+        },
+        {
+          "text": "fell to",
+          "role": "V",
+          "sub": false,
+          "ko": "~하기 시작했다"
+        },
+        {
+          "text": "tearing his hair and groaning over his loss.",
+          "role": "O",
+          "sub": false,
+          "ko": "머리를 쥐어뜯고 잃은 것을 두고 신음하기."
+        }
+      ],
+      "skeleton": "the Miser visited the place and fell to tearing …",
+      "explanation": "'find + 목적어 + 보어(gone)'는 '~이 …한 것을 알게 되다'예요. 'fall to -ing'는 '~하기 시작하다'라는 옛 표현이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거의 습관 would (~하곤 했다)",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "would sometimes spend"
+      ],
+      "explanation": "would는 '~할 것이다' 말고도 과거에 반복된 행동을 나타내 '~하곤 했다'라는 뜻으로 쓰여요. used to와 비슷해요.",
+      "example": {
+        "en": "When I was young, I would play outside all day.",
+        "ko": "어렸을 때 나는 하루 종일 밖에서 놀곤 했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "분사구문 (Waiting ~ = While he waited ~)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "Waiting his opportunity"
+      ],
+      "explanation": "문장 앞의 -ing 구는 '~하면서, ~하다가'라는 뜻의 분사구문이에요. 주어가 뒤의 he와 같아서 생략되었어요. 'wait one's opportunity'는 '기회를 엿보다'예요.",
+      "example": {
+        "en": "Walking home, I met my teacher.",
+        "ko": "집으로 걸어가다가 나는 선생님을 만났다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "비교급 강조: not any worse (조금도 더 나쁘지 않은)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "won't be any worse off than before"
+      ],
+      "explanation": "'be worse off'는 '형편이 더 나빠지다'예요. 부정어와 any가 비교급 앞에 오면 '조금도 더 ~하지 않다'라는 강조가 돼요.",
+      "example": {
+        "en": "The food isn't any better than yesterday.",
+        "ko": "음식이 어제보다 조금도 나아지지 않았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "miser": {
+      "lemma": "miser",
+      "pos": "noun",
+      "ko": "구두쇠, 수전노",
+      "form": null,
+      "synonyms": [
+        "skinflint",
+        "cheapskate"
+      ],
+      "ipa": "/ˈmaɪzər/"
+    },
+    "sold": {
+      "lemma": "sell",
+      "pos": "verb",
+      "ko": "팔았다",
+      "form": "과거형",
+      "ipa": "/soʊld/"
+    },
+    "everything": {
+      "lemma": "everything",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ˈɛvriˌθɪŋ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "melted": {
+      "lemma": "melt",
+      "pos": "verb",
+      "ko": "(melt down) 녹이다",
+      "form": "과거형",
+      "synonyms": [
+        "dissolve"
+      ],
+      "ipa": "/ˈmɛltəd/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "hoard": {
+      "lemma": "hoard",
+      "pos": "noun",
+      "ko": "몰래 모아 둔 것, 비축",
+      "form": null,
+      "synonyms": [
+        "stash",
+        "store"
+      ],
+      "ipa": "/hɔːrd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "gold": {
+      "lemma": "gold",
+      "pos": "noun",
+      "ko": "금",
+      "form": null,
+      "ipa": "/ɡoʊld/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로, ~으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "single": {
+      "lemma": "single",
+      "pos": "adjective",
+      "ko": "단 하나의",
+      "form": null,
+      "synonyms": [
+        "one",
+        "sole"
+      ],
+      "ipa": "/ˈsɪŋɡəl/"
+    },
+    "lump": {
+      "lemma": "lump",
+      "pos": "noun",
+      "ko": "덩어리",
+      "form": null,
+      "synonyms": [
+        "chunk",
+        "block"
+      ],
+      "ipa": "/lʌmp/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것은, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "buried": {
+      "lemma": "bury",
+      "pos": "verb",
+      "ko": "묻었다",
+      "form": "과거형",
+      "synonyms": [
+        "hide"
+      ],
+      "ipa": "/ˈbɛrid/"
+    },
+    "secretly": {
+      "lemma": "secretly",
+      "pos": "adverb",
+      "ko": "몰래, 비밀리에",
+      "form": null,
+      "synonyms": [
+        "privately",
+        "quietly"
+      ],
+      "ipa": "/ˈsiːkrɪtli/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "field": {
+      "lemma": "field",
+      "pos": "noun",
+      "ko": "들판, 밭",
+      "form": null,
+      "synonyms": [
+        "meadow"
+      ],
+      "ipa": "/fiːld/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다",
+      "form": "과거형",
+      "ipa": "/wɛnt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look at) ~을 보다; (명사, take a look) 한번 봄",
+      "form": null,
+      "ipa": "/lʊk/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~을 (향해)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~하곤 했다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "sometimes": {
+      "lemma": "sometimes",
+      "pos": "adverb",
+      "ko": "때때로",
+      "form": null,
+      "synonyms": [
+        "occasionally"
+      ],
+      "ipa": "/səmˈtaɪmz/"
+    },
+    "spend": {
+      "lemma": "spend",
+      "pos": "verb",
+      "ko": "(시간을) 보내다",
+      "form": null,
+      "synonyms": [
+        "pass"
+      ],
+      "ipa": "/spɛnd/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴, 오랜",
+      "form": null,
+      "synonyms": [
+        "lengthy"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "ipa": "/ˈaʊərz/"
+    },
+    "gloating": {
+      "lemma": "gloat",
+      "pos": "verb",
+      "ko": "(gloat over) 흐뭇하게 바라보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "relish",
+        "delight"
+      ],
+      "ipa": "/ˈɡloʊtɪŋ/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 두고",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "treasure": {
+      "lemma": "treasure",
+      "pos": "noun",
+      "ko": "보물",
+      "form": null,
+      "synonyms": [
+        "riches",
+        "wealth"
+      ],
+      "ipa": "/ˈtrɛʒər/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나, 한 (one day: 어느 날)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "(고용된) 일꾼, 하인",
+      "form": "복수형",
+      "synonyms": [
+        "servant",
+        "worker"
+      ],
+      "ipa": "/mɛn/"
+    },
+    "noticed": {
+      "lemma": "notice",
+      "pos": "verb",
+      "ko": "알아차리다, 눈치채다",
+      "form": "과거형",
+      "synonyms": [
+        "spot",
+        "observe"
+      ],
+      "ipa": "/ˈnoʊtəst/"
+    },
+    "frequent": {
+      "lemma": "frequent",
+      "pos": "adjective",
+      "ko": "잦은, 빈번한",
+      "form": null,
+      "synonyms": [
+        "regular",
+        "constant"
+      ],
+      "ipa": "/ˈfriːkwənt/"
+    },
+    "visits": {
+      "lemma": "visit",
+      "pos": "noun",
+      "ko": "방문",
+      "form": "복수형",
+      "synonyms": [
+        "call",
+        "trip"
+      ],
+      "ipa": "/ˈvɪzɪts/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "spot": {
+      "lemma": "spot",
+      "pos": "noun",
+      "ko": "곳, 장소",
+      "form": null,
+      "synonyms": [
+        "place",
+        "site"
+      ],
+      "ipa": "/spɑːt/"
+    },
+    "watched": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "지켜보다",
+      "form": "과거형",
+      "synonyms": [
+        "observe"
+      ],
+      "ipa": "/wɑːtʃt/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "discovered": {
+      "lemma": "discover",
+      "pos": "verb",
+      "ko": "알아내다, 발견하다",
+      "form": "과거형",
+      "synonyms": [
+        "find",
+        "uncover"
+      ],
+      "ipa": "/dɪˈskʌvərd/"
+    },
+    "secret": {
+      "lemma": "secret",
+      "pos": "noun",
+      "ko": "비밀",
+      "form": null,
+      "ipa": "/ˈsiːkrət/"
+    },
+    "waiting": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "(wait one's opportunity) 기회를 엿보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "await"
+      ],
+      "ipa": "/ˈweɪtɪŋ/"
+    },
+    "opportunity": {
+      "lemma": "opportunity",
+      "pos": "noun",
+      "ko": "기회",
+      "form": null,
+      "synonyms": [
+        "chance"
+      ],
+      "ipa": "/ˌɑːpərˈtuːnəti/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "ipa": "/naɪt/"
+    },
+    "dug": {
+      "lemma": "dig",
+      "pos": "verb",
+      "ko": "(dig up) 파내다",
+      "form": "과거형",
+      "synonyms": [
+        "unearth"
+      ],
+      "ipa": "/dʌɡ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로; 완전히",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "stole": {
+      "lemma": "steal",
+      "pos": "verb",
+      "ko": "훔쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "take",
+        "rob"
+      ],
+      "ipa": "/stoʊl/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "visited": {
+      "lemma": "visit",
+      "pos": "verb",
+      "ko": "찾아가다, 방문하다",
+      "form": "과거형",
+      "synonyms": [
+        "call on"
+      ],
+      "ipa": "/ˈvɪzɪtɪd/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "곳, 장소",
+      "form": null,
+      "synonyms": [
+        "spot"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하므로; ~처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "usual": {
+      "lemma": "usual",
+      "pos": "adjective",
+      "ko": "평소의 (as usual: 여느 때처럼)",
+      "form": null,
+      "synonyms": [
+        "normal"
+      ],
+      "ipa": "/ˈjuːʒəwəl/"
+    },
+    "finding": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "(find + 목적어 + 보어) ~이 …한 것을 알게 되다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "discover"
+      ],
+      "ipa": "/ˈfaɪndɪŋ/"
+    },
+    "gone": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "사라진, 없어진",
+      "form": "과거분사",
+      "synonyms": [
+        "missing",
+        "lost"
+      ],
+      "ipa": "/ɡɔːn/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall to -ing) ~하기 시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "begin"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "tearing": {
+      "lemma": "tear",
+      "pos": "verb",
+      "ko": "쥐어뜯다, 잡아 뜯다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "pull",
+        "rip"
+      ],
+      "ipa": "/ˈtɛrɪŋ/"
+    },
+    "hair": {
+      "lemma": "hair",
+      "pos": "noun",
+      "ko": "머리카락",
+      "form": null,
+      "ipa": "/hɛr/"
+    },
+    "groaning": {
+      "lemma": "groan",
+      "pos": "verb",
+      "ko": "신음하다, 끙끙 앓다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "moan",
+        "wail"
+      ],
+      "ipa": "/ˈɡroʊnɪŋ/"
+    },
+    "loss": {
+      "lemma": "loss",
+      "pos": "noun",
+      "ko": "잃어버림, 손실",
+      "form": null,
+      "ipa": "/lɔːs/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이런",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "condition": {
+      "lemma": "condition",
+      "pos": "noun",
+      "ko": "상태, 형편",
+      "form": null,
+      "synonyms": [
+        "state"
+      ],
+      "ipa": "/kənˈdɪʃən/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거분사",
+      "synonyms": [
+        "notice"
+      ],
+      "ipa": "/siːn/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~로",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "neighbours": {
+      "lemma": "neighbour",
+      "pos": "noun",
+      "ko": "이웃",
+      "form": "복수형(영국식 철자)",
+      "ipa": "/ˈneɪbərz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람·동물)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거형",
+      "synonyms": [
+        "inquire"
+      ],
+      "ipa": "/æskt/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "무슨, 어떤",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "trouble": {
+      "lemma": "trouble",
+      "pos": "noun",
+      "ko": "걱정거리, 문제",
+      "form": null,
+      "synonyms": [
+        "problem",
+        "worry"
+      ],
+      "ipa": "/ˈtrʌbəl/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 이야기하다",
+      "form": "과거형",
+      "ipa": "/toʊld/"
+    },
+    "misfortune": {
+      "lemma": "misfortune",
+      "pos": "noun",
+      "ko": "불운, 불행",
+      "form": null,
+      "synonyms": [
+        "bad luck",
+        "disaster"
+      ],
+      "ipa": "/mɪsˈfɔːrtʃən/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "(the other) 다른 사람 (여기서는 이웃)",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "don't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 마라",
+      "form": "줄임말(do not)",
+      "ipa": "/doʊnt/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take ~ to heart) ~을 마음에 담아 두다",
+      "form": null,
+      "ipa": "/teɪk/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서; 그렇게, 너무",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "매우, 많이",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "heart": {
+      "lemma": "heart",
+      "pos": "noun",
+      "ko": "마음, 가슴",
+      "form": null,
+      "synonyms": [
+        "mind"
+      ],
+      "ipa": "/hɑːrt/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "ipa": "/frɛnd/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "넣다, 놓다",
+      "form": null,
+      "synonyms": [
+        "place"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "brick": {
+      "lemma": "brick",
+      "pos": "noun",
+      "ko": "벽돌",
+      "form": null,
+      "ipa": "/brɪk/"
+    },
+    "hole": {
+      "lemma": "hole",
+      "pos": "noun",
+      "ko": "구멍",
+      "form": null,
+      "synonyms": [
+        "pit"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "won't": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하지 않을 것이다",
+      "form": "줄임말(will not)",
+      "ipa": "/woʊnt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "조금이라도, 어떤",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "worse": {
+      "lemma": "bad",
+      "pos": "adjective",
+      "ko": "더 나쁜 (be worse off: 형편이 더 나빠지다)",
+      "form": "비교급",
+      "ipa": "/wɜːrs/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(be well/worse off) 형편이 ~한",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "adverb",
+      "ko": "전에, 이전에",
+      "form": null,
+      "synonyms": [
+        "previously"
+      ],
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~할 때도",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의, 너희의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "earthly": {
+      "lemma": "earthly",
+      "pos": "adjective",
+      "ko": "(부정문에서) 조금도, 전혀",
+      "form": null,
+      "synonyms": [
+        "possible"
+      ],
+      "ipa": "/ˈɜːrθli/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "noun",
+      "ko": "쓸모, 소용 (of no use: 쓸모없는)",
+      "form": null,
+      "synonyms": [
+        "value",
+        "benefit"
+      ],
+      "ipa": "/juːs/"
+    }
+  }
+}

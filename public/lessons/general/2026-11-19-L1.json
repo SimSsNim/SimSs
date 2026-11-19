@@ -1,0 +1,1061 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-19-L1",
+  "date": "2026-11-19",
+  "level": 1,
+  "title": "Father and Sons",
+  "titleKo": "아버지와 아들들",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Union is strength.'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_08_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_08_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-3-fables-51-75",
+    "reader": "Duncan Dewar",
+    "durationSec": 104,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 03, 08번 트랙(전체 58번 우화). 앞부분에 LibriVox 안내 멘트가 있음, 끝에 교훈 한 줄이 낭독됨"
+  },
+  "wordCount": 123,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "어떤 남자에게 아들이 여럿 있었는데, 그들은 늘 서로 다투었고, 그는 아무리 애를 써도 아들들을 사이좋게 함께 지내게 할 수 없었다. 그래서 그는 다음과 같은 방법으로 아들들에게 그들이 얼마나 어리석은지 깨닫게 해 주기로 마음먹었다. 그는 아들들에게 막대기 한 묶음을 가져오라고 한 뒤, 한 명씩 차례로 그것을 무릎에 대고 부러뜨려 보라고 했다. 모두 해 보았지만 모두 실패했다. 그러자 그는 묶음을 풀어 막대기를 하나씩 건네주었고, 이번에는 아들들이 아무 어려움 없이 그것들을 부러뜨렸다. \"자, 얘들아,\" 그가 말했다. \"너희가 하나로 뭉치면 어떤 적도 너희를 당해 내지 못할 것이다. 하지만 서로 다투고 갈라선다면, 너희는 약해져서 너희를 공격하는 자들의 손에 꼼짝없이 놓이게 될 것이다.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A certain man had several Sons who were always quarrelling with one another, and, try as he might, he could not get them to live together in harmony.",
+      "ko": "어떤 남자에게 아들이 여럿 있었는데, 그들은 늘 서로 다투었고, 그는 아무리 애를 써도 아들들을 사이좋게 함께 지내게 할 수 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "So he determined to convince them of their folly by the following means.",
+      "ko": "그래서 그는 다음과 같은 방법으로 아들들에게 그들이 얼마나 어리석은지 깨닫게 해 주기로 마음먹었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Bidding them fetch a bundle of sticks, he invited each in turn to break it across his knee.",
+      "ko": "그는 아들들에게 막대기 한 묶음을 가져오라고 한 뒤, 한 명씩 차례로 그것을 무릎에 대고 부러뜨려 보라고 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "All tried and all failed: and then he undid the bundle, and handed them the sticks one by one, when they had no difficulty at all in breaking them.",
+      "ko": "모두 해 보았지만 모두 실패했다. 그러자 그는 묶음을 풀어 막대기를 하나씩 건네주었고, 이번에는 아들들이 아무 어려움 없이 그것들을 부러뜨렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "\"There, my boys,\" said he, \"united you will be more than a match for your enemies: but if you quarrel and separate, your weakness will put you at the mercy of those who attack you.\"",
+      "ko": "\"자, 얘들아,\" 그가 말했다. \"너희가 하나로 뭉치면 어떤 적도 너희를 당해 내지 못할 것이다. 하지만 서로 다투고 갈라선다면, 너희는 약해져서 너희를 공격하는 자들의 손에 꼼짝없이 놓이게 될 것이다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "quarrel",
+      "pos": "verb",
+      "meaningKo": "다투다, 말다툼하다",
+      "ipa": "/ˈkwɔrəl/",
+      "synonyms": [
+        "argue",
+        "fight",
+        "bicker"
+      ],
+      "matchText": "quarrelling",
+      "sentenceId": "s1",
+      "example": {
+        "en": "My little brothers quarrel over the TV every night.",
+        "ko": "내 남동생들은 매일 밤 TV 때문에 다툰다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "harmony",
+      "pos": "noun",
+      "meaningKo": "조화, 화목 (in harmony: 사이좋게)",
+      "ipa": "/ˈhɑrməni/",
+      "synonyms": [
+        "peace",
+        "agreement",
+        "unity"
+      ],
+      "matchText": "harmony",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The two cats live together in harmony.",
+        "ko": "그 고양이 두 마리는 사이좋게 함께 산다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "folly",
+      "pos": "noun",
+      "meaningKo": "어리석음, 어리석은 짓",
+      "ipa": "/ˈfɑli/",
+      "synonyms": [
+        "foolishness",
+        "stupidity"
+      ],
+      "matchText": "folly",
+      "sentenceId": "s2",
+      "example": {
+        "en": "It was folly to swim in the cold sea.",
+        "ko": "차가운 바다에서 수영한 것은 어리석은 짓이었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "bundle",
+      "pos": "noun",
+      "meaningKo": "묶음, 다발",
+      "ipa": "/ˈbʌndəl/",
+      "synonyms": [
+        "bunch",
+        "pack",
+        "bale"
+      ],
+      "matchText": "bundle",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She carried a bundle of old letters.",
+        "ko": "그녀는 오래된 편지 한 묶음을 들고 있었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "at the mercy of",
+      "pos": "idiom",
+      "meaningKo": "~에게 꼼짝없이 휘둘리는, ~의 처분에 맡겨진",
+      "ipa": "/æt ðə ˈmɝsi ʌv/",
+      "synonyms": [
+        "helpless against",
+        "in the power of"
+      ],
+      "matchText": "at the mercy of",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The small boat was at the mercy of the storm.",
+        "ko": "그 작은 배는 폭풍에 꼼짝없이 휘둘렸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "So",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "determined",
+          "role": "V",
+          "sub": false,
+          "ko": "결심했다"
+        },
+        {
+          "text": "to convince them of their folly",
+          "role": "O",
+          "sub": false,
+          "ko": "그들에게 그들의 어리석음을 깨닫게 하기로"
+        },
+        {
+          "text": "by the following means.",
+          "role": "M",
+          "sub": false,
+          "ko": "다음과 같은 방법으로."
+        }
+      ],
+      "skeleton": "he determined to convince them",
+      "explanation": "determine 뒤의 to부정사(to convince ~)가 '무엇을 결심했는지'를 나타내는 목적어예요. 'convince A of B'는 'A에게 B를 깨닫게(확신하게) 하다'라는 뜻이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Bidding them fetch a bundle of sticks,",
+          "role": "M",
+          "sub": false,
+          "ko": "막대기 한 묶음을 가져오라고 시키고 나서,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "invited",
+          "role": "V",
+          "sub": false,
+          "ko": "청했다"
+        },
+        {
+          "text": "each",
+          "role": "O",
+          "sub": false,
+          "ko": "각자에게"
+        },
+        {
+          "text": "in turn",
+          "role": "M",
+          "sub": false,
+          "ko": "차례로"
+        },
+        {
+          "text": "to break it across his knee.",
+          "role": "OC",
+          "sub": false,
+          "ko": "그것을 무릎에 대고 부러뜨려 보라고."
+        }
+      ],
+      "skeleton": "he invited each to break it",
+      "explanation": "앞의 'Bidding ~'은 분사구문으로 '~하라고 시키고 나서'라는 뜻이에요. 'invite + 사람 + to부정사'는 '~에게 …해 보라고 청하다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "양보의 도치: 동사원형 + as + 주어 + might",
+      "tags": [
+        "도치"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "try as he might"
+      ],
+      "explanation": "'try as he might'는 'though he might try(아무리 애써 봐도)'를 뒤집은 표현이에요. 동사원형이 맨 앞으로 나와 '아무리 ~해도'라는 양보의 뜻을 만들어요.",
+      "example": {
+        "en": "Try as I might, I couldn't open the jar.",
+        "ko": "아무리 애를 써 봐도 나는 그 병을 열 수 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "분사구문 + bid + 목적어 + 동사원형",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "Bidding them fetch a bundle of sticks"
+      ],
+      "explanation": "문장 앞의 -ing 구는 분사구문으로 '~하고 나서, ~하면서'라는 뜻이에요. bid는 '명령하다'라는 옛 표현으로, 'bid + 사람 + 동사원형'은 '~에게 …하라고 시키다'예요.",
+      "example": {
+        "en": "Opening the door, she saw her friend.",
+        "ko": "문을 열자 그녀는 친구를 보았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "have no difficulty (in) -ing",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "had no difficulty at all in breaking them"
+      ],
+      "explanation": "'have no difficulty (in) -ing'는 '~하는 데 전혀 어려움이 없다', 즉 '쉽게 ~하다'라는 뜻이에요. 전치사 in 뒤라서 동명사(breaking)가 와요. at all은 '전혀'라는 강조예요.",
+      "example": {
+        "en": "I had no difficulty finding your house.",
+        "ko": "나는 너희 집을 어렵지 않게 찾았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "certain": {
+      "lemma": "certain",
+      "pos": "adjective",
+      "ko": "어떤 (특정한)",
+      "form": null,
+      "synonyms": [
+        "particular"
+      ],
+      "ipa": "/ˈsɜːrtən/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "몇몇의, 여럿의",
+      "form": null,
+      "ipa": "/ˈsɛvrəl/"
+    },
+    "sons": {
+      "lemma": "son",
+      "pos": "noun",
+      "ko": "아들",
+      "form": "복수형",
+      "synonyms": [
+        "child"
+      ],
+      "ipa": "/sʌnz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람·동물)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "항상, 늘",
+      "form": null,
+      "synonyms": [
+        "constantly",
+        "forever"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "quarrelling": {
+      "lemma": "quarrel",
+      "pos": "verb",
+      "ko": "다투다, 말다툼하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "argue",
+        "fight",
+        "bicker"
+      ],
+      "ipa": "/ˈkwɔrəlɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(one another) 서로",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "pronoun",
+      "ko": "(one another) 서로",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "try": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "애쓰다, 해 보다 (try as he might: 아무리 애써도)",
+      "form": null,
+      "synonyms": [
+        "attempt",
+        "strive"
+      ],
+      "ipa": "/traɪ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하므로; ~처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "might": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "(try as he might) 아무리 ~해도",
+      "form": "과거형",
+      "ipa": "/maɪt/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get + 목적어 + to부정사) ~하게 하다",
+      "form": null,
+      "synonyms": [
+        "make",
+        "persuade"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들을, 그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다, 지내다",
+      "form": null,
+      "synonyms": [
+        "dwell"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "jointly"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "harmony": {
+      "lemma": "harmony",
+      "pos": "noun",
+      "ko": "조화, 화목 (in harmony: 사이좋게)",
+      "form": null,
+      "synonyms": [
+        "peace",
+        "agreement",
+        "unity"
+      ],
+      "ipa": "/ˈhɑːrməni/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서; 그렇게, 너무",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "determined": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "결심하다, 마음먹다",
+      "form": "과거형",
+      "synonyms": [
+        "decide",
+        "resolve"
+      ],
+      "ipa": "/dɪˈtɜːrmənd/"
+    },
+    "convince": {
+      "lemma": "convince",
+      "pos": "verb",
+      "ko": "(convince A of B) A에게 B를 깨닫게 하다",
+      "form": null,
+      "synonyms": [
+        "persuade",
+        "satisfy"
+      ],
+      "ipa": "/kənˈvɪns/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "folly": {
+      "lemma": "folly",
+      "pos": "noun",
+      "ko": "어리석음",
+      "form": null,
+      "synonyms": [
+        "foolishness",
+        "stupidity"
+      ],
+      "ipa": "/ˈfɑːli/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~로",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "following": {
+      "lemma": "following",
+      "pos": "adjective",
+      "ko": "다음의, 다음과 같은",
+      "form": null,
+      "synonyms": [
+        "next",
+        "subsequent"
+      ],
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "means": {
+      "lemma": "means",
+      "pos": "noun",
+      "ko": "방법, 수단",
+      "form": null,
+      "synonyms": [
+        "method",
+        "way"
+      ],
+      "ipa": "/miːnz/"
+    },
+    "bidding": {
+      "lemma": "bid",
+      "pos": "verb",
+      "ko": "명령하다, 시키다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "order",
+        "tell",
+        "command"
+      ],
+      "ipa": "/ˈbɪdɪŋ/"
+    },
+    "fetch": {
+      "lemma": "fetch",
+      "pos": "verb",
+      "ko": "가서 가져오다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "get"
+      ],
+      "ipa": "/fɛtʃ/"
+    },
+    "bundle": {
+      "lemma": "bundle",
+      "pos": "noun",
+      "ko": "묶음, 다발",
+      "form": null,
+      "synonyms": [
+        "bunch",
+        "pack",
+        "bale"
+      ],
+      "ipa": "/ˈbʌndəl/"
+    },
+    "sticks": {
+      "lemma": "stick",
+      "pos": "noun",
+      "ko": "막대기, 나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "rod",
+        "twig"
+      ],
+      "ipa": "/stɪks/"
+    },
+    "invited": {
+      "lemma": "invite",
+      "pos": "verb",
+      "ko": "(~해 보라고) 청하다, 권하다",
+      "form": "과거형",
+      "synonyms": [
+        "ask",
+        "request"
+      ],
+      "ipa": "/ˌɪnˈvaɪtəd/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각자, 각각",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "noun",
+      "ko": "차례 (in turn: 차례로)",
+      "form": null,
+      "ipa": "/tɜːrn/"
+    },
+    "break": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "부러뜨리다, 꺾다",
+      "form": null,
+      "synonyms": [
+        "snap",
+        "crack"
+      ],
+      "ipa": "/breɪk/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~에 대고, ~을 가로질러",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "knee": {
+      "lemma": "knee",
+      "pos": "noun",
+      "ko": "무릎",
+      "form": null,
+      "ipa": "/niː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모두; (at all) 전혀",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "tried": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "해 보았다, 시도했다",
+      "form": "과거형",
+      "synonyms": [
+        "attempt"
+      ],
+      "ipa": "/traɪd/"
+    },
+    "failed": {
+      "lemma": "fail",
+      "pos": "verb",
+      "ko": "실패하다",
+      "form": "과거형",
+      "synonyms": [
+        "lose",
+        "fall short"
+      ],
+      "ipa": "/feɪld/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고 나서, 그러자",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterwards"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "undid": {
+      "lemma": "undo",
+      "pos": "verb",
+      "ko": "풀다, 끄르다",
+      "form": "과거형",
+      "synonyms": [
+        "untie",
+        "unfasten"
+      ],
+      "ipa": "/ˌʌnˈdɪd/"
+    },
+    "handed": {
+      "lemma": "hand",
+      "pos": "verb",
+      "ko": "건네주다",
+      "form": "과거형",
+      "synonyms": [
+        "give",
+        "pass"
+      ],
+      "ipa": "/ˈhændəd/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들 (아들들)",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "difficulty": {
+      "lemma": "difficulty",
+      "pos": "noun",
+      "ko": "어려움, 곤란",
+      "form": null,
+      "synonyms": [
+        "trouble",
+        "problem"
+      ],
+      "ipa": "/ˈdɪfəkəlti/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~을 (향해)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "breaking": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "부러뜨리다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "snap",
+        "crack"
+      ],
+      "ipa": "/ˈbreɪkɪŋ/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "interjection",
+      "ko": "자, 봐라 (상대의 주의를 끄는 말)",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "boys": {
+      "lemma": "boy",
+      "pos": "noun",
+      "ko": "얘들아 (아들들을 부르는 말), 소년",
+      "form": "복수형",
+      "synonyms": [
+        "lad",
+        "son"
+      ],
+      "ipa": "/bɔɪz/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "say",
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "united": {
+      "lemma": "unite",
+      "pos": "verb",
+      "ko": "하나로 뭉친, 단결한",
+      "form": "과거분사",
+      "synonyms": [
+        "joined",
+        "together"
+      ],
+      "ipa": "/juˈnaɪtɪd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (more than a match: ~보다 한 수 위인)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "match": {
+      "lemma": "match",
+      "pos": "noun",
+      "ko": "적수, 맞수 (more than a match for: ~을 능히 이기는)",
+      "form": null,
+      "synonyms": [
+        "equal",
+        "rival"
+      ],
+      "ipa": "/mætʃ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~에게",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의, 너희의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "enemies": {
+      "lemma": "enemy",
+      "pos": "noun",
+      "ko": "적",
+      "form": "복수형",
+      "synonyms": [
+        "foe",
+        "opponent"
+      ],
+      "ipa": "/ˈɛnəmiz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "quarrel": {
+      "lemma": "quarrel",
+      "pos": "verb",
+      "ko": "다투다, 말다툼하다",
+      "form": null,
+      "synonyms": [
+        "argue",
+        "fight"
+      ],
+      "ipa": "/ˈkwɔːrəl/"
+    },
+    "separate": {
+      "lemma": "separate",
+      "pos": "verb",
+      "ko": "갈라서다, 헤어지다",
+      "form": null,
+      "synonyms": [
+        "split",
+        "part"
+      ],
+      "ipa": "/ˈsɛpəˌreɪt/"
+    },
+    "weakness": {
+      "lemma": "weakness",
+      "pos": "noun",
+      "ko": "약함, 약점",
+      "form": null,
+      "synonyms": [
+        "frailty",
+        "feebleness"
+      ],
+      "ipa": "/ˈwiːknəs/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "(어떤 상태에) 놓다, 두다",
+      "form": null,
+      "synonyms": [
+        "place",
+        "leave"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "mercy": {
+      "lemma": "mercy",
+      "pos": "noun",
+      "ko": "자비 (at the mercy of: ~에게 꼼짝없이 휘둘리는)",
+      "form": null,
+      "synonyms": [
+        "pity",
+        "compassion"
+      ],
+      "ipa": "/ˈmɜːrsi/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(those who) ~하는 사람들",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "attack": {
+      "lemma": "attack",
+      "pos": "verb",
+      "ko": "공격하다",
+      "form": null,
+      "synonyms": [
+        "assault",
+        "strike"
+      ],
+      "ipa": "/əˈtæk/"
+    }
+  }
+}

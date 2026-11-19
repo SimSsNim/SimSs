@@ -1,0 +1,1060 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-19-L1-2",
+  "date": "2026-11-19",
+  "level": 1,
+  "title": "The Fox and the Grasshopper",
+  "titleKo": "여우와 베짱이",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_05_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_05_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-9-fables-201-225",
+    "reader": "Curtis Brown",
+    "durationSec": 79,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 09, 05번 트랙(전체 205번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 127,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "베짱이 한 마리가 나뭇가지에 앉아 찌르르 울고 있었다. 여우가 그 소리를 듣고는 저 베짱이가 얼마나 맛있는 한 입 거리가 될까 생각하며, 꾀를 써서 그녀를 끌어내리려 했다. 여우는 베짱이가 훤히 볼 수 있는 나무 아래에 서서 더없이 듣기 좋은 말로 그녀의 노래를 칭찬했고, 그렇게 아름다운 목소리의 주인과 꼭 알고 지내고 싶다며 내려와 달라고 사정했다. 그러나 베짱이는 속아 넘어가지 않고 이렇게 대답했다. \"나리, 제가 내려갈 거라고 생각하신다면 큰 착각이에요. 여우 굴 입구에 베짱이 날개가 수없이 흩어져 있는 걸 본 그날부터, 저는 나리 같은 무리를 멀찍이 피해 다니고 있거든요.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Grasshopper sat chirping in the branches of a tree.",
+      "ko": "베짱이 한 마리가 나뭇가지에 앉아 찌르르 울고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "A Fox heard her, and, thinking what a dainty morsel she would make, he tried to get her down by a trick.",
+      "ko": "여우가 그 소리를 듣고는 저 베짱이가 얼마나 맛있는 한 입 거리가 될까 생각하며, 꾀를 써서 그녀를 끌어내리려 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Standing below in full view of her, he praised her song in the most flattering terms, and begged her to descend, saying he would like to make the acquaintance of the owner of so beautiful a voice.",
+      "ko": "여우는 베짱이가 훤히 볼 수 있는 나무 아래에 서서 더없이 듣기 좋은 말로 그녀의 노래를 칭찬했고, 그렇게 아름다운 목소리의 주인과 꼭 알고 지내고 싶다며 내려와 달라고 사정했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But she was not to be taken in, and replied, \"You are very much mistaken, my dear sir, if you imagine I am going to come down: I keep well out of the way of you and your kind ever since the day when I saw numbers of grasshoppers' wings strewn about the entrance to a fox's earth.\"",
+      "ko": "그러나 베짱이는 속아 넘어가지 않고 이렇게 대답했다. \"나리, 제가 내려갈 거라고 생각하신다면 큰 착각이에요. 여우 굴 입구에 베짱이 날개가 수없이 흩어져 있는 걸 본 그날부터, 저는 나리 같은 무리를 멀찍이 피해 다니고 있거든요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "morsel",
+      "pos": "noun",
+      "meaningKo": "한 입 (거리), 작은 조각",
+      "ipa": "/ˈmɔrsəl/",
+      "synonyms": [
+        "bite",
+        "mouthful",
+        "piece"
+      ],
+      "matchText": "morsel",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The dog ate every morsel of its food.",
+        "ko": "개는 먹이를 한 조각도 남김없이 먹었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "flattering",
+      "pos": "adjective",
+      "meaningKo": "아첨하는, 듣기 좋게 치켜세우는",
+      "ipa": "/ˈflætərɪŋ/",
+      "synonyms": [
+        "complimentary",
+        "praising"
+      ],
+      "matchText": "flattering",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He said many flattering things about my drawing.",
+        "ko": "그는 내 그림에 대해 듣기 좋은 말을 많이 했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "descend",
+      "pos": "verb",
+      "meaningKo": "내려오다, 내려가다",
+      "ipa": "/dɪˈsɛnd/",
+      "synonyms": [
+        "go down",
+        "climb down"
+      ],
+      "matchText": "descend",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The plane began to descend slowly.",
+        "ko": "비행기가 천천히 내려가기 시작했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "make the acquaintance of",
+      "pos": "idiom",
+      "meaningKo": "~와 알게 되다, ~와 인사를 나누다",
+      "ipa": "/meɪk ðə əˈkweɪntəns ʌv/",
+      "synonyms": [
+        "meet",
+        "get to know"
+      ],
+      "matchText": "make the acquaintance of",
+      "sentenceId": "s3",
+      "example": {
+        "en": "I was glad to make the acquaintance of your parents.",
+        "ko": "너희 부모님과 인사를 나누게 되어 기뻤어."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "take in",
+      "pos": "phrasal-verb",
+      "meaningKo": "속이다 (be taken in: 속아 넘어가다)",
+      "ipa": "/teɪk ɪn/",
+      "synonyms": [
+        "fool",
+        "trick",
+        "deceive"
+      ],
+      "matchText": "taken in",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Don't be taken in by his sweet words.",
+        "ko": "그의 달콤한 말에 속아 넘어가지 마."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Grasshopper",
+          "role": "S",
+          "sub": false,
+          "ko": "베짱이 한 마리가"
+        },
+        {
+          "text": "sat",
+          "role": "V",
+          "sub": false,
+          "ko": "앉아 있었다"
+        },
+        {
+          "text": "chirping",
+          "role": "C",
+          "sub": false,
+          "ko": "찌르르 울면서"
+        },
+        {
+          "text": "in the branches of a tree.",
+          "role": "M",
+          "sub": false,
+          "ko": "나뭇가지에."
+        }
+      ],
+      "skeleton": "A Grasshopper sat chirping",
+      "explanation": "'sit + -ing'는 '~하면서 앉아 있다'라는 뜻이에요. chirping은 주어의 상태를 보충하는 분사예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "A Fox",
+          "role": "S",
+          "sub": false,
+          "ko": "여우가"
+        },
+        {
+          "text": "heard",
+          "role": "V",
+          "sub": false,
+          "ko": "들었다"
+        },
+        {
+          "text": "her,",
+          "role": "O",
+          "sub": false,
+          "ko": "그녀(의 소리)를,"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고,"
+        },
+        {
+          "text": "thinking what a dainty morsel she would make,",
+          "role": "M",
+          "sub": false,
+          "ko": "그녀가 얼마나 맛있는 한 입 거리가 될지 생각하며,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "tried",
+          "role": "V",
+          "sub": false,
+          "ko": "애썼다"
+        },
+        {
+          "text": "to get her down",
+          "role": "O",
+          "sub": false,
+          "ko": "그녀를 끌어내리려고"
+        },
+        {
+          "text": "by a trick.",
+          "role": "M",
+          "sub": false,
+          "ko": "꾀를 써서."
+        }
+      ],
+      "skeleton": "A Fox heard her, and he tried to get her down",
+      "explanation": "쉼표 사이의 'thinking ~'은 분사구문으로 '~라고 생각하며'라는 뜻이에요. 'try to ~'는 '~하려고 애쓰다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "감탄문 형태의 명사절 what a + 형용사 + 명사",
+      "tags": [
+        "명사절"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "what a dainty morsel she would make"
+      ],
+      "explanation": "'what a + 형용사 + 명사 + 주어 + 동사'는 '얼마나 ~한 …인지'라는 뜻으로, 여기서는 thinking의 목적어가 되는 명사절이에요. make는 '~이 되다'라는 뜻이에요.",
+      "example": {
+        "en": "I know what a kind person she is.",
+        "ko": "나는 그녀가 얼마나 친절한 사람인지 안다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "so + 형용사 + a + 명사 어순",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so beautiful a voice"
+      ],
+      "explanation": "so가 형용사를 꾸밀 때는 'so + 형용사 + a + 명사' 순서가 돼요. 'such a beautiful voice'와 같은 뜻이에요.",
+      "example": {
+        "en": "I have never seen so tall a tree.",
+        "ko": "나는 그렇게 키 큰 나무를 본 적이 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "be to + 수동형 (be not to be taken in)",
+      "tags": [
+        "to부정사",
+        "수동태"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "was not to be taken in"
+      ],
+      "explanation": "'be to 부정사'는 예정·가능·의무 등을 나타내요. 'was not to be taken in'은 '속아 넘어갈 리가 없었다(속을 수 없었다)'는 뜻이에요.",
+      "example": {
+        "en": "The key was nowhere to be found.",
+        "ko": "열쇠는 어디에서도 찾을 수 없었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "grasshopper": {
+      "lemma": "grasshopper",
+      "pos": "noun",
+      "ko": "베짱이, 메뚜기",
+      "form": null,
+      "synonyms": [
+        "cricket",
+        "locust"
+      ],
+      "ipa": "/ˈɡræsˌhɑːpər/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉아 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "perch",
+        "rest"
+      ],
+      "ipa": "/sæt/"
+    },
+    "chirping": {
+      "lemma": "chirp",
+      "pos": "verb",
+      "ko": "찌르르(짹짹) 울다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "chirrup",
+        "tweet"
+      ],
+      "ipa": "/ˈtʃɜːrpɪŋ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "bough",
+        "limb"
+      ],
+      "ipa": "/ˈbræntʃəz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": null,
+      "ipa": "/triː/"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": null,
+      "ipa": "/fɑːks/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "들었다",
+      "form": "과거형",
+      "synonyms": [
+        "listen"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀를; 그녀의",
+      "form": "목적격/소유격",
+      "ipa": "/hɜːr/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "thinking": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "consider",
+        "imagine"
+      ],
+      "ipa": "/ˈθɪŋkɪŋ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "얼마나 (what a ~: 얼마나 ~한)",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "dainty": {
+      "lemma": "dainty",
+      "pos": "adjective",
+      "ko": "맛있는, 맛 좋은",
+      "form": null,
+      "synonyms": [
+        "delicious",
+        "tasty"
+      ],
+      "ipa": "/ˈdeɪnti/"
+    },
+    "morsel": {
+      "lemma": "morsel",
+      "pos": "noun",
+      "ko": "한 입 (거리), 작은 조각",
+      "form": null,
+      "synonyms": [
+        "bite",
+        "mouthful",
+        "piece"
+      ],
+      "ipa": "/ˈmɔːrsəl/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (과거에서 본 미래)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": null,
+      "synonyms": [
+        "become",
+        "be"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "tried": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "애썼다, 해 보았다",
+      "form": "과거형",
+      "synonyms": [
+        "attempt"
+      ],
+      "ipa": "/traɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get ~ down) ~을 끌어내리다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "take"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~로",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "trick": {
+      "lemma": "trick",
+      "pos": "noun",
+      "ko": "속임수, 꾀",
+      "form": null,
+      "synonyms": [
+        "trap",
+        "ruse"
+      ],
+      "ipa": "/trɪk/"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서다, 서 있다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "below": {
+      "lemma": "below",
+      "pos": "adverb",
+      "ko": "아래에, 밑에",
+      "form": null,
+      "synonyms": [
+        "beneath",
+        "underneath"
+      ],
+      "ipa": "/bɪˈloʊ/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "완전한 (in full view of: ~이 훤히 보는 곳에서)",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "whole"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "view": {
+      "lemma": "view",
+      "pos": "noun",
+      "ko": "시야, 보이는 범위",
+      "form": null,
+      "synonyms": [
+        "sight",
+        "vision"
+      ],
+      "ipa": "/vjuː/"
+    },
+    "praised": {
+      "lemma": "praise",
+      "pos": "verb",
+      "ko": "칭찬하다",
+      "form": "과거형",
+      "synonyms": [
+        "admire",
+        "compliment"
+      ],
+      "ipa": "/preɪzd/"
+    },
+    "song": {
+      "lemma": "song",
+      "pos": "noun",
+      "ko": "노래",
+      "form": null,
+      "synonyms": [
+        "tune"
+      ],
+      "ipa": "/sɔːŋ/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장, 더없이",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "flattering": {
+      "lemma": "flattering",
+      "pos": "adjective",
+      "ko": "아첨하는, 듣기 좋게 치켜세우는",
+      "form": null,
+      "synonyms": [
+        "complimentary",
+        "praising"
+      ],
+      "ipa": "/ˈflætərɪŋ/"
+    },
+    "terms": {
+      "lemma": "term",
+      "pos": "noun",
+      "ko": "말, 표현 (in ~ terms: ~한 말로)",
+      "form": "복수형",
+      "synonyms": [
+        "words",
+        "language"
+      ],
+      "ipa": "/tɜːrmz/"
+    },
+    "begged": {
+      "lemma": "beg",
+      "pos": "verb",
+      "ko": "간청하다, 사정하다",
+      "form": "과거형",
+      "synonyms": [
+        "plead",
+        "ask"
+      ],
+      "ipa": "/bɛɡd/"
+    },
+    "descend": {
+      "lemma": "descend",
+      "pos": "verb",
+      "ko": "내려오다",
+      "form": null,
+      "synonyms": [
+        "go down",
+        "climb down"
+      ],
+      "ipa": "/dɪˈsɛnd/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tell",
+        "state"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "(would like to) ~하고 싶다",
+      "form": null,
+      "synonyms": [
+        "want",
+        "wish"
+      ],
+      "ipa": "/laɪk/"
+    },
+    "acquaintance": {
+      "lemma": "acquaintance",
+      "pos": "noun",
+      "ko": "아는 사이 (make the acquaintance of: ~와 알게 되다)",
+      "form": null,
+      "ipa": "/əˈkweɪntəns/"
+    },
+    "owner": {
+      "lemma": "owner",
+      "pos": "noun",
+      "ko": "주인, 소유자",
+      "form": null,
+      "synonyms": [
+        "possessor"
+      ],
+      "ipa": "/ˈoʊnər/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 그토록",
+      "form": null,
+      "synonyms": [
+        "such"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "sweet"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "form": null,
+      "ipa": "/vɔɪs/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "taken": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take in) 속이다",
+      "form": "과거분사",
+      "synonyms": [
+        "fool",
+        "trick"
+      ],
+      "ipa": "/ˈteɪkən/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "매우, 많이",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "mistaken": {
+      "lemma": "mistaken",
+      "pos": "adjective",
+      "ko": "잘못 생각한, 착각한",
+      "form": null,
+      "synonyms": [
+        "wrong",
+        "incorrect"
+      ],
+      "ipa": "/mɪˈsteɪkən/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "친애하는 (my dear sir: 나리)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "sir": {
+      "lemma": "sir",
+      "pos": "noun",
+      "ko": "나리, 선생님 (남성 존칭)",
+      "form": null,
+      "ipa": "/sɜːr/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "imagine": {
+      "lemma": "imagine",
+      "pos": "verb",
+      "ko": "생각하다, 상상하다",
+      "form": null,
+      "synonyms": [
+        "suppose",
+        "think"
+      ],
+      "ipa": "/ˌɪˈmædʒən/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "1인칭 단수 현재형",
+      "ipa": "/æm/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~할 것이다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(come down) 내려오다",
+      "form": null,
+      "ipa": "/kʌm/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep out of the way of) ~을 피해 다니다",
+      "form": null,
+      "synonyms": [
+        "stay",
+        "remain"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "훨씬, 충분히",
+      "form": null,
+      "synonyms": [
+        "far"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길 (out of the way of: ~을 피해서)",
+      "form": null,
+      "synonyms": [
+        "path"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의, 너희의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "kind": {
+      "lemma": "kind",
+      "pos": "noun",
+      "ko": "부류, 같은 종류 (your kind: 너 같은 무리)",
+      "form": null,
+      "synonyms": [
+        "sort",
+        "type"
+      ],
+      "ipa": "/kaɪnd/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "(ever since) ~한 이래 줄곧",
+      "form": null,
+      "ipa": "/ˈɛvər/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "preposition",
+      "ko": "~ 이후로",
+      "form": null,
+      "ipa": "/sɪns/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보았다",
+      "form": "과거형",
+      "synonyms": [
+        "notice",
+        "spot"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "numbers": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "(numbers of) 많은 수의",
+      "form": "복수형",
+      "synonyms": [
+        "lots"
+      ],
+      "ipa": "/ˈnʌmbərz/"
+    },
+    "grasshoppers": {
+      "lemma": "grasshopper",
+      "pos": "noun",
+      "ko": "베짱이, 메뚜기",
+      "form": "복수형 (grasshoppers': 복수 소유격)",
+      "ipa": "/ˈɡræsˌhɑːpərz/"
+    },
+    "wings": {
+      "lemma": "wing",
+      "pos": "noun",
+      "ko": "날개",
+      "form": "복수형",
+      "ipa": "/wɪŋz/"
+    },
+    "strewn": {
+      "lemma": "strew",
+      "pos": "verb",
+      "ko": "흩뿌리다, 흩어 놓다",
+      "form": "과거분사",
+      "synonyms": [
+        "scatter",
+        "spread"
+      ],
+      "ipa": "/struːn/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~ 여기저기에, ~ 주위에",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "entrance": {
+      "lemma": "entrance",
+      "pos": "noun",
+      "ko": "입구",
+      "form": null,
+      "synonyms": [
+        "door",
+        "opening"
+      ],
+      "ipa": "/ˈɛntrəns/"
+    },
+    "fox's": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우의",
+      "form": "소유격",
+      "ipa": "/ˈfɑːksəz/"
+    },
+    "earth": {
+      "lemma": "earth",
+      "pos": "noun",
+      "ko": "(여우 등의) 굴",
+      "form": null,
+      "synonyms": [
+        "den",
+        "burrow",
+        "hole"
+      ],
+      "ipa": "/ɜːrθ/"
+    }
+  }
+}
