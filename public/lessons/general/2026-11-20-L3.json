@@ -1,0 +1,1843 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-20-L3",
+  "date": "2026-11-20",
+  "level": 3,
+  "title": "Rapunzel",
+  "titleKo": "라푼첼",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "enchantress",
+    "longing"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Rapunzel)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Rapunzel' 첫 단락의 앞부분 (‘There were once a man and a woman…’부터 ‘…and ate it greedily.’까지, 243단어). 원문 첫 단락이 489단어로 길어서, 남편이 마녀의 정원에서 라푼첼을 처음 훔쳐 와 아내가 먹는 장면의 문장 끝에서 끊었다. gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2591, grimm10.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. 따옴표는 텍스트판 그대로 곧은 작은따옴표."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_16_rapunzel.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_16_rapunzel_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Sherry Crowther",
+    "durationSec": 528,
+    "startSec": 15,
+    "endSec": 110,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 16 'Rapunzel' (전체 8:48). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:50 (추정)."
+  },
+  "wordCount": 243,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "옛날에 오랫동안 아이를 간절히 바랐지만 끝내 얻지 못한 남자와 여자가 있었다. 마침내 여자는 하느님이 자기 소원을 들어주시려 한다는 희망을 품게 되었다. 이 부부의 집 뒤쪽에는 작은 창문이 하나 있었는데, 그 창으로 멋진 정원이 내다보였고, 정원에는 더없이 아름다운 꽃과 풀이 가득했다. 하지만 정원은 높은 담으로 둘러싸여 있었고, 아무도 감히 그 안에 들어가지 못했다. 정원이 큰 힘을 지녀 온 세상 사람들이 두려워하는 마녀의 것이었기 때문이다. 어느 날 여자가 이 창가에 서서 정원을 내려다보다가, 아주 아름다운 라푼첼(들상추의 일종)이 심어진 밭 하나를 보았다. 그것이 어찌나 싱싱하고 파릇파릇해 보이던지 여자는 그것을 몹시 먹고 싶어 했고, 그 때문에 시름시름 야위어 가더니 얼굴이 창백하고 초췌해지기 시작했다. 그러자 남편이 놀라서 물었다. '여보, 어디가 아픈 거요?' '아,' 아내가 대답했다. '우리 집 뒤 정원에 있는 라푼첼을 좀 먹지 못하면 나는 죽고 말 거예요.' 아내를 사랑하던 남자는 생각했다. '아내가 죽게 내버려 두느니, 무슨 대가를 치르더라도 네가 직접 라푼첼을 좀 가져다주어라.' 해 질 녘에 그는 담을 타고 마녀의 정원으로 기어 내려가, 라푼첼을 서둘러 한 움큼 움켜쥐고는 아내에게 가져갔다. 아내는 곧바로 그것으로 샐러드를 만들어 게걸스럽게 먹었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There were once a man and a woman who had long in vain wished for a child.",
+      "ko": "옛날에 오랫동안 아이를 간절히 바랐지만 끝내 얻지 못한 남자와 여자가 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "At length the woman hoped that God was about to grant her desire.",
+      "ko": "마침내 여자는 하느님이 자기 소원을 들어주시려 한다는 희망을 품게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "These people had a little window at the back of their house from which a splendid garden could be seen, which was full of the most beautiful flowers and herbs.",
+      "ko": "이 부부의 집 뒤쪽에는 작은 창문이 하나 있었는데, 그 창으로 멋진 정원이 내다보였고, 정원에는 더없이 아름다운 꽃과 풀이 가득했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "It was, however, surrounded by a high wall, and no one dared to go into it because it belonged to an enchantress, who had great power and was dreaded by all the world.",
+      "ko": "하지만 정원은 높은 담으로 둘러싸여 있었고, 아무도 감히 그 안에 들어가지 못했다. 정원이 큰 힘을 지녀 온 세상 사람들이 두려워하는 마녀의 것이었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "One day the woman was standing by this window and looking down into the garden, when she saw a bed which was planted with the most beautiful rampion (rapunzel), and it looked so fresh and green that she longed for it, she quite pined away, and began to look pale and miserable.",
+      "ko": "어느 날 여자가 이 창가에 서서 정원을 내려다보다가, 아주 아름다운 라푼첼(들상추의 일종)이 심어진 밭 하나를 보았다. 그것이 어찌나 싱싱하고 파릇파릇해 보이던지 여자는 그것을 몹시 먹고 싶어 했고, 그 때문에 시름시름 야위어 가더니 얼굴이 창백하고 초췌해지기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Then her husband was alarmed, and asked: 'What ails you, dear wife?'",
+      "ko": "그러자 남편이 놀라서 물었다. '여보, 어디가 아픈 거요?'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "'Ah,' she replied, 'if I can't eat some of the rampion, which is in the garden behind our house, I shall die.'",
+      "ko": "'아,' 아내가 대답했다. '우리 집 뒤 정원에 있는 라푼첼을 좀 먹지 못하면 나는 죽고 말 거예요.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "The man, who loved her, thought: 'Sooner than let your wife die, bring her some of the rampion yourself, let it cost what it will.'",
+      "ko": "아내를 사랑하던 남자는 생각했다. '아내가 죽게 내버려 두느니, 무슨 대가를 치르더라도 네가 직접 라푼첼을 좀 가져다주어라.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "At twilight, he clambered down over the wall into the garden of the enchantress, hastily clutched a handful of rampion, and took it to his wife.",
+      "ko": "해 질 녘에 그는 담을 타고 마녀의 정원으로 기어 내려가, 라푼첼을 서둘러 한 움큼 움켜쥐고는 아내에게 가져갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p1",
+      "en": "She at once made herself a salad of it, and ate it greedily.",
+      "ko": "아내는 곧바로 그것으로 샐러드를 만들어 게걸스럽게 먹었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "in vain",
+      "pos": "idiom",
+      "meaningKo": "헛되이, 보람 없이",
+      "ipa": "/ɪn ˈveɪn/",
+      "synonyms": [
+        "fruitlessly",
+        "unsuccessfully",
+        "to no avail"
+      ],
+      "matchText": "in vain",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He tried in vain to open the locked door.",
+        "ko": "그는 잠긴 문을 열려고 애썼지만 헛수고였다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "enchantress",
+      "pos": "noun",
+      "meaningKo": "마녀, 마법을 쓰는 여자",
+      "ipa": "/ɪnˈtʃæntrəs/",
+      "synonyms": [
+        "witch",
+        "sorceress"
+      ],
+      "matchText": "enchantress",
+      "sentenceId": "s4",
+      "example": {
+        "en": "In the story, an enchantress turned the prince into a frog.",
+        "ko": "그 이야기에서 마녀는 왕자를 개구리로 바꿔 버렸다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "pine away",
+      "pos": "phrasal-verb",
+      "meaningKo": "(그리움·슬픔으로) 시름시름 야위어 가다",
+      "ipa": "/ˈpaɪn əˈweɪ/",
+      "synonyms": [
+        "waste away",
+        "languish",
+        "wither"
+      ],
+      "matchText": "pined away",
+      "sentenceId": "s5",
+      "example": {
+        "en": "After her dog died, the old woman seemed to pine away.",
+        "ko": "개가 죽은 뒤 노부인은 시름시름 야위어 가는 것 같았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "ail",
+      "pos": "verb",
+      "meaningKo": "(사람을) 괴롭히다, 아프게 하다 (What ails you? = 어디가 아프니?)",
+      "ipa": "/eɪl/",
+      "synonyms": [
+        "trouble",
+        "afflict",
+        "bother"
+      ],
+      "matchText": "ails",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Nobody knew what ailed the sick child.",
+        "ko": "아무도 그 아픈 아이가 무엇 때문에 아픈지 몰랐다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "clamber down",
+      "pos": "phrasal-verb",
+      "meaningKo": "(손발을 써서) 기어 내려가다",
+      "ipa": "/ˈklæmbɚ daʊn/",
+      "synonyms": [
+        "climb down",
+        "scramble down"
+      ],
+      "matchText": "clambered down",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The boys clambered down the rocks to the beach.",
+        "ko": "소년들은 바위를 타고 해변으로 기어 내려갔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "These people",
+          "role": "S",
+          "sub": false,
+          "ko": "이 사람들은"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": false,
+          "ko": "가지고 있었다"
+        },
+        {
+          "text": "a little window",
+          "role": "O",
+          "sub": false,
+          "ko": "작은 창문 하나를"
+        },
+        {
+          "text": "at the back of their house",
+          "role": "M",
+          "sub": false,
+          "ko": "자기 집 뒤쪽에"
+        },
+        {
+          "text": "from which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 창문으로부터)"
+        },
+        {
+          "text": "a splendid garden",
+          "role": "S",
+          "sub": true,
+          "ko": "멋진 정원이"
+        },
+        {
+          "text": "could be seen,",
+          "role": "V",
+          "sub": true,
+          "ko": "보일 수 있었다"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그런데 그 정원은)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "full of the most beautiful flowers and herbs.",
+          "role": "C",
+          "sub": true,
+          "ko": "더없이 아름다운 꽃과 풀로 가득한"
+        }
+      ],
+      "skeleton": "These people had a little window. (S + V + O)",
+      "explanation": "뼈대는 These people had a little window(이 사람들에게는 작은 창문이 있었다)이다. from which …는 window를 꾸미는 관계절로 '그 창문에서 정원이 보였다'는 뜻이고, 다시 쉼표 + which …가 garden을 덧붙여 설명한다. 관계절 두 개가 이어 붙은 옛날 문체라 앞에서부터 차례로 끊어 읽으면 쉽다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "그것(정원)은"
+        },
+        {
+          "text": "was, however, surrounded",
+          "role": "V",
+          "sub": false,
+          "ko": "하지만 둘러싸여 있었다"
+        },
+        {
+          "text": "by a high wall,",
+          "role": "M",
+          "sub": false,
+          "ko": "높은 담으로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "no one",
+          "role": "S",
+          "sub": false,
+          "ko": "아무도"
+        },
+        {
+          "text": "dared to go",
+          "role": "V",
+          "sub": false,
+          "ko": "감히 가지 못했다"
+        },
+        {
+          "text": "into it",
+          "role": "M",
+          "sub": false,
+          "ko": "그 안으로"
+        },
+        {
+          "text": "because",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "그것은"
+        },
+        {
+          "text": "belonged",
+          "role": "V",
+          "sub": true,
+          "ko": "속해 있었다"
+        },
+        {
+          "text": "to an enchantress,",
+          "role": "M",
+          "sub": true,
+          "ko": "마녀에게"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 마녀는)"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": true,
+          "ko": "가지고 있었다"
+        },
+        {
+          "text": "great power",
+          "role": "O",
+          "sub": true,
+          "ko": "큰 힘을"
+        },
+        {
+          "text": "and was dreaded",
+          "role": "V",
+          "sub": true,
+          "ko": "그리고 두려움의 대상이었다"
+        },
+        {
+          "text": "by all the world.",
+          "role": "M",
+          "sub": true,
+          "ko": "온 세상 사람들에게"
+        }
+      ],
+      "skeleton": "It was surrounded …, and no one dared to go into it. (S + V, and S + V)",
+      "explanation": "두 개의 주절이 and로 이어진다. 앞 절 It was surrounded by …는 수동태로 '둘러싸여 있었다', 뒤 절 no one dared to go …는 '아무도 감히 가지 않았다'는 부정 주어 문장이다. because 이하가 그 이유를 말하고, 쉼표 + who는 enchantress를 덧붙여 설명한다. 중간의 however는 앞 문장(멋진 정원)과 반대되는 내용을 이끄는 연결어다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "The man,",
+          "role": "S",
+          "sub": false,
+          "ko": "그 남자는"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그는)"
+        },
+        {
+          "text": "loved",
+          "role": "V",
+          "sub": true,
+          "ko": "사랑했다"
+        },
+        {
+          "text": "her,",
+          "role": "O",
+          "sub": true,
+          "ko": "그녀를"
+        },
+        {
+          "text": "thought:",
+          "role": "V",
+          "sub": false,
+          "ko": "생각했다"
+        },
+        {
+          "text": "'Sooner than let your wife die,",
+          "role": "M",
+          "sub": true,
+          "ko": "아내를 죽게 두느니 차라리"
+        },
+        {
+          "text": "bring",
+          "role": "V",
+          "sub": true,
+          "ko": "가져다주어라"
+        },
+        {
+          "text": "her",
+          "role": "IO",
+          "sub": true,
+          "ko": "그녀에게"
+        },
+        {
+          "text": "some of the rampion",
+          "role": "O",
+          "sub": true,
+          "ko": "라푼첼을 좀"
+        },
+        {
+          "text": "yourself,",
+          "role": "M",
+          "sub": true,
+          "ko": "네가 직접"
+        },
+        {
+          "text": "let it cost what it will.'",
+          "role": "M",
+          "sub": true,
+          "ko": "무슨 대가를 치르든"
+        }
+      ],
+      "skeleton": "The man thought: '… bring her some of the rampion …' (S + V + 인용)",
+      "explanation": "주어 The man과 동사 thought 사이에 who loved her라는 설명이 끼어 있다. 콜론 뒤 따옴표 안이 생각한 내용으로, 남자가 자기 자신에게 명령하듯 말한다. bring her some of the rampion은 '그녀에게(IO) 라푼첼을(O) 가져다주다'의 4형식이다. Sooner than A는 'A하느니 차라리', let it cost what it will은 '대가가 얼마든 상관없이'라는 옛 표현이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거완료 had + 과거분사 (부사가 끼어든 형태)",
+      "tags": [
+        "시제",
+        "어순"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "had long in vain wished"
+      ],
+      "explanation": "had wished는 과거완료로, 이야기 시점(옛날) 이전부터 오랫동안 계속 바라 왔음을 나타낸다. had와 wished 사이에 long(오랫동안)과 in vain(헛되이)이 끼어 있어 '오랫동안 헛되이 바라 왔다'가 된다. 요즘 영어라면 had wished for a child for a long time in vain처럼 뒤로 빼는 경우가 많다.",
+      "example": {
+        "en": "They had long hoped to visit Paris.",
+        "ko": "그들은 오랫동안 파리에 가 보기를 바라 왔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "전치사 + 관계대명사 from which",
+      "tags": [
+        "관계사",
+        "수동태"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "from which a splendid garden could be seen"
+      ],
+      "explanation": "from which = from the window. '그 창문으로부터 멋진 정원이 보일 수 있었다'라는 뜻으로 앞의 a little window를 꾸민다. 관계대명사 앞에 전치사를 붙이면 which 다음에 완전한 문장이 온다. could be seen은 조동사 + 수동태(be + 과거분사)로 '보일 수 있었다'.",
+      "example": {
+        "en": "This is the hill from which you can see the whole city.",
+        "ko": "이곳이 도시 전체를 볼 수 있는 언덕이다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "so + 형용사 + that ~ (너무 …해서 ~하다)",
+      "tags": [
+        "부사절",
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "so fresh and green that"
+      ],
+      "explanation": "so 뒤의 형용사(fresh and green)가 정도를, that 이하가 그 결과를 나타낸다. '그것이 아주 싱싱하고 파래 보여서 (결과) 그녀는 그것을 몹시 먹고 싶어 했다'. 결과가 she longed for it, she quite pined away, and began …처럼 여러 개 이어진다.",
+      "example": {
+        "en": "The soup was so hot that I couldn't eat it.",
+        "ko": "수프가 너무 뜨거워서 나는 먹을 수가 없었다."
+      },
+      "note": "같은 문장의 a bed which was planted with …에서 bed는 침대가 아니라 '꽃밭, 채소밭'이라는 뜻이다."
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(There + be) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있다",
+      "form": "과거형",
+      "synonyms": [
+        "existed",
+        "lived"
+      ],
+      "ipa": "/wɜːr/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "long ago"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자",
+      "form": null,
+      "synonyms": [
+        "husband",
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "woman": {
+      "lemma": "woman",
+      "pos": "noun",
+      "ko": "여자, 아내",
+      "form": null,
+      "synonyms": [
+        "wife",
+        "lady"
+      ],
+      "ipa": "/ˈwʊmən/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) 과거완료; 가지고 있었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "오랫동안",
+      "form": null,
+      "synonyms": [
+        "for a long time",
+        "lengthily"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "vain": {
+      "lemma": "vain",
+      "pos": "adjective",
+      "ko": "헛된 (in vain: 헛되이)",
+      "form": null,
+      "synonyms": [
+        "useless",
+        "fruitless"
+      ],
+      "ipa": "/veɪn/"
+    },
+    "wished": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "바라다 (wish for: ~을 원하다)",
+      "form": "과거분사",
+      "synonyms": [
+        "longed",
+        "hoped",
+        "desired"
+      ],
+      "ipa": "/wɪʃt/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 (위해), ~을 향해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "child": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이",
+      "form": null,
+      "synonyms": [
+        "baby",
+        "infant"
+      ],
+      "ipa": "/tʃaɪld/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~때에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "length": {
+      "lemma": "length",
+      "pos": "noun",
+      "ko": "(at length) 마침내",
+      "form": null,
+      "synonyms": [
+        "last"
+      ],
+      "ipa": "/lɛŋkθ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "hoped": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "희망하다, 바라다",
+      "form": "과거형",
+      "synonyms": [
+        "wished",
+        "expected"
+      ],
+      "ipa": "/hoʊpt/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사); so … that 너무 …해서",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "god": {
+      "lemma": "God",
+      "pos": "proper-noun",
+      "ko": "하느님, 신",
+      "form": null,
+      "ipa": "/ɡɑːd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다 (was about to: 막 ~하려 하다)",
+      "form": "과거형",
+      "synonyms": [
+        "stood",
+        "seemed"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adjective",
+      "ko": "(be about to) 막 ~하려는",
+      "form": null,
+      "synonyms": [
+        "ready",
+        "going"
+      ],
+      "ipa": "/əˈbaʊt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로, ~에게; (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "grant": {
+      "lemma": "grant",
+      "pos": "verb",
+      "ko": "(소원을) 들어주다",
+      "form": null,
+      "synonyms": [
+        "fulfill",
+        "give",
+        "allow"
+      ],
+      "ipa": "/ɡrænt/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의; 그녀를, 그녀에게",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "desire": {
+      "lemma": "desire",
+      "pos": "noun",
+      "ko": "소원, 바람",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "longing"
+      ],
+      "ipa": "/dɪˈzaɪər/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "persons",
+        "folk"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "window": {
+      "lemma": "window",
+      "pos": "noun",
+      "ko": "창문",
+      "form": null,
+      "synonyms": [
+        "casement",
+        "pane"
+      ],
+      "ipa": "/ˈwɪndoʊ/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "noun",
+      "ko": "뒤쪽",
+      "form": null,
+      "synonyms": [
+        "rear",
+        "behind"
+      ],
+      "ipa": "/bæk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": null,
+      "synonyms": [
+        "home",
+        "cottage"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "splendid": {
+      "lemma": "splendid",
+      "pos": "adjective",
+      "ko": "멋진, 훌륭한",
+      "form": null,
+      "synonyms": [
+        "magnificent",
+        "gorgeous",
+        "fine"
+      ],
+      "ipa": "/ˈsplɛndɪd/"
+    },
+    "garden": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원, 뜰",
+      "form": null,
+      "synonyms": [
+        "yard",
+        "grounds"
+      ],
+      "ipa": "/ˈɡɑːrdən/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(조동사 뒤) ~되다, ~이다",
+      "form": null,
+      "synonyms": [
+        "become"
+      ],
+      "ipa": "/biː/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거분사",
+      "synonyms": [
+        "viewed",
+        "observed"
+      ],
+      "ipa": "/siːn/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "가득한 (full of: ~로 가득한)",
+      "form": null,
+      "synonyms": [
+        "filled",
+        "packed"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장, 매우 (최상급)",
+      "form": null,
+      "synonyms": [
+        "very",
+        "extremely"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "flowers": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": "복수형",
+      "synonyms": [
+        "blossoms",
+        "blooms"
+      ],
+      "ipa": "/ˈflaʊərz/"
+    },
+    "herbs": {
+      "lemma": "herb",
+      "pos": "noun",
+      "ko": "풀, 약초, 향초",
+      "form": "복수형",
+      "synonyms": [
+        "plants",
+        "greens"
+      ],
+      "ipa": "/ɜːrbz/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만, 그러나",
+      "form": null,
+      "synonyms": [
+        "but",
+        "nevertheless",
+        "yet"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "surrounded": {
+      "lemma": "surround",
+      "pos": "verb",
+      "ko": "둘러싸다",
+      "form": "과거분사",
+      "synonyms": [
+        "enclosed",
+        "encircled"
+      ],
+      "ipa": "/səˈraʊndɪd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; ~ 옆에",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "높은",
+      "form": null,
+      "synonyms": [
+        "tall",
+        "lofty"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "wall": {
+      "lemma": "wall",
+      "pos": "noun",
+      "ko": "담, 벽",
+      "form": null,
+      "synonyms": [
+        "fence",
+        "barrier"
+      ],
+      "ipa": "/wɔːl/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "아무 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(no one) 아무도",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "dared": {
+      "lemma": "dare",
+      "pos": "verb",
+      "ko": "감히 ~하다",
+      "form": "과거형",
+      "synonyms": [
+        "ventured",
+        "risked"
+      ],
+      "ipa": "/dɛrd/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "enter",
+        "walk"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "belonged": {
+      "lemma": "belong",
+      "pos": "verb",
+      "ko": "(belong to) ~의 것이다",
+      "form": "과거형",
+      "synonyms": [
+        "pertained"
+      ],
+      "ipa": "/bɪˈlɔːŋd/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "enchantress": {
+      "lemma": "enchantress",
+      "pos": "noun",
+      "ko": "마녀, 마법을 쓰는 여자",
+      "form": null,
+      "synonyms": [
+        "witch",
+        "sorceress"
+      ],
+      "ipa": "/ɪnˈtʃæntrəs/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 대단한",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "mighty"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "power": {
+      "lemma": "power",
+      "pos": "noun",
+      "ko": "힘, 마력",
+      "form": null,
+      "synonyms": [
+        "might",
+        "strength",
+        "force"
+      ],
+      "ipa": "/ˈpaʊər/"
+    },
+    "dreaded": {
+      "lemma": "dread",
+      "pos": "verb",
+      "ko": "몹시 두려워하다",
+      "form": "과거분사",
+      "synonyms": [
+        "feared",
+        "terrified"
+      ],
+      "ipa": "/ˈdrɛdɪd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 온",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상, 세상 사람들",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "everyone"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날 (one day: 어느 날)",
+      "form": null,
+      "synonyms": [
+        "time",
+        "occasion"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "staying",
+        "waiting"
+      ],
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다 (look down: 내려다보다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "gazing",
+        "peering"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward",
+        "below"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때, 그때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "noticed",
+        "spotted"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "bed": {
+      "lemma": "bed",
+      "pos": "noun",
+      "ko": "(꽃·채소의) 밭, 화단",
+      "form": null,
+      "synonyms": [
+        "plot",
+        "patch"
+      ],
+      "ipa": "/bɛd/"
+    },
+    "planted": {
+      "lemma": "plant",
+      "pos": "verb",
+      "ko": "심다",
+      "form": "과거분사",
+      "synonyms": [
+        "sown",
+        "seeded"
+      ],
+      "ipa": "/ˈplæntɪd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~로, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "rampion": {
+      "lemma": "rampion",
+      "pos": "noun",
+      "ko": "라푼첼 (초롱꽃과 채소, 잎·뿌리를 먹음)",
+      "form": null,
+      "synonyms": [
+        "rapunzel"
+      ],
+      "ipa": "/ˈræmpiən/"
+    },
+    "rapunzel": {
+      "lemma": "rapunzel",
+      "pos": "noun",
+      "ko": "라푼첼 (rampion의 독일어 이름)",
+      "form": null,
+      "synonyms": [
+        "rampion"
+      ],
+      "ipa": "/ˌrɑːˈpʊzəl/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "~해 보이다",
+      "form": "과거형",
+      "synonyms": [
+        "seemed",
+        "appeared"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 그렇게",
+      "form": null,
+      "synonyms": [
+        "very",
+        "such"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "fresh": {
+      "lemma": "fresh",
+      "pos": "adjective",
+      "ko": "싱싱한",
+      "form": null,
+      "synonyms": [
+        "crisp",
+        "new"
+      ],
+      "ipa": "/frɛʃ/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "푸른, 파릇파릇한",
+      "form": null,
+      "synonyms": [
+        "leafy",
+        "verdant"
+      ],
+      "ipa": "/ɡriːn/"
+    },
+    "longed": {
+      "lemma": "long",
+      "pos": "verb",
+      "ko": "몹시 바라다 (long for: ~을 갈망하다)",
+      "form": "과거형",
+      "synonyms": [
+        "yearned",
+        "craved"
+      ],
+      "ipa": "/lɔːŋd/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "아주, 완전히",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "utterly"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "pined": {
+      "lemma": "pine",
+      "pos": "verb",
+      "ko": "(pine away) 시름시름 야위다",
+      "form": "과거형",
+      "synonyms": [
+        "languished",
+        "wasted"
+      ],
+      "ipa": "/paɪnd/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "(pine away) 점점 사라져, 계속해서",
+      "form": null,
+      "synonyms": [
+        "off"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "started"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "~해 보이다",
+      "form": null,
+      "synonyms": [
+        "seem",
+        "appear"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "pale": {
+      "lemma": "pale",
+      "pos": "adjective",
+      "ko": "창백한",
+      "form": null,
+      "synonyms": [
+        "pallid",
+        "wan"
+      ],
+      "ipa": "/peɪl/"
+    },
+    "miserable": {
+      "lemma": "miserable",
+      "pos": "adjective",
+      "ko": "비참한, 초췌한",
+      "form": null,
+      "synonyms": [
+        "wretched",
+        "unhappy"
+      ],
+      "ipa": "/ˈmɪzərəbəl/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러자, 그때",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterward"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "husband": {
+      "lemma": "husband",
+      "pos": "noun",
+      "ko": "남편",
+      "form": null,
+      "synonyms": [
+        "spouse",
+        "partner"
+      ],
+      "ipa": "/ˈhʌzbənd/"
+    },
+    "alarmed": {
+      "lemma": "alarm",
+      "pos": "verb",
+      "ko": "놀라게 하다 (was alarmed: 놀랐다)",
+      "form": "과거분사",
+      "synonyms": [
+        "frightened",
+        "worried"
+      ],
+      "ipa": "/əˈlɑːrmd/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거형",
+      "synonyms": [
+        "inquired",
+        "questioned"
+      ],
+      "ipa": "/æskt/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇; ~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "ails": {
+      "lemma": "ail",
+      "pos": "verb",
+      "ko": "괴롭히다, 아프게 하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "troubles",
+        "afflicts"
+      ],
+      "ipa": "/eɪlz/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "사랑하는, 소중한",
+      "form": null,
+      "synonyms": [
+        "beloved",
+        "darling"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "wife": {
+      "lemma": "wife",
+      "pos": "noun",
+      "ko": "아내",
+      "form": null,
+      "synonyms": [
+        "spouse",
+        "partner"
+      ],
+      "ipa": "/waɪf/"
+    },
+    "ah": {
+      "lemma": "ah",
+      "pos": "interjection",
+      "ko": "아 (탄식)",
+      "form": null,
+      "ipa": "/ɑː/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "answered",
+        "responded"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "can't": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "줄임말 (cannot)",
+      "ipa": "/kænt/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": null,
+      "synonyms": [
+        "consume",
+        "have"
+      ],
+      "ipa": "/iːt/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의, 좀",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "lies",
+        "grows"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "die": {
+      "lemma": "die",
+      "pos": "verb",
+      "ko": "죽다",
+      "form": null,
+      "synonyms": [
+        "perish",
+        "pass away"
+      ],
+      "ipa": "/daɪ/"
+    },
+    "loved": {
+      "lemma": "love",
+      "pos": "verb",
+      "ko": "사랑하다",
+      "form": "과거형",
+      "synonyms": [
+        "adored",
+        "cherished"
+      ],
+      "ipa": "/lʌvd/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "reflected",
+        "considered"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "sooner": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "(sooner than) ~하느니 차라리",
+      "form": "비교급",
+      "synonyms": [
+        "rather"
+      ],
+      "ipa": "/ˈsuːnər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 두다, ~하게 하다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져다주다",
+      "form": null,
+      "synonyms": [
+        "fetch",
+        "carry"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "네가 직접, 너 자신",
+      "form": null,
+      "ipa": "/jərˈsɛlf/"
+    },
+    "cost": {
+      "lemma": "cost",
+      "pos": "verb",
+      "ko": "(대가·비용이) 들다",
+      "form": null,
+      "synonyms": [
+        "require",
+        "demand"
+      ],
+      "ipa": "/kɑːst/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다; (what it will) 무엇이든 ~하는 대로",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "twilight": {
+      "lemma": "twilight",
+      "pos": "noun",
+      "ko": "해 질 녘, 황혼",
+      "form": null,
+      "synonyms": [
+        "dusk",
+        "evening",
+        "nightfall"
+      ],
+      "ipa": "/ˈtwaɪˌlaɪt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "clambered": {
+      "lemma": "clamber",
+      "pos": "verb",
+      "ko": "(손발로) 기어오르내리다",
+      "form": "과거형",
+      "synonyms": [
+        "climbed",
+        "scrambled"
+      ],
+      "ipa": "/ˈklæmbərd/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~을 넘어",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "hastily": {
+      "lemma": "hastily",
+      "pos": "adverb",
+      "ko": "서둘러, 급히",
+      "form": null,
+      "synonyms": [
+        "quickly",
+        "hurriedly"
+      ],
+      "ipa": "/ˈheɪstəli/"
+    },
+    "clutched": {
+      "lemma": "clutch",
+      "pos": "verb",
+      "ko": "움켜쥐다",
+      "form": "과거형",
+      "synonyms": [
+        "grabbed",
+        "seized",
+        "grasped"
+      ],
+      "ipa": "/klʌtʃt/"
+    },
+    "handful": {
+      "lemma": "handful",
+      "pos": "noun",
+      "ko": "한 줌, 한 움큼",
+      "form": null,
+      "synonyms": [
+        "fistful",
+        "bunch"
+      ],
+      "ipa": "/ˈhændˌfʊl/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "가져가다",
+      "form": "과거형",
+      "synonyms": [
+        "carried",
+        "brought"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다",
+      "form": "과거형",
+      "synonyms": [
+        "prepared",
+        "fixed"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "herself": {
+      "lemma": "herself",
+      "pos": "pronoun",
+      "ko": "그녀 자신(에게)",
+      "form": null,
+      "ipa": "/hərˈsɛlf/"
+    },
+    "salad": {
+      "lemma": "salad",
+      "pos": "noun",
+      "ko": "샐러드",
+      "form": null,
+      "synonyms": [
+        "greens"
+      ],
+      "ipa": "/ˈsæləd/"
+    },
+    "ate": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": "과거형",
+      "synonyms": [
+        "devoured",
+        "consumed"
+      ],
+      "ipa": "/eɪt/"
+    },
+    "greedily": {
+      "lemma": "greedily",
+      "pos": "adverb",
+      "ko": "게걸스럽게, 탐욕스럽게",
+      "form": null,
+      "synonyms": [
+        "hungrily",
+        "ravenously",
+        "eagerly"
+      ],
+      "ipa": "/ˈɡriːdəli/"
+    }
+  }
+}
