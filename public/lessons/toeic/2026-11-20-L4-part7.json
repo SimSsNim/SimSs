@@ -1,0 +1,2121 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-20-L4-part7",
+  "date": "2026-11-20",
+  "level": 4,
+  "title": "Dunmore Freight Distribution Center Article",
+  "titleKo": "던모어 화물 자동화 물류센터 기사",
+  "genre": "article",
+  "tags": [
+    "TOEIC Part 7",
+    "기사",
+    "주문·배송"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 266,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "던모어 화물, 자동화 물류센터 연다"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "지역 최대 운송 회사 중 하나인 던모어 화물은 화요일, 내년 봄 케슬러 폴스에 새 물류센터를 연다고 발표했다. 현재 공항 근처에 건설 중인 이 시설은 회사 물류망에서 처음으로 자동 분류 장비에 크게 의존하는 곳이 된다. 알리시아 모레노 사장에 따르면, 새 시스템으로 던모어는 기존 창고보다 시간당 거의 두 배 많은 소포를 처리할 수 있게 된다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "이번 확장은 온라인 소매업체들이 고객을 위해 더 빠른 배송을 요구하는 시기에 이뤄진다. 던모어의 경쟁사 몇 곳도 지난 1년 동안 비슷한 투자를 했다. 모레노 사장은 센터가 완전히 가동되면 정오 전에 들어온 주문 대부분이 당일에 지역 내 고객에게 도착할 것이라고 말했다. 현재 이 회사는 영업일 기준 이틀 안의 배송을 보장한다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "ko": "이 시설은 로봇을 폭넓게 활용하지만, 약 350개의 새 일자리를 만들 것으로 예상된다. 직무에는 장비 기술자, 재고 관리 전문가, 운전기사가 포함된다. 던모어는 1월 12일 케슬러 폴스 주민센터에서 채용 박람회를 열 계획이며, 경력이 없는 지원자를 위한 교육 과정을 제공하기 위해 할번 기술대학과 제휴를 맺었다. 모레노 사장은 회사가 케슬러 폴스에 사는 지원자를 우선 채용할 것이라고 덧붙였다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s13",
+        "s14",
+        "s15"
+      ],
+      "ko": "지역 관계자들은 이 소식을 반겼다. 데니스 오코로 시장은 이 사업이 지역에 꼭 필요한 일자리를 가져오고, 다른 기업들도 시의 성장하는 산업 단지로 끌어들일 수 있다고 말했다. 공사는 3월에 끝날 예정이며, 곧이어 운영이 시작된다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dunmore Freight to Open Automated Distribution Center",
+      "ko": "던모어 화물, 자동화 물류센터 연다",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Dunmore Freight, one of the largest shipping companies in the region, announced on Tuesday that it will open a new distribution center in Kessler Falls next spring.",
+      "ko": "지역 최대 운송 회사 중 하나인 던모어 화물은 화요일, 내년 봄 케슬러 폴스에 새 물류센터를 연다고 발표했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The facility, which is currently under construction near the airport, will be the first in the company's network to rely heavily on automated sorting equipment.",
+      "ko": "현재 공항 근처에 건설 중인 이 시설은 회사 물류망에서 처음으로 자동 분류 장비에 크게 의존하는 곳이 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "According to company president Alicia Moreno, the new system will allow Dunmore to process nearly twice as many packages per hour as its existing warehouses.",
+      "ko": "알리시아 모레노 사장에 따르면, 새 시스템으로 던모어는 기존 창고보다 시간당 거의 두 배 많은 소포를 처리할 수 있게 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "The expansion comes at a time when online retailers are demanding faster delivery for their customers.",
+      "ko": "이번 확장은 온라인 소매업체들이 고객을 위해 더 빠른 배송을 요구하는 시기에 이뤄진다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Several of Dunmore's competitors have made similar investments over the past year.",
+      "ko": "던모어의 경쟁사 몇 곳도 지난 1년 동안 비슷한 투자를 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Ms. Moreno said that once the center is fully operational, most orders placed before noon will reach customers within the region on the same day.",
+      "ko": "모레노 사장은 센터가 완전히 가동되면 정오 전에 들어온 주문 대부분이 당일에 지역 내 고객에게 도착할 것이라고 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Currently, the company guarantees delivery within two business days.",
+      "ko": "현재 이 회사는 영업일 기준 이틀 안의 배송을 보장한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Although the facility will make extensive use of robots, it is expected to create about 350 new jobs.",
+      "ko": "이 시설은 로봇을 폭넓게 활용하지만, 약 350개의 새 일자리를 만들 것으로 예상된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Positions will include equipment technicians, inventory specialists, and drivers.",
+      "ko": "직무에는 장비 기술자, 재고 관리 전문가, 운전기사가 포함된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "Dunmore plans to hold a recruitment fair at the Kessler Falls Community Center on January 12, and it has partnered with Halvern Technical College to offer training courses for candidates without prior experience.",
+      "ko": "던모어는 1월 12일 케슬러 폴스 주민센터에서 채용 박람회를 열 계획이며, 경력이 없는 지원자를 위한 교육 과정을 제공하기 위해 할번 기술대학과 제휴를 맺었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p4",
+      "en": "Ms. Moreno added that the company would give priority to applicants who live in Kessler Falls.",
+      "ko": "모레노 사장은 회사가 케슬러 폴스에 사는 지원자를 우선 채용할 것이라고 덧붙였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "Local officials have welcomed the news.",
+      "ko": "지역 관계자들은 이 소식을 반겼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p5",
+      "en": "Mayor Denise Okoro noted that the project will bring much-needed employment to the area and could attract other businesses to the city's growing industrial zone.",
+      "ko": "데니스 오코로 시장은 이 사업이 지역에 꼭 필요한 일자리를 가져오고, 다른 기업들도 시의 성장하는 산업 단지로 끌어들일 수 있다고 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p5",
+      "en": "Construction is scheduled to be completed in March, with operations beginning shortly afterward.",
+      "ko": "공사는 3월에 끝날 예정이며, 곧이어 운영이 시작된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "rely on",
+      "pos": "phrase",
+      "meaningKo": "~에 의존하다",
+      "ipa": "/rɪˈlaɪ ɑːn/",
+      "synonyms": [
+        "depend on",
+        "count on"
+      ],
+      "matchText": "rely heavily on",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Many small shops rely on online sales.",
+        "ko": "많은 작은 가게가 온라인 판매에 의존한다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "operational",
+      "pos": "adjective",
+      "meaningKo": "가동 중인, 운영 가능한",
+      "ipa": "/ˌɑːpəˈreɪʃənəl/",
+      "synonyms": [
+        "running",
+        "functioning"
+      ],
+      "matchText": "operational",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The new factory will be operational in June.",
+        "ko": "새 공장은 6월에 가동된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "extensive",
+      "pos": "adjective",
+      "meaningKo": "폭넓은, 광범위한",
+      "ipa": "/ɪkˈstensɪv/",
+      "synonyms": [
+        "broad",
+        "widespread"
+      ],
+      "matchText": "extensive",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The hotel underwent extensive repairs.",
+        "ko": "그 호텔은 대대적인 수리를 거쳤다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "prior",
+      "pos": "adjective",
+      "meaningKo": "이전의, 사전의",
+      "ipa": "/ˈpraɪər/",
+      "synonyms": [
+        "previous",
+        "earlier"
+      ],
+      "matchText": "prior",
+      "sentenceId": "s11",
+      "example": {
+        "en": "No prior knowledge is required for this course.",
+        "ko": "이 강좌는 사전 지식이 필요 없다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "give priority to",
+      "pos": "phrase",
+      "meaningKo": "~을 우선시하다",
+      "ipa": "/ɡɪv praɪˈɔːrəti tuː/",
+      "synonyms": [
+        "favor",
+        "put first"
+      ],
+      "matchText": "give priority to",
+      "sentenceId": "s12",
+      "example": {
+        "en": "The clinic gives priority to emergency patients.",
+        "ko": "그 병원은 응급 환자를 우선한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The facility,",
+          "role": "S",
+          "ko": "그 시설은"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그리고 그것은",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "currently",
+          "role": "M",
+          "ko": "현재",
+          "sub": true
+        },
+        {
+          "text": "under construction near the airport,",
+          "role": "C",
+          "ko": "공항 근처에서 건설 중인",
+          "sub": true
+        },
+        {
+          "text": "will be",
+          "role": "V",
+          "ko": "~이 될 것이다"
+        },
+        {
+          "text": "the first in the company's network",
+          "role": "C",
+          "ko": "회사 물류망에서 첫 번째 곳"
+        },
+        {
+          "text": "to rely heavily on automated sorting equipment.",
+          "role": "M",
+          "ko": "자동 분류 장비에 크게 의존하는"
+        }
+      ],
+      "skeleton": "S, [which V C], will be C to V",
+      "explanation": "콤마 사이 which절은 주어를 덧붙여 설명한다. the first to V는 '처음으로 ~하는 것(곳)'."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Ms. Moreno",
+          "role": "S",
+          "ko": "모레노 사장은"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "ko": "말했다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라고",
+          "sub": true
+        },
+        {
+          "text": "once",
+          "role": "CONJ",
+          "ko": "일단 ~하면",
+          "sub": true
+        },
+        {
+          "text": "the center",
+          "role": "S",
+          "ko": "센터가",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "fully operational,",
+          "role": "C",
+          "ko": "완전히 가동되는",
+          "sub": true
+        },
+        {
+          "text": "most orders",
+          "role": "S",
+          "ko": "대부분의 주문이",
+          "sub": true
+        },
+        {
+          "text": "placed before noon",
+          "role": "M",
+          "ko": "정오 전에 접수된",
+          "sub": true
+        },
+        {
+          "text": "will reach",
+          "role": "V",
+          "ko": "도착할 것이다",
+          "sub": true
+        },
+        {
+          "text": "customers",
+          "role": "O",
+          "ko": "고객들에게",
+          "sub": true
+        },
+        {
+          "text": "within the region on the same day.",
+          "role": "M",
+          "ko": "당일 지역 내에서",
+          "sub": true
+        }
+      ],
+      "skeleton": "S said that [once S V C], S (p.p. ~) will V O M",
+      "explanation": "that절 안에 once(일단 ~하면) 부사절이 들어 있다. placed before noon은 orders를 뒤에서 꾸미는 과거분사."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "as many + 명사 + as (배수 비교)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "twice as many packages per hour as"
+      ],
+      "explanation": "배수사(twice, three times) + as many/much + 명사 + as는 '~보다 몇 배 많은 …'. 셀 수 있는 packages이므로 many를 쓴다.",
+      "example": {
+        "en": "The new oven bakes three times as many loaves as the old one.",
+        "ko": "새 오븐은 예전 것보다 세 배 많은 빵을 굽는다."
+      },
+      "note": "배수사는 반드시 as ~ as 앞에 온다(as twice many는 틀림)."
+    },
+    {
+      "id": "g2",
+      "title": "시간 부사절의 현재 시제",
+      "tags": [
+        "부사절",
+        "시제"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "once the center is fully operational"
+      ],
+      "explanation": "once, when, after 같은 시간·조건 부사절에서는 미래 일이라도 현재 시제를 쓴다. 그래서 will be가 아니라 is.",
+      "example": {
+        "en": "Once the contract is signed, we will start work.",
+        "ko": "계약이 체결되면 작업을 시작할 것이다."
+      },
+      "note": "부사절 안 빈칸에 will이 있는 보기는 먼저 지운다."
+    },
+    {
+      "id": "g3",
+      "title": "양보의 접속사 although",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "Although the facility will make extensive use of robots"
+      ],
+      "explanation": "although는 '~이지만'이라는 양보의 뜻으로 뒤에 절을 이끈다. 로봇을 많이 쓰지만 일자리도 많이 생긴다는 예상 밖의 대비를 나타낸다.",
+      "example": {
+        "en": "Although sales fell, profits rose.",
+        "ko": "매출은 줄었지만 이익은 늘었다."
+      },
+      "note": "although(접속사) + 절 / despite(전치사) + 명사."
+    }
+  ],
+  "glossary": {
+    "dunmore": {
+      "lemma": "Dunmore",
+      "pos": "proper-noun",
+      "ko": "던모어 (회사 이름의 일부)",
+      "ipa": "/ˈdʌnmɔːr/"
+    },
+    "freight": {
+      "lemma": "freight",
+      "pos": "noun",
+      "ko": "화물 운송 (회사 이름의 일부)",
+      "synonyms": [
+        "cargo",
+        "shipping"
+      ],
+      "ipa": "/freɪt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~할 예정 (기사 제목); ~에게, ~하기 위해",
+      "ipa": "/tuː/"
+    },
+    "open": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열다, 개장하다",
+      "synonyms": [
+        "launch",
+        "start"
+      ],
+      "ipa": "/ˈoʊpən/"
+    },
+    "automated": {
+      "lemma": "automated",
+      "pos": "adjective",
+      "ko": "자동화된",
+      "synonyms": [
+        "automatic",
+        "computerized"
+      ],
+      "ipa": "/ˈɔːtəˌmeɪtɪd/"
+    },
+    "distribution": {
+      "lemma": "distribution",
+      "pos": "noun",
+      "ko": "유통, 배송",
+      "synonyms": [
+        "delivery",
+        "logistics"
+      ],
+      "ipa": "/ˌdɪstrəˈbjuːʃən/"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터",
+      "synonyms": [
+        "facility",
+        "hub"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나",
+      "ipa": "/wʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~중의; ~의",
+      "ipa": "/ʌv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "ipa": "/ðə/"
+    },
+    "largest": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "가장 큰",
+      "form": "최상급",
+      "synonyms": [
+        "biggest",
+        "major"
+      ],
+      "ipa": "/ˈlɑːrdʒəst/"
+    },
+    "shipping": {
+      "lemma": "shipping",
+      "pos": "noun",
+      "ko": "운송, 배송",
+      "synonyms": [
+        "delivery",
+        "freight"
+      ],
+      "ipa": "/ˈʃɪpɪŋ/"
+    },
+    "companies": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": "복수형",
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniːz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "ipa": "/ɪn/"
+    },
+    "region": {
+      "lemma": "region",
+      "pos": "noun",
+      "ko": "지역",
+      "synonyms": [
+        "area",
+        "district"
+      ],
+      "ipa": "/ˈriːdʒən/"
+    },
+    "announced": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "발표하다",
+      "form": "과거형",
+      "synonyms": [
+        "declare",
+        "reveal"
+      ],
+      "ipa": "/əˈnaʊnst/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에; ~에 의존하여 (rely on)",
+      "ipa": "/ɑːn/"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일",
+      "ipa": "/ˈtuːzdi/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라고, ~라는 것",
+      "ipa": "/ðæt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (회사)",
+      "ipa": "/ɪt/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "ipa": "/wɪl/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "ipa": "/ə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "synonyms": [
+        "fresh",
+        "additional"
+      ],
+      "ipa": "/nuː/"
+    },
+    "kessler": {
+      "lemma": "Kessler",
+      "pos": "proper-noun",
+      "ko": "케슬러 (도시 이름 Kessler Falls의 일부)",
+      "ipa": "/ˈkɛslər/"
+    },
+    "falls": {
+      "lemma": "Falls",
+      "pos": "proper-noun",
+      "ko": "폴스 (도시 이름 Kessler Falls의 일부)",
+      "ipa": "/fɔːlz/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의, 내년",
+      "synonyms": [
+        "coming",
+        "following"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "봄",
+      "synonyms": [
+        "springtime"
+      ],
+      "ipa": "/sprɪŋ/"
+    },
+    "facility": {
+      "lemma": "facility",
+      "pos": "noun",
+      "ko": "시설",
+      "synonyms": [
+        "building",
+        "site"
+      ],
+      "ipa": "/fəˈsɪlɪti/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그리고 그것은 (관계대명사)",
+      "ipa": "/wɪtʃ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "currently": {
+      "lemma": "currently",
+      "pos": "adverb",
+      "ko": "현재",
+      "synonyms": [
+        "presently",
+        "now"
+      ],
+      "ipa": "/ˈkɜːrəntli/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~중인 (under construction)",
+      "ipa": "/ˈʌndər/"
+    },
+    "construction": {
+      "lemma": "construction",
+      "pos": "noun",
+      "ko": "건설, 공사",
+      "synonyms": [
+        "building",
+        "development"
+      ],
+      "ipa": "/kənˈstrʌkʃən/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "preposition",
+      "ko": "~근처에",
+      "ipa": "/nɪr/"
+    },
+    "airport": {
+      "lemma": "airport",
+      "pos": "noun",
+      "ko": "공항",
+      "synonyms": [
+        "airfield"
+      ],
+      "ipa": "/ˈɛrˌpɔːrt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다, ~되다",
+      "ipa": "/biː/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의",
+      "synonyms": [
+        "initial",
+        "earliest"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "company's": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사의",
+      "form": "소유격",
+      "synonyms": [
+        "firm"
+      ],
+      "ipa": "/ˈkʌmpəniz/"
+    },
+    "network": {
+      "lemma": "network",
+      "pos": "noun",
+      "ko": "망, 네트워크",
+      "synonyms": [
+        "system",
+        "chain"
+      ],
+      "ipa": "/ˈnɛˌtwɜːrk/"
+    },
+    "rely": {
+      "lemma": "rely",
+      "pos": "verb",
+      "ko": "의존하다",
+      "synonyms": [
+        "depend",
+        "count"
+      ],
+      "ipa": "/rɪˈlaɪ/"
+    },
+    "heavily": {
+      "lemma": "heavily",
+      "pos": "adverb",
+      "ko": "크게, 많이",
+      "synonyms": [
+        "greatly",
+        "largely"
+      ],
+      "ipa": "/ˈhɛvəli/"
+    },
+    "sorting": {
+      "lemma": "sorting",
+      "pos": "noun",
+      "ko": "분류",
+      "synonyms": [
+        "classifying",
+        "grouping"
+      ],
+      "ipa": "/ˈsɔːrtɪŋ/"
+    },
+    "equipment": {
+      "lemma": "equipment",
+      "pos": "noun",
+      "ko": "장비",
+      "synonyms": [
+        "machinery",
+        "gear"
+      ],
+      "ipa": "/ɪˈkwɪpmənt/"
+    },
+    "according": {
+      "lemma": "according to",
+      "pos": "preposition",
+      "ko": "~에 따르면 (according to의 일부)",
+      "ipa": "/əˈkɔːrdɪŋ/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "president": {
+      "lemma": "president",
+      "pos": "noun",
+      "ko": "사장, 대표",
+      "synonyms": [
+        "chief executive",
+        "head"
+      ],
+      "ipa": "/ˈprɛzəˌdɛnt/"
+    },
+    "alicia": {
+      "lemma": "Alicia",
+      "pos": "proper-noun",
+      "ko": "알리시아 (사람 이름)",
+      "ipa": "/əˈlɪʃə/"
+    },
+    "moreno": {
+      "lemma": "Moreno",
+      "pos": "proper-noun",
+      "ko": "모레노 (사람 성)",
+      "ipa": "/mɔˈriːnoʊ/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템",
+      "synonyms": [
+        "setup",
+        "technology"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "allow": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "~할 수 있게 하다",
+      "synonyms": [
+        "enable",
+        "permit"
+      ],
+      "ipa": "/əˈlaʊ/"
+    },
+    "process": {
+      "lemma": "process",
+      "pos": "verb",
+      "ko": "처리하다",
+      "synonyms": [
+        "handle",
+        "sort"
+      ],
+      "ipa": "/ˈprɑːˌsɛs/"
+    },
+    "nearly": {
+      "lemma": "nearly",
+      "pos": "adverb",
+      "ko": "거의",
+      "synonyms": [
+        "almost",
+        "close to"
+      ],
+      "ipa": "/ˈnɪrli/"
+    },
+    "twice": {
+      "lemma": "twice",
+      "pos": "adverb",
+      "ko": "두 배로",
+      "synonyms": [
+        "double"
+      ],
+      "ipa": "/twaɪs/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as ~ as: …만큼 ~한)",
+      "ipa": "/æz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "ipa": "/ˈmɛni/"
+    },
+    "packages": {
+      "lemma": "package",
+      "pos": "noun",
+      "ko": "소포, 택배",
+      "form": "복수형",
+      "synonyms": [
+        "parcel",
+        "shipment"
+      ],
+      "ipa": "/ˈpækədʒəz/"
+    },
+    "per": {
+      "lemma": "per",
+      "pos": "preposition",
+      "ko": "~당",
+      "ipa": "/pɜːr/"
+    },
+    "hour": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "synonyms": [
+        "sixty minutes"
+      ],
+      "ipa": "/ˈaʊər/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "ipa": "/ɪts/"
+    },
+    "existing": {
+      "lemma": "existing",
+      "pos": "adjective",
+      "ko": "기존의",
+      "synonyms": [
+        "current",
+        "present"
+      ],
+      "ipa": "/ɪɡˈzɪstɪŋ/"
+    },
+    "warehouses": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고",
+      "form": "복수형",
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "ipa": "/ˈwɛrˌhaʊzɪz/"
+    },
+    "expansion": {
+      "lemma": "expansion",
+      "pos": "noun",
+      "ko": "확장",
+      "synonyms": [
+        "growth",
+        "enlargement"
+      ],
+      "ipa": "/ɪkˈspænʃən/"
+    },
+    "comes": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(시기에) 이뤄지다, 오다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "arrive",
+        "occur"
+      ],
+      "ipa": "/kʌmz/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "ipa": "/æt/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시기, 때",
+      "synonyms": [
+        "period",
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~하는 (때)",
+      "ipa": "/wɛn/"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adjective",
+      "ko": "온라인의",
+      "synonyms": [
+        "internet",
+        "web-based"
+      ],
+      "ipa": "/ˈɔːnˌlaɪn/"
+    },
+    "retailers": {
+      "lemma": "retailer",
+      "pos": "noun",
+      "ko": "소매업체",
+      "form": "복수형",
+      "synonyms": [
+        "seller",
+        "merchant"
+      ],
+      "ipa": "/ˈriːˌteɪlərz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~하고 있다 (진행형)",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "demanding": {
+      "lemma": "demand",
+      "pos": "verb",
+      "ko": "요구하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "require",
+        "insist on"
+      ],
+      "ipa": "/dɪˈmændɪŋ/"
+    },
+    "faster": {
+      "lemma": "fast",
+      "pos": "adjective",
+      "ko": "더 빠른",
+      "form": "비교급",
+      "synonyms": [
+        "quicker",
+        "speedier"
+      ],
+      "ipa": "/ˈfæstər/"
+    },
+    "delivery": {
+      "lemma": "delivery",
+      "pos": "noun",
+      "ko": "배송",
+      "synonyms": [
+        "shipping",
+        "dispatch"
+      ],
+      "ipa": "/dɪˈlɪvəri/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "ipa": "/fɔːr/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "ipa": "/ðɛr/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "pronoun",
+      "ko": "몇몇",
+      "ipa": "/ˈsɛvrəl/"
+    },
+    "dunmore's": {
+      "lemma": "Dunmore",
+      "pos": "proper-noun",
+      "ko": "던모어의 (회사 이름)",
+      "form": "소유격",
+      "ipa": null
+    },
+    "competitors": {
+      "lemma": "competitor",
+      "pos": "noun",
+      "ko": "경쟁사",
+      "form": "복수형",
+      "synonyms": [
+        "rival",
+        "competition"
+      ],
+      "ipa": "/kəmˈpɛtətərz/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료)",
+      "ipa": "/hæv/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(투자를) 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "undertake",
+        "carry out"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "similar": {
+      "lemma": "similar",
+      "pos": "adjective",
+      "ko": "비슷한",
+      "synonyms": [
+        "comparable",
+        "like"
+      ],
+      "ipa": "/ˈsɪmələr/"
+    },
+    "investments": {
+      "lemma": "investment",
+      "pos": "noun",
+      "ko": "투자",
+      "form": "복수형",
+      "synonyms": [
+        "spending",
+        "funding"
+      ],
+      "ipa": "/ˌɪnˈvɛstmənts/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~동안",
+      "ipa": "/ˈoʊvər/"
+    },
+    "past": {
+      "lemma": "past",
+      "pos": "adjective",
+      "ko": "지난",
+      "synonyms": [
+        "last",
+        "previous"
+      ],
+      "ipa": "/pæst/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "synonyms": [
+        "twelve months"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "state",
+        "mention"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "conjunction",
+      "ko": "일단 ~하면",
+      "ipa": "/wʌns/"
+    },
+    "fully": {
+      "lemma": "fully",
+      "pos": "adverb",
+      "ko": "완전히",
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/ˈfʊli/"
+    },
+    "operational": {
+      "lemma": "operational",
+      "pos": "adjective",
+      "ko": "가동 중인",
+      "synonyms": [
+        "running",
+        "functioning"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənəl/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "determiner",
+      "ko": "대부분의",
+      "ipa": "/moʊst/"
+    },
+    "orders": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "주문",
+      "form": "복수형",
+      "synonyms": [
+        "purchase",
+        "request"
+      ],
+      "ipa": "/ˈɔːrdərz/"
+    },
+    "placed": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "(주문을) 하다, 넣다",
+      "form": "과거분사",
+      "synonyms": [
+        "submit",
+        "make"
+      ],
+      "ipa": "/pleɪst/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~전에",
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "noon": {
+      "lemma": "noon",
+      "pos": "noun",
+      "ko": "정오",
+      "synonyms": [
+        "midday"
+      ],
+      "ipa": "/nuːn/"
+    },
+    "reach": {
+      "lemma": "reach",
+      "pos": "verb",
+      "ko": "~에 도착하다, 닿다",
+      "synonyms": [
+        "get to",
+        "arrive at"
+      ],
+      "ipa": "/riːtʃ/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~안에, ~이내에",
+      "ipa": "/wɪˈðɪn/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "guarantees": {
+      "lemma": "guarantee",
+      "pos": "verb",
+      "ko": "보장하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "promise",
+        "ensure"
+      ],
+      "ipa": "/ˌɡɛrənˈtiːz/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "ipa": "/tuː/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "영업, 업무 (business days: 영업일)",
+      "synonyms": [
+        "working",
+        "commercial"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "although": {
+      "lemma": "although",
+      "pos": "conjunction",
+      "ko": "~이지만",
+      "ipa": "/ˌɔːlˈðoʊ/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make use of: 활용하다)",
+      "synonyms": [
+        "put to"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "extensive": {
+      "lemma": "extensive",
+      "pos": "adjective",
+      "ko": "폭넓은",
+      "synonyms": [
+        "broad",
+        "widespread"
+      ],
+      "ipa": "/ɪkˈstɛnsɪv/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "noun",
+      "ko": "활용, 사용",
+      "synonyms": [
+        "application",
+        "employment"
+      ],
+      "ipa": "/juːs/"
+    },
+    "robots": {
+      "lemma": "robot",
+      "pos": "noun",
+      "ko": "로봇",
+      "form": "복수형",
+      "synonyms": [
+        "machine",
+        "automaton"
+      ],
+      "ipa": "/ˈroʊˌbɑːts/"
+    },
+    "expected": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "예상하다",
+      "form": "과거분사",
+      "synonyms": [
+        "anticipate",
+        "predict"
+      ],
+      "ipa": "/ɪkˈspɛktəd/"
+    },
+    "create": {
+      "lemma": "create",
+      "pos": "verb",
+      "ko": "만들다, 창출하다",
+      "synonyms": [
+        "generate",
+        "produce"
+      ],
+      "ipa": "/kriˈeɪt/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "약, 대략",
+      "ipa": "/əˈbaʊt/"
+    },
+    "jobs": {
+      "lemma": "job",
+      "pos": "noun",
+      "ko": "일자리",
+      "form": "복수형",
+      "synonyms": [
+        "position",
+        "post"
+      ],
+      "ipa": "/dʒɑːbz/"
+    },
+    "positions": {
+      "lemma": "position",
+      "pos": "noun",
+      "ko": "직무, 자리",
+      "form": "복수형",
+      "synonyms": [
+        "job",
+        "role"
+      ],
+      "ipa": "/pəˈzɪʃənz/"
+    },
+    "include": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함하다",
+      "synonyms": [
+        "contain",
+        "cover"
+      ],
+      "ipa": "/ˌɪnˈkluːd/"
+    },
+    "technicians": {
+      "lemma": "technician",
+      "pos": "noun",
+      "ko": "기술자",
+      "form": "복수형",
+      "synonyms": [
+        "mechanic",
+        "specialist"
+      ],
+      "ipa": "/tɛkˈnɪʃənz/"
+    },
+    "inventory": {
+      "lemma": "inventory",
+      "pos": "noun",
+      "ko": "재고",
+      "synonyms": [
+        "stock",
+        "supplies"
+      ],
+      "ipa": "/ˌɪnvənˈtɔːri/"
+    },
+    "specialists": {
+      "lemma": "specialist",
+      "pos": "noun",
+      "ko": "전문가",
+      "form": "복수형",
+      "synonyms": [
+        "expert",
+        "professional"
+      ],
+      "ipa": "/ˈspɛʃələsts/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "ipa": "/ənd/"
+    },
+    "drivers": {
+      "lemma": "driver",
+      "pos": "noun",
+      "ko": "운전기사",
+      "form": "복수형",
+      "synonyms": [
+        "chauffeur",
+        "courier"
+      ],
+      "ipa": "/ˈdraɪvərz/"
+    },
+    "plans": {
+      "lemma": "plan",
+      "pos": "verb",
+      "ko": "계획하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "intend",
+        "aim"
+      ],
+      "ipa": "/plænz/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(행사를) 열다",
+      "synonyms": [
+        "host",
+        "organize"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "recruitment": {
+      "lemma": "recruitment",
+      "pos": "noun",
+      "ko": "채용",
+      "synonyms": [
+        "hiring",
+        "employment"
+      ],
+      "ipa": "/rəˈkruːtmənt/"
+    },
+    "fair": {
+      "lemma": "fair",
+      "pos": "noun",
+      "ko": "박람회",
+      "synonyms": [
+        "expo",
+        "exhibition"
+      ],
+      "ipa": "/fɛr/"
+    },
+    "community": {
+      "lemma": "community",
+      "pos": "noun",
+      "ko": "지역 사회, 주민",
+      "synonyms": [
+        "local",
+        "neighborhood"
+      ],
+      "ipa": "/kəˈmjuːnəti/"
+    },
+    "january": {
+      "lemma": "January",
+      "pos": "proper-noun",
+      "ko": "1월",
+      "ipa": "/ˈdʒænjuˌɛri/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료)",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "partnered": {
+      "lemma": "partner",
+      "pos": "verb",
+      "ko": "제휴하다",
+      "form": "과거분사",
+      "synonyms": [
+        "team up",
+        "collaborate"
+      ],
+      "ipa": "/ˈpɑːrtnərd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~한 채로",
+      "ipa": "/wɪð/"
+    },
+    "halvern": {
+      "lemma": "Halvern",
+      "pos": "proper-noun",
+      "ko": "할번 (대학 이름의 일부)",
+      "ipa": null
+    },
+    "technical": {
+      "lemma": "technical",
+      "pos": "adjective",
+      "ko": "기술의",
+      "synonyms": [
+        "vocational",
+        "technological"
+      ],
+      "ipa": "/ˈtɛknɪkəl/"
+    },
+    "college": {
+      "lemma": "college",
+      "pos": "noun",
+      "ko": "대학",
+      "synonyms": [
+        "school",
+        "institute"
+      ],
+      "ipa": "/ˈkɑːlɪdʒ/"
+    },
+    "offer": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다",
+      "synonyms": [
+        "provide",
+        "run"
+      ],
+      "ipa": "/ˈɔːfər/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 훈련",
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "courses": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "과정, 강좌",
+      "form": "복수형",
+      "synonyms": [
+        "class",
+        "program"
+      ],
+      "ipa": "/ˈkɔːrsəz/"
+    },
+    "candidates": {
+      "lemma": "candidate",
+      "pos": "noun",
+      "ko": "지원자",
+      "form": "복수형",
+      "synonyms": [
+        "applicant",
+        "job seeker"
+      ],
+      "ipa": "/ˈkændədeɪts/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~없이",
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "prior": {
+      "lemma": "prior",
+      "pos": "adjective",
+      "ko": "이전의",
+      "synonyms": [
+        "previous",
+        "earlier"
+      ],
+      "ipa": "/ˈpraɪər/"
+    },
+    "experience": {
+      "lemma": "experience",
+      "pos": "noun",
+      "ko": "경력, 경험",
+      "synonyms": [
+        "background",
+        "practice"
+      ],
+      "ipa": "/ɪkˈspɪriəns/"
+    },
+    "added": {
+      "lemma": "add",
+      "pos": "verb",
+      "ko": "덧붙여 말하다",
+      "form": "과거형",
+      "synonyms": [
+        "remark",
+        "mention"
+      ],
+      "ipa": "/ˈædəd/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (will의 과거, 간접화법)",
+      "ipa": "/wʊd/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "synonyms": [
+        "grant",
+        "offer"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "priority": {
+      "lemma": "priority",
+      "pos": "noun",
+      "ko": "우선권",
+      "synonyms": [
+        "preference",
+        "precedence"
+      ],
+      "ipa": "/praɪˈɔːrəti/"
+    },
+    "applicants": {
+      "lemma": "applicant",
+      "pos": "noun",
+      "ko": "지원자",
+      "form": "복수형",
+      "synonyms": [
+        "candidate",
+        "job seeker"
+      ],
+      "ipa": "/ˈæplɪkənts/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "ipa": "/huː/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "synonyms": [
+        "reside",
+        "dwell"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "local": {
+      "lemma": "local",
+      "pos": "adjective",
+      "ko": "지역의",
+      "synonyms": [
+        "municipal",
+        "city"
+      ],
+      "ipa": "/ˈloʊkəl/"
+    },
+    "officials": {
+      "lemma": "official",
+      "pos": "noun",
+      "ko": "관계자, 공무원",
+      "form": "복수형",
+      "synonyms": [
+        "authority",
+        "representative"
+      ],
+      "ipa": "/əˈfɪʃəlz/"
+    },
+    "welcomed": {
+      "lemma": "welcome",
+      "pos": "verb",
+      "ko": "환영하다, 반기다",
+      "form": "과거분사",
+      "synonyms": [
+        "embrace",
+        "applaud"
+      ],
+      "ipa": "/ˈwɛlkəmd/"
+    },
+    "news": {
+      "lemma": "news",
+      "pos": "noun",
+      "ko": "소식",
+      "synonyms": [
+        "announcement",
+        "report"
+      ],
+      "ipa": "/nuːz/"
+    },
+    "mayor": {
+      "lemma": "mayor",
+      "pos": "noun",
+      "ko": "시장",
+      "synonyms": [
+        "city leader"
+      ],
+      "ipa": "/ˈmeɪər/"
+    },
+    "denise": {
+      "lemma": "Denise",
+      "pos": "proper-noun",
+      "ko": "데니스 (사람 이름)",
+      "ipa": "/dɪˈniːs/"
+    },
+    "okoro": {
+      "lemma": "Okoro",
+      "pos": "proper-noun",
+      "ko": "오코로 (사람 성)",
+      "ipa": null
+    },
+    "noted": {
+      "lemma": "note",
+      "pos": "verb",
+      "ko": "언급하다",
+      "form": "과거형",
+      "synonyms": [
+        "remark",
+        "point out"
+      ],
+      "ipa": "/ˈnoʊtəd/"
+    },
+    "project": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "사업, 프로젝트",
+      "synonyms": [
+        "development",
+        "venture"
+      ],
+      "ipa": "/ˈprɑːdʒɛkt/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "synonyms": [
+        "provide",
+        "deliver"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "much-needed": {
+      "lemma": "much-needed",
+      "pos": "adjective",
+      "ko": "꼭 필요한",
+      "synonyms": [
+        "essential",
+        "badly needed"
+      ],
+      "ipa": "/mʌtʃ-ˈniːdəd/"
+    },
+    "employment": {
+      "lemma": "employment",
+      "pos": "noun",
+      "ko": "일자리, 고용",
+      "synonyms": [
+        "jobs",
+        "work"
+      ],
+      "ipa": "/ɛmˈplɔɪmənt/"
+    },
+    "area": {
+      "lemma": "area",
+      "pos": "noun",
+      "ko": "지역",
+      "synonyms": [
+        "region",
+        "district"
+      ],
+      "ipa": "/ˈɛriə/"
+    },
+    "could": {
+      "lemma": "could",
+      "pos": "auxiliary",
+      "ko": "~할 수도 있다",
+      "ipa": "/kʊd/"
+    },
+    "attract": {
+      "lemma": "attract",
+      "pos": "verb",
+      "ko": "끌어들이다",
+      "synonyms": [
+        "draw",
+        "bring in"
+      ],
+      "ipa": "/əˈtrækt/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "synonyms": [
+        "additional",
+        "further"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "businesses": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "기업",
+      "form": "복수형",
+      "synonyms": [
+        "company",
+        "firm"
+      ],
+      "ipa": "/ˈbɪznəsəz/"
+    },
+    "city's": {
+      "lemma": "city",
+      "pos": "noun",
+      "ko": "시의, 도시의",
+      "form": "소유격",
+      "synonyms": [
+        "town",
+        "municipality"
+      ],
+      "ipa": "/ˈsɪtiz/"
+    },
+    "growing": {
+      "lemma": "growing",
+      "pos": "adjective",
+      "ko": "성장하는",
+      "synonyms": [
+        "expanding",
+        "developing"
+      ],
+      "ipa": "/ˈɡroʊɪŋ/"
+    },
+    "industrial": {
+      "lemma": "industrial",
+      "pos": "adjective",
+      "ko": "산업의",
+      "synonyms": [
+        "manufacturing",
+        "commercial"
+      ],
+      "ipa": "/ˌɪnˈdʌstriəl/"
+    },
+    "zone": {
+      "lemma": "zone",
+      "pos": "noun",
+      "ko": "구역, 단지",
+      "synonyms": [
+        "district",
+        "park"
+      ],
+      "ipa": "/zoʊn/"
+    },
+    "scheduled": {
+      "lemma": "schedule",
+      "pos": "verb",
+      "ko": "예정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "plan",
+        "set"
+      ],
+      "ipa": "/ˈskɛdʒʊld/"
+    },
+    "completed": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "완료하다",
+      "form": "과거분사",
+      "synonyms": [
+        "finish",
+        "conclude"
+      ],
+      "ipa": "/kəmˈpliːtəd/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "ipa": "/mɑːrtʃ/"
+    },
+    "operations": {
+      "lemma": "operation",
+      "pos": "noun",
+      "ko": "운영, 가동",
+      "form": "복수형",
+      "synonyms": [
+        "activity",
+        "running"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənz/"
+    },
+    "beginning": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작되다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "start",
+        "commence"
+      ],
+      "ipa": "/bɪˈɡɪnɪŋ/"
+    },
+    "shortly": {
+      "lemma": "shortly",
+      "pos": "adverb",
+      "ko": "곧",
+      "synonyms": [
+        "soon",
+        "quickly"
+      ],
+      "ipa": "/ˈʃɔːrtli/"
+    },
+    "afterward": {
+      "lemma": "afterward",
+      "pos": "adverb",
+      "ko": "그 후에",
+      "synonyms": [
+        "later",
+        "thereafter"
+      ],
+      "ipa": "/ˈæftərwərd/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the article mainly about?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "A merger between two shipping firms"
+        },
+        {
+          "key": "B",
+          "text": "A company's plan to begin operating a new facility"
+        },
+        {
+          "key": "C",
+          "text": "A change in a city's delivery regulations"
+        },
+        {
+          "key": "D",
+          "text": "The results of a survey of online shoppers"
+        }
+      ],
+      "answer": "B",
+      "evidenceSentenceIds": [
+        "s2"
+      ],
+      "explanationKo": "첫 문장에서 던모어 화물이 내년 봄 새 물류센터를 연다고 발표했다고 한다. 이를 '새 시설 운영을 시작할 계획'으로 바꿔 말한 B가 정답이다.",
+      "choiceNotesKo": {
+        "A": "합병 이야기는 없다.",
+        "C": "시의 배송 규정 변경은 언급되지 않는다."
+      },
+      "skill": "주제 찾기"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "According to the article, what will Halvern Technical College help Dunmore Freight do?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "Design automated sorting equipment"
+        },
+        {
+          "key": "B",
+          "text": "Select a location for the new center"
+        },
+        {
+          "key": "C",
+          "text": "Recruit drivers from other regions"
+        },
+        {
+          "key": "D",
+          "text": "Provide instruction to inexperienced applicants"
+        }
+      ],
+      "answer": "D",
+      "evidenceSentenceIds": [
+        "s11"
+      ],
+      "explanationKo": "할번 기술대학과 제휴해 '경력이 없는 지원자를 위한 교육 과정'을 제공한다고 했다. candidates without prior experience를 inexperienced applicants로 바꿔 말한 D가 정답이다.",
+      "choiceNotesKo": {
+        "A": "장비 설계는 대학의 역할로 나오지 않는다.",
+        "C": "오히려 케슬러 폴스 주민을 우선 채용한다고 했다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-synonym",
+      "prompt": "In the article, the word \"placed\" is closest in meaning to",
+      "choices": [
+        {
+          "key": "A",
+          "text": "located"
+        },
+        {
+          "key": "B",
+          "text": "positioned"
+        },
+        {
+          "key": "C",
+          "text": "submitted"
+        },
+        {
+          "key": "D",
+          "text": "ranked"
+        }
+      ],
+      "answer": "C",
+      "evidenceSentenceIds": [
+        "s7"
+      ],
+      "explanationKo": "orders placed before noon은 '정오 전에 접수된(넣은) 주문'이다. 주문을 '하다, 넣다'라는 뜻이므로 submitted가 가장 가깝다.",
+      "choiceNotesKo": {
+        "A": "located는 '(장소에) 위치한'이라는 뜻이다.",
+        "B": "positioned는 물건을 어떤 위치에 '놓다'라는 뜻으로, 주문에는 쓰지 않는다.",
+        "D": "ranked는 '순위가 매겨진'이라는 뜻이다."
+      },
+      "skill": "동의어"
+    }
+  ]
+}
