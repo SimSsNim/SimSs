@@ -1,0 +1,1200 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-20-L1-3",
+  "date": "2026-11-20",
+  "level": 1,
+  "title": "The Swollen Fox",
+  "titleKo": "배가 부푼 여우",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_16_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_16_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-3-fables-51-75",
+    "reader": "Patrick McNeal",
+    "durationSec": 60,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 03, 16번 트랙(전체 66번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 126,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "배고픈 여우가 속이 빈 나무 안에서 빵과 고기를 잔뜩 발견했는데, 그것은 양치기들이 돌아와서 먹으려고 넣어 둔 것이었다. 찾아낸 것에 신이 난 여우는 좁은 구멍으로 비집고 들어가 그것을 남김없이 허겁지겁 먹어 치웠다. 그런데 다시 나오려고 하자, 배불리 먹은 탓에 몸이 너무 부풀어서 구멍을 비집고 나갈 수가 없었다. 여우는 자기의 불운을 한탄하며 낑낑대고 끙끙거리기 시작했다. 마침 그 길을 지나가던 다른 여우가 다가와 무슨 일이냐고 물었다. 그리고 사정을 알게 되자 이렇게 말했다. \"이보게, 친구. 자네가 원래 크기로 줄어들 때까지 그 자리에 그대로 있는 수밖에 없겠네. 그러면 아주 쉽게 빠져나올 걸세.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A hungry Fox found in a hollow tree a quantity of bread and meat, which some shepherds had placed there against their return.",
+      "ko": "배고픈 여우가 속이 빈 나무 안에서 빵과 고기를 잔뜩 발견했는데, 그것은 양치기들이 돌아와서 먹으려고 넣어 둔 것이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Delighted with his find he slipped in through the narrow aperture and greedily devoured it all.",
+      "ko": "찾아낸 것에 신이 난 여우는 좁은 구멍으로 비집고 들어가 그것을 남김없이 허겁지겁 먹어 치웠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But when he tried to get out again he found himself so swollen after his big meal that he could not squeeze through the hole, and fell to whining and groaning over his misfortune.",
+      "ko": "그런데 다시 나오려고 하자, 배불리 먹은 탓에 몸이 너무 부풀어서 구멍을 비집고 나갈 수가 없었다. 여우는 자기의 불운을 한탄하며 낑낑대고 끙끙거리기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Another Fox, happening to pass that way, came and asked him what the matter was; and, on learning the state of the case, said, \"Well, my friend, I see nothing for it but for you to stay where you are till you shrink to your former size; you'll get out then easily enough.\"",
+      "ko": "마침 그 길을 지나가던 다른 여우가 다가와 무슨 일이냐고 물었다. 그리고 사정을 알게 되자 이렇게 말했다. \"이보게, 친구. 자네가 원래 크기로 줄어들 때까지 그 자리에 그대로 있는 수밖에 없겠네. 그러면 아주 쉽게 빠져나올 걸세.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "hollow",
+      "pos": "adjective",
+      "meaningKo": "속이 빈",
+      "ipa": "/ˈhɑloʊ/",
+      "synonyms": [
+        "empty",
+        "hollowed-out"
+      ],
+      "matchText": "hollow",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Birds made a nest in the hollow log.",
+        "ko": "새들이 속이 빈 통나무에 둥지를 지었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "aperture",
+      "pos": "noun",
+      "meaningKo": "구멍, 틈",
+      "ipa": "/ˈæpərtʃər/",
+      "synonyms": [
+        "opening",
+        "hole",
+        "gap"
+      ],
+      "matchText": "aperture",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Light came in through a small aperture.",
+        "ko": "작은 틈으로 빛이 들어왔다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "greedily",
+      "pos": "adverb",
+      "meaningKo": "욕심껏, 게걸스럽게",
+      "ipa": "/ˈɡriːdəli/",
+      "synonyms": [
+        "hungrily",
+        "eagerly"
+      ],
+      "matchText": "greedily",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The boy greedily ate all the cookies.",
+        "ko": "소년은 쿠키를 모두 게걸스럽게 먹었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "squeeze through",
+      "pos": "phrasal-verb",
+      "meaningKo": "비집고 지나가다",
+      "ipa": "/skwiːz θruː/",
+      "synonyms": [
+        "push through",
+        "force through"
+      ],
+      "matchText": "squeeze through",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The cat squeezed through the fence.",
+        "ko": "고양이가 울타리 사이를 비집고 지나갔다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "misfortune",
+      "pos": "noun",
+      "meaningKo": "불운, 불행",
+      "ipa": "/mɪsˈfɔrtʃən/",
+      "synonyms": [
+        "bad luck",
+        "trouble",
+        "hardship"
+      ],
+      "matchText": "misfortune",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He had the misfortune to lose his wallet.",
+        "ko": "그는 지갑을 잃어버리는 불운을 겪었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A hungry Fox",
+          "role": "S",
+          "sub": false,
+          "ko": "배고픈 여우가"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "sub": false,
+          "ko": "발견했다"
+        },
+        {
+          "text": "in a hollow tree",
+          "role": "M",
+          "sub": false,
+          "ko": "속이 빈 나무 안에서"
+        },
+        {
+          "text": "a quantity of bread and meat,",
+          "role": "O",
+          "sub": false,
+          "ko": "많은 양의 빵과 고기를"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그것은"
+        },
+        {
+          "text": "some shepherds",
+          "role": "S",
+          "sub": true,
+          "ko": "몇몇 양치기들이"
+        },
+        {
+          "text": "had placed",
+          "role": "V",
+          "sub": true,
+          "ko": "놓아 두었다"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": true,
+          "ko": "그곳에"
+        },
+        {
+          "text": "against their return.",
+          "role": "M",
+          "sub": true,
+          "ko": "돌아올 때를 대비해"
+        }
+      ],
+      "skeleton": "A hungry Fox found a quantity of bread and meat",
+      "explanation": "목적어(a quantity of bread and meat)가 길어서 장소를 나타내는 in a hollow tree가 먼저 나왔어요. 쉼표 뒤의 which는 앞의 빵과 고기를 보충 설명하는 관계대명사예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "tried",
+          "role": "V",
+          "sub": true,
+          "ko": "애썼다"
+        },
+        {
+          "text": "to get out again",
+          "role": "O",
+          "sub": true,
+          "ko": "다시 나가려고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "sub": false,
+          "ko": "알게 되었다"
+        },
+        {
+          "text": "himself",
+          "role": "O",
+          "sub": false,
+          "ko": "자기 자신이"
+        },
+        {
+          "text": "so swollen after his big meal",
+          "role": "OC",
+          "sub": false,
+          "ko": "많이 먹은 뒤 너무 부풀어 있다는 것을"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "could not squeeze through",
+          "role": "V",
+          "sub": true,
+          "ko": "비집고 나갈 수 없었다"
+        },
+        {
+          "text": "the hole,",
+          "role": "O",
+          "sub": true,
+          "ko": "그 구멍을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "fell to whining and groaning",
+          "role": "V",
+          "sub": false,
+          "ko": "낑낑대고 끙끙거리기 시작했다"
+        },
+        {
+          "text": "over his misfortune.",
+          "role": "M",
+          "sub": false,
+          "ko": "자신의 불운에 대해"
+        }
+      ],
+      "skeleton": "he found himself so swollen ~ and fell to whining",
+      "explanation": "find + 목적어 + 형용사(swollen)는 '~가 …한 상태임을 알게 되다'예요. so ~ that 구문이 결과를 나타내요. fall to -ing는 '~하기 시작하다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "계속적 용법의 관계대명사 which",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        ", which some shepherds had placed there"
+      ],
+      "explanation": "쉼표 뒤의 which는 앞에 나온 명사(bread and meat)를 덧붙여 설명해요. '그런데 그것은 ~'으로 해석하면 자연스러워요.",
+      "example": {
+        "en": "I read the book, which my friend gave me.",
+        "ko": "나는 그 책을 읽었는데, 그것은 친구가 나에게 준 것이었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "과거완료 had + 과거분사",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "had placed"
+      ],
+      "explanation": "과거의 어떤 때(여우가 발견한 때)보다 더 먼저 일어난 일을 말할 때 had + 과거분사를 써요.",
+      "example": {
+        "en": "When I arrived, the train had already left.",
+        "ko": "내가 도착했을 때 기차는 이미 떠나 버렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "find + 목적어 + 형용사",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "found himself so swollen"
+      ],
+      "explanation": "find + 목적어 + 형용사/분사는 '(목적어)가 ~한 상태라는 것을 알게 되다'라는 뜻이에요.",
+      "example": {
+        "en": "I found the box empty.",
+        "ko": "나는 그 상자가 비어 있다는 것을 알았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "hungry": {
+      "lemma": "hungry",
+      "pos": "adjective",
+      "ko": "배고픈",
+      "form": null,
+      "synonyms": [
+        "starving",
+        "famished"
+      ],
+      "ipa": "/ˈhʌŋɡri/"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": null,
+      "ipa": "/fɑːks/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다; 알게 되다",
+      "form": "과거형",
+      "synonyms": [
+        "discover",
+        "come upon"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "hollow": {
+      "lemma": "hollow",
+      "pos": "adjective",
+      "ko": "속이 빈",
+      "form": null,
+      "synonyms": [
+        "empty"
+      ],
+      "ipa": "/ˈhɑːloʊ/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": null,
+      "ipa": "/triː/"
+    },
+    "quantity": {
+      "lemma": "quantity",
+      "pos": "noun",
+      "ko": "양 (a quantity of: 많은 양의)",
+      "form": null,
+      "synonyms": [
+        "amount",
+        "heap"
+      ],
+      "ipa": "/ˈkwɑːntəti/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "bread": {
+      "lemma": "bread",
+      "pos": "noun",
+      "ko": "빵",
+      "form": null,
+      "synonyms": [
+        "loaf"
+      ],
+      "ipa": "/brɛd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "meat": {
+      "lemma": "meat",
+      "pos": "noun",
+      "ko": "고기",
+      "form": null,
+      "synonyms": [
+        "flesh"
+      ],
+      "ipa": "/miːt/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그런데 그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "몇몇의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "shepherds": {
+      "lemma": "shepherd",
+      "pos": "noun",
+      "ko": "양치기",
+      "form": "복수형",
+      "synonyms": [
+        "herdsmen"
+      ],
+      "ipa": "/ˈʃɛpərdz/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + p.p.) 과거완료",
+      "form": null,
+      "ipa": "/hæd/"
+    },
+    "placed": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "놓다, 두다",
+      "form": "과거분사",
+      "synonyms": [
+        "put",
+        "leave"
+      ],
+      "ipa": "/pleɪst/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "그곳에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "against": {
+      "lemma": "against",
+      "pos": "preposition",
+      "ko": "~에 대비하여",
+      "form": null,
+      "ipa": "/əˈɡɛnst/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "noun",
+      "ko": "돌아옴, 귀가",
+      "form": null,
+      "synonyms": [
+        "coming back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "delighted": {
+      "lemma": "delighted",
+      "pos": "adjective",
+      "ko": "아주 기쁜",
+      "form": null,
+      "synonyms": [
+        "pleased",
+        "thrilled"
+      ],
+      "ipa": "/dɪˈlaɪtəd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~에 (대해)",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "noun",
+      "ko": "발견한 것",
+      "form": null,
+      "synonyms": [
+        "discovery"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "slipped": {
+      "lemma": "slip",
+      "pos": "verb",
+      "ko": "살짝 들어가다",
+      "form": "과거형",
+      "synonyms": [
+        "slide",
+        "sneak"
+      ],
+      "ipa": "/slɪpt/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해, ~을 지나",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "narrow": {
+      "lemma": "narrow",
+      "pos": "adjective",
+      "ko": "좁은",
+      "form": null,
+      "synonyms": [
+        "tight",
+        "thin"
+      ],
+      "ipa": "/ˈnɛroʊ/"
+    },
+    "aperture": {
+      "lemma": "aperture",
+      "pos": "noun",
+      "ko": "구멍, 틈",
+      "form": null,
+      "synonyms": [
+        "opening",
+        "hole"
+      ],
+      "ipa": "/ˈæpərtʃər/"
+    },
+    "greedily": {
+      "lemma": "greedily",
+      "pos": "adverb",
+      "ko": "게걸스럽게, 욕심껏",
+      "form": null,
+      "synonyms": [
+        "hungrily",
+        "eagerly"
+      ],
+      "ipa": "/ˈɡriːdəli/"
+    },
+    "devoured": {
+      "lemma": "devour",
+      "pos": "verb",
+      "ko": "게걸스럽게 먹어 치우다",
+      "form": "과거형",
+      "synonyms": [
+        "gobble",
+        "eat up"
+      ],
+      "ipa": "/dɪˈvaʊərd/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "전부, 모두",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그런데, 하지만; (nothing but) ~ 외에는",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "tried": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "애쓰다, 해 보다",
+      "form": "과거형",
+      "synonyms": [
+        "attempt"
+      ],
+      "ipa": "/traɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로; (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get out) 나가다",
+      "form": null,
+      "ipa": "/ɡɛt/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "ipa": "/əˈɡɛn/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 그렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "swollen": {
+      "lemma": "swell",
+      "pos": "verb",
+      "ko": "부풀다",
+      "form": "과거분사",
+      "synonyms": [
+        "bloated",
+        "puffed up"
+      ],
+      "ipa": "/ˈswoʊlən/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "big": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "큰, 많은",
+      "form": null,
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "ipa": "/bɪɡ/"
+    },
+    "meal": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사",
+      "form": null,
+      "synonyms": [
+        "feast",
+        "dinner"
+      ],
+      "ipa": "/miːl/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "squeeze": {
+      "lemma": "squeeze",
+      "pos": "verb",
+      "ko": "비집고 들어가다/나가다",
+      "form": null,
+      "synonyms": [
+        "push",
+        "force"
+      ],
+      "ipa": "/skwiːz/"
+    },
+    "hole": {
+      "lemma": "hole",
+      "pos": "noun",
+      "ko": "구멍",
+      "form": null,
+      "synonyms": [
+        "opening",
+        "gap"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall to -ing) ~하기 시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "begin",
+        "start"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "whining": {
+      "lemma": "whine",
+      "pos": "verb",
+      "ko": "낑낑대다, 징징거리다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "whimper",
+        "moan"
+      ],
+      "ipa": "/ˈwaɪnɪŋ/"
+    },
+    "groaning": {
+      "lemma": "groan",
+      "pos": "verb",
+      "ko": "끙끙 앓는 소리를 내다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "moan",
+        "wail"
+      ],
+      "ipa": "/ˈɡroʊnɪŋ/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "misfortune": {
+      "lemma": "misfortune",
+      "pos": "noun",
+      "ko": "불운, 불행",
+      "form": null,
+      "synonyms": [
+        "bad luck",
+        "trouble"
+      ],
+      "ipa": "/mɪsˈfɔːrtʃən/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "determiner",
+      "ko": "또 다른",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "happening": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "(happen to) 마침 ~하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "chance"
+      ],
+      "ipa": "/ˈhæpənɪŋ/"
+    },
+    "pass": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나가다",
+      "form": null,
+      "synonyms": [
+        "go by"
+      ],
+      "ipa": "/pæs/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "road",
+        "path"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "synonyms": [
+        "approach"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거형",
+      "synonyms": [
+        "inquire"
+      ],
+      "ipa": "/æskt/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "matter": {
+      "lemma": "matter",
+      "pos": "noun",
+      "ko": "문제 (what the matter was: 무슨 일인지)",
+      "form": null,
+      "synonyms": [
+        "problem",
+        "trouble"
+      ],
+      "ipa": "/ˈmætər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~하자마자, ~하고서",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "learning": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "알게 되다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "find out",
+        "discover"
+      ],
+      "ipa": "/ˈlɜːrnɪŋ/"
+    },
+    "state": {
+      "lemma": "state",
+      "pos": "noun",
+      "ko": "상태",
+      "form": null,
+      "synonyms": [
+        "condition"
+      ],
+      "ipa": "/steɪt/"
+    },
+    "case": {
+      "lemma": "case",
+      "pos": "noun",
+      "ko": "사정, 경우",
+      "form": null,
+      "synonyms": [
+        "situation"
+      ],
+      "ipa": "/keɪs/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "interjection",
+      "ko": "이봐, 글쎄",
+      "form": null,
+      "ipa": "/wɛl/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "알다, 보다",
+      "form": null,
+      "synonyms": [
+        "find",
+        "think"
+      ],
+      "ipa": "/siː/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 (~ 없다)",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "(nothing for it but) ~ 외에 방법이 없다; ~가 (to부정사의 주어)",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 자네",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "stay": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "머무르다",
+      "form": null,
+      "synonyms": [
+        "remain",
+        "wait"
+      ],
+      "ipa": "/steɪ/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "~하는 곳에",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있다",
+      "form": null,
+      "ipa": "/ɑːr/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "shrink": {
+      "lemma": "shrink",
+      "pos": "verb",
+      "ko": "줄어들다",
+      "form": null,
+      "synonyms": [
+        "get smaller",
+        "contract"
+      ],
+      "ipa": "/ʃrɪŋk/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "former": {
+      "lemma": "former",
+      "pos": "adjective",
+      "ko": "이전의, 원래의",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "original"
+      ],
+      "ipa": "/ˈfɔːrmər/"
+    },
+    "size": {
+      "lemma": "size",
+      "pos": "noun",
+      "ko": "크기",
+      "form": null,
+      "ipa": "/saɪz/"
+    },
+    "you'll": {
+      "lemma": "you will",
+      "pos": "auxiliary",
+      "ko": "너는 ~할 것이다",
+      "form": "줄임말",
+      "ipa": "/juːl/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그러면",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "easily": {
+      "lemma": "easily",
+      "pos": "adverb",
+      "ko": "쉽게",
+      "form": null,
+      "synonyms": [
+        "simply"
+      ],
+      "ipa": "/ˈiːzəli/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adverb",
+      "ko": "충분히, 꽤",
+      "form": null,
+      "synonyms": [
+        "quite"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    }
+  }
+}
