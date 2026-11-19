@@ -1,0 +1,1316 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-20-L2-part6",
+  "date": "2026-11-20",
+  "level": 2,
+  "title": "Parking Garage Resurfacing Notice",
+  "titleKo": "주차장 바닥 보수 공지",
+  "genre": "notice",
+  "tags": [
+    "TOEIC Part 6",
+    "공지",
+    "시설 보수"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 127,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Westbrook Tower 입주사 여러분께 알립니다"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3"
+      ],
+      "ko": "지하 주차장이 12월 7일 월요일부터 12월 11일 금요일까지 폐쇄된다는 점을 알아 두시기 바랍니다. 오랜 세월 동안 바닥 표면이 갈라지고 울퉁불퉁해졌기 때문에 이 공사가 필요합니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "평소 주차장을 이용하시는 입주사는 건물에서 북쪽으로 두 블록 떨어진 Pine Street 주차장을 이용하실 수 있습니다. 이 주차장 이용권은 1층 관리사무소에서 받으실 수 있습니다. 주차해 두시는 동안 이용권을 차 계기판 위에 올려 두세요. 이용권이 보이지 않는 차량은 주차장 소유주가 견인할 수 있습니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "이로 인해 생길 수 있는 불편에 사과드립니다. 궁금한 점이 있으시면 555-0142번으로 관리사무소에 연락해 주세요."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "Westbrook Tower 관리사무소"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Attention, All Tenants of Westbrook Tower",
+      "ko": "Westbrook Tower 입주사 여러분께 알립니다",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Please be aware that the underground parking garage will be closed from Monday, December 7, through Friday, December 11.",
+      "ko": "지하 주차장이 12월 7일 월요일부터 12월 11일 금요일까지 폐쇄된다는 점을 알아 두시기 바랍니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The work is necessary because the surface has become cracked and uneven over the years.",
+      "ko": "오랜 세월 동안 바닥 표면이 갈라지고 울퉁불퉁해졌기 때문에 이 공사가 필요합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p3",
+      "en": "Tenants who normally park in the garage may use the Pine Street lot, which is located two blocks north of the building.",
+      "ko": "평소 주차장을 이용하시는 입주사는 건물에서 북쪽으로 두 블록 떨어진 Pine Street 주차장을 이용하실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Parking passes for the lot can be obtained at the management office on the first floor.",
+      "ko": "이 주차장 이용권은 1층 관리사무소에서 받으실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Please place the pass on your dashboard while you are parked there.",
+      "ko": "주차해 두시는 동안 이용권을 차 계기판 위에 올려 두세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Cars without a visible pass may be towed by the owner of the lot.",
+      "ko": "이용권이 보이지 않는 차량은 주차장 소유주가 견인할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "We apologize for any inconvenience this may cause.",
+      "ko": "이로 인해 생길 수 있는 불편에 사과드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "If you have any questions, please contact the management office at 555-0142.",
+      "ko": "궁금한 점이 있으시면 555-0142번으로 관리사무소에 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "Westbrook Tower Management",
+      "ko": "Westbrook Tower 관리사무소",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be aware that",
+      "pos": "phrase",
+      "meaningKo": "~라는 것을 알고 있다(유의하다)",
+      "ipa": "/bi əˈwɛr ðæt/",
+      "synonyms": [
+        "note that",
+        "know that",
+        "be informed that"
+      ],
+      "matchText": "be aware that",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Please be aware that the office closes early today.",
+        "ko": "오늘 사무실이 일찍 닫는다는 점을 유의해 주세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "uneven",
+      "pos": "adjective",
+      "meaningKo": "울퉁불퉁한, 고르지 않은",
+      "ipa": "/ənˈivən/",
+      "synonyms": [
+        "bumpy",
+        "rough",
+        "irregular"
+      ],
+      "matchText": "uneven",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Be careful. The floor is uneven here.",
+        "ko": "조심하세요. 여기 바닥이 고르지 않아요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "obtain",
+      "pos": "verb",
+      "meaningKo": "얻다, 받다",
+      "ipa": "/əbˈteɪn/",
+      "synonyms": [
+        "get",
+        "acquire",
+        "receive"
+      ],
+      "matchText": "obtained",
+      "sentenceId": "s5",
+      "example": {
+        "en": "You must obtain permission before you enter.",
+        "ko": "들어가기 전에 허가를 받아야 한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "tow",
+      "pos": "verb",
+      "meaningKo": "(차를) 견인하다",
+      "ipa": "/toʊ/",
+      "synonyms": [
+        "haul",
+        "pull",
+        "remove"
+      ],
+      "matchText": "towed",
+      "sentenceId": "s7",
+      "example": {
+        "en": "My car was towed because I parked illegally.",
+        "ko": "불법 주차를 해서 내 차가 견인되었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "inconvenience",
+      "pos": "noun",
+      "meaningKo": "불편",
+      "ipa": "/ˌɪnkənˈvinjəns/",
+      "synonyms": [
+        "trouble",
+        "difficulty",
+        "disruption"
+      ],
+      "matchText": "inconvenience",
+      "sentenceId": "s8",
+      "example": {
+        "en": "We are sorry for the inconvenience.",
+        "ko": "불편을 드려 죄송합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Tenants",
+          "role": "S",
+          "ko": "입주사는"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "~하는",
+          "sub": true
+        },
+        {
+          "text": "normally park",
+          "role": "V",
+          "ko": "평소 주차하는",
+          "sub": true
+        },
+        {
+          "text": "in the garage",
+          "role": "M",
+          "ko": "주차장에",
+          "sub": true
+        },
+        {
+          "text": "may use",
+          "role": "V",
+          "ko": "이용할 수 있다"
+        },
+        {
+          "text": "the Pine Street lot,",
+          "role": "O",
+          "ko": "Pine Street 주차장을"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그런데 그것은",
+          "sub": true
+        },
+        {
+          "text": "is located",
+          "role": "V",
+          "ko": "위치해 있다",
+          "sub": true
+        },
+        {
+          "text": "two blocks north of the building.",
+          "role": "M",
+          "ko": "건물 북쪽 두 블록 거리에",
+          "sub": true
+        }
+      ],
+      "skeleton": "Tenants (who park in the garage) may use the lot, which is located nearby.",
+      "explanation": "who 관계절은 주어 Tenants를, 쉼표 뒤 which 관계절은 the Pine Street lot을 보충 설명한다. 진짜 동사는 may use."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The work",
+          "role": "S",
+          "ko": "이 공사는"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "necessary",
+          "role": "C",
+          "ko": "필요한"
+        },
+        {
+          "text": "because",
+          "role": "CONJ",
+          "ko": "~때문에",
+          "sub": true
+        },
+        {
+          "text": "the surface",
+          "role": "S",
+          "ko": "표면이",
+          "sub": true
+        },
+        {
+          "text": "has become",
+          "role": "V",
+          "ko": "되었다",
+          "sub": true
+        },
+        {
+          "text": "cracked and uneven",
+          "role": "C",
+          "ko": "갈라지고 울퉁불퉁하게",
+          "sub": true
+        },
+        {
+          "text": "over the years.",
+          "role": "M",
+          "ko": "오랜 세월에 걸쳐",
+          "sub": true
+        }
+      ],
+      "skeleton": "The work is necessary because the surface has become uneven.",
+      "explanation": "because 뒤에 이유를 나타내는 절이 온다. become + 형용사(보어) = ~하게 되다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "계속적 용법 관계대명사 , which",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        ", which is located"
+      ],
+      "explanation": "쉼표 뒤 which는 앞의 사물(the Pine Street lot)에 대한 정보를 덧붙인다. 관계절 안에서 주어 역할이라 바로 동사(is)가 온다.",
+      "example": {
+        "en": "We stayed at the Grand Hotel, which is near the station.",
+        "ko": "우리는 역 근처에 있는 그랜드 호텔에 묵었다."
+      },
+      "note": "계속적 용법(쉼표 뒤)에는 that을 쓸 수 없다."
+    },
+    {
+      "id": "g2",
+      "title": "조동사 + 수동태 can be p.p.",
+      "tags": [
+        "수동태",
+        "조동사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "can be obtained"
+      ],
+      "explanation": "이용권은 '받아지는' 대상이므로 수동태. 조동사 뒤라서 be + 과거분사.",
+      "example": {
+        "en": "The form can be downloaded from our Web site.",
+        "ko": "양식은 웹사이트에서 내려받을 수 있다."
+      },
+      "note": "can/may/must + be + p.p. 형태로 자주 나온다."
+    },
+    {
+      "id": "g3",
+      "title": "이유의 접속사 because",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "because the surface has become"
+      ],
+      "explanation": "because는 뒤에 주어+동사를 갖는 접속사. 같은 뜻의 because of는 전치사라 뒤에 명사가 온다.",
+      "example": {
+        "en": "The flight was delayed because the weather was bad.",
+        "ko": "날씨가 나빠서 비행기가 지연되었다."
+      },
+      "note": "빈칸 뒤가 절이면 because, 명사면 because of / due to."
+    }
+  ],
+  "glossary": {
+    "attention": {
+      "lemma": "attention",
+      "pos": "noun",
+      "ko": "주목, 알립니다 (공지 첫머리)",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "notice to"
+      ],
+      "ipa": "/əˈtɛnʃən/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "tenants": {
+      "lemma": "tenant",
+      "pos": "noun",
+      "ko": "입주자, 세입자",
+      "form": "복수형",
+      "synonyms": [
+        "occupant",
+        "renter"
+      ],
+      "ipa": "/ˈtɛnənts/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "westbrook": {
+      "lemma": "Westbrook",
+      "pos": "proper-noun",
+      "ko": "웨스트브룩 (건물 이름 Westbrook Tower의 일부)",
+      "form": null,
+      "ipa": "/ˈwɛstˌbrʊk/"
+    },
+    "tower": {
+      "lemma": "Tower",
+      "pos": "proper-noun",
+      "ko": "타워 (건물 이름의 일부)",
+      "form": null,
+      "ipa": "/ˈtaʊər/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "aware": {
+      "lemma": "aware",
+      "pos": "adjective",
+      "ko": "알고 있는, 유의하는",
+      "form": null,
+      "synonyms": [
+        "informed",
+        "conscious"
+      ],
+      "ipa": "/əˈwɛr/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "underground": {
+      "lemma": "underground",
+      "pos": "adjective",
+      "ko": "지하의",
+      "form": null,
+      "synonyms": [
+        "basement",
+        "subterranean"
+      ],
+      "ipa": "/ˈʌndərˌɡraʊnd/"
+    },
+    "parking": {
+      "lemma": "parking",
+      "pos": "noun",
+      "ko": "주차",
+      "form": null,
+      "ipa": "/ˈpɑːrkɪŋ/"
+    },
+    "garage": {
+      "lemma": "garage",
+      "pos": "noun",
+      "ko": "주차장, 차고",
+      "form": null,
+      "synonyms": [
+        "car park",
+        "parking structure"
+      ],
+      "ipa": "/ɡəˈrɑːʒ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "closed": {
+      "lemma": "close",
+      "pos": "verb",
+      "ko": "닫다, 폐쇄하다",
+      "form": "과거분사",
+      "synonyms": [
+        "shut"
+      ],
+      "ipa": "/kloʊzd/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "noun",
+      "ko": "12월",
+      "form": null,
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~까지 (포함해서)",
+      "form": null,
+      "synonyms": [
+        "until"
+      ],
+      "ipa": "/θruː/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "공사, 작업",
+      "form": null,
+      "synonyms": [
+        "construction",
+        "repairs"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "necessary": {
+      "lemma": "necessary",
+      "pos": "adjective",
+      "ko": "필요한",
+      "form": null,
+      "synonyms": [
+        "needed",
+        "required",
+        "essential"
+      ],
+      "ipa": "/ˈnɛsəˌsɛri/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "surface": {
+      "lemma": "surface",
+      "pos": "noun",
+      "ko": "표면, 바닥면",
+      "form": null,
+      "synonyms": [
+        "floor",
+        "top"
+      ],
+      "ipa": "/ˈsɜːrfəs/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "become": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~하게 되다",
+      "form": "과거분사",
+      "synonyms": [
+        "get",
+        "grow"
+      ],
+      "ipa": "/bɪˈkʌm/"
+    },
+    "cracked": {
+      "lemma": "cracked",
+      "pos": "adjective",
+      "ko": "금이 간, 갈라진",
+      "form": null,
+      "synonyms": [
+        "broken",
+        "split"
+      ],
+      "ipa": "/krækt/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "uneven": {
+      "lemma": "uneven",
+      "pos": "adjective",
+      "ko": "울퉁불퉁한, 고르지 않은",
+      "form": null,
+      "synonyms": [
+        "bumpy",
+        "rough",
+        "irregular"
+      ],
+      "ipa": "/əˈniːvən/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~에 걸쳐",
+      "form": null,
+      "synonyms": [
+        "during"
+      ],
+      "ipa": "/ˈoʊvər/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년 (over the years 오랜 세월 동안)",
+      "form": "복수형",
+      "ipa": "/jɪrz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (주격 관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "normally": {
+      "lemma": "normally",
+      "pos": "adverb",
+      "ko": "보통, 평소에",
+      "form": null,
+      "synonyms": [
+        "usually",
+        "regularly"
+      ],
+      "ipa": "/ˈnɔːrməli/"
+    },
+    "park": {
+      "lemma": "park",
+      "pos": "verb",
+      "ko": "주차하다",
+      "form": null,
+      "synonyms": [
+        "leave a car"
+      ],
+      "ipa": "/pɑːrk/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다, ~할 수 있다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "이용하다",
+      "form": null,
+      "synonyms": [
+        "utilize"
+      ],
+      "ipa": "/juːs/"
+    },
+    "pine": {
+      "lemma": "Pine",
+      "pos": "proper-noun",
+      "ko": "파인 (거리 이름 Pine Street의 일부)",
+      "form": null,
+      "ipa": "/paɪn/"
+    },
+    "street": {
+      "lemma": "Street",
+      "pos": "proper-noun",
+      "ko": "스트리트 (거리 이름의 일부)",
+      "form": null,
+      "ipa": "/striːt/"
+    },
+    "lot": {
+      "lemma": "lot",
+      "pos": "noun",
+      "ko": "주차장, 부지",
+      "form": null,
+      "synonyms": [
+        "parking area"
+      ],
+      "ipa": "/lɑːt/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그런데 그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "located": {
+      "lemma": "locate",
+      "pos": "verb",
+      "ko": "위치시키다 (be located 위치해 있다)",
+      "form": "과거분사",
+      "synonyms": [
+        "situate"
+      ],
+      "ipa": "/ˈloʊˌkeɪtəd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "blocks": {
+      "lemma": "block",
+      "pos": "noun",
+      "ko": "블록, 구역",
+      "form": "복수형",
+      "synonyms": [
+        "street"
+      ],
+      "ipa": "/blɑːks/"
+    },
+    "north": {
+      "lemma": "north",
+      "pos": "adverb",
+      "ko": "북쪽으로",
+      "form": null,
+      "ipa": "/nɔːrθ/"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물",
+      "form": null,
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "passes": {
+      "lemma": "pass",
+      "pos": "noun",
+      "ko": "출입증, 이용권",
+      "form": "복수형",
+      "synonyms": [
+        "permit",
+        "ticket"
+      ],
+      "ipa": "/ˈpæsəz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "obtained": {
+      "lemma": "obtain",
+      "pos": "verb",
+      "ko": "얻다, 받다",
+      "form": "과거분사",
+      "synonyms": [
+        "get",
+        "acquire",
+        "receive"
+      ],
+      "ipa": "/əbˈteɪnd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "management": {
+      "lemma": "management",
+      "pos": "noun",
+      "ko": "관리 (management office 관리사무소)",
+      "form": null,
+      "synonyms": [
+        "administration"
+      ],
+      "ipa": "/ˈmænədʒmənt/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~ 층에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의 (first floor 1층)",
+      "form": null,
+      "ipa": "/fɜːrst/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "놓다, 두다",
+      "form": null,
+      "synonyms": [
+        "put",
+        "set"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "pass": {
+      "lemma": "pass",
+      "pos": "noun",
+      "ko": "출입증, 이용권",
+      "form": null,
+      "synonyms": [
+        "permit",
+        "ticket"
+      ],
+      "ipa": "/pæs/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "dashboard": {
+      "lemma": "dashboard",
+      "pos": "noun",
+      "ko": "(자동차) 계기판",
+      "form": null,
+      "ipa": "/ˈdæʃˌbɔːrd/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되어 있다",
+      "form": null,
+      "ipa": "/ɑːr/"
+    },
+    "parked": {
+      "lemma": "park",
+      "pos": "verb",
+      "ko": "주차하다",
+      "form": "과거분사",
+      "ipa": "/pɑːrkt/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "cars": {
+      "lemma": "car",
+      "pos": "noun",
+      "ko": "자동차",
+      "form": "복수형",
+      "synonyms": [
+        "vehicle"
+      ],
+      "ipa": "/kɑːrz/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "visible": {
+      "lemma": "visible",
+      "pos": "adjective",
+      "ko": "눈에 보이는",
+      "form": null,
+      "synonyms": [
+        "clear",
+        "noticeable"
+      ],
+      "ipa": "/ˈvɪzəbəl/"
+    },
+    "towed": {
+      "lemma": "tow",
+      "pos": "verb",
+      "ko": "견인하다",
+      "form": "과거분사",
+      "synonyms": [
+        "haul",
+        "pull"
+      ],
+      "ipa": "/toʊd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "owner": {
+      "lemma": "owner",
+      "pos": "noun",
+      "ko": "소유주",
+      "form": null,
+      "synonyms": [
+        "proprietor"
+      ],
+      "ipa": "/ˈoʊnər/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "apologize": {
+      "lemma": "apologize",
+      "pos": "verb",
+      "ko": "사과하다",
+      "form": null,
+      "synonyms": [
+        "say sorry"
+      ],
+      "ipa": "/əˈpɑːləˌdʒaɪz/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "inconvenience": {
+      "lemma": "inconvenience",
+      "pos": "noun",
+      "ko": "불편",
+      "form": null,
+      "synonyms": [
+        "trouble",
+        "difficulty",
+        "disruption"
+      ],
+      "ipa": "/ˌɪnkənˈviːnjəns/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것 (이 공사)",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "cause": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "일으키다, 초래하다",
+      "form": null,
+      "synonyms": [
+        "create",
+        "bring about"
+      ],
+      "ipa": "/kɑːz/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "call",
+        "reach"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "555-0142": {
+      "lemma": "555-0142",
+      "pos": "number",
+      "ko": "555-0142 (전화번호)",
+      "form": null,
+      "ipa": null
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "because"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "although"
+        },
+        {
+          "key": "B",
+          "text": "because"
+        },
+        {
+          "key": "C",
+          "text": "so that"
+        },
+        {
+          "key": "D",
+          "text": "unless"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "공사가 필요한 '이유'(표면이 갈라지고 울퉁불퉁해짐)가 뒤에 오므로 because.",
+      "choiceNotesKo": {
+        "A": "although는 반대되는 내용을 잇는다.",
+        "C": "so that은 '~하도록'(목적)이라 뜻이 맞지 않는다."
+      },
+      "skill": "접속사 의미(이유)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "which"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "where"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "who"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "쉼표 뒤에서 사물 the Pine Street lot을 설명하고, 뒤에 주어 없이 동사 is가 오므로 주격 관계대명사 which.",
+      "choiceNotesKo": {
+        "B": "where 뒤에는 주어+동사가 다 있는 완전한 절이 온다.",
+        "D": "who는 사람을 꾸민다."
+      },
+      "skill": "계속적 용법 관계대명사"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "obtained"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "obtain"
+        },
+        {
+          "key": "B",
+          "text": "obtaining"
+        },
+        {
+          "key": "C",
+          "text": "obtained"
+        },
+        {
+          "key": "D",
+          "text": "to obtain"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "주어 Parking passes는 '받아지는' 대상이므로 can be + 과거분사 obtained.",
+      "choiceNotesKo": {
+        "B": "can be obtaining은 '이용권이 무언가를 얻고 있다'는 뜻이 되어 어색하다."
+      },
+      "skill": "조동사 + 수동태"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Please place the pass on your dashboard while you are parked there."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The garage will reopen next spring."
+        },
+        {
+          "key": "B",
+          "text": "Please place the pass on your dashboard while you are parked there."
+        },
+        {
+          "key": "C",
+          "text": "Rent payments are due on the first of each month."
+        },
+        {
+          "key": "D",
+          "text": "The elevator in the lobby has been repaired."
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "앞 문장은 '이용권을 받는 곳', 뒤 문장은 '이용권이 보이지 않는 차는 견인'. 그 사이에 이용권을 보이게 두라는 안내가 들어가야 흐름이 이어진다(the pass ↔ visible pass).",
+      "choiceNotesKo": {
+        "A": "공사는 12월 11일까지라 '내년 봄 재개장'은 앞 내용과 맞지 않는다.",
+        "D": "엘리베이터는 주차 안내와 관련이 없다."
+      },
+      "skill": "문장 넣기(앞뒤 연결)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "inconvenience"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "inconvenient"
+        },
+        {
+          "key": "B",
+          "text": "inconveniently"
+        },
+        {
+          "key": "C",
+          "text": "inconvenienced"
+        },
+        {
+          "key": "D",
+          "text": "inconvenience"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "any 뒤, apologize for의 목적어인 명사 자리 → inconvenience. this may cause가 앞 명사를 꾸민다.",
+      "choiceNotesKo": {
+        "A": "inconvenient는 형용사라 명사 자리에 올 수 없다."
+      },
+      "skill": "명사 자리(any 뒤)"
+    }
+  ]
+}
