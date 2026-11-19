@@ -70,6 +70,12 @@ export interface Settings {
   twoFingerTap: InkAction;
   /** 손가락 세 개로 두 번 톡 */
   threeFingerTap: InkAction;
+  /** 단어 전체 듣기: 읽을 것 */
+  wordListenParts: { term: boolean; meaning: boolean; example: boolean; exampleKo: boolean };
+  /** 단어 전체 듣기: 끝나면 처음부터 다시 */
+  wordListenLoop: boolean;
+  /** 단어 전체 듣기: 단어 사이 쉬는 시간(초) */
+  wordListenGap: number;
   /** 듣기: 다음 지문까지 이어서(끄면 보고 있는 지문만) */
   playContinue: boolean;
   /** 펜 글씨 잠금: 펜슬은 손가락처럼(누르기·스크롤만) */
@@ -93,6 +99,9 @@ export const DEFAULT_SETTINGS: Settings = {
   twoFingerTap: 'undo',
   threeFingerTap: 'lock',
   playContinue: false,
+  wordListenParts: { term: true, meaning: true, example: true, exampleKo: false },
+  wordListenLoop: false,
+  wordListenGap: 0.8,
   penLock: false,
   scribbleErase: true,
   wordAutoSpeak: true,

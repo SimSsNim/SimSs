@@ -1,3 +1,4 @@
+import { WordListen } from '../components/WordListen';
 import { useSticky } from '../lib/sticky';
 import { useMemo, useState } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
@@ -70,6 +71,7 @@ export function Words() {
           </div>
         )}
 
+        {scoped.length > 0 && <WordListen items={groupBy === 'none' ? scoped : shownGroups.flatMap((g) => g.words)} />}
         {scoped.length === 0 ? (
           <p className={s.empty}>{status === 'loading' ? '불러오는 중…' : '조건에 맞는 단어가 없어요.'}</p>
         ) : groupBy === 'none' ? (

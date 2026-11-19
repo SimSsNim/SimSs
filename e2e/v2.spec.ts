@@ -1173,3 +1173,38 @@ test('v48. 메뉴를 옮겨 다녀도 보던 하위 탭(복습 → 플래시카�
   await expect.poll(() => page.evaluate(() => Math.round(window.scrollY))).toBeGreaterThan(y0 - 5);
   await expect(page.getByTestId('flash-play')).toBeInViewport();
 });
+
+test('v49. 단어 전체 듣기: 차례로 읽고, 막대를 눌러 읽을 것(단어·뜻·예문…)을 고름', async ({ page }) => {
+  const L = JSON.parse(readFileSync('public/lessons/general/2026-11-12-L1.json', 'utf8')) as { vocab: { term: string; meaningKo: string; example?: { en: string; ko: string } }[] };
+  const [v0, v1] = L.vocab;
+  const spoken = () => page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.slice());
+  const clear = () => page.evaluate(() => { (window as unknown as { __spoken: string[] }).__spoken.length = 0; });
+  await start(page, './#/general/lesson/2026-11-12-L1/vocab');
+  await expect(page.getByTestId('word-play-all')).toContainText(`${L.vocab.length}개`);
+  await clear();
+  await page.getByTestId('word-play-all').click();
+  await expect(page.getByTestId('word-listen-bar')).toBeVisible();
+  await expect.poll(async () => (await spoken()).slice(0, 3)).toEqual([v0.term, v0.meaningKo, v0.example!.en]);
+  await expect(page.locator('[data-word-playing="1"]')).toHaveCount(1);
+  // 재생 막대를 누르면 고르기: 뜻·예문 끄기 → 단어만
+  await page.getByTestId('word-listen-info').click();
+  await page.getByTestId('wl-part-meaning').click();
+  await page.getByTestId('wl-part-example').click();
+  await expect(page.getByTestId('wl-part-meaning')).toHaveAttribute('aria-pressed', 'false');
+  await page.getByTestId('wl-stop').click();
+  await expect(page.getByTestId('word-listen-bar')).toHaveCount(0);
+  await expect(page.locator('[data-word-playing="1"]')).toHaveCount(0);
+  await expect(page.getByTestId('word-play-all')).toContainText('단어');
+  await clear();
+  await page.getByTestId('word-play-all').click();
+  await expect.poll(async () => (await spoken()).slice(0, 2), { timeout: 8000 }).toEqual([v0.term, v1.term]);
+  // 일시정지 → 다음 단어 → 계속
+  await page.getByTestId('wl-toggle').click();
+  await expect(page.getByTestId('wl-toggle')).toHaveAttribute('aria-label', '계속 듣기');
+  await page.getByTestId('wl-stop').click();
+  // 단어 메뉴·복습 단어장에도 있음
+  await page.goto('./#/words');
+  await expect(page.getByTestId('word-play-all')).toBeVisible();
+  await page.goto('./#/review');
+  await expect(page.getByTestId('word-play-all')).toBeVisible();
+});

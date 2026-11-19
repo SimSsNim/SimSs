@@ -1,3 +1,4 @@
+import { WordListen } from '../../components/WordListen';
 import { useSticky } from '../../lib/sticky';
 import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
@@ -35,6 +36,7 @@ export function VocabTab({ lesson, lessonKey }: TabProps) {
         <Link to="/words" className={s.ghost + ' ' + s.small}>전체 단어장 ›</Link>
       </div>
       {view !== 'review' && <FilterChips items={items} states={states} value={filter} onChange={setFilter} />}
+      {view === 'list' && <WordListen items={shown} />}
       {view === 'list' && (
         <ul className={s.list}>
           {shown.map((it) => <WordRow key={it.key} item={it} state={states.get(it.key)} lessonKey={lessonKey} onAnswered={() => void checkLessonVocabDone(lesson)} />)}

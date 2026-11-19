@@ -81,6 +81,17 @@ export interface SpeakOptions {
   accent?: Accent;
   voiceURI?: string;
   onStart?: () => void;
+  /** 영어가 아닌 말로 읽기(예: 'ko-KR' = 한국어 뜻) */
+  lang?: string;
+}
+
+/** 영어 외 언어 음성(한국어 뜻 읽기 등) */
+function voiceForLang(lang: string): SpeechSynthesisVoice | null {
+  const all = window.speechSynthesis?.getVoices() ?? [];
+  const want = lang.toLowerCase();
+  const list = all.filter((v) => normLang(v.lang).toLowerCase() === want);
+  const base = list.length ? list : all.filter((v) => normLang(v.lang).toLowerCase().startsWith(want.split('-')[0]));
+  return base.find((v) => v.localService) ?? base[0] ?? null;
 }
 
 /** 말하기. 끝나거나 취소되면 resolve(취소되면 false). */
@@ -102,11 +113,11 @@ export function speak(text: string, o: SpeakOptions = {}): Promise<boolean> {
     const attempt = (useVoice: boolean) => {
       if (my !== speakSeq) return finish(false);
       const u = new SpeechSynthesisUtterance(text);
-      const v = useVoice ? pickVoice(o.accent ?? 'en-US', o.voiceURI) : null;
+      const v = useVoice ? (o.lang ? voiceForLang(o.lang) : pickVoice(o.accent ?? 'en-US', o.voiceURI)) : null;
       if (v) {
         u.voice = v;
         u.lang = v.lang;
-      } else u.lang = o.accent ?? 'en-US';
+      } else u.lang = o.lang ?? o.accent ?? 'en-US';
       u.rate = o.rate ?? 1;
       let started = false;
       u.onstart = () => {

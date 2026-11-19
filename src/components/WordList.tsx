@@ -65,7 +65,7 @@ export function WordRow({ item, state, lessonKey, onAnswered, showSources }: { i
     onAnswered?.();
   };
   return (
-    <li className={`${s.card} ${w.item}`} data-testid="word-row">
+    <li className={`${s.card} ${w.item}`} data-testid="word-row" data-word-key={item.key}>
       <div className={s.between}>
         <div style={{ minWidth: 0, flex: 1 }}>
           <div className={s.row}>

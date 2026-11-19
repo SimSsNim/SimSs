@@ -1,3 +1,4 @@
+import { WordListen } from '../components/WordListen';
 import { useSticky } from '../lib/sticky';
 import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
@@ -106,10 +107,13 @@ export function WordbookPanel({ trackF, level, day = '' }: { trackF: TrackFilter
             </div>
             <FilterChips items={scoped} states={states} value={filter} onChange={setFilter} />
             {view === 'list' ? (
+              <>
+              <WordListen items={shown} />
               <ul className={s.list}>
                 {shown.map((w) => <WordRow key={w.key} item={w} state={states.get(w.key)} showSources />)}
                 {shown.length === 0 && <li className={s.empty}>단어가 없어요.</li>}
               </ul>
+              </>
             ) : (
               <Flashcards items={shown} deckKey={`${filter}|${trackF}|${level}|${day}|${q}|${sort}`} />
             )}
