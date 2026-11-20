@@ -1,0 +1,1264 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-21-L1-part6",
+  "date": "2026-11-21",
+  "level": 1,
+  "title": "Water Service Interruption Notice",
+  "titleKo": "단수(물 공급 중단) 안내",
+  "genre": "notice",
+  "tags": [
+    "TOEIC Part 6",
+    "공지",
+    "시설 보수"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 107,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Greenfield Tower 입주자 여러분께 알립니다:"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "12월 8일 화요일에 건물의 물 공급이 중단됩니다. 작업자들이 5층의 오래된 배관 일부를 교체해야 합니다. 작업은 오전 9시에 시작해 오후 3시쯤 끝날 예정입니다. 그 전에 병 몇 개에 물을 받아 두세요."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "이 시간 동안 로비의 화장실은 이용할 수 없습니다. 하지만 옆 건물 커피숍이 입주자들이 화장실을 쓸 수 있도록 친절하게 허락해 주었습니다. 이로 인해 불편을 드릴 수 있어 죄송합니다. 궁금한 점이 있으면 건물 관리 사무실로 연락해 주세요."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "양해해 주셔서 감사합니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "Greenfield Tower 관리실"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Attention, Greenfield Tower tenants:",
+      "ko": "Greenfield Tower 입주자 여러분께 알립니다:",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The water in the building will be turned off on Tuesday, December 8.",
+      "ko": "12월 8일 화요일에 건물의 물 공급이 중단됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Workers need to replace some old pipes on the fifth floor.",
+      "ko": "작업자들이 5층의 오래된 배관 일부를 교체해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "The work will start at nine in the morning and finish around three in the afternoon.",
+      "ko": "작업은 오전 9시에 시작해 오후 3시쯤 끝날 예정입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Please fill a few bottles with water before then.",
+      "ko": "그 전에 병 몇 개에 물을 받아 두세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "During this time, the restrooms in the lobby will not be available.",
+      "ko": "이 시간 동안 로비의 화장실은 이용할 수 없습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "However, the coffee shop next door has kindly agreed to let tenants use its restrooms.",
+      "ko": "하지만 옆 건물 커피숍이 입주자들이 화장실을 쓸 수 있도록 친절하게 허락해 주었습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "We apologize for any trouble this may cause.",
+      "ko": "이로 인해 불편을 드릴 수 있어 죄송합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "If you have any questions, please contact the building manager's office.",
+      "ko": "궁금한 점이 있으면 건물 관리 사무실로 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Thank you for your understanding.",
+      "ko": "양해해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Greenfield Tower Management",
+      "ko": "Greenfield Tower 관리실",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "tenant",
+      "pos": "noun",
+      "meaningKo": "입주자, 세입자",
+      "ipa": "/ˈtɛnənt/",
+      "synonyms": [
+        "resident",
+        "occupant"
+      ],
+      "matchText": "tenants",
+      "sentenceId": "s1",
+      "example": {
+        "en": "All tenants must follow the building rules.",
+        "ko": "모든 입주자는 건물 규칙을 지켜야 한다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "turn off",
+      "pos": "verb",
+      "meaningKo": "(물·전기 등을) 끄다, 잠그다",
+      "ipa": "/ˈtɝn ɔf/",
+      "synonyms": [
+        "shut off",
+        "switch off"
+      ],
+      "matchText": "turned off",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Please turn off the lights when you leave.",
+        "ko": "나갈 때 불을 꺼 주세요."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "replace",
+      "pos": "verb",
+      "meaningKo": "교체하다",
+      "ipa": "/rɪˈpleɪs/",
+      "synonyms": [
+        "change",
+        "substitute"
+      ],
+      "matchText": "replace",
+      "sentenceId": "s3",
+      "example": {
+        "en": "We need to replace the old carpet.",
+        "ko": "오래된 카펫을 교체해야 한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "pipe",
+      "pos": "noun",
+      "meaningKo": "배관, 관",
+      "ipa": "/paɪp/",
+      "synonyms": [
+        "tube",
+        "line"
+      ],
+      "matchText": "pipes",
+      "sentenceId": "s3",
+      "example": {
+        "en": "A pipe under the sink is leaking.",
+        "ko": "싱크대 아래 배관에서 물이 샌다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "apologize for",
+      "pos": "verb",
+      "meaningKo": "~에 대해 사과하다",
+      "ipa": "/əˈpɑləˌdʒaɪz fɔr/",
+      "synonyms": [
+        "say sorry for",
+        "express regret for"
+      ],
+      "matchText": "apologize for",
+      "sentenceId": "s8",
+      "example": {
+        "en": "We apologize for the late delivery.",
+        "ko": "배송이 늦어 죄송합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "The water",
+          "role": "S",
+          "ko": "물은"
+        },
+        {
+          "text": "in the building",
+          "role": "M",
+          "ko": "건물의"
+        },
+        {
+          "text": "will be turned off",
+          "role": "V",
+          "ko": "끊길 것이다"
+        },
+        {
+          "text": "on Tuesday, December 8.",
+          "role": "M",
+          "ko": "12월 8일 화요일에"
+        }
+      ],
+      "skeleton": "The water will be turned off.",
+      "explanation": "미래 수동태 will be + 과거분사. 물이 스스로 끄는 것이 아니라 '꺼지는' 것이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "However,",
+          "role": "M",
+          "ko": "하지만"
+        },
+        {
+          "text": "the coffee shop",
+          "role": "S",
+          "ko": "커피숍이"
+        },
+        {
+          "text": "next door",
+          "role": "M",
+          "ko": "옆집의"
+        },
+        {
+          "text": "has kindly agreed",
+          "role": "V",
+          "ko": "친절하게 동의했다"
+        },
+        {
+          "text": "to let tenants use its restrooms.",
+          "role": "O",
+          "ko": "입주자들이 화장실을 쓰게 해 주는 것에"
+        }
+      ],
+      "skeleton": "The coffee shop has agreed to let tenants use its restrooms.",
+      "explanation": "agree 뒤의 to부정사가 목적어. let + 사람 + 동사원형(let tenants use) = ~가 …하게 해 주다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래 수동태 will be + p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "will be turned off"
+      ],
+      "explanation": "주어 The water가 동작을 받는 쪽이라 수동태. 앞으로의 일이라 will be turned off.",
+      "example": {
+        "en": "The road will be closed tomorrow.",
+        "ko": "그 도로는 내일 폐쇄될 것이다."
+      },
+      "note": "will 뒤 빈칸 + 목적어 없음 → be + p.p."
+    },
+    {
+      "id": "g2",
+      "title": "전치사 during + 기간",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "During this time"
+      ],
+      "explanation": "during은 전치사로 뒤에 명사(this time)가 온다. '~ 동안'이라는 뜻.",
+      "example": {
+        "en": "Please turn off your phone during the meeting.",
+        "ko": "회의 중에는 휴대폰을 꺼 주세요."
+      },
+      "note": "during + 명사 / while + 주어 + 동사."
+    },
+    {
+      "id": "g3",
+      "title": "have + 부사 + 과거분사",
+      "tags": [
+        "시제",
+        "품사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "has kindly agreed"
+      ],
+      "explanation": "현재완료 has agreed 사이에 부사 kindly가 들어가 동사를 꾸민다.",
+      "example": {
+        "en": "He has carefully checked the report.",
+        "ko": "그는 보고서를 꼼꼼히 확인했다."
+      },
+      "note": "have/has와 p.p. 사이는 부사 자리."
+    }
+  ],
+  "glossary": {
+    "attention": {
+      "lemma": "attention",
+      "pos": "noun",
+      "ko": "알립니다, 주목 (공지 첫머리)",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "note"
+      ],
+      "ipa": "/əˈtɛnʃən/"
+    },
+    "greenfield": {
+      "lemma": "Greenfield",
+      "pos": "proper-noun",
+      "ko": "그린필드 (건물 이름의 일부)",
+      "form": null,
+      "ipa": "/ˈɡriːnˌfiːld/"
+    },
+    "tower": {
+      "lemma": "tower",
+      "pos": "noun",
+      "ko": "타워, 고층 건물",
+      "form": null,
+      "synonyms": [
+        "building",
+        "high-rise"
+      ],
+      "ipa": "/ˈtaʊər/"
+    },
+    "tenants": {
+      "lemma": "tenant",
+      "pos": "noun",
+      "ko": "입주자, 세입자",
+      "form": "복수형",
+      "synonyms": [
+        "residents",
+        "occupants"
+      ],
+      "ipa": "/ˈtɛnənts/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "form": null,
+      "synonyms": [
+        "water supply"
+      ],
+      "ipa": "/ˈwɔːtər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안의, ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물",
+      "form": null,
+      "synonyms": [
+        "structure",
+        "property"
+      ],
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn off) 끄다, 잠그다",
+      "form": "과거분사",
+      "synonyms": [
+        "shut",
+        "switch"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(turn off) 꺼진 상태로",
+      "form": null,
+      "synonyms": [
+        "out"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(날짜·층) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일",
+      "form": null,
+      "ipa": "/ˈtuːzdi/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월",
+      "form": null,
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "workers": {
+      "lemma": "worker",
+      "pos": "noun",
+      "ko": "작업자",
+      "form": "복수형",
+      "synonyms": [
+        "laborers",
+        "crew"
+      ],
+      "ipa": "/ˈwɜːrkərz/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "~해야 한다, 필요하다",
+      "form": null,
+      "synonyms": [
+        "have to",
+        "require"
+      ],
+      "ipa": "/niːd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하는 것, ~하기",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "replace": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "교체하다",
+      "form": null,
+      "synonyms": [
+        "change",
+        "substitute"
+      ],
+      "ipa": "/ˌriːˈpleɪs/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "일부의, 몇몇",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "오래된",
+      "form": null,
+      "synonyms": [
+        "aging",
+        "worn"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "pipes": {
+      "lemma": "pipe",
+      "pos": "noun",
+      "ko": "배관",
+      "form": "복수형",
+      "synonyms": [
+        "tubes",
+        "lines"
+      ],
+      "ipa": "/paɪps/"
+    },
+    "fifth": {
+      "lemma": "fifth",
+      "pos": "adjective",
+      "ko": "다섯 번째의",
+      "form": null,
+      "synonyms": [
+        "5th"
+      ],
+      "ipa": "/fɪfθ/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "작업, 공사",
+      "form": null,
+      "synonyms": [
+        "job",
+        "project"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "start": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": null,
+      "synonyms": [
+        "begin",
+        "commence"
+      ],
+      "ipa": "/stɑːrt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(시각) ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "nine": {
+      "lemma": "nine",
+      "pos": "number",
+      "ko": "9, 아홉",
+      "form": null,
+      "ipa": "/naɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "오전, 아침",
+      "form": null,
+      "synonyms": [
+        "a.m."
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "finish": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝나다",
+      "form": null,
+      "synonyms": [
+        "end",
+        "complete"
+      ],
+      "ipa": "/ˈfɪnɪʃ/"
+    },
+    "around": {
+      "lemma": "around",
+      "pos": "preposition",
+      "ko": "~쯤, 대략",
+      "form": null,
+      "ipa": "/əˈraʊnd/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "synonyms": [
+        "p.m."
+      ],
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "fill": {
+      "lemma": "fill",
+      "pos": "verb",
+      "ko": "채우다",
+      "form": null,
+      "synonyms": [
+        "load",
+        "top up"
+      ],
+      "ipa": "/fɪl/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇 개의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "bottles": {
+      "lemma": "bottle",
+      "pos": "noun",
+      "ko": "병",
+      "form": "복수형",
+      "synonyms": [
+        "containers",
+        "jugs"
+      ],
+      "ipa": "/ˈbɑːtəlz/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때",
+      "form": null,
+      "synonyms": [
+        "that time"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": null,
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "restrooms": {
+      "lemma": "restroom",
+      "pos": "noun",
+      "ko": "화장실",
+      "form": "복수형",
+      "synonyms": [
+        "bathrooms",
+        "toilets"
+      ],
+      "ipa": "/ˈrɛˌstruːmz/"
+    },
+    "lobby": {
+      "lemma": "lobby",
+      "pos": "noun",
+      "ko": "로비",
+      "form": null,
+      "synonyms": [
+        "entrance hall",
+        "foyer"
+      ],
+      "ipa": "/ˈlɑːbi/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "이용할 수 있는",
+      "form": null,
+      "synonyms": [
+        "usable",
+        "open"
+      ],
+      "ipa": "/əˈveɪləbəl/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만",
+      "form": null,
+      "synonyms": [
+        "but",
+        "still"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "coffee": {
+      "lemma": "coffee",
+      "pos": "noun",
+      "ko": "커피",
+      "form": null,
+      "synonyms": [
+        "café"
+      ],
+      "ipa": "/ˈkɑːfi/"
+    },
+    "shop": {
+      "lemma": "shop",
+      "pos": "noun",
+      "ko": "가게",
+      "form": null,
+      "synonyms": [
+        "store",
+        "café"
+      ],
+      "ipa": "/ʃɑːp/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adverb",
+      "ko": "(next door) 바로 옆에",
+      "form": null,
+      "synonyms": [
+        "beside"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "door": {
+      "lemma": "door",
+      "pos": "noun",
+      "ko": "(next door) 옆집, 문",
+      "form": null,
+      "synonyms": [
+        "entrance"
+      ],
+      "ipa": "/dɔːr/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "kindly": {
+      "lemma": "kindly",
+      "pos": "adverb",
+      "ko": "친절하게",
+      "form": null,
+      "synonyms": [
+        "generously",
+        "graciously"
+      ],
+      "ipa": "/ˈkaɪndli/"
+    },
+    "agreed": {
+      "lemma": "agree",
+      "pos": "verb",
+      "ko": "동의하다, 허락하다",
+      "form": "과거분사",
+      "synonyms": [
+        "consent",
+        "accept"
+      ],
+      "ipa": "/əˈɡriːd/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 해 주다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": null,
+      "synonyms": [
+        "access",
+        "make use of"
+      ],
+      "ipa": "/juːs/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": "소유격",
+      "ipa": "/ɪts/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "apologize": {
+      "lemma": "apologize",
+      "pos": "verb",
+      "ko": "사과하다",
+      "form": null,
+      "synonyms": [
+        "say sorry",
+        "express regret"
+      ],
+      "ipa": "/əˈpɑːləˌdʒaɪz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 모든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "trouble": {
+      "lemma": "trouble",
+      "pos": "noun",
+      "ko": "불편, 문제",
+      "form": null,
+      "synonyms": [
+        "inconvenience",
+        "difficulty"
+      ],
+      "ipa": "/ˈtrʌbəl/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할 수도 있다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "cause": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "일으키다",
+      "form": null,
+      "synonyms": [
+        "create",
+        "bring about"
+      ],
+      "ipa": "/kɑːz/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~이면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 궁금한 점",
+      "form": "복수형",
+      "synonyms": [
+        "inquiries",
+        "concerns"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "manager's": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자의",
+      "form": "소유격",
+      "synonyms": [
+        "supervisor's",
+        "administrator's"
+      ],
+      "ipa": "/ˈmænɪdʒərz/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "synonyms": [
+        "department",
+        "bureau"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "여러분의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "understanding": {
+      "lemma": "understanding",
+      "pos": "noun",
+      "ko": "양해, 이해",
+      "form": null,
+      "synonyms": [
+        "patience",
+        "cooperation"
+      ],
+      "ipa": "/ˌʌndərˈstændɪŋ/"
+    },
+    "management": {
+      "lemma": "management",
+      "pos": "noun",
+      "ko": "관리실, 경영진",
+      "form": null,
+      "synonyms": [
+        "administration",
+        "office"
+      ],
+      "ipa": "/ˈmænədʒmənt/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "be turned"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "turn"
+        },
+        {
+          "key": "B",
+          "text": "turning"
+        },
+        {
+          "key": "C",
+          "text": "be turned"
+        },
+        {
+          "key": "D",
+          "text": "have turned"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "물은 '꺼지는' 대상이고 뒤에 목적어가 없으므로 will 뒤에 수동형 be turned.",
+      "choiceNotesKo": {
+        "A": "will turn off 뒤에는 꺼야 할 대상(목적어)이 와야 한다.",
+        "D": "have turned도 능동이라 목적어가 필요하다."
+      },
+      "skill": "미래 수동태"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "Please fill a few bottles with water before then."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The new pipes were very expensive."
+        },
+        {
+          "key": "B",
+          "text": "Please fill a few bottles with water before then."
+        },
+        {
+          "key": "C",
+          "text": "The gym on the first floor will open next month."
+        },
+        {
+          "key": "D",
+          "text": "Please return your parking pass to the office."
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "앞 문장이 작업(단수) 시간을 알려 주므로, 그 전에(before then) 물을 받아 두라는 안내가 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "배관 가격은 입주자 안내와 관계없다.",
+        "C": "헬스장 개장은 단수 공지의 흐름에서 벗어난다."
+      },
+      "skill": "문장 넣기(before then 단서)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "During"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "During"
+        },
+        {
+          "key": "B",
+          "text": "While"
+        },
+        {
+          "key": "C",
+          "text": "Among"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "뒤에 명사 this time만 있으므로 전치사가 필요하다. '이 시간 동안' = During this time.",
+      "choiceNotesKo": {
+        "B": "While은 접속사라 뒤에 주어+동사가 와야 한다.",
+        "C": "Among은 '(셋 이상) 사이에'라 뜻이 맞지 않는다."
+      },
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "kindly"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "kind"
+        },
+        {
+          "key": "B",
+          "text": "kindly"
+        },
+        {
+          "key": "C",
+          "text": "kindness"
+        },
+        {
+          "key": "D",
+          "text": "kinder"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "has와 agreed 사이에서 동사를 꾸미는 부사 자리.",
+      "choiceNotesKo": {
+        "A": "kind는 형용사라 동사를 꾸밀 수 없다.",
+        "C": "kindness는 명사다."
+      },
+      "skill": "부사 자리(have와 p.p. 사이)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "contact"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "speak"
+        },
+        {
+          "key": "B",
+          "text": "reply"
+        },
+        {
+          "key": "C",
+          "text": "talk"
+        },
+        {
+          "key": "D",
+          "text": "contact"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "contact는 뒤에 바로 목적어를 쓴다: contact the office.",
+      "choiceNotesKo": {
+        "A": "speak는 speak to the office처럼 전치사가 필요하다.",
+        "B": "reply도 reply to가 필요하다."
+      },
+      "skill": "동사 어휘(contact + 목적어)"
+    }
+  ]
+}

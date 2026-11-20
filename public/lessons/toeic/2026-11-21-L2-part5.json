@@ -1,0 +1,1736 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-21-L2-part5",
+  "date": "2026-11-21",
+  "level": 2,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 129,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Hwang 씨는 새 마케팅 전략에 관해 이사회에 설득력 있는 발표를 했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "Ortiz 씨가 지난주에 주문한 노트북이 아직 도착하지 않았다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "폭설 때문에 직원 회의가 목요일로 연기되었다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "매니저는 디자인팀이 프로젝트에 헌신한 것을 칭찬했다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "Sato 씨는 회사 야유회를 6월의 더 늦은 날짜로 옮기자고 제안했다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "모든 방문객은 도착하는 즉시 보안 데스크에서 출입 기록을 해야 한다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "새 소프트웨어 덕분에 직원들은 큰 파일을 더 효율적으로 공유할 수 있다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "고객은 원래 영수증을 보관하고 있기만 하면 30일 안에 어떤 물건이든 반품할 수 있다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "그 호텔의 주 회의장은 최대 300명의 손님을 수용할 수 있다."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "우리의 새 배달 서비스는 지역 곳곳의 작은 마을에서 매우 성공적이었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Ms. Hwang gave a persuasive presentation to the board on the new marketing strategy.",
+      "ko": "Hwang 씨는 새 마케팅 전략에 관해 이사회에 설득력 있는 발표를 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The laptop that Mr. Ortiz ordered last week has not arrived yet.",
+      "ko": "Ortiz 씨가 지난주에 주문한 노트북이 아직 도착하지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "The staff meeting was postponed until Thursday because of the heavy snow.",
+      "ko": "폭설 때문에 직원 회의가 목요일로 연기되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "The manager praised the design team for its dedication to the project.",
+      "ko": "매니저는 디자인팀이 프로젝트에 헌신한 것을 칭찬했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Mr. Sato suggested moving the company picnic to a later date in June.",
+      "ko": "Sato 씨는 회사 야유회를 6월의 더 늦은 날짜로 옮기자고 제안했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "All visitors are required to sign in at the security desk upon arrival.",
+      "ko": "모든 방문객은 도착하는 즉시 보안 데스크에서 출입 기록을 해야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "The new software allows employees to share large files more efficiently.",
+      "ko": "새 소프트웨어 덕분에 직원들은 큰 파일을 더 효율적으로 공유할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "Customers may return any item within thirty days as long as they keep the original receipt.",
+      "ko": "고객은 원래 영수증을 보관하고 있기만 하면 30일 안에 어떤 물건이든 반품할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "The hotel's main conference hall can accommodate up to three hundred guests.",
+      "ko": "그 호텔의 주 회의장은 최대 300명의 손님을 수용할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "Our new delivery service has been very successful in small towns across the region.",
+      "ko": "우리의 새 배달 서비스는 지역 곳곳의 작은 마을에서 매우 성공적이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "persuasive",
+      "pos": "adjective",
+      "meaningKo": "설득력 있는",
+      "ipa": "/pərˈsweɪsɪv/",
+      "synonyms": [
+        "convincing",
+        "compelling"
+      ],
+      "matchText": "persuasive",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She made a persuasive argument for the new plan.",
+        "ko": "그녀는 새 계획에 대해 설득력 있는 주장을 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "postpone",
+      "pos": "verb",
+      "meaningKo": "연기하다, 미루다",
+      "ipa": "/poʊstˈpoʊn/",
+      "synonyms": [
+        "delay",
+        "put off"
+      ],
+      "matchText": "postponed",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The concert was postponed because of rain.",
+        "ko": "콘서트가 비 때문에 연기되었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "dedication",
+      "pos": "noun",
+      "meaningKo": "헌신, 전념",
+      "ipa": "/ˌdɛdɪˈkeɪʃən/",
+      "synonyms": [
+        "commitment",
+        "devotion"
+      ],
+      "matchText": "dedication",
+      "sentenceId": "s4",
+      "example": {
+        "en": "We thank our staff for their dedication.",
+        "ko": "헌신해 준 직원들에게 감사한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "upon arrival",
+      "pos": "phrase",
+      "meaningKo": "도착하자마자, 도착 즉시",
+      "ipa": "/əˈpɑn əˈraɪvəl/",
+      "synonyms": [
+        "on arrival",
+        "when arriving"
+      ],
+      "matchText": "upon arrival",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Please show your ticket upon arrival.",
+        "ko": "도착하자마자 표를 보여 주세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "accommodate",
+      "pos": "verb",
+      "meaningKo": "(인원을) 수용하다",
+      "ipa": "/əˈkɑməˌdeɪt/",
+      "synonyms": [
+        "hold",
+        "seat"
+      ],
+      "matchText": "accommodate",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The bus can accommodate fifty passengers.",
+        "ko": "그 버스는 승객 50명을 태울 수 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "The laptop",
+          "role": "S",
+          "ko": "노트북은"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~한",
+          "sub": true
+        },
+        {
+          "text": "Mr. Ortiz",
+          "role": "S",
+          "ko": "Ortiz 씨가",
+          "sub": true
+        },
+        {
+          "text": "ordered",
+          "role": "V",
+          "ko": "주문했다",
+          "sub": true
+        },
+        {
+          "text": "last week",
+          "role": "M",
+          "ko": "지난주에",
+          "sub": true
+        },
+        {
+          "text": "has not arrived",
+          "role": "V",
+          "ko": "도착하지 않았다"
+        },
+        {
+          "text": "yet.",
+          "role": "M",
+          "ko": "아직"
+        }
+      ],
+      "skeleton": "The laptop has not arrived yet.",
+      "explanation": "that Mr. Ortiz ordered last week는 주어 The laptop을 꾸미는 관계절. 문장의 진짜 동사는 has not arrived."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "Customers",
+          "role": "S",
+          "ko": "고객은"
+        },
+        {
+          "text": "may return",
+          "role": "V",
+          "ko": "반품할 수 있다"
+        },
+        {
+          "text": "any item",
+          "role": "O",
+          "ko": "어떤 물건이든"
+        },
+        {
+          "text": "within thirty days",
+          "role": "M",
+          "ko": "30일 안에"
+        },
+        {
+          "text": "as long as",
+          "role": "CONJ",
+          "ko": "~하기만 하면"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그들이",
+          "sub": true
+        },
+        {
+          "text": "keep",
+          "role": "V",
+          "ko": "보관하다",
+          "sub": true
+        },
+        {
+          "text": "the original receipt.",
+          "role": "O",
+          "ko": "원래 영수증을",
+          "sub": true
+        }
+      ],
+      "skeleton": "Customers may return any item.",
+      "explanation": "as long as는 '~하는 한, ~하기만 하면'이라는 조건 접속사로 뒤에 절이 온다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "목적격 관계대명사 that",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "that Mr. Ortiz ordered"
+      ],
+      "explanation": "선행사 The laptop(사물)이 관계절 안에서 ordered의 목적어 역할을 하므로 목적격 관계대명사 that(또는 which)을 쓴다.",
+      "example": {
+        "en": "The book that I borrowed is very useful.",
+        "ko": "내가 빌린 책은 매우 유용하다."
+      },
+      "note": "사물 선행사 → which/that, 사람 → who(m)/that. what은 선행사 없이 쓴다."
+    },
+    {
+      "id": "g2",
+      "title": "suggest + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "suggested moving"
+      ],
+      "explanation": "suggest는 목적어로 to부정사가 아니라 동명사를 쓴다.",
+      "example": {
+        "en": "He suggested taking a short break.",
+        "ko": "그는 잠깐 쉬자고 제안했다."
+      },
+      "note": "suggest, consider, avoid, recommend + -ing."
+    },
+    {
+      "id": "g3",
+      "title": "be required to + 동사원형",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "are required to sign in"
+      ],
+      "explanation": "require A to V(A에게 ~하도록 요구하다)의 수동태가 A is required to V이다.",
+      "example": {
+        "en": "Employees are required to wear name tags.",
+        "ko": "직원들은 명찰을 착용해야 한다."
+      },
+      "note": "be required/asked/expected to V는 토익 단골 수동태 표현."
+    }
+  ],
+  "glossary": {
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "hwang": {
+      "lemma": "Hwang",
+      "pos": "proper-noun",
+      "ko": "황 (사람 성)",
+      "form": null,
+      "ipa": "/hwæŋ/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(발표를) 하다, 주다",
+      "form": "과거형",
+      "synonyms": [
+        "delivered",
+        "made"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "persuasive": {
+      "lemma": "persuasive",
+      "pos": "adjective",
+      "ko": "설득력 있는",
+      "form": null,
+      "synonyms": [
+        "convincing",
+        "compelling"
+      ],
+      "ipa": "/pərˈsweɪsɪv/"
+    },
+    "presentation": {
+      "lemma": "presentation",
+      "pos": "noun",
+      "ko": "발표",
+      "form": null,
+      "synonyms": [
+        "talk",
+        "speech"
+      ],
+      "ipa": "/ˌprɛzənˈteɪʃən/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "board": {
+      "lemma": "board",
+      "pos": "noun",
+      "ko": "이사회",
+      "form": null,
+      "synonyms": [
+        "directors",
+        "committee"
+      ],
+      "ipa": "/bɔːrd/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 관해",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "recent",
+        "latest"
+      ],
+      "ipa": "/nuː/"
+    },
+    "marketing": {
+      "lemma": "marketing",
+      "pos": "noun",
+      "ko": "마케팅",
+      "form": null,
+      "synonyms": [
+        "promotion",
+        "advertising"
+      ],
+      "ipa": "/ˈmɑːrkətɪŋ/"
+    },
+    "strategy": {
+      "lemma": "strategy",
+      "pos": "noun",
+      "ko": "전략",
+      "form": null,
+      "synonyms": [
+        "plan",
+        "approach"
+      ],
+      "ipa": "/ˈstrætədʒi/"
+    },
+    "laptop": {
+      "lemma": "laptop",
+      "pos": "noun",
+      "ko": "노트북 컴퓨터",
+      "form": null,
+      "synonyms": [
+        "notebook computer"
+      ],
+      "ipa": "/ˈlæpˌtɑːp/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~한",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "ortiz": {
+      "lemma": "Ortiz",
+      "pos": "proper-noun",
+      "ko": "오르티스 (사람 성)",
+      "form": null,
+      "ipa": "/ˌɔːrˈtiːz/"
+    },
+    "ordered": {
+      "lemma": "order",
+      "pos": "verb",
+      "ko": "주문하다",
+      "form": "과거형",
+      "synonyms": [
+        "bought",
+        "requested"
+      ],
+      "ipa": "/ˈɔːrdərd/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "past"
+      ],
+      "ipa": "/læst/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주",
+      "form": null,
+      "ipa": "/wiːk/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "arrived": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": "과거분사",
+      "synonyms": [
+        "come",
+        "been delivered"
+      ],
+      "ipa": "/əˈraɪvd/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "adverb",
+      "ko": "아직",
+      "form": null,
+      "synonyms": [
+        "so far"
+      ],
+      "ipa": "/jɛt/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "personnel"
+      ],
+      "ipa": "/stæf/"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의",
+      "form": null,
+      "synonyms": [
+        "session",
+        "conference"
+      ],
+      "ipa": "/ˈmiːtɪŋ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되었다 (수동태)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "postponed": {
+      "lemma": "postpone",
+      "pos": "verb",
+      "ko": "연기하다",
+      "form": "과거분사",
+      "synonyms": [
+        "delayed",
+        "put off"
+      ],
+      "ipa": "/poʊstˈpoʊnd/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "preposition",
+      "ko": "~까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일",
+      "form": null,
+      "ipa": "/ˈθɜːrzˌdeɪ/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "phrase",
+      "ko": "(because of) ~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, (because of) ~ 때문에",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "(눈·비가) 많은, 심한",
+      "form": null,
+      "synonyms": [
+        "severe",
+        "intense"
+      ],
+      "ipa": "/ˈhɛvi/"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈",
+      "form": null,
+      "synonyms": [
+        "snowfall"
+      ],
+      "ipa": "/snoʊ/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "praised": {
+      "lemma": "praise",
+      "pos": "verb",
+      "ko": "칭찬하다",
+      "form": "과거형",
+      "synonyms": [
+        "commended",
+        "applauded"
+      ],
+      "ipa": "/preɪzd/"
+    },
+    "design": {
+      "lemma": "design",
+      "pos": "noun",
+      "ko": "디자인",
+      "form": null,
+      "synonyms": [
+        "planning",
+        "layout"
+      ],
+      "ipa": "/dɪˈzaɪn/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "department"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": "소유격",
+      "ipa": "/ɪts/"
+    },
+    "dedication": {
+      "lemma": "dedication",
+      "pos": "noun",
+      "ko": "헌신, 전념",
+      "form": null,
+      "synonyms": [
+        "commitment",
+        "devotion"
+      ],
+      "ipa": "/ˌdɛdəˈkeɪʃən/"
+    },
+    "project": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트, 과제",
+      "form": null,
+      "synonyms": [
+        "assignment",
+        "task"
+      ],
+      "ipa": "/ˈprɑːdʒɛkt/"
+    },
+    "sato": {
+      "lemma": "Sato",
+      "pos": "proper-noun",
+      "ko": "사토 (사람 성)",
+      "form": null,
+      "ipa": "/ˈsɑːtoʊ/"
+    },
+    "suggested": {
+      "lemma": "suggest",
+      "pos": "verb",
+      "ko": "제안하다",
+      "form": "과거형",
+      "synonyms": [
+        "proposed",
+        "recommended"
+      ],
+      "ipa": "/səˈdʒɛstɪd/"
+    },
+    "moving": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "옮기다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "shifting",
+        "changing"
+      ],
+      "ipa": "/ˈmuːvɪŋ/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "picnic": {
+      "lemma": "picnic",
+      "pos": "noun",
+      "ko": "야유회, 소풍",
+      "form": null,
+      "synonyms": [
+        "outing",
+        "gathering"
+      ],
+      "ipa": "/ˈpɪkˌnɪk/"
+    },
+    "later": {
+      "lemma": "late",
+      "pos": "adjective",
+      "ko": "더 늦은",
+      "form": "비교급",
+      "synonyms": [
+        "subsequent"
+      ],
+      "ipa": "/ˈleɪtər/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "synonyms": [
+        "day"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "june": {
+      "lemma": "June",
+      "pos": "proper-noun",
+      "ko": "6월",
+      "form": null,
+      "ipa": "/dʒuːn/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "visitors": {
+      "lemma": "visitor",
+      "pos": "noun",
+      "ko": "방문객",
+      "form": "복수형",
+      "synonyms": [
+        "guests",
+        "callers"
+      ],
+      "ipa": "/ˈvɪzɪtərz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다 (수동태), ~이다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "required": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "요구하다",
+      "form": "과거분사",
+      "synonyms": [
+        "asked",
+        "obliged"
+      ],
+      "ipa": "/riˈkwaɪərd/"
+    },
+    "sign": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "(sign in) 출입 기록을 하다, 서명하다",
+      "form": null,
+      "synonyms": [
+        "register",
+        "check in"
+      ],
+      "ipa": "/saɪn/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "security": {
+      "lemma": "security",
+      "pos": "noun",
+      "ko": "보안",
+      "form": null,
+      "synonyms": [
+        "safety",
+        "protection"
+      ],
+      "ipa": "/sɪˈkjʊrəti/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 창구",
+      "form": null,
+      "synonyms": [
+        "counter",
+        "station"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~하자마자",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "arrival": {
+      "lemma": "arrival",
+      "pos": "noun",
+      "ko": "도착",
+      "form": null,
+      "synonyms": [
+        "coming",
+        "entrance"
+      ],
+      "ipa": "/əˈraɪvəl/"
+    },
+    "software": {
+      "lemma": "software",
+      "pos": "noun",
+      "ko": "소프트웨어",
+      "form": null,
+      "synonyms": [
+        "program",
+        "application"
+      ],
+      "ipa": "/ˈsɔːfˌtwɛr/"
+    },
+    "allows": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "허락하다, ~할 수 있게 하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "enables",
+        "lets"
+      ],
+      "ipa": "/əˈlaʊz/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "workers",
+        "staff members"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "share": {
+      "lemma": "share",
+      "pos": "verb",
+      "ko": "공유하다",
+      "form": null,
+      "synonyms": [
+        "exchange",
+        "send"
+      ],
+      "ipa": "/ʃɛr/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "big",
+        "heavy"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "files": {
+      "lemma": "file",
+      "pos": "noun",
+      "ko": "파일",
+      "form": "복수형",
+      "synonyms": [
+        "documents",
+        "data"
+      ],
+      "ipa": "/faɪlz/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (비교급)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "efficiently": {
+      "lemma": "efficiently",
+      "pos": "adverb",
+      "ko": "효율적으로",
+      "form": null,
+      "synonyms": [
+        "effectively",
+        "productively"
+      ],
+      "ipa": "/ɪˈfɪʃəntli/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "clients",
+        "shoppers"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다, ~할 수 있다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "반품하다, 돌려주다",
+      "form": null,
+      "synonyms": [
+        "give back",
+        "send back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "item": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물건, 품목",
+      "form": null,
+      "synonyms": [
+        "product",
+        "article"
+      ],
+      "ipa": "/ˈaɪtəm/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 안에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "pos": "number",
+      "ko": "30, 서른",
+      "form": null,
+      "ipa": "/ˈθɜːrˌdiː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as long as) ~하기만 하면",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(as long as) ~하는 한",
+      "form": null,
+      "ipa": "/lɔːŋ/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "보관하다, 가지고 있다",
+      "form": null,
+      "synonyms": [
+        "hold on to",
+        "retain"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "original": {
+      "lemma": "original",
+      "pos": "adjective",
+      "ko": "원래의",
+      "form": null,
+      "synonyms": [
+        "initial",
+        "first"
+      ],
+      "ipa": "/əˈrɪdʒənəl/"
+    },
+    "receipt": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": null,
+      "synonyms": [
+        "proof of purchase",
+        "sales slip"
+      ],
+      "ipa": "/rɪˈsiːt/"
+    },
+    "hotel's": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔의",
+      "form": "소유격",
+      "synonyms": [
+        "inn's",
+        "resort's"
+      ],
+      "ipa": "/hoʊˈtɛlz/"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "주된, 가장 큰",
+      "form": null,
+      "synonyms": [
+        "principal",
+        "primary"
+      ],
+      "ipa": "/meɪn/"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "회의",
+      "form": null,
+      "synonyms": [
+        "meeting",
+        "convention"
+      ],
+      "ipa": "/ˈkɑːnfərəns/"
+    },
+    "hall": {
+      "lemma": "hall",
+      "pos": "noun",
+      "ko": "홀, 회관",
+      "form": null,
+      "synonyms": [
+        "room",
+        "auditorium"
+      ],
+      "ipa": "/hɔːl/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "accommodate": {
+      "lemma": "accommodate",
+      "pos": "verb",
+      "ko": "수용하다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "seat"
+      ],
+      "ipa": "/əˈkɑːməˌdeɪt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(up to) 최대 ~까지",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "hundred": {
+      "lemma": "hundred",
+      "pos": "number",
+      "ko": "100, 백",
+      "form": null,
+      "ipa": "/ˈhʌndrəd/"
+    },
+    "guests": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "손님",
+      "form": "복수형",
+      "synonyms": [
+        "visitors",
+        "attendees"
+      ],
+      "ipa": "/ɡɛsts/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "delivery": {
+      "lemma": "delivery",
+      "pos": "noun",
+      "ko": "배달",
+      "form": null,
+      "synonyms": [
+        "shipping",
+        "distribution"
+      ],
+      "ipa": "/dɪˈlɪvəri/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스",
+      "form": null,
+      "synonyms": [
+        "operation",
+        "system"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다 (현재완료)",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "highly",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "successful": {
+      "lemma": "successful",
+      "pos": "adjective",
+      "ko": "성공적인",
+      "form": null,
+      "synonyms": [
+        "popular",
+        "profitable"
+      ],
+      "ipa": "/səkˈsɛsfəl/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "rural"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "towns": {
+      "lemma": "town",
+      "pos": "noun",
+      "ko": "마을, 소도시",
+      "form": "복수형",
+      "synonyms": [
+        "communities",
+        "villages"
+      ],
+      "ipa": "/taʊnz/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~ 곳곳의, 전역에",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "region": {
+      "lemma": "region",
+      "pos": "noun",
+      "ko": "지역",
+      "form": null,
+      "synonyms": [
+        "area",
+        "district"
+      ],
+      "ipa": "/ˈriːdʒən/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "persuasive"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "persuade"
+        },
+        {
+          "key": "B",
+          "text": "persuasive"
+        },
+        {
+          "key": "C",
+          "text": "persuasively"
+        },
+        {
+          "key": "D",
+          "text": "persuasion"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "관사 a와 명사 presentation 사이는 명사를 꾸미는 형용사 자리.",
+      "choiceNotesKo": {
+        "C": "부사는 명사를 꾸밀 수 없다.",
+        "D": "persuasion presentation이라는 복합명사는 쓰지 않는다."
+      },
+      "skill": "형용사 자리(명사 앞)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "that"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "that"
+        },
+        {
+          "key": "B",
+          "text": "what"
+        },
+        {
+          "key": "C",
+          "text": "who"
+        },
+        {
+          "key": "D",
+          "text": "whose"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "선행사 The laptop(사물)을 받고, 관계절 안에서 ordered의 목적어가 빠져 있으므로 목적격 관계대명사 that.",
+      "choiceNotesKo": {
+        "B": "what은 선행사를 포함하므로 앞에 명사가 있으면 쓸 수 없다.",
+        "C": "who는 사람 선행사에 쓴다.",
+        "D": "whose 뒤에는 명사가 와야 한다."
+      },
+      "skill": "목적격 관계대명사"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "because of"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "because"
+        },
+        {
+          "key": "B",
+          "text": "although"
+        },
+        {
+          "key": "C",
+          "text": "due"
+        },
+        {
+          "key": "D",
+          "text": "because of"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "뒤에 명사구 the heavy snow만 있으므로 전치사(구)가 필요하다. because of = ~ 때문에.",
+      "choiceNotesKo": {
+        "A": "because는 접속사라 뒤에 주어+동사가 와야 한다.",
+        "C": "due는 due to처럼 to가 있어야 한다."
+      },
+      "skill": "전치사 vs 접속사"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "dedication"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "dedicate"
+        },
+        {
+          "key": "B",
+          "text": "dedicated"
+        },
+        {
+          "key": "C",
+          "text": "dedication"
+        },
+        {
+          "key": "D",
+          "text": "dedicating"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "소유격 its 뒤는 명사 자리.",
+      "choiceNotesKo": {
+        "B": "dedicated는 형용사/과거분사라 소유격 뒤에 혼자 올 수 없다.",
+        "D": "dedicating은 뒤에 목적어가 필요하다."
+      },
+      "skill": "명사 자리(소유격 뒤)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "moving"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "moving"
+        },
+        {
+          "key": "B",
+          "text": "move"
+        },
+        {
+          "key": "C",
+          "text": "to move"
+        },
+        {
+          "key": "D",
+          "text": "moved"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "suggest는 동명사를 목적어로 쓴다: suggested moving.",
+      "choiceNotesKo": {
+        "C": "suggest 뒤에 to부정사는 쓰지 않는다.",
+        "D": "이미 동사 suggested가 있어 과거형 moved가 또 올 수 없다."
+      },
+      "skill": "동명사를 쓰는 동사"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "are required"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "require"
+        },
+        {
+          "key": "B",
+          "text": "are required"
+        },
+        {
+          "key": "C",
+          "text": "requiring"
+        },
+        {
+          "key": "D",
+          "text": "have required"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "방문객은 '요구받는' 쪽이고 뒤에 목적어 없이 to부정사가 이어지므로 수동태 are required to.",
+      "choiceNotesKo": {
+        "A": "능동 require는 require visitors to처럼 목적어가 필요하다.",
+        "D": "have required도 능동이라 목적어가 필요하다."
+      },
+      "skill": "수동태(be required to)"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "efficiently"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "efficient"
+        },
+        {
+          "key": "B",
+          "text": "efficiency"
+        },
+        {
+          "key": "C",
+          "text": "efficiencies"
+        },
+        {
+          "key": "D",
+          "text": "efficiently"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "동사 share를 꾸미는 부사 자리. more efficiently = 더 효율적으로.",
+      "choiceNotesKo": {
+        "A": "형용사는 동사를 꾸밀 수 없다.",
+        "B": "명사는 more 뒤 수식어 자리에 올 수 없다."
+      },
+      "skill": "부사 자리(동사 수식)"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "as long as"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "in spite of"
+        },
+        {
+          "key": "B",
+          "text": "owing to"
+        },
+        {
+          "key": "C",
+          "text": "as long as"
+        },
+        {
+          "key": "D",
+          "text": "whereas"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "뒤에 주어(they)+동사(keep)가 있으므로 접속사가 필요하고, '영수증을 보관하기만 하면'이라는 조건 의미라 as long as.",
+      "choiceNotesKo": {
+        "A": "in spite of는 전치사라 절이 올 수 없다.",
+        "D": "whereas(반면에)는 대조를 나타내 뜻이 맞지 않는다."
+      },
+      "skill": "조건 접속사"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "accommodate"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "attend"
+        },
+        {
+          "key": "B",
+          "text": "accommodate"
+        },
+        {
+          "key": "C",
+          "text": "consist"
+        },
+        {
+          "key": "D",
+          "text": "apply"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "회의장이 300명을 '수용할 수 있다'는 뜻이 맞다.",
+      "choiceNotesKo": {
+        "A": "attend는 사람이 행사에 참석하는 것이다.",
+        "C": "consist는 consist of로 쓰고 '구성되다'라는 뜻이다."
+      },
+      "skill": "동사 어휘"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "successful"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "success"
+        },
+        {
+          "key": "B",
+          "text": "succeed"
+        },
+        {
+          "key": "C",
+          "text": "successful"
+        },
+        {
+          "key": "D",
+          "text": "successfully"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "has been very 뒤의 보어 자리이므로 형용사.",
+      "choiceNotesKo": {
+        "A": "success는 명사라 very의 꾸밈을 받을 수 없다.",
+        "D": "부사는 보어 자리에 올 수 없다."
+      },
+      "skill": "형용사 자리(보어)"
+    }
+  ]
+}
