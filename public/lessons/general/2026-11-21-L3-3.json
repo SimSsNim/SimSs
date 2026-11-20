@@ -1,0 +1,1941 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-21-L3-3",
+  "date": "2026-11-21",
+  "level": 3,
+  "title": "The Birthday of the Infanta",
+  "titleKo": "공주의 생일",
+  "genre": "fairy-tale",
+  "tags": [
+    "Oscar Wilde",
+    "fairy tale",
+    "birthday"
+  ],
+  "source": {
+    "work": "A House of Pomegranates (The Birthday of the Infanta)",
+    "author": "Oscar Wilde",
+    "translator": null,
+    "year": 1891,
+    "edition": "Project Gutenberg #873",
+    "url": "https://www.gutenberg.org/ebooks/873",
+    "license": "public-domain",
+    "excerptNote": "'The Birthday of the Infanta' 헌사([TO MRS. WILLIAM H. GRENFELL OF TAPLOW COURT--LADY DESBOROUGH]) 바로 뒤 첫 두 단락 전체 (‘It was the birthday of the Infanta.’부터 ‘…filled the air with a sweet heavy perfume.’까지, 219단어). gutenberg.org가 503(점검 중)이라 archive.org에 보관된 같은 전자책(PG #873, hpomg10.txt)에서 가져왔고, 줄바꿈과 문장 사이 두 칸 공백만 공백 하나로 이음. 영국식 철자(colour, mouldering)는 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/houseofpomegranates_al_librivox/houseofpomegranates_2_wilde.mp3",
+    "mp3Low": "https://www.archive.org/download/houseofpomegranates_al_librivox/houseofpomegranates_2_wilde_64kb.mp3",
+    "pageUrl": "https://librivox.org/a-house-of-pomegranates/",
+    "reader": "Alex Lau",
+    "durationSec": 2766,
+    "startSec": 25,
+    "endSec": 125,
+    "note": "LibriVox A House of Pomegranates (version 1), 트랙 02 'The Birthday of the Infanta' (전체 46:05). 지문은 LibriVox 안내·제목·헌사 낭독 뒤 이야기 첫 두 단락으로, 약 0:25~2:05 (추정)."
+  },
+  "wordCount": 219,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "그날은 인판타(스페인 공주)의 생일이었다. 공주는 막 열두 살이 되었고, 궁전 정원에는 햇살이 밝게 비치고 있었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "공주는 진짜 공주이자 스페인의 인판타였지만, 아주 가난한 집 아이들과 똑같이 생일은 해마다 단 한 번뿐이었다. 그래서 그날 날씨가 정말 화창해야 한다는 것은 당연히 온 나라에 아주 중요한 문제였다. 그리고 그날은 정말로 더없이 화창한 날이었다. 키 큰 줄무늬 튤립들은 길게 늘어선 병사들처럼 줄기 위에 꼿꼿이 서서, 잔디밭 건너편의 장미들을 도전하듯 바라보며 말했다. '이제 우리도 너희 못지않게 화려하다고.' 보랏빛 나비들은 날개에 금가루를 묻힌 채 꽃을 하나씩 차례로 찾아다니며 팔랑팔랑 날아다녔다. 작은 도마뱀들은 담장 틈새에서 기어 나와 눈부신 하얀 햇빛 속에 누워 볕을 쬐었다. 그리고 석류들은 더위에 쩍쩍 갈라지며 피처럼 붉은 속살을 드러냈다. 썩어 가는 격자 시렁과 어둑한 아치형 회랑을 따라 주렁주렁 매달린 연노랑 레몬들조차 그 놀라운 햇빛을 받아 더 짙은 빛깔을 띤 것 같았다. 그리고 목련 나무들은 접힌 상아 같은 커다란 공 모양의 꽃송이를 활짝 피워, 달콤하고 진한 향기로 공기를 가득 채웠다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "It was the birthday of the Infanta.",
+      "ko": "그날은 인판타(스페인 공주)의 생일이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "She was just twelve years of age, and the sun was shining brightly in the gardens of the palace.",
+      "ko": "공주는 막 열두 살이 되었고, 궁전 정원에는 햇살이 밝게 비치고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Although she was a real Princess and the Infanta of Spain, she had only one birthday every year, just like the children of quite poor people, so it was naturally a matter of great importance to the whole country that she should have a really fine day for the occasion.",
+      "ko": "공주는 진짜 공주이자 스페인의 인판타였지만, 아주 가난한 집 아이들과 똑같이 생일은 해마다 단 한 번뿐이었다. 그래서 그날 날씨가 정말 화창해야 한다는 것은 당연히 온 나라에 아주 중요한 문제였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "And a really fine day it certainly was.",
+      "ko": "그리고 그날은 정말로 더없이 화창한 날이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "The tall striped tulips stood straight up upon their stalks, like long rows of soldiers, and looked defiantly across the grass at the roses, and said: 'We are quite as splendid as you are now.'",
+      "ko": "키 큰 줄무늬 튤립들은 길게 늘어선 병사들처럼 줄기 위에 꼿꼿이 서서, 잔디밭 건너편의 장미들을 도전하듯 바라보며 말했다. '이제 우리도 너희 못지않게 화려하다고.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "The purple butterflies fluttered about with gold dust on their wings, visiting each flower in turn; the little lizards crept out of the crevices of the wall, and lay basking in the white glare; and the pomegranates split and cracked with the heat, and showed their bleeding red hearts.",
+      "ko": "보랏빛 나비들은 날개에 금가루를 묻힌 채 꽃을 하나씩 차례로 찾아다니며 팔랑팔랑 날아다녔다. 작은 도마뱀들은 담장 틈새에서 기어 나와 눈부신 하얀 햇빛 속에 누워 볕을 쬐었다. 그리고 석류들은 더위에 쩍쩍 갈라지며 피처럼 붉은 속살을 드러냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Even the pale yellow lemons, that hung in such profusion from the mouldering trellis and along the dim arcades, seemed to have caught a richer colour from the wonderful sunlight, and the magnolia trees opened their great globe-like blossoms of folded ivory, and filled the air with a sweet heavy perfume.",
+      "ko": "썩어 가는 격자 시렁과 어둑한 아치형 회랑을 따라 주렁주렁 매달린 연노랑 레몬들조차 그 놀라운 햇빛을 받아 더 짙은 빛깔을 띤 것 같았다. 그리고 목련 나무들은 접힌 상아 같은 커다란 공 모양의 꽃송이를 활짝 피워, 달콤하고 진한 향기로 공기를 가득 채웠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "defiantly",
+      "pos": "adverb",
+      "meaningKo": "도전적으로, 반항하듯이",
+      "ipa": "/dɪˈfaɪəntli/",
+      "synonyms": [
+        "boldly",
+        "challengingly",
+        "rebelliously"
+      ],
+      "matchText": "defiantly",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The boy looked defiantly at his teacher and refused to answer.",
+        "ko": "소년은 선생님을 반항하듯 쳐다보며 대답하기를 거부했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "crevice",
+      "pos": "noun",
+      "meaningKo": "(바위·벽의) 갈라진 틈, 틈새",
+      "ipa": "/ˈkrɛvɪs/",
+      "synonyms": [
+        "crack",
+        "gap",
+        "fissure"
+      ],
+      "matchText": "crevices",
+      "sentenceId": "s6",
+      "example": {
+        "en": "A tiny flower was growing in a crevice of the rock.",
+        "ko": "작은 꽃 한 송이가 바위 틈새에서 자라고 있었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "bask",
+      "pos": "verb",
+      "meaningKo": "(햇볕을) 쬐다, 몸을 따뜻하게 하다",
+      "ipa": "/bæsk/",
+      "synonyms": [
+        "sunbathe",
+        "warm oneself",
+        "lie in the sun"
+      ],
+      "matchText": "basking",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The cat was basking in the afternoon sun.",
+        "ko": "고양이가 오후 햇살을 쬐고 있었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "in profusion",
+      "pos": "idiom",
+      "meaningKo": "풍성하게, 아주 많이",
+      "ipa": "/ɪn prəˈfjuʒən/",
+      "synonyms": [
+        "in abundance",
+        "plentifully",
+        "in large numbers"
+      ],
+      "matchText": "in such profusion",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Wild flowers grew in profusion along the road.",
+        "ko": "길을 따라 들꽃이 흐드러지게 피어 있었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "moulder",
+      "pos": "verb",
+      "meaningKo": "(서서히) 썩다, 삭다 (미국식 molder)",
+      "ipa": "/ˈmoʊldər/",
+      "synonyms": [
+        "decay",
+        "rot",
+        "crumble"
+      ],
+      "matchText": "mouldering",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Old books were mouldering in the damp basement.",
+        "ko": "오래된 책들이 눅눅한 지하실에서 삭아 가고 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Although",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "비록 ~이지만"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "a real Princess and the Infanta of Spain,",
+          "role": "C",
+          "sub": true,
+          "ko": "진짜 공주이자 스페인의 인판타"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": false,
+          "ko": "가졌다"
+        },
+        {
+          "text": "only one birthday",
+          "role": "O",
+          "sub": false,
+          "ko": "단 한 번의 생일을"
+        },
+        {
+          "text": "every year,",
+          "role": "M",
+          "sub": false,
+          "ko": "해마다"
+        },
+        {
+          "text": "just like the children of quite poor people,",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 가난한 사람들의 아이들과 똑같이"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "naturally",
+          "role": "M",
+          "sub": false,
+          "ko": "당연히"
+        },
+        {
+          "text": "a matter of great importance",
+          "role": "C",
+          "sub": false,
+          "ko": "아주 중요한 문제"
+        },
+        {
+          "text": "to the whole country",
+          "role": "M",
+          "sub": false,
+          "ko": "온 나라에"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 것은"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "should have",
+          "role": "V",
+          "sub": true,
+          "ko": "가져야 한다"
+        },
+        {
+          "text": "a really fine day",
+          "role": "O",
+          "sub": true,
+          "ko": "정말 화창한 날을"
+        },
+        {
+          "text": "for the occasion.",
+          "role": "M",
+          "sub": true,
+          "ko": "그날에"
+        }
+      ],
+      "skeleton": "she had only one birthday, so it was a matter that she should have a fine day",
+      "explanation": "Although가 이끄는 양보절('~이지만') 뒤에 주절 'she had only one birthday'가 오고, so 뒤의 절에서는 it이 가주어, 'that she should have a really fine day…'가 진짜 주어인 명사절이다. 'a matter of great importance'는 'of+추상명사 = 형용사(very important)' 형태다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The tall striped tulips",
+          "role": "S",
+          "sub": false,
+          "ko": "키 큰 줄무늬 튤립들은"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "sub": false,
+          "ko": "서 있었다"
+        },
+        {
+          "text": "straight up upon their stalks,",
+          "role": "M",
+          "sub": false,
+          "ko": "줄기 위에 꼿꼿이"
+        },
+        {
+          "text": "like long rows of soldiers,",
+          "role": "M",
+          "sub": false,
+          "ko": "길게 늘어선 병사들처럼"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "looked",
+          "role": "V",
+          "sub": false,
+          "ko": "바라보았다"
+        },
+        {
+          "text": "defiantly",
+          "role": "M",
+          "sub": false,
+          "ko": "도전하듯"
+        },
+        {
+          "text": "across the grass",
+          "role": "M",
+          "sub": false,
+          "ko": "잔디밭 건너편으로"
+        },
+        {
+          "text": "at the roses,",
+          "role": "M",
+          "sub": false,
+          "ko": "장미들을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "said:",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "'We",
+          "role": "S",
+          "sub": true,
+          "ko": "우리는"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "sub": true,
+          "ko": "~이다"
+        },
+        {
+          "text": "quite as splendid",
+          "role": "C",
+          "sub": true,
+          "ko": "꼭 그만큼 화려한"
+        },
+        {
+          "text": "as you are now.'",
+          "role": "M",
+          "sub": true,
+          "ko": "이제 너희만큼"
+        }
+      ],
+      "skeleton": "The tulips stood, looked, and said",
+      "explanation": "주어 하나(The tall striped tulips)에 동사 세 개(stood, looked, said)가 and로 이어진다. 'look at ~(~을 바라보다)' 사이에 defiantly와 across the grass가 끼어 있다. 따옴표 안은 'as+형용사+as(~만큼 …한)' 동등 비교로, 튤립을 사람처럼 말하게 한 의인법이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Even the pale yellow lemons,",
+          "role": "S",
+          "sub": false,
+          "ko": "연노랑 레몬들조차"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 레몬들은)"
+        },
+        {
+          "text": "hung",
+          "role": "V",
+          "sub": true,
+          "ko": "매달려 있었다"
+        },
+        {
+          "text": "in such profusion",
+          "role": "M",
+          "sub": true,
+          "ko": "그토록 주렁주렁"
+        },
+        {
+          "text": "from the mouldering trellis and along the dim arcades,",
+          "role": "M",
+          "sub": true,
+          "ko": "썩어 가는 격자 시렁에, 어둑한 회랑을 따라"
+        },
+        {
+          "text": "seemed to have caught",
+          "role": "V",
+          "sub": false,
+          "ko": "얻은 것 같았다"
+        },
+        {
+          "text": "a richer colour",
+          "role": "O",
+          "sub": false,
+          "ko": "더 짙은 빛깔을"
+        },
+        {
+          "text": "from the wonderful sunlight,",
+          "role": "M",
+          "sub": false,
+          "ko": "그 놀라운 햇빛으로부터"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the magnolia trees",
+          "role": "S",
+          "sub": false,
+          "ko": "목련 나무들은"
+        },
+        {
+          "text": "opened",
+          "role": "V",
+          "sub": false,
+          "ko": "피웠다"
+        },
+        {
+          "text": "their great globe-like blossoms of folded ivory,",
+          "role": "O",
+          "sub": false,
+          "ko": "접힌 상아 같은 커다란 공 모양 꽃송이를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "filled",
+          "role": "V",
+          "sub": false,
+          "ko": "채웠다"
+        },
+        {
+          "text": "the air",
+          "role": "O",
+          "sub": false,
+          "ko": "공기를"
+        },
+        {
+          "text": "with a sweet heavy perfume.",
+          "role": "M",
+          "sub": false,
+          "ko": "달콤하고 진한 향기로"
+        }
+      ],
+      "skeleton": "the lemons seemed to have caught a colour, and the trees opened blossoms and filled the air",
+      "explanation": "앞 절의 주어 'Even the pale yellow lemons'와 동사 'seemed to have caught' 사이에 쉼표로 둘러싼 관계사절(that hung …)이 끼어 있다. 뒤 절은 주어 the magnolia trees에 동사 opened와 filled가 and로 이어진 구조다. 'fill A with B'는 'A를 B로 채우다'."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "it is ~ that절 : 가주어 it과 진주어 that절",
+      "tags": [
+        "명사절",
+        "대명사",
+        "조동사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "it was naturally a matter of great importance",
+        "that she should have a really fine day"
+      ],
+      "explanation": "주어가 긴 that절일 때는 문장 앞에 가주어 it을 두고 진짜 주어(that절)를 뒤로 보낸다. '그녀가 정말 화창한 날을 맞아야 한다는 것은 온 나라에 중요한 문제였다'는 뜻이다. 중요성·필요를 나타내는 표현 뒤 that절에는 'should+동사원형'이 자주 쓰인다.",
+      "example": {
+        "en": "It is important that everyone should arrive on time.",
+        "ko": "모두가 제시간에 도착하는 것이 중요하다."
+      },
+      "note": "'of+추상명사'는 형용사 뜻이 된다: of great importance = very important."
+    },
+    {
+      "id": "g2",
+      "title": "강조를 위한 도치 : 보어 + 주어 + 동사",
+      "tags": [
+        "도치",
+        "강조"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "a really fine day it certainly was"
+      ],
+      "explanation": "원래 어순은 'it certainly was a really fine day'이지만, 앞 문장의 'a really fine day'를 이어받아 강조하려고 보어를 문장 맨 앞으로 보냈다. '그리고 정말로 화창한 날이었다, 그날은 확실히'처럼 앞에서 바란 일이 그대로 이루어졌음을 힘주어 말하는 효과가 있다.",
+      "example": {
+        "en": "He promised to win, and win he did.",
+        "ko": "그는 이기겠다고 약속했고, 정말로 이겼다."
+      },
+      "note": "보어가 앞으로 나가도 대명사 주어(it)일 때는 주어와 동사 순서가 바뀌지 않는다."
+    },
+    {
+      "id": "g3",
+      "title": "seem to have + 과거분사 : ~했던 것 같다 (완료부정사)",
+      "tags": [
+        "to부정사",
+        "시제"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "seemed to have caught"
+      ],
+      "explanation": "'seem to+동사원형'은 '~인 것 같다'이고, 'seem to have+과거분사'는 seem보다 앞선 일을 나타낸다. 레몬들이 '(이미) 햇빛으로부터 더 짙은 빛깔을 얻은 것처럼 보였다'는 뜻으로, 'It seemed that the lemons had caught …'로 바꿔 쓸 수 있다.",
+      "example": {
+        "en": "She seems to have lost her keys again.",
+        "ko": "그녀는 또 열쇠를 잃어버린 것 같다."
+      },
+      "note": "s6의 'visiting each flower in turn'은 동시 동작을 나타내는 분사구문(꽃을 차례로 찾아다니며)이다."
+    }
+  ],
+  "glossary": {
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것; (날씨·시간) 그날; (가주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "birthday": {
+      "lemma": "birthday",
+      "pos": "noun",
+      "ko": "생일",
+      "form": null,
+      "synonyms": [
+        "anniversary of birth"
+      ],
+      "ipa": "/ˈbɜːrθˌdeɪ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "infanta": {
+      "lemma": "Infanta",
+      "pos": "proper-noun",
+      "ko": "인판타 (스페인·포르투갈 왕의 공주)",
+      "form": null,
+      "ipa": "/ɪnˈfæntə/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀(공주)는",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 꼭; 똑같이 (just like)",
+      "form": null,
+      "synonyms": [
+        "exactly",
+        "only"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "twelve": {
+      "lemma": "twelve",
+      "pos": "number",
+      "ko": "열둘, 12",
+      "form": null,
+      "ipa": "/twɛlv/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년; 나이(살)",
+      "form": "복수형",
+      "synonyms": [
+        "summers"
+      ],
+      "ipa": "/jɪrz/"
+    },
+    "age": {
+      "lemma": "age",
+      "pos": "noun",
+      "ko": "나이",
+      "form": null,
+      "synonyms": [
+        "years"
+      ],
+      "ipa": "/eɪdʒ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 태양",
+      "form": null,
+      "synonyms": [
+        "sunshine"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "shining": {
+      "lemma": "shine",
+      "pos": "verb",
+      "ko": "빛나다, 비치다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beam",
+        "glow",
+        "gleam"
+      ],
+      "ipa": "/ˈʃaɪnɪŋ/"
+    },
+    "brightly": {
+      "lemma": "brightly",
+      "pos": "adverb",
+      "ko": "밝게, 환하게",
+      "form": null,
+      "synonyms": [
+        "brilliantly",
+        "radiantly"
+      ],
+      "ipa": "/ˈbraɪtli/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "gardens": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원",
+      "form": "복수형",
+      "synonyms": [
+        "grounds",
+        "park"
+      ],
+      "ipa": "/ˈɡɑːrdənz/"
+    },
+    "palace": {
+      "lemma": "palace",
+      "pos": "noun",
+      "ko": "궁전",
+      "form": null,
+      "synonyms": [
+        "royal residence",
+        "castle"
+      ],
+      "ipa": "/ˈpæləs/"
+    },
+    "although": {
+      "lemma": "although",
+      "pos": "conjunction",
+      "ko": "비록 ~이지만",
+      "form": null,
+      "ipa": "/ˌɔːlˈðoʊ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "real": {
+      "lemma": "real",
+      "pos": "adjective",
+      "ko": "진짜의, 실제의",
+      "form": null,
+      "synonyms": [
+        "true",
+        "genuine"
+      ],
+      "ipa": "/riːl/"
+    },
+    "princess": {
+      "lemma": "princess",
+      "pos": "noun",
+      "ko": "공주",
+      "form": null,
+      "synonyms": [
+        "royal daughter"
+      ],
+      "ipa": "/ˈprɪnsɛs/"
+    },
+    "spain": {
+      "lemma": "Spain",
+      "pos": "proper-noun",
+      "ko": "스페인 (나라 이름)",
+      "form": null,
+      "ipa": "/speɪn/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, (생일 등을) 맞다",
+      "form": "과거형",
+      "synonyms": [
+        "get",
+        "enjoy"
+      ],
+      "ipa": "/hæd/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, 단지",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나, 한 번",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, 매 ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": null,
+      "synonyms": [
+        "twelvemonth"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼, ~와 같이",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이들",
+      "form": "복수형",
+      "synonyms": [
+        "kids",
+        "youngsters"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "아주, 꽤; 완전히",
+      "form": null,
+      "synonyms": [
+        "very",
+        "fully"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "penniless"
+      ],
+      "ipa": "/puːr/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "folk",
+        "persons"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "naturally": {
+      "lemma": "naturally",
+      "pos": "adverb",
+      "ko": "당연히, 자연히",
+      "form": null,
+      "synonyms": [
+        "of course",
+        "obviously"
+      ],
+      "ipa": "/ˈnætʃərəli/"
+    },
+    "matter": {
+      "lemma": "matter",
+      "pos": "noun",
+      "ko": "문제, 일",
+      "form": null,
+      "synonyms": [
+        "issue",
+        "affair"
+      ],
+      "ipa": "/ˈmætər/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 대단한",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "large"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "importance": {
+      "lemma": "importance",
+      "pos": "noun",
+      "ko": "중요성",
+      "form": null,
+      "synonyms": [
+        "significance",
+        "weight"
+      ],
+      "ipa": "/ˌɪmˈpɔːrtəns/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~에",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "whole": {
+      "lemma": "whole",
+      "pos": "adjective",
+      "ko": "전체의, 온",
+      "form": null,
+      "synonyms": [
+        "entire",
+        "complete"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "country": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "나라, 국가",
+      "form": null,
+      "synonyms": [
+        "nation",
+        "kingdom"
+      ],
+      "ipa": "/ˈkʌntri/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절); (관계대명사) ~한",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, (날을) 맞다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "enjoy"
+      ],
+      "ipa": "/hæv/"
+    },
+    "really": {
+      "lemma": "really",
+      "pos": "adverb",
+      "ko": "정말, 참으로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "very"
+      ],
+      "ipa": "/ˈrɪli/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "(날씨가) 맑은, 화창한",
+      "form": null,
+      "synonyms": [
+        "sunny",
+        "clear",
+        "bright"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~에",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "occasion": {
+      "lemma": "occasion",
+      "pos": "noun",
+      "ko": "(특별한) 때, 행사",
+      "form": null,
+      "synonyms": [
+        "event",
+        "celebration"
+      ],
+      "ipa": "/əˈkeɪʒən/"
+    },
+    "certainly": {
+      "lemma": "certainly",
+      "pos": "adverb",
+      "ko": "확실히, 정말로",
+      "form": null,
+      "synonyms": [
+        "surely",
+        "definitely"
+      ],
+      "ipa": "/ˈsɜːrtənli/"
+    },
+    "tall": {
+      "lemma": "tall",
+      "pos": "adjective",
+      "ko": "키가 큰",
+      "form": null,
+      "synonyms": [
+        "high",
+        "lofty"
+      ],
+      "ipa": "/tɔːl/"
+    },
+    "striped": {
+      "lemma": "striped",
+      "pos": "adjective",
+      "ko": "줄무늬가 있는",
+      "form": null,
+      "synonyms": [
+        "streaked",
+        "banded"
+      ],
+      "ipa": "/straɪpt/"
+    },
+    "tulips": {
+      "lemma": "tulip",
+      "pos": "noun",
+      "ko": "튤립",
+      "form": "복수형",
+      "synonyms": [
+        "flowers"
+      ],
+      "ipa": "/ˈtuːləps/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rise",
+        "stay upright"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "straight": {
+      "lemma": "straight",
+      "pos": "adverb",
+      "ko": "똑바로, 꼿꼿이",
+      "form": null,
+      "synonyms": [
+        "upright",
+        "erect"
+      ],
+      "ipa": "/streɪt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로, 곧추",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의, 그것들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "stalks": {
+      "lemma": "stalk",
+      "pos": "noun",
+      "ko": "(꽃의) 줄기, 대",
+      "form": "복수형",
+      "synonyms": [
+        "stems"
+      ],
+      "ipa": "/stɔːks/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "rows": {
+      "lemma": "row",
+      "pos": "noun",
+      "ko": "줄, 열",
+      "form": "복수형",
+      "synonyms": [
+        "lines",
+        "ranks"
+      ],
+      "ipa": "/roʊz/"
+    },
+    "soldiers": {
+      "lemma": "soldier",
+      "pos": "noun",
+      "ko": "군인, 병사",
+      "form": "복수형",
+      "synonyms": [
+        "troops",
+        "warriors"
+      ],
+      "ipa": "/ˈsoʊldʒərz/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다, 바라보다 (look at)",
+      "form": "과거형",
+      "synonyms": [
+        "gaze",
+        "stare"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "defiantly": {
+      "lemma": "defiantly",
+      "pos": "adverb",
+      "ko": "도전적으로, 반항하듯",
+      "form": null,
+      "synonyms": [
+        "boldly",
+        "challengingly"
+      ],
+      "ipa": "/dɪˈfaɪəntli/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~ 건너편으로, ~을 가로질러",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "grass": {
+      "lemma": "grass",
+      "pos": "noun",
+      "ko": "풀, 잔디밭",
+      "form": null,
+      "synonyms": [
+        "lawn",
+        "turf"
+      ],
+      "ipa": "/ɡræs/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (향해)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "roses": {
+      "lemma": "rose",
+      "pos": "noun",
+      "ko": "장미",
+      "form": "복수형",
+      "synonyms": [
+        "flowers"
+      ],
+      "ipa": "/ˈroʊzɪz/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "declare",
+        "state"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~만큼 (as … as)",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "splendid": {
+      "lemma": "splendid",
+      "pos": "adjective",
+      "ko": "화려한, 멋진",
+      "form": null,
+      "synonyms": [
+        "magnificent",
+        "gorgeous"
+      ],
+      "ipa": "/ˈsplɛndɪd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금",
+      "form": null,
+      "synonyms": [
+        "at present"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "purple": {
+      "lemma": "purple",
+      "pos": "adjective",
+      "ko": "자주색의, 보랏빛의",
+      "form": null,
+      "synonyms": [
+        "violet"
+      ],
+      "ipa": "/ˈpɜːrpəl/"
+    },
+    "butterflies": {
+      "lemma": "butterfly",
+      "pos": "noun",
+      "ko": "나비",
+      "form": "복수형",
+      "synonyms": [
+        "insects"
+      ],
+      "ipa": "/ˈbʌtərˌflaɪz/"
+    },
+    "fluttered": {
+      "lemma": "flutter",
+      "pos": "verb",
+      "ko": "(날개를) 팔랑거리며 날다",
+      "form": "과거형",
+      "synonyms": [
+        "flit",
+        "flap"
+      ],
+      "ipa": "/ˈflʌtərd/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "여기저기, 이리저리",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가진 채, ~로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "gold": {
+      "lemma": "gold",
+      "pos": "noun",
+      "ko": "금, 금빛",
+      "form": null,
+      "synonyms": [
+        "golden"
+      ],
+      "ipa": "/ɡoʊld/"
+    },
+    "dust": {
+      "lemma": "dust",
+      "pos": "noun",
+      "ko": "가루, 먼지",
+      "form": null,
+      "synonyms": [
+        "powder"
+      ],
+      "ipa": "/dʌst/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "wings": {
+      "lemma": "wing",
+      "pos": "noun",
+      "ko": "날개",
+      "form": "복수형",
+      "synonyms": [
+        "pinions"
+      ],
+      "ipa": "/wɪŋz/"
+    },
+    "visiting": {
+      "lemma": "visit",
+      "pos": "verb",
+      "ko": "찾아가다, 방문하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "call on",
+        "go to"
+      ],
+      "ipa": "/ˈvɪzɪtɪŋ/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "flower": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": null,
+      "synonyms": [
+        "blossom",
+        "bloom"
+      ],
+      "ipa": "/ˈflaʊər/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "noun",
+      "ko": "차례, 순서 (in turn: 차례로)",
+      "form": null,
+      "synonyms": [
+        "order",
+        "sequence"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "lizards": {
+      "lemma": "lizard",
+      "pos": "noun",
+      "ko": "도마뱀",
+      "form": "복수형",
+      "synonyms": [
+        "reptiles"
+      ],
+      "ipa": "/ˈlɪzərdz/"
+    },
+    "crept": {
+      "lemma": "creep",
+      "pos": "verb",
+      "ko": "살금살금 기다, 기어 나오다",
+      "form": "과거형",
+      "synonyms": [
+        "crawl",
+        "slither"
+      ],
+      "ipa": "/krɛpt/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "crevices": {
+      "lemma": "crevice",
+      "pos": "noun",
+      "ko": "갈라진 틈, 틈새",
+      "form": "복수형",
+      "synonyms": [
+        "cracks",
+        "gaps"
+      ],
+      "ipa": "/ˈkrɛvəsɪz/"
+    },
+    "wall": {
+      "lemma": "wall",
+      "pos": "noun",
+      "ko": "담, 벽",
+      "form": null,
+      "synonyms": [
+        "fence",
+        "barrier"
+      ],
+      "ipa": "/wɔːl/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다, 누워 있다",
+      "form": "과거형",
+      "synonyms": [
+        "recline",
+        "rest"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "basking": {
+      "lemma": "bask",
+      "pos": "verb",
+      "ko": "(햇볕을) 쬐다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "sunbathe",
+        "warm oneself"
+      ],
+      "ipa": "/ˈbæskɪŋ/"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "하얀, 흰",
+      "form": null,
+      "synonyms": [
+        "pale",
+        "bright"
+      ],
+      "ipa": "/waɪt/"
+    },
+    "glare": {
+      "lemma": "glare",
+      "pos": "noun",
+      "ko": "눈부신 빛",
+      "form": null,
+      "synonyms": [
+        "blaze",
+        "dazzle"
+      ],
+      "ipa": "/ɡlɛr/"
+    },
+    "pomegranates": {
+      "lemma": "pomegranate",
+      "pos": "noun",
+      "ko": "석류",
+      "form": "복수형",
+      "synonyms": [
+        "fruit"
+      ],
+      "ipa": "/ˈpɑməˌɡrænɪts/"
+    },
+    "split": {
+      "lemma": "split",
+      "pos": "verb",
+      "ko": "쪼개지다, 갈라지다",
+      "form": "과거형",
+      "synonyms": [
+        "burst",
+        "crack"
+      ],
+      "ipa": "/splɪt/"
+    },
+    "cracked": {
+      "lemma": "crack",
+      "pos": "verb",
+      "ko": "금이 가다, 갈라지다",
+      "form": "과거형",
+      "synonyms": [
+        "split",
+        "break"
+      ],
+      "ipa": "/krækt/"
+    },
+    "heat": {
+      "lemma": "heat",
+      "pos": "noun",
+      "ko": "더위, 열기",
+      "form": null,
+      "synonyms": [
+        "warmth",
+        "hotness"
+      ],
+      "ipa": "/hiːt/"
+    },
+    "showed": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다, 드러내다",
+      "form": "과거형",
+      "synonyms": [
+        "reveal",
+        "display"
+      ],
+      "ipa": "/ʃoʊd/"
+    },
+    "bleeding": {
+      "lemma": "bleeding",
+      "pos": "adjective",
+      "ko": "피 흘리는 (듯한), 핏빛의",
+      "form": null,
+      "synonyms": [
+        "blood-red",
+        "bloody"
+      ],
+      "ipa": "/ˈbliːdɪŋ/"
+    },
+    "red": {
+      "lemma": "red",
+      "pos": "adjective",
+      "ko": "빨간, 붉은",
+      "form": null,
+      "synonyms": [
+        "crimson",
+        "scarlet"
+      ],
+      "ipa": "/rɛd/"
+    },
+    "hearts": {
+      "lemma": "heart",
+      "pos": "noun",
+      "ko": "(과일의) 속, 한가운데",
+      "form": "복수형",
+      "synonyms": [
+        "cores",
+        "centres"
+      ],
+      "ipa": "/hɑːrts/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~까지도",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "pale": {
+      "lemma": "pale",
+      "pos": "adjective",
+      "ko": "(색이) 연한, 엷은",
+      "form": null,
+      "synonyms": [
+        "light",
+        "faint"
+      ],
+      "ipa": "/peɪl/"
+    },
+    "yellow": {
+      "lemma": "yellow",
+      "pos": "adjective",
+      "ko": "노란",
+      "form": null,
+      "synonyms": [
+        "golden",
+        "lemon-colored"
+      ],
+      "ipa": "/ˈjɛloʊ/"
+    },
+    "lemons": {
+      "lemma": "lemon",
+      "pos": "noun",
+      "ko": "레몬",
+      "form": "복수형",
+      "synonyms": [
+        "citrus fruits"
+      ],
+      "ipa": "/ˈlɛmənz/"
+    },
+    "hung": {
+      "lemma": "hang",
+      "pos": "verb",
+      "ko": "매달려 있다",
+      "form": "과거형",
+      "synonyms": [
+        "dangle",
+        "droop"
+      ],
+      "ipa": "/hʌŋ/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그렇게, 그토록 (such + 명사)",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "profusion": {
+      "lemma": "profusion",
+      "pos": "noun",
+      "ko": "풍성함, 다량 (in profusion: 풍성하게)",
+      "form": null,
+      "synonyms": [
+        "abundance",
+        "plenty"
+      ],
+      "ipa": "/prəˈfjuːʒən/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "mouldering": {
+      "lemma": "moulder",
+      "pos": "verb",
+      "ko": "썩어 가다, 삭다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "decaying",
+        "rotting",
+        "crumbling"
+      ],
+      "ipa": "/ˈmoʊldərɪŋ/"
+    },
+    "trellis": {
+      "lemma": "trellis",
+      "pos": "noun",
+      "ko": "격자 시렁 (덩굴을 올리는 틀)",
+      "form": null,
+      "synonyms": [
+        "lattice",
+        "frame"
+      ],
+      "ipa": "/ˈtrɛləs/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "dim": {
+      "lemma": "dim",
+      "pos": "adjective",
+      "ko": "어둑한, 흐릿한",
+      "form": null,
+      "synonyms": [
+        "dark",
+        "shadowy",
+        "gloomy"
+      ],
+      "ipa": "/dɪm/"
+    },
+    "arcades": {
+      "lemma": "arcade",
+      "pos": "noun",
+      "ko": "아치형 회랑, 아케이드",
+      "form": "복수형",
+      "synonyms": [
+        "colonnades",
+        "walkways"
+      ],
+      "ipa": "/ɑrˈkeɪdz/"
+    },
+    "seemed": {
+      "lemma": "seem",
+      "pos": "verb",
+      "ko": "~인 것 같다, ~처럼 보이다",
+      "form": "과거형",
+      "synonyms": [
+        "appear",
+        "look"
+      ],
+      "ipa": "/siːmd/"
+    },
+    "caught": {
+      "lemma": "catch",
+      "pos": "verb",
+      "ko": "(빛·색을) 받다, 얻다",
+      "form": "과거분사",
+      "synonyms": [
+        "gain",
+        "take on",
+        "absorb"
+      ],
+      "ipa": "/kɑːt/"
+    },
+    "richer": {
+      "lemma": "rich",
+      "pos": "adjective",
+      "ko": "(색이) 짙은, 풍부한",
+      "form": "비교급",
+      "synonyms": [
+        "deeper",
+        "fuller",
+        "more vivid"
+      ],
+      "ipa": "/ˈrɪtʃər/"
+    },
+    "colour": {
+      "lemma": "colour",
+      "pos": "noun",
+      "ko": "색, 빛깔 (영국식 철자, 미국식 color)",
+      "form": null,
+      "synonyms": [
+        "hue",
+        "shade",
+        "tint"
+      ],
+      "ipa": "/ˈkʌlər/"
+    },
+    "wonderful": {
+      "lemma": "wonderful",
+      "pos": "adjective",
+      "ko": "놀라운, 멋진",
+      "form": null,
+      "synonyms": [
+        "marvellous",
+        "amazing"
+      ],
+      "ipa": "/ˈwʌndərfəl/"
+    },
+    "sunlight": {
+      "lemma": "sunlight",
+      "pos": "noun",
+      "ko": "햇빛, 햇살",
+      "form": null,
+      "synonyms": [
+        "sunshine",
+        "daylight"
+      ],
+      "ipa": "/ˈsʌnˌlaɪt/"
+    },
+    "magnolia": {
+      "lemma": "magnolia",
+      "pos": "noun",
+      "ko": "목련",
+      "form": null,
+      "synonyms": [
+        "magnolia tree"
+      ],
+      "ipa": "/mæɡˈnoʊljə/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "synonyms": [
+        "plants"
+      ],
+      "ipa": "/triːz/"
+    },
+    "opened": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "(꽃을) 피우다, 열다",
+      "form": "과거형",
+      "synonyms": [
+        "unfold",
+        "spread"
+      ],
+      "ipa": "/ˈoʊpənd/"
+    },
+    "globe-like": {
+      "lemma": "globe-like",
+      "pos": "adjective",
+      "ko": "공 모양의, 구형의",
+      "form": null,
+      "synonyms": [
+        "round",
+        "spherical"
+      ],
+      "ipa": "/ɡloʊb-laɪk/"
+    },
+    "blossoms": {
+      "lemma": "blossom",
+      "pos": "noun",
+      "ko": "꽃, 꽃송이",
+      "form": "복수형",
+      "synonyms": [
+        "flowers",
+        "blooms"
+      ],
+      "ipa": "/ˈblɑːsəmz/"
+    },
+    "folded": {
+      "lemma": "folded",
+      "pos": "adjective",
+      "ko": "접힌, 겹겹이 포개진",
+      "form": null,
+      "synonyms": [
+        "layered",
+        "creased"
+      ],
+      "ipa": "/ˈfoʊldəd/"
+    },
+    "ivory": {
+      "lemma": "ivory",
+      "pos": "noun",
+      "ko": "상아; 상앗빛",
+      "form": null,
+      "synonyms": [
+        "cream",
+        "off-white"
+      ],
+      "ipa": "/ˈaɪvəri/"
+    },
+    "filled": {
+      "lemma": "fill",
+      "pos": "verb",
+      "ko": "채우다 (fill A with B)",
+      "form": "과거형",
+      "synonyms": [
+        "fill up",
+        "pervade"
+      ],
+      "ipa": "/fɪld/"
+    },
+    "air": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "공기",
+      "form": null,
+      "synonyms": [
+        "atmosphere"
+      ],
+      "ipa": "/ɛr/"
+    },
+    "sweet": {
+      "lemma": "sweet",
+      "pos": "adjective",
+      "ko": "달콤한, 향긋한",
+      "form": null,
+      "synonyms": [
+        "fragrant",
+        "pleasant"
+      ],
+      "ipa": "/swiːt/"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "(향기가) 짙은, 진한",
+      "form": null,
+      "synonyms": [
+        "strong",
+        "thick",
+        "intense"
+      ],
+      "ipa": "/ˈhɛvi/"
+    },
+    "perfume": {
+      "lemma": "perfume",
+      "pos": "noun",
+      "ko": "향기, 향",
+      "form": null,
+      "synonyms": [
+        "scent",
+        "fragrance",
+        "aroma"
+      ],
+      "ipa": "/pərˈfjuːm/"
+    }
+  }
+}
