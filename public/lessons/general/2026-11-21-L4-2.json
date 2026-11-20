@@ -1,0 +1,2355 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-21-L4-2",
+  "date": "2026-11-21",
+  "level": 4,
+  "title": "The Minister's Black Veil",
+  "titleKo": "목사의 검은 베일",
+  "genre": "short-story",
+  "tags": [
+    "Nathaniel Hawthorne",
+    "short story",
+    "American literature",
+    "parable",
+    "secret sin"
+  ],
+  "source": {
+    "work": "Twice-Told Tales (The Minister's Black Veil)",
+    "author": "Nathaniel Hawthorne",
+    "translator": null,
+    "year": 1837,
+    "edition": "Project Gutenberg #508",
+    "url": "https://www.gutenberg.org/ebooks/508",
+    "license": "public-domain",
+    "excerptNote": "'The Minister's Black Veil' 도입부. 제목 뒤의 부제 'A Parable'과 각주([1] 조지프 무디 목사에 관한 작가 주)는 빼고, 본문 첫 문장 ‘The sexton stood in the porch of Milford meeting-house…’부터 여섯째 단락 넷째 문장 ‘…Mr. Hooper had on a black veil.’까지(299단어). 주일 아침 마을 사람들이 예배당에 모이다가, 후퍼 목사가 검은 베일을 쓰고 나타나 모두 놀라는 장면. 여섯째 단락은 길어서 베일이 처음 드러나는 문장에서 끊음(단락 중간, 문장 경계). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #508, 2tale10.txt, 항목 fromtwicetoldtal00508gut)에서 가져왔고, 줄바꿈만 공백으로 이음. 따옴표는 텍스트판 그대로 곧은 따옴표이며 'meeting-house'와 'meetinghouse' 표기 차이도 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/twice_told_tales_1206_librivox/twicetoldtales_04_hawthorne.mp3",
+    "mp3Low": "https://www.archive.org/download/twice_told_tales_1206_librivox/twicetoldtales_04_hawthorne_64kb.mp3",
+    "pageUrl": "https://librivox.org/twice-told-tales-by-nathaniel-hawthorne/",
+    "reader": "Bob Neufeld",
+    "durationSec": 2191,
+    "startSec": 30,
+    "endSec": 160,
+    "note": "LibriVox Twice Told Tales, 트랙 04 'The Minister's Black Veil'(36:30). 지문은 이야기 맨 처음 부분(약 0:30~2:40, 추정 — 앞의 LibriVox 안내, 제목·부제와 각주 낭독 여부에 따라 시작이 조금 다를 수 있음)."
+  },
+  "wordCount": 299,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "교회지기는 밀퍼드 예배당 현관에 서서, 부지런히 종 줄을 당기고 있었다. 마을의 노인들이 허리를 구부린 채 거리를 따라 걸어왔다. 아이들은 밝은 얼굴로 부모 곁에서 즐겁게 깡충깡충 걷거나, 주일 나들이옷을 입었다는 의젓함을 의식하며 어른처럼 점잖은 걸음걸이를 흉내 냈다. 말쑥하게 차려입은 총각들은 예쁜 아가씨들을 곁눈질하며, 안식일의 햇살이 그녀들을 평일보다 더 예뻐 보이게 한다고 생각했다. 사람들 무리가 대부분 현관 안으로 흘러 들어가자, 교회지기는 후퍼 목사의 집 문에서 눈을 떼지 않은 채 천천히 종을 울리기 시작했다. 목사의 모습이 처음 언뜻 보이는 것이 곧 종이 부르는 소리를 멈추라는 신호였다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "\"그런데 우리 후퍼 목사님이 얼굴에 뭘 쓰고 계신 거지?\" 교회지기가 깜짝 놀라 외쳤다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "그 소리가 들리는 곳에 있던 사람들은 모두 즉시 돌아섰고, 생각에 잠긴 채 예배당 쪽으로 천천히 걸어오는 후퍼 목사의 모습을 보았다. 그들은 일제히 깜짝 놀랐는데, 그 놀라움은 마치 낯선 목사가 후퍼 목사의 설교단 방석의 먼지를 털러 오기라도 하는 것보다 더 컸다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "\"저분이 우리 목사님인 게 확실한가?\" 그레이 영감이 교회지기에게 물었다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11",
+        "s12"
+      ],
+      "ko": "\"틀림없이 우리 후퍼 목사님이십니다.\" 교회지기가 대답했다. \"원래는 웨스트베리의 슈트 목사님과 설교단을 바꾸기로 되어 있었지요. 그런데 슈트 목사님이 장례 설교를 하셔야 한다며 어제 못 오신다는 전갈을 보내셨답니다.\""
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s13",
+        "s14",
+        "s15",
+        "s16"
+      ],
+      "ko": "그토록 큰 놀라움의 원인은 꽤 사소해 보일지도 모른다. 서른 살쯤 된 신사다운 사람인 후퍼 목사는, 아직 총각이었지만, 마치 꼼꼼한 아내가 그의 목깃에 풀을 먹이고 주일 예복에서 한 주 동안 쌓인 먼지를 털어 준 것처럼, 성직자에게 걸맞게 단정한 차림이었다. 그의 겉모습에서 눈에 띄는 것은 단 한 가지뿐이었다. 이마에 감기고, 얼굴 위로 늘어져, 숨결에 흔들릴 만큼 낮게 드리운 검은 베일을 후퍼 목사는 쓰고 있었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The sexton stood in the porch of Milford meeting-house, pulling busily at the bell-rope.",
+      "ko": "교회지기는 밀퍼드 예배당 현관에 서서, 부지런히 종 줄을 당기고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The old people of the village came stooping along the street.",
+      "ko": "마을의 노인들이 허리를 구부린 채 거리를 따라 걸어왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Children, with bright faces, tripped merrily beside their parents, or mimicked a graver gait, in the conscious dignity of their Sunday clothes.",
+      "ko": "아이들은 밝은 얼굴로 부모 곁에서 즐겁게 깡충깡충 걷거나, 주일 나들이옷을 입었다는 의젓함을 의식하며 어른처럼 점잖은 걸음걸이를 흉내 냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Spruce bachelors looked sidelong at the pretty maidens, and fancied that the Sabbath sunshine made them prettier than on week days.",
+      "ko": "말쑥하게 차려입은 총각들은 예쁜 아가씨들을 곁눈질하며, 안식일의 햇살이 그녀들을 평일보다 더 예뻐 보이게 한다고 생각했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "When the throng had mostly streamed into the porch, the sexton began to toll the bell, keeping his eye on the Reverend Mr. Hooper's door.",
+      "ko": "사람들 무리가 대부분 현관 안으로 흘러 들어가자, 교회지기는 후퍼 목사의 집 문에서 눈을 떼지 않은 채 천천히 종을 울리기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "The first glimpse of the clergyman's figure was the signal for the bell to cease its summons.",
+      "ko": "목사의 모습이 처음 언뜻 보이는 것이 곧 종이 부르는 소리를 멈추라는 신호였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "\"But what has good Parson Hooper got upon his face?\" cried the sexton in astonishment.",
+      "ko": "\"그런데 우리 후퍼 목사님이 얼굴에 뭘 쓰고 계신 거지?\" 교회지기가 깜짝 놀라 외쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "All within hearing immediately turned about, and beheld the semblance of Mr. Hooper, pacing slowly his meditative way towards the meetinghouse.",
+      "ko": "그 소리가 들리는 곳에 있던 사람들은 모두 즉시 돌아섰고, 생각에 잠긴 채 예배당 쪽으로 천천히 걸어오는 후퍼 목사의 모습을 보았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "With one accord they started, expressing more wonder than if some strange minister were coming to dust the cushions of Mr. Hooper's pulpit.",
+      "ko": "그들은 일제히 깜짝 놀랐는데, 그 놀라움은 마치 낯선 목사가 후퍼 목사의 설교단 방석의 먼지를 털러 오기라도 하는 것보다 더 컸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "\"Are you sure it is our parson?\" inquired Goodman Gray of the sexton.",
+      "ko": "\"저분이 우리 목사님인 게 확실한가?\" 그레이 영감이 교회지기에게 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "\"Of a certainty it is good Mr. Hooper,\" replied the sexton.",
+      "ko": "\"틀림없이 우리 후퍼 목사님이십니다.\" 교회지기가 대답했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "\"He was to have exchanged pulpits with Parson Shute, of Westbury; but Parson Shute sent to excuse himself yesterday, being to preach a funeral sermon.\"",
+      "ko": "\"원래는 웨스트베리의 슈트 목사님과 설교단을 바꾸기로 되어 있었지요. 그런데 슈트 목사님이 장례 설교를 하셔야 한다며 어제 못 오신다는 전갈을 보내셨답니다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "The cause of so much amazement may appear sufficiently slight.",
+      "ko": "그토록 큰 놀라움의 원인은 꽤 사소해 보일지도 모른다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p6",
+      "en": "Mr. Hooper, a gentlemanly person, of about thirty, though still a bachelor, was dressed with due clerical neatness, as if a careful wife had starched his band, and brushed the weekly dust from his Sunday's garb.",
+      "ko": "서른 살쯤 된 신사다운 사람인 후퍼 목사는, 아직 총각이었지만, 마치 꼼꼼한 아내가 그의 목깃에 풀을 먹이고 주일 예복에서 한 주 동안 쌓인 먼지를 털어 준 것처럼, 성직자에게 걸맞게 단정한 차림이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p6",
+      "en": "There was but one thing remarkable in his appearance.",
+      "ko": "그의 겉모습에서 눈에 띄는 것은 단 한 가지뿐이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p6",
+      "en": "Swathed about his forehead, and hanging down over his face, so low as to be shaken by his breath, Mr. Hooper had on a black veil.",
+      "ko": "이마에 감기고, 얼굴 위로 늘어져, 숨결에 흔들릴 만큼 낮게 드리운 검은 베일을 후퍼 목사는 쓰고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "sexton",
+      "pos": "noun",
+      "meaningKo": "교회지기 (종 치기·묘지 관리 등을 맡은 교회 관리인)",
+      "ipa": "/ˈsɛkstən/",
+      "synonyms": [
+        "church caretaker",
+        "verger",
+        "sacristan"
+      ],
+      "matchText": "sexton",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The sexton rang the bell every Sunday morning.",
+        "ko": "교회지기는 매주 일요일 아침 종을 울렸다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "mimic",
+      "pos": "verb",
+      "meaningKo": "흉내 내다",
+      "ipa": "/ˈmɪmɪk/",
+      "synonyms": [
+        "imitate",
+        "copy",
+        "ape"
+      ],
+      "matchText": "mimicked",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The boy mimicked his teacher's voice to make his friends laugh.",
+        "ko": "그 소년은 친구들을 웃기려고 선생님 목소리를 흉내 냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "throng",
+      "pos": "noun",
+      "meaningKo": "군중, (사람들의) 무리",
+      "ipa": "/θrɔŋ/",
+      "synonyms": [
+        "crowd",
+        "multitude",
+        "mass"
+      ],
+      "matchText": "throng",
+      "sentenceId": "s5",
+      "example": {
+        "en": "A throng of fans waited outside the stadium.",
+        "ko": "팬들의 무리가 경기장 밖에서 기다렸다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "semblance",
+      "pos": "noun",
+      "meaningKo": "모습, 외관; (겉)모양",
+      "ipa": "/ˈsɛmbləns/",
+      "synonyms": [
+        "appearance",
+        "form",
+        "likeness"
+      ],
+      "matchText": "semblance",
+      "sentenceId": "s8",
+      "example": {
+        "en": "After the storm, the town slowly returned to some semblance of normal life.",
+        "ko": "폭풍이 지나간 뒤 마을은 서서히 정상적인 생활의 모습을 어느 정도 되찾았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "swathe",
+      "pos": "verb",
+      "meaningKo": "(천 등으로) 감싸다, 둘둘 감다",
+      "ipa": "/sweɪð/",
+      "synonyms": [
+        "wrap",
+        "bind",
+        "envelop"
+      ],
+      "matchText": "Swathed",
+      "sentenceId": "s16",
+      "example": {
+        "en": "Her injured arm was swathed in bandages.",
+        "ko": "그녀의 다친 팔은 붕대로 감싸여 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "When",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~했을 때"
+        },
+        {
+          "text": "the throng",
+          "role": "S",
+          "sub": true,
+          "ko": "사람들 무리가"
+        },
+        {
+          "text": "had mostly streamed",
+          "role": "V",
+          "sub": true,
+          "ko": "대부분 흘러 들어갔다"
+        },
+        {
+          "text": "into the porch,",
+          "role": "M",
+          "sub": true,
+          "ko": "현관 안으로"
+        },
+        {
+          "text": "the sexton",
+          "role": "S",
+          "sub": false,
+          "ko": "교회지기는"
+        },
+        {
+          "text": "began",
+          "role": "V",
+          "sub": false,
+          "ko": "시작했다"
+        },
+        {
+          "text": "to toll the bell,",
+          "role": "O",
+          "sub": false,
+          "ko": "종을 (천천히) 울리기를"
+        },
+        {
+          "text": "keeping his eye on the Reverend Mr. Hooper's door.",
+          "role": "M",
+          "sub": false,
+          "ko": "후퍼 목사의 집 문에서 눈을 떼지 않은 채"
+        }
+      ],
+      "skeleton": "the sexton began to toll the bell (S+V+O)",
+      "explanation": "When이 이끄는 부사절(시간)이 앞에 오고, 주절의 뼈대는 the sexton began to toll the bell이다. 부사절의 had streamed는 과거완료로 '종을 울리기 시작한 시점보다 먼저 이미 들어가 있었다'는 순서를 보여 준다. to toll the bell은 began의 목적어인 to부정사이고, 맨 끝 keeping his eye on …은 '~을 계속 지켜보면서'라는 동시동작의 분사구문이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "With one accord",
+          "role": "M",
+          "sub": false,
+          "ko": "일제히"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "started,",
+          "role": "V",
+          "sub": false,
+          "ko": "깜짝 놀랐다,"
+        },
+        {
+          "text": "expressing more wonder",
+          "role": "M",
+          "sub": false,
+          "ko": "더 큰 놀라움을 드러내며"
+        },
+        {
+          "text": "than if",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~하는 경우보다"
+        },
+        {
+          "text": "some strange minister",
+          "role": "S",
+          "sub": true,
+          "ko": "어떤 낯선 목사가"
+        },
+        {
+          "text": "were coming",
+          "role": "V",
+          "sub": true,
+          "ko": "오고 있는"
+        },
+        {
+          "text": "to dust the cushions of Mr. Hooper's pulpit.",
+          "role": "M",
+          "sub": true,
+          "ko": "후퍼 목사 설교단의 방석 먼지를 털러"
+        }
+      ],
+      "skeleton": "they started (S+V), expressing more wonder than if …",
+      "explanation": "여기서 start는 '시작하다'가 아니라 '(놀라서) 움찔하다, 깜짝 놀라다'라는 1형식 동사다. expressing more wonder는 분사구문이고, 그 비교 대상이 than if … were coming(가정법 과거)이다. 즉 '낯선 목사가 대신 설교하러 오는 일보다 더 놀랐다'는 뜻으로, 실제로는 일어나지 않은 상황과 비교한다. to dust …는 목적(~하러)을 나타내는 to부정사다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s16",
+      "chunks": [
+        {
+          "text": "Swathed about his forehead,",
+          "role": "M",
+          "sub": false,
+          "ko": "이마에 감긴 채,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "hanging down over his face,",
+          "role": "M",
+          "sub": false,
+          "ko": "얼굴 위로 늘어져,"
+        },
+        {
+          "text": "so low as to be shaken by his breath,",
+          "role": "M",
+          "sub": false,
+          "ko": "숨결에 흔들릴 만큼 낮게,"
+        },
+        {
+          "text": "Mr. Hooper",
+          "role": "S",
+          "sub": false,
+          "ko": "후퍼 목사는"
+        },
+        {
+          "text": "had on",
+          "role": "V",
+          "sub": false,
+          "ko": "쓰고 있었다"
+        },
+        {
+          "text": "a black veil.",
+          "role": "O",
+          "sub": false,
+          "ko": "검은 베일을"
+        }
+      ],
+      "skeleton": "Mr. Hooper had on a black veil (S+V+O)",
+      "explanation": "문장 앞부분의 Swathed …(과거분사)와 hanging …(현재분사)은 모두 맨 끝의 a black veil을 꾸미는 분사구로, 독자가 베일의 모습을 먼저 보고 마지막에 정체를 알게 만드는 긴장감 있는 어순이다. so low as to be shaken은 'so + 형용사 + as to부정사'로 '흔들릴 만큼 낮게'라는 정도를 나타낸다. 뼈대는 have on(~을 입고/쓰고 있다)으로 된 Mr. Hooper had on a black veil이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "be to have p.p. — 이루어지지 못한 예정",
+      "tags": [
+        "to부정사",
+        "분사구문"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "was to have exchanged",
+        "being to preach"
+      ],
+      "explanation": "be to + 동사원형은 '~할 예정이다'라는 뜻인데, 과거형 was to 뒤에 완료부정사(have + p.p.)가 오면 '~하기로 되어 있었지만 실제로는 하지 못했다'는 뜻이 된다. 그래서 He was to have exchanged pulpits는 '설교단을 바꾸기로 되어 있었지만 바꾸지 못했다'는 의미다. 뒤의 being to preach는 be to를 분사구문으로 만든 것으로 '(장례) 설교를 해야 했기 때문에'라는 이유를 나타낸다.",
+      "example": {
+        "en": "She was to have arrived yesterday, but her flight was canceled.",
+        "ko": "그녀는 어제 도착하기로 되어 있었지만 항공편이 취소되었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "비교 + 가정법: more … than if S were …",
+      "tags": [
+        "가정법",
+        "비교"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "more wonder than if some strange minister were coming"
+      ],
+      "explanation": "than if 뒤에 가정법 과거(were coming)를 써서 '(실제로는 아니지만) 만약 ~라면 그때보다 더'라고 상상 속 상황과 비교한다. 낯선 목사가 와서 설교단을 차지하는 일도 놀라울 텐데, 늘 보던 후퍼 목사가 베일을 쓴 모습이 그보다 더 놀라웠다는 뜻이다. as if와 마찬가지로 if절의 be동사는 주어와 상관없이 were를 쓴다.",
+      "example": {
+        "en": "He looked more frightened than if he had seen a ghost.",
+        "ko": "그는 유령을 본 경우보다도 더 겁에 질린 얼굴이었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "as if + 과거완료",
+      "tags": [
+        "가정법",
+        "접속사"
+      ],
+      "sentenceId": "s14",
+      "highlight": [
+        "as if a careful wife had starched his band"
+      ],
+      "explanation": "as if 뒤에 과거완료(had starched)를 쓰면 '(실제로는 아니지만) 마치 ~했던 것처럼'이라는 뜻이다. 후퍼 목사는 아직 총각이라 아내가 없지만, 옷차림이 너무 단정해서 마치 꼼꼼한 아내가 목깃에 풀을 먹이고 옷의 먼지를 털어 준 것 같다는 말이다. 뒤의 and brushed도 같은 had에 이어지는 과거분사다.",
+      "example": {
+        "en": "The room was so clean, as if someone had cleaned it just before we arrived.",
+        "ko": "방이 너무 깨끗해서, 마치 누군가 우리가 도착하기 직전에 청소해 둔 것 같았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "sexton": {
+      "lemma": "sexton",
+      "pos": "noun",
+      "ko": "교회지기",
+      "form": null,
+      "synonyms": [
+        "church caretaker",
+        "verger"
+      ],
+      "ipa": "/ˈsɛkstən/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "remain",
+        "wait"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "porch": {
+      "lemma": "porch",
+      "pos": "noun",
+      "ko": "현관, (교회 입구의) 포치",
+      "form": null,
+      "synonyms": [
+        "entrance",
+        "doorway"
+      ],
+      "ipa": "/pɔːrtʃ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "milford": {
+      "lemma": "Milford",
+      "pos": "proper-noun",
+      "ko": "밀퍼드 (마을 이름)",
+      "form": null,
+      "ipa": "/ˈmɪlfərd/"
+    },
+    "meeting-house": {
+      "lemma": "meeting-house",
+      "pos": "noun",
+      "ko": "(청교도) 예배당",
+      "form": null,
+      "synonyms": [
+        "church",
+        "chapel"
+      ],
+      "ipa": "/ˈmiːtɪŋ-haʊs/"
+    },
+    "pulling": {
+      "lemma": "pull",
+      "pos": "verb",
+      "ko": "당기며",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tug",
+        "haul"
+      ],
+      "ipa": "/ˈpʊlɪŋ/"
+    },
+    "busily": {
+      "lemma": "busily",
+      "pos": "adverb",
+      "ko": "부지런히, 바쁘게",
+      "form": null,
+      "synonyms": [
+        "actively",
+        "diligently"
+      ],
+      "ipa": "/ˈbɪzəli/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (향해), ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "bell-rope": {
+      "lemma": "bell-rope",
+      "pos": "noun",
+      "ko": "종 줄 (종을 치는 밧줄)",
+      "form": null,
+      "synonyms": [
+        "rope",
+        "cord"
+      ],
+      "ipa": "/bɛl-roʊp/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 나이 든",
+      "form": null,
+      "synonyms": [
+        "aged",
+        "elderly"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "folk",
+        "persons"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "village": {
+      "lemma": "village",
+      "pos": "noun",
+      "ko": "마을",
+      "form": null,
+      "synonyms": [
+        "town",
+        "hamlet"
+      ],
+      "ipa": "/ˈvɪlədʒ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다",
+      "form": "과거형",
+      "synonyms": [
+        "approach",
+        "arrive"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "stooping": {
+      "lemma": "stoop",
+      "pos": "verb",
+      "ko": "허리를 구부린 채",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "bend",
+        "hunch"
+      ],
+      "ipa": "/ˈstuːpɪŋ/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "street": {
+      "lemma": "street",
+      "pos": "noun",
+      "ko": "거리",
+      "form": null,
+      "synonyms": [
+        "road",
+        "lane"
+      ],
+      "ipa": "/striːt/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이들",
+      "form": "복수형",
+      "synonyms": [
+        "kids",
+        "youngsters"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가진, ~와 함께; ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "bright": {
+      "lemma": "bright",
+      "pos": "adjective",
+      "ko": "밝은, 환한",
+      "form": null,
+      "synonyms": [
+        "cheerful",
+        "radiant"
+      ],
+      "ipa": "/braɪt/"
+    },
+    "faces": {
+      "lemma": "face",
+      "pos": "noun",
+      "ko": "얼굴",
+      "form": "복수형",
+      "synonyms": [
+        "countenance",
+        "visage"
+      ],
+      "ipa": "/ˈfeɪsəz/"
+    },
+    "tripped": {
+      "lemma": "trip",
+      "pos": "verb",
+      "ko": "깡충깡충 가볍게 걸었다",
+      "form": "과거형",
+      "synonyms": [
+        "skip",
+        "hop"
+      ],
+      "ipa": "/trɪpt/"
+    },
+    "merrily": {
+      "lemma": "merrily",
+      "pos": "adverb",
+      "ko": "즐겁게, 명랑하게",
+      "form": null,
+      "synonyms": [
+        "cheerfully",
+        "happily"
+      ],
+      "ipa": "/ˈmɛrəli/"
+    },
+    "beside": {
+      "lemma": "beside",
+      "pos": "preposition",
+      "ko": "~ 옆에",
+      "form": null,
+      "ipa": "/bɪˈsaɪd/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "parents": {
+      "lemma": "parent",
+      "pos": "noun",
+      "ko": "부모",
+      "form": "복수형",
+      "synonyms": [
+        "mother and father"
+      ],
+      "ipa": "/ˈpɛrənts/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는, 아니면",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "mimicked": {
+      "lemma": "mimic",
+      "pos": "verb",
+      "ko": "흉내 냈다",
+      "form": "과거형",
+      "synonyms": [
+        "imitate",
+        "copy"
+      ],
+      "ipa": "/ˈmɪmɪkt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "graver": {
+      "lemma": "grave",
+      "pos": "adjective",
+      "ko": "더 근엄한, 더 점잖은",
+      "form": "비교급",
+      "synonyms": [
+        "solemn",
+        "serious"
+      ],
+      "ipa": "/ˈɡreɪvər/"
+    },
+    "gait": {
+      "lemma": "gait",
+      "pos": "noun",
+      "ko": "걸음걸이",
+      "form": null,
+      "synonyms": [
+        "walk",
+        "stride"
+      ],
+      "ipa": "/ɡeɪt/"
+    },
+    "conscious": {
+      "lemma": "conscious",
+      "pos": "adjective",
+      "ko": "의식하는, 자각하는",
+      "form": null,
+      "synonyms": [
+        "aware",
+        "self-conscious"
+      ],
+      "ipa": "/ˈkɑːnʃəs/"
+    },
+    "dignity": {
+      "lemma": "dignity",
+      "pos": "noun",
+      "ko": "위엄, 의젓함",
+      "form": null,
+      "synonyms": [
+        "stateliness",
+        "poise"
+      ],
+      "ipa": "/ˈdɪɡnəti/"
+    },
+    "sunday": {
+      "lemma": "Sunday",
+      "pos": "proper-noun",
+      "ko": "일요일, 주일",
+      "form": null,
+      "ipa": "/ˈsʌnˌdeɪ/"
+    },
+    "clothes": {
+      "lemma": "clothes",
+      "pos": "noun",
+      "ko": "옷",
+      "form": null,
+      "synonyms": [
+        "garments",
+        "attire"
+      ],
+      "ipa": "/kloʊðz/"
+    },
+    "spruce": {
+      "lemma": "spruce",
+      "pos": "adjective",
+      "ko": "말쑥한, 단정한",
+      "form": null,
+      "synonyms": [
+        "neat",
+        "smart",
+        "dapper"
+      ],
+      "ipa": "/spruːs/"
+    },
+    "bachelors": {
+      "lemma": "bachelor",
+      "pos": "noun",
+      "ko": "총각, 미혼 남자",
+      "form": "복수형",
+      "synonyms": [
+        "single man"
+      ],
+      "ipa": "/ˈbætʃlərz/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보았다",
+      "form": "과거형",
+      "synonyms": [
+        "glance",
+        "gaze"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "sidelong": {
+      "lemma": "sidelong",
+      "pos": "adverb",
+      "ko": "곁눈질로, 옆으로",
+      "form": null,
+      "synonyms": [
+        "sideways",
+        "askance"
+      ],
+      "ipa": "/ˈsaɪdlɔːŋ/"
+    },
+    "pretty": {
+      "lemma": "pretty",
+      "pos": "adjective",
+      "ko": "예쁜",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "attractive"
+      ],
+      "ipa": "/ˈprɪti/"
+    },
+    "maidens": {
+      "lemma": "maiden",
+      "pos": "noun",
+      "ko": "아가씨, 처녀",
+      "form": "복수형",
+      "synonyms": [
+        "maid",
+        "young woman"
+      ],
+      "ipa": "/ˈmeɪdənz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "fancied": {
+      "lemma": "fancy",
+      "pos": "verb",
+      "ko": "(~라고) 생각했다, 상상했다",
+      "form": "과거형",
+      "synonyms": [
+        "imagine",
+        "suppose"
+      ],
+      "ipa": "/ˈfænsid/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "sabbath": {
+      "lemma": "Sabbath",
+      "pos": "proper-noun",
+      "ko": "안식일 (기독교에서는 일요일)",
+      "form": null,
+      "ipa": "/ˈsæbəθ/"
+    },
+    "sunshine": {
+      "lemma": "sunshine",
+      "pos": "noun",
+      "ko": "햇살, 햇빛",
+      "form": null,
+      "synonyms": [
+        "sunlight"
+      ],
+      "ipa": "/ˈsʌnˌʃaɪn/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~하게 만들었다",
+      "form": "과거형",
+      "synonyms": [
+        "render",
+        "cause"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "prettier": {
+      "lemma": "pretty",
+      "pos": "adjective",
+      "ko": "더 예쁜",
+      "form": "비교급",
+      "synonyms": [
+        "lovelier"
+      ],
+      "ipa": "/ˈprɪtiər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에; ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "ipa": "/wiːk/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "throng": {
+      "lemma": "throng",
+      "pos": "noun",
+      "ko": "군중, 무리",
+      "form": null,
+      "synonyms": [
+        "crowd",
+        "multitude"
+      ],
+      "ipa": "/θrɔːŋ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + p.p.) 과거완료",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "mostly": {
+      "lemma": "mostly",
+      "pos": "adverb",
+      "ko": "대부분",
+      "form": null,
+      "synonyms": [
+        "largely",
+        "mainly"
+      ],
+      "ipa": "/ˈmoʊstli/"
+    },
+    "streamed": {
+      "lemma": "stream",
+      "pos": "verb",
+      "ko": "(줄지어) 흘러 들어갔다",
+      "form": "과거분사",
+      "synonyms": [
+        "flow",
+        "pour"
+      ],
+      "ipa": "/striːmd/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작했다",
+      "form": "과거형",
+      "synonyms": [
+        "start",
+        "commence"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기; ~에게, ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "toll": {
+      "lemma": "toll",
+      "pos": "verb",
+      "ko": "(종을) 천천히 울리다",
+      "form": null,
+      "synonyms": [
+        "ring",
+        "peal"
+      ],
+      "ipa": "/toʊl/"
+    },
+    "bell": {
+      "lemma": "bell",
+      "pos": "noun",
+      "ko": "종",
+      "form": null,
+      "synonyms": [
+        "chime"
+      ],
+      "ipa": "/bɛl/"
+    },
+    "keeping": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "유지하며, 계속 ~한 채",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "hold",
+        "maintain"
+      ],
+      "ipa": "/ˈkiːpɪŋ/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "eye": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈, 시선",
+      "form": null,
+      "synonyms": [
+        "gaze"
+      ],
+      "ipa": "/aɪ/"
+    },
+    "reverend": {
+      "lemma": "Reverend",
+      "pos": "noun",
+      "ko": "(목사의 존칭) ~목사님",
+      "form": null,
+      "ipa": "/ˈrɛvərənd/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "synonyms": [
+        "mister"
+      ],
+      "ipa": "/ˈmɪstər/"
+    },
+    "hooper's": {
+      "lemma": "Hooper",
+      "pos": "proper-noun",
+      "ko": "후퍼(목사 이름)의",
+      "form": "소유격",
+      "ipa": "/ˈhuːpərz/"
+    },
+    "door": {
+      "lemma": "door",
+      "pos": "noun",
+      "ko": "문",
+      "form": null,
+      "synonyms": [
+        "entrance",
+        "doorway"
+      ],
+      "ipa": "/dɔːr/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫, 처음의",
+      "form": null,
+      "synonyms": [
+        "initial",
+        "earliest"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "glimpse": {
+      "lemma": "glimpse",
+      "pos": "noun",
+      "ko": "언뜻 봄",
+      "form": null,
+      "synonyms": [
+        "glance",
+        "peek"
+      ],
+      "ipa": "/ɡlɪmps/"
+    },
+    "clergyman's": {
+      "lemma": "clergyman",
+      "pos": "noun",
+      "ko": "성직자(목사)의",
+      "form": "소유격",
+      "synonyms": [
+        "minister",
+        "pastor"
+      ],
+      "ipa": "/ˈklɜːrdʒimənz/"
+    },
+    "figure": {
+      "lemma": "figure",
+      "pos": "noun",
+      "ko": "모습, 형체",
+      "form": null,
+      "synonyms": [
+        "form",
+        "shape"
+      ],
+      "ipa": "/ˈfɪɡjər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "signal": {
+      "lemma": "signal",
+      "pos": "noun",
+      "ko": "신호",
+      "form": null,
+      "synonyms": [
+        "sign",
+        "cue"
+      ],
+      "ipa": "/ˈsɪɡnəl/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에게",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "cease": {
+      "lemma": "cease",
+      "pos": "verb",
+      "ko": "멈추다, 그치다",
+      "form": null,
+      "synonyms": [
+        "stop",
+        "end"
+      ],
+      "ipa": "/siːs/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "summons": {
+      "lemma": "summons",
+      "pos": "noun",
+      "ko": "부름, 호출",
+      "form": null,
+      "synonyms": [
+        "call",
+        "calling"
+      ],
+      "ipa": "/ˈsʌmənz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그런데, 그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(has + got) 가지고 있다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "선량한, 좋은 (친근한 존칭)",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "worthy"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "parson": {
+      "lemma": "parson",
+      "pos": "noun",
+      "ko": "목사, 교구 목사",
+      "form": null,
+      "synonyms": [
+        "minister",
+        "pastor",
+        "clergyman"
+      ],
+      "ipa": "/ˈpɑːrsən/"
+    },
+    "hooper": {
+      "lemma": "Hooper",
+      "pos": "proper-noun",
+      "ko": "후퍼 (목사 이름)",
+      "form": null,
+      "ipa": "/ˈhuːpər/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(have got) 가지고 있다, 쓰다",
+      "form": "과거분사",
+      "synonyms": [
+        "have"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (on의 문어체)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "face": {
+      "lemma": "face",
+      "pos": "noun",
+      "ko": "얼굴",
+      "form": null,
+      "synonyms": [
+        "countenance",
+        "visage"
+      ],
+      "ipa": "/feɪs/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "exclaim",
+        "shout"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "astonishment": {
+      "lemma": "astonishment",
+      "pos": "noun",
+      "ko": "깜짝 놀람",
+      "form": null,
+      "synonyms": [
+        "amazement",
+        "surprise"
+      ],
+      "ipa": "/əˈstɑːnɪʃmənt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 사람",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 안에, ~ 범위 내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "hearing": {
+      "lemma": "hearing",
+      "pos": "noun",
+      "ko": "들리는 거리(범위)",
+      "form": null,
+      "synonyms": [
+        "earshot"
+      ],
+      "ipa": "/ˈhiːrɪŋ/"
+    },
+    "immediately": {
+      "lemma": "immediately",
+      "pos": "adverb",
+      "ko": "즉시",
+      "form": null,
+      "synonyms": [
+        "instantly",
+        "at once"
+      ],
+      "ipa": "/ˌɪˈmiːˌdiːətli/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "돌았다",
+      "form": "과거형",
+      "synonyms": [
+        "rotate",
+        "swing"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "(turn about) 돌아서; (전치사) ~ 둘레에, 약 ~",
+      "form": null,
+      "synonyms": [
+        "around"
+      ],
+      "ipa": "/əˈbaʊt/"
+    },
+    "beheld": {
+      "lemma": "behold",
+      "pos": "verb",
+      "ko": "보았다",
+      "form": "과거형",
+      "synonyms": [
+        "see",
+        "observe"
+      ],
+      "ipa": "/biˈhɛld/"
+    },
+    "semblance": {
+      "lemma": "semblance",
+      "pos": "noun",
+      "ko": "모습, 외관",
+      "form": null,
+      "synonyms": [
+        "appearance",
+        "form"
+      ],
+      "ipa": "/ˈsɛmbləns/"
+    },
+    "pacing": {
+      "lemma": "pace",
+      "pos": "verb",
+      "ko": "천천히 걸으며",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "walk",
+        "stride"
+      ],
+      "ipa": "/ˈpeɪsɪŋ/"
+    },
+    "slowly": {
+      "lemma": "slowly",
+      "pos": "adverb",
+      "ko": "천천히",
+      "form": null,
+      "synonyms": [
+        "unhurriedly",
+        "leisurely"
+      ],
+      "ipa": "/ˈsloʊli/"
+    },
+    "meditative": {
+      "lemma": "meditative",
+      "pos": "adjective",
+      "ko": "생각에 잠긴",
+      "form": null,
+      "synonyms": [
+        "thoughtful",
+        "pensive"
+      ],
+      "ipa": "/ˈmɛdəˌteɪtɪv/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "path",
+        "route"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "towards": {
+      "lemma": "towards",
+      "pos": "preposition",
+      "ko": "~ 쪽으로",
+      "form": null,
+      "ipa": "/təˈwɔːrdz/"
+    },
+    "meetinghouse": {
+      "lemma": "meetinghouse",
+      "pos": "noun",
+      "ko": "(청교도) 예배당",
+      "form": null,
+      "synonyms": [
+        "church",
+        "chapel"
+      ],
+      "ipa": "/ˈmiːtɪŋhaʊs/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "accord": {
+      "lemma": "accord",
+      "pos": "noun",
+      "ko": "(with one accord) 일치, 일제히",
+      "form": null,
+      "synonyms": [
+        "agreement",
+        "unison"
+      ],
+      "ipa": "/əˈkɔːrd/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "started": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(놀라서) 움찔했다, 깜짝 놀랐다",
+      "form": "과거형",
+      "synonyms": [
+        "jump",
+        "flinch"
+      ],
+      "ipa": "/ˈstɑːrtɪd/"
+    },
+    "expressing": {
+      "lemma": "express",
+      "pos": "verb",
+      "ko": "드러내며, 나타내며",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "show",
+        "display"
+      ],
+      "ipa": "/ɪkˈsprɛsɪŋ/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "determiner",
+      "ko": "더 많은, 더 큰",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "wonder": {
+      "lemma": "wonder",
+      "pos": "noun",
+      "ko": "놀라움, 경이",
+      "form": null,
+      "synonyms": [
+        "amazement",
+        "astonishment"
+      ],
+      "ipa": "/ˈwʌndər/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "strange": {
+      "lemma": "strange",
+      "pos": "adjective",
+      "ko": "낯선, 모르는",
+      "form": null,
+      "synonyms": [
+        "unfamiliar",
+        "unknown"
+      ],
+      "ipa": "/streɪndʒ/"
+    },
+    "minister": {
+      "lemma": "minister",
+      "pos": "noun",
+      "ko": "목사, 성직자",
+      "form": null,
+      "synonyms": [
+        "clergyman",
+        "pastor"
+      ],
+      "ipa": "/ˈmɪnəstər/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(가정법) ~라면",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "arrive",
+        "approach"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "dust": {
+      "lemma": "dust",
+      "pos": "verb",
+      "ko": "먼지를 털다",
+      "form": null,
+      "synonyms": [
+        "wipe",
+        "clean"
+      ],
+      "ipa": "/dʌst/"
+    },
+    "cushions": {
+      "lemma": "cushion",
+      "pos": "noun",
+      "ko": "방석, 쿠션",
+      "form": "복수형",
+      "synonyms": [
+        "pillow",
+        "pad"
+      ],
+      "ipa": "/ˈkʊʃənz/"
+    },
+    "pulpit": {
+      "lemma": "pulpit",
+      "pos": "noun",
+      "ko": "설교단",
+      "form": null,
+      "synonyms": [
+        "lectern",
+        "rostrum"
+      ],
+      "ipa": "/ˈpʊlpɪt/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형(2인칭)",
+      "ipa": "/ɑːr/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확실한",
+      "form": null,
+      "synonyms": [
+        "certain",
+        "positive"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것, 저 사람",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "inquired": {
+      "lemma": "inquire",
+      "pos": "verb",
+      "ko": "물었다",
+      "form": "과거형",
+      "synonyms": [
+        "ask",
+        "query"
+      ],
+      "ipa": "/ˌɪnˈkwaɪərd/"
+    },
+    "goodman": {
+      "lemma": "goodman",
+      "pos": "noun",
+      "ko": "(옛 호칭) ~ 씨, 영감 (평민 남자 존칭)",
+      "form": null,
+      "synonyms": [
+        "mister"
+      ],
+      "ipa": "/ˈɡʊdmən/"
+    },
+    "gray": {
+      "lemma": "Gray",
+      "pos": "proper-noun",
+      "ko": "그레이 (사람 이름)",
+      "form": null,
+      "ipa": "/ɡreɪ/"
+    },
+    "certainty": {
+      "lemma": "certainty",
+      "pos": "noun",
+      "ko": "(of a certainty) 확실함, 틀림없이",
+      "form": null,
+      "synonyms": [
+        "sureness",
+        "surety"
+      ],
+      "ipa": "/ˈsɜːrtənti/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(to have p.p.) 완료부정사",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "exchanged": {
+      "lemma": "exchange",
+      "pos": "verb",
+      "ko": "바꾸다, 교환하다",
+      "form": "과거분사",
+      "synonyms": [
+        "swap",
+        "trade"
+      ],
+      "ipa": "/ɪksˈtʃeɪndʒd/"
+    },
+    "pulpits": {
+      "lemma": "pulpit",
+      "pos": "noun",
+      "ko": "설교단",
+      "form": "복수형",
+      "synonyms": [
+        "lectern"
+      ],
+      "ipa": "/ˈpʊlpɪts/"
+    },
+    "shute": {
+      "lemma": "Shute",
+      "pos": "proper-noun",
+      "ko": "슈트 (목사 이름)",
+      "form": null,
+      "ipa": "/ʃuːt/"
+    },
+    "westbury": {
+      "lemma": "Westbury",
+      "pos": "proper-noun",
+      "ko": "웨스트베리 (마을 이름)",
+      "form": null,
+      "ipa": "/ˈwɛstˌbɛri/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "(전갈을) 보냈다",
+      "form": "과거형",
+      "synonyms": [
+        "dispatch",
+        "message"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "excuse": {
+      "lemma": "excuse",
+      "pos": "verb",
+      "ko": "(excuse oneself) 양해를 구하고 빠지다",
+      "form": null,
+      "synonyms": [
+        "beg off",
+        "decline"
+      ],
+      "ipa": "/ɪksˈkjuːs/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신을",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "yesterday": {
+      "lemma": "yesterday",
+      "pos": "adverb",
+      "ko": "어제",
+      "form": null,
+      "ipa": "/ˈjɛstərˌdeɪ/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(being to ~) ~해야 해서",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "preach": {
+      "lemma": "preach",
+      "pos": "verb",
+      "ko": "설교하다",
+      "form": null,
+      "synonyms": [
+        "sermonize",
+        "deliver"
+      ],
+      "ipa": "/priːtʃ/"
+    },
+    "funeral": {
+      "lemma": "funeral",
+      "pos": "noun",
+      "ko": "장례식 (명사 수식: 장례의)",
+      "form": null,
+      "synonyms": [
+        "burial",
+        "memorial"
+      ],
+      "ipa": "/ˈfjuːnərəl/"
+    },
+    "sermon": {
+      "lemma": "sermon",
+      "pos": "noun",
+      "ko": "설교",
+      "form": null,
+      "synonyms": [
+        "homily",
+        "address"
+      ],
+      "ipa": "/ˈsɜːrmən/"
+    },
+    "cause": {
+      "lemma": "cause",
+      "pos": "noun",
+      "ko": "원인",
+      "form": null,
+      "synonyms": [
+        "reason",
+        "source"
+      ],
+      "ipa": "/kɑːz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그토록, 매우; ~할 만큼",
+      "form": null,
+      "synonyms": [
+        "such",
+        "very"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "amazement": {
+      "lemma": "amazement",
+      "pos": "noun",
+      "ko": "놀라움",
+      "form": null,
+      "synonyms": [
+        "astonishment",
+        "surprise"
+      ],
+      "ipa": "/əˈmeɪzmənt/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "appear": {
+      "lemma": "appear",
+      "pos": "verb",
+      "ko": "~처럼 보이다",
+      "form": null,
+      "synonyms": [
+        "seem",
+        "look"
+      ],
+      "ipa": "/əˈpɪr/"
+    },
+    "sufficiently": {
+      "lemma": "sufficiently",
+      "pos": "adverb",
+      "ko": "충분히, 꽤",
+      "form": null,
+      "synonyms": [
+        "adequately",
+        "quite"
+      ],
+      "ipa": "/səˈfɪʃəntli/"
+    },
+    "slight": {
+      "lemma": "slight",
+      "pos": "adjective",
+      "ko": "사소한, 하찮은",
+      "form": null,
+      "synonyms": [
+        "minor",
+        "trivial"
+      ],
+      "ipa": "/slaɪt/"
+    },
+    "gentlemanly": {
+      "lemma": "gentlemanly",
+      "pos": "adjective",
+      "ko": "신사다운",
+      "form": null,
+      "synonyms": [
+        "refined",
+        "courteous"
+      ],
+      "ipa": "/ˈdʒɛntəlmənli/"
+    },
+    "person": {
+      "lemma": "person",
+      "pos": "noun",
+      "ko": "사람",
+      "form": null,
+      "synonyms": [
+        "individual",
+        "man"
+      ],
+      "ipa": "/ˈpɜːrsən/"
+    },
+    "thirty": {
+      "lemma": "thirty",
+      "pos": "number",
+      "ko": "서른, 30",
+      "form": null,
+      "ipa": "/ˈθɜːrˌdiː/"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "conjunction",
+      "ko": "비록 ~이지만",
+      "form": null,
+      "ipa": "/ðoʊ/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "아직",
+      "form": null,
+      "synonyms": [
+        "yet"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "bachelor": {
+      "lemma": "bachelor",
+      "pos": "noun",
+      "ko": "총각, 미혼 남자",
+      "form": null,
+      "synonyms": [
+        "single man"
+      ],
+      "ipa": "/ˈbætʃələr/"
+    },
+    "dressed": {
+      "lemma": "dress",
+      "pos": "verb",
+      "ko": "(옷을) 입은",
+      "form": "과거분사",
+      "synonyms": [
+        "clothe",
+        "attire"
+      ],
+      "ipa": "/drɛst/"
+    },
+    "due": {
+      "lemma": "due",
+      "pos": "adjective",
+      "ko": "마땅한, 걸맞은",
+      "form": null,
+      "synonyms": [
+        "proper",
+        "fitting"
+      ],
+      "ipa": "/duː/"
+    },
+    "clerical": {
+      "lemma": "clerical",
+      "pos": "adjective",
+      "ko": "성직자의",
+      "form": null,
+      "synonyms": [
+        "ministerial",
+        "priestly"
+      ],
+      "ipa": "/ˈklɛrəkəl/"
+    },
+    "neatness": {
+      "lemma": "neatness",
+      "pos": "noun",
+      "ko": "단정함",
+      "form": null,
+      "synonyms": [
+        "tidiness",
+        "trimness"
+      ],
+      "ipa": "/ˈniːtnəs/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~처럼; (so ~ as to) ~할 만큼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "careful": {
+      "lemma": "careful",
+      "pos": "adjective",
+      "ko": "꼼꼼한, 세심한",
+      "form": null,
+      "synonyms": [
+        "attentive",
+        "meticulous"
+      ],
+      "ipa": "/ˈkɛrfəl/"
+    },
+    "wife": {
+      "lemma": "wife",
+      "pos": "noun",
+      "ko": "아내",
+      "form": null,
+      "synonyms": [
+        "spouse"
+      ],
+      "ipa": "/waɪf/"
+    },
+    "starched": {
+      "lemma": "starch",
+      "pos": "verb",
+      "ko": "풀을 먹였다",
+      "form": "과거분사",
+      "synonyms": [
+        "stiffen"
+      ],
+      "ipa": "/stɑːrtʃt/"
+    },
+    "band": {
+      "lemma": "band",
+      "pos": "noun",
+      "ko": "(성직자의) 흰 목깃",
+      "form": null,
+      "synonyms": [
+        "collar",
+        "neckband"
+      ],
+      "ipa": "/bænd/"
+    },
+    "brushed": {
+      "lemma": "brush",
+      "pos": "verb",
+      "ko": "(솔로) 털어 냈다",
+      "form": "과거분사",
+      "synonyms": [
+        "sweep",
+        "wipe"
+      ],
+      "ipa": "/brʌʃt/"
+    },
+    "weekly": {
+      "lemma": "weekly",
+      "pos": "adjective",
+      "ko": "한 주 동안의, 매주의",
+      "form": null,
+      "synonyms": [
+        "week-long"
+      ],
+      "ipa": "/ˈwiːkli/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "sunday's": {
+      "lemma": "Sunday",
+      "pos": "proper-noun",
+      "ko": "일요일(주일)의",
+      "form": "소유격",
+      "ipa": "/ˈsʌnˌdeɪz/"
+    },
+    "garb": {
+      "lemma": "garb",
+      "pos": "noun",
+      "ko": "옷, 복장",
+      "form": null,
+      "synonyms": [
+        "attire",
+        "clothing"
+      ],
+      "ipa": "/ɡɑːrb/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(there was) ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "것, 일",
+      "form": null,
+      "synonyms": [
+        "matter",
+        "feature"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "remarkable": {
+      "lemma": "remarkable",
+      "pos": "adjective",
+      "ko": "눈에 띄는, 특이한",
+      "form": null,
+      "synonyms": [
+        "notable",
+        "striking"
+      ],
+      "ipa": "/rɪˈmɑːrkəbəl/"
+    },
+    "appearance": {
+      "lemma": "appearance",
+      "pos": "noun",
+      "ko": "겉모습, 외모",
+      "form": null,
+      "synonyms": [
+        "look",
+        "aspect"
+      ],
+      "ipa": "/əˈpɪrəns/"
+    },
+    "swathed": {
+      "lemma": "swathe",
+      "pos": "verb",
+      "ko": "감싸인, 둘둘 감긴",
+      "form": "과거분사",
+      "synonyms": [
+        "wrap",
+        "bind"
+      ],
+      "ipa": "/swɑːðd/"
+    },
+    "forehead": {
+      "lemma": "forehead",
+      "pos": "noun",
+      "ko": "이마",
+      "form": null,
+      "synonyms": [
+        "brow"
+      ],
+      "ipa": "/ˈfɔːrhɛd/"
+    },
+    "hanging": {
+      "lemma": "hang",
+      "pos": "verb",
+      "ko": "늘어져, 매달려",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "dangle",
+        "droop"
+      ],
+      "ipa": "/ˈhæŋɪŋ/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 위로, ~을 덮어",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "low": {
+      "lemma": "low",
+      "pos": "adverb",
+      "ko": "낮게",
+      "form": null,
+      "ipa": "/loʊ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(to be p.p.) 수동태",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "shaken": {
+      "lemma": "shake",
+      "pos": "verb",
+      "ko": "흔들리다",
+      "form": "과거분사",
+      "synonyms": [
+        "stir",
+        "flutter"
+      ],
+      "ipa": "/ˈʃeɪkən/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "breath": {
+      "lemma": "breath",
+      "pos": "noun",
+      "ko": "숨, 숨결",
+      "form": null,
+      "synonyms": [
+        "breathing",
+        "exhalation"
+      ],
+      "ipa": "/brɛθ/"
+    },
+    "black": {
+      "lemma": "black",
+      "pos": "adjective",
+      "ko": "검은",
+      "form": null,
+      "synonyms": [
+        "dark"
+      ],
+      "ipa": "/blæk/"
+    },
+    "veil": {
+      "lemma": "veil",
+      "pos": "noun",
+      "ko": "베일, 얼굴 가리개",
+      "form": null,
+      "synonyms": [
+        "covering",
+        "shroud"
+      ],
+      "ipa": "/veɪl/"
+    }
+  }
+}
