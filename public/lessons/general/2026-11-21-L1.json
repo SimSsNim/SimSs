@@ -1,0 +1,1269 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-21-L1",
+  "date": "2026-11-21",
+  "level": 1,
+  "title": "The Jackdaw and the Pigeons",
+  "titleKo": "갈까마귀와 비둘기들",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_20_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_20_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-3-fables-51-75",
+    "reader": "ophul",
+    "durationSec": 68,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 03, 20번 트랙(전체 70번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 141,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "갈까마귀 한 마리가 농가 마당에 있는 비둘기들을 지켜보다가, 그들이 얼마나 잘 먹고 사는지 보고는 부러움으로 가득 찼다. 그래서 그들이 누리는 좋은 것들을 나눠 갖기 위해 비둘기 중 하나로 변장하기로 마음먹었다. 그래서 그는 머리부터 발끝까지 몸을 하얗게 칠하고 비둘기 무리에 끼었다. 그리고 그가 조용히 있는 동안에는, 비둘기들은 그가 자기들 같은 비둘기가 아니라는 것을 전혀 눈치채지 못했다. 그러나 어느 날 그는 어리석게도 재잘거리기 시작했고, 그러자 비둘기들은 곧바로 그의 변장을 꿰뚫어 보고 그를 사정없이 쪼아 댔다. 그래서 그는 도망쳐 다시 자기 동족에게 돌아가게 된 것만도 다행이라고 여겼다. 하지만 다른 갈까마귀들은 하얀 옷차림을 한 그를 알아보지 못했고, 자기들과 함께 먹이를 먹게 해 주지 않고 쫓아 버렸다. 그래서 그는 애쓴 대가로 집 없는 떠돌이가 되고 말았다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Jackdaw, watching some Pigeons in a farmyard, was filled with envy when he saw how well they were fed, and determined to disguise himself as one of them, in order to secure a share of the good things they enjoyed.",
+      "ko": "갈까마귀 한 마리가 농가 마당에 있는 비둘기들을 지켜보다가, 그들이 얼마나 잘 먹고 사는지 보고는 부러움으로 가득 찼다. 그래서 그들이 누리는 좋은 것들을 나눠 갖기 위해 비둘기 중 하나로 변장하기로 마음먹었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "So he painted himself white from head to foot and joined the flock; and, so long as he was silent, they never suspected that he was not a pigeon like themselves.",
+      "ko": "그래서 그는 머리부터 발끝까지 몸을 하얗게 칠하고 비둘기 무리에 끼었다. 그리고 그가 조용히 있는 동안에는, 비둘기들은 그가 자기들 같은 비둘기가 아니라는 것을 전혀 눈치채지 못했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But one day he was unwise enough to start chattering, when they at once saw through his disguise and pecked him so unmercifully that he was glad to escape and join his own kind again.",
+      "ko": "그러나 어느 날 그는 어리석게도 재잘거리기 시작했고, 그러자 비둘기들은 곧바로 그의 변장을 꿰뚫어 보고 그를 사정없이 쪼아 댔다. 그래서 그는 도망쳐 다시 자기 동족에게 돌아가게 된 것만도 다행이라고 여겼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But the other jackdaws did not recognise him in his white dress, and would not let him feed with them, but drove him away: and so he became a homeless wanderer for his pains.",
+      "ko": "하지만 다른 갈까마귀들은 하얀 옷차림을 한 그를 알아보지 못했고, 자기들과 함께 먹이를 먹게 해 주지 않고 쫓아 버렸다. 그래서 그는 애쓴 대가로 집 없는 떠돌이가 되고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "envy",
+      "pos": "noun",
+      "meaningKo": "부러움, 시기",
+      "ipa": "/ˈɛnvi/",
+      "synonyms": [
+        "jealousy",
+        "resentment"
+      ],
+      "matchText": "envy",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She looked at his new bike with envy.",
+        "ko": "그녀는 부러운 눈으로 그의 새 자전거를 보았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "disguise",
+      "pos": "verb",
+      "meaningKo": "변장하다, 위장하다",
+      "ipa": "/dɪsˈɡaɪz/",
+      "synonyms": [
+        "dress up",
+        "mask",
+        "hide"
+      ],
+      "matchText": "disguise",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The spy disguised himself as a waiter.",
+        "ko": "그 스파이는 웨이터로 변장했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "suspect",
+      "pos": "verb",
+      "meaningKo": "(~라고) 눈치채다, 의심하다",
+      "ipa": "/səˈspɛkt/",
+      "synonyms": [
+        "guess",
+        "doubt",
+        "sense"
+      ],
+      "matchText": "suspected",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Nobody suspected that he was lying.",
+        "ko": "아무도 그가 거짓말을 하고 있다는 것을 눈치채지 못했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "see through",
+      "pos": "phrasal-verb",
+      "meaningKo": "(속임수·거짓을) 꿰뚫어 보다",
+      "ipa": "/si θru/",
+      "synonyms": [
+        "detect",
+        "recognize",
+        "spot"
+      ],
+      "matchText": "saw through",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The teacher saw through his excuse.",
+        "ko": "선생님은 그의 핑계를 꿰뚫어 보았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "for one's pains",
+      "pos": "idiom",
+      "meaningKo": "애쓴 대가로, 수고한 보람도 없이",
+      "ipa": "/fər wʌnz ˈpeɪnz/",
+      "synonyms": [
+        "as a reward",
+        "in return"
+      ],
+      "matchText": "for his pains",
+      "sentenceId": "s4",
+      "example": {
+        "en": "He helped them and got only complaints for his pains.",
+        "ko": "그는 그들을 도와주고도 애쓴 대가로 불평만 들었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "So",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "painted",
+          "role": "V",
+          "sub": false,
+          "ko": "칠했다"
+        },
+        {
+          "text": "himself",
+          "role": "O",
+          "sub": false,
+          "ko": "자기 몸을"
+        },
+        {
+          "text": "white",
+          "role": "OC",
+          "sub": false,
+          "ko": "하얗게"
+        },
+        {
+          "text": "from head to foot",
+          "role": "M",
+          "sub": false,
+          "ko": "머리부터 발끝까지"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "joined",
+          "role": "V",
+          "sub": false,
+          "ko": "끼었다"
+        },
+        {
+          "text": "the flock;",
+          "role": "O",
+          "sub": false,
+          "ko": "무리에"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "so long as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는 동안은"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "있었다"
+        },
+        {
+          "text": "silent,",
+          "role": "C",
+          "sub": true,
+          "ko": "조용히"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "never suspected",
+          "role": "V",
+          "sub": false,
+          "ko": "전혀 눈치채지 못했다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "was not",
+          "role": "V",
+          "sub": true,
+          "ko": "아니었다"
+        },
+        {
+          "text": "a pigeon",
+          "role": "C",
+          "sub": true,
+          "ko": "비둘기가"
+        },
+        {
+          "text": "like themselves.",
+          "role": "M",
+          "sub": true,
+          "ko": "자기들 같은"
+        }
+      ],
+      "skeleton": "he painted himself white ~ and joined the flock; they never suspected that ~",
+      "explanation": "paint + 목적어 + 형용사는 '~을 …하게 칠하다'예요(himself = O, white = OC). 세미콜론 뒤는 so long as 절(조건·기간) + 주절 they never suspected 이고, 그 목적어가 that절이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "one day",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~했다"
+        },
+        {
+          "text": "unwise enough",
+          "role": "C",
+          "sub": false,
+          "ko": "어리석게도"
+        },
+        {
+          "text": "to start chattering,",
+          "role": "M",
+          "sub": false,
+          "ko": "재잘거리기 시작할 만큼"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러자 그때"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "at once",
+          "role": "M",
+          "sub": false,
+          "ko": "곧바로"
+        },
+        {
+          "text": "saw through",
+          "role": "V",
+          "sub": false,
+          "ko": "꿰뚫어 보았다"
+        },
+        {
+          "text": "his disguise",
+          "role": "O",
+          "sub": false,
+          "ko": "그의 변장을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "pecked",
+          "role": "V",
+          "sub": false,
+          "ko": "쪼았다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그를"
+        },
+        {
+          "text": "so unmercifully",
+          "role": "M",
+          "sub": false,
+          "ko": "너무 사정없이"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "glad",
+          "role": "C",
+          "sub": true,
+          "ko": "다행으로 여겼다"
+        },
+        {
+          "text": "to escape and join his own kind again.",
+          "role": "M",
+          "sub": true,
+          "ko": "도망쳐 다시 동족에게 돌아가게 되어"
+        }
+      ],
+      "skeleton": "he was unwise enough to start ~, when they saw through ~ and pecked him",
+      "explanation": "형용사 + enough + to부정사는 '~할 만큼 …하다'예요. 콤마 뒤 when은 '그러자 그때'라는 뜻으로 이야기를 이어 가고, so ~ that 구문이 '너무 ~해서 …하다'라는 결과를 보여 줘요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "in order to + 동사원형: ~하기 위해",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "in order to secure"
+      ],
+      "explanation": "in order to는 목적을 분명히 보여 주는 표현이에요. '좋은 것들을 나눠 갖기 위해' 변장했다는 뜻이에요. 그냥 to secure라고 써도 뜻은 같아요.",
+      "example": {
+        "en": "I got up early in order to catch the first bus.",
+        "ko": "나는 첫 버스를 타기 위해 일찍 일어났다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "형용사 + enough + to부정사",
+      "tags": [
+        "to부정사",
+        "어순"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "unwise enough to start"
+      ],
+      "explanation": "enough는 형용사 뒤에 와서 '~할 만큼 충분히 …한'이라는 뜻을 만들어요. unwise enough to start chattering = '재잘거리기 시작할 만큼 어리석은'.",
+      "example": {
+        "en": "She is old enough to ride a bike alone.",
+        "ko": "그녀는 혼자 자전거를 탈 만큼 나이가 들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "so + 부사 + that: 너무 ~해서 …하다",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so unmercifully that"
+      ],
+      "explanation": "so 뒤에 형용사나 부사를 쓰고 that절을 이어 결과를 말해요. 너무 사정없이 쪼아서 → 도망칠 수 있어 다행이었다.",
+      "example": {
+        "en": "He ran so fast that nobody could catch him.",
+        "ko": "그는 너무 빨리 달려서 아무도 그를 잡을 수 없었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "jackdaw": {
+      "lemma": "jackdaw",
+      "pos": "noun",
+      "ko": "갈까마귀 (까마귀과의 작은 새)",
+      "form": null,
+      "ipa": "/ˈdʒækˌdɔ/"
+    },
+    "watching": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "지켜보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "observe",
+        "look at"
+      ],
+      "ipa": "/ˈwɑːtʃɪŋ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "몇몇의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "pigeons": {
+      "lemma": "pigeon",
+      "pos": "noun",
+      "ko": "비둘기",
+      "form": "복수형",
+      "synonyms": [
+        "dove"
+      ],
+      "ipa": "/ˈpɪdʒənz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "farmyard": {
+      "lemma": "farmyard",
+      "pos": "noun",
+      "ko": "농가 마당",
+      "form": null,
+      "synonyms": [
+        "barnyard",
+        "yard"
+      ],
+      "ipa": "/ˈfɑːrˌmjɑːrd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "filled": {
+      "lemma": "fill",
+      "pos": "verb",
+      "ko": "(be filled with) ~으로 가득 차다",
+      "form": "과거분사",
+      "synonyms": [
+        "full",
+        "packed"
+      ],
+      "ipa": "/fɪld/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "envy": {
+      "lemma": "envy",
+      "pos": "noun",
+      "ko": "부러움, 시기",
+      "form": null,
+      "synonyms": [
+        "jealousy",
+        "resentment"
+      ],
+      "ipa": "/ˈɛnvi/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때, 그러자 그때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보았다; (see through) 꿰뚫어 보았다",
+      "form": "과거형",
+      "synonyms": [
+        "noticed",
+        "watched"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘",
+      "form": null,
+      "synonyms": [
+        "nicely",
+        "properly"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다 (수동태의 be)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "fed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "먹이를 받다, 먹다",
+      "form": "과거분사",
+      "synonyms": [
+        "nourished"
+      ],
+      "ipa": "/fɛd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "determined": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "결심했다",
+      "form": "과거형",
+      "synonyms": [
+        "decided",
+        "resolved"
+      ],
+      "ipa": "/dɪˈtɜːrmənd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 (to부정사), ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "disguise": {
+      "lemma": "disguise",
+      "pos": "verb",
+      "ko": "변장하다; (명사) 변장",
+      "form": null,
+      "synonyms": [
+        "dress up",
+        "mask"
+      ],
+      "ipa": "/dɪsˈɡaɪz/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신, 자기 몸",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~로서, ~처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, (one day) 어느",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~ 중의, ~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을, 그들",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "(in order to) ~하기 위해",
+      "form": null,
+      "synonyms": [
+        "aim",
+        "purpose"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "secure": {
+      "lemma": "secure",
+      "pos": "verb",
+      "ko": "얻다, 확보하다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain",
+        "gain"
+      ],
+      "ipa": "/sɪˈkjʊr/"
+    },
+    "share": {
+      "lemma": "share",
+      "pos": "noun",
+      "ko": "몫, 나눔",
+      "form": null,
+      "synonyms": [
+        "portion",
+        "part"
+      ],
+      "ipa": "/ʃɛr/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은",
+      "form": null,
+      "synonyms": [
+        "fine",
+        "nice"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "things": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "것들",
+      "form": "복수형",
+      "synonyms": [
+        "stuff",
+        "items"
+      ],
+      "ipa": "/θɪŋz/"
+    },
+    "enjoyed": {
+      "lemma": "enjoy",
+      "pos": "verb",
+      "ko": "누리다, 즐기다",
+      "form": "과거형",
+      "synonyms": [
+        "had",
+        "relished"
+      ],
+      "ipa": "/ˌɛnˈdʒɔɪd/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서; 그렇게, 너무 (so ~ that)",
+      "form": null,
+      "synonyms": [
+        "therefore",
+        "thus"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "painted": {
+      "lemma": "paint",
+      "pos": "verb",
+      "ko": "칠했다",
+      "form": "과거형",
+      "synonyms": [
+        "coloured",
+        "coated"
+      ],
+      "ipa": "/ˈpeɪntɪd/"
+    },
+    "white": {
+      "lemma": "white",
+      "pos": "adjective",
+      "ko": "하얀; (명사) 흰색",
+      "form": null,
+      "synonyms": [
+        "pale",
+        "snowy"
+      ],
+      "ipa": "/waɪt/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": null,
+      "synonyms": [
+        "top"
+      ],
+      "ipa": "/hɛd/"
+    },
+    "foot": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": null,
+      "synonyms": [
+        "feet"
+      ],
+      "ipa": "/fʊt/"
+    },
+    "joined": {
+      "lemma": "join",
+      "pos": "verb",
+      "ko": "(무리에) 끼었다, 합류했다",
+      "form": "과거형",
+      "synonyms": [
+        "entered",
+        "went into"
+      ],
+      "ipa": "/dʒɔɪnd/"
+    },
+    "flock": {
+      "lemma": "flock",
+      "pos": "noun",
+      "ko": "(새·양의) 무리, 떼",
+      "form": null,
+      "synonyms": [
+        "group",
+        "flight"
+      ],
+      "ipa": "/flɑːk/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(so long as) ~하는 동안은",
+      "form": null,
+      "synonyms": [
+        "while"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "silent": {
+      "lemma": "silent",
+      "pos": "adjective",
+      "ko": "조용한, 말이 없는",
+      "form": null,
+      "synonyms": [
+        "quiet",
+        "still"
+      ],
+      "ipa": "/ˈsaɪlənt/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~ 않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "suspected": {
+      "lemma": "suspect",
+      "pos": "verb",
+      "ko": "눈치챘다, 의심했다",
+      "form": "과거형",
+      "synonyms": [
+        "guessed",
+        "doubted"
+      ],
+      "ipa": "/səˈspɛktɪd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것; (so ~ that) 그래서",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "pigeon": {
+      "lemma": "pigeon",
+      "pos": "noun",
+      "ko": "비둘기",
+      "form": null,
+      "synonyms": [
+        "dove"
+      ],
+      "ipa": "/ˈpɪdʒən/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~ 같은, ~처럼",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pronoun",
+      "ko": "그들 자신",
+      "form": null,
+      "ipa": "/ðɛmˈsɛlvz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나; ~하지 않고",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "unwise": {
+      "lemma": "unwise",
+      "pos": "adjective",
+      "ko": "어리석은, 현명하지 못한",
+      "form": null,
+      "synonyms": [
+        "foolish",
+        "silly"
+      ],
+      "ipa": "/ənˈwaɪz/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adverb",
+      "ko": "(~할 만큼) 충분히",
+      "form": null,
+      "ipa": "/ɪˈnʌf/"
+    },
+    "start": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": null,
+      "synonyms": [
+        "begin"
+      ],
+      "ipa": "/stɑːrt/"
+    },
+    "chattering": {
+      "lemma": "chatter",
+      "pos": "verb",
+      "ko": "재잘거리다, 지껄이다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "babbling",
+        "talking"
+      ],
+      "ipa": "/ˈtʃætərɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at once) 곧바로",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(at once) 즉시, 곧바로",
+      "form": null,
+      "ipa": "/wʌns/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "(see through) ~을 꿰뚫어",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "pecked": {
+      "lemma": "peck",
+      "pos": "verb",
+      "ko": "(부리로) 쪼았다",
+      "form": "과거형",
+      "synonyms": [
+        "struck",
+        "jabbed"
+      ],
+      "ipa": "/pɛkt/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "unmercifully": {
+      "lemma": "unmercifully",
+      "pos": "adverb",
+      "ko": "사정없이, 무자비하게",
+      "form": null,
+      "synonyms": [
+        "cruelly",
+        "harshly"
+      ],
+      "ipa": "/ʌnˈmɜrsɪfəli/"
+    },
+    "glad": {
+      "lemma": "glad",
+      "pos": "adjective",
+      "ko": "다행으로 여기는, 기쁜",
+      "form": null,
+      "synonyms": [
+        "happy",
+        "relieved"
+      ],
+      "ipa": "/ɡlæd/"
+    },
+    "escape": {
+      "lemma": "escape",
+      "pos": "verb",
+      "ko": "도망치다, 달아나다",
+      "form": null,
+      "synonyms": [
+        "flee",
+        "get away"
+      ],
+      "ipa": "/ɪˈskeɪp/"
+    },
+    "join": {
+      "lemma": "join",
+      "pos": "verb",
+      "ko": "(무리에) 돌아가 합류하다",
+      "form": null,
+      "synonyms": [
+        "rejoin",
+        "go back to"
+      ],
+      "ipa": "/dʒɔɪn/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "ipa": "/oʊn/"
+    },
+    "kind": {
+      "lemma": "kind",
+      "pos": "noun",
+      "ko": "동족, 같은 종류",
+      "form": null,
+      "synonyms": [
+        "species",
+        "fellows"
+      ],
+      "ipa": "/kaɪnd/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "ipa": "/əˈɡɛn/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "jackdaws": {
+      "lemma": "jackdaw",
+      "pos": "noun",
+      "ko": "갈까마귀",
+      "form": "복수형",
+      "ipa": "/ˈdʒækˌdɔz/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "recognise": {
+      "lemma": "recognise",
+      "pos": "verb",
+      "ko": "알아보다 (영국식 철자)",
+      "form": null,
+      "synonyms": [
+        "know",
+        "identify"
+      ],
+      "ipa": "/ˈrɛkəɡˌnaɪz/"
+    },
+    "dress": {
+      "lemma": "dress",
+      "pos": "noun",
+      "ko": "옷차림, 겉모습",
+      "form": null,
+      "synonyms": [
+        "clothing",
+        "outfit"
+      ],
+      "ipa": "/drɛs/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "(would not) 도무지 ~하려 하지 않았다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 해 주다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "feed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "먹이를 먹다",
+      "form": null,
+      "synonyms": [
+        "eat"
+      ],
+      "ipa": "/fiːd/"
+    },
+    "drove": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "(drive away) 쫓아냈다",
+      "form": "과거형",
+      "synonyms": [
+        "chased",
+        "forced"
+      ],
+      "ipa": "/droʊv/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떠나서",
+      "form": null,
+      "ipa": "/əˈweɪ/"
+    },
+    "became": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~이 되었다",
+      "form": "과거형",
+      "synonyms": [
+        "turned into"
+      ],
+      "ipa": "/bɪˈkeɪm/"
+    },
+    "homeless": {
+      "lemma": "homeless",
+      "pos": "adjective",
+      "ko": "집 없는, 정처 없는",
+      "form": null,
+      "synonyms": [
+        "wandering",
+        "houseless"
+      ],
+      "ipa": "/ˈhoʊmləs/"
+    },
+    "wanderer": {
+      "lemma": "wanderer",
+      "pos": "noun",
+      "ko": "떠돌이, 방랑자",
+      "form": null,
+      "synonyms": [
+        "drifter",
+        "rover"
+      ],
+      "ipa": "/ˈwɑːndərər/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~의 대가로, ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "pains": {
+      "lemma": "pain",
+      "pos": "noun",
+      "ko": "(for one's pains) 애쓴 대가로",
+      "form": "복수형",
+      "synonyms": [
+        "efforts",
+        "trouble"
+      ],
+      "ipa": "/peɪnz/"
+    }
+  }
+}

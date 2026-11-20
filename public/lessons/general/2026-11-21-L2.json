@@ -1,0 +1,1266 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-21-L2",
+  "date": "2026-11-21",
+  "level": 2,
+  "title": "Brother and Sister",
+  "titleKo": "오빠와 누이",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_04_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_04_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-8-fables-176-200",
+    "reader": "Mike Phillips",
+    "durationSec": 78,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 08, 04번 트랙(전체 179번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 170,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "어떤 남자에게 아들과 딸, 두 아이가 있었다. 딸이 못생긴 만큼이나 아들은 잘생겼다. 어느 날 두 아이는 어머니의 방에서 함께 놀다가 우연히 거울을 발견했고, 난생처음으로 자기들의 얼굴 생김새를 보았다. 아들은 자기가 얼마나 잘생긴 녀석인지 보고는 누이에게 자기 외모를 자랑하기 시작했다. 딸은 딸대로 자기가 못생겼다는 것을 알게 되자 속이 상해 울음이 터질 것 같았고, 오빠의 말을 자기에 대한 모욕으로 받아들였다. 딸은 아버지에게 달려가서 오빠가 잘난 척한다고 이르고, 오빠가 어머니의 물건에 손을 댔다고 일러바쳤다. 아버지는 웃으며 두 아이에게 입을 맞추고 말했다. \"얘들아, 이제부터는 거울을 잘 쓰는 법을 배우려무나. 아들아, 너는 거울이 보여 주는 네 잘생긴 모습만큼 착한 사람이 되도록 힘쓰고, 딸아, 너는 생김새가 평범한 대신 다정한 성품으로 그것을 채우겠다고 마음먹으렴.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A certain man had two children, a boy and a girl: and the boy was as good-looking as the girl was plain.",
+      "ko": "어떤 남자에게 아들과 딸, 두 아이가 있었다. 딸이 못생긴 만큼이나 아들은 잘생겼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "One day, as they were playing together in their mother's chamber, they chanced upon a mirror and saw their own features for the first time.",
+      "ko": "어느 날 두 아이는 어머니의 방에서 함께 놀다가 우연히 거울을 발견했고, 난생처음으로 자기들의 얼굴 생김새를 보았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The boy saw what a handsome fellow he was, and began to boast to his Sister about his good looks: she, on her part, was ready to cry with vexation when she was aware of her plainness, and took his remarks as an insult to herself.",
+      "ko": "아들은 자기가 얼마나 잘생긴 녀석인지 보고는 누이에게 자기 외모를 자랑하기 시작했다. 딸은 딸대로 자기가 못생겼다는 것을 알게 되자 속이 상해 울음이 터질 것 같았고, 오빠의 말을 자기에 대한 모욕으로 받아들였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Running to her father, she told him of her Brother's conceit, and accused him of meddling with his mother's things.",
+      "ko": "딸은 아버지에게 달려가서 오빠가 잘난 척한다고 이르고, 오빠가 어머니의 물건에 손을 댔다고 일러바쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "He laughed and kissed them both, and said, \"My children, learn from now onwards to make a good use of the glass.",
+      "ko": "아버지는 웃으며 두 아이에게 입을 맞추고 말했다. \"얘들아, 이제부터는 거울을 잘 쓰는 법을 배우려무나.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "You, my boy, strive to be as good as it shows you to be handsome; and you, my girl, resolve to make up for the plainness of your features by the sweetness of your disposition.\"",
+      "ko": "아들아, 너는 거울이 보여 주는 네 잘생긴 모습만큼 착한 사람이 되도록 힘쓰고, 딸아, 너는 생김새가 평범한 대신 다정한 성품으로 그것을 채우겠다고 마음먹으렴.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "chance upon",
+      "pos": "phrasal-verb",
+      "meaningKo": "우연히 발견하다, 우연히 마주치다",
+      "ipa": "/tʃæns əˈpɑn/",
+      "synonyms": [
+        "come across",
+        "stumble upon",
+        "find by chance"
+      ],
+      "matchText": "chanced upon",
+      "sentenceId": "s2",
+      "example": {
+        "en": "I chanced upon an old photo in the drawer.",
+        "ko": "나는 서랍에서 우연히 오래된 사진을 발견했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "boast",
+      "pos": "verb",
+      "meaningKo": "자랑하다, 뽐내다",
+      "ipa": "/boʊst/",
+      "synonyms": [
+        "brag",
+        "show off",
+        "crow"
+      ],
+      "matchText": "boast",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He likes to boast about his new phone.",
+        "ko": "그는 새 휴대폰을 자랑하기를 좋아한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "vexation",
+      "pos": "noun",
+      "meaningKo": "속상함, 짜증",
+      "ipa": "/vɛkˈseɪʃən/",
+      "synonyms": [
+        "annoyance",
+        "irritation",
+        "frustration"
+      ],
+      "matchText": "vexation",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She bit her lip in vexation.",
+        "ko": "그녀는 속이 상해 입술을 깨물었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "conceit",
+      "pos": "noun",
+      "meaningKo": "자만, 잘난 척",
+      "ipa": "/kənˈsit/",
+      "synonyms": [
+        "vanity",
+        "pride",
+        "arrogance"
+      ],
+      "matchText": "conceit",
+      "sentenceId": "s4",
+      "example": {
+        "en": "His conceit made him unpopular.",
+        "ko": "그의 잘난 척 때문에 그는 인기가 없었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "make up for",
+      "pos": "phrasal-verb",
+      "meaningKo": "(부족한 것을) 메우다, 보상하다",
+      "ipa": "/meɪk ʌp fɔr/",
+      "synonyms": [
+        "compensate for",
+        "balance",
+        "offset"
+      ],
+      "matchText": "make up for",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Hard work can make up for a lack of talent.",
+        "ko": "노력은 재능의 부족을 메울 수 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A certain man",
+          "role": "S",
+          "sub": false,
+          "ko": "어떤 남자에게"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "two children,",
+          "role": "O",
+          "sub": false,
+          "ko": "두 아이가"
+        },
+        {
+          "text": "a boy and a girl:",
+          "role": "M",
+          "sub": false,
+          "ko": "아들과 딸"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the boy",
+          "role": "S",
+          "sub": false,
+          "ko": "아들은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "as good-looking",
+          "role": "C",
+          "sub": false,
+          "ko": "그만큼 잘생긴"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~만큼"
+        },
+        {
+          "text": "the girl",
+          "role": "S",
+          "sub": true,
+          "ko": "딸이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였던"
+        },
+        {
+          "text": "plain.",
+          "role": "C",
+          "sub": true,
+          "ko": "못생긴"
+        }
+      ],
+      "skeleton": "A certain man had two children; the boy was as good-looking as the girl was plain",
+      "explanation": "as A as B 비교 구문인데, 뒤의 as절에 다른 형용사(plain)가 들어 있어요. '딸이 못생긴 정도만큼 아들은 잘생겼다', 즉 두 아이의 외모가 정반대라는 뜻이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "You, my boy,",
+          "role": "S",
+          "sub": false,
+          "ko": "아들아, 너는"
+        },
+        {
+          "text": "strive",
+          "role": "V",
+          "sub": false,
+          "ko": "힘써라"
+        },
+        {
+          "text": "to be as good",
+          "role": "M",
+          "sub": false,
+          "ko": "그만큼 착해지도록"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~만큼"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "거울이"
+        },
+        {
+          "text": "shows",
+          "role": "V",
+          "sub": true,
+          "ko": "보여 주는"
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "sub": true,
+          "ko": "너를"
+        },
+        {
+          "text": "to be handsome;",
+          "role": "OC",
+          "sub": true,
+          "ko": "잘생긴 모습으로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "you, my girl,",
+          "role": "S",
+          "sub": false,
+          "ko": "딸아, 너는"
+        },
+        {
+          "text": "resolve",
+          "role": "V",
+          "sub": false,
+          "ko": "마음먹어라"
+        },
+        {
+          "text": "to make up for the plainness of your features",
+          "role": "O",
+          "sub": false,
+          "ko": "생김새의 평범함을 메우기로"
+        },
+        {
+          "text": "by the sweetness of your disposition.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "다정한 성품으로"
+        }
+      ],
+      "skeleton": "You strive to be ~; you resolve to make up for ~",
+      "explanation": "명령문이지만 듣는 사람을 부르기 위해 주어 You를 넣었어요. show + 목적어 + to be ~ 는 '목적어가 ~인 모습을 보여 주다', make up for A by B 는 'B로 A를 메우다'라는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "as + 형용사 + as: ~만큼 …한",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "as good-looking as the girl was plain"
+      ],
+      "explanation": "as ~ as 사이에 형용사를 넣어 두 대상을 비교해요. 여기서는 두 번째 as 뒤에 '절(the girl was plain)'이 와서 서로 반대되는 두 성질의 정도가 같다고 말해요.",
+      "example": {
+        "en": "He is as tall as his father.",
+        "ko": "그는 아버지만큼 키가 크다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "분사구문: Running to her father, ~",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "Running to her father"
+      ],
+      "explanation": "Running to her father 는 When she ran to her father 를 줄인 분사구문이에요. 주어가 뒤의 주절과 같은 she라서 생략됐어요.",
+      "example": {
+        "en": "Opening the door, I saw a cat.",
+        "ko": "문을 열자 나는 고양이 한 마리를 보았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "what + a + 형용사 + 명사 + 주어 + 동사 (간접 감탄문)",
+      "tags": [
+        "명사절",
+        "어순"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "what a handsome fellow he was"
+      ],
+      "explanation": "what a handsome fellow he was 는 saw의 목적어가 되는 명사절이에요. '자기가 얼마나 잘생긴 녀석인지'라는 뜻으로, 주어-동사 순서(he was)가 그대로예요.",
+      "example": {
+        "en": "I know what a kind person she is.",
+        "ko": "나는 그녀가 얼마나 친절한 사람인지 안다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "certain": {
+      "lemma": "certain",
+      "pos": "adjective",
+      "ko": "어떤",
+      "form": null,
+      "synonyms": [
+        "particular",
+        "some"
+      ],
+      "ipa": "/ˈsɜːrtən/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "ipa": "/mæn/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "owned"
+      ],
+      "ipa": "/hæd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두 명의",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "children": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이들",
+      "form": "복수형",
+      "synonyms": [
+        "kids"
+      ],
+      "ipa": "/ˈtʃɪldrən/"
+    },
+    "boy": {
+      "lemma": "boy",
+      "pos": "noun",
+      "ko": "소년, 아들",
+      "form": null,
+      "synonyms": [
+        "son",
+        "lad"
+      ],
+      "ipa": "/bɔɪ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "소녀, 딸",
+      "form": null,
+      "synonyms": [
+        "daughter",
+        "lass"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~만큼 (as ~ as); ~할 때, ~하는 동안",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "good-looking": {
+      "lemma": "good-looking",
+      "pos": "adjective",
+      "ko": "잘생긴",
+      "form": null,
+      "synonyms": [
+        "handsome",
+        "attractive"
+      ],
+      "ipa": "/ɡʊd-ˈlʊkɪŋ/"
+    },
+    "plain": {
+      "lemma": "plain",
+      "pos": "adjective",
+      "ko": "(외모가) 평범한, 못생긴",
+      "form": null,
+      "synonyms": [
+        "homely",
+        "unattractive"
+      ],
+      "ipa": "/pleɪn/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "(one day) 어느",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~하고 있었다 (진행형)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "playing": {
+      "lemma": "play",
+      "pos": "verb",
+      "ko": "놀다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "having fun"
+      ],
+      "ipa": "/ˈpleɪɪŋ/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "jointly"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "mother's": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니의",
+      "form": "소유격",
+      "synonyms": [
+        "mum's"
+      ],
+      "ipa": "/ˈmʌðərz/"
+    },
+    "chamber": {
+      "lemma": "chamber",
+      "pos": "noun",
+      "ko": "방 (옛말)",
+      "form": null,
+      "synonyms": [
+        "room",
+        "bedroom"
+      ],
+      "ipa": "/ˈtʃeɪmbər/"
+    },
+    "chanced": {
+      "lemma": "chance",
+      "pos": "verb",
+      "ko": "(chance upon) 우연히 발견했다",
+      "form": "과거형",
+      "synonyms": [
+        "happened",
+        "stumbled"
+      ],
+      "ipa": "/tʃænst/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "(chance upon) ~을 우연히",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "mirror": {
+      "lemma": "mirror",
+      "pos": "noun",
+      "ko": "거울",
+      "form": null,
+      "synonyms": [
+        "glass",
+        "looking-glass"
+      ],
+      "ipa": "/ˈmɪrər/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보았다",
+      "form": "과거형",
+      "synonyms": [
+        "noticed",
+        "viewed"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "ipa": "/oʊn/"
+    },
+    "features": {
+      "lemma": "feature",
+      "pos": "noun",
+      "ko": "얼굴 생김새, 이목구비",
+      "form": "복수형",
+      "synonyms": [
+        "face",
+        "looks"
+      ],
+      "ipa": "/ˈfiːtʃərz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "(for the first time) ~번째로",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의",
+      "form": null,
+      "ipa": "/fɜːrst/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "번, 때",
+      "form": null,
+      "ipa": "/taɪm/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "얼마나 ~한 (감탄)",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "handsome": {
+      "lemma": "handsome",
+      "pos": "adjective",
+      "ko": "잘생긴",
+      "form": null,
+      "synonyms": [
+        "good-looking",
+        "attractive"
+      ],
+      "ipa": "/ˈhænsəm/"
+    },
+    "fellow": {
+      "lemma": "fellow",
+      "pos": "noun",
+      "ko": "녀석, 사람",
+      "form": null,
+      "synonyms": [
+        "guy",
+        "chap"
+      ],
+      "ipa": "/ˈfɛloʊ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작했다",
+      "form": "과거형",
+      "synonyms": [
+        "started"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 (to부정사); ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "boast": {
+      "lemma": "boast",
+      "pos": "verb",
+      "ko": "자랑하다",
+      "form": null,
+      "synonyms": [
+        "brag",
+        "show off"
+      ],
+      "ipa": "/boʊst/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "sister": {
+      "lemma": "sister",
+      "pos": "noun",
+      "ko": "누이, 여동생",
+      "form": null,
+      "synonyms": [
+        "sibling"
+      ],
+      "ipa": "/ˈsɪstər/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은; 착한",
+      "form": null,
+      "synonyms": [
+        "fine",
+        "kind"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "looks": {
+      "lemma": "looks",
+      "pos": "noun",
+      "ko": "외모, 용모",
+      "form": null,
+      "synonyms": [
+        "appearance",
+        "beauty"
+      ],
+      "ipa": "/lʊks/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀, 그녀는",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on her part) 그녀 쪽에서는",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "determiner",
+      "ko": "그녀의; 그녀를",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "part": {
+      "lemma": "part",
+      "pos": "noun",
+      "ko": "(on one's part) ~로서는, ~ 쪽에서는",
+      "form": null,
+      "synonyms": [
+        "side"
+      ],
+      "ipa": "/pɑːrt/"
+    },
+    "ready": {
+      "lemma": "ready",
+      "pos": "adjective",
+      "ko": "(be ready to) 금방이라도 ~할 것 같은",
+      "form": null,
+      "synonyms": [
+        "about",
+        "likely"
+      ],
+      "ipa": "/ˈrɛdi/"
+    },
+    "cry": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "울다",
+      "form": null,
+      "synonyms": [
+        "weep",
+        "sob"
+      ],
+      "ipa": "/kraɪ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~ 때문에 (원인)",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "vexation": {
+      "lemma": "vexation",
+      "pos": "noun",
+      "ko": "속상함, 짜증",
+      "form": null,
+      "synonyms": [
+        "annoyance",
+        "irritation"
+      ],
+      "ipa": "/vɛkˈseɪʃən/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "aware": {
+      "lemma": "aware",
+      "pos": "adjective",
+      "ko": "(be aware of) ~을 알게 된",
+      "form": null,
+      "synonyms": [
+        "conscious",
+        "mindful"
+      ],
+      "ipa": "/əˈwɛr/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; ~을",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "plainness": {
+      "lemma": "plainness",
+      "pos": "noun",
+      "ko": "못생김, 평범한 외모",
+      "form": null,
+      "synonyms": [
+        "homeliness"
+      ],
+      "ipa": "/ˈpleɪnnəs/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take A as B) A를 B로 받아들였다",
+      "form": "과거형",
+      "synonyms": [
+        "regarded",
+        "saw"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "remarks": {
+      "lemma": "remark",
+      "pos": "noun",
+      "ko": "말, 발언",
+      "form": "복수형",
+      "synonyms": [
+        "comments",
+        "words"
+      ],
+      "ipa": "/rɪˈmɑːrks/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "insult": {
+      "lemma": "insult",
+      "pos": "noun",
+      "ko": "모욕",
+      "form": null,
+      "synonyms": [
+        "offence",
+        "slight"
+      ],
+      "ipa": "/ˌɪnˈsʌlt/"
+    },
+    "herself": {
+      "lemma": "herself",
+      "pos": "pronoun",
+      "ko": "그녀 자신",
+      "form": null,
+      "ipa": "/hərˈsɛlf/"
+    },
+    "running": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "달려가다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rushing",
+        "dashing"
+      ],
+      "ipa": "/ˈrʌnɪŋ/"
+    },
+    "father": {
+      "lemma": "father",
+      "pos": "noun",
+      "ko": "아버지",
+      "form": null,
+      "synonyms": [
+        "dad"
+      ],
+      "ipa": "/ˈfɑːðər/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "이르다, 말했다",
+      "form": "과거형",
+      "synonyms": [
+        "informed",
+        "reported"
+      ],
+      "ipa": "/toʊld/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "brother's": {
+      "lemma": "brother",
+      "pos": "noun",
+      "ko": "오빠의",
+      "form": "소유격",
+      "ipa": "/ˈbrʌðərz/"
+    },
+    "conceit": {
+      "lemma": "conceit",
+      "pos": "noun",
+      "ko": "자만, 잘난 척",
+      "form": null,
+      "synonyms": [
+        "vanity",
+        "pride"
+      ],
+      "ipa": "/kənˈsiːt/"
+    },
+    "accused": {
+      "lemma": "accuse",
+      "pos": "verb",
+      "ko": "(accuse A of B) A가 B했다고 탓했다",
+      "form": "과거형",
+      "synonyms": [
+        "blamed",
+        "charged"
+      ],
+      "ipa": "/əˈkjuːzd/"
+    },
+    "meddling": {
+      "lemma": "meddle",
+      "pos": "verb",
+      "ko": "(meddle with) ~을 함부로 만지다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "tampering",
+        "interfering"
+      ],
+      "ipa": "/ˈmɛdəlɪŋ/"
+    },
+    "things": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "물건",
+      "form": "복수형",
+      "synonyms": [
+        "belongings",
+        "stuff"
+      ],
+      "ipa": "/θɪŋz/"
+    },
+    "laughed": {
+      "lemma": "laugh",
+      "pos": "verb",
+      "ko": "웃었다",
+      "form": "과거형",
+      "synonyms": [
+        "chuckled",
+        "smiled"
+      ],
+      "ipa": "/læft/"
+    },
+    "kissed": {
+      "lemma": "kiss",
+      "pos": "verb",
+      "ko": "입 맞췄다",
+      "form": "과거형",
+      "ipa": "/kɪst/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "both": {
+      "lemma": "both",
+      "pos": "pronoun",
+      "ko": "둘 다",
+      "form": null,
+      "ipa": "/boʊθ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "learn": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "배우다",
+      "form": null,
+      "synonyms": [
+        "study"
+      ],
+      "ipa": "/lɜːrn/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "(from now onwards) 지금부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "onwards": {
+      "lemma": "onwards",
+      "pos": "adverb",
+      "ko": "(from now onwards) 앞으로 쭉",
+      "form": null,
+      "synonyms": [
+        "forward",
+        "on"
+      ],
+      "ipa": "/ˈɑːnwərdz/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make use of) ~을 쓰다; (make up for) 메우다",
+      "form": null,
+      "synonyms": [
+        "put"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "noun",
+      "ko": "사용, 쓰임",
+      "form": null,
+      "synonyms": [
+        "application"
+      ],
+      "ipa": "/juːs/"
+    },
+    "glass": {
+      "lemma": "glass",
+      "pos": "noun",
+      "ko": "거울 (옛 표현)",
+      "form": null,
+      "synonyms": [
+        "mirror"
+      ],
+      "ipa": "/ɡlæs/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "strive": {
+      "lemma": "strive",
+      "pos": "verb",
+      "ko": "힘쓰다, 노력하다",
+      "form": null,
+      "synonyms": [
+        "try",
+        "struggle"
+      ],
+      "ipa": "/straɪv/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다, ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (여기서는 거울)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "shows": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "displays",
+        "reveals"
+      ],
+      "ipa": "/ʃoʊz/"
+    },
+    "resolve": {
+      "lemma": "resolve",
+      "pos": "verb",
+      "ko": "결심하다, 마음먹다",
+      "form": null,
+      "synonyms": [
+        "decide",
+        "determine"
+      ],
+      "ipa": "/riˈzɑːlv/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(make up for) 메우다",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~으로 (수단)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "sweetness": {
+      "lemma": "sweetness",
+      "pos": "noun",
+      "ko": "다정함, 상냥함",
+      "form": null,
+      "synonyms": [
+        "kindness",
+        "gentleness"
+      ],
+      "ipa": "/ˈswiːtnəs/"
+    },
+    "disposition": {
+      "lemma": "disposition",
+      "pos": "noun",
+      "ko": "성품, 기질",
+      "form": null,
+      "synonyms": [
+        "nature",
+        "character"
+      ],
+      "ipa": "/ˌdɪspəˈzɪʃən/"
+    }
+  }
+}

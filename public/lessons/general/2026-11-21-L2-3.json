@@ -1,0 +1,1352 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-21-L2-3",
+  "date": "2026-11-21",
+  "level": 2,
+  "title": "The Sheep and the Dog",
+  "titleKo": "양들과 개",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_11_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_11_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-9-fables-201-225",
+    "reader": "Mariann Margitics",
+    "durationSec": 101,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 09, 11번 트랙(전체 211번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 159,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "옛날에 양들이 양치기에게, 자기들과 개를 대하는 방식이 다르다고 불평했다. \"주인님의 행동은 정말 이상하고, 우리 생각에는 아주 불공평해요.\" 양들이 말했다. \"우리는 주인님께 양털과 새끼 양과 젖을 드리는데, 주인님은 우리에게 풀밖에 주지 않으시고, 그마저도 우리가 직접 찾아 먹어야 해요. 그런데 개한테서는 아무것도 얻는 게 없으면서도, 주인님 식탁에서 맛있는 음식을 떼어 개에게 먹이시잖아요.\" 양들의 말을 엿들은 개가 곧바로 나서서 말했다. \"그래, 그 말도 옳지. 그런데 내가 없었다면 너희가 어떻게 되었겠니? 도둑들이 너희를 훔쳐 갈 거야! 늑대들이 너희를 잡아먹을 거야! 정말이지, 내가 쉬지 않고 너희를 지켜 주지 않으면 너희는 너무 겁이 나서 풀을 뜯지도 못할 거라고!\" 양들은 개의 말이 옳다는 것을 인정할 수밖에 없었고, 다시는 주인이 개를 아끼는 것에 대해 불평하지 않았다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Once upon a time the Sheep complained to the shepherd about the difference in his treatment of themselves and his Dog.",
+      "ko": "옛날에 양들이 양치기에게, 자기들과 개를 대하는 방식이 다르다고 불평했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "\"Your conduct,\" said they, \"is very strange and, we think, very unfair.",
+      "ko": "\"주인님의 행동은 정말 이상하고, 우리 생각에는 아주 불공평해요.\" 양들이 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "We provide you with wool and lambs and milk and you give us nothing but grass, and even that we have to find for ourselves: but you get nothing at all from the Dog, and yet you feed him with tit-bits from your own table.\"",
+      "ko": "\"우리는 주인님께 양털과 새끼 양과 젖을 드리는데, 주인님은 우리에게 풀밖에 주지 않으시고, 그마저도 우리가 직접 찾아 먹어야 해요. 그런데 개한테서는 아무것도 얻는 게 없으면서도, 주인님 식탁에서 맛있는 음식을 떼어 개에게 먹이시잖아요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Their remarks were overheard by the Dog, who spoke up at once and said, \"Yes, and quite right, too: where would you be if it wasn't for me?",
+      "ko": "양들의 말을 엿들은 개가 곧바로 나서서 말했다. \"그래, 그 말도 옳지. 그런데 내가 없었다면 너희가 어떻게 되었겠니?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Thieves would steal you!",
+      "ko": "도둑들이 너희를 훔쳐 갈 거야!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Wolves would eat you!",
+      "ko": "늑대들이 너희를 잡아먹을 거야!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "Indeed, if I didn't keep constant watch over you, you would be too terrified even to graze!\"",
+      "ko": "정말이지, 내가 쉬지 않고 너희를 지켜 주지 않으면 너희는 너무 겁이 나서 풀을 뜯지도 못할 거라고!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "The Sheep were obliged to acknowledge that he spoke the truth, and never again made a grievance of the regard in which he was held by his master.",
+      "ko": "양들은 개의 말이 옳다는 것을 인정할 수밖에 없었고, 다시는 주인이 개를 아끼는 것에 대해 불평하지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "complain",
+      "pos": "verb",
+      "meaningKo": "불평하다, 투덜대다",
+      "ipa": "/kəmˈpleɪn/",
+      "synonyms": [
+        "grumble",
+        "protest",
+        "object"
+      ],
+      "matchText": "complained",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He always complains about the food.",
+        "ko": "그는 항상 음식에 대해 불평한다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "unfair",
+      "pos": "adjective",
+      "meaningKo": "불공평한, 부당한",
+      "ipa": "/ʌnˈfɛr/",
+      "synonyms": [
+        "unjust",
+        "wrong",
+        "biased"
+      ],
+      "matchText": "unfair",
+      "sentenceId": "s2",
+      "example": {
+        "en": "It's unfair that only I have to clean the room.",
+        "ko": "나만 방을 청소해야 하는 건 불공평하다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "overhear",
+      "pos": "verb",
+      "meaningKo": "(우연히) 엿듣다",
+      "ipa": "/ˌoʊvərˈhɪr/",
+      "synonyms": [
+        "catch",
+        "eavesdrop",
+        "pick up"
+      ],
+      "matchText": "overheard",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I overheard them talking about the party.",
+        "ko": "나는 그들이 파티에 대해 이야기하는 것을 우연히 들었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "keep watch over",
+      "pos": "phrase",
+      "meaningKo": "~을 지키다, 망보다",
+      "ipa": "/kip wɑtʃ ˈoʊvər/",
+      "synonyms": [
+        "guard",
+        "protect",
+        "look after"
+      ],
+      "matchText": "keep constant watch over",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The soldiers kept watch over the gate all night.",
+        "ko": "병사들은 밤새 성문을 지켰다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "acknowledge",
+      "pos": "verb",
+      "meaningKo": "(사실임을) 인정하다",
+      "ipa": "/əkˈnɑlɪdʒ/",
+      "synonyms": [
+        "admit",
+        "accept",
+        "recognize"
+      ],
+      "matchText": "acknowledge",
+      "sentenceId": "s8",
+      "example": {
+        "en": "She acknowledged that she was wrong.",
+        "ko": "그녀는 자기가 틀렸다는 것을 인정했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "sub": false,
+          "ko": "우리는"
+        },
+        {
+          "text": "provide",
+          "role": "V",
+          "sub": false,
+          "ko": "드린다"
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "sub": false,
+          "ko": "당신께"
+        },
+        {
+          "text": "with wool and lambs and milk",
+          "role": "M",
+          "sub": false,
+          "ko": "양털과 새끼 양과 젖을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "당신은"
+        },
+        {
+          "text": "give",
+          "role": "V",
+          "sub": false,
+          "ko": "준다"
+        },
+        {
+          "text": "us",
+          "role": "IO",
+          "sub": false,
+          "ko": "우리에게"
+        },
+        {
+          "text": "nothing but grass,",
+          "role": "O",
+          "sub": false,
+          "ko": "풀밖에 (주지 않는다)"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "even that",
+          "role": "O",
+          "sub": false,
+          "ko": "그것조차"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "sub": false,
+          "ko": "우리가"
+        },
+        {
+          "text": "have to find",
+          "role": "V",
+          "sub": false,
+          "ko": "찾아야 한다"
+        },
+        {
+          "text": "for ourselves:",
+          "role": "M",
+          "sub": false,
+          "ko": "우리 스스로"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "당신은"
+        },
+        {
+          "text": "get",
+          "role": "V",
+          "sub": false,
+          "ko": "얻는다"
+        },
+        {
+          "text": "nothing at all",
+          "role": "O",
+          "sub": false,
+          "ko": "전혀 아무것도 (얻지 않는다)"
+        },
+        {
+          "text": "from the Dog,",
+          "role": "M",
+          "sub": false,
+          "ko": "개에게서"
+        },
+        {
+          "text": "and yet",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데도"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "당신은"
+        },
+        {
+          "text": "feed",
+          "role": "V",
+          "sub": false,
+          "ko": "먹인다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "with tit-bits from your own table.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "당신 식탁의 맛있는 음식을"
+        }
+      ],
+      "skeleton": "We provide you with ~ and you give us nothing but grass ~ but you get nothing ~ and yet you feed him",
+      "explanation": "provide A with B는 'A에게 B를 주다'예요. nothing but은 '~밖에 없다(only)', even that we have to find는 목적어 that을 앞으로 보낸 강조 어순이에요. 양들이 주는 것과 받는 것을 대비하며 따지고 있어요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Indeed,",
+          "role": "M",
+          "sub": false,
+          "ko": "정말이지"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "만약 ~라면"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": true,
+          "ko": "내가"
+        },
+        {
+          "text": "didn't keep",
+          "role": "V",
+          "sub": true,
+          "ko": "하지 않는다면"
+        },
+        {
+          "text": "constant watch",
+          "role": "O",
+          "sub": true,
+          "ko": "쉼 없는 감시를"
+        },
+        {
+          "text": "over you,",
+          "role": "M",
+          "sub": true,
+          "ko": "너희에 대해"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "너희는"
+        },
+        {
+          "text": "would be",
+          "role": "V",
+          "sub": false,
+          "ko": "~일 것이다"
+        },
+        {
+          "text": "too terrified",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 겁에 질린"
+        },
+        {
+          "text": "even to graze!\"",
+          "role": "M",
+          "sub": false,
+          "ko": "풀을 뜯을 수조차 없을 만큼"
+        }
+      ],
+      "skeleton": "you would be too terrified even to graze",
+      "explanation": "if + 과거형(didn't keep), 주어 + would + 동사원형은 지금 사실과 반대되는 상상을 말하는 가정법 과거예요. too ~ to … 는 '너무 ~해서 …할 수 없다'라는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "가정법 과거: if + 과거형, would + 동사원형",
+      "tags": [
+        "가정법"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "if I didn't keep",
+        "you would be"
+      ],
+      "explanation": "실제로는 개가 지켜 주고 있지만, '만약 지켜 주지 않는다면'이라고 현재 사실과 반대로 상상해요. s4의 where would you be if it wasn't for me? 도 같은 구조로 '내가 없다면 너희는 어떻게 되겠니?'라는 뜻이에요.",
+      "example": {
+        "en": "If I had wings, I would fly to you.",
+        "ko": "내가 날개가 있다면 너에게 날아갈 텐데."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "too + 형용사 + to부정사: 너무 ~해서 …할 수 없다",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "too terrified even to graze"
+      ],
+      "explanation": "too ~ to 는 부정의 뜻을 품고 있어요. too terrified to graze = 너무 겁이 나서 풀을 뜯을 수 없다. even이 들어가 '~조차'라는 느낌을 더해요.",
+      "example": {
+        "en": "The box is too heavy to lift.",
+        "ko": "그 상자는 너무 무거워서 들 수 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "수동태: be + 과거분사 + by",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "were overheard by the Dog"
+      ],
+      "explanation": "Their remarks were overheard by the Dog 는 The Dog overheard their remarks 를 수동태로 바꾼 문장이에요. s8의 he was held by his master 도 같은 수동태예요.",
+      "example": {
+        "en": "The window was broken by the wind.",
+        "ko": "창문이 바람에 깨졌다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(once upon a time) 옛날 옛적에",
+      "form": null,
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "(once upon a time) 옛날에",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때",
+      "form": null,
+      "ipa": "/taɪm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "sheep": {
+      "lemma": "sheep",
+      "pos": "noun",
+      "ko": "양 (단수·복수 같음)",
+      "form": "복수형",
+      "synonyms": [
+        "flock",
+        "lambs"
+      ],
+      "ipa": "/ʃiːp/"
+    },
+    "complained": {
+      "lemma": "complain",
+      "pos": "verb",
+      "ko": "불평했다",
+      "form": "과거형",
+      "synonyms": [
+        "grumbled",
+        "protested"
+      ],
+      "ipa": "/kəmˈpleɪnd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; ~하기 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "shepherd": {
+      "lemma": "shepherd",
+      "pos": "noun",
+      "ko": "양치기",
+      "form": null,
+      "synonyms": [
+        "herdsman",
+        "keeper"
+      ],
+      "ipa": "/ˈʃɛpərd/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "difference": {
+      "lemma": "difference",
+      "pos": "noun",
+      "ko": "차이, 다른 점",
+      "form": null,
+      "synonyms": [
+        "gap",
+        "contrast"
+      ],
+      "ipa": "/ˈdɪfərəns/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "treatment": {
+      "lemma": "treatment",
+      "pos": "noun",
+      "ko": "대우, 대하는 방식",
+      "form": null,
+      "synonyms": [
+        "handling",
+        "care"
+      ],
+      "ipa": "/ˈtriːtmənt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~에 대한, ~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pronoun",
+      "ko": "그들 자신",
+      "form": null,
+      "ipa": "/ðɛmˈsɛlvz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "dog": {
+      "lemma": "dog",
+      "pos": "noun",
+      "ko": "개",
+      "form": null,
+      "synonyms": [
+        "hound"
+      ],
+      "ipa": "/dɔːɡ/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 너의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "conduct": {
+      "lemma": "conduct",
+      "pos": "noun",
+      "ko": "행동, 처신",
+      "form": null,
+      "synonyms": [
+        "behaviour",
+        "manner"
+      ],
+      "ipa": "/ˈkɑːndəkt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "strange": {
+      "lemma": "strange",
+      "pos": "adjective",
+      "ko": "이상한",
+      "form": null,
+      "synonyms": [
+        "odd",
+        "weird"
+      ],
+      "ipa": "/streɪndʒ/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": null,
+      "synonyms": [
+        "believe",
+        "feel"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "unfair": {
+      "lemma": "unfair",
+      "pos": "adjective",
+      "ko": "불공평한",
+      "form": null,
+      "synonyms": [
+        "unjust",
+        "wrong"
+      ],
+      "ipa": "/ənˈfɛr/"
+    },
+    "provide": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "(provide A with B) A에게 B를 주다",
+      "form": null,
+      "synonyms": [
+        "supply",
+        "give"
+      ],
+      "ipa": "/prəˈvaɪd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 (provide with); ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "wool": {
+      "lemma": "wool",
+      "pos": "noun",
+      "ko": "양털",
+      "form": null,
+      "synonyms": [
+        "fleece"
+      ],
+      "ipa": "/wʊl/"
+    },
+    "lambs": {
+      "lemma": "lamb",
+      "pos": "noun",
+      "ko": "새끼 양",
+      "form": "복수형",
+      "synonyms": [
+        "young sheep"
+      ],
+      "ipa": "/læmz/"
+    },
+    "milk": {
+      "lemma": "milk",
+      "pos": "noun",
+      "ko": "젖, 우유",
+      "form": null,
+      "ipa": "/mɪlk/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": null,
+      "synonyms": [
+        "hand",
+        "offer"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리에게",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 (~ 없음) (nothing but: ~밖에)",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그런데, 그러나; (nothing but) ~ 말고는",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "grass": {
+      "lemma": "grass",
+      "pos": "noun",
+      "ko": "풀",
+      "form": null,
+      "synonyms": [
+        "pasture",
+        "hay"
+      ],
+      "ipa": "/ɡræs/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~마저",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have to) ~해야 한다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "찾다",
+      "form": null,
+      "synonyms": [
+        "look for",
+        "seek"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "(for ourselves) 우리 스스로; ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "ourselves": {
+      "lemma": "ourselves",
+      "pos": "pronoun",
+      "ko": "우리 자신",
+      "form": null,
+      "ipa": "/aʊərˈsɛlvz/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다",
+      "form": null,
+      "synonyms": [
+        "receive",
+        "obtain"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(nothing at all) 전혀 아무것도",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "(at all) 전혀",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "adverb",
+      "ko": "(and yet) 그런데도",
+      "form": null,
+      "ipa": "/jɛt/"
+    },
+    "feed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "먹이다",
+      "form": null,
+      "synonyms": [
+        "nourish",
+        "give food"
+      ],
+      "ipa": "/fiːd/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "tit-bits": {
+      "lemma": "tit-bit",
+      "pos": "noun",
+      "ko": "맛있는 음식 조각",
+      "form": "복수형",
+      "synonyms": [
+        "treats",
+        "morsels"
+      ],
+      "ipa": "/tɪt-bɪts/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "ipa": "/oʊn/"
+    },
+    "table": {
+      "lemma": "table",
+      "pos": "noun",
+      "ko": "식탁",
+      "form": null,
+      "ipa": "/ˈteɪbəl/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "remarks": {
+      "lemma": "remark",
+      "pos": "noun",
+      "ko": "말, 발언",
+      "form": "복수형",
+      "synonyms": [
+        "comments",
+        "words"
+      ],
+      "ipa": "/rɪˈmɑːrks/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되었다, ~이었다 (수동태의 be)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "overheard": {
+      "lemma": "overhear",
+      "pos": "verb",
+      "ko": "엿들었다",
+      "form": "과거분사",
+      "synonyms": [
+        "heard",
+        "caught"
+      ],
+      "ipa": "/ˈoʊvərˈhɜːrd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "그리고 그는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "spoke": {
+      "lemma": "speak",
+      "pos": "verb",
+      "ko": "(speak up) 나서서 말했다",
+      "form": "과거형",
+      "synonyms": [
+        "said",
+        "talked"
+      ],
+      "ipa": "/spoʊk/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(speak up) 나서서, 큰 소리로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "yes": {
+      "lemma": "yes",
+      "pos": "interjection",
+      "ko": "그래, 응",
+      "form": null,
+      "ipa": "/jɛs/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "완전히, 정말",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adjective",
+      "ko": "옳은, 맞는",
+      "form": null,
+      "synonyms": [
+        "correct",
+        "true"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "~도 또한; 너무",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "어디에 (where would you be: 어떻게 되겠니)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~일 것이다 (가정)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(it wasn't for: ~이 없다면)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "wasn't": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 아니었다",
+      "form": "줄임말 (was not)",
+      "ipa": "/ˈwɑːzənt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "thieves": {
+      "lemma": "thief",
+      "pos": "noun",
+      "ko": "도둑",
+      "form": "복수형",
+      "synonyms": [
+        "robbers",
+        "burglars"
+      ],
+      "ipa": "/θiːvz/"
+    },
+    "steal": {
+      "lemma": "steal",
+      "pos": "verb",
+      "ko": "훔치다",
+      "form": null,
+      "synonyms": [
+        "take",
+        "rob"
+      ],
+      "ipa": "/stiːl/"
+    },
+    "wolves": {
+      "lemma": "wolf",
+      "pos": "noun",
+      "ko": "늑대",
+      "form": "복수형",
+      "ipa": "/wʊlvz/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다, 잡아먹다",
+      "form": null,
+      "synonyms": [
+        "devour",
+        "consume"
+      ],
+      "ipa": "/iːt/"
+    },
+    "indeed": {
+      "lemma": "indeed",
+      "pos": "adverb",
+      "ko": "정말이지, 참으로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "really"
+      ],
+      "ipa": "/ˌɪnˈdiːd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 내가",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "didn't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 않다",
+      "form": "줄임말 (did not)",
+      "ipa": "/ˈdɪdənt/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep watch over) ~을 지키다",
+      "form": null,
+      "synonyms": [
+        "maintain",
+        "hold"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "constant": {
+      "lemma": "constant",
+      "pos": "adjective",
+      "ko": "끊임없는",
+      "form": null,
+      "synonyms": [
+        "continual",
+        "nonstop"
+      ],
+      "ipa": "/ˈkɑːnstənt/"
+    },
+    "watch": {
+      "lemma": "watch",
+      "pos": "noun",
+      "ko": "감시, 지킴",
+      "form": null,
+      "synonyms": [
+        "guard",
+        "lookout"
+      ],
+      "ipa": "/wɑːtʃ/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~을 (지켜), ~ 위에",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "terrified": {
+      "lemma": "terrified",
+      "pos": "adjective",
+      "ko": "겁에 질린",
+      "form": null,
+      "synonyms": [
+        "frightened",
+        "scared"
+      ],
+      "ipa": "/ˈtɛrəˌfaɪd/"
+    },
+    "graze": {
+      "lemma": "graze",
+      "pos": "verb",
+      "ko": "풀을 뜯다",
+      "form": null,
+      "synonyms": [
+        "feed",
+        "browse"
+      ],
+      "ipa": "/ɡreɪz/"
+    },
+    "obliged": {
+      "lemma": "oblige",
+      "pos": "verb",
+      "ko": "(be obliged to) ~하지 않을 수 없다",
+      "form": "과거분사",
+      "synonyms": [
+        "forced",
+        "compelled"
+      ],
+      "ipa": "/əˈblaɪdʒd/"
+    },
+    "acknowledge": {
+      "lemma": "acknowledge",
+      "pos": "verb",
+      "ko": "인정하다",
+      "form": null,
+      "synonyms": [
+        "admit",
+        "accept"
+      ],
+      "ipa": "/ækˈnɑːlɪdʒ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는 (여기서는 개)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "truth": {
+      "lemma": "truth",
+      "pos": "noun",
+      "ko": "진실, 사실",
+      "form": null,
+      "synonyms": [
+        "fact",
+        "reality"
+      ],
+      "ipa": "/truːθ/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~ 않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "ipa": "/əˈɡɛn/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make a grievance of) ~을 불평거리로 삼았다",
+      "form": "과거형",
+      "synonyms": [
+        "turned",
+        "raised"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "grievance": {
+      "lemma": "grievance",
+      "pos": "noun",
+      "ko": "불만, 불평거리",
+      "form": null,
+      "synonyms": [
+        "complaint",
+        "grudge"
+      ],
+      "ipa": "/ˈɡriːvəns/"
+    },
+    "regard": {
+      "lemma": "regard",
+      "pos": "noun",
+      "ko": "존중, 아낌",
+      "form": null,
+      "synonyms": [
+        "respect",
+        "esteem"
+      ],
+      "ipa": "/rɪˈɡɑːrd/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되었다 (수동태의 be)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(be held in regard) 존중받다",
+      "form": "과거분사",
+      "synonyms": [
+        "kept",
+        "valued"
+      ],
+      "ipa": "/hɛld/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "owner",
+        "keeper"
+      ],
+      "ipa": "/ˈmæstər/"
+    }
+  }
+}
