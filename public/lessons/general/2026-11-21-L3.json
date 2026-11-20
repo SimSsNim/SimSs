@@ -1,0 +1,1753 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-21-L3",
+  "date": "2026-11-21",
+  "level": 3,
+  "title": "The Golden Goose",
+  "titleKo": "황금 거위",
+  "genre": "fairy-tale",
+  "tags": [
+    "Brothers Grimm",
+    "fairy tale",
+    "kindness",
+    "three brothers"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (The Golden Goose)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'The Golden Goose' 첫머리 (‘There was a man who had three sons…’부터 다섯째 단락 둘째 문장 ‘…and a drink of wine.’까지, 237단어). 맏아들이 숲에서 노인을 박대하고 다치는 장면과, 둘째 아들 앞에 노인이 다시 나타나 먹을 것을 청하는 데서 끊었다. gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2591, grimm10.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. 원문 'Dummling,' 뒤의 각주 표시 [*](각주: Simpleton, '얼간이')만 뺐다. 따옴표는 텍스트판 그대로 곧은 작은따옴표."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_50_goldengoose.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_50_goldengoose_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Sherry Crowther",
+    "durationSec": 611,
+    "startSec": 15,
+    "endSec": 105,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 50 'The Golden Goose' (전체 10:11). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:45 (추정)."
+  },
+  "wordCount": 237,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "옛날에 아들 셋을 둔 남자가 있었는데, 막내는 덤링(얼간이)이라고 불렸고 무슨 일이 있을 때마다 업신여김과 놀림과 비웃음을 받았다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "어느 날 맏아들이 숲에 나무를 베러 가려고 했는데, 그가 떠나기 전에 어머니는 배고프거나 목마르지 않도록 맛있고 달콤한 케이크 하나와 포도주 한 병을 싸 주었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3",
+        "s4"
+      ],
+      "ko": "그가 숲에 들어서자 머리가 희끗한 키 작은 노인을 만났는데, 노인은 그에게 인사를 건네며 말했다. '주머니에 있는 케이크 한 조각만 주고, 포도주도 한 모금 마시게 해 주게나. 내가 몹시 배고프고 목이 마르다네.' 하지만 영리한 아들은 '제 케이크와 포도주를 드리면 저는 먹을 게 하나도 없어요. 저리 가세요.'라고 대답하고는, 키 작은 노인을 그 자리에 세워 둔 채 가던 길을 갔다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "ko": "그런데 그가 나무를 베어 넘기기 시작하자 얼마 지나지 않아 도끼질을 헛디뎠고, 도끼가 그의 팔을 베는 바람에 그는 집에 돌아가 상처를 붕대로 감아야 했다. 그리고 이것은 바로 그 키 작은 백발 노인의 짓이었다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "이 일이 있은 뒤 둘째 아들이 숲으로 갔고, 어머니는 맏아들 때처럼 그에게도 케이크 하나와 포도주 한 병을 주었다. 키 작은 백발 노인은 이번에도 똑같이 그를 만나, 케이크 한 조각과 포도주 한 모금을 달라고 했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was a man who had three sons, the youngest of whom was called Dummling, and was despised, mocked, and sneered at on every occasion.",
+      "ko": "옛날에 아들 셋을 둔 남자가 있었는데, 막내는 덤링(얼간이)이라고 불렸고 무슨 일이 있을 때마다 업신여김과 놀림과 비웃음을 받았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "It happened that the eldest wanted to go into the forest to hew wood, and before he went his mother gave him a beautiful sweet cake and a bottle of wine in order that he might not suffer from hunger or thirst.",
+      "ko": "어느 날 맏아들이 숲에 나무를 베러 가려고 했는데, 그가 떠나기 전에 어머니는 배고프거나 목마르지 않도록 맛있고 달콤한 케이크 하나와 포도주 한 병을 싸 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "When he entered the forest he met a little grey-haired old man who bade him good day, and said: 'Do give me a piece of cake out of your pocket, and let me have a draught of your wine; I am so hungry and thirsty.'",
+      "ko": "그가 숲에 들어서자 머리가 희끗한 키 작은 노인을 만났는데, 노인은 그에게 인사를 건네며 말했다. '주머니에 있는 케이크 한 조각만 주고, 포도주도 한 모금 마시게 해 주게나. 내가 몹시 배고프고 목이 마르다네.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p3",
+      "en": "But the clever son answered: 'If I give you my cake and wine, I shall have none for myself; be off with you,' and he left the little man standing and went on.",
+      "ko": "하지만 영리한 아들은 '제 케이크와 포도주를 드리면 저는 먹을 게 하나도 없어요. 저리 가세요.'라고 대답하고는, 키 작은 노인을 그 자리에 세워 둔 채 가던 길을 갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "But when he began to hew down a tree, it was not long before he made a false stroke, and the axe cut him in the arm, so that he had to go home and have it bound up.",
+      "ko": "그런데 그가 나무를 베어 넘기기 시작하자 얼마 지나지 않아 도끼질을 헛디뎠고, 도끼가 그의 팔을 베는 바람에 그는 집에 돌아가 상처를 붕대로 감아야 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "And this was the little grey man's doing.",
+      "ko": "그리고 이것은 바로 그 키 작은 백발 노인의 짓이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "After this the second son went into the forest, and his mother gave him, like the eldest, a cake and a bottle of wine.",
+      "ko": "이 일이 있은 뒤 둘째 아들이 숲으로 갔고, 어머니는 맏아들 때처럼 그에게도 케이크 하나와 포도주 한 병을 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "The little old grey man met him likewise, and asked him for a piece of cake and a drink of wine.",
+      "ko": "키 작은 백발 노인은 이번에도 똑같이 그를 만나, 케이크 한 조각과 포도주 한 모금을 달라고 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "despise",
+      "pos": "verb",
+      "meaningKo": "업신여기다, 경멸하다",
+      "ipa": "/dɪˈspaɪz/",
+      "synonyms": [
+        "scorn",
+        "look down on",
+        "disdain"
+      ],
+      "matchText": "despised",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He despised people who lied to their friends.",
+        "ko": "그는 친구에게 거짓말하는 사람들을 경멸했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "sneer at",
+      "pos": "phrasal-verb",
+      "meaningKo": "~을 비웃다, 냉소하다",
+      "ipa": "/ˈsnɪr æt/",
+      "synonyms": [
+        "scoff at",
+        "jeer at",
+        "mock"
+      ],
+      "matchText": "sneered at",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The other players sneered at his old shoes.",
+        "ko": "다른 선수들은 그의 낡은 신발을 비웃었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in order that",
+      "pos": "phrase",
+      "meaningKo": "~하도록, ~하기 위하여",
+      "ipa": "/ɪn ˈɔrdər ðæt/",
+      "synonyms": [
+        "so that",
+        "so as to"
+      ],
+      "matchText": "in order that",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She spoke slowly in order that everyone might understand.",
+        "ko": "그녀는 모두가 이해할 수 있도록 천천히 말했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "suffer from",
+      "pos": "phrasal-verb",
+      "meaningKo": "~로 고통받다, ~을 겪다",
+      "ipa": "/ˈsʌfər frʌm/",
+      "synonyms": [
+        "endure",
+        "be troubled by"
+      ],
+      "matchText": "suffer from",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Many people suffer from headaches when they don't sleep well.",
+        "ko": "많은 사람이 잠을 잘 못 자면 두통에 시달린다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "likewise",
+      "pos": "adverb",
+      "meaningKo": "똑같이, 마찬가지로",
+      "ipa": "/ˈlaɪkˌwaɪz/",
+      "synonyms": [
+        "similarly",
+        "in the same way",
+        "also"
+      ],
+      "matchText": "likewise",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Mina stood up, and her brother did likewise.",
+        "ko": "미나가 일어서자 그녀의 남동생도 똑같이 했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "There",
+          "role": "M",
+          "sub": false,
+          "ko": "(~이 있었다)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "a man",
+          "role": "S",
+          "sub": false,
+          "ko": "한 남자가"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 남자는)"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": true,
+          "ko": "두었다"
+        },
+        {
+          "text": "three sons,",
+          "role": "O",
+          "sub": true,
+          "ko": "아들 셋을"
+        },
+        {
+          "text": "the youngest",
+          "role": "S",
+          "sub": true,
+          "ko": "(그중) 막내는"
+        },
+        {
+          "text": "of whom",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 아들들 중)"
+        },
+        {
+          "text": "was called",
+          "role": "V",
+          "sub": true,
+          "ko": "불렸다"
+        },
+        {
+          "text": "Dummling,",
+          "role": "C",
+          "sub": true,
+          "ko": "덤링이라고"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "was despised, mocked, and sneered at",
+          "role": "V",
+          "sub": true,
+          "ko": "업신여김·놀림·비웃음을 받았다"
+        },
+        {
+          "text": "on every occasion.",
+          "role": "M",
+          "sub": true,
+          "ko": "매번"
+        }
+      ],
+      "skeleton": "There was a man. (There + V + S)",
+      "explanation": "뼈대는 There was a man(한 남자가 있었다)이다. who had three sons가 man을 꾸미고, 쉼표 뒤 the youngest of whom …은 sons를 덧붙여 설명하는 관계절이다(of whom = of the sons). 그 막내를 주어로 was called / was despised, mocked, and sneered at 이라는 수동태 동사 두 덩어리가 and로 이어진다. sneer at처럼 전치사가 붙은 동사는 수동태가 되어도 at이 뒤에 그대로 남는다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "happened",
+          "role": "V",
+          "sub": false,
+          "ko": "~하게 되었다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 일이"
+        },
+        {
+          "text": "the eldest",
+          "role": "S",
+          "sub": true,
+          "ko": "맏아들이"
+        },
+        {
+          "text": "wanted",
+          "role": "V",
+          "sub": true,
+          "ko": "원했다"
+        },
+        {
+          "text": "to go into the forest",
+          "role": "O",
+          "sub": true,
+          "ko": "숲에 들어가기를"
+        },
+        {
+          "text": "to hew wood,",
+          "role": "M",
+          "sub": true,
+          "ko": "나무를 베러"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "before",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하기 전에"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": true,
+          "ko": "떠나다"
+        },
+        {
+          "text": "his mother",
+          "role": "S",
+          "sub": false,
+          "ko": "그의 어머니는"
+        },
+        {
+          "text": "gave",
+          "role": "V",
+          "sub": false,
+          "ko": "주었다"
+        },
+        {
+          "text": "him",
+          "role": "IO",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "a beautiful sweet cake and a bottle of wine",
+          "role": "O",
+          "sub": false,
+          "ko": "맛있고 달콤한 케이크와 포도주 한 병을"
+        },
+        {
+          "text": "in order that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하도록"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "might not suffer",
+          "role": "V",
+          "sub": true,
+          "ko": "고생하지 않도록"
+        },
+        {
+          "text": "from hunger or thirst.",
+          "role": "M",
+          "sub": true,
+          "ko": "배고픔이나 목마름으로"
+        }
+      ],
+      "skeleton": "It happened that …, and his mother gave him a cake and a bottle of wine. (S + V, and S + V + IO + O)",
+      "explanation": "두 개의 절이 and로 이어진다. 앞 절 It happened that …은 가주어 It이 뒤의 that절을 대신하는 구조로 '~하는 일이 생겼다, 마침 ~했다'는 뜻이다. 뒤 절은 gave him(그에게) + a cake and a bottle of wine(~을)의 4형식 문장이다. before he went는 시간, in order that he might not …은 목적(~하지 않도록)을 나타내는 부사절이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "began",
+          "role": "V",
+          "sub": true,
+          "ko": "시작했다"
+        },
+        {
+          "text": "to hew down a tree,",
+          "role": "O",
+          "sub": true,
+          "ko": "나무를 베어 넘기기를"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "was not",
+          "role": "V",
+          "sub": false,
+          "ko": "~이 아니었다"
+        },
+        {
+          "text": "long",
+          "role": "C",
+          "sub": false,
+          "ko": "오래"
+        },
+        {
+          "text": "before",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하기까지"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "made",
+          "role": "V",
+          "sub": true,
+          "ko": "했다"
+        },
+        {
+          "text": "a false stroke,",
+          "role": "O",
+          "sub": true,
+          "ko": "헛도끼질을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the axe",
+          "role": "S",
+          "sub": false,
+          "ko": "도끼가"
+        },
+        {
+          "text": "cut",
+          "role": "V",
+          "sub": false,
+          "ko": "베었다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그를"
+        },
+        {
+          "text": "in the arm,",
+          "role": "M",
+          "sub": false,
+          "ko": "팔을"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "had to go",
+          "role": "V",
+          "sub": true,
+          "ko": "가야 했다"
+        },
+        {
+          "text": "home",
+          "role": "M",
+          "sub": true,
+          "ko": "집에"
+        },
+        {
+          "text": "and have",
+          "role": "V",
+          "sub": true,
+          "ko": "그리고 ~하게 해야 했다"
+        },
+        {
+          "text": "it",
+          "role": "O",
+          "sub": true,
+          "ko": "그것(상처)을"
+        },
+        {
+          "text": "bound up.",
+          "role": "OC",
+          "sub": true,
+          "ko": "붕대로 감기게"
+        }
+      ],
+      "skeleton": "It was not long before he made a false stroke, and the axe cut him. (S + V + C, and S + V + O)",
+      "explanation": "It was not long before …는 '~하기까지 오래 걸리지 않았다', 즉 '곧 ~했다'는 관용 표현이다. 이어서 the axe cut him in the arm(도끼가 그의 팔을 베었다)처럼 'cut + 사람 + in the + 신체 부위' 순서로 다친 곳을 말한다. so that 이하는 결과(그래서 ~해야 했다)이고, have it bound up은 'have + 목적어 + 과거분사'로 '그것이 붕대로 감기게 하다'라는 뜻이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "전치사 + 관계대명사 of whom",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "the youngest of whom was called Dummling"
+      ],
+      "explanation": "of whom = of the sons(그 아들들 중에서). 앞의 three sons를 받아 '그중 막내는 덤링이라고 불렸다'라고 덧붙여 설명한다. 사람을 받는 관계대명사가 전치사 뒤에 오면 who가 아니라 whom을 쓴다. 'some/most/the youngest + of whom'은 '그들 중 일부/대부분/막내'라는 뜻으로 자주 쓰인다.",
+      "example": {
+        "en": "She has two brothers, both of whom are doctors.",
+        "ko": "그녀에게는 오빠가 둘 있는데, 둘 다 의사다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "It was not long before ~ (오래지 않아 ~했다)",
+      "tags": [
+        "부사절",
+        "기타"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "it was not long before he made a false stroke"
+      ],
+      "explanation": "It was not long before + 주어 + 동사는 직역하면 '~하기 전까지 오래 걸리지 않았다'이고, 자연스럽게는 '곧, 머지않아 ~했다'는 뜻이다. It은 시간을 나타내는 비인칭 주어이다. 현재·미래로는 It won't be long before ~(머지않아 ~할 것이다)처럼 쓴다.",
+      "example": {
+        "en": "It was not long before the rain stopped.",
+        "ko": "오래지 않아 비가 그쳤다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "have + 목적어 + 과거분사 (~이 …되게 하다)",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "have it bound up"
+      ],
+      "explanation": "have it bound up에서 it(다친 팔)은 스스로 감는 것이 아니라 '감기는' 대상이므로 과거분사 bound(bind의 과거분사)를 쓴다. 'have + 목적어 + 과거분사'는 '(남을 시켜) 목적어가 ~되게 하다'라는 뜻으로, have my hair cut(머리를 자르다), have my car fixed(차를 고치다)처럼 쓴다.",
+      "example": {
+        "en": "I had my bike repaired yesterday.",
+        "ko": "나는 어제 자전거를 수리 맡겼다."
+      },
+      "note": "bind – bound – bound (묶다, 감다)"
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(There + be) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다; (수동태) ~되었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed",
+        "lived"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow",
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다; (had to) ~해야 했다; (have it bound) ~하게 하다",
+      "form": "과거형",
+      "synonyms": [
+        "owned",
+        "possessed"
+      ],
+      "ipa": "/hæd/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 세",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "sons": {
+      "lemma": "son",
+      "pos": "noun",
+      "ko": "아들",
+      "form": "복수형",
+      "synonyms": [
+        "boys",
+        "offspring"
+      ],
+      "ipa": "/sʌnz/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "youngest": {
+      "lemma": "young",
+      "pos": "adjective",
+      "ko": "가장 어린 (막내)",
+      "form": "최상급",
+      "synonyms": [
+        "littlest"
+      ],
+      "ipa": "/ˈjʌŋɡəst/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중에서",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "whom": {
+      "lemma": "whom",
+      "pos": "pronoun",
+      "ko": "(관계대명사, 전치사 뒤) 그 사람(들)",
+      "form": null,
+      "ipa": "/huːm/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "~라고 부르다",
+      "form": "과거분사",
+      "synonyms": [
+        "named",
+        "known as"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "dummling": {
+      "lemma": "Dummling",
+      "pos": "proper-noun",
+      "ko": "덤링 (막내아들의 별명, '얼간이'라는 뜻)",
+      "form": null,
+      "ipa": null
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "despised": {
+      "lemma": "despise",
+      "pos": "verb",
+      "ko": "업신여기다, 경멸하다",
+      "form": "과거분사",
+      "synonyms": [
+        "scorned",
+        "looked down on"
+      ],
+      "ipa": "/dɪˈspaɪzd/"
+    },
+    "mocked": {
+      "lemma": "mock",
+      "pos": "verb",
+      "ko": "놀리다, 조롱하다",
+      "form": "과거분사",
+      "synonyms": [
+        "ridiculed",
+        "teased"
+      ],
+      "ipa": "/mɑːkt/"
+    },
+    "sneered": {
+      "lemma": "sneer",
+      "pos": "verb",
+      "ko": "(at) 비웃다, 냉소하다",
+      "form": "과거분사",
+      "synonyms": [
+        "scoffed",
+        "jeered"
+      ],
+      "ipa": "/snɪrd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(sneer at) ~을; ~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on every occasion) ~ 때에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "occasion": {
+      "lemma": "occasion",
+      "pos": "noun",
+      "ko": "때, 경우",
+      "form": null,
+      "synonyms": [
+        "time",
+        "instance"
+      ],
+      "ipa": "/əˈkeɪʒən/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(It happened that) 가주어; 그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "happened": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "(It happened that) 마침 ~하게 되었다, 일어나다",
+      "form": "과거형",
+      "synonyms": [
+        "chanced",
+        "occurred"
+      ],
+      "ipa": "/ˈhæpənd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(명사절) ~라는 것; (so that) 그래서",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "eldest": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "가장 나이 많은 (맏이)",
+      "form": "최상급",
+      "synonyms": [
+        "oldest",
+        "firstborn"
+      ],
+      "ipa": "/ˈɛldəst/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다, ~하고 싶어 하다",
+      "form": "과거형",
+      "synonyms": [
+        "wished",
+        "desired"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로; (to부정사) ~하러, ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "head",
+        "travel"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "forest": {
+      "lemma": "forest",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "woods",
+        "woodland"
+      ],
+      "ipa": "/ˈfɔːrəst/"
+    },
+    "hew": {
+      "lemma": "hew",
+      "pos": "verb",
+      "ko": "(도끼로) 베다, 찍다",
+      "form": null,
+      "synonyms": [
+        "chop",
+        "cut"
+      ],
+      "ipa": "/hjuː/"
+    },
+    "wood": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "나무, 땔감",
+      "form": null,
+      "synonyms": [
+        "timber",
+        "firewood"
+      ],
+      "ipa": "/wʊd/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다; (went on) 계속 갔다",
+      "form": "과거형",
+      "synonyms": [
+        "left",
+        "headed"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니",
+      "form": null,
+      "synonyms": [
+        "mom",
+        "parent"
+      ],
+      "ipa": "/ˈmʌðər/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주었다",
+      "form": "과거형",
+      "synonyms": [
+        "handed",
+        "offered"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아주 좋은, 훌륭한, 아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "fine"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "sweet": {
+      "lemma": "sweet",
+      "pos": "adjective",
+      "ko": "달콤한",
+      "form": null,
+      "synonyms": [
+        "sugary",
+        "tasty"
+      ],
+      "ipa": "/swiːt/"
+    },
+    "cake": {
+      "lemma": "cake",
+      "pos": "noun",
+      "ko": "케이크, 과자",
+      "form": null,
+      "synonyms": [
+        "pastry",
+        "bun"
+      ],
+      "ipa": "/keɪk/"
+    },
+    "bottle": {
+      "lemma": "bottle",
+      "pos": "noun",
+      "ko": "병",
+      "form": null,
+      "synonyms": [
+        "flask",
+        "jar"
+      ],
+      "ipa": "/ˈbɑːtəl/"
+    },
+    "wine": {
+      "lemma": "wine",
+      "pos": "noun",
+      "ko": "포도주",
+      "form": null,
+      "synonyms": [
+        "drink"
+      ],
+      "ipa": "/waɪn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in order that) ~하도록; ~ 안에; (in the arm) ~을",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "(in order that) ~하기 위해",
+      "form": null,
+      "synonyms": [
+        "purpose"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "might": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "(목적절에서) ~할 수 있도록, ~하도록",
+      "form": "과거형",
+      "ipa": "/maɪt/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다, 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "suffer": {
+      "lemma": "suffer",
+      "pos": "verb",
+      "ko": "(from) ~로 괴로워하다, 고통받다",
+      "form": null,
+      "synonyms": [
+        "endure",
+        "undergo"
+      ],
+      "ipa": "/ˈsʌfər/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "(suffer from) ~로",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "hunger": {
+      "lemma": "hunger",
+      "pos": "noun",
+      "ko": "배고픔, 굶주림",
+      "form": null,
+      "synonyms": [
+        "starvation",
+        "famine"
+      ],
+      "ipa": "/ˈhʌŋɡər/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "thirst": {
+      "lemma": "thirst",
+      "pos": "noun",
+      "ko": "목마름, 갈증",
+      "form": null,
+      "synonyms": [
+        "dryness"
+      ],
+      "ipa": "/θɜːrst/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하자",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "entered": {
+      "lemma": "enter",
+      "pos": "verb",
+      "ko": "들어가다",
+      "form": "과거형",
+      "synonyms": [
+        "went into",
+        "came into"
+      ],
+      "ipa": "/ˈɛntərd/"
+    },
+    "met": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "만났다",
+      "form": "과거형",
+      "synonyms": [
+        "encountered",
+        "came across"
+      ],
+      "ipa": "/mɛt/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은, 키 작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "grey-haired": {
+      "lemma": "grey-haired",
+      "pos": "adjective",
+      "ko": "머리가 희끗한, 백발의",
+      "form": null,
+      "synonyms": [
+        "white-haired",
+        "gray-haired"
+      ],
+      "ipa": "/ɡreɪ-hɛrd/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 나이 든",
+      "form": null,
+      "synonyms": [
+        "elderly",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "bade": {
+      "lemma": "bid",
+      "pos": "verb",
+      "ko": "(인사를) 하다, 건네다 (bid good day)",
+      "form": "과거형",
+      "synonyms": [
+        "wished",
+        "told"
+      ],
+      "ipa": "/beɪd/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은 (good day: 안녕하시오); 착한",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "pleasant"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루 (good day: 낮 인사)",
+      "form": null,
+      "synonyms": [
+        "daytime"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(명령문 강조) 제발, 꼭",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": null,
+      "synonyms": [
+        "hand",
+        "offer"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각",
+      "form": null,
+      "synonyms": [
+        "slice",
+        "bit"
+      ],
+      "ipa": "/piːs/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~에서, ~ 밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "pocket": {
+      "lemma": "pocket",
+      "pos": "noun",
+      "ko": "주머니",
+      "form": null,
+      "synonyms": [
+        "pouch",
+        "bag"
+      ],
+      "ipa": "/ˈpɑːkət/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 해 주다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "갖다, 먹다/마시다; (have it bound up) ~하게 하다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "take"
+      ],
+      "ipa": "/hæv/"
+    },
+    "draught": {
+      "lemma": "draught",
+      "pos": "noun",
+      "ko": "(술·물의) 한 모금 (영국식 철자, 미국식 draft)",
+      "form": null,
+      "synonyms": [
+        "sip",
+        "gulp",
+        "swallow"
+      ],
+      "ipa": "/dræft/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "1인칭 현재형",
+      "ipa": "/æm/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 몹시; (so that) 그래서",
+      "form": null,
+      "synonyms": [
+        "very",
+        "really"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "hungry": {
+      "lemma": "hungry",
+      "pos": "adjective",
+      "ko": "배고픈",
+      "form": null,
+      "synonyms": [
+        "starving",
+        "famished"
+      ],
+      "ipa": "/ˈhʌŋɡri/"
+    },
+    "thirsty": {
+      "lemma": "thirsty",
+      "pos": "adjective",
+      "ko": "목마른",
+      "form": null,
+      "synonyms": [
+        "parched",
+        "dry"
+      ],
+      "ipa": "/ˈθɜːrsti/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만, 그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "clever": {
+      "lemma": "clever",
+      "pos": "adjective",
+      "ko": "영리한, 약삭빠른",
+      "form": null,
+      "synonyms": [
+        "smart",
+        "shrewd"
+      ],
+      "ipa": "/ˈklɛvər/"
+    },
+    "son": {
+      "lemma": "son",
+      "pos": "noun",
+      "ko": "아들",
+      "form": null,
+      "synonyms": [
+        "boy",
+        "child"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "answered": {
+      "lemma": "answer",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "replied",
+        "responded"
+      ],
+      "ipa": "/ˈænsərd/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "(1인칭 미래) ~일 것이다",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "none": {
+      "lemma": "none",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 않다, 하나도 없음",
+      "form": null,
+      "ipa": "/nʌn/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해; (ask for) ~을",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "myself": {
+      "lemma": "myself",
+      "pos": "pronoun",
+      "ko": "나 자신",
+      "form": null,
+      "ipa": "/ˌmaɪˈsɛlf/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(be off) 가 버려라 (명령문)",
+      "form": null,
+      "synonyms": [
+        "get"
+      ],
+      "ipa": "/biː/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(be off) 떠나서, 저리로",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "(be off with you) 썩 꺼져라 (관용 표현)",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "(그대로) 두고 가다, 남겨 두다",
+      "form": "과거형",
+      "synonyms": [
+        "abandoned",
+        "deserted"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "standing": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있는 (leave + 목적어 + -ing: ~한 채로 두다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "waiting"
+      ],
+      "ipa": "/ˈstændɪŋ/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작했다",
+      "form": "과거형",
+      "synonyms": [
+        "started"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "(hew down) 아래로, 쓰러뜨려",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": null,
+      "synonyms": [
+        "trunk",
+        "oak"
+      ],
+      "ipa": "/triː/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "(It was not long before) 오래지 않아",
+      "form": null,
+      "synonyms": [
+        "lengthy"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "하다, 만들다 (make a stroke: 한 번 휘두르다)",
+      "form": "과거형",
+      "synonyms": [
+        "took",
+        "did"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "false": {
+      "lemma": "false",
+      "pos": "adjective",
+      "ko": "잘못된, 빗나간",
+      "form": null,
+      "synonyms": [
+        "wrong",
+        "mistaken"
+      ],
+      "ipa": "/fɔːls/"
+    },
+    "stroke": {
+      "lemma": "stroke",
+      "pos": "noun",
+      "ko": "(도끼 등을) 한 번 휘두름, 일격",
+      "form": null,
+      "synonyms": [
+        "blow",
+        "swing"
+      ],
+      "ipa": "/stroʊk/"
+    },
+    "axe": {
+      "lemma": "axe",
+      "pos": "noun",
+      "ko": "도끼 (미국식 ax)",
+      "form": null,
+      "synonyms": [
+        "hatchet"
+      ],
+      "ipa": "/æks/"
+    },
+    "cut": {
+      "lemma": "cut",
+      "pos": "verb",
+      "ko": "베다, 자르다",
+      "form": "과거형",
+      "synonyms": [
+        "slashed",
+        "wounded"
+      ],
+      "ipa": "/kʌt/"
+    },
+    "arm": {
+      "lemma": "arm",
+      "pos": "noun",
+      "ko": "팔",
+      "form": null,
+      "synonyms": [
+        "limb"
+      ],
+      "ipa": "/ɑːrm/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "bound": {
+      "lemma": "bind",
+      "pos": "verb",
+      "ko": "(bind up) 붕대로 감다, 묶다",
+      "form": "과거분사",
+      "synonyms": [
+        "bandaged",
+        "wrapped",
+        "tied"
+      ],
+      "ipa": "/baʊnd/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(bind up) 꽁꽁, 완전히",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 일",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "grey": {
+      "lemma": "grey",
+      "pos": "adjective",
+      "ko": "백발의, 회색의 (미국식 gray)",
+      "form": null,
+      "synonyms": [
+        "gray",
+        "silver-haired"
+      ],
+      "ipa": "/ɡreɪ/"
+    },
+    "man's": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자의",
+      "form": "소유격",
+      "synonyms": [
+        "fellow's"
+      ],
+      "ipa": "/mænz/"
+    },
+    "doing": {
+      "lemma": "doing",
+      "pos": "noun",
+      "ko": "(someone's doing) ~의 짓, ~가 한 일",
+      "form": null,
+      "synonyms": [
+        "work",
+        "act"
+      ],
+      "ipa": "/ˈduːɪŋ/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의, 둘째",
+      "form": null,
+      "synonyms": [
+        "next"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼, ~와 마찬가지로",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "likewise": {
+      "lemma": "likewise",
+      "pos": "adverb",
+      "ko": "똑같이, 마찬가지로",
+      "form": null,
+      "synonyms": [
+        "similarly",
+        "also",
+        "in the same way"
+      ],
+      "ipa": "/ˈlaɪˌkwaɪz/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "(ask for) 달라고 청하다",
+      "form": "과거형",
+      "synonyms": [
+        "requested",
+        "begged"
+      ],
+      "ipa": "/æskt/"
+    },
+    "drink": {
+      "lemma": "drink",
+      "pos": "noun",
+      "ko": "한 모금, 마실 것",
+      "form": null,
+      "synonyms": [
+        "sip",
+        "swallow"
+      ],
+      "ipa": "/drɪŋk/"
+    }
+  }
+}
