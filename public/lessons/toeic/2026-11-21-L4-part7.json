@@ -1,0 +1,2255 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-21-L4-part7",
+  "date": "2026-11-21",
+  "level": 4,
+  "title": "Orbitask 3.0 Software Review",
+  "titleKo": "신제품 프로젝트 관리 소프트웨어 사용 후기",
+  "genre": "review",
+  "tags": [
+    "TOEIC Part 7",
+    "후기",
+    "새 제품 출시"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 252,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "후기: 오비태스크 3.0 프로젝트 플래너"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "작성: 프리야 난다쿠마르, 켈우드 건축사무소 운영 관리자"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "평점: 별 5개 중 4개"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "코베인 소프트웨어가 지난달 오비태스크 3.0을 출시했을 때, 우리 회사는 거의 1년째 설계 프로젝트를 조율할 더 나은 방법을 찾고 있었다. 이전에 쓰던 도구는 믿을 만했지만 번거로워서, 많은 건축가들이 아예 업데이트를 하지 않게 되었다. 6주간 시험 사용해 본 결과, 오비태스크 3.0이 우리 팀의 그 문제를 대부분 해결했다고 말할 수 있다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "가장 눈에 띄는 개선점은 새로 디자인된 대시보드다. 이제 팀원들은 각자 자신에게 배정된 업무만 마감일과 동료들의 의견과 함께 보게 된다. 새 프로젝트를 설정하는 데 20분도 걸리지 않았는데, 예전 시스템에서는 거의 두 시간이 걸렸다. 모바일 앱도 똑같이 인상적인데, 직원들이 공사 현장에서 바로 사진을 올릴 수 있다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13",
+        "s14"
+      ],
+      "ko": "그렇긴 해도 이 소프트웨어에 결점이 없는 것은 아니다. 월간 스프레드시트를 대신해 주기를 바랐던 보고서 기능은 서식이 몇 개뿐이고, 그것들을 수정할 수도 없다. 회계 프로그램과의 연동도 불안정했다. 세 차례나 청구서가 넘어가지 않아 손으로 직접 입력해야 했다. 코베인 지원팀에 따르면 다음 업데이트에서 이를 고칠 계획이라고 한다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s15",
+        "s16"
+      ],
+      "ko": "전반적으로 오비태스크 3.0은 큰 진전이며, 여러 프로젝트를 동시에 관리하는 중소 규모 회사라면 어디든 추천하고 싶다. 하지만 보고서 요구 사항이 복잡한 대규모 조직이라면 이런 문제들이 완전히 해결될 때까지 기다리는 편이 나을 수 있다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Review: Orbitask 3.0 Project Planner",
+      "ko": "후기: 오비태스크 3.0 프로젝트 플래너",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Reviewed by Priya Nandakumar, Operations Manager, Kellwood Architects",
+      "ko": "작성: 프리야 난다쿠마르, 켈우드 건축사무소 운영 관리자",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Rating: 4 out of 5 stars",
+      "ko": "평점: 별 5개 중 4개",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "When Corvane Software released Orbitask 3.0 last month, my firm had been searching for a better way to coordinate our design projects for nearly a year.",
+      "ko": "코베인 소프트웨어가 지난달 오비태스크 3.0을 출시했을 때, 우리 회사는 거의 1년째 설계 프로젝트를 조율할 더 나은 방법을 찾고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "Our previous tool was reliable but cumbersome, and many of our architects had stopped updating it altogether.",
+      "ko": "이전에 쓰던 도구는 믿을 만했지만 번거로워서, 많은 건축가들이 아예 업데이트를 하지 않게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "After a six-week trial, I can say that Orbitask 3.0 has largely solved that problem for our team.",
+      "ko": "6주간 시험 사용해 본 결과, 오비태스크 3.0이 우리 팀의 그 문제를 대부분 해결했다고 말할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "The most notable improvement is the redesigned dashboard.",
+      "ko": "가장 눈에 띄는 개선점은 새로 디자인된 대시보드다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "Each team member now sees only the tasks assigned to them, along with deadlines and any comments from colleagues.",
+      "ko": "이제 팀원들은 각자 자신에게 배정된 업무만 마감일과 동료들의 의견과 함께 보게 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Setting up a new project took me less than twenty minutes, compared with nearly two hours in our old system.",
+      "ko": "새 프로젝트를 설정하는 데 20분도 걸리지 않았는데, 예전 시스템에서는 거의 두 시간이 걸렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "The mobile app is equally impressive, allowing staff to upload photos directly from construction sites.",
+      "ko": "모바일 앱도 똑같이 인상적인데, 직원들이 공사 현장에서 바로 사진을 올릴 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "That said, the software is not without flaws.",
+      "ko": "그렇긴 해도 이 소프트웨어에 결점이 없는 것은 아니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "The reporting feature, which I had hoped would replace our monthly spreadsheets, offers only a handful of templates, and they cannot be customized.",
+      "ko": "월간 스프레드시트를 대신해 주기를 바랐던 보고서 기능은 서식이 몇 개뿐이고, 그것들을 수정할 수도 없다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "I also found the connection to our accounting program unreliable; on three occasions, invoices failed to transfer and had to be entered by hand.",
+      "ko": "회계 프로그램과의 연동도 불안정했다. 세 차례나 청구서가 넘어가지 않아 손으로 직접 입력해야 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p6",
+      "en": "According to Corvane's support team, a fix is planned for the next update.",
+      "ko": "코베인 지원팀에 따르면 다음 업데이트에서 이를 고칠 계획이라고 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p7",
+      "en": "Overall, Orbitask 3.0 is a significant step forward, and I would recommend it to any small or mid-sized firm that manages several projects at once.",
+      "ko": "전반적으로 오비태스크 3.0은 큰 진전이며, 여러 프로젝트를 동시에 관리하는 중소 규모 회사라면 어디든 추천하고 싶다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p7",
+      "en": "Larger organizations with complex reporting needs, however, may want to wait until those issues are fully resolved.",
+      "ko": "하지만 보고서 요구 사항이 복잡한 대규모 조직이라면 이런 문제들이 완전히 해결될 때까지 기다리는 편이 나을 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "cumbersome",
+      "pos": "adjective",
+      "meaningKo": "번거로운, 다루기 불편한",
+      "ipa": "/ˈkʌmbərsəm/",
+      "synonyms": [
+        "clumsy",
+        "awkward"
+      ],
+      "matchText": "cumbersome",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The old filing system was slow and cumbersome.",
+        "ko": "예전 문서 정리 방식은 느리고 번거로웠다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "altogether",
+      "pos": "adverb",
+      "meaningKo": "완전히, 아예",
+      "ipa": "/ˌɔːltəˈɡeðər/",
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "matchText": "altogether",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Many customers stopped using cash altogether.",
+        "ko": "많은 고객이 현금 사용을 아예 그만두었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "that said",
+      "pos": "phrase",
+      "meaningKo": "그렇긴 해도",
+      "ipa": "/ðæt sed/",
+      "synonyms": [
+        "having said that",
+        "even so"
+      ],
+      "matchText": "That said",
+      "sentenceId": "s11",
+      "example": {
+        "en": "The hotel is expensive. That said, the service is excellent.",
+        "ko": "그 호텔은 비싸다. 그렇긴 해도 서비스는 훌륭하다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "a handful of",
+      "pos": "phrase",
+      "meaningKo": "소수의, 몇 개의",
+      "ipa": "/ə ˈhændfʊl əv/",
+      "synonyms": [
+        "a few",
+        "a small number of"
+      ],
+      "matchText": "a handful of",
+      "sentenceId": "s12",
+      "example": {
+        "en": "Only a handful of people attended the meeting.",
+        "ko": "회의에는 몇 사람만 참석했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "step forward",
+      "pos": "noun",
+      "meaningKo": "진전, 발전",
+      "ipa": "/step ˈfɔːrwərd/",
+      "synonyms": [
+        "advance",
+        "improvement"
+      ],
+      "matchText": "step forward",
+      "sentenceId": "s15",
+      "example": {
+        "en": "The new law is an important step forward.",
+        "ko": "새 법은 중요한 진전이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "When",
+          "role": "CONJ",
+          "ko": "~했을 때",
+          "sub": true
+        },
+        {
+          "text": "Corvane Software",
+          "role": "S",
+          "ko": "코베인 소프트웨어가",
+          "sub": true
+        },
+        {
+          "text": "released",
+          "role": "V",
+          "ko": "출시했다",
+          "sub": true
+        },
+        {
+          "text": "Orbitask 3.0",
+          "role": "O",
+          "ko": "오비태스크 3.0을",
+          "sub": true
+        },
+        {
+          "text": "last month,",
+          "role": "M",
+          "ko": "지난달",
+          "sub": true
+        },
+        {
+          "text": "my firm",
+          "role": "S",
+          "ko": "우리 회사는"
+        },
+        {
+          "text": "had been searching for",
+          "role": "V",
+          "ko": "찾고 있었다"
+        },
+        {
+          "text": "a better way to coordinate our design projects",
+          "role": "O",
+          "ko": "설계 프로젝트를 조율할 더 나은 방법을"
+        },
+        {
+          "text": "for nearly a year.",
+          "role": "M",
+          "ko": "거의 1년 동안"
+        }
+      ],
+      "skeleton": "When + S' + V' + O', S + had been -ing + O + for 기간",
+      "explanation": "과거의 한 시점(출시) 이전부터 그때까지 계속된 일을 과거완료진행 had been searching으로 나타냈다. to coordinate는 way를 꾸미는 to부정사."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "The reporting feature,",
+          "role": "S",
+          "ko": "보고서 기능은"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그것이",
+          "sub": true
+        },
+        {
+          "text": "I had hoped",
+          "role": "M",
+          "ko": "내가 바랐던",
+          "sub": true
+        },
+        {
+          "text": "would replace our monthly spreadsheets,",
+          "role": "V",
+          "ko": "월간 스프레드시트를 대신할 거라고",
+          "sub": true
+        },
+        {
+          "text": "offers",
+          "role": "V",
+          "ko": "제공한다"
+        },
+        {
+          "text": "only a handful of templates,",
+          "role": "O",
+          "ko": "몇 개의 서식만"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그것들은"
+        },
+        {
+          "text": "cannot be customized.",
+          "role": "V",
+          "ko": "수정될 수 없다"
+        }
+      ],
+      "skeleton": "S, which (S' + hoped) + V'..., V + O, and S + V",
+      "explanation": "which 뒤에 I had hoped가 끼어든 삽입절 구조. 원래는 I had hoped (that) it would replace ~이고, it 자리가 which로 바뀌어 앞으로 갔다. 주절 동사는 offers."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거완료진행 (had been -ing)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "had been searching for",
+        "for nearly a year"
+      ],
+      "explanation": "과거의 어느 시점(지난달 출시)까지 그 전부터 계속되던 동작은 had been -ing로 쓴다. for nearly a year 같은 기간 표현이 함께 자주 나온다.",
+      "example": {
+        "en": "She had been working there for ten years when she retired.",
+        "ko": "그녀는 은퇴할 때 그곳에서 10년째 일하고 있었다."
+      },
+      "note": "과거 시점 + for 기간 → had been -ing / had p.p."
+    },
+    {
+      "id": "g2",
+      "title": "결과를 나타내는 분사구문",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "allowing staff to upload photos"
+      ],
+      "explanation": "콤마 뒤 allowing ~은 앞 절의 내용(앱이 인상적이다)이 가져오는 결과·부가 설명을 나타낸다. allow + 목적어 + to부정사 구조도 함께 기억하자.",
+      "example": {
+        "en": "The company cut prices, attracting many new customers.",
+        "ko": "그 회사는 가격을 내렸고, 그 결과 새 고객을 많이 끌어들였다."
+      },
+      "note": "콤마 뒤 -ing 빈칸 → 앞 절 주어가 하는 능동이면 현재분사."
+    },
+    {
+      "id": "g3",
+      "title": "관계대명사 + 삽입절",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s12",
+      "highlight": [
+        "which I had hoped would replace"
+      ],
+      "explanation": "which 바로 뒤에 I had hoped가 끼어 있지만 which는 would replace의 주어 역할을 한다. 삽입절(I think, I hoped 등)을 빼고 보면 which would replace가 된다. 이때 whom을 쓰지 않도록 주의한다.",
+      "example": {
+        "en": "The man who I believe is the owner just left.",
+        "ko": "내가 주인이라고 생각하는 그 남자가 방금 나갔다."
+      },
+      "note": "관계사 + (S think/believe/hope) + V → 주격 관계대명사."
+    }
+  ],
+  "glossary": {
+    "review": {
+      "lemma": "review",
+      "pos": "noun",
+      "ko": "후기, 평가",
+      "form": null,
+      "synonyms": [
+        "evaluation",
+        "critique"
+      ],
+      "ipa": "/ˌriːˈvjuː/"
+    },
+    "orbitask": {
+      "lemma": "Orbitask",
+      "pos": "proper-noun",
+      "ko": "오비태스크 (소프트웨어 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "project": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트",
+      "form": null,
+      "synonyms": [
+        "plan",
+        "undertaking"
+      ],
+      "ipa": "/ˈprɑːdʒɛkt/"
+    },
+    "planner": {
+      "lemma": "planner",
+      "pos": "noun",
+      "ko": "계획 도구, 플래너",
+      "form": null,
+      "synonyms": [
+        "scheduler",
+        "organizer"
+      ],
+      "ipa": "/ˈplænər/"
+    },
+    "reviewed": {
+      "lemma": "review",
+      "pos": "verb",
+      "ko": "평가하다, 후기를 쓰다",
+      "form": "과거분사",
+      "synonyms": [
+        "evaluate",
+        "assess"
+      ],
+      "ipa": "/riˈvjuːd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; (by hand) 손으로",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "priya": {
+      "lemma": "Priya",
+      "pos": "proper-noun",
+      "ko": "프리야 (사람 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "nandakumar": {
+      "lemma": "Nandakumar",
+      "pos": "proper-noun",
+      "ko": "난다쿠마르 (성)",
+      "form": null,
+      "ipa": null
+    },
+    "operations": {
+      "lemma": "operation",
+      "pos": "noun",
+      "ko": "운영",
+      "form": "복수형",
+      "synonyms": [
+        "management",
+        "administration"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənz/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "kellwood": {
+      "lemma": "Kellwood",
+      "pos": "proper-noun",
+      "ko": "켈우드 (회사 이름)",
+      "form": null,
+      "ipa": "/ˈkɛlˌwʊd/"
+    },
+    "architects": {
+      "lemma": "architect",
+      "pos": "noun",
+      "ko": "건축가 (회사 이름에서 건축사무소)",
+      "form": "복수형",
+      "synonyms": [
+        "designer"
+      ],
+      "ipa": "/ˈɑːrkəˌtɛkts/"
+    },
+    "rating": {
+      "lemma": "rating",
+      "pos": "noun",
+      "ko": "평점",
+      "form": null,
+      "synonyms": [
+        "score",
+        "grade"
+      ],
+      "ipa": "/ˈreɪtɪŋ/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~ 중에서",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; ~ 중에서",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "stars": {
+      "lemma": "star",
+      "pos": "noun",
+      "ko": "별 (평점 단위)",
+      "form": "복수형",
+      "synonyms": [
+        "point"
+      ],
+      "ipa": "/stɑːrz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~했을 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "corvane": {
+      "lemma": "Corvane",
+      "pos": "proper-noun",
+      "ko": "코베인 (회사 이름)",
+      "form": null,
+      "ipa": "/ˈkɔːrveɪn/"
+    },
+    "software": {
+      "lemma": "software",
+      "pos": "noun",
+      "ko": "소프트웨어",
+      "form": null,
+      "synonyms": [
+        "program",
+        "application"
+      ],
+      "ipa": "/ˈsɔːfˌtwɛr/"
+    },
+    "released": {
+      "lemma": "release",
+      "pos": "verb",
+      "ko": "출시하다",
+      "form": "과거형",
+      "synonyms": [
+        "launch",
+        "introduce"
+      ],
+      "ipa": "/riˈliːst/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "past"
+      ],
+      "ipa": "/læst/"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 월",
+      "form": null,
+      "ipa": "/mʌnθ/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "firm": {
+      "lemma": "firm",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "company",
+        "business"
+      ],
+      "ipa": "/fɜːrm/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(완료진행) ~하고 있었다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "searching": {
+      "lemma": "search",
+      "pos": "verb",
+      "ko": "찾다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "look for",
+        "seek"
+      ],
+      "ipa": "/ˈsɜːrtʃɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 (찾다); ~ 동안; ~에게",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "better": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "더 나은",
+      "form": "비교급",
+      "synonyms": [
+        "improved",
+        "superior"
+      ],
+      "ipa": "/ˈbɛtər/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방법",
+      "form": null,
+      "synonyms": [
+        "method",
+        "means"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~할; ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "coordinate": {
+      "lemma": "coordinate",
+      "pos": "verb",
+      "ko": "조율하다",
+      "form": null,
+      "synonyms": [
+        "organize",
+        "manage"
+      ],
+      "ipa": "/koʊˈɔːrdənət/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "design": {
+      "lemma": "design",
+      "pos": "noun",
+      "ko": "설계, 디자인",
+      "form": null,
+      "synonyms": [
+        "planning",
+        "architecture"
+      ],
+      "ipa": "/dɪˈzaɪn/"
+    },
+    "projects": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트",
+      "form": "복수형",
+      "synonyms": [
+        "plan",
+        "undertaking"
+      ],
+      "ipa": "/ˈprɑːdʒɛkts/"
+    },
+    "nearly": {
+      "lemma": "nearly",
+      "pos": "adverb",
+      "ko": "거의",
+      "form": null,
+      "synonyms": [
+        "almost",
+        "close to"
+      ],
+      "ipa": "/ˈnɪrli/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "form": null,
+      "synonyms": [
+        "twelve months"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "previous": {
+      "lemma": "previous",
+      "pos": "adjective",
+      "ko": "이전의",
+      "form": null,
+      "synonyms": [
+        "former",
+        "prior"
+      ],
+      "ipa": "/ˈpriːviəs/"
+    },
+    "tool": {
+      "lemma": "tool",
+      "pos": "noun",
+      "ko": "도구",
+      "form": null,
+      "synonyms": [
+        "program",
+        "instrument"
+      ],
+      "ipa": "/tuːl/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "reliable": {
+      "lemma": "reliable",
+      "pos": "adjective",
+      "ko": "믿을 만한",
+      "form": null,
+      "synonyms": [
+        "dependable",
+        "stable"
+      ],
+      "ipa": "/rɪˈlaɪəbəl/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "cumbersome": {
+      "lemma": "cumbersome",
+      "pos": "adjective",
+      "ko": "번거로운",
+      "form": null,
+      "synonyms": [
+        "clumsy",
+        "awkward"
+      ],
+      "ipa": "/ˈkʌmbərsəm/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "pronoun",
+      "ko": "많은 사람들",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "그만두다",
+      "form": "과거분사",
+      "synonyms": [
+        "quit",
+        "cease"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "updating": {
+      "lemma": "update",
+      "pos": "verb",
+      "ko": "업데이트하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "refresh",
+        "revise"
+      ],
+      "ipa": "/əpˈdeɪtɪŋ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "altogether": {
+      "lemma": "altogether",
+      "pos": "adverb",
+      "ko": "완전히, 아예",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/ˌɔːltəˈɡɛðər/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "six-week": {
+      "lemma": "six-week",
+      "pos": "adjective",
+      "ko": "6주간의",
+      "form": null,
+      "synonyms": [
+        "six-week-long"
+      ],
+      "ipa": "/sɪks-wiːk/"
+    },
+    "trial": {
+      "lemma": "trial",
+      "pos": "noun",
+      "ko": "시험 사용",
+      "form": null,
+      "synonyms": [
+        "test",
+        "tryout"
+      ],
+      "ipa": "/ˈtraɪəl/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "state",
+        "claim"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것; (that said) 그렇긴 해도",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "largely": {
+      "lemma": "largely",
+      "pos": "adverb",
+      "ko": "대부분, 주로",
+      "form": null,
+      "synonyms": [
+        "mostly",
+        "mainly"
+      ],
+      "ipa": "/ˈlɑːrdʒli/"
+    },
+    "solved": {
+      "lemma": "solve",
+      "pos": "verb",
+      "ko": "해결하다",
+      "form": "과거분사",
+      "synonyms": [
+        "resolve",
+        "fix"
+      ],
+      "ipa": "/sɑːlvd/"
+    },
+    "problem": {
+      "lemma": "problem",
+      "pos": "noun",
+      "ko": "문제",
+      "form": null,
+      "synonyms": [
+        "issue",
+        "difficulty"
+      ],
+      "ipa": "/ˈprɑːbləm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "notable": {
+      "lemma": "notable",
+      "pos": "adjective",
+      "ko": "눈에 띄는, 주목할 만한",
+      "form": null,
+      "synonyms": [
+        "significant",
+        "remarkable"
+      ],
+      "ipa": "/ˈnoʊtəbəl/"
+    },
+    "improvement": {
+      "lemma": "improvement",
+      "pos": "noun",
+      "ko": "개선(점)",
+      "form": null,
+      "synonyms": [
+        "enhancement",
+        "upgrade"
+      ],
+      "ipa": "/ˌɪmˈpruːvmənt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "redesigned": {
+      "lemma": "redesign",
+      "pos": "verb",
+      "ko": "다시 디자인하다",
+      "form": "과거분사",
+      "synonyms": [
+        "remodeled",
+        "revamped"
+      ],
+      "ipa": "/ˌriːdɪˈzaɪnd/"
+    },
+    "dashboard": {
+      "lemma": "dashboard",
+      "pos": "noun",
+      "ko": "대시보드 (정보 요약 화면)",
+      "form": null,
+      "synonyms": [
+        "control panel",
+        "overview screen"
+      ],
+      "ipa": "/ˈdæʃˌbɔːrd/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "unit"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "member": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "구성원",
+      "form": null,
+      "synonyms": [
+        "participant"
+      ],
+      "ipa": "/ˈmɛmbər/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "sees": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "view",
+        "look at"
+      ],
+      "ipa": "/siːz/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~만",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "tasks": {
+      "lemma": "task",
+      "pos": "noun",
+      "ko": "업무, 할 일",
+      "form": "복수형",
+      "synonyms": [
+        "assignment",
+        "job"
+      ],
+      "ipa": "/tæsks/"
+    },
+    "assigned": {
+      "lemma": "assign",
+      "pos": "verb",
+      "ko": "배정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "allocate",
+        "give"
+      ],
+      "ipa": "/əˈsaɪnd/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들(에게)",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "(along with) ~와 함께",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~을 가진",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "deadlines": {
+      "lemma": "deadline",
+      "pos": "noun",
+      "ko": "마감일",
+      "form": "복수형",
+      "synonyms": [
+        "due date",
+        "cutoff"
+      ],
+      "ipa": "/ˈdɛdˌlaɪnz/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "comments": {
+      "lemma": "comment",
+      "pos": "noun",
+      "ko": "의견, 댓글",
+      "form": "복수형",
+      "synonyms": [
+        "remark",
+        "note"
+      ],
+      "ipa": "/ˈkɑːmɛnts/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "colleagues": {
+      "lemma": "colleague",
+      "pos": "noun",
+      "ko": "동료",
+      "form": "복수형",
+      "synonyms": [
+        "coworker",
+        "associate"
+      ],
+      "ipa": "/ˈkɑːliɡz/"
+    },
+    "setting": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(set up) 설정하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "configure",
+        "establish"
+      ],
+      "ipa": "/ˈsɛtɪŋ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(set up) 설정하는",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "fresh",
+        "latest"
+      ],
+      "ipa": "/nuː/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간이) 걸리다",
+      "form": "과거형",
+      "synonyms": [
+        "require",
+        "need"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "less": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "(less than) ~보다 적은",
+      "form": "비교급",
+      "synonyms": [
+        "fewer"
+      ],
+      "ipa": "/lɛs/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "preposition",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "pos": "number",
+      "ko": "20",
+      "form": null,
+      "ipa": "/ˈtwɛnti/"
+    },
+    "minutes": {
+      "lemma": "minute",
+      "pos": "noun",
+      "ko": "분",
+      "form": "복수형",
+      "ipa": "/ˈmɪnəts/"
+    },
+    "compared": {
+      "lemma": "compare",
+      "pos": "verb",
+      "ko": "비교하다",
+      "form": "과거분사",
+      "synonyms": [
+        "contrast",
+        "measure against"
+      ],
+      "ipa": "/kəmˈpɛrd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "ipa": "/ˈaʊərz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "예전의",
+      "form": null,
+      "synonyms": [
+        "former",
+        "previous"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템",
+      "form": null,
+      "synonyms": [
+        "platform",
+        "program"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "mobile": {
+      "lemma": "mobile",
+      "pos": "adjective",
+      "ko": "모바일의",
+      "form": null,
+      "synonyms": [
+        "portable",
+        "handheld"
+      ],
+      "ipa": "/ˈmoʊbəl/"
+    },
+    "app": {
+      "lemma": "app",
+      "pos": "noun",
+      "ko": "앱, 애플리케이션",
+      "form": "줄임말",
+      "synonyms": [
+        "application",
+        "program"
+      ],
+      "ipa": "/æp/"
+    },
+    "equally": {
+      "lemma": "equally",
+      "pos": "adverb",
+      "ko": "똑같이",
+      "form": null,
+      "synonyms": [
+        "just as",
+        "similarly"
+      ],
+      "ipa": "/ˈiːkwəli/"
+    },
+    "impressive": {
+      "lemma": "impressive",
+      "pos": "adjective",
+      "ko": "인상적인",
+      "form": null,
+      "synonyms": [
+        "remarkable",
+        "striking"
+      ],
+      "ipa": "/ˌɪmˈprɛsɪv/"
+    },
+    "allowing": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "~하게 해 주다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "enable",
+        "permit"
+      ],
+      "ipa": "/əˈlaʊɪŋ/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "personnel"
+      ],
+      "ipa": "/stæf/"
+    },
+    "upload": {
+      "lemma": "upload",
+      "pos": "verb",
+      "ko": "(파일을) 올리다",
+      "form": null,
+      "synonyms": [
+        "post",
+        "transfer"
+      ],
+      "ipa": "/ˈʌˌploʊd/"
+    },
+    "photos": {
+      "lemma": "photo",
+      "pos": "noun",
+      "ko": "사진",
+      "form": "복수형",
+      "synonyms": [
+        "picture",
+        "image"
+      ],
+      "ipa": "/ˈfoʊˌtoʊz/"
+    },
+    "directly": {
+      "lemma": "directly",
+      "pos": "adverb",
+      "ko": "바로, 직접",
+      "form": null,
+      "synonyms": [
+        "straight",
+        "immediately"
+      ],
+      "ipa": "/dəˈrɛktli/"
+    },
+    "construction": {
+      "lemma": "construction",
+      "pos": "noun",
+      "ko": "공사, 건설",
+      "form": null,
+      "synonyms": [
+        "building",
+        "development"
+      ],
+      "ipa": "/kənˈstrʌkʃən/"
+    },
+    "sites": {
+      "lemma": "site",
+      "pos": "noun",
+      "ko": "현장",
+      "form": "복수형",
+      "synonyms": [
+        "location",
+        "area"
+      ],
+      "ipa": "/saɪts/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "(that said) 그렇긴 해도",
+      "form": "과거분사",
+      "synonyms": [
+        "having said that"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "flaws": {
+      "lemma": "flaw",
+      "pos": "noun",
+      "ko": "결점",
+      "form": "복수형",
+      "synonyms": [
+        "defect",
+        "weakness"
+      ],
+      "ipa": "/flɔːz/"
+    },
+    "reporting": {
+      "lemma": "reporting",
+      "pos": "noun",
+      "ko": "보고(서 작성)",
+      "form": null,
+      "synonyms": [
+        "report generation"
+      ],
+      "ipa": "/riˈpɔːrtɪŋ/"
+    },
+    "feature": {
+      "lemma": "feature",
+      "pos": "noun",
+      "ko": "기능",
+      "form": null,
+      "synonyms": [
+        "function",
+        "capability"
+      ],
+      "ipa": "/ˈfiːtʃər/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "hoped": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "바라다",
+      "form": "과거분사",
+      "synonyms": [
+        "wish",
+        "expect"
+      ],
+      "ipa": "/hoʊpt/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (과거 시점의 미래)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "replace": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "대신하다, 대체하다",
+      "form": null,
+      "synonyms": [
+        "substitute for",
+        "take the place of"
+      ],
+      "ipa": "/ˌriːˈpleɪs/"
+    },
+    "monthly": {
+      "lemma": "monthly",
+      "pos": "adjective",
+      "ko": "월간의, 매달의",
+      "form": null,
+      "synonyms": [
+        "month-by-month"
+      ],
+      "ipa": "/ˈmʌnθli/"
+    },
+    "spreadsheets": {
+      "lemma": "spreadsheet",
+      "pos": "noun",
+      "ko": "스프레드시트",
+      "form": "복수형",
+      "synonyms": [
+        "worksheet",
+        "table"
+      ],
+      "ipa": "/ˈsprɛdˌʃiːts/"
+    },
+    "offers": {
+      "lemma": "offer",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "provide",
+        "supply"
+      ],
+      "ipa": "/ˈɔːfərz/"
+    },
+    "handful": {
+      "lemma": "handful",
+      "pos": "noun",
+      "ko": "(a handful of) 소수, 몇 개",
+      "form": null,
+      "synonyms": [
+        "few",
+        "small number"
+      ],
+      "ipa": "/ˈhændˌfʊl/"
+    },
+    "templates": {
+      "lemma": "template",
+      "pos": "noun",
+      "ko": "서식, 양식",
+      "form": "복수형",
+      "synonyms": [
+        "format",
+        "layout"
+      ],
+      "ipa": "/ˈtɛmpləts/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "cannot": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "부정형",
+      "ipa": "/ˈkænɑt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "customized": {
+      "lemma": "customize",
+      "pos": "verb",
+      "ko": "맞춤 설정하다, 수정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "tailor",
+        "adapt"
+      ],
+      "ipa": "/ˈkʌstəˌmaɪzd/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "(~라고) 느끼다, 알게 되다",
+      "form": "과거형",
+      "synonyms": [
+        "consider",
+        "discover"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "connection": {
+      "lemma": "connection",
+      "pos": "noun",
+      "ko": "연결, 연동",
+      "form": null,
+      "synonyms": [
+        "link",
+        "integration"
+      ],
+      "ipa": "/kəˈnɛkʃən/"
+    },
+    "accounting": {
+      "lemma": "accounting",
+      "pos": "noun",
+      "ko": "회계",
+      "form": null,
+      "synonyms": [
+        "bookkeeping",
+        "finance"
+      ],
+      "ipa": "/əˈkaʊntɪŋ/"
+    },
+    "program": {
+      "lemma": "program",
+      "pos": "noun",
+      "ko": "프로그램",
+      "form": null,
+      "synonyms": [
+        "software",
+        "application"
+      ],
+      "ipa": "/ˈproʊˌɡræm/"
+    },
+    "unreliable": {
+      "lemma": "unreliable",
+      "pos": "adjective",
+      "ko": "불안정한, 믿을 수 없는",
+      "form": null,
+      "synonyms": [
+        "undependable",
+        "inconsistent"
+      ],
+      "ipa": "/ˌʌnrɪˈlaɪəbəl/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(경우) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "occasions": {
+      "lemma": "occasion",
+      "pos": "noun",
+      "ko": "경우, 때",
+      "form": "복수형",
+      "synonyms": [
+        "instance",
+        "time"
+      ],
+      "ipa": "/əˈkeɪʒənz/"
+    },
+    "invoices": {
+      "lemma": "invoice",
+      "pos": "noun",
+      "ko": "청구서, 송장",
+      "form": "복수형",
+      "synonyms": [
+        "bill",
+        "statement"
+      ],
+      "ipa": "/ˈɪnvɔɪsɪz/"
+    },
+    "failed": {
+      "lemma": "fail",
+      "pos": "verb",
+      "ko": "~하지 못하다",
+      "form": "과거형",
+      "synonyms": [
+        "be unable",
+        "not manage"
+      ],
+      "ipa": "/feɪld/"
+    },
+    "transfer": {
+      "lemma": "transfer",
+      "pos": "verb",
+      "ko": "옮겨지다, 전송되다",
+      "form": null,
+      "synonyms": [
+        "move",
+        "go through"
+      ],
+      "ipa": "/trænsˈfɜːr/"
+    },
+    "entered": {
+      "lemma": "enter",
+      "pos": "verb",
+      "ko": "입력하다",
+      "form": "과거분사",
+      "synonyms": [
+        "input",
+        "key in"
+      ],
+      "ipa": "/ˈɛntərd/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손 (by hand 손으로)",
+      "form": null,
+      "synonyms": [
+        "manually"
+      ],
+      "ipa": "/hænd/"
+    },
+    "according": {
+      "lemma": "according",
+      "pos": "adverb",
+      "ko": "(according to) ~에 따르면",
+      "form": null,
+      "ipa": "/əˈkɔːrdɪŋ/"
+    },
+    "corvane's": {
+      "lemma": "Corvane",
+      "pos": "proper-noun",
+      "ko": "코베인의 (회사 이름)",
+      "form": "소유격",
+      "ipa": null
+    },
+    "support": {
+      "lemma": "support",
+      "pos": "noun",
+      "ko": "지원, 고객 지원",
+      "form": null,
+      "synonyms": [
+        "help",
+        "assistance"
+      ],
+      "ipa": "/səˈpɔːrt/"
+    },
+    "fix": {
+      "lemma": "fix",
+      "pos": "noun",
+      "ko": "수정, 해결책",
+      "form": null,
+      "synonyms": [
+        "solution",
+        "repair"
+      ],
+      "ipa": "/fɪks/"
+    },
+    "planned": {
+      "lemma": "plan",
+      "pos": "verb",
+      "ko": "계획하다",
+      "form": "과거분사",
+      "synonyms": [
+        "schedule",
+        "intend"
+      ],
+      "ipa": "/plænd/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "upcoming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "update": {
+      "lemma": "update",
+      "pos": "noun",
+      "ko": "업데이트",
+      "form": null,
+      "synonyms": [
+        "upgrade",
+        "new version"
+      ],
+      "ipa": "/əpˈdeɪt/"
+    },
+    "overall": {
+      "lemma": "overall",
+      "pos": "adverb",
+      "ko": "전반적으로",
+      "form": null,
+      "synonyms": [
+        "on the whole",
+        "in general"
+      ],
+      "ipa": "/ˈoʊvəˌrɔːl/"
+    },
+    "significant": {
+      "lemma": "significant",
+      "pos": "adjective",
+      "ko": "중요한, 상당한",
+      "form": null,
+      "synonyms": [
+        "major",
+        "considerable"
+      ],
+      "ipa": "/səɡˈnɪfɪkənt/"
+    },
+    "step": {
+      "lemma": "step",
+      "pos": "noun",
+      "ko": "단계, 발걸음 (step forward 진전)",
+      "form": null,
+      "synonyms": [
+        "move",
+        "stage"
+      ],
+      "ipa": "/stɛp/"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "앞으로",
+      "form": null,
+      "synonyms": [
+        "ahead",
+        "onward"
+      ],
+      "ipa": "/ˈfɔːrwərd/"
+    },
+    "recommend": {
+      "lemma": "recommend",
+      "pos": "verb",
+      "ko": "추천하다",
+      "form": null,
+      "synonyms": [
+        "suggest",
+        "endorse"
+      ],
+      "ipa": "/ˌrɛkəˈmɛnd/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은, 소규모의",
+      "form": null,
+      "synonyms": [
+        "little",
+        "modest"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "mid-sized": {
+      "lemma": "mid-sized",
+      "pos": "adjective",
+      "ko": "중간 규모의",
+      "form": null,
+      "synonyms": [
+        "medium-sized",
+        "moderate"
+      ],
+      "ipa": "/mɪd-saɪzd/"
+    },
+    "manages": {
+      "lemma": "manage",
+      "pos": "verb",
+      "ko": "관리하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "handle",
+        "run"
+      ],
+      "ipa": "/ˈmænɪdʒɪz/"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "여러",
+      "form": null,
+      "ipa": "/ˈsɛvrəl/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at once) 동시에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(at once) 동시에, 한 번에",
+      "form": null,
+      "synonyms": [
+        "simultaneously",
+        "together"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "bigger",
+        "bulkier"
+      ],
+      "ipa": "/ˈlɑːrdʒər/"
+    },
+    "organizations": {
+      "lemma": "organization",
+      "pos": "noun",
+      "ko": "조직, 기관",
+      "form": "복수형",
+      "synonyms": [
+        "company",
+        "institution"
+      ],
+      "ipa": "/ˌɔːrɡənəˈzeɪʃənz/"
+    },
+    "complex": {
+      "lemma": "complex",
+      "pos": "adjective",
+      "ko": "복잡한",
+      "form": null,
+      "synonyms": [
+        "complicated",
+        "intricate"
+      ],
+      "ipa": "/ˈkɑːmplɛks/"
+    },
+    "needs": {
+      "lemma": "need",
+      "pos": "noun",
+      "ko": "요구 사항, 필요",
+      "form": "복수형",
+      "synonyms": [
+        "requirement",
+        "demand"
+      ],
+      "ipa": "/niːdz/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일 수 있다; (may want to) ~하는 편이 낫다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "prefer"
+      ],
+      "ipa": "/wɑːnt/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "hold off",
+        "delay"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "determiner",
+      "ko": "그",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "issues": {
+      "lemma": "issue",
+      "pos": "noun",
+      "ko": "문제",
+      "form": "복수형",
+      "synonyms": [
+        "problem",
+        "difficulty"
+      ],
+      "ipa": "/ˈɪʃuz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동) ~되다",
+      "form": null,
+      "ipa": "/ɑːr/"
+    },
+    "fully": {
+      "lemma": "fully",
+      "pos": "adverb",
+      "ko": "완전히",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/ˈfʊli/"
+    },
+    "resolved": {
+      "lemma": "resolve",
+      "pos": "verb",
+      "ko": "해결하다",
+      "form": "과거분사",
+      "synonyms": [
+        "fix",
+        "settle"
+      ],
+      "ipa": "/riˈzɑːlvd/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the purpose of the review?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "To compare several competing software products"
+        },
+        {
+          "key": "B",
+          "text": "To announce the release date of an update"
+        },
+        {
+          "key": "C",
+          "text": "To explain why a firm changed its accounting program"
+        },
+        {
+          "key": "D",
+          "text": "To assess a newly released planning tool"
+        }
+      ],
+      "answer": "D",
+      "evidenceSentenceIds": [
+        "s4",
+        "s6",
+        "s15"
+      ],
+      "explanationKo": "지난달 출시된 오비태스크 3.0을 6주간 써 본 뒤 장점과 단점을 정리하고 추천 여부까지 밝힌다. released last month를 newly released로, project planner를 planning tool로 바꿔 말한 D가 정답.",
+      "choiceNotesKo": {
+        "A": "다른 경쟁 제품들과 비교하지 않는다.",
+        "B": "다음 업데이트가 계획되어 있다는 말만 있고 날짜 발표는 없다.",
+        "C": "회계 프로그램은 연동 문제로만 언급된다."
+      },
+      "skill": "목적 찾기"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What problem did Ms. Nandakumar experience with Orbitask 3.0?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "Its mobile app could not upload photos."
+        },
+        {
+          "key": "B",
+          "text": "Some financial records had to be entered manually."
+        },
+        {
+          "key": "C",
+          "text": "Setting up projects took longer than expected."
+        },
+        {
+          "key": "D",
+          "text": "Team members could not see their colleagues' comments."
+        }
+      ],
+      "answer": "B",
+      "evidenceSentenceIds": [
+        "s13"
+      ],
+      "explanationKo": "세 차례 청구서(invoices)가 넘어가지 않아 손으로 입력해야 했다(had to be entered by hand)고 했다. invoices를 financial records로, by hand를 manually로 바꿔 말한 B가 정답.",
+      "choiceNotesKo": {
+        "A": "모바일 앱은 현장에서 바로 사진을 올릴 수 있어 인상적이라고 했다.",
+        "C": "프로젝트 설정은 20분도 안 걸렸다고 했다.",
+        "D": "오히려 동료들의 의견을 함께 볼 수 있다고 했다."
+      },
+      "skill": "세부 정보 + 패러프레이징"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-synonym",
+      "prompt": "In the review, the word \"notable\" is closest in meaning to",
+      "choices": [
+        {
+          "key": "A",
+          "text": "significant"
+        },
+        {
+          "key": "B",
+          "text": "famous"
+        },
+        {
+          "key": "C",
+          "text": "written"
+        },
+        {
+          "key": "D",
+          "text": "recorded"
+        }
+      ],
+      "answer": "A",
+      "evidenceSentenceIds": [
+        "s7"
+      ],
+      "explanationKo": "The most notable improvement는 '가장 눈에 띄는, 중요한 개선점'이라는 뜻이다. 그래서 significant(중요한, 두드러진)가 가장 가깝다.",
+      "choiceNotesKo": {
+        "B": "famous는 사람·장소가 '유명한'이라는 뜻으로, notable의 다른 뜻이지만 이 문맥에는 맞지 않는다.",
+        "D": "recorded는 '기록된'이라는 뜻으로 note(적다)와 헷갈리게 만든 오답이다."
+      },
+      "skill": "동의어"
+    }
+  ]
+}
