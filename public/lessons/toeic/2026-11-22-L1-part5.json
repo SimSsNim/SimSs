@@ -1,0 +1,1552 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-22-L1-part5",
+  "date": "2026-11-22",
+  "level": 1,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 104,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Park 씨는 영업 회의에서 매우 인상적인 발표를 했다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "배달 트럭은 어제 오후 늦게 창고에 도착했다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "저희 기술자들은 모든 고객 불만에 빠르게 대응합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "출장 경비 보고서를 11월 27일 금요일까지 제출해 주세요."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "관리자는 모든 직원에게 새 안전 수칙을 따르라고 요청했다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "그 회사는 지난주 한 지역 병원으로부터 큰 금액을 지급받았다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "Lee 씨는 2019년부터 Bright Star Foods에서 일해 왔다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "날씨가 너무 추워서 야유회는 실내로 옮겨졌다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "모든 방문객은 건물 안에서 이름표를 착용해야 한다."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "고객은 구매 후 30일 이내에 전액 환불을 받을 수 있다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Ms. Park gave a very impressive presentation at the sales meeting.",
+      "ko": "Park 씨는 영업 회의에서 매우 인상적인 발표를 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "The delivery truck arrived at the warehouse late yesterday afternoon.",
+      "ko": "배달 트럭은 어제 오후 늦게 창고에 도착했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Our technicians respond quickly to all customer complaints.",
+      "ko": "저희 기술자들은 모든 고객 불만에 빠르게 대응합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Please submit your travel expense report by Friday, November 27.",
+      "ko": "출장 경비 보고서를 11월 27일 금요일까지 제출해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "The manager asked all employees to follow the new safety rules.",
+      "ko": "관리자는 모든 직원에게 새 안전 수칙을 따르라고 요청했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "The company received a large payment from a local hospital last week.",
+      "ko": "그 회사는 지난주 한 지역 병원으로부터 큰 금액을 지급받았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "Mr. Lee has worked at Bright Star Foods since 2019.",
+      "ko": "Lee 씨는 2019년부터 Bright Star Foods에서 일해 왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "The picnic was moved indoors because the weather was too cold.",
+      "ko": "날씨가 너무 추워서 야유회는 실내로 옮겨졌다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "All visitors must wear their name tags inside the building.",
+      "ko": "모든 방문객은 건물 안에서 이름표를 착용해야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "Customers can receive a full refund within 30 days of purchase.",
+      "ko": "고객은 구매 후 30일 이내에 전액 환불을 받을 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "impressive",
+      "pos": "adjective",
+      "meaningKo": "인상적인, 훌륭한",
+      "ipa": "/ɪmˈprɛsɪv/",
+      "synonyms": [
+        "remarkable",
+        "outstanding"
+      ],
+      "matchText": "impressive",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Her sales record is very impressive.",
+        "ko": "그녀의 판매 실적은 매우 인상적이다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "warehouse",
+      "pos": "noun",
+      "meaningKo": "창고",
+      "ipa": "/ˈwɛrˌhaʊs/",
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "matchText": "warehouse",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The boxes are kept in the warehouse.",
+        "ko": "상자들은 창고에 보관되어 있다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "complaint",
+      "pos": "noun",
+      "meaningKo": "불만, 항의",
+      "ipa": "/kəmˈpleɪnt/",
+      "synonyms": [
+        "grievance",
+        "objection"
+      ],
+      "matchText": "complaints",
+      "sentenceId": "s3",
+      "example": {
+        "en": "We received a complaint about the noise.",
+        "ko": "소음에 대한 항의를 받았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "expense report",
+      "pos": "noun",
+      "meaningKo": "경비 보고서",
+      "ipa": "/ɪkˈspɛns rɪˈpɔrt/",
+      "synonyms": [
+        "cost report",
+        "spending report"
+      ],
+      "matchText": "expense report",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Attach your receipts to the expense report.",
+        "ko": "경비 보고서에 영수증을 첨부하세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "purchase",
+      "pos": "noun",
+      "meaningKo": "구매",
+      "ipa": "/ˈpɝtʃəs/",
+      "synonyms": [
+        "buying",
+        "acquisition"
+      ],
+      "matchText": "purchase",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Keep the receipt after your purchase.",
+        "ko": "구매 후 영수증을 보관하세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The manager",
+          "role": "S",
+          "ko": "관리자는"
+        },
+        {
+          "text": "asked",
+          "role": "V",
+          "ko": "요청했다"
+        },
+        {
+          "text": "all employees",
+          "role": "O",
+          "ko": "모든 직원에게"
+        },
+        {
+          "text": "to follow the new safety rules.",
+          "role": "OC",
+          "ko": "새 안전 수칙을 따르라고"
+        }
+      ],
+      "skeleton": "The manager asked all employees to follow the rules.",
+      "explanation": "ask + 사람 + to부정사 = ~에게 …하라고 요청하다. to follow 이하가 목적격 보어."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "The picnic",
+          "role": "S",
+          "ko": "야유회는"
+        },
+        {
+          "text": "was moved",
+          "role": "V",
+          "ko": "옮겨졌다"
+        },
+        {
+          "text": "indoors",
+          "role": "M",
+          "ko": "실내로"
+        },
+        {
+          "text": "because",
+          "role": "CONJ",
+          "ko": "~ 때문에"
+        },
+        {
+          "text": "the weather",
+          "role": "S",
+          "ko": "날씨가",
+          "sub": true
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "ko": "~였다",
+          "sub": true
+        },
+        {
+          "text": "too cold.",
+          "role": "C",
+          "ko": "너무 추운",
+          "sub": true
+        }
+      ],
+      "skeleton": "The picnic was moved indoors because the weather was too cold.",
+      "explanation": "because가 이끄는 부사절(이유)이 주절 뒤에 붙었다. 주절은 수동태 was moved."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료 has + p.p. + since",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "has worked",
+        "since 2019"
+      ],
+      "explanation": "과거(2019년)에 시작해 지금까지 계속되는 일은 현재완료 has worked. since + 시작 시점이 단서.",
+      "example": {
+        "en": "She has lived in Seoul since 2020.",
+        "ko": "그녀는 2020년부터 서울에 살고 있다."
+      },
+      "note": "since + 과거 시점 → 빈칸은 have/has + p.p."
+    },
+    {
+      "id": "g2",
+      "title": "접속사 because vs 전치사 because of",
+      "tags": [
+        "접속사",
+        "전치사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "because the weather was too cold"
+      ],
+      "explanation": "because 뒤에는 주어+동사가 있는 절, because of 뒤에는 명사(구)가 온다.",
+      "example": {
+        "en": "The game was canceled because of the rain.",
+        "ko": "비 때문에 경기가 취소되었다."
+      },
+      "note": "빈칸 뒤에 동사가 보이면 접속사, 명사만 있으면 전치사."
+    },
+    {
+      "id": "g3",
+      "title": "기한의 전치사 by",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "by Friday, November 27"
+      ],
+      "explanation": "by + 시점 = '~까지(마감)'. 제출·완료 동사(submit, finish)와 자주 쓰인다.",
+      "example": {
+        "en": "Please return the form by Monday.",
+        "ko": "월요일까지 양식을 돌려주세요."
+      },
+      "note": "submit/complete + 빈칸 + 날짜 → by"
+    }
+  ],
+  "glossary": {
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 호칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "park": {
+      "lemma": "Park",
+      "pos": "proper-noun",
+      "ko": "박 (성씨)",
+      "form": null,
+      "ipa": "/pɑːrk/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "(발표 등을) 하다, 주다",
+      "form": "과거형",
+      "synonyms": [
+        "deliver",
+        "present"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "impressive": {
+      "lemma": "impressive",
+      "pos": "adjective",
+      "ko": "인상적인",
+      "form": null,
+      "synonyms": [
+        "remarkable",
+        "outstanding"
+      ],
+      "ipa": "/ˌɪmˈprɛsɪv/"
+    },
+    "presentation": {
+      "lemma": "presentation",
+      "pos": "noun",
+      "ko": "발표",
+      "form": null,
+      "synonyms": [
+        "talk",
+        "speech"
+      ],
+      "ipa": "/ˌprɛzənˈteɪʃən/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에(서) (장소·시각)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매",
+      "form": null,
+      "synonyms": [
+        "selling",
+        "marketing"
+      ],
+      "ipa": "/seɪlz/"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의",
+      "form": null,
+      "synonyms": [
+        "conference",
+        "gathering"
+      ],
+      "ipa": "/ˈmiːtɪŋ/"
+    },
+    "delivery": {
+      "lemma": "delivery",
+      "pos": "noun",
+      "ko": "배달, 배송",
+      "form": null,
+      "synonyms": [
+        "shipping",
+        "shipment"
+      ],
+      "ipa": "/dɪˈlɪvəri/"
+    },
+    "truck": {
+      "lemma": "truck",
+      "pos": "noun",
+      "ko": "트럭",
+      "form": null,
+      "synonyms": [
+        "lorry",
+        "van"
+      ],
+      "ipa": "/trʌk/"
+    },
+    "arrived": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": "과거형",
+      "synonyms": [
+        "reach",
+        "get to"
+      ],
+      "ipa": "/əˈraɪvd/"
+    },
+    "warehouse": {
+      "lemma": "warehouse",
+      "pos": "noun",
+      "ko": "창고",
+      "form": null,
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "ipa": "/ˈwɛrˌhaʊs/"
+    },
+    "late": {
+      "lemma": "late",
+      "pos": "adverb",
+      "ko": "늦게",
+      "form": null,
+      "synonyms": [
+        "toward the end"
+      ],
+      "ipa": "/leɪt/"
+    },
+    "yesterday": {
+      "lemma": "yesterday",
+      "pos": "adverb",
+      "ko": "어제",
+      "form": null,
+      "synonyms": [
+        "the day before"
+      ],
+      "ipa": "/ˈjɛstərˌdeɪ/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "synonyms": [
+        "midday"
+      ],
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "technicians": {
+      "lemma": "technician",
+      "pos": "noun",
+      "ko": "기술자",
+      "form": "복수형",
+      "synonyms": [
+        "engineer",
+        "specialist"
+      ],
+      "ipa": "/tɛkˈnɪʃənz/"
+    },
+    "respond": {
+      "lemma": "respond",
+      "pos": "verb",
+      "ko": "대응하다, 응답하다",
+      "form": null,
+      "synonyms": [
+        "reply",
+        "react"
+      ],
+      "ipa": "/rɪˈspɑːnd/"
+    },
+    "quickly": {
+      "lemma": "quickly",
+      "pos": "adverb",
+      "ko": "빨리",
+      "form": null,
+      "synonyms": [
+        "fast",
+        "promptly"
+      ],
+      "ipa": "/ˈkwɪkli/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; to부정사 표시",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "complaints": {
+      "lemma": "complaint",
+      "pos": "noun",
+      "ko": "불만, 항의",
+      "form": "복수형",
+      "synonyms": [
+        "grievance",
+        "objection"
+      ],
+      "ipa": "/kəmˈpleɪnts/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": null,
+      "synonyms": [
+        "hand in",
+        "turn in"
+      ],
+      "ipa": "/səbˈmɪt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의, 여러분의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "출장, 여행",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "business trip"
+      ],
+      "ipa": "/ˈtrævəl/"
+    },
+    "expense": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "경비, 비용",
+      "form": null,
+      "synonyms": [
+        "cost",
+        "spending"
+      ],
+      "ipa": "/ɪkˈspɛns/"
+    },
+    "report": {
+      "lemma": "report",
+      "pos": "noun",
+      "ko": "보고서",
+      "form": null,
+      "synonyms": [
+        "statement",
+        "account"
+      ],
+      "ipa": "/riˈpɔːrt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 부장",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "boss"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "요청하다",
+      "form": "과거형",
+      "synonyms": [
+        "request",
+        "tell"
+      ],
+      "ipa": "/æskt/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "follow": {
+      "lemma": "follow",
+      "pos": "verb",
+      "ko": "(규칙을) 따르다",
+      "form": null,
+      "synonyms": [
+        "obey",
+        "observe"
+      ],
+      "ipa": "/ˈfɑːloʊ/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "recent",
+        "latest"
+      ],
+      "ipa": "/nuː/"
+    },
+    "safety": {
+      "lemma": "safety",
+      "pos": "noun",
+      "ko": "안전",
+      "form": null,
+      "synonyms": [
+        "security",
+        "protection"
+      ],
+      "ipa": "/ˈseɪfti/"
+    },
+    "rules": {
+      "lemma": "rule",
+      "pos": "noun",
+      "ko": "규칙, 수칙",
+      "form": "복수형",
+      "synonyms": [
+        "regulation",
+        "guideline"
+      ],
+      "ipa": "/ruːlz/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": "과거형",
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːvd/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰, 많은",
+      "form": null,
+      "synonyms": [
+        "big",
+        "substantial"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "payment": {
+      "lemma": "payment",
+      "pos": "noun",
+      "ko": "지급(금), 대금",
+      "form": null,
+      "synonyms": [
+        "remittance",
+        "fee"
+      ],
+      "ipa": "/ˈpeɪmənt/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "local": {
+      "lemma": "local",
+      "pos": "adjective",
+      "ko": "지역의, 현지의",
+      "form": null,
+      "synonyms": [
+        "nearby",
+        "neighborhood"
+      ],
+      "ipa": "/ˈloʊkəl/"
+    },
+    "hospital": {
+      "lemma": "hospital",
+      "pos": "noun",
+      "ko": "병원",
+      "form": null,
+      "synonyms": [
+        "medical center",
+        "clinic"
+      ],
+      "ipa": "/ˈhɑːˌspɪtəl/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "past"
+      ],
+      "ipa": "/læst/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "synonyms": [
+        "seven days"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 호칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "lee": {
+      "lemma": "Lee",
+      "pos": "proper-noun",
+      "ko": "이 (성씨)",
+      "form": null,
+      "ipa": "/liː/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료를 만드는 조동사)",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다, 근무하다",
+      "form": "과거분사",
+      "synonyms": [
+        "be employed",
+        "serve"
+      ],
+      "ipa": "/wɜːrkt/"
+    },
+    "bright": {
+      "lemma": "Bright",
+      "pos": "proper-noun",
+      "ko": "브라이트 (회사 이름 Bright Star Foods의 일부)",
+      "form": null,
+      "ipa": "/braɪt/"
+    },
+    "star": {
+      "lemma": "Star",
+      "pos": "proper-noun",
+      "ko": "스타 (회사 이름 Bright Star Foods의 일부)",
+      "form": null,
+      "ipa": "/stɑːr/"
+    },
+    "foods": {
+      "lemma": "Foods",
+      "pos": "proper-noun",
+      "ko": "푸즈 (회사 이름 Bright Star Foods의 일부)",
+      "form": null,
+      "ipa": "/fuːdz/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "preposition",
+      "ko": "~ 이후로, ~부터",
+      "form": null,
+      "ipa": "/sɪns/"
+    },
+    "picnic": {
+      "lemma": "picnic",
+      "pos": "noun",
+      "ko": "야유회, 소풍",
+      "form": null,
+      "synonyms": [
+        "outing",
+        "outdoor party"
+      ],
+      "ipa": "/ˈpɪkˌnɪk/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "moved": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "옮기다",
+      "form": "과거분사",
+      "synonyms": [
+        "relocate",
+        "shift"
+      ],
+      "ipa": "/muːvd/"
+    },
+    "indoors": {
+      "lemma": "indoors",
+      "pos": "adverb",
+      "ko": "실내로",
+      "form": null,
+      "synonyms": [
+        "inside"
+      ],
+      "ipa": "/ˈɪnˌdɔːrz/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨",
+      "form": null,
+      "synonyms": [
+        "climate",
+        "conditions"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "synonyms": [
+        "overly",
+        "excessively"
+      ],
+      "ipa": "/tuː/"
+    },
+    "cold": {
+      "lemma": "cold",
+      "pos": "adjective",
+      "ko": "추운",
+      "form": null,
+      "synonyms": [
+        "chilly",
+        "cool"
+      ],
+      "ipa": "/koʊld/"
+    },
+    "visitors": {
+      "lemma": "visitor",
+      "pos": "noun",
+      "ko": "방문객",
+      "form": "복수형",
+      "synonyms": [
+        "guest",
+        "caller"
+      ],
+      "ipa": "/ˈvɪzɪtərz/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "wear": {
+      "lemma": "wear",
+      "pos": "verb",
+      "ko": "착용하다, 달다",
+      "form": null,
+      "synonyms": [
+        "put on",
+        "display"
+      ],
+      "ipa": "/wɛr/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "name": {
+      "lemma": "name",
+      "pos": "noun",
+      "ko": "이름",
+      "form": null,
+      "synonyms": [
+        "title"
+      ],
+      "ipa": "/neɪm/"
+    },
+    "tags": {
+      "lemma": "tag",
+      "pos": "noun",
+      "ko": "표, 꼬리표 (name tag: 이름표)",
+      "form": "복수형",
+      "synonyms": [
+        "badge",
+        "label"
+      ],
+      "ipa": "/tæɡz/"
+    },
+    "inside": {
+      "lemma": "inside",
+      "pos": "preposition",
+      "ko": "~ 안에서",
+      "form": null,
+      "ipa": "/ˌɪnˈsaɪd/"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물",
+      "form": null,
+      "synonyms": [
+        "facility",
+        "structure"
+      ],
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "전액의, 완전한",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "total"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "refund": {
+      "lemma": "refund",
+      "pos": "noun",
+      "ko": "환불",
+      "form": null,
+      "synonyms": [
+        "reimbursement",
+        "repayment"
+      ],
+      "ipa": "/rɪˈfʌnd/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "purchase": {
+      "lemma": "purchase",
+      "pos": "noun",
+      "ko": "구매",
+      "form": null,
+      "synonyms": [
+        "buying",
+        "acquisition"
+      ],
+      "ipa": "/ˈpɜːrtʃəs/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "impressive"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "impress"
+        },
+        {
+          "key": "B",
+          "text": "impressive"
+        },
+        {
+          "key": "C",
+          "text": "impressively"
+        },
+        {
+          "key": "D",
+          "text": "impression"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "관사 a + 부사 very 뒤, 명사 presentation 앞은 형용사 자리. impressive(인상적인)가 정답.",
+      "choiceNotesKo": {
+        "C": "부사 impressively는 명사를 꾸밀 수 없다.",
+        "D": "impression은 명사라 명사 presentation 앞에 올 수 없다."
+      },
+      "skill": "형용사 자리(명사 앞)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "arrived"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "arrive"
+        },
+        {
+          "key": "B",
+          "text": "arrives"
+        },
+        {
+          "key": "C",
+          "text": "will arrive"
+        },
+        {
+          "key": "D",
+          "text": "arrived"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "yesterday afternoon(어제 오후)이라는 과거 시간 표현이 있으므로 과거 시제 arrived.",
+      "choiceNotesKo": {
+        "C": "will arrive는 미래라 yesterday와 맞지 않는다.",
+        "B": "arrives는 현재 시제다."
+      },
+      "skill": "시제(과거: yesterday)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "quickly"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "quickly"
+        },
+        {
+          "key": "B",
+          "text": "quick"
+        },
+        {
+          "key": "C",
+          "text": "quickness"
+        },
+        {
+          "key": "D",
+          "text": "quicken"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "동사 respond(대응하다)를 꾸미는 말은 부사. quickly가 정답.",
+      "choiceNotesKo": {
+        "B": "형용사 quick은 동사를 꾸미지 못한다(토익에서는 부사 자리 = -ly).",
+        "D": "quicken은 동사라 동사 뒤에 또 올 수 없다."
+      },
+      "skill": "부사 자리(동사 뒤)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "by"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "at"
+        },
+        {
+          "key": "B",
+          "text": "in"
+        },
+        {
+          "key": "C",
+          "text": "by"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "제출 마감 기한을 나타낼 때는 by + 날짜(~까지). submit ... by Friday.",
+      "choiceNotesKo": {
+        "A": "at은 시각(at five) 앞에 쓴다.",
+        "B": "in은 달·연도(in November) 앞에 쓴다. 요일·날짜에는 쓰지 않는다."
+      },
+      "skill": "전치사(기한 by)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "follow"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "attend"
+        },
+        {
+          "key": "B",
+          "text": "follow"
+        },
+        {
+          "key": "C",
+          "text": "arrive"
+        },
+        {
+          "key": "D",
+          "text": "join"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "규칙(rules)을 '따르다'는 follow. follow the rules는 자주 나오는 짝.",
+      "choiceNotesKo": {
+        "A": "attend는 회의·행사에 '참석하다'.",
+        "C": "arrive는 목적어 없이 arrive at/in으로 쓴다."
+      },
+      "skill": "동사 어휘(follow the rules)"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "payment"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "payment"
+        },
+        {
+          "key": "B",
+          "text": "pay"
+        },
+        {
+          "key": "C",
+          "text": "payable"
+        },
+        {
+          "key": "D",
+          "text": "paid"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "관사 a + 형용사 large 뒤는 명사 자리. received(받았다)의 목적어로 payment(지급금)가 알맞다.",
+      "choiceNotesKo": {
+        "C": "payable은 형용사라 large 뒤 명사 자리에 맞지 않는다.",
+        "B": "pay도 명사로 쓰지만 '급여'라는 뜻이고 셀 수 없어 a large pay라고 하지 않는다."
+      },
+      "skill": "명사 자리(형용사 뒤)"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "worked"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "work"
+        },
+        {
+          "key": "B",
+          "text": "working"
+        },
+        {
+          "key": "C",
+          "text": "works"
+        },
+        {
+          "key": "D",
+          "text": "worked"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "has 뒤에는 과거분사가 와서 현재완료(has worked)가 된다. since 2019(2019년부터)도 현재완료의 단서.",
+      "choiceNotesKo": {
+        "B": "has working은 틀린 형태. 진행형이면 has been working이어야 한다."
+      },
+      "skill": "현재완료(has + p.p. / since)"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "because"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "because of"
+        },
+        {
+          "key": "C",
+          "text": "because"
+        },
+        {
+          "key": "D",
+          "text": "but"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "빈칸 뒤에 주어+동사(the weather was)가 있으므로 접속사가 필요하고, 뜻이 '~ 때문에'이므로 because.",
+      "choiceNotesKo": {
+        "B": "because of는 전치사라 뒤에 명사만 온다(because of the cold weather).",
+        "A": "so는 결과(그래서)를 나타내 원인과 결과가 뒤바뀐다."
+      },
+      "skill": "접속사 vs 전치사(이유)"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "visitors"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "visitors"
+        },
+        {
+          "key": "B",
+          "text": "visit"
+        },
+        {
+          "key": "C",
+          "text": "visited"
+        },
+        {
+          "key": "D",
+          "text": "visiting"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "All 뒤, 동사 must wear 앞은 주어(명사) 자리. 이름표를 다는 것은 사람이므로 visitors(방문객들).",
+      "choiceNotesKo": {
+        "B": "visit은 '방문'이라는 행위라 이름표를 달 수 없다.",
+        "D": "visiting은 형용사·동명사라 All visiting만으로는 주어가 되지 않는다."
+      },
+      "skill": "명사 자리(사람 명사 주어)"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "receive"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "spend"
+        },
+        {
+          "key": "B",
+          "text": "receive"
+        },
+        {
+          "key": "C",
+          "text": "borrow"
+        },
+        {
+          "key": "D",
+          "text": "charge"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "환불(refund)은 '받는' 것이므로 receive a refund.",
+      "choiceNotesKo": {
+        "C": "borrow는 '빌리다'라 환불과 맞지 않는다.",
+        "D": "charge는 '(요금을) 청구하다'라 고객이 환불을 청구한다는 뜻이 되지 않는다."
+      },
+      "skill": "동사 어휘(receive a refund)"
+    }
+  ]
+}

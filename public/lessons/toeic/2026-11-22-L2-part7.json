@@ -1,0 +1,1664 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-22-L2-part7",
+  "date": "2026-11-22",
+  "level": 2,
+  "title": "Changes to Travel Expense Claims",
+  "titleKo": "출장 경비 청구 방식 변경 안내 메모",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 7",
+    "회람",
+    "예산·회계"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 181,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 영업부 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: 재무부 Linda Cho"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 11월 23일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 출장 경비 청구 방식 변경"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "12월 1일부터 모든 출장 경비 청구는 새 온라인 시스템인 ExpensePro를 통해 제출해야 합니다. 그날 이후로는 종이 양식을 더 이상 받지 않습니다. 새 시스템으로 청구를 더 빨리 처리할 수 있어, 대부분의 직원은 2주가 아니라 영업일 기준 5일 안에 돈을 받게 될 것입니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "청구하려면 사원 번호로 로그인한 뒤 영수증마다 사진을 올리기만 하면 됩니다. 식사 비용 청구에는 함께한 고객의 이름도 적어야 합니다. 500달러가 넘는 단일 비용은 제출하기 전에 부서장의 승인을 받아야 한다는 점에 유의해 주세요."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "재무팀은 ExpensePro 사용법에 관한 짧은 교육을 두 번 진행합니다. 첫 번째는 11월 26일 310호에서, 두 번째는 11월 30일 온라인으로 열립니다. 두 교육 모두 참석하지 못하는 직원은 사내 인트라넷에서 녹화 영상을 볼 수 있습니다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s14"
+      ],
+      "ko": "궁금한 점이 있으면 내선 4127번으로 저에게 연락해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Sales Staff",
+      "ko": "수신: 영업부 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Linda Cho, Finance Department",
+      "ko": "발신: 재무부 Linda Cho",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: November 23",
+      "ko": "날짜: 11월 23일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: Changes to Travel Expense Claims",
+      "ko": "제목: 출장 경비 청구 방식 변경",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Starting on December 1, all travel expense claims must be submitted through our new online system, ExpensePro.",
+      "ko": "12월 1일부터 모든 출장 경비 청구는 새 온라인 시스템인 ExpensePro를 통해 제출해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "Paper forms will no longer be accepted after that date.",
+      "ko": "그날 이후로는 종이 양식을 더 이상 받지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "The new system will allow us to process claims faster, and most employees should receive their money within five business days instead of two weeks.",
+      "ko": "새 시스템으로 청구를 더 빨리 처리할 수 있어, 대부분의 직원은 2주가 아니라 영업일 기준 5일 안에 돈을 받게 될 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p6",
+      "en": "To submit a claim, simply log in with your employee number and upload a photo of each receipt.",
+      "ko": "청구하려면 사원 번호로 로그인한 뒤 영수증마다 사진을 올리기만 하면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "Claims for meals must also include the names of any clients who attended.",
+      "ko": "식사 비용 청구에는 함께한 고객의 이름도 적어야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "Please note that any single expense over $500 must be approved by your department manager before you submit it.",
+      "ko": "500달러가 넘는 단일 비용은 제출하기 전에 부서장의 승인을 받아야 한다는 점에 유의해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p7",
+      "en": "The finance team will hold two short training sessions on how to use ExpensePro.",
+      "ko": "재무팀은 ExpensePro 사용법에 관한 짧은 교육을 두 번 진행합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "The first will take place on November 26 in Room 310, and the second will be held online on November 30.",
+      "ko": "첫 번째는 11월 26일 310호에서, 두 번째는 11월 30일 온라인으로 열립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Staff who cannot attend either session can watch a recorded video on the company intranet.",
+      "ko": "두 교육 모두 참석하지 못하는 직원은 사내 인트라넷에서 녹화 영상을 볼 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "If you have any questions, please contact me at extension 4127.",
+      "ko": "궁금한 점이 있으면 내선 4127번으로 저에게 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "claim",
+      "pos": "noun",
+      "meaningKo": "(비용) 청구, 청구서",
+      "ipa": "/kleɪm/",
+      "synonyms": [
+        "request",
+        "application"
+      ],
+      "matchText": "claims",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Submit your claim within thirty days.",
+        "ko": "30일 안에 청구서를 제출하세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "no longer",
+      "pos": "adverb",
+      "meaningKo": "더 이상 ~않다",
+      "ipa": "/noʊ ˈlɔŋɡɚ/",
+      "synonyms": [
+        "not anymore"
+      ],
+      "matchText": "no longer",
+      "sentenceId": "s6",
+      "example": {
+        "en": "This product is no longer available.",
+        "ko": "이 제품은 더 이상 판매하지 않는다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "instead of",
+      "pos": "preposition",
+      "meaningKo": "~ 대신에",
+      "ipa": "/ɪnˈstɛd ʌv/",
+      "synonyms": [
+        "rather than",
+        "in place of"
+      ],
+      "matchText": "instead of",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Let's take the train instead of the bus.",
+        "ko": "버스 대신 기차를 타자."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "receipt",
+      "pos": "noun",
+      "meaningKo": "영수증",
+      "ipa": "/rɪˈsit/",
+      "synonyms": [
+        "proof of payment",
+        "sales slip"
+      ],
+      "matchText": "receipt",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Keep the receipt in case you need to return the item.",
+        "ko": "반품할 경우를 대비해 영수증을 보관하세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "extension",
+      "pos": "noun",
+      "meaningKo": "내선 (번호)",
+      "ipa": "/ɪkˈstɛnʃən/",
+      "synonyms": [
+        "internal line",
+        "ext."
+      ],
+      "matchText": "extension",
+      "sentenceId": "s14",
+      "example": {
+        "en": "You can reach me at extension 205.",
+        "ko": "내선 205번으로 연락하시면 됩니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "The new system",
+          "role": "S",
+          "ko": "새 시스템은"
+        },
+        {
+          "text": "will allow",
+          "role": "V",
+          "ko": "가능하게 할 것이다"
+        },
+        {
+          "text": "us",
+          "role": "O",
+          "ko": "우리가"
+        },
+        {
+          "text": "to process claims faster,",
+          "role": "OC",
+          "ko": "청구를 더 빨리 처리하도록"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "most employees",
+          "role": "S",
+          "ko": "대부분의 직원은"
+        },
+        {
+          "text": "should receive",
+          "role": "V",
+          "ko": "받게 될 것이다"
+        },
+        {
+          "text": "their money",
+          "role": "O",
+          "ko": "돈을"
+        },
+        {
+          "text": "within five business days",
+          "role": "M",
+          "ko": "영업일 5일 안에"
+        },
+        {
+          "text": "instead of two weeks.",
+          "role": "M",
+          "ko": "2주 대신"
+        }
+      ],
+      "skeleton": "The system will allow us to process claims, and employees should receive their money.",
+      "explanation": "allow + 목적어 + to V = ~가 …할 수 있게 하다. should는 여기서 '~할 것이다(예상)'."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s13",
+      "chunks": [
+        {
+          "text": "Staff",
+          "role": "S",
+          "ko": "직원은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "~하는"
+        },
+        {
+          "text": "cannot attend",
+          "role": "V",
+          "ko": "참석할 수 없는",
+          "sub": true
+        },
+        {
+          "text": "either session",
+          "role": "O",
+          "ko": "두 교육 중 어느 것에도",
+          "sub": true
+        },
+        {
+          "text": "can watch",
+          "role": "V",
+          "ko": "볼 수 있다"
+        },
+        {
+          "text": "a recorded video",
+          "role": "O",
+          "ko": "녹화된 영상을"
+        },
+        {
+          "text": "on the company intranet.",
+          "role": "M",
+          "ko": "사내 인트라넷에서"
+        }
+      ],
+      "skeleton": "Staff can watch a recorded video.",
+      "explanation": "who절(주격 관계대명사)이 주어 Staff를 꾸민다. 주어가 길 때는 관계사절을 빼고 진짜 동사(can watch)를 찾는다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "조동사 + 수동태 must be + p.p.",
+      "tags": [
+        "수동태",
+        "조동사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "must be submitted"
+      ],
+      "explanation": "청구서는 '제출되는' 것이므로 수동태. 조동사 뒤라서 be + p.p. 형태(must be submitted).",
+      "example": {
+        "en": "All forms must be signed by the manager.",
+        "ko": "모든 양식은 관리자의 서명을 받아야 한다."
+      },
+      "note": "조동사 + 빈칸 + by/전치사구 → be + p.p."
+    },
+    {
+      "id": "g2",
+      "title": "allow + 목적어 + to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "allow us to process"
+      ],
+      "explanation": "allow, enable, encourage, ask 등은 '목적어 + to V' 구조를 쓴다.",
+      "example": {
+        "en": "The new app allows users to pay by phone.",
+        "ko": "새 앱은 사용자가 휴대폰으로 결제할 수 있게 한다."
+      },
+      "note": "allow/enable + 목적어 + 빈칸 → to V"
+    },
+    {
+      "id": "g3",
+      "title": "주격 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s13",
+      "highlight": [
+        "who cannot attend either session"
+      ],
+      "explanation": "사람 명사(Staff) 뒤에서 who + 동사가 '~하는'이라는 뜻으로 앞 명사를 꾸민다.",
+      "example": {
+        "en": "Customers who order online get free shipping.",
+        "ko": "온라인으로 주문하는 고객은 무료 배송을 받는다."
+      },
+      "note": "사람 명사 + 빈칸 + 동사 → who"
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; to부정사 표시",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업",
+      "form": null,
+      "synonyms": [
+        "selling",
+        "commerce"
+      ],
+      "ipa": "/seɪlz/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터 (발신)",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "linda": {
+      "lemma": "Linda",
+      "pos": "proper-noun",
+      "ko": "린다 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈlɪndə/"
+    },
+    "cho": {
+      "lemma": "Cho",
+      "pos": "proper-noun",
+      "ko": "조 (성씨)",
+      "form": null,
+      "ipa": "/tʃoʊ/"
+    },
+    "finance": {
+      "lemma": "finance",
+      "pos": "noun",
+      "ko": "재무, 재정",
+      "form": null,
+      "synonyms": [
+        "accounting",
+        "money management"
+      ],
+      "ipa": "/fəˈnæns/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "form": null,
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "synonyms": [
+        "day"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "changes": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변경",
+      "form": "복수형",
+      "synonyms": [
+        "update",
+        "modification"
+      ],
+      "ipa": "/ˈtʃeɪndʒəz/"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "출장, 여행",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "business trip"
+      ],
+      "ipa": "/ˈtrævəl/"
+    },
+    "expense": {
+      "lemma": "expense",
+      "pos": "noun",
+      "ko": "비용, 경비",
+      "form": null,
+      "synonyms": [
+        "cost",
+        "spending"
+      ],
+      "ipa": "/ɪkˈspɛns/"
+    },
+    "claims": {
+      "lemma": "claim",
+      "pos": "noun",
+      "ko": "(비용) 청구",
+      "form": "복수형",
+      "synonyms": [
+        "request",
+        "application"
+      ],
+      "ipa": "/kleɪmz/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(starting on) ~부터 시작하여",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beginning",
+        "from"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜); ~에 관한",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월",
+      "form": null,
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다; (수동태) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "submitted": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": "과거분사",
+      "synonyms": [
+        "hand in",
+        "file"
+      ],
+      "ipa": "/səbˈmɪtɪd/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "recent"
+      ],
+      "ipa": "/nuː/"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adjective",
+      "ko": "온라인의 (online으로: 부사로도 씀)",
+      "form": null,
+      "synonyms": [
+        "web-based",
+        "digital"
+      ],
+      "ipa": "/ˈɔːnˌlaɪn/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 체계",
+      "form": null,
+      "synonyms": [
+        "platform",
+        "program"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "expensepro": {
+      "lemma": "ExpensePro",
+      "pos": "proper-noun",
+      "ko": "익스펜스프로 (경비 청구 시스템 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "paper": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "종이",
+      "form": null,
+      "synonyms": [
+        "printed"
+      ],
+      "ipa": "/ˈpeɪpər/"
+    },
+    "forms": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": "복수형",
+      "synonyms": [
+        "document",
+        "sheet"
+      ],
+      "ipa": "/fɔːrmz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상 ~않다",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상",
+      "form": "비교급",
+      "synonyms": [
+        "anymore"
+      ],
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "accepted": {
+      "lemma": "accept",
+      "pos": "verb",
+      "ko": "받아들이다, 접수하다",
+      "form": "과거분사",
+      "synonyms": [
+        "take",
+        "receive"
+      ],
+      "ipa": "/ækˈsɛptɪd/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 이후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그 (that date: 그날)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "allow": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "~할 수 있게 하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "enable",
+        "permit"
+      ],
+      "ipa": "/əˈlaʊ/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를, 우리에게",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "process": {
+      "lemma": "process",
+      "pos": "verb",
+      "ko": "처리하다",
+      "form": null,
+      "synonyms": [
+        "handle",
+        "deal with"
+      ],
+      "ipa": "/ˈprɑːˌsɛs/"
+    },
+    "faster": {
+      "lemma": "fast",
+      "pos": "adverb",
+      "ko": "빨리",
+      "form": "비교급",
+      "synonyms": [
+        "quicker",
+        "more quickly"
+      ],
+      "ipa": "/ˈfæstər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "determiner",
+      "ko": "대부분의",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (예상); ~해야 한다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "form": null,
+      "synonyms": [
+        "funds",
+        "cash"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "5, 다섯",
+      "form": null,
+      "ipa": "/faɪv/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "업무, 영업 (business day: 영업일)",
+      "form": null,
+      "synonyms": [
+        "working",
+        "commercial"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "instead": {
+      "lemma": "instead",
+      "pos": "adverb",
+      "ko": "(instead of) ~ 대신에",
+      "form": null,
+      "synonyms": [
+        "rather"
+      ],
+      "ipa": "/ˌɪnˈstɛd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "weeks": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주",
+      "form": "복수형",
+      "synonyms": [
+        "seven days"
+      ],
+      "ipa": "/wiːks/"
+    },
+    "submit": {
+      "lemma": "submit",
+      "pos": "verb",
+      "ko": "제출하다",
+      "form": null,
+      "synonyms": [
+        "hand in",
+        "file"
+      ],
+      "ipa": "/səbˈmɪt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "claim": {
+      "lemma": "claim",
+      "pos": "noun",
+      "ko": "(비용) 청구",
+      "form": null,
+      "synonyms": [
+        "request",
+        "application"
+      ],
+      "ipa": "/kleɪm/"
+    },
+    "simply": {
+      "lemma": "simply",
+      "pos": "adverb",
+      "ko": "그저, 간단히",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈsɪmpli/"
+    },
+    "log": {
+      "lemma": "log",
+      "pos": "verb",
+      "ko": "(log in) 로그인하다",
+      "form": null,
+      "synonyms": [
+        "sign in"
+      ],
+      "ipa": "/lɔːɡ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에 (log in: 로그인)",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의, 여러분의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "employee": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원 (employee number: 사원 번호)",
+      "form": null,
+      "synonyms": [
+        "staff",
+        "worker"
+      ],
+      "ipa": "/ɛmˈplɔɪi/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "번호",
+      "form": null,
+      "synonyms": [
+        "ID",
+        "code"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "upload": {
+      "lemma": "upload",
+      "pos": "verb",
+      "ko": "(파일을) 올리다",
+      "form": null,
+      "synonyms": [
+        "post",
+        "send"
+      ],
+      "ipa": "/ˈʌˌploʊd/"
+    },
+    "photo": {
+      "lemma": "photo",
+      "pos": "noun",
+      "ko": "사진",
+      "form": null,
+      "synonyms": [
+        "picture",
+        "image"
+      ],
+      "ipa": "/ˈfoʊˌtoʊ/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "receipt": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": null,
+      "synonyms": [
+        "sales slip",
+        "proof of payment"
+      ],
+      "ipa": "/rɪˈsiːt/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대한, ~의",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "meals": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사",
+      "form": "복수형",
+      "synonyms": [
+        "dinner",
+        "lunch"
+      ],
+      "ipa": "/miːlz/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한, 역시",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "include": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함하다",
+      "form": null,
+      "synonyms": [
+        "contain",
+        "list"
+      ],
+      "ipa": "/ˌɪnˈkluːd/"
+    },
+    "names": {
+      "lemma": "name",
+      "pos": "noun",
+      "ko": "이름",
+      "form": "복수형",
+      "synonyms": [
+        "title"
+      ],
+      "ipa": "/neɪmz/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~라도, 모든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "clients": {
+      "lemma": "client",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "customer",
+        "buyer"
+      ],
+      "ipa": "/ˈklaɪənts/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람; 관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "attended": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다",
+      "form": "과거형",
+      "synonyms": [
+        "be present",
+        "join"
+      ],
+      "ipa": "/əˈtɛndɪd/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "note": {
+      "lemma": "note",
+      "pos": "verb",
+      "ko": "유의하다, 주목하다",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "be aware"
+      ],
+      "ipa": "/noʊt/"
+    },
+    "single": {
+      "lemma": "single",
+      "pos": "adjective",
+      "ko": "단 하나의, 개별의",
+      "form": null,
+      "synonyms": [
+        "individual",
+        "one"
+      ],
+      "ipa": "/ˈsɪŋɡəl/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 넘는, ~ 이상",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "approved": {
+      "lemma": "approve",
+      "pos": "verb",
+      "ko": "승인하다",
+      "form": "과거분사",
+      "synonyms": [
+        "authorize",
+        "accept"
+      ],
+      "ipa": "/əˈpruːvd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "부장, 관리자 (department manager: 부서장)",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (그 비용)",
+      "form": "목적격",
+      "ipa": "/ɪt/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "department"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(행사를) 열다",
+      "form": null,
+      "synonyms": [
+        "host",
+        "run"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "quick"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 연수",
+      "form": null,
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "sessions": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육 등의) 시간, 회",
+      "form": "복수형",
+      "synonyms": [
+        "class",
+        "meeting"
+      ],
+      "ipa": "/ˈsɛʃənz/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게 (how to: ~하는 방법)",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": null,
+      "synonyms": [
+        "operate",
+        "work with"
+      ],
+      "ipa": "/juːs/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째 (것)",
+      "form": null,
+      "synonyms": [
+        "initial"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 열리다",
+      "form": null,
+      "synonyms": [
+        "occur"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place) 개최, 일어남",
+      "form": null,
+      "synonyms": [
+        "occurrence"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, ~호실",
+      "form": null,
+      "synonyms": [
+        "hall",
+        "space"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째 (것)",
+      "form": null,
+      "synonyms": [
+        "next",
+        "latter"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "열다, 개최하다",
+      "form": "과거분사",
+      "synonyms": [
+        "host",
+        "run"
+      ],
+      "ipa": "/hɛld/"
+    },
+    "cannot": {
+      "lemma": "cannot",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "can not의 붙여 쓴 형태",
+      "ipa": "/ˈkænɑt/"
+    },
+    "attend": {
+      "lemma": "attend",
+      "pos": "verb",
+      "ko": "참석하다",
+      "form": null,
+      "synonyms": [
+        "go to",
+        "join"
+      ],
+      "ipa": "/əˈtɛnd/"
+    },
+    "either": {
+      "lemma": "either",
+      "pos": "determiner",
+      "ko": "(둘 중) 어느 쪽 ~도 (부정문)",
+      "form": null,
+      "ipa": "/ˈiːðər/"
+    },
+    "session": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육) 시간, 회",
+      "form": null,
+      "synonyms": [
+        "class",
+        "meeting"
+      ],
+      "ipa": "/ˈsɛʃən/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "watch": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "보다, 시청하다",
+      "form": null,
+      "synonyms": [
+        "view",
+        "see"
+      ],
+      "ipa": "/wɑːtʃ/"
+    },
+    "recorded": {
+      "lemma": "record",
+      "pos": "verb",
+      "ko": "녹화하다",
+      "form": "과거분사",
+      "synonyms": [
+        "film",
+        "tape"
+      ],
+      "ipa": "/rəˈkɔːrdɪd/"
+    },
+    "video": {
+      "lemma": "video",
+      "pos": "noun",
+      "ko": "영상",
+      "form": null,
+      "synonyms": [
+        "recording",
+        "clip"
+      ],
+      "ipa": "/ˈvɪdioʊ/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "intranet": {
+      "lemma": "intranet",
+      "pos": "noun",
+      "ko": "사내 인트라넷 (내부 전산망)",
+      "form": null,
+      "synonyms": [
+        "internal network",
+        "company website"
+      ],
+      "ipa": "/ˈɪntrəˌnɛt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "form": null,
+      "synonyms": [
+        "hold"
+      ],
+      "ipa": "/hæv/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 궁금한 점",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "call"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~로 (번호)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (번호)",
+      "form": null,
+      "synonyms": [
+        "internal line"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the purpose of the memo?",
+      "evidenceSentenceIds": [
+        "s5",
+        "s6"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To introduce a new sales manager"
+        },
+        {
+          "key": "B",
+          "text": "To announce a change in how expenses are reported"
+        },
+        {
+          "key": "C",
+          "text": "To explain why a budget was reduced"
+        },
+        {
+          "key": "D",
+          "text": "To invite staff to a client dinner"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "첫 문단에서 12월 1일부터 출장 경비 청구를 새 온라인 시스템으로만 받는다고 알린다. 경비를 '보고·청구하는 방식'이 바뀐다는 공지다.",
+      "choiceNotesKo": {
+        "C": "예산 삭감 이야기는 나오지 않는다.",
+        "D": "고객은 식사비 청구 때 이름을 적으라는 내용에만 나온다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What must employees do for an expense of more than $500?",
+      "evidenceSentenceIds": [
+        "s10"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Pay for it with a company credit card"
+        },
+        {
+          "key": "B",
+          "text": "Submit a paper form"
+        },
+        {
+          "key": "C",
+          "text": "Attend a training session"
+        },
+        {
+          "key": "D",
+          "text": "Obtain a manager's approval beforehand"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "500달러가 넘는 비용은 제출 전에 부서장의 승인을 받아야 한다고 했다. must be approved by your department manager before you submit it → obtain a manager's approval beforehand.",
+      "choiceNotesKo": {
+        "B": "종이 양식은 12월 1일 이후 받지 않는다.",
+        "C": "교육은 모든 직원을 위한 안내이지 500달러 초과 비용의 조건이 아니다."
+      },
+      "skill": "세부 사항(패러프레이징)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "What is suggested about the training sessions?",
+      "evidenceSentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Employees do not have to attend them in person."
+        },
+        {
+          "key": "B",
+          "text": "They will be led by department managers."
+        },
+        {
+          "key": "C",
+          "text": "Both will be held in Room 310."
+        },
+        {
+          "key": "D",
+          "text": "Every staff member is required to attend both."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "두 번째 교육은 온라인으로 열리고, 참석하지 못하면 녹화 영상을 봐도 된다. 따라서 직접(in person) 가지 않아도 된다는 것을 알 수 있다.",
+      "choiceNotesKo": {
+        "B": "교육은 재무팀(The finance team)이 진행한다.",
+        "C": "310호는 첫 번째 교육만이고 두 번째는 온라인이다.",
+        "D": "either session(둘 중 하나)도 못 가면 영상을 보라고 했으므로 둘 다 필수가 아니다."
+      },
+      "skill": "추론"
+    }
+  ]
+}
