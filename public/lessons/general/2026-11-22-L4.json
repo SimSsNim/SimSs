@@ -1,0 +1,2128 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-22-L4",
+  "date": "2026-11-22",
+  "level": 4,
+  "title": "David Swan",
+  "titleKo": "데이비드 스완",
+  "genre": "short-story",
+  "tags": [
+    "Nathaniel Hawthorne",
+    "short story",
+    "short-story"
+  ],
+  "source": {
+    "work": "Twice-Told Tales (David Swan)",
+    "author": "Nathaniel Hawthorne",
+    "translator": null,
+    "year": 1837,
+    "edition": "Project Gutenberg #508",
+    "url": "https://www.gutenberg.org/ebooks/508",
+    "license": "public-domain",
+    "excerptNote": "'David Swan' (부제 'A Fantasy'는 지문에서 뺌) 첫 단락 전체와 둘째 단락의 앞 네 문장 (‘We can be but partially acquainted…’부터 ‘…for any wayfarer but David Swan.’까지, 261단어). 우리 삶에는 알지 못한 채 스쳐 가는 일들이 많다는 작가의 생각과, 보스턴으로 가던 스무 살 청년 데이비드 스완이 길가 단풍나무 그늘의 샘을 발견하는 장면 (샘물을 마시고 잠드는 문장부터는 뺌; 둘째 단락 전체를 넣으면 300단어를 넘어서 문장 경계에서 끊음). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #508, 2tale10.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. 대시는 텍스트판 그대로 --."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/twice_told_tales_1206_librivox/twicetoldtales_14_hawthorne.mp3",
+    "mp3Low": "https://www.archive.org/download/twice_told_tales_1206_librivox/twicetoldtales_14_hawthorne_64kb.mp3",
+    "pageUrl": "https://librivox.org/twice-told-tales-by-nathaniel-hawthorne/",
+    "reader": "Bob Neufeld",
+    "durationSec": 928,
+    "startSec": 20,
+    "endSec": 140,
+    "note": "LibriVox Twice Told Tales, 트랙 14 'David Swan'(15:28). 지문은 이야기 맨 처음 부분(약 0:20~2:20, 추정)."
+  },
+  "wordCount": 261,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "우리는 우리 삶의 진로와 최종 운명에 실제로 영향을 주는 사건들조차 단지 부분적으로만 알 수 있을 뿐이다. 그 밖에도—그것을 사건이라 부를 수 있다면—우리 가까이 다가왔다가도 실제 결과를 남기지 않고, 심지어 우리 마음에 빛이나 그림자 하나 드리우지 않아 가까이 왔다는 것조차 알리지 않은 채 사라져 버리는 일들이 셀 수 없이 많다. 만약 우리가 우리 운명의 온갖 우여곡절을 다 알 수 있다면, 삶은 희망과 두려움, 기쁨과 실망으로 너무 가득 차서 단 한 시간의 진정한 평온도 누릴 수 없을 것이다. 이 생각은 데이비드 스완의 은밀한 이야기 중 한 페이지로 설명할 수 있을 것이다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "우리는 데이비드가 스무 살 나이에 고향에서 보스턴 시로 가는 큰길 위에 있을 때까지는 그와 아무 상관이 없다. 보스턴에서는 작은 식료품 가게를 하는 그의 삼촌이 그를 가게 점원으로 들일 참이었다. 그가 뉴햄프셔 출신으로 점잖은 부모에게서 태어났고, 평범한 학교 교육을 받은 뒤 길맨턴 아카데미에서 1년 동안 고전 교육으로 마무리했다는 정도만 말해 두면 충분하겠다. 어느 여름날 해 뜰 무렵부터 거의 정오까지 걸어서 길을 간 뒤, 피곤함과 점점 심해지는 더위 때문에 그는 처음 보이는 알맞은 그늘에 앉아 역마차가 오기를 기다리기로 마음먹었다. 마치 그를 위해 일부러 심어 놓은 것처럼 곧 작은 단풍나무 숲이 나타났다. 그 한가운데에는 기분 좋은 아늑한 공간이 있었고, 데이비드 스완 말고는 어떤 나그네를 위해서도 반짝인 적이 없었던 것처럼 보일 만큼 맑고 보글보글 솟는 샘이 있었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "We can be but partially acquainted even with the events which actually influence our course through life, and our final destiny.",
+      "ko": "우리는 우리 삶의 진로와 최종 운명에 실제로 영향을 주는 사건들조차 단지 부분적으로만 알 수 있을 뿐이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "There are innumerable other events--if such they may be called--which come close upon us, yet pass away without actual results, or even betraying their near approach, by the reflection of any light or shadow across our minds.",
+      "ko": "그 밖에도—그것을 사건이라 부를 수 있다면—우리 가까이 다가왔다가도 실제 결과를 남기지 않고, 심지어 우리 마음에 빛이나 그림자 하나 드리우지 않아 가까이 왔다는 것조차 알리지 않은 채 사라져 버리는 일들이 셀 수 없이 많다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Could we know all the vicissitudes of our fortunes, life would be too full of hope and fear, exultation or disappointment, to afford us a single hour of true serenity.",
+      "ko": "만약 우리가 우리 운명의 온갖 우여곡절을 다 알 수 있다면, 삶은 희망과 두려움, 기쁨과 실망으로 너무 가득 차서 단 한 시간의 진정한 평온도 누릴 수 없을 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "This idea may be illustrated by a page from the secret history of David Swan.",
+      "ko": "이 생각은 데이비드 스완의 은밀한 이야기 중 한 페이지로 설명할 수 있을 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "We have nothing to do with David until we find him, at the age of twenty, on the high road from his native place to the city of Boston, where his uncle, a small dealer in the grocery line, was to take him behind the counter.",
+      "ko": "우리는 데이비드가 스무 살 나이에 고향에서 보스턴 시로 가는 큰길 위에 있을 때까지는 그와 아무 상관이 없다. 보스턴에서는 작은 식료품 가게를 하는 그의 삼촌이 그를 가게 점원으로 들일 참이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "Be it enough to say that he was a native of New Hampshire, born of respectable parents, and had received an ordinary school education, with a classic finish by a year at Gilmanton Academy.",
+      "ko": "그가 뉴햄프셔 출신으로 점잖은 부모에게서 태어났고, 평범한 학교 교육을 받은 뒤 길맨턴 아카데미에서 1년 동안 고전 교육으로 마무리했다는 정도만 말해 두면 충분하겠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "After journeying on foot from sunrise till nearly noon of a summer's day, his weariness and the increasing heat determined him to sit down in the first convenient shade, and await the coming up of the stage-coach.",
+      "ko": "어느 여름날 해 뜰 무렵부터 거의 정오까지 걸어서 길을 간 뒤, 피곤함과 점점 심해지는 더위 때문에 그는 처음 보이는 알맞은 그늘에 앉아 역마차가 오기를 기다리기로 마음먹었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "As if planted on purpose for him, there soon appeared a little tuft of maples, with a delightful recess in the midst, and such a fresh bubbling spring that it seemed never to have sparkled for any wayfarer but David Swan.",
+      "ko": "마치 그를 위해 일부러 심어 놓은 것처럼 곧 작은 단풍나무 숲이 나타났다. 그 한가운데에는 기분 좋은 아늑한 공간이 있었고, 데이비드 스완 말고는 어떤 나그네를 위해서도 반짝인 적이 없었던 것처럼 보일 만큼 맑고 보글보글 솟는 샘이 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be acquainted with",
+      "pos": "phrase",
+      "meaningKo": "~을 알고 있다, ~에 익숙하다",
+      "ipa": "/bi əˈkweɪntɪd wɪð/",
+      "synonyms": [
+        "be familiar with",
+        "know"
+      ],
+      "matchText": "acquainted even with",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Are you acquainted with the new rules?",
+        "ko": "새 규칙을 알고 있니?"
+      }
+    },
+    {
+      "id": "v2",
+      "term": "innumerable",
+      "pos": "adjective",
+      "meaningKo": "셀 수 없이 많은",
+      "ipa": "/ɪˈnumərəbəl/",
+      "synonyms": [
+        "countless",
+        "numerous",
+        "endless"
+      ],
+      "matchText": "innumerable",
+      "sentenceId": "s2",
+      "example": {
+        "en": "There are innumerable stars in the sky.",
+        "ko": "하늘에는 셀 수 없이 많은 별이 있다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "vicissitudes",
+      "pos": "noun",
+      "meaningKo": "(인생·운명의) 우여곡절, 흥망성쇠",
+      "ipa": "/vɪˈsɪsɪˌtudz/",
+      "synonyms": [
+        "ups and downs",
+        "changes",
+        "fluctuations"
+      ],
+      "matchText": "vicissitudes",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She survived the vicissitudes of a long career.",
+        "ko": "그녀는 긴 경력의 우여곡절을 이겨 냈다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "serenity",
+      "pos": "noun",
+      "meaningKo": "평온, 고요함",
+      "ipa": "/səˈrɛnəti/",
+      "synonyms": [
+        "calm",
+        "peace",
+        "tranquility"
+      ],
+      "matchText": "serenity",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The lake gave him a feeling of serenity.",
+        "ko": "그 호수는 그에게 평온한 느낌을 주었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "on purpose",
+      "pos": "idiom",
+      "meaningKo": "일부러, 고의로",
+      "ipa": "/ɑn ˈpɝpəs/",
+      "synonyms": [
+        "deliberately",
+        "intentionally"
+      ],
+      "matchText": "on purpose",
+      "sentenceId": "s8",
+      "example": {
+        "en": "He didn't break the window on purpose.",
+        "ko": "그가 일부러 창문을 깬 것은 아니었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Could",
+          "role": "V",
+          "sub": true,
+          "ko": "만약 ~할 수 있다면"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "sub": true,
+          "ko": "우리가"
+        },
+        {
+          "text": "know",
+          "role": "V",
+          "sub": true,
+          "ko": "알다"
+        },
+        {
+          "text": "all the vicissitudes of our fortunes,",
+          "role": "O",
+          "sub": true,
+          "ko": "우리 운명의 모든 우여곡절을"
+        },
+        {
+          "text": "life",
+          "role": "S",
+          "sub": false,
+          "ko": "삶은"
+        },
+        {
+          "text": "would be",
+          "role": "V",
+          "sub": false,
+          "ko": "~일 것이다"
+        },
+        {
+          "text": "too full of hope and fear, exultation or disappointment,",
+          "role": "C",
+          "sub": false,
+          "ko": "희망과 두려움, 기쁨과 실망으로 너무 가득 찬"
+        },
+        {
+          "text": "to afford",
+          "role": "M",
+          "sub": false,
+          "ko": "(그래서) 줄 수 없을"
+        },
+        {
+          "text": "us",
+          "role": "IO",
+          "sub": false,
+          "ko": "우리에게"
+        },
+        {
+          "text": "a single hour of true serenity.",
+          "role": "O",
+          "sub": false,
+          "ko": "진정한 평온의 단 한 시간도"
+        }
+      ],
+      "skeleton": "(If we could know ~,) life would be too full to afford us an hour",
+      "explanation": "맨 앞의 Could we know는 If we could know에서 if를 생략하고 조동사를 주어 앞으로 보낸 가정법 과거 도치다. 주절은 would be로 현재 사실과 반대되는 상상을 나타낸다. too ~ to ...는 '너무 ~해서 …할 수 없다'는 뜻이고, afford는 '~에게 …을 주다'로 4형식으로 쓰였다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "sub": false,
+          "ko": "우리는"
+        },
+        {
+          "text": "have",
+          "role": "V",
+          "sub": false,
+          "ko": "가지다"
+        },
+        {
+          "text": "nothing",
+          "role": "O",
+          "sub": false,
+          "ko": "아무 상관도 (없다)"
+        },
+        {
+          "text": "to do with David",
+          "role": "M",
+          "sub": false,
+          "ko": "데이비드와"
+        },
+        {
+          "text": "until",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때까지"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "sub": true,
+          "ko": "우리가"
+        },
+        {
+          "text": "find",
+          "role": "V",
+          "sub": true,
+          "ko": "발견하다"
+        },
+        {
+          "text": "him,",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "at the age of twenty,",
+          "role": "M",
+          "sub": true,
+          "ko": "스무 살에"
+        },
+        {
+          "text": "on the high road from his native place to the city of Boston,",
+          "role": "M",
+          "sub": true,
+          "ko": "고향에서 보스턴 시로 가는 큰길 위에서"
+        },
+        {
+          "text": "where",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그곳에서"
+        },
+        {
+          "text": "his uncle, a small dealer in the grocery line,",
+          "role": "S",
+          "sub": true,
+          "ko": "작은 식료품상인 그의 삼촌이"
+        },
+        {
+          "text": "was to take",
+          "role": "V",
+          "sub": true,
+          "ko": "들일 예정이었다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "behind the counter.",
+          "role": "M",
+          "sub": true,
+          "ko": "계산대 뒤로 (점원으로)"
+        }
+      ],
+      "skeleton": "We have nothing to do with David until we find him",
+      "explanation": "have nothing to do with는 '~와 아무 관계가 없다'. until절 안에 장소·나이를 나타내는 수식어가 길게 붙고, where 이하 관계부사절이 Boston을 설명한다. his uncle 뒤의 a small dealer in the grocery line은 삼촌이 누구인지 밝히는 동격어구다. was to take는 be to 용법으로 '~할 예정이었다'."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "After journeying on foot from sunrise till nearly noon of a summer's day,",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 여름날 해 뜰 때부터 거의 정오까지 걸어서 간 뒤"
+        },
+        {
+          "text": "his weariness and the increasing heat",
+          "role": "S",
+          "sub": false,
+          "ko": "그의 피로와 심해지는 더위가"
+        },
+        {
+          "text": "determined",
+          "role": "V",
+          "sub": false,
+          "ko": "결심하게 했다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그가"
+        },
+        {
+          "text": "to sit down in the first convenient shade,",
+          "role": "OC",
+          "sub": false,
+          "ko": "처음 보이는 알맞은 그늘에 앉기로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "await the coming up of the stage-coach.",
+          "role": "OC",
+          "sub": false,
+          "ko": "역마차가 오기를 기다리기로"
+        }
+      ],
+      "skeleton": "his weariness and the heat determined him to sit down and await",
+      "explanation": "사물(피로와 더위)이 주어가 되어 사람(him)을 '~하게 만든' 무생물 주어 구문이다. determine + 목적어 + to부정사는 '~가 …하기로 결심하게 하다'. 우리말로는 '피곤하고 더워서 그는 ~하기로 했다'로 옮기면 자연스럽다. to sit down과 (to) await가 and로 나란히 이어진다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "if 생략 가정법 도치: Could we know ~",
+      "tags": [
+        "가정법",
+        "도치"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "Could we know",
+        "life would be"
+      ],
+      "explanation": "가정법 과거의 if절에서 if를 빼면 조동사(could, were, had 등)가 주어 앞으로 나간다. Could we know ~는 If we could know ~(만약 우리가 ~을 알 수 있다면)와 같고, 주절에는 would + 동사원형이 온다. 격식 있는 글에서 자주 쓰인다.",
+      "example": {
+        "en": "Were I rich, I would travel around the world.",
+        "ko": "내가 부자라면 세계 여행을 할 텐데."
+      },
+      "note": "= If I were rich, I would travel around the world."
+    },
+    {
+      "id": "g2",
+      "title": "too + 형용사 + to부정사: 너무 ~해서 …할 수 없다",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "too full of hope and fear",
+        "to afford us"
+      ],
+      "explanation": "too ~ to ...는 '너무 ~해서 …할 수 없다'는 뜻이다. life would be too full ... to afford us a single hour of true serenity는 '삶이 너무 가득 차서 단 한 시간의 평온도 줄 수 없을 것이다'라는 뜻이다. so ~ that ... cannot으로 바꿔 쓸 수 있다.",
+      "example": {
+        "en": "The soup was too hot to eat.",
+        "ko": "수프가 너무 뜨거워서 먹을 수 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "seem + 완료부정사(to have p.p.)",
+      "tags": [
+        "to부정사",
+        "시제"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "seemed never to have sparkled"
+      ],
+      "explanation": "seem to have + 과거분사는 '(그보다 앞선 때에) ~했던 것처럼 보이다'라는 뜻이다. it seemed never to have sparkled for any wayfarer but David Swan은 그 샘이 지금까지 데이비드 스완 말고는 어떤 나그네를 위해서도 반짝인 적이 없었던 것처럼 보였다는 뜻이다. 여기서 but은 '~ 외에는'(= except).",
+      "example": {
+        "en": "He seems to have lost his key.",
+        "ko": "그는 열쇠를 잃어버린 것 같다."
+      },
+      "note": "such a fresh bubbling spring that ~ 은 such + a + 형용사 + 명사 + that(너무 ~해서 …하다) 구문."
+    }
+  ],
+  "glossary": {
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다; (수동태) ~되다",
+      "form": "원형",
+      "ipa": "/biː/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "adverb",
+      "ko": "단지, ~일 뿐 (but partially); (any ~ but A) A 외에는",
+      "form": null,
+      "synonyms": [
+        "only",
+        "merely",
+        "except"
+      ],
+      "ipa": "/bʌt/"
+    },
+    "partially": {
+      "lemma": "partially",
+      "pos": "adverb",
+      "ko": "부분적으로",
+      "form": null,
+      "synonyms": [
+        "partly",
+        "incompletely"
+      ],
+      "ipa": "/ˈpɑːrʃəli/"
+    },
+    "acquainted": {
+      "lemma": "acquainted",
+      "pos": "adjective",
+      "ko": "(be acquainted with) ~을 알고 있는",
+      "form": null,
+      "synonyms": [
+        "familiar",
+        "aware"
+      ],
+      "ipa": "/əˈkweɪntɪd/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, 심지어",
+      "form": null,
+      "synonyms": [
+        "still",
+        "yet"
+      ],
+      "ipa": "/ˈiːvɪn/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "(acquainted with) ~을; ~이 있는",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "events": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "사건, 일",
+      "form": "복수형",
+      "synonyms": [
+        "happenings",
+        "incidents",
+        "occurrences"
+      ],
+      "ipa": "/ɪˈvɛnts/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "actually": {
+      "lemma": "actually",
+      "pos": "adverb",
+      "ko": "실제로",
+      "form": null,
+      "synonyms": [
+        "really",
+        "in fact"
+      ],
+      "ipa": "/ˈækˌtʃuːəli/"
+    },
+    "influence": {
+      "lemma": "influence",
+      "pos": "verb",
+      "ko": "영향을 주다",
+      "form": null,
+      "synonyms": [
+        "affect",
+        "shape",
+        "sway"
+      ],
+      "ipa": "/ˈɪnfluəns/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "course": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "진로, 행로",
+      "form": null,
+      "synonyms": [
+        "path",
+        "direction",
+        "way"
+      ],
+      "ipa": "/kɔːrs/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 거치는 (course through life: 인생 행로)",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "삶, 인생",
+      "form": null,
+      "synonyms": [
+        "existence"
+      ],
+      "ipa": "/laɪf/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "final": {
+      "lemma": "final",
+      "pos": "adjective",
+      "ko": "마지막의, 최종적인",
+      "form": null,
+      "synonyms": [
+        "ultimate",
+        "last",
+        "eventual"
+      ],
+      "ipa": "/ˈfaɪnəl/"
+    },
+    "destiny": {
+      "lemma": "destiny",
+      "pos": "noun",
+      "ko": "운명",
+      "form": null,
+      "synonyms": [
+        "fate",
+        "fortune",
+        "lot"
+      ],
+      "ipa": "/ˈdɛstəni/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there are ~) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 있다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "innumerable": {
+      "lemma": "innumerable",
+      "pos": "adjective",
+      "ko": "셀 수 없이 많은",
+      "form": null,
+      "synonyms": [
+        "countless",
+        "numerous"
+      ],
+      "ipa": "/ˌɪˈnuːmərəbəl/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "그 밖의, 다른",
+      "form": null,
+      "synonyms": [
+        "additional",
+        "further"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "pronoun",
+      "ko": "그러한 것 (if such they may be called: 그렇게 부를 수 있다면)",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다, ~일지도 모른다; ~할 수 있다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "부르다",
+      "form": "과거분사",
+      "synonyms": [
+        "named",
+        "termed"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come close upon: ~에 가까이 다가오다)",
+      "form": null,
+      "synonyms": [
+        "approach",
+        "draw near"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "close": {
+      "lemma": "close",
+      "pos": "adverb",
+      "ko": "가까이",
+      "form": null,
+      "synonyms": [
+        "near",
+        "nearby"
+      ],
+      "ipa": "/kloʊs/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "conjunction",
+      "ko": "그러나, 그런데도",
+      "form": null,
+      "synonyms": [
+        "but",
+        "still"
+      ],
+      "ipa": "/jɛt/"
+    },
+    "pass": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "(pass away) 지나가 버리다, 사라지다",
+      "form": null,
+      "synonyms": [
+        "vanish",
+        "fade"
+      ],
+      "ipa": "/pæs/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 사라져",
+      "form": null,
+      "synonyms": [
+        "off"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "actual": {
+      "lemma": "actual",
+      "pos": "adjective",
+      "ko": "실제의",
+      "form": null,
+      "synonyms": [
+        "real",
+        "concrete"
+      ],
+      "ipa": "/ˈæktʃəwəl/"
+    },
+    "results": {
+      "lemma": "result",
+      "pos": "noun",
+      "ko": "결과",
+      "form": "복수형",
+      "synonyms": [
+        "outcomes",
+        "effects",
+        "consequences"
+      ],
+      "ipa": "/rɪˈzʌlts/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "betraying": {
+      "lemma": "betray",
+      "pos": "verb",
+      "ko": "(무심코) 드러내다, 알리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "revealing",
+        "showing",
+        "disclosing"
+      ],
+      "ipa": "/bɪˈtreɪɪŋ/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "adjective",
+      "ko": "가까운, 가까이 온",
+      "form": null,
+      "synonyms": [
+        "close",
+        "imminent"
+      ],
+      "ipa": "/nɪr/"
+    },
+    "approach": {
+      "lemma": "approach",
+      "pos": "noun",
+      "ko": "다가옴, 접근",
+      "form": null,
+      "synonyms": [
+        "coming",
+        "advance",
+        "arrival"
+      ],
+      "ipa": "/əˈproʊtʃ/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~으로 (수단); (수동태) ~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "reflection": {
+      "lemma": "reflection",
+      "pos": "noun",
+      "ko": "비침, 반사",
+      "form": null,
+      "synonyms": [
+        "mirroring",
+        "image"
+      ],
+      "ipa": "/rɪˈflɛkʃən/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~도",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "light": {
+      "lemma": "light",
+      "pos": "noun",
+      "ko": "빛",
+      "form": null,
+      "synonyms": [
+        "glow",
+        "gleam"
+      ],
+      "ipa": "/laɪt/"
+    },
+    "shadow": {
+      "lemma": "shadow",
+      "pos": "noun",
+      "ko": "그림자",
+      "form": null,
+      "synonyms": [
+        "shade"
+      ],
+      "ipa": "/ˈʃæˌdoʊ/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~을 가로질러",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "minds": {
+      "lemma": "mind",
+      "pos": "noun",
+      "ko": "마음",
+      "form": "복수형",
+      "synonyms": [
+        "thoughts",
+        "hearts"
+      ],
+      "ipa": "/maɪndz/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "(가정법) ~할 수 있다면",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand",
+        "foresee"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "vicissitudes": {
+      "lemma": "vicissitude",
+      "pos": "noun",
+      "ko": "우여곡절, 흥망성쇠",
+      "form": "복수형",
+      "synonyms": [
+        "ups and downs",
+        "changes"
+      ],
+      "ipa": "/vɪˈsɪsɪtudz/"
+    },
+    "fortunes": {
+      "lemma": "fortune",
+      "pos": "noun",
+      "ko": "운, 운명",
+      "form": "복수형",
+      "synonyms": [
+        "lots",
+        "destinies",
+        "luck"
+      ],
+      "ipa": "/ˈfɔːrtʃənz/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "(가정법) ~일 것이다",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무 (too ~ to ...: 너무 ~해서 …할 수 없다)",
+      "form": null,
+      "synonyms": [
+        "excessively",
+        "overly"
+      ],
+      "ipa": "/tuː/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "가득 찬",
+      "form": null,
+      "synonyms": [
+        "filled",
+        "packed"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "hope": {
+      "lemma": "hope",
+      "pos": "noun",
+      "ko": "희망",
+      "form": null,
+      "synonyms": [
+        "expectation",
+        "optimism"
+      ],
+      "ipa": "/hoʊp/"
+    },
+    "fear": {
+      "lemma": "fear",
+      "pos": "noun",
+      "ko": "두려움",
+      "form": null,
+      "synonyms": [
+        "dread",
+        "anxiety",
+        "fright"
+      ],
+      "ipa": "/fɪr/"
+    },
+    "exultation": {
+      "lemma": "exultation",
+      "pos": "noun",
+      "ko": "크게 기뻐함, 환희",
+      "form": null,
+      "synonyms": [
+        "joy",
+        "elation",
+        "triumph"
+      ],
+      "ipa": "/ˌɛɡzʌlˈteɪʃən/"
+    },
+    "disappointment": {
+      "lemma": "disappointment",
+      "pos": "noun",
+      "ko": "실망",
+      "form": null,
+      "synonyms": [
+        "letdown",
+        "dismay"
+      ],
+      "ipa": "/ˌdɪsəˈpɔɪntmənt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "afford": {
+      "lemma": "afford",
+      "pos": "verb",
+      "ko": "(시간·여유 등을) 주다, 제공하다",
+      "form": null,
+      "synonyms": [
+        "give",
+        "provide",
+        "grant"
+      ],
+      "ipa": "/əˈfɔːrd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "single": {
+      "lemma": "single",
+      "pos": "adjective",
+      "ko": "단 하나의",
+      "form": null,
+      "synonyms": [
+        "one",
+        "sole",
+        "lone"
+      ],
+      "ipa": "/ˈsɪŋɡəl/"
+    },
+    "hour": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "한 시간, 때",
+      "form": null,
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/ˈaʊər/"
+    },
+    "true": {
+      "lemma": "true",
+      "pos": "adjective",
+      "ko": "진정한",
+      "form": null,
+      "synonyms": [
+        "real",
+        "genuine"
+      ],
+      "ipa": "/truː/"
+    },
+    "serenity": {
+      "lemma": "serenity",
+      "pos": "noun",
+      "ko": "평온",
+      "form": null,
+      "synonyms": [
+        "calm",
+        "peace",
+        "tranquility"
+      ],
+      "ipa": "/səˈrɛnəti/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "idea": {
+      "lemma": "idea",
+      "pos": "noun",
+      "ko": "생각",
+      "form": null,
+      "synonyms": [
+        "thought",
+        "notion"
+      ],
+      "ipa": "/aɪˈdiːə/"
+    },
+    "illustrated": {
+      "lemma": "illustrate",
+      "pos": "verb",
+      "ko": "(예를 들어) 설명하다",
+      "form": "과거분사",
+      "synonyms": [
+        "shown",
+        "demonstrated",
+        "explained"
+      ],
+      "ipa": "/ˈɪləˌstreɪtəd/"
+    },
+    "page": {
+      "lemma": "page",
+      "pos": "noun",
+      "ko": "페이지, (이야기의) 한 대목",
+      "form": null,
+      "synonyms": [
+        "chapter",
+        "episode"
+      ],
+      "ipa": "/peɪdʒ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "secret": {
+      "lemma": "secret",
+      "pos": "adjective",
+      "ko": "은밀한, 알려지지 않은",
+      "form": null,
+      "synonyms": [
+        "hidden",
+        "private",
+        "unknown"
+      ],
+      "ipa": "/ˈsiːkrət/"
+    },
+    "history": {
+      "lemma": "history",
+      "pos": "noun",
+      "ko": "(개인의) 이야기, 내력",
+      "form": null,
+      "synonyms": [
+        "story",
+        "account",
+        "record"
+      ],
+      "ipa": "/ˈhɪstəri/"
+    },
+    "david": {
+      "lemma": "David",
+      "pos": "proper-noun",
+      "ko": "데이비드 (주인공 이름)",
+      "form": null,
+      "ipa": "/ˈdeɪvɪd/"
+    },
+    "swan": {
+      "lemma": "Swan",
+      "pos": "proper-noun",
+      "ko": "스완 (주인공의 성)",
+      "form": null,
+      "ipa": "/swɑːn/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have nothing to do with) ~와 관계없다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 (~ 없다)",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "(have nothing to do with) 관계하다",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다, 만나다",
+      "form": null,
+      "synonyms": [
+        "discover",
+        "come upon"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "age": {
+      "lemma": "age",
+      "pos": "noun",
+      "ko": "나이",
+      "form": null,
+      "synonyms": [
+        "years"
+      ],
+      "ipa": "/eɪdʒ/"
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "pos": "number",
+      "ko": "스물, 20",
+      "form": null,
+      "ipa": "/ˈtwɛnti/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "high": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "(high road) 큰길, 간선 도로",
+      "form": null,
+      "synonyms": [
+        "main",
+        "chief"
+      ],
+      "ipa": "/haɪ/"
+    },
+    "road": {
+      "lemma": "road",
+      "pos": "noun",
+      "ko": "길, 도로",
+      "form": null,
+      "synonyms": [
+        "highway",
+        "route"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "native": {
+      "lemma": "native",
+      "pos": "adjective",
+      "ko": "태어난, 고향의 (native place: 고향); (noun) ~ 출신",
+      "form": null,
+      "synonyms": [
+        "home",
+        "birth"
+      ],
+      "ipa": "/ˈneɪtɪv/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "곳 (native place: 고향)",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "town"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "city": {
+      "lemma": "city",
+      "pos": "noun",
+      "ko": "도시",
+      "form": null,
+      "synonyms": [
+        "town",
+        "metropolis"
+      ],
+      "ipa": "/ˈsɪti/"
+    },
+    "boston": {
+      "lemma": "Boston",
+      "pos": "proper-noun",
+      "ko": "보스턴 (미국 매사추세츠주의 도시)",
+      "form": null,
+      "ipa": "/ˈbɑːstən/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "~하는 곳에",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "uncle": {
+      "lemma": "uncle",
+      "pos": "noun",
+      "ko": "삼촌, 외삼촌",
+      "form": null,
+      "synonyms": [
+        "relative"
+      ],
+      "ipa": "/ˈʌŋkəl/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은, 규모가 작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "modest"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "dealer": {
+      "lemma": "dealer",
+      "pos": "noun",
+      "ko": "상인",
+      "form": null,
+      "synonyms": [
+        "merchant",
+        "trader",
+        "seller"
+      ],
+      "ipa": "/ˈdiːlər/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "grocery": {
+      "lemma": "grocery",
+      "pos": "noun",
+      "ko": "식료품 (grocery line: 식료품업)",
+      "form": null,
+      "synonyms": [
+        "food",
+        "provisions"
+      ],
+      "ipa": "/ˈɡroʊsəri/"
+    },
+    "line": {
+      "lemma": "line",
+      "pos": "noun",
+      "ko": "업종, 분야",
+      "form": null,
+      "synonyms": [
+        "business",
+        "trade",
+        "field"
+      ],
+      "ipa": "/laɪn/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; (be to) ~할 예정이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다, (점원으로) 들이다",
+      "form": null,
+      "synonyms": [
+        "employ",
+        "hire",
+        "bring"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "counter": {
+      "lemma": "counter",
+      "pos": "noun",
+      "ko": "계산대, 판매대 (behind the counter: 점원으로)",
+      "form": null,
+      "synonyms": [
+        "desk",
+        "stand"
+      ],
+      "ipa": "/ˈkaʊntər/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adjective",
+      "ko": "충분한 (Be it enough to say: ~라고만 말해 두자)",
+      "form": null,
+      "synonyms": [
+        "sufficient",
+        "adequate"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "state",
+        "mention"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사); (such ~ that) 너무 ~해서",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "new": {
+      "lemma": "New",
+      "pos": "proper-noun",
+      "ko": "(New Hampshire) 뉴햄프셔의 일부",
+      "form": null,
+      "ipa": "/nuː/"
+    },
+    "hampshire": {
+      "lemma": "Hampshire",
+      "pos": "proper-noun",
+      "ko": "(New Hampshire) 뉴햄프셔 (미국 북동부의 주)",
+      "form": null,
+      "ipa": "/ˈhæmpʃər/"
+    },
+    "born": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "태어난",
+      "form": "과거분사",
+      "synonyms": [
+        "descended"
+      ],
+      "ipa": "/bɔːrn/"
+    },
+    "respectable": {
+      "lemma": "respectable",
+      "pos": "adjective",
+      "ko": "점잖은, 존경할 만한",
+      "form": null,
+      "synonyms": [
+        "decent",
+        "honorable",
+        "worthy"
+      ],
+      "ipa": "/rɪˈspɛktəbəl/"
+    },
+    "parents": {
+      "lemma": "parent",
+      "pos": "noun",
+      "ko": "부모",
+      "form": "복수형",
+      "synonyms": [
+        "mother and father"
+      ],
+      "ipa": "/ˈpɛrənts/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + p.p.) ~했었다 (과거완료)",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받았다",
+      "form": "과거분사",
+      "synonyms": [
+        "got",
+        "obtained"
+      ],
+      "ipa": "/rəˈsiːvd/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ordinary": {
+      "lemma": "ordinary",
+      "pos": "adjective",
+      "ko": "평범한, 보통의",
+      "form": null,
+      "synonyms": [
+        "common",
+        "usual",
+        "average"
+      ],
+      "ipa": "/ˈɔːrdəˌnɛri/"
+    },
+    "school": {
+      "lemma": "school",
+      "pos": "noun",
+      "ko": "학교",
+      "form": null,
+      "synonyms": [
+        "academy"
+      ],
+      "ipa": "/skuːl/"
+    },
+    "education": {
+      "lemma": "education",
+      "pos": "noun",
+      "ko": "교육",
+      "form": null,
+      "synonyms": [
+        "schooling",
+        "training"
+      ],
+      "ipa": "/ˌɛdʒəˈkeɪʃən/"
+    },
+    "classic": {
+      "lemma": "classic",
+      "pos": "adjective",
+      "ko": "고전의 (그리스·라틴 고전 교육)",
+      "form": null,
+      "synonyms": [
+        "classical"
+      ],
+      "ipa": "/ˈklæsɪk/"
+    },
+    "finish": {
+      "lemma": "finish",
+      "pos": "noun",
+      "ko": "마무리, 완성",
+      "form": null,
+      "synonyms": [
+        "completion",
+        "polish"
+      ],
+      "ipa": "/ˈfɪnɪʃ/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "form": null,
+      "synonyms": [
+        "twelve months"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "gilmanton": {
+      "lemma": "Gilmanton",
+      "pos": "proper-noun",
+      "ko": "길맨턴 (뉴햄프셔의 마을)",
+      "form": null,
+      "ipa": "/ˈɡɪlməntən/"
+    },
+    "academy": {
+      "lemma": "academy",
+      "pos": "noun",
+      "ko": "아카데미, 사립 중등학교",
+      "form": null,
+      "synonyms": [
+        "school",
+        "college"
+      ],
+      "ipa": "/əˈkædəmi/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~한 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "journeying": {
+      "lemma": "journey",
+      "pos": "verb",
+      "ko": "여행하다, 길을 가다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "traveling",
+        "walking"
+      ],
+      "ipa": "/ˈdʒɜːrniɪŋ/"
+    },
+    "foot": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발 (on foot: 걸어서)",
+      "form": null,
+      "ipa": "/fʊt/"
+    },
+    "sunrise": {
+      "lemma": "sunrise",
+      "pos": "noun",
+      "ko": "해돋이",
+      "form": null,
+      "synonyms": [
+        "dawn",
+        "daybreak"
+      ],
+      "ipa": "/ˈsʌnˌraɪz/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "nearly": {
+      "lemma": "nearly",
+      "pos": "adverb",
+      "ko": "거의",
+      "form": null,
+      "synonyms": [
+        "almost",
+        "close to"
+      ],
+      "ipa": "/ˈnɪrli/"
+    },
+    "noon": {
+      "lemma": "noon",
+      "pos": "noun",
+      "ko": "정오, 한낮",
+      "form": null,
+      "synonyms": [
+        "midday"
+      ],
+      "ipa": "/nuːn/"
+    },
+    "summer's": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름의",
+      "form": "소유격",
+      "ipa": "/ˈsʌmərz/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "weariness": {
+      "lemma": "weariness",
+      "pos": "noun",
+      "ko": "피로",
+      "form": null,
+      "synonyms": [
+        "fatigue",
+        "tiredness",
+        "exhaustion"
+      ],
+      "ipa": "/ˈwɪrinəs/"
+    },
+    "increasing": {
+      "lemma": "increase",
+      "pos": "adjective",
+      "ko": "점점 심해지는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "growing",
+        "rising"
+      ],
+      "ipa": "/ˌɪnˈkriːsɪŋ/"
+    },
+    "heat": {
+      "lemma": "heat",
+      "pos": "noun",
+      "ko": "더위, 열기",
+      "form": null,
+      "synonyms": [
+        "warmth",
+        "hotness"
+      ],
+      "ipa": "/hiːt/"
+    },
+    "determined": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "(determine A to ~) A가 ~하기로 결심하게 했다",
+      "form": "과거형",
+      "synonyms": [
+        "led",
+        "decided",
+        "caused"
+      ],
+      "ipa": "/dɪˈtɜːrmənd/"
+    },
+    "sit": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다 (sit down: 앉다)",
+      "form": null,
+      "synonyms": [
+        "rest",
+        "settle"
+      ],
+      "ipa": "/sɪt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로 (sit down: 앉다)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "처음의, 첫 번째",
+      "form": null,
+      "synonyms": [
+        "earliest",
+        "initial"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "convenient": {
+      "lemma": "convenient",
+      "pos": "adjective",
+      "ko": "알맞은, 편리한",
+      "form": null,
+      "synonyms": [
+        "suitable",
+        "handy",
+        "fitting"
+      ],
+      "ipa": "/kənˈviːnjənt/"
+    },
+    "shade": {
+      "lemma": "shade",
+      "pos": "noun",
+      "ko": "그늘",
+      "form": null,
+      "synonyms": [
+        "shadow",
+        "cover"
+      ],
+      "ipa": "/ʃeɪd/"
+    },
+    "await": {
+      "lemma": "await",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "wait for",
+        "expect"
+      ],
+      "ipa": "/əˈweɪt/"
+    },
+    "coming": {
+      "lemma": "coming",
+      "pos": "noun",
+      "ko": "옴, 도착 (the coming up of: ~이 다가옴)",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "arrival",
+        "approach"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(come up) 다가오다, 나타나다",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "stage-coach": {
+      "lemma": "stage-coach",
+      "pos": "noun",
+      "ko": "역마차 (정해진 길을 다니는 승합 마차)",
+      "form": null,
+      "synonyms": [
+        "coach",
+        "carriage"
+      ],
+      "ipa": "/steɪdʒ-koʊtʃ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~인 것처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "planted": {
+      "lemma": "plant",
+      "pos": "verb",
+      "ko": "심어진",
+      "form": "과거분사",
+      "synonyms": [
+        "set",
+        "placed",
+        "sown"
+      ],
+      "ipa": "/ˈplæntɪd/"
+    },
+    "purpose": {
+      "lemma": "purpose",
+      "pos": "noun",
+      "ko": "목적 (on purpose: 일부러)",
+      "form": null,
+      "synonyms": [
+        "intention",
+        "design"
+      ],
+      "ipa": "/ˈpɜːrpəs/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly",
+        "presently"
+      ],
+      "ipa": "/suːn/"
+    },
+    "appeared": {
+      "lemma": "appear",
+      "pos": "verb",
+      "ko": "나타났다",
+      "form": "과거형",
+      "synonyms": [
+        "emerged",
+        "showed up"
+      ],
+      "ipa": "/əˈpɪrd/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "tuft": {
+      "lemma": "tuft",
+      "pos": "noun",
+      "ko": "(나무·풀의) 작은 무리, 덤불",
+      "form": null,
+      "synonyms": [
+        "cluster",
+        "clump",
+        "grove"
+      ],
+      "ipa": "/tʌft/"
+    },
+    "maples": {
+      "lemma": "maple",
+      "pos": "noun",
+      "ko": "단풍나무",
+      "form": "복수형",
+      "synonyms": [
+        "maple trees"
+      ],
+      "ipa": "/ˈmeɪpəlz/"
+    },
+    "delightful": {
+      "lemma": "delightful",
+      "pos": "adjective",
+      "ko": "기분 좋은, 즐거운",
+      "form": null,
+      "synonyms": [
+        "pleasant",
+        "lovely",
+        "charming"
+      ],
+      "ipa": "/dɪˈlaɪtfəl/"
+    },
+    "recess": {
+      "lemma": "recess",
+      "pos": "noun",
+      "ko": "움푹 들어간 곳, 아늑한 공간",
+      "form": null,
+      "synonyms": [
+        "nook",
+        "hollow",
+        "alcove"
+      ],
+      "ipa": "/rɪˈsɛs/"
+    },
+    "midst": {
+      "lemma": "midst",
+      "pos": "noun",
+      "ko": "한가운데",
+      "form": null,
+      "synonyms": [
+        "middle",
+        "center"
+      ],
+      "ipa": "/mɪdst/"
+    },
+    "fresh": {
+      "lemma": "fresh",
+      "pos": "adjective",
+      "ko": "맑은, 신선한",
+      "form": null,
+      "synonyms": [
+        "clean",
+        "pure",
+        "cool"
+      ],
+      "ipa": "/frɛʃ/"
+    },
+    "bubbling": {
+      "lemma": "bubble",
+      "pos": "adjective",
+      "ko": "보글보글 솟아나는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "gurgling",
+        "foaming"
+      ],
+      "ipa": "/ˈbʌbəlɪŋ/"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "샘",
+      "form": null,
+      "synonyms": [
+        "fountain",
+        "well",
+        "source"
+      ],
+      "ipa": "/sprɪŋ/"
+    },
+    "seemed": {
+      "lemma": "seem",
+      "pos": "verb",
+      "ko": "~인 것 같았다",
+      "form": "과거형",
+      "synonyms": [
+        "appeared",
+        "looked"
+      ],
+      "ipa": "/siːmd/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "한 번도 ~않다",
+      "form": null,
+      "synonyms": [
+        "not ever"
+      ],
+      "ipa": "/ˈnɛvər/"
+    },
+    "sparkled": {
+      "lemma": "sparkle",
+      "pos": "verb",
+      "ko": "반짝였다",
+      "form": "과거분사",
+      "synonyms": [
+        "glittered",
+        "shone",
+        "twinkled"
+      ],
+      "ipa": "/ˈspɑːrkəld/"
+    },
+    "wayfarer": {
+      "lemma": "wayfarer",
+      "pos": "noun",
+      "ko": "나그네, 길손",
+      "form": null,
+      "synonyms": [
+        "traveler",
+        "wanderer",
+        "walker"
+      ],
+      "ipa": "/ˈweɪˌfɛrər/"
+    }
+  }
+}

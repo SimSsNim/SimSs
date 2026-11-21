@@ -1,0 +1,2033 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-22-L4-2",
+  "date": "2026-11-22",
+  "level": 4,
+  "title": "An Unfinished Story",
+  "titleKo": "끝나지 않은 이야기",
+  "genre": "short-story",
+  "tags": [
+    "O. Henry",
+    "short story",
+    "short-story"
+  ],
+  "source": {
+    "work": "The Four Million (An Unfinished Story)",
+    "author": "O. Henry",
+    "translator": null,
+    "year": 1906,
+    "edition": "Project Gutenberg #2776",
+    "url": "https://www.gutenberg.org/ebooks/2776",
+    "license": "public-domain",
+    "excerptNote": "'An Unfinished Story' 7~12번째 단락 (꿈 이야기 서두가 끝난 뒤 ‘Dulcie worked in a department store.’부터 ‘…she had fifty cents left of her last week's wages.’까지, 255단어). 백화점 점원 덜시가 주급 6달러로 살아가는 형편과, 동료 세이디에게 '피기'와 저녁 약속을 했다고 자랑하고 서둘러 집으로 가는 장면 (작가가 심판의 날 꿈을 이야기하는 앞의 여섯 단락과, 덜시가 50센트로 레이스 깃을 사는 다음 단락부터는 뺌). 'G----'(God을 말하려다 멈춘 것)와 'Reverend Doctor--Well'은 원문 그대로. gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2776, 2776-8.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. 이탤릭 표시 밑줄(_medulla oblongata_)은 지우고 글자만 남김. 따옴표는 텍스트판 그대로 곧은 따옴표, 대시는 --."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/fourmillion_2603_librivox/fourmillion_17_henry_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/fourmillion_2603_librivox/fourmillion_17_henry_64kb.mp3",
+    "pageUrl": "https://librivox.org/four-million-version-3-by-o-henry/",
+    "reader": "valroth",
+    "durationSec": 911,
+    "startSec": 115,
+    "endSec": 225,
+    "note": "LibriVox The Four Million (Version 3), 트랙 17 'An Unfinished Story'(15:11). 지문은 앞의 꿈 이야기 서두 뒤, 덜시가 처음 나오는 부분부터(약 1:55~3:45, 단어 수로 어림한 위치)."
+  },
+  "wordCount": 255,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "덜시는 백화점에서 일했다. 그녀는 함부르크 레이스나 속을 채운 피망, 자동차, 혹은 백화점에서 파는 그 밖의 자질구레한 물건들을 팔았다. 그녀가 번 돈 가운데 덜시가 받는 것은 일주일에 6달러였다. 나머지는 그녀 앞으로 적립되었다가, G——가 관리하는 장부에서 다른 누군가의 계좌로 넘어갔다. 아, 목사님, '근원 에너지'라고 하셔야 한다고요? 좋습니다, 그럼 '근원 에너지의 장부'에서요."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "가게에서 일한 첫해에 덜시는 일주일에 5달러를 받았다. 그 돈으로 그녀가 어떻게 살았는지 알아보는 것은 교훈이 될 것이다. 관심 없다고? 좋다. 아마 여러분은 더 큰 액수에 관심이 있는 모양이다. 6달러는 더 큰 액수다. 그녀가 일주일에 6달러로 어떻게 살았는지 이야기해 주겠다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "어느 날 오후 6시, 덜시가 자기 연수(뇌의 맨 아랫부분)에서 8분의 1인치도 안 되는 곳까지 모자 핀을 찔러 넣으며, 단짝 세이디—왼쪽 옆구리를 내민 채 손님을 맞는 그 아가씨—에게 말했다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "\"있잖아, 세이드, 나 오늘 저녁에 피기랑 저녁 먹기로 약속했어.\""
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17"
+      ],
+      "ko": "\"설마!\" 세이디가 부러운 듯 소리쳤다. \"어머, 너 운 좋다! 피기는 엄청 멋쟁이잖아. 여자애들을 늘 멋진 데만 데려가거든. 어느 날 저녁엔 블랑시를 호프만 하우스에 데려갔대. 거기선 멋진 음악이 나오고, 멋쟁이들도 잔뜩 볼 수 있어. 너 정말 멋진 시간 보내겠다, 덜스.\""
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s18",
+        "s19",
+        "s20"
+      ],
+      "ko": "덜시는 서둘러 집으로 향했다. 그녀의 눈은 반짝였고, 뺨에는 삶의—진짜 삶의—다가오는 새벽처럼 연한 분홍빛이 감돌았다. 금요일이었고, 그녀에게는 지난주 급료 가운데 50센트가 남아 있었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dulcie worked in a department store.",
+      "ko": "덜시는 백화점에서 일했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "She sold Hamburg edging, or stuffed peppers, or automobiles, or other little trinkets such as they keep in department stores.",
+      "ko": "그녀는 함부르크 레이스나 속을 채운 피망, 자동차, 혹은 백화점에서 파는 그 밖의 자질구레한 물건들을 팔았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Of what she earned, Dulcie received six dollars per week.",
+      "ko": "그녀가 번 돈 가운데 덜시가 받는 것은 일주일에 6달러였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The remainder was credited to her and debited to somebody else's account in the ledger kept by G---- Oh, primal energy, you say, Reverend Doctor--Well then, in the Ledger of Primal Energy.",
+      "ko": "나머지는 그녀 앞으로 적립되었다가, G——가 관리하는 장부에서 다른 누군가의 계좌로 넘어갔다. 아, 목사님, '근원 에너지'라고 하셔야 한다고요? 좋습니다, 그럼 '근원 에너지의 장부'에서요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "During her first year in the store, Dulcie was paid five dollars per week.",
+      "ko": "가게에서 일한 첫해에 덜시는 일주일에 5달러를 받았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "It would be instructive to know how she lived on that amount.",
+      "ko": "그 돈으로 그녀가 어떻게 살았는지 알아보는 것은 교훈이 될 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "Don't care?",
+      "ko": "관심 없다고?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "Very well; probably you are interested in larger amounts.",
+      "ko": "좋다. 아마 여러분은 더 큰 액수에 관심이 있는 모양이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p2",
+      "en": "Six dollars is a larger amount.",
+      "ko": "6달러는 더 큰 액수다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p2",
+      "en": "I will tell you how she lived on six dollars per week.",
+      "ko": "그녀가 일주일에 6달러로 어떻게 살았는지 이야기해 주겠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p3",
+      "en": "One afternoon at six, when Dulcie was sticking her hat-pin within an eighth of an inch of her medulla oblongata, she said to her chum, Sadie--the girl that waits on you with her left side:",
+      "ko": "어느 날 오후 6시, 덜시가 자기 연수(뇌의 맨 아랫부분)에서 8분의 1인치도 안 되는 곳까지 모자 핀을 찔러 넣으며, 단짝 세이디—왼쪽 옆구리를 내민 채 손님을 맞는 그 아가씨—에게 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p4",
+      "en": "\"Say, Sade, I made a date for dinner this evening with Piggy.\"",
+      "ko": "\"있잖아, 세이드, 나 오늘 저녁에 피기랑 저녁 먹기로 약속했어.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "\"You never did!\" exclaimed Sadie admiringly.",
+      "ko": "\"설마!\" 세이디가 부러운 듯 소리쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p5",
+      "en": "\"Well, ain't you the lucky one?",
+      "ko": "\"어머, 너 운 좋다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p5",
+      "en": "Piggy's an awful swell; and he always takes a girl to swell places.",
+      "ko": "피기는 엄청 멋쟁이잖아. 여자애들을 늘 멋진 데만 데려가거든.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p5",
+      "en": "He took Blanche up to the Hoffman House one evening, where they have swell music, and you see a lot of swells.",
+      "ko": "어느 날 저녁엔 블랑시를 호프만 하우스에 데려갔대. 거기선 멋진 음악이 나오고, 멋쟁이들도 잔뜩 볼 수 있어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s17",
+      "paragraphId": "p5",
+      "en": "You'll have a swell time, Dulce.\"",
+      "ko": "너 정말 멋진 시간 보내겠다, 덜스.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s18",
+      "paragraphId": "p6",
+      "en": "Dulcie hurried homeward.",
+      "ko": "덜시는 서둘러 집으로 향했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s19",
+      "paragraphId": "p6",
+      "en": "Her eyes were shining, and her cheeks showed the delicate pink of life's--real life's--approaching dawn.",
+      "ko": "그녀의 눈은 반짝였고, 뺨에는 삶의—진짜 삶의—다가오는 새벽처럼 연한 분홍빛이 감돌았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s20",
+      "paragraphId": "p6",
+      "en": "It was Friday; and she had fifty cents left of her last week's wages.",
+      "ko": "금요일이었고, 그녀에게는 지난주 급료 가운데 50센트가 남아 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "trinket",
+      "pos": "noun",
+      "meaningKo": "자질구레한 장신구, 값싼 물건",
+      "ipa": "/ˈtrɪŋkɪt/",
+      "synonyms": [
+        "knick-knack",
+        "bauble",
+        "trifle"
+      ],
+      "matchText": "trinkets",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She bought a few trinkets at the market.",
+        "ko": "그녀는 시장에서 자질구레한 물건 몇 개를 샀다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "remainder",
+      "pos": "noun",
+      "meaningKo": "나머지",
+      "ipa": "/rɪˈmeɪndər/",
+      "synonyms": [
+        "rest",
+        "balance",
+        "remains"
+      ],
+      "matchText": "remainder",
+      "sentenceId": "s4",
+      "example": {
+        "en": "He spent the remainder of the day reading.",
+        "ko": "그는 그날의 나머지를 책을 읽으며 보냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "instructive",
+      "pos": "adjective",
+      "meaningKo": "교훈이 되는, 배울 점이 많은",
+      "ipa": "/ɪnˈstrʌktɪv/",
+      "synonyms": [
+        "educational",
+        "informative",
+        "enlightening"
+      ],
+      "matchText": "instructive",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The trip to the museum was very instructive.",
+        "ko": "박물관 견학은 무척 배울 점이 많았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "make a date",
+      "pos": "phrase",
+      "meaningKo": "(만날) 약속을 하다, 데이트 약속을 잡다",
+      "ipa": "/meɪk ə ˈdeɪt/",
+      "synonyms": [
+        "arrange to meet",
+        "make an appointment"
+      ],
+      "matchText": "made a date",
+      "sentenceId": "s12",
+      "example": {
+        "en": "I made a date with my friend for Saturday.",
+        "ko": "나는 친구와 토요일에 만날 약속을 했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "admiringly",
+      "pos": "adverb",
+      "meaningKo": "감탄하며, 부러운 듯이",
+      "ipa": "/ədˈmaɪrɪŋli/",
+      "synonyms": [
+        "approvingly",
+        "enviously",
+        "in awe"
+      ],
+      "matchText": "admiringly",
+      "sentenceId": "s13",
+      "example": {
+        "en": "The children looked admiringly at the firefighter.",
+        "ko": "아이들은 감탄하며 소방관을 바라보았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Of",
+          "role": "M",
+          "sub": false,
+          "ko": "~ 중에서"
+        },
+        {
+          "text": "what",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~한 것"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "earned,",
+          "role": "V",
+          "sub": true,
+          "ko": "번"
+        },
+        {
+          "text": "Dulcie",
+          "role": "S",
+          "sub": false,
+          "ko": "덜시는"
+        },
+        {
+          "text": "received",
+          "role": "V",
+          "sub": false,
+          "ko": "받았다"
+        },
+        {
+          "text": "six dollars",
+          "role": "O",
+          "sub": false,
+          "ko": "6달러를"
+        },
+        {
+          "text": "per week.",
+          "role": "M",
+          "sub": false,
+          "ko": "일주일에"
+        }
+      ],
+      "skeleton": "Dulcie received six dollars",
+      "explanation": "what she earned는 '그녀가 번 것'이라는 명사절로 전치사 of의 목적어다. Of what she earned(그녀가 번 것 가운데)가 문장 앞에 나와 강조된다. 번 돈 전부가 아니라 그중 6달러만 받았다는 점, 곧 나머지는 가게가 가져갔다는 풍자가 담겨 있다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "One afternoon at six,",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날 오후 6시에"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하고 있을 때"
+        },
+        {
+          "text": "Dulcie",
+          "role": "S",
+          "sub": true,
+          "ko": "덜시가"
+        },
+        {
+          "text": "was sticking",
+          "role": "V",
+          "sub": true,
+          "ko": "찔러 넣고 있었다"
+        },
+        {
+          "text": "her hat-pin",
+          "role": "O",
+          "sub": true,
+          "ko": "모자 핀을"
+        },
+        {
+          "text": "within an eighth of an inch of her medulla oblongata,",
+          "role": "M",
+          "sub": true,
+          "ko": "자기 연수에서 8분의 1인치 안쪽까지"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "to her chum, Sadie--the girl",
+          "role": "M",
+          "sub": false,
+          "ko": "단짝 세이디—그 아가씨—에게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 아가씨는)"
+        },
+        {
+          "text": "waits on",
+          "role": "V",
+          "sub": true,
+          "ko": "시중든다, 응대한다"
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "sub": true,
+          "ko": "당신을"
+        },
+        {
+          "text": "with her left side:",
+          "role": "M",
+          "sub": true,
+          "ko": "왼쪽 옆구리를 내밀고"
+        }
+      ],
+      "skeleton": "she said to her chum, Sadie",
+      "explanation": "when절이 시간 배경을 길게 그리고 나서 주절 she said to her chum이 나온다. Sadie와 the girl은 her chum과 같은 사람을 가리키는 동격이고, that 이하 관계대명사절이 the girl을 설명한다. 모자 핀을 뇌 바로 아래까지 찔러 넣는다는 과장과 '왼쪽 옆구리로 손님을 맞는다'는 묘사는 오 헨리 특유의 익살이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s16",
+      "chunks": [
+        {
+          "text": "He",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "took",
+          "role": "V",
+          "sub": false,
+          "ko": "데려갔다"
+        },
+        {
+          "text": "Blanche",
+          "role": "O",
+          "sub": false,
+          "ko": "블랑시를"
+        },
+        {
+          "text": "up to the Hoffman House",
+          "role": "M",
+          "sub": false,
+          "ko": "호프만 하우스까지"
+        },
+        {
+          "text": "one evening,",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날 저녁"
+        },
+        {
+          "text": "where",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그곳에서는"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들(그곳 사람들)이"
+        },
+        {
+          "text": "have",
+          "role": "V",
+          "sub": true,
+          "ko": "있다, 갖추고 있다"
+        },
+        {
+          "text": "swell music,",
+          "role": "O",
+          "sub": true,
+          "ko": "멋진 음악을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": true,
+          "ko": "사람들이"
+        },
+        {
+          "text": "see",
+          "role": "V",
+          "sub": true,
+          "ko": "보다"
+        },
+        {
+          "text": "a lot of swells.",
+          "role": "O",
+          "sub": true,
+          "ko": "많은 멋쟁이들을"
+        }
+      ],
+      "skeleton": "He took Blanche up to the Hoffman House",
+      "explanation": "where는 장소(the Hoffman House)를 설명하는 관계부사로, 콤마 뒤에서 '그런데 그곳에서는'처럼 덧붙여 설명한다. 이 they와 you는 특정한 사람이 아니라 '일반 사람들'을 가리킨다. swell이 형용사(멋진)와 명사(멋쟁이)로 되풀이되는 세이디의 말투가 재미있다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "관계대명사 what: ~하는 것",
+      "tags": [
+        "관계사",
+        "명사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "Of what she earned"
+      ],
+      "explanation": "what은 선행사를 품은 관계대명사로 '~하는 것'(= the thing which)이라는 뜻이다. what she earned는 '그녀가 번 것(돈)'이며 전치사 of의 목적어로 쓰였다. what절은 주어·목적어·보어 자리에 모두 올 수 있다.",
+      "example": {
+        "en": "What you said made me happy.",
+        "ko": "네가 한 말이 나를 기쁘게 했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "가주어 it + to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "It would be instructive to know"
+      ],
+      "explanation": "to부정사 주어가 길면 주어 자리에 it을 두고 진짜 주어(to know how she lived on that amount)는 뒤로 보낸다. '그녀가 그 돈으로 어떻게 살았는지 아는 것은 교훈이 될 것이다'라는 뜻이다. how she lived ~는 know의 목적어인 간접의문문(의문사 + 주어 + 동사)이다.",
+      "example": {
+        "en": "It is important to drink enough water.",
+        "ko": "충분한 물을 마시는 것은 중요하다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "수동태 + 전치사: be paid, be interested in",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "was paid five dollars"
+      ],
+      "explanation": "Dulcie was paid five dollars는 '덜시는 5달러를 받았다'(누군가가 덜시에게 5달러를 지급했다)는 수동태다. pay처럼 목적어를 두 개 가질 수 있는 동사는 사람을 주어로 한 수동태를 만들 수 있다. 뒤 문장의 you are interested in larger amounts도 '~에 관심이 있다'는 수동태 표현이다.",
+      "example": {
+        "en": "She was given a prize for her essay.",
+        "ko": "그녀는 에세이로 상을 받았다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "dulcie": {
+      "lemma": "Dulcie",
+      "pos": "proper-noun",
+      "ko": "덜시 (주인공 이름)",
+      "form": null,
+      "ipa": "/ˈdʌlki/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일했다",
+      "form": "과거형",
+      "synonyms": [
+        "labored",
+        "was employed"
+      ],
+      "ipa": "/wɜːrkt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "(department store) 백화점",
+      "form": null,
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "store": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "가게 (department store: 백화점)",
+      "form": null,
+      "synonyms": [
+        "shop"
+      ],
+      "ipa": "/stɔːr/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "sold": {
+      "lemma": "sell",
+      "pos": "verb",
+      "ko": "팔았다",
+      "form": "과거형",
+      "synonyms": [
+        "traded",
+        "retailed"
+      ],
+      "ipa": "/soʊld/"
+    },
+    "hamburg": {
+      "lemma": "Hamburg",
+      "pos": "proper-noun",
+      "ko": "함부르크 (Hamburg edging: 함부르크식 레이스 테두리 장식)",
+      "form": null,
+      "ipa": "/ˈhæmbərɡ/"
+    },
+    "edging": {
+      "lemma": "edging",
+      "pos": "noun",
+      "ko": "가장자리 장식, 테두리 레이스",
+      "form": null,
+      "synonyms": [
+        "border",
+        "trim",
+        "lace"
+      ],
+      "ipa": "/ˈɛdʒɪŋ/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는, 혹은",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "stuffed": {
+      "lemma": "stuff",
+      "pos": "adjective",
+      "ko": "속을 채운",
+      "form": "과거분사",
+      "synonyms": [
+        "filled"
+      ],
+      "ipa": "/stʌft/"
+    },
+    "peppers": {
+      "lemma": "pepper",
+      "pos": "noun",
+      "ko": "피망, 고추",
+      "form": "복수형",
+      "synonyms": [
+        "capsicums"
+      ],
+      "ipa": "/ˈpɛpərz/"
+    },
+    "automobiles": {
+      "lemma": "automobile",
+      "pos": "noun",
+      "ko": "자동차",
+      "form": "복수형",
+      "synonyms": [
+        "cars",
+        "motorcars"
+      ],
+      "ipa": "/ˈɔːtəmoʊˌbiːlz/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "그 밖의, 다른",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "자그마한, 사소한",
+      "form": null,
+      "synonyms": [
+        "small",
+        "petty"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "trinkets": {
+      "lemma": "trinket",
+      "pos": "noun",
+      "ko": "자질구레한 물건, 싸구려 장신구",
+      "form": "복수형",
+      "synonyms": [
+        "knick-knacks",
+        "baubles",
+        "trifles"
+      ],
+      "ipa": "/ˈtrɪŋkəts/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "(such as) ~와 같은",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(such as) ~와 같은",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(물건을) 갖추어 두다, 팔다",
+      "form": null,
+      "synonyms": [
+        "stock",
+        "carry",
+        "sell"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "stores": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "가게 (department stores: 백화점)",
+      "form": "복수형",
+      "synonyms": [
+        "shops"
+      ],
+      "ipa": "/stɔːrz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~하는 것 (관계대명사)",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "earned": {
+      "lemma": "earn",
+      "pos": "verb",
+      "ko": "벌었다",
+      "form": "과거형",
+      "synonyms": [
+        "made",
+        "gained"
+      ],
+      "ipa": "/ɜːrnd/"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받았다",
+      "form": "과거형",
+      "synonyms": [
+        "got",
+        "was given"
+      ],
+      "ipa": "/rəˈsiːvd/"
+    },
+    "six": {
+      "lemma": "six",
+      "pos": "number",
+      "ko": "여섯, 6",
+      "form": null,
+      "ipa": "/sɪks/"
+    },
+    "dollars": {
+      "lemma": "dollar",
+      "pos": "noun",
+      "ko": "달러",
+      "form": "복수형",
+      "synonyms": [
+        "bucks"
+      ],
+      "ipa": "/ˈdɑːlərz/"
+    },
+    "per": {
+      "lemma": "per",
+      "pos": "preposition",
+      "ko": "~당, ~마다",
+      "form": null,
+      "ipa": "/pɜːr/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "synonyms": [
+        "seven days"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "remainder": {
+      "lemma": "remainder",
+      "pos": "noun",
+      "ko": "나머지",
+      "form": null,
+      "synonyms": [
+        "rest",
+        "balance"
+      ],
+      "ipa": "/rɪˈmeɪndər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "credited": {
+      "lemma": "credit",
+      "pos": "verb",
+      "ko": "(장부에) 입금되다, 적립되다",
+      "form": "과거분사",
+      "synonyms": [
+        "added",
+        "recorded"
+      ],
+      "ipa": "/ˈkrɛdətəd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "determiner",
+      "ko": "그녀의",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "debited": {
+      "lemma": "debit",
+      "pos": "verb",
+      "ko": "(장부에서) 차감되다, 출금되다",
+      "form": "과거분사",
+      "synonyms": [
+        "charged",
+        "deducted"
+      ],
+      "ipa": "/ˈdɛbɪˌtɪd/"
+    },
+    "somebody": {
+      "lemma": "somebody",
+      "pos": "pronoun",
+      "ko": "누군가",
+      "form": null,
+      "ipa": "/ˈsʌmˌbɑːdi/"
+    },
+    "else's": {
+      "lemma": "else",
+      "pos": "adjective",
+      "ko": "(somebody else's) 다른 누군가의",
+      "form": "소유격",
+      "synonyms": [
+        "other's"
+      ],
+      "ipa": "/ˈɛlsɪz/"
+    },
+    "account": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "계좌, 장부 항목",
+      "form": null,
+      "synonyms": [
+        "record",
+        "tab"
+      ],
+      "ipa": "/əˈkaʊnt/"
+    },
+    "ledger": {
+      "lemma": "ledger",
+      "pos": "noun",
+      "ko": "원장, 회계 장부",
+      "form": null,
+      "synonyms": [
+        "account book",
+        "register",
+        "books"
+      ],
+      "ipa": "/ˈlɛdʒər/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(장부를) 기록·관리하다",
+      "form": "과거분사",
+      "synonyms": [
+        "maintained",
+        "recorded"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "g": {
+      "lemma": "G",
+      "pos": "proper-noun",
+      "ko": "G—— (God(하느님)을 말하려다 멈춘 것)",
+      "form": null,
+      "ipa": "/dʒiː/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "아, 오",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "primal": {
+      "lemma": "primal",
+      "pos": "adjective",
+      "ko": "근원적인, 원시의",
+      "form": null,
+      "synonyms": [
+        "original",
+        "primary",
+        "fundamental"
+      ],
+      "ipa": "/ˈpraɪməl/"
+    },
+    "energy": {
+      "lemma": "energy",
+      "pos": "noun",
+      "ko": "에너지",
+      "form": null,
+      "synonyms": [
+        "force",
+        "power"
+      ],
+      "ipa": "/ˈɛnərdʒi/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다 (you say: 당신이 말하길); (Say,) 있잖아, 저기 (말을 걸 때)",
+      "form": null,
+      "synonyms": [
+        "state",
+        "tell"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "reverend": {
+      "lemma": "Reverend",
+      "pos": "adjective",
+      "ko": "(목사의 존칭) ~ 목사님",
+      "form": null,
+      "ipa": "/ˈrɛvərənd/"
+    },
+    "doctor": {
+      "lemma": "Doctor",
+      "pos": "noun",
+      "ko": "박사 (Reverend Doctor: 목사님 호칭)",
+      "form": null,
+      "ipa": "/ˈdɑːktər/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "interjection",
+      "ko": "글쎄, 좋아, 그럼; 어머",
+      "form": null,
+      "ipa": "/wɛl/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그럼, 그렇다면",
+      "form": null,
+      "synonyms": [
+        "in that case"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의",
+      "form": null,
+      "synonyms": [
+        "initial"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 1년",
+      "form": null,
+      "synonyms": [
+        "twelve months"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "paid": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(돈을) 지급받다",
+      "form": "과거분사",
+      "synonyms": [
+        "given",
+        "compensated"
+      ],
+      "ipa": "/peɪd/"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "다섯, 5",
+      "form": null,
+      "ipa": "/faɪv/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "~일 것이다",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "원형",
+      "ipa": "/biː/"
+    },
+    "instructive": {
+      "lemma": "instructive",
+      "pos": "adjective",
+      "ko": "교훈이 되는, 유익한",
+      "form": null,
+      "synonyms": [
+        "educational",
+        "informative",
+        "enlightening"
+      ],
+      "ipa": "/ˌɪnˈstrʌktɪv/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "learn",
+        "find out"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "(live on) ~으로 살았다",
+      "form": "과거형",
+      "synonyms": [
+        "survived",
+        "got by"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그 (지시형용사); (관계대명사) ~하는",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "amount": {
+      "lemma": "amount",
+      "pos": "noun",
+      "ko": "액수, 양",
+      "form": null,
+      "synonyms": [
+        "sum",
+        "quantity"
+      ],
+      "ipa": "/əˈmaʊnt/"
+    },
+    "don't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않다 (do not의 줄임말; 여기서는 앞의 You가 생략됨)",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "care": {
+      "lemma": "care",
+      "pos": "verb",
+      "ko": "관심을 갖다, 상관하다",
+      "form": null,
+      "synonyms": [
+        "mind",
+        "be concerned"
+      ],
+      "ipa": "/kɛr/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "(Very well) 좋다, 알았다",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "probably": {
+      "lemma": "probably",
+      "pos": "adverb",
+      "ko": "아마",
+      "form": null,
+      "synonyms": [
+        "likely",
+        "perhaps"
+      ],
+      "ipa": "/ˈprɑːbəˌbliː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (be interested in) ~에 관심이 있다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "interested": {
+      "lemma": "interested",
+      "pos": "adjective",
+      "ko": "관심이 있는",
+      "form": "과거분사",
+      "synonyms": [
+        "curious",
+        "concerned"
+      ],
+      "ipa": "/ˈɪntrəstɪd/"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "bigger",
+        "greater"
+      ],
+      "ipa": "/ˈlɑːrdʒər/"
+    },
+    "amounts": {
+      "lemma": "amount",
+      "pos": "noun",
+      "ko": "액수",
+      "form": "복수형",
+      "synonyms": [
+        "sums"
+      ],
+      "ipa": "/əˈmaʊnts/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수 현재형",
+      "ipa": "/ɪz/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하겠다, ~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말해 주다",
+      "form": null,
+      "synonyms": [
+        "explain",
+        "describe"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "(one afternoon) 어느",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "sticking": {
+      "lemma": "stick",
+      "pos": "verb",
+      "ko": "찔러 넣다, 꽂다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "pushing",
+        "poking",
+        "jabbing"
+      ],
+      "ipa": "/ˈstɪkɪŋ/"
+    },
+    "hat-pin": {
+      "lemma": "hat-pin",
+      "pos": "noun",
+      "ko": "모자 핀 (모자를 머리에 고정하는 긴 핀)",
+      "form": null,
+      "synonyms": [
+        "pin",
+        "hatpin"
+      ],
+      "ipa": "/hæt-pɪn/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 안에서, ~ 내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "eighth": {
+      "lemma": "eighth",
+      "pos": "noun",
+      "ko": "8분의 1",
+      "form": null,
+      "ipa": "/eɪtθ/"
+    },
+    "inch": {
+      "lemma": "inch",
+      "pos": "noun",
+      "ko": "인치 (약 2.54cm)",
+      "form": null,
+      "ipa": "/ɪntʃ/"
+    },
+    "medulla": {
+      "lemma": "medulla",
+      "pos": "noun",
+      "ko": "(medulla oblongata) 연수 (뇌의 맨 아랫부분)",
+      "form": null,
+      "ipa": "/mɪˈdʌlə/"
+    },
+    "oblongata": {
+      "lemma": "oblongata",
+      "pos": "noun",
+      "ko": "(medulla oblongata) 연수의 일부",
+      "form": null,
+      "ipa": "/ˌɑblɔŋˈɡɑtə/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "told"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "chum": {
+      "lemma": "chum",
+      "pos": "noun",
+      "ko": "단짝 친구",
+      "form": null,
+      "synonyms": [
+        "pal",
+        "buddy",
+        "friend"
+      ],
+      "ipa": "/tʃʌm/"
+    },
+    "sadie": {
+      "lemma": "Sadie",
+      "pos": "proper-noun",
+      "ko": "세이디 (덜시의 친구)",
+      "form": null,
+      "ipa": "/ˈsædi/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "아가씨, 소녀",
+      "form": null,
+      "synonyms": [
+        "young woman",
+        "lass"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "waits": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "(wait on) 시중들다, (손님을) 응대하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "serves",
+        "attends"
+      ],
+      "ipa": "/weɪts/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "left": {
+      "lemma": "left",
+      "pos": "adjective",
+      "ko": "왼쪽의",
+      "form": null,
+      "ipa": "/lɛft/"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "옆구리, 쪽",
+      "form": null,
+      "synonyms": [
+        "flank"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "sade": {
+      "lemma": "Sade",
+      "pos": "proper-noun",
+      "ko": "세이드 (Sadie를 줄여 부르는 이름)",
+      "form": null,
+      "ipa": "/seɪd/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make a date) 약속을 했다",
+      "form": "과거형",
+      "synonyms": [
+        "arranged",
+        "set up"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "(만날) 약속, 데이트",
+      "form": null,
+      "synonyms": [
+        "appointment",
+        "engagement"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "dinner": {
+      "lemma": "dinner",
+      "pos": "noun",
+      "ko": "저녁 식사",
+      "form": null,
+      "synonyms": [
+        "supper"
+      ],
+      "ipa": "/ˈdɪnər/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁 (this evening: 오늘 저녁)",
+      "form": null,
+      "synonyms": [
+        "night"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "piggy": {
+      "lemma": "Piggy",
+      "pos": "proper-noun",
+      "ko": "피기 (남자의 별명)",
+      "form": null,
+      "ipa": "/ˈpɪɡi/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "(You never did!) 설마, 정말?",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "했다 (앞 동사의 반복을 피하는 말)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "exclaimed": {
+      "lemma": "exclaim",
+      "pos": "verb",
+      "ko": "소리쳤다, 외쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "cried",
+        "shouted"
+      ],
+      "ipa": "/ɪksˈkleɪmd/"
+    },
+    "admiringly": {
+      "lemma": "admiringly",
+      "pos": "adverb",
+      "ko": "감탄하며, 부러운 듯이",
+      "form": null,
+      "synonyms": [
+        "approvingly",
+        "enviously"
+      ],
+      "ipa": "/ædˈmaɪrɪŋli/"
+    },
+    "ain't": {
+      "lemma": "ain't",
+      "pos": "auxiliary",
+      "ko": "aren't (are not)의 속어 (ain't you ~?: 너 ~ 아니니?)",
+      "form": "줄임말",
+      "ipa": "/eɪnt/"
+    },
+    "lucky": {
+      "lemma": "lucky",
+      "pos": "adjective",
+      "ko": "운 좋은",
+      "form": null,
+      "synonyms": [
+        "fortunate"
+      ],
+      "ipa": "/ˈlʌki/"
+    },
+    "piggy's": {
+      "lemma": "Piggy",
+      "pos": "proper-noun",
+      "ko": "피기는 (Piggy is의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/ˈpɪɡiz/"
+    },
+    "awful": {
+      "lemma": "awful",
+      "pos": "adverb",
+      "ko": "(구어) 엄청, 굉장히",
+      "form": null,
+      "synonyms": [
+        "very",
+        "really",
+        "terribly"
+      ],
+      "ipa": "/ˈɑːfəl/"
+    },
+    "swell": {
+      "lemma": "swell",
+      "pos": "noun",
+      "ko": "(옛 구어) 멋쟁이; (형용사) 멋진, 근사한",
+      "form": null,
+      "synonyms": [
+        "dandy",
+        "toff; great",
+        "fine"
+      ],
+      "ipa": "/swɛl/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "항상, 늘",
+      "form": null,
+      "synonyms": [
+        "constantly",
+        "every time"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "takes": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "brings",
+        "escorts"
+      ],
+      "ipa": "/teɪks/"
+    },
+    "places": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "장소",
+      "form": "복수형",
+      "synonyms": [
+        "spots",
+        "venues"
+      ],
+      "ipa": "/ˈpleɪsəz/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take up to) ~에 데려갔다",
+      "form": "과거형",
+      "synonyms": [
+        "brought",
+        "escorted"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "blanche": {
+      "lemma": "Blanche",
+      "pos": "proper-noun",
+      "ko": "블랑시 (여자 이름)",
+      "form": null,
+      "ipa": "/blæntʃ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(take up to) ~까지",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "hoffman": {
+      "lemma": "Hoffman",
+      "pos": "proper-noun",
+      "ko": "(Hoffman House) 호프만 하우스 (뉴욕의 고급 호텔)",
+      "form": null,
+      "ipa": "/ˈhɔːfmən/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "(Hoffman House) 호텔 이름의 일부",
+      "form": null,
+      "synonyms": [
+        "hotel"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "~하는 곳에",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "있다, 갖추고 있다",
+      "form": null,
+      "synonyms": [
+        "offer",
+        "feature"
+      ],
+      "ipa": "/hæv/"
+    },
+    "music": {
+      "lemma": "music",
+      "pos": "noun",
+      "ko": "음악",
+      "form": null,
+      "synonyms": [
+        "tunes"
+      ],
+      "ipa": "/ˈmjuːzɪk/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "notice"
+      ],
+      "ipa": "/siː/"
+    },
+    "lot": {
+      "lemma": "lot",
+      "pos": "noun",
+      "ko": "(a lot of) 많은",
+      "form": null,
+      "ipa": "/lɑːt/"
+    },
+    "swells": {
+      "lemma": "swell",
+      "pos": "noun",
+      "ko": "(옛 구어) 멋쟁이들, 상류층 사람들",
+      "form": "복수형",
+      "synonyms": [
+        "dandies",
+        "toffs"
+      ],
+      "ipa": "/swɛlz/"
+    },
+    "you'll": {
+      "lemma": "you will",
+      "pos": "pronoun",
+      "ko": "너는 ~할 것이다 (you will의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/juːl/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간 (have a swell time: 멋진 시간을 보내다)",
+      "form": null,
+      "synonyms": [
+        "experience"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "dulce": {
+      "lemma": "Dulce",
+      "pos": "proper-noun",
+      "ko": "덜스 (Dulcie를 줄여 부르는 이름)",
+      "form": null,
+      "ipa": "/dʌls/"
+    },
+    "hurried": {
+      "lemma": "hurry",
+      "pos": "verb",
+      "ko": "서둘러 갔다",
+      "form": "과거형",
+      "synonyms": [
+        "rushed",
+        "hastened"
+      ],
+      "ipa": "/ˈhɜːrid/"
+    },
+    "homeward": {
+      "lemma": "homeward",
+      "pos": "adverb",
+      "ko": "집 쪽으로",
+      "form": null,
+      "synonyms": [
+        "home",
+        "homewards"
+      ],
+      "ipa": "/ˈhoʊmwərd/"
+    },
+    "eyes": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈",
+      "form": "복수형",
+      "synonyms": [
+        "gaze"
+      ],
+      "ipa": "/aɪz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(진행형) ~하고 있었다",
+      "form": "과거형(복수)",
+      "ipa": "/wɜːr/"
+    },
+    "shining": {
+      "lemma": "shine",
+      "pos": "verb",
+      "ko": "빛나다, 반짝이다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "sparkling",
+        "gleaming"
+      ],
+      "ipa": "/ˈʃaɪnɪŋ/"
+    },
+    "cheeks": {
+      "lemma": "cheek",
+      "pos": "noun",
+      "ko": "뺨",
+      "form": "복수형",
+      "ipa": "/tʃiːks/"
+    },
+    "showed": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보였다, 드러냈다",
+      "form": "과거형",
+      "synonyms": [
+        "displayed",
+        "revealed"
+      ],
+      "ipa": "/ʃoʊd/"
+    },
+    "delicate": {
+      "lemma": "delicate",
+      "pos": "adjective",
+      "ko": "은은한, 연한",
+      "form": null,
+      "synonyms": [
+        "soft",
+        "subtle",
+        "pale"
+      ],
+      "ipa": "/ˈdɛləkət/"
+    },
+    "pink": {
+      "lemma": "pink",
+      "pos": "noun",
+      "ko": "분홍빛",
+      "form": null,
+      "synonyms": [
+        "rose",
+        "blush"
+      ],
+      "ipa": "/pɪŋk/"
+    },
+    "life's": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "삶의",
+      "form": "소유격",
+      "ipa": "/laɪfs/"
+    },
+    "real": {
+      "lemma": "real",
+      "pos": "adjective",
+      "ko": "진짜의",
+      "form": null,
+      "synonyms": [
+        "true",
+        "genuine"
+      ],
+      "ipa": "/riːl/"
+    },
+    "approaching": {
+      "lemma": "approach",
+      "pos": "adjective",
+      "ko": "다가오는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "coming",
+        "nearing"
+      ],
+      "ipa": "/əˈproʊtʃɪŋ/"
+    },
+    "dawn": {
+      "lemma": "dawn",
+      "pos": "noun",
+      "ko": "새벽, 시작",
+      "form": null,
+      "synonyms": [
+        "daybreak",
+        "beginning"
+      ],
+      "ipa": "/dɔːn/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "held",
+        "kept"
+      ],
+      "ipa": "/hæd/"
+    },
+    "fifty": {
+      "lemma": "fifty",
+      "pos": "number",
+      "ko": "쉰, 50",
+      "form": null,
+      "ipa": "/ˈfɪfti/"
+    },
+    "cents": {
+      "lemma": "cent",
+      "pos": "noun",
+      "ko": "센트 (1달러의 100분의 1)",
+      "form": "복수형",
+      "synonyms": [
+        "pennies"
+      ],
+      "ipa": "/sɛnts/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "past"
+      ],
+      "ipa": "/læst/"
+    },
+    "week's": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주의 (last week's: 지난주의)",
+      "form": "소유격",
+      "ipa": "/wiːks/"
+    },
+    "wages": {
+      "lemma": "wage",
+      "pos": "noun",
+      "ko": "급료, 임금",
+      "form": "복수형",
+      "synonyms": [
+        "pay",
+        "earnings",
+        "salary"
+      ],
+      "ipa": "/ˈweɪdʒəz/"
+    }
+  }
+}
