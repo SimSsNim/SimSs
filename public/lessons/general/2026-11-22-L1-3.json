@@ -1,0 +1,1178 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-22-L1-3",
+  "date": "2026-11-22",
+  "level": 1,
+  "title": "The Astronomer",
+  "titleKo": "천문학자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_12_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_12_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-8-fables-176-200",
+    "reader": "Mariann Margitics",
+    "durationSec": 85,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 08, 12번 트랙(전체 187번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 115,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "옛날에 밤마다 밖에 나가 별을 관찰하는 것이 습관인 천문학자가 있었다. 어느 날 밤, 그는 성문 밖을 이리저리 걸으면서 하늘을 올려다보는 데 푹 빠져 자기가 어디로 가는지 보지 않다가 말라 버린 우물에 빠지고 말았다. 그가 그 안에 누워 끙끙 앓고 있을 때, 지나가던 누군가가 그 소리를 듣고 우물 가장자리로 와서 아래를 내려다보았다. 그리고 무슨 일이 있었는지 알게 되자 이렇게 말했다. \"당신이 하늘을 너무 열심히 보느라 땅 위에서 발이 당신을 어디로 데려가는지도 못 봤다는 게 정말이라면, 내가 보기엔 당신은 그런 일을 당해도 싸군요.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was once an Astronomer whose habit it was to go out at night and observe the stars.",
+      "ko": "옛날에 밤마다 밖에 나가 별을 관찰하는 것이 습관인 천문학자가 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "One night, as he was walking about outside the town gates, gazing up absorbed into the sky and not looking where he was going, he fell into a dry well.",
+      "ko": "어느 날 밤, 그는 성문 밖을 이리저리 걸으면서 하늘을 올려다보는 데 푹 빠져 자기가 어디로 가는지 보지 않다가 말라 버린 우물에 빠지고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "As he lay there groaning, some one passing by heard him, and, coming to the edge of the well, looked down and, on learning what had happened, said, \"If you really mean to say that you were looking so hard at the sky that you didn't even see where your feet were carrying you along the ground, it appears to me that you deserve all you've got.\"",
+      "ko": "그가 그 안에 누워 끙끙 앓고 있을 때, 지나가던 누군가가 그 소리를 듣고 우물 가장자리로 와서 아래를 내려다보았다. 그리고 무슨 일이 있었는지 알게 되자 이렇게 말했다. \"당신이 하늘을 너무 열심히 보느라 땅 위에서 발이 당신을 어디로 데려가는지도 못 봤다는 게 정말이라면, 내가 보기엔 당신은 그런 일을 당해도 싸군요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "observe",
+      "pos": "verb",
+      "meaningKo": "관찰하다, 지켜보다",
+      "ipa": "/əbˈzɝv/",
+      "synonyms": [
+        "watch",
+        "study"
+      ],
+      "matchText": "observe",
+      "sentenceId": "s1",
+      "example": {
+        "en": "We observed the birds through a window.",
+        "ko": "우리는 창문으로 새들을 관찰했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "gaze",
+      "pos": "verb",
+      "meaningKo": "(가만히) 바라보다, 응시하다",
+      "ipa": "/ɡeɪz/",
+      "synonyms": [
+        "stare",
+        "look"
+      ],
+      "matchText": "gazing",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She was gazing at the moon.",
+        "ko": "그녀는 달을 바라보고 있었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "absorbed",
+      "pos": "adjective",
+      "meaningKo": "~에 푹 빠진, 몰두한",
+      "ipa": "/əbˈzɔrbd/",
+      "synonyms": [
+        "lost",
+        "engrossed"
+      ],
+      "matchText": "absorbed",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He was absorbed in his book.",
+        "ko": "그는 책에 푹 빠져 있었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "groan",
+      "pos": "verb",
+      "meaningKo": "(아파서) 끙끙 앓다, 신음하다",
+      "ipa": "/ɡroʊn/",
+      "synonyms": [
+        "moan",
+        "whimper"
+      ],
+      "matchText": "groaning",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The boy groaned with pain.",
+        "ko": "소년은 아파서 신음했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "deserve",
+      "pos": "verb",
+      "meaningKo": "~을 받아 마땅하다, ~을 당해도 싸다",
+      "ipa": "/dɪˈzɝv/",
+      "synonyms": [
+        "earn",
+        "merit"
+      ],
+      "matchText": "deserve",
+      "sentenceId": "s3",
+      "example": {
+        "en": "You worked hard, so you deserve a rest.",
+        "ko": "너는 열심히 일했으니 쉴 자격이 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "There",
+          "role": "M",
+          "sub": false,
+          "ko": "~가 있었다"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "sub": false,
+          "ko": "옛날에"
+        },
+        {
+          "text": "an Astronomer",
+          "role": "S",
+          "sub": false,
+          "ko": "천문학자가"
+        },
+        {
+          "text": "whose habit",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그의 습관은"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "(가주어)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~이었다"
+        },
+        {
+          "text": "to go out at night",
+          "role": "S",
+          "sub": true,
+          "ko": "밤에 밖에 나가는 것"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "observe the stars.",
+          "role": "S",
+          "sub": true,
+          "ko": "별을 관찰하는 것"
+        }
+      ],
+      "skeleton": "There was an Astronomer",
+      "explanation": "'There was + 주어'는 '~가 있었다'예요. whose habit 이하는 an Astronomer를 꾸미는 관계절로, 원래 'his habit was to go out ~'인 문장을 'whose habit it was to ~'라는 옛날식 강조 모양으로 쓴 거예요. '밤에 나가 별을 관찰하는 것이 그의 습관이었던 천문학자'라는 뜻이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "One night,",
+          "role": "M",
+          "sub": false,
+          "ko": "어느 날 밤"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하면서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "was walking",
+          "role": "V",
+          "sub": true,
+          "ko": "걷고 있었다"
+        },
+        {
+          "text": "about",
+          "role": "M",
+          "sub": true,
+          "ko": "이리저리"
+        },
+        {
+          "text": "outside the town gates,",
+          "role": "M",
+          "sub": true,
+          "ko": "성문 밖을"
+        },
+        {
+          "text": "gazing up",
+          "role": "M",
+          "sub": false,
+          "ko": "올려다보며"
+        },
+        {
+          "text": "absorbed into the sky",
+          "role": "M",
+          "sub": false,
+          "ko": "하늘에 푹 빠져"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "not looking",
+          "role": "M",
+          "sub": false,
+          "ko": "보지 않고"
+        },
+        {
+          "text": "where he was going,",
+          "role": "O",
+          "sub": true,
+          "ko": "자기가 어디로 가는지"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "fell",
+          "role": "V",
+          "sub": false,
+          "ko": "빠졌다"
+        },
+        {
+          "text": "into a dry well.",
+          "role": "M",
+          "sub": false,
+          "ko": "마른 우물에"
+        }
+      ],
+      "skeleton": "he fell into a dry well",
+      "explanation": "진짜 뼈대는 맨 뒤의 he fell into a dry well(그는 마른 우물에 빠졌다)이에요. 앞의 as ~는 '~하면서'라는 때의 부사절이고, gazing ~, not looking ~은 그때 그의 모습을 덧붙이는 분사구문이에요. where he was going은 looking의 목적어 역할을 하는 의문사절이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "As",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "lay",
+          "role": "V",
+          "sub": true,
+          "ko": "누워 있었다"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": true,
+          "ko": "거기에"
+        },
+        {
+          "text": "groaning,",
+          "role": "M",
+          "sub": true,
+          "ko": "신음하며"
+        },
+        {
+          "text": "some one",
+          "role": "S",
+          "sub": false,
+          "ko": "누군가가"
+        },
+        {
+          "text": "passing by",
+          "role": "M",
+          "sub": false,
+          "ko": "지나가던"
+        },
+        {
+          "text": "heard",
+          "role": "V",
+          "sub": false,
+          "ko": "들었다"
+        },
+        {
+          "text": "him,",
+          "role": "O",
+          "sub": false,
+          "ko": "그의 소리를"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "coming to the edge of the well,",
+          "role": "M",
+          "sub": false,
+          "ko": "우물 가장자리로 와서"
+        },
+        {
+          "text": "looked down",
+          "role": "V",
+          "sub": false,
+          "ko": "내려다보았다"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "on learning what had happened,",
+          "role": "M",
+          "sub": false,
+          "ko": "무슨 일이 있었는지 알게 되자"
+        },
+        {
+          "text": "said,",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "\"If you really mean to say that you were looking so hard at the sky that you didn't even see where your feet were carrying you along the ground, it appears to me that you deserve all you've got.\"",
+          "role": "O",
+          "sub": false,
+          "ko": "\"당신이 하늘을 너무 열심히 보느라 발이 어디로 가는지도 못 봤다면, 당신은 그런 일을 당해도 싸군요.\""
+        }
+      ],
+      "skeleton": "some one heard ... looked down ... said, \"...\"",
+      "explanation": "주어 some one 하나에 동사 heard, looked down, said 세 개가 and로 이어져 있어요. passing by는 some one을 꾸며 '지나가던 누군가'예요. on learning ~은 'on + -ing'로 '~하자마자, ~하고 나서'라는 뜻이에요. 따옴표 안 전체가 said의 목적어예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "so ~ that … (너무 ~해서 …하다)",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so hard at the sky that you didn't even see"
+      ],
+      "explanation": "'so + 형용사/부사 + that + 문장'은 '너무 ~해서 …하다'라는 뜻이에요. 여기서는 '하늘을 너무 열심히 봐서 발이 어디로 가는지도 보지 못했다'예요. even은 '~조차'라는 강조예요.",
+      "example": {
+        "en": "I was so tired that I fell asleep at once.",
+        "ko": "나는 너무 피곤해서 바로 잠들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "분사구문 (-ing ~ : ~하면서)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "gazing up absorbed into the sky",
+        "not looking where he was going"
+      ],
+      "explanation": "동사에 -ing를 붙인 덩어리가 문장 앞이나 중간에서 '~하면서, ~하며'라는 뜻을 더해 줘요. 이것을 분사구문이라고 해요. 부정은 앞에 not을 붙여 not looking(보지 않으면서)처럼 써요.",
+      "example": {
+        "en": "Singing a song, she cleaned her room.",
+        "ko": "노래를 부르면서 그녀는 방을 청소했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "on + -ing (~하자마자, ~하고서)",
+      "tags": [
+        "동명사",
+        "전치사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "on learning what had happened"
+      ],
+      "explanation": "'on + 동명사(-ing)'는 '~하자마자, ~하고서'라는 뜻이에요. what had happened는 '무슨 일이 일어났었는지'로, 말하는 때보다 더 앞서 일어난 일이라서 과거완료 had happened를 썼어요.",
+      "example": {
+        "en": "On hearing the news, he started to cry.",
+        "ko": "그 소식을 듣자마자 그는 울기 시작했다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(There was) ~가 있었다; 거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "long ago"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "astronomer": {
+      "lemma": "astronomer",
+      "pos": "noun",
+      "ko": "천문학자",
+      "form": null,
+      "synonyms": [
+        "stargazer"
+      ],
+      "ipa": "/əˈstrɑːnəmər/"
+    },
+    "whose": {
+      "lemma": "whose",
+      "pos": "pronoun",
+      "ko": "그의 ~ (소유격 관계대명사)",
+      "form": null,
+      "ipa": "/huːz/"
+    },
+    "habit": {
+      "lemma": "habit",
+      "pos": "noun",
+      "ko": "습관, 버릇",
+      "form": null,
+      "synonyms": [
+        "custom",
+        "routine"
+      ],
+      "ipa": "/ˈhæbət/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (가주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것 (to부정사); ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다 (go out: 밖에 나가다)",
+      "form": null,
+      "synonyms": [
+        "head"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~을",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "synonyms": [
+        "nighttime"
+      ],
+      "ipa": "/naɪt/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "observe": {
+      "lemma": "observe",
+      "pos": "verb",
+      "ko": "관찰하다",
+      "form": null,
+      "synonyms": [
+        "watch",
+        "study"
+      ],
+      "ipa": "/əbˈzɜːrv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "stars": {
+      "lemma": "star",
+      "pos": "noun",
+      "ko": "별",
+      "form": "복수형",
+      "ipa": "/stɑːrz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느, 한",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하면서, ~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "walking": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stroll",
+        "wander"
+      ],
+      "ipa": "/ˈwɔːkɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "이리저리, 여기저기",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "outside": {
+      "lemma": "outside",
+      "pos": "preposition",
+      "ko": "~의 밖에",
+      "form": null,
+      "ipa": "/ˈaʊtˈsaɪd/"
+    },
+    "town": {
+      "lemma": "town",
+      "pos": "noun",
+      "ko": "마을, 도시",
+      "form": null,
+      "synonyms": [
+        "city"
+      ],
+      "ipa": "/taʊn/"
+    },
+    "gates": {
+      "lemma": "gate",
+      "pos": "noun",
+      "ko": "문, 성문",
+      "form": "복수형",
+      "synonyms": [
+        "entrance",
+        "doorway"
+      ],
+      "ipa": "/ɡeɪts/"
+    },
+    "gazing": {
+      "lemma": "gaze",
+      "pos": "verb",
+      "ko": "바라보다, 응시하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stare",
+        "look"
+      ],
+      "ipa": "/ˈɡeɪzɪŋ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "absorbed": {
+      "lemma": "absorbed",
+      "pos": "adjective",
+      "ko": "몰두한, 푹 빠진",
+      "form": null,
+      "synonyms": [
+        "engrossed",
+        "lost"
+      ],
+      "ipa": "/əbˈzɔːrbd/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로, ~에",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "sky": {
+      "lemma": "sky",
+      "pos": "noun",
+      "ko": "하늘",
+      "form": null,
+      "synonyms": [
+        "heavens"
+      ],
+      "ipa": "/skaɪ/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "watch",
+        "see"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "어디로, 어디에",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "heading",
+        "moving"
+      ],
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "떨어지다, 빠지다",
+      "form": "과거형",
+      "synonyms": [
+        "drop",
+        "tumble"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "dry": {
+      "lemma": "dry",
+      "pos": "adjective",
+      "ko": "마른, 물이 없는",
+      "form": null,
+      "synonyms": [
+        "empty",
+        "waterless"
+      ],
+      "ipa": "/draɪ/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "noun",
+      "ko": "우물",
+      "form": null,
+      "synonyms": [
+        "shaft",
+        "pit"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "누워 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "recline"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "groaning": {
+      "lemma": "groan",
+      "pos": "verb",
+      "ko": "신음하다, 끙끙 앓다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "moaning",
+        "whimpering"
+      ],
+      "ipa": "/ˈɡroʊnɪŋ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤 (some one: 누군가)",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "passing": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나가다 (pass by)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "going by"
+      ],
+      "ipa": "/ˈpæsɪŋ/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "adverb",
+      "ko": "옆을 지나, 곁으로",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "과거형",
+      "synonyms": [
+        "catch",
+        "notice"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그의 소리를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "approaching"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "edge": {
+      "lemma": "edge",
+      "pos": "noun",
+      "ko": "가장자리",
+      "form": null,
+      "synonyms": [
+        "rim",
+        "brink"
+      ],
+      "ipa": "/ɛdʒ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다 (look down: 내려다보다)",
+      "form": "과거형",
+      "synonyms": [
+        "peered",
+        "glanced"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on + -ing) ~하자마자",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "learning": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "알게 되다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "finding out",
+        "discovering"
+      ],
+      "ipa": "/ˈlɜːrnɪŋ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇, ~한 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) 과거완료",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "happened": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "일어나다, 생기다",
+      "form": "과거분사",
+      "synonyms": [
+        "occurred"
+      ],
+      "ipa": "/ˈhæpənd/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "remarked",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "really": {
+      "lemma": "really",
+      "pos": "adverb",
+      "ko": "정말로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "actually"
+      ],
+      "ipa": "/ˈrɪli/"
+    },
+    "mean": {
+      "lemma": "mean",
+      "pos": "verb",
+      "ko": "(mean to say) ~라고 말하려는 것이다, 의미하다",
+      "form": null,
+      "synonyms": [
+        "intend"
+      ],
+      "ipa": "/miːn/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "state",
+        "claim"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것; (so ~ that) 너무 ~해서",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 그렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "열심히, 뚫어지게",
+      "form": null,
+      "synonyms": [
+        "intently",
+        "closely"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "didn't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않았다",
+      "form": "줄임말 (did not)",
+      "ipa": "/ˈdɪdənt/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~도",
+      "form": null,
+      "synonyms": [
+        "so much as"
+      ],
+      "ipa": "/ˈiːvɪn/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "spot"
+      ],
+      "ipa": "/siː/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": "복수형",
+      "ipa": "/fiːt/"
+    },
+    "carrying": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "데려가다, 나르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "taking",
+        "bearing"
+      ],
+      "ipa": "/ˈkæriɪŋ/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅, 지면",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "land"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "appears": {
+      "lemma": "appear",
+      "pos": "verb",
+      "ko": "~인 것 같다, ~로 보이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "seems",
+        "looks"
+      ],
+      "ipa": "/əˈpɪrz/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나에게",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "deserve": {
+      "lemma": "deserve",
+      "pos": "verb",
+      "ko": "받아 마땅하다",
+      "form": null,
+      "synonyms": [
+        "earn",
+        "merit"
+      ],
+      "ipa": "/dɪˈzɜːrv/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "you've": {
+      "lemma": "you have",
+      "pos": "pronoun",
+      "ko": "당신이 ~했다 (you have)",
+      "form": "줄임말 (you have)",
+      "ipa": "/juːv/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다, 받다, 당하다",
+      "form": "과거분사",
+      "synonyms": [
+        "received",
+        "suffered"
+      ],
+      "ipa": "/ɡɑːt/"
+    }
+  }
+}
