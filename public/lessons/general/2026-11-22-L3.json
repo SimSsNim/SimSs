@@ -1,0 +1,1697 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-22-L3",
+  "date": "2026-11-22",
+  "level": 3,
+  "title": "The Fisherman and his Wife",
+  "titleKo": "어부와 그의 아내",
+  "genre": "fairy-tale",
+  "tags": [
+    "Grimm",
+    "fairy tale",
+    "fairy-tale"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (The Fisherman and his Wife)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'The Fisherman and his Wife' 첫 2개 단락 전체 (‘There was once a fisherman who lived with his wife in a pigsty…’부터 ‘…we want a snug little cottage.’까지, 243단어). 어부가 말하는 물고기(마법에 걸린 왕자)를 놓아주고, 아내가 오두막을 달라고 하라며 다시 보내는 도입부 (바닷가에서 주문을 외는 셋째 단락부터는 뺌). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2591, grimm10.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. 따옴표는 텍스트판 그대로 곧은 작은따옴표."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_10_fishermanandwife.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_10_fishermanandwife_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Steve Andersen",
+    "durationSec": 898,
+    "startSec": 15,
+    "endSec": 115,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 10 'The Fisherman and his Wife' (전체 14:57). 지문은 이야기 첫 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:55 (추정)."
+  },
+  "wordCount": 243,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "옛날에 한 어부가 아내와 함께 바닷가 바로 옆 돼지우리에서 살았다. 어부는 하루 종일 고기를 잡으러 나가곤 했다. 그러던 어느 날, 그가 낚싯대를 들고 바닷가에 앉아 반짝이는 물결을 바라보며 낚싯줄을 지켜보고 있는데, 갑자기 찌가 물속 깊이 끌려 들어갔다. 그래서 줄을 끌어 올리자 커다란 물고기 한 마리가 딸려 나왔다. 그런데 물고기가 말했다. '제발 살려 주세요! 저는 진짜 물고기가 아니에요. 마법에 걸린 왕자랍니다. 저를 다시 물에 넣어 놓아주세요!' '오, 저런!' 어부가 말했다. '그렇게 길게 말할 것 없다. 말하는 물고기와는 엮이고 싶지 않으니, 어서 마음대로 헤엄쳐 가거라, 나리!' 그러고 나서 어부가 물고기를 다시 물에 놓아주자, 물고기는 곧장 바닥으로 쏜살같이 내려가며 물결 위에 길게 핏자국을 남겼다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "어부는 돼지우리에 있는 아내에게 돌아가서, 커다란 물고기를 잡았는데 그 물고기가 자기는 마법에 걸린 왕자라고 했고, 물고기가 말하는 것을 듣고 다시 놓아주었다고 이야기했다. '그 물고기한테 아무것도 달라고 하지 않았어요?' 아내가 말했다. '우리는 여기 이 지저분하고 더러운 돼지우리에서 아주 비참하게 살고 있잖아요. 어서 돌아가서 물고기에게 아늑한 작은 오두막을 원한다고 말해요.'"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was once a fisherman who lived with his wife in a pigsty, close by the seaside.",
+      "ko": "옛날에 한 어부가 아내와 함께 바닷가 바로 옆 돼지우리에서 살았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The fisherman used to go out all day long a-fishing; and one day, as he sat on the shore with his rod, looking at the sparkling waves and watching his line, all on a sudden his float was dragged away deep into the water: and in drawing it up he pulled out a great fish.",
+      "ko": "어부는 하루 종일 고기를 잡으러 나가곤 했다. 그러던 어느 날, 그가 낚싯대를 들고 바닷가에 앉아 반짝이는 물결을 바라보며 낚싯줄을 지켜보고 있는데, 갑자기 찌가 물속 깊이 끌려 들어갔다. 그래서 줄을 끌어 올리자 커다란 물고기 한 마리가 딸려 나왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But the fish said, 'Pray let me live!",
+      "ko": "그런데 물고기가 말했다. '제발 살려 주세요!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "I am not a real fish; I am an enchanted prince: put me in the water again, and let me go!'",
+      "ko": "저는 진짜 물고기가 아니에요. 마법에 걸린 왕자랍니다. 저를 다시 물에 넣어 놓아주세요!'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "'Oh, ho!' said the man, 'you need not make so many words about the matter; I will have nothing to do with a fish that can talk: so swim away, sir, as soon as you please!'",
+      "ko": "'오, 저런!' 어부가 말했다. '그렇게 길게 말할 것 없다. 말하는 물고기와는 엮이고 싶지 않으니, 어서 마음대로 헤엄쳐 가거라, 나리!'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Then he put him back into the water, and the fish darted straight down to the bottom, and left a long streak of blood behind him on the wave.",
+      "ko": "그러고 나서 어부가 물고기를 다시 물에 놓아주자, 물고기는 곧장 바닥으로 쏜살같이 내려가며 물결 위에 길게 핏자국을 남겼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "When the fisherman went home to his wife in the pigsty, he told her how he had caught a great fish, and how it had told him it was an enchanted prince, and how, on hearing it speak, he had let it go again.",
+      "ko": "어부는 돼지우리에 있는 아내에게 돌아가서, 커다란 물고기를 잡았는데 그 물고기가 자기는 마법에 걸린 왕자라고 했고, 물고기가 말하는 것을 듣고 다시 놓아주었다고 이야기했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "'Did not you ask it for anything?' said the wife, 'we live very wretchedly here, in this nasty dirty pigsty; do go back and tell the fish we want a snug little cottage.'",
+      "ko": "'그 물고기한테 아무것도 달라고 하지 않았어요?' 아내가 말했다. '우리는 여기 이 지저분하고 더러운 돼지우리에서 아주 비참하게 살고 있잖아요. 어서 돌아가서 물고기에게 아늑한 작은 오두막을 원한다고 말해요.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "used to",
+      "pos": "phrase",
+      "meaningKo": "(과거에) ~하곤 했다",
+      "ipa": "/ˈjust tu/",
+      "synonyms": [
+        "would",
+        "was accustomed to"
+      ],
+      "matchText": "used to",
+      "sentenceId": "s2",
+      "example": {
+        "en": "My grandfather used to tell me stories every night.",
+        "ko": "할아버지는 매일 밤 내게 이야기를 들려주시곤 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "all of a sudden",
+      "pos": "idiom",
+      "meaningKo": "갑자기 (지문에서는 옛 표현 all on a sudden)",
+      "ipa": "/ɔl əv ə ˈsʌdən/",
+      "synonyms": [
+        "suddenly",
+        "all at once"
+      ],
+      "matchText": "all on a sudden",
+      "sentenceId": "s2",
+      "example": {
+        "en": "All of a sudden, the lights went out.",
+        "ko": "갑자기 불이 나갔다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "enchanted",
+      "pos": "adjective",
+      "meaningKo": "마법에 걸린",
+      "ipa": "/ɪnˈtʃæntɪd/",
+      "synonyms": [
+        "bewitched",
+        "spellbound"
+      ],
+      "matchText": "enchanted",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The enchanted castle was hidden in the forest.",
+        "ko": "마법에 걸린 성은 숲속에 숨겨져 있었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "have nothing to do with",
+      "pos": "idiom",
+      "meaningKo": "~와 아무 관계도 맺지 않다, ~와 엮이지 않다",
+      "ipa": "/hæv ˈnʌθɪŋ tə du wɪð/",
+      "synonyms": [
+        "avoid",
+        "stay away from"
+      ],
+      "matchText": "have nothing to do with",
+      "sentenceId": "s5",
+      "example": {
+        "en": "I want to have nothing to do with that plan.",
+        "ko": "나는 그 계획과는 엮이고 싶지 않다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "wretchedly",
+      "pos": "adverb",
+      "meaningKo": "비참하게, 형편없이",
+      "ipa": "/ˈrɛtʃɪdli/",
+      "synonyms": [
+        "miserably",
+        "poorly"
+      ],
+      "matchText": "wretchedly",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The family lived wretchedly after the war.",
+        "ko": "그 가족은 전쟁 후에 비참하게 살았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "There",
+          "role": "M",
+          "sub": false,
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "once",
+          "role": "M",
+          "sub": false,
+          "ko": "옛날에"
+        },
+        {
+          "text": "a fisherman",
+          "role": "S",
+          "sub": false,
+          "ko": "한 어부가"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 어부는)"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": true,
+          "ko": "살았다"
+        },
+        {
+          "text": "with his wife",
+          "role": "M",
+          "sub": true,
+          "ko": "아내와 함께"
+        },
+        {
+          "text": "in a pigsty,",
+          "role": "M",
+          "sub": true,
+          "ko": "돼지우리에서"
+        },
+        {
+          "text": "close by the seaside.",
+          "role": "M",
+          "sub": true,
+          "ko": "바닷가 바로 옆의"
+        }
+      ],
+      "skeleton": "There was a fisherman",
+      "explanation": "There was + 주어 구문으로 '~이 있었다'고 인물을 소개한다. 진짜 주어는 a fisherman이고, who 이하 관계대명사절이 그 어부가 어디서 누구와 살았는지 설명한다. close by the seaside는 a pigsty가 어디에 있는지 덧붙이는 말이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Then",
+          "role": "M",
+          "sub": false,
+          "ko": "그러고 나서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "put",
+          "role": "V",
+          "sub": false,
+          "ko": "넣었다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그(물고기)를"
+        },
+        {
+          "text": "back into the water,",
+          "role": "M",
+          "sub": false,
+          "ko": "다시 물속으로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러자"
+        },
+        {
+          "text": "the fish",
+          "role": "S",
+          "sub": false,
+          "ko": "물고기는"
+        },
+        {
+          "text": "darted",
+          "role": "V",
+          "sub": false,
+          "ko": "쏜살같이 갔다"
+        },
+        {
+          "text": "straight down to the bottom,",
+          "role": "M",
+          "sub": false,
+          "ko": "곧장 바닥까지"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "left",
+          "role": "V",
+          "sub": false,
+          "ko": "남겼다"
+        },
+        {
+          "text": "a long streak of blood",
+          "role": "O",
+          "sub": false,
+          "ko": "길게 이어진 핏자국을"
+        },
+        {
+          "text": "behind him",
+          "role": "M",
+          "sub": false,
+          "ko": "자기 뒤에"
+        },
+        {
+          "text": "on the wave.",
+          "role": "M",
+          "sub": false,
+          "ko": "물결 위에"
+        }
+      ],
+      "skeleton": "he put him back, and the fish darted and left a streak",
+      "explanation": "and로 두 문장이 이어진다. 앞 문장은 he(어부)가 주어, 뒤 문장은 the fish가 주어이며 darted와 left 두 동사를 함께 가진다. 옛날 번역이라 물고기(마법에 걸린 왕자)를 it 대신 him으로 가리킨다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "When",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~했을 때"
+        },
+        {
+          "text": "the fisherman",
+          "role": "S",
+          "sub": true,
+          "ko": "어부가"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": true,
+          "ko": "갔을"
+        },
+        {
+          "text": "home",
+          "role": "M",
+          "sub": true,
+          "ko": "집으로"
+        },
+        {
+          "text": "to his wife in the pigsty,",
+          "role": "M",
+          "sub": true,
+          "ko": "돼지우리의 아내에게"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "told",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "her",
+          "role": "IO",
+          "sub": false,
+          "ko": "그녀에게"
+        },
+        {
+          "text": "how he had caught a great fish,",
+          "role": "O",
+          "sub": false,
+          "ko": "커다란 물고기를 잡은 일과"
+        },
+        {
+          "text": "and how it had told him it was an enchanted prince,",
+          "role": "O",
+          "sub": false,
+          "ko": "그것이 마법에 걸린 왕자라고 한 일과"
+        },
+        {
+          "text": "and how, on hearing it speak, he had let it go again.",
+          "role": "O",
+          "sub": false,
+          "ko": "그것이 말하는 걸 듣자마자 다시 놓아준 일을"
+        }
+      ],
+      "skeleton": "he told her how ~, how ~, and how ~",
+      "explanation": "told(4형식 동사) + 간접목적어 her + 직접목적어. 직접목적어 자리에 how로 시작하는 명사절이 세 개 나란히 놓여 '~한 일'을 차례로 전한다. 모두 말하기 전에 일어난 일이라 had caught, had told, had let 처럼 과거완료를 썼다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "used to + 동사원형: 과거의 습관",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "used to go out"
+      ],
+      "explanation": "used to + 동사원형은 '(예전에) ~하곤 했다'는 뜻으로 과거에 되풀이하던 습관이나 상태를 나타낸다. 지금은 그렇지 않다는 느낌이 들어 있다. be used to + -ing(~에 익숙하다)와 헷갈리지 않도록 주의한다.",
+      "example": {
+        "en": "I used to walk to school, but now I take the bus.",
+        "ko": "나는 예전에 걸어서 학교에 다녔지만, 지금은 버스를 탄다."
+      },
+      "note": "be used to -ing: ~에 익숙하다 (I am used to getting up early.)"
+    },
+    {
+      "id": "g2",
+      "title": "on + -ing: ~하자마자",
+      "tags": [
+        "동명사",
+        "전치사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "on hearing it speak"
+      ],
+      "explanation": "on + 동명사(-ing)는 '~하자마자, ~할 때'라는 뜻이다. on hearing it speak는 '그것이 말하는 것을 듣자마자'로, as soon as he heard it speak와 같다. 또 hear + 목적어 + 동사원형(지각동사 구문)도 함께 들어 있다.",
+      "example": {
+        "en": "On arriving at the station, she called her mother.",
+        "ko": "역에 도착하자마자 그녀는 엄마에게 전화했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "let + 목적어 + 동사원형 (사역동사)",
+      "tags": [
+        "조동사",
+        "기타"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "let me live"
+      ],
+      "explanation": "let은 '~가 ...하게 해 주다'라는 사역동사로, 목적어 뒤에 to 없는 동사원형이 온다. let me live는 '제가 살게 해 주세요(살려 주세요)', 다음 문장의 let me go는 '저를 가게 해 주세요(놓아주세요)'라는 뜻이다. 문장 앞의 Pray는 '제발, 부디'라는 옛 표현이다.",
+      "example": {
+        "en": "Please let me know your answer.",
+        "ko": "답을 알려 주세요."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(There was ~) ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있었다; ~였다; (수동태) ~되었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed",
+        "lay"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "long ago"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "fisherman": {
+      "lemma": "fisherman",
+      "pos": "noun",
+      "ko": "어부",
+      "form": null,
+      "synonyms": [
+        "fisher",
+        "angler"
+      ],
+      "ipa": "/ˈfɪʃərˌmæn/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살았다",
+      "form": "과거형",
+      "synonyms": [
+        "dwelt",
+        "resided"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "wife": {
+      "lemma": "wife",
+      "pos": "noun",
+      "ko": "아내",
+      "form": null,
+      "synonyms": [
+        "spouse",
+        "partner"
+      ],
+      "ipa": "/waɪf/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "pigsty": {
+      "lemma": "pigsty",
+      "pos": "noun",
+      "ko": "돼지우리; 몹시 더러운 곳",
+      "form": null,
+      "synonyms": [
+        "pigpen",
+        "sty",
+        "hovel"
+      ],
+      "ipa": "/ˈpɪɡˌstaɪ/"
+    },
+    "close": {
+      "lemma": "close",
+      "pos": "adverb",
+      "ko": "(close by) 바로 옆에, 가까이",
+      "form": null,
+      "synonyms": [
+        "near",
+        "nearby"
+      ],
+      "ipa": "/kloʊs/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "seaside": {
+      "lemma": "seaside",
+      "pos": "noun",
+      "ko": "바닷가, 해변",
+      "form": null,
+      "synonyms": [
+        "seashore",
+        "coast",
+        "beach"
+      ],
+      "ipa": "/ˈsiːˌsaɪd/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "(used to) ~하곤 했다",
+      "form": "과거형",
+      "synonyms": [
+        "would",
+        "was accustomed"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사), ~에",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다, 나가다",
+      "form": null,
+      "synonyms": [
+        "head",
+        "set out"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로, (바다로) 나가",
+      "form": null,
+      "synonyms": [
+        "outside",
+        "away"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "(all day long) 하루 종일; (all on a sudden) 갑자기",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "daytime",
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(all day long) 내내; 긴",
+      "form": "원급",
+      "synonyms": [
+        "throughout"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "a-fishing": {
+      "lemma": "a-fishing",
+      "pos": "adverb",
+      "ko": "고기를 잡으러 (옛 표현 = fishing)",
+      "form": null,
+      "synonyms": [
+        "fishing",
+        "angling"
+      ],
+      "ipa": "/ə-ˈfɪʃɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "(one day) 어느",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때; (as soon as) ~하자마자 곧",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉아 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "perched",
+        "rested"
+      ],
+      "ipa": "/sæt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "shore": {
+      "lemma": "shore",
+      "pos": "noun",
+      "ko": "물가, 바닷가",
+      "form": null,
+      "synonyms": [
+        "coast",
+        "beach"
+      ],
+      "ipa": "/ʃɔːr/"
+    },
+    "rod": {
+      "lemma": "rod",
+      "pos": "noun",
+      "ko": "낚싯대",
+      "form": null,
+      "synonyms": [
+        "fishing pole",
+        "pole"
+      ],
+      "ipa": "/rɑːd/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look at) 바라보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "gazing",
+        "watching"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "sparkling": {
+      "lemma": "sparkle",
+      "pos": "adjective",
+      "ko": "반짝이는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "glittering",
+        "shining",
+        "twinkling"
+      ],
+      "ipa": "/ˈspɑːrklɪŋ/"
+    },
+    "waves": {
+      "lemma": "wave",
+      "pos": "noun",
+      "ko": "물결, 파도",
+      "form": "복수형",
+      "synonyms": [
+        "ripples",
+        "breakers"
+      ],
+      "ipa": "/weɪvz/"
+    },
+    "watching": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "지켜보다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "observing",
+        "eyeing"
+      ],
+      "ipa": "/ˈwɑːtʃɪŋ/"
+    },
+    "line": {
+      "lemma": "line",
+      "pos": "noun",
+      "ko": "낚싯줄",
+      "form": null,
+      "synonyms": [
+        "fishing line",
+        "cord"
+      ],
+      "ipa": "/laɪn/"
+    },
+    "sudden": {
+      "lemma": "sudden",
+      "pos": "noun",
+      "ko": "(all on a sudden) 갑자기 (옛 표현)",
+      "form": null,
+      "synonyms": [
+        "suddenness"
+      ],
+      "ipa": "/ˈsʌdən/"
+    },
+    "float": {
+      "lemma": "float",
+      "pos": "noun",
+      "ko": "(낚시의) 찌",
+      "form": null,
+      "synonyms": [
+        "bobber",
+        "cork"
+      ],
+      "ipa": "/floʊt/"
+    },
+    "dragged": {
+      "lemma": "drag",
+      "pos": "verb",
+      "ko": "끌려가다, 끌어당기다",
+      "form": "과거분사",
+      "synonyms": [
+        "pulled",
+        "hauled"
+      ],
+      "ipa": "/dræɡd/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떨어져; (swim away) 가 버리다",
+      "form": null,
+      "synonyms": [
+        "off",
+        "aside"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adverb",
+      "ko": "깊이",
+      "form": null,
+      "synonyms": [
+        "far down",
+        "deeply"
+      ],
+      "ipa": "/diːp/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물, 바다",
+      "form": null,
+      "synonyms": [
+        "sea",
+        "waves"
+      ],
+      "ipa": "/ˈwɔːtər/"
+    },
+    "drawing": {
+      "lemma": "draw",
+      "pos": "verb",
+      "ko": "끌어 올리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "pulling",
+        "hauling"
+      ],
+      "ipa": "/ˈdrɔːɪŋ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로 (draw up: 끌어 올리다)",
+      "form": null,
+      "synonyms": [
+        "upward"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "pulled": {
+      "lemma": "pull",
+      "pos": "verb",
+      "ko": "(pull out) 끌어내다",
+      "form": "과거형",
+      "synonyms": [
+        "drew",
+        "hauled"
+      ],
+      "ipa": "/pʊld/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "커다란",
+      "form": null,
+      "synonyms": [
+        "big",
+        "large",
+        "huge"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "fish": {
+      "lemma": "fish",
+      "pos": "noun",
+      "ko": "물고기",
+      "form": null,
+      "synonyms": [
+        "sea creature"
+      ],
+      "ipa": "/fɪʃ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그런데, 그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "replied"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "pray": {
+      "lemma": "pray",
+      "pos": "adverb",
+      "ko": "제발, 부디 (옛 표현)",
+      "form": null,
+      "synonyms": [
+        "please",
+        "I beg you"
+      ],
+      "ipa": "/preɪ/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 해 주다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": null,
+      "synonyms": [
+        "survive",
+        "stay alive"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "1인칭 단수 현재형",
+      "ipa": "/æm/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~이 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "real": {
+      "lemma": "real",
+      "pos": "adjective",
+      "ko": "진짜의",
+      "form": null,
+      "synonyms": [
+        "genuine",
+        "true",
+        "actual"
+      ],
+      "ipa": "/riːl/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "enchanted": {
+      "lemma": "enchanted",
+      "pos": "adjective",
+      "ko": "마법에 걸린",
+      "form": "과거분사",
+      "synonyms": [
+        "bewitched",
+        "spellbound"
+      ],
+      "ipa": "/ɛnˈtʃæntɪd/"
+    },
+    "prince": {
+      "lemma": "prince",
+      "pos": "noun",
+      "ko": "왕자",
+      "form": null,
+      "synonyms": [
+        "royal heir"
+      ],
+      "ipa": "/prɪns/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "넣다, 놓다 (현재·과거 같은 형태)",
+      "form": null,
+      "synonyms": [
+        "place",
+        "set"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more",
+        "back"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "오, 아",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "ho": {
+      "lemma": "ho",
+      "pos": "interjection",
+      "ko": "호, 저런 (놀람·비웃음)",
+      "form": null,
+      "ipa": "/hoʊ/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람 (여기서는 어부)",
+      "form": null,
+      "synonyms": [
+        "fellow",
+        "fisherman"
+      ],
+      "ipa": "/mæn/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "auxiliary",
+      "ko": "(need not) ~할 필요 없다",
+      "form": null,
+      "ipa": "/niːd/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make words) 말을 늘어놓다",
+      "form": null,
+      "synonyms": [
+        "utter",
+        "produce"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게; (so ~) 그러니",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "words": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "말",
+      "form": "복수형",
+      "synonyms": [
+        "remarks",
+        "talk"
+      ],
+      "ipa": "/wɜːrdz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "matter": {
+      "lemma": "matter",
+      "pos": "noun",
+      "ko": "일, 문제",
+      "form": null,
+      "synonyms": [
+        "affair",
+        "business"
+      ],
+      "ipa": "/ˈmætər/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~하겠다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have nothing to do with) ~와 관계를 갖지 않다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 (~ 없다)",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "(have nothing to do with) 관계하다",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "talk": {
+      "lemma": "talk",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "speak",
+        "chat"
+      ],
+      "ipa": "/tɔːk/"
+    },
+    "swim": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄치다",
+      "form": null,
+      "synonyms": [
+        "paddle",
+        "float"
+      ],
+      "ipa": "/swɪm/"
+    },
+    "sir": {
+      "lemma": "sir",
+      "pos": "noun",
+      "ko": "나리, 선생 (점잖은 호칭)",
+      "form": null,
+      "synonyms": [
+        "mister",
+        "sire"
+      ],
+      "ipa": "/sɜːr/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "(as soon as you please) 원하는 대로 곧",
+      "form": null,
+      "synonyms": [
+        "quickly",
+        "promptly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "verb",
+      "ko": "원하다, 마음에 들다 (as you please: 원하는 대로)",
+      "form": null,
+      "synonyms": [
+        "like",
+        "wish"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고 나서, 그다음에",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterward"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "다시, 되돌려",
+      "form": null,
+      "synonyms": [
+        "again",
+        "in return"
+      ],
+      "ipa": "/bæk/"
+    },
+    "darted": {
+      "lemma": "dart",
+      "pos": "verb",
+      "ko": "쏜살같이 움직였다",
+      "form": "과거형",
+      "synonyms": [
+        "dashed",
+        "shot",
+        "sped"
+      ],
+      "ipa": "/ˈdɑːrtɪd/"
+    },
+    "straight": {
+      "lemma": "straight",
+      "pos": "adverb",
+      "ko": "곧장, 똑바로",
+      "form": null,
+      "synonyms": [
+        "directly",
+        "right"
+      ],
+      "ipa": "/streɪt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "bottom": {
+      "lemma": "bottom",
+      "pos": "noun",
+      "ko": "바닥 (바다 밑)",
+      "form": null,
+      "synonyms": [
+        "floor",
+        "depths",
+        "bed"
+      ],
+      "ipa": "/ˈbɑːtəm/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "남겼다",
+      "form": "과거형",
+      "synonyms": [
+        "left behind",
+        "trailed"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "streak": {
+      "lemma": "streak",
+      "pos": "noun",
+      "ko": "줄, 줄무늬",
+      "form": null,
+      "synonyms": [
+        "stripe",
+        "trail",
+        "line"
+      ],
+      "ipa": "/striːk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "blood": {
+      "lemma": "blood",
+      "pos": "noun",
+      "ko": "피",
+      "form": null,
+      "synonyms": [
+        "gore"
+      ],
+      "ipa": "/blʌd/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "wave": {
+      "lemma": "wave",
+      "pos": "noun",
+      "ko": "물결, 파도",
+      "form": null,
+      "synonyms": [
+        "ripple",
+        "swell"
+      ],
+      "ipa": "/weɪv/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다",
+      "form": "과거형",
+      "synonyms": [
+        "walked",
+        "returned"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward",
+        "back"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말했다, 이야기했다",
+      "form": "과거형",
+      "synonyms": [
+        "said",
+        "related"
+      ],
+      "ipa": "/toʊld/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "determiner",
+      "ko": "그녀의",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게 ~했는지 (일어난 일을 전할 때)",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "caught": {
+      "lemma": "catch",
+      "pos": "verb",
+      "ko": "잡았다",
+      "form": "과거분사",
+      "synonyms": [
+        "hooked",
+        "landed"
+      ],
+      "ipa": "/kɑːt/"
+    },
+    "hearing": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다 (on hearing: 듣자마자)",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "listening to"
+      ],
+      "ipa": "/ˈhiːrɪŋ/"
+    },
+    "speak": {
+      "lemma": "speak",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": null,
+      "synonyms": [
+        "talk"
+      ],
+      "ipa": "/spiːk/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(의문문·부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "ask": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "(ask A for B) A에게 B를 달라고 하다",
+      "form": null,
+      "synonyms": [
+        "request",
+        "beg"
+      ],
+      "ipa": "/æsk/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "anything": {
+      "lemma": "anything",
+      "pos": "pronoun",
+      "ko": "무엇이든, 아무것도",
+      "form": null,
+      "ipa": "/ˈɛniˌθɪŋ/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주, 몹시",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "wretchedly": {
+      "lemma": "wretchedly",
+      "pos": "adverb",
+      "ko": "비참하게",
+      "form": null,
+      "synonyms": [
+        "miserably",
+        "poorly"
+      ],
+      "ipa": "/ˈrɛtʃɪdli/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기에서",
+      "form": null,
+      "synonyms": [
+        "in this place"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "nasty": {
+      "lemma": "nasty",
+      "pos": "adjective",
+      "ko": "지저분한, 고약한",
+      "form": null,
+      "synonyms": [
+        "foul",
+        "filthy"
+      ],
+      "ipa": "/ˈnæsti/"
+    },
+    "dirty": {
+      "lemma": "dirty",
+      "pos": "adjective",
+      "ko": "더러운",
+      "form": null,
+      "synonyms": [
+        "filthy",
+        "grimy"
+      ],
+      "ipa": "/ˈdɜːrti/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 전하다",
+      "form": null,
+      "synonyms": [
+        "inform",
+        "say to"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": null,
+      "synonyms": [
+        "wish for",
+        "desire"
+      ],
+      "ipa": "/wɑːnt/"
+    },
+    "snug": {
+      "lemma": "snug",
+      "pos": "adjective",
+      "ko": "아늑한",
+      "form": null,
+      "synonyms": [
+        "cozy",
+        "comfortable"
+      ],
+      "ipa": "/snʌɡ/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "cottage": {
+      "lemma": "cottage",
+      "pos": "noun",
+      "ko": "오두막, 작은 시골집",
+      "form": null,
+      "synonyms": [
+        "cabin",
+        "hut"
+      ],
+      "ipa": "/ˈkɑːtədʒ/"
+    }
+  }
+}
