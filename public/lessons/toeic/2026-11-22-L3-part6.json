@@ -1,0 +1,1459 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-22-L3-part6",
+  "date": "2026-11-22",
+  "level": 3,
+  "title": "Sales Conference Travel E-mail",
+  "titleKo": "영업 회의 출장 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "출장·여행"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 130,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "동료 여러분께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "다음 달 리스본에서 열리는 영업 회의의 출장 준비 사항을 확인해 드리려고 메일을 씁니다. 참석자 전원의 항공편이 예약되었으며, 전자 항공권은 이번 주말까지 여러분께 발송될 것입니다. 항공권을 꼼꼼히 확인하시고 잘못된 내용이 있으면 즉시 알려 주세요."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "모두 호텔 코르데이루에 묵게 되는데, 이 호텔은 컨벤션 센터에서 걸어서 조금만 가면 됩니다. 아침 식사는 객실 요금에 포함되어 있으므로 그 식사의 영수증은 보관하지 않으셔도 됩니다. 그 밖의 모든 식사는 하루 최대 60유로까지 청구할 수 있습니다. 공항과 호텔 사이의 택시 요금도 전액 환급됩니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "궁금한 점이 있으면 내선 418번으로 연락 주세요."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "감사합니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "루시아 브레넌"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Colleagues,",
+      "ko": "동료 여러분께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "I am writing to confirm the travel arrangements for next month's sales conference in Lisbon.",
+      "ko": "다음 달 리스본에서 열리는 영업 회의의 출장 준비 사항을 확인해 드리려고 메일을 씁니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Flights for all attendees have been booked, and your electronic tickets will be sent to you by the end of this week.",
+      "ko": "참석자 전원의 항공편이 예약되었으며, 전자 항공권은 이번 주말까지 여러분께 발송될 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Please review them carefully and let me know immediately if any details are incorrect.",
+      "ko": "항공권을 꼼꼼히 확인하시고 잘못된 내용이 있으면 즉시 알려 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Everyone will be staying at the Hotel Cordeiro, which is located a short walk from the convention center.",
+      "ko": "모두 호텔 코르데이루에 묵게 되는데, 이 호텔은 컨벤션 센터에서 걸어서 조금만 가면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Breakfast is included in the room rate, so you do not need to keep receipts for that meal.",
+      "ko": "아침 식사는 객실 요금에 포함되어 있으므로 그 식사의 영수증은 보관하지 않으셔도 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "For all other meals, you may claim up to 60 euros per day.",
+      "ko": "그 밖의 모든 식사는 하루 최대 60유로까지 청구할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Taxi fares between the airport and the hotel will also be fully reimbursed.",
+      "ko": "공항과 호텔 사이의 택시 요금도 전액 환급됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "If you have any questions, please contact me at extension 418.",
+      "ko": "궁금한 점이 있으면 내선 418번으로 연락 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "Best regards,",
+      "ko": "감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "Lucia Brennan",
+      "ko": "루시아 브레넌",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "travel arrangements",
+      "pos": "phrase",
+      "meaningKo": "출장(여행) 준비 사항 (교통·숙박 예약 등)",
+      "ipa": "/ˈtrævəl əˈreɪndʒmənts/",
+      "synonyms": [
+        "travel plans",
+        "bookings"
+      ],
+      "matchText": "travel arrangements",
+      "sentenceId": "s2",
+      "example": {
+        "en": "My assistant will handle the travel arrangements.",
+        "ko": "제 비서가 출장 준비를 맡을 것입니다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "attendee",
+      "pos": "noun",
+      "meaningKo": "참석자",
+      "ipa": "/əˌtenˈdiː/",
+      "synonyms": [
+        "participant",
+        "delegate"
+      ],
+      "matchText": "attendees",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Each attendee will receive a name tag.",
+        "ko": "참석자마다 이름표를 받는다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "room rate",
+      "pos": "phrase",
+      "meaningKo": "객실 요금",
+      "ipa": "/ˈruːm reɪt/",
+      "synonyms": [
+        "room charge",
+        "nightly rate"
+      ],
+      "matchText": "room rate",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The room rate includes free Wi-Fi.",
+        "ko": "객실 요금에 무료 와이파이가 포함되어 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "claim",
+      "pos": "verb",
+      "meaningKo": "(비용을) 청구하다",
+      "ipa": "/kleɪm/",
+      "synonyms": [
+        "request",
+        "apply for"
+      ],
+      "matchText": "claim",
+      "sentenceId": "s7",
+      "example": {
+        "en": "You can claim the cost of your hotel stay.",
+        "ko": "호텔 숙박비를 청구할 수 있다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "reimburse",
+      "pos": "verb",
+      "meaningKo": "(쓴 돈을) 환급하다, 변제하다",
+      "ipa": "/ˌriːɪmˈbɜːrs/",
+      "synonyms": [
+        "repay",
+        "refund"
+      ],
+      "matchText": "reimbursed",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The company will reimburse your parking fees.",
+        "ko": "회사가 주차비를 환급해 줄 것이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Flights for all attendees",
+          "role": "S",
+          "ko": "참석자 전원의 항공편이"
+        },
+        {
+          "text": "have been booked,",
+          "role": "V",
+          "ko": "예약되었다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "your electronic tickets",
+          "role": "S",
+          "ko": "여러분의 전자 항공권은"
+        },
+        {
+          "text": "will be sent",
+          "role": "V",
+          "ko": "발송될 것이다"
+        },
+        {
+          "text": "to you",
+          "role": "M",
+          "ko": "여러분께"
+        },
+        {
+          "text": "by the end of this week.",
+          "role": "M",
+          "ko": "이번 주말까지"
+        }
+      ],
+      "skeleton": "S1 + have been p.p., and S2 + will be p.p. + M",
+      "explanation": "and로 두 절이 이어진다. 앞 절은 이미 끝난 일이라 현재완료 수동태, 뒤 절은 앞으로 할 일이라 미래 수동태다. 항공편·항공권 모두 '되는' 쪽이라 수동태를 쓴다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Everyone",
+          "role": "S",
+          "ko": "모두"
+        },
+        {
+          "text": "will be staying",
+          "role": "V",
+          "ko": "묵게 될 것이다"
+        },
+        {
+          "text": "at the Hotel Cordeiro,",
+          "role": "M",
+          "ko": "호텔 코르데이루에"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그리고 그 호텔은",
+          "sub": true
+        },
+        {
+          "text": "is located",
+          "role": "V",
+          "ko": "위치해 있다",
+          "sub": true
+        },
+        {
+          "text": "a short walk from the convention center.",
+          "role": "M",
+          "ko": "컨벤션 센터에서 걸어서 조금 거리에",
+          "sub": true
+        }
+      ],
+      "skeleton": "S + will be -ing + 장소, which + V'(수동) + M'",
+      "explanation": "콤마 뒤 which가 앞의 the Hotel Cordeiro를 받아 설명을 덧붙인다(계속적 용법). which 뒤에 주어가 없으므로 which가 주어 역할을 한다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료 수동태와 미래 수동태",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "have been booked",
+        "will be sent"
+      ],
+      "explanation": "have been p.p.는 '(이미) ~되었다', will be p.p.는 '(앞으로) ~될 것이다'라는 뜻이다. 주어가 동작을 받는 쪽이면 수동태를 쓰고, 시간 표현(by the end of this week)으로 시제를 정한다.",
+      "example": {
+        "en": "The invitations have been printed and will be mailed tomorrow.",
+        "ko": "초대장이 인쇄되었고 내일 발송될 것이다."
+      },
+      "note": "사물 주어 + 빈칸 + to 사람 → 수동태. 미래 시간 표현이 있으면 will be p.p."
+    },
+    {
+      "id": "g2",
+      "title": "계속적 용법의 관계대명사 which",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        ", which is located"
+      ],
+      "explanation": "콤마 + which는 앞의 사물(장소 포함)에 정보를 덧붙인다. 뒤에 주어가 빠진 불완전한 절이 오면 which, 완전한 절이 오면 where를 쓴다.",
+      "example": {
+        "en": "We met at the Lindon Café, which opens early.",
+        "ko": "우리는 린던 카페에서 만났는데, 그곳은 일찍 문을 연다."
+      },
+      "note": "장소 명사 뒤라도 바로 동사가 오면(주어 빠짐) where가 아니라 which."
+    },
+    {
+      "id": "g3",
+      "title": "부사 자리 (동사구 수식)",
+      "tags": [
+        "품사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "let me know immediately"
+      ],
+      "explanation": "let me know(알려 주다)라는 동사구 뒤에서 '즉시'라고 꾸미는 말은 부사다. 문장 성분이 다 갖춰진 뒤 남는 자리는 부사 자리인 경우가 많다.",
+      "example": {
+        "en": "Please reply promptly.",
+        "ko": "빨리 답장해 주세요."
+      },
+      "note": "필수 성분이 다 있는 문장의 빈칸 → 부사."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "will be sent"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "will send"
+        },
+        {
+          "key": "B",
+          "text": "were sent"
+        },
+        {
+          "key": "C",
+          "text": "will be sent"
+        },
+        {
+          "key": "D",
+          "text": "sending"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "항공권은 '발송되는' 것이므로 수동태가 필요하다. by the end of this week(이번 주말까지)는 앞으로의 일이라 미래 수동태 will be sent가 정답.",
+      "choiceNotesKo": {
+        "A": "will send는 능동이라 '항공권이 무언가를 보낸다'는 뜻이 된다.",
+        "B": "were sent는 과거라 '이번 주말까지'라는 미래 시점과 맞지 않는다.",
+        "D": "sending만으로는 문장의 동사가 될 수 없다."
+      },
+      "skill": "미래 수동태(will be p.p.)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "immediately"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "immediate"
+        },
+        {
+          "key": "B",
+          "text": "immediately"
+        },
+        {
+          "key": "C",
+          "text": "immediacy"
+        },
+        {
+          "key": "D",
+          "text": "immediateness"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "let me know(알려 주다) 뒤에서 동사구를 꾸미는 자리이므로 부사 immediately(즉시)가 정답.",
+      "choiceNotesKo": {
+        "A": "형용사 immediate는 동사를 꾸밀 수 없다.",
+        "C": "명사 immediacy는 know의 목적어처럼 보이지만 뜻이 통하지 않는다."
+      },
+      "skill": "부사 자리(동사구 수식)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "which"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "콤마 앞의 the Hotel Cordeiro를 받아 설명을 덧붙이는 관계사 자리다. 빈칸 뒤에 주어 없이 is located가 바로 오므로 주격 관계대명사 which.",
+      "choiceNotesKo": {
+        "A": "where 뒤에는 주어와 동사가 다 갖춰진 완전한 절이 와야 한다.",
+        "B": "who는 사람을 받는다.",
+        "C": "what은 앞에 명사가 있으면 쓸 수 없다."
+      },
+      "skill": "주격 관계대명사(사물, 계속적 용법)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Breakfast is included in the room rate, so you do not need to keep receipts for that meal."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Breakfast is included in the room rate, so you do not need to keep receipts for that meal."
+        },
+        {
+          "key": "B",
+          "text": "The conference will feature speakers from twelve countries."
+        },
+        {
+          "key": "C",
+          "text": "Your return flight will depart on Friday evening."
+        },
+        {
+          "key": "D",
+          "text": "The hotel also offers a fitness center and an outdoor pool."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "빈칸 뒤 문장이 For all other meals(그 밖의 모든 식사)로 시작한다. 앞에서 어떤 식사(아침 식사)를 먼저 말해야 other가 자연스럽다. 아침 식사가 객실 요금에 포함된다는 A가 정답.",
+      "choiceNotesKo": {
+        "D": "호텔 시설 소개는 앞 문장과 이어지지만, 뒤의 'other meals'와 연결되지 않는다.",
+        "B": "발표자 이야기는 숙박·식비를 설명하는 이 단락과 어울리지 않는다.",
+        "C": "항공편 이야기는 앞 단락에 와야 할 내용이다."
+      },
+      "skill": "문장 넣기(other meals 단서)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "reimbursed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "rewarded"
+        },
+        {
+          "key": "B",
+          "text": "reimbursed"
+        },
+        {
+          "key": "C",
+          "text": "renewed"
+        },
+        {
+          "key": "D",
+          "text": "reminded"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "앞 문장에서 식비를 청구할 수 있다고 했으므로, 택시 요금도 회사가 '환급해 준다'는 흐름이다. be fully reimbursed(전액 환급되다)가 정답.",
+      "choiceNotesKo": {
+        "A": "rewarded는 '보상받다, 상을 받다'라는 뜻으로 요금과 어울리지 않는다.",
+        "C": "renewed는 계약·회원권 등을 '갱신하다'라는 뜻이다.",
+        "D": "reminded는 '상기시키다'라는 뜻이다."
+      },
+      "skill": "어휘(be reimbursed)"
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "친애하는 (편지 인사말)",
+      "form": null,
+      "synonyms": [
+        "beloved"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "colleagues": {
+      "lemma": "colleague",
+      "pos": "noun",
+      "ko": "동료",
+      "form": "복수형",
+      "synonyms": [
+        "coworker",
+        "associate"
+      ],
+      "ipa": "/ˈkɑːliɡz/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나, 저",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (am writing: 쓰고 있다)",
+      "form": "현재형(1인칭)",
+      "ipa": "/æm/"
+    },
+    "writing": {
+      "lemma": "write",
+      "pos": "verb",
+      "ko": "(편지·메일을) 쓰는 중",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "composing",
+        "sending"
+      ],
+      "ipa": "/ˈraɪtɪŋ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~으로; (to부정사) ~하기 위해, ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "confirm": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인해 주다, 확정하다",
+      "form": null,
+      "synonyms": [
+        "verify",
+        "finalize"
+      ],
+      "ipa": "/kənˈfɜːrm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "출장, 여행",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "journey"
+      ],
+      "ipa": "/ˈtrævəl/"
+    },
+    "arrangements": {
+      "lemma": "arrangement",
+      "pos": "noun",
+      "ko": "준비, 예약 사항",
+      "form": "복수형",
+      "synonyms": [
+        "plans",
+        "preparations"
+      ],
+      "ipa": "/əˈreɪndʒmənts/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "month's": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달의",
+      "form": "소유격",
+      "ipa": "/mʌnθs/"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매",
+      "form": null,
+      "synonyms": [
+        "selling",
+        "commerce"
+      ],
+      "ipa": "/seɪlz/"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "회의, 학회",
+      "form": null,
+      "synonyms": [
+        "convention",
+        "meeting"
+      ],
+      "ipa": "/ˈkɑːnfərəns/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "lisbon": {
+      "lemma": "Lisbon",
+      "pos": "proper-noun",
+      "ko": "리스본 (포르투갈의 수도)",
+      "form": null,
+      "ipa": "/ˈlɪzbən/"
+    },
+    "flights": {
+      "lemma": "flight",
+      "pos": "noun",
+      "ko": "항공편",
+      "form": "복수형",
+      "synonyms": [
+        "plane trip",
+        "air travel"
+      ],
+      "ipa": "/flaɪts/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "attendees": {
+      "lemma": "attendee",
+      "pos": "noun",
+      "ko": "참석자",
+      "form": "복수형",
+      "synonyms": [
+        "participant",
+        "delegate"
+      ],
+      "ipa": "/əˈtɛnˈdiːz/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(완료형·수동태에 쓰임)",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "booked": {
+      "lemma": "book",
+      "pos": "verb",
+      "ko": "예약된",
+      "form": "과거분사",
+      "synonyms": [
+        "reserved",
+        "arranged"
+      ],
+      "ipa": "/bʊkt/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신의, 여러분의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "electronic": {
+      "lemma": "electronic",
+      "pos": "adjective",
+      "ko": "전자의",
+      "form": null,
+      "synonyms": [
+        "digital",
+        "online"
+      ],
+      "ipa": "/ˌɪˌlɛkˈtrɑːnɪk/"
+    },
+    "tickets": {
+      "lemma": "ticket",
+      "pos": "noun",
+      "ko": "항공권, 표",
+      "form": "복수형",
+      "synonyms": [
+        "pass",
+        "boarding pass"
+      ],
+      "ipa": "/ˈtɪkəts/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다(수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내진, 발송된",
+      "form": "과거분사",
+      "synonyms": [
+        "mailed",
+        "delivered"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; ~까지",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝",
+      "form": null,
+      "synonyms": [
+        "close",
+        "finish"
+      ],
+      "ipa": "/ɛnd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주",
+      "form": null,
+      "ipa": "/wiːk/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "review": {
+      "lemma": "review",
+      "pos": "verb",
+      "ko": "검토하다, 확인하다",
+      "form": null,
+      "synonyms": [
+        "check",
+        "examine"
+      ],
+      "ipa": "/ˌriːˈvjuː/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을 (항공권)",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "carefully": {
+      "lemma": "carefully",
+      "pos": "adverb",
+      "ko": "꼼꼼히, 주의 깊게",
+      "form": null,
+      "synonyms": [
+        "thoroughly",
+        "closely"
+      ],
+      "ipa": "/ˈkɛrfəli/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다 (let me know: 알려 주다)",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 저에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "learn",
+        "be aware"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "immediately": {
+      "lemma": "immediately",
+      "pos": "adverb",
+      "ko": "즉시",
+      "form": null,
+      "synonyms": [
+        "right away",
+        "promptly"
+      ],
+      "ipa": "/ˌɪˈmiːˌdiːətli/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~라면, ~이면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 어느",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "details": {
+      "lemma": "detail",
+      "pos": "noun",
+      "ko": "세부 사항",
+      "form": "복수형",
+      "synonyms": [
+        "particular",
+        "information"
+      ],
+      "ipa": "/dɪˈteɪlz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다(수동태)",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "incorrect": {
+      "lemma": "incorrect",
+      "pos": "adjective",
+      "ko": "잘못된, 틀린",
+      "form": null,
+      "synonyms": [
+        "wrong",
+        "inaccurate"
+      ],
+      "ipa": "/ˌɪnkəˈrɛkt/"
+    },
+    "everyone": {
+      "lemma": "everyone",
+      "pos": "pronoun",
+      "ko": "모든 사람",
+      "form": null,
+      "ipa": "/ˈɛvriˌwʌn/"
+    },
+    "staying": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "묵는, 머무는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "lodging",
+        "remaining"
+      ],
+      "ipa": "/ˈsteɪɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (장소·시간)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔",
+      "form": null,
+      "synonyms": [
+        "inn",
+        "lodging"
+      ],
+      "ipa": "/hoʊˈtɛl/"
+    },
+    "cordeiro": {
+      "lemma": "Cordeiro",
+      "pos": "proper-noun",
+      "ko": "코르데이루 (호텔 이름)",
+      "form": null,
+      "ipa": "/kərˈdɛroʊ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 것",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다(수동태)",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "located": {
+      "lemma": "locate",
+      "pos": "verb",
+      "ko": "위치한",
+      "form": "과거분사",
+      "synonyms": [
+        "situated",
+        "placed"
+      ],
+      "ipa": "/ˈloʊˌkeɪtəd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "small"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "walk": {
+      "lemma": "walk",
+      "pos": "noun",
+      "ko": "걸어서 가는 거리, 걷기",
+      "form": null,
+      "synonyms": [
+        "stroll"
+      ],
+      "ipa": "/wɔːk/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "convention": {
+      "lemma": "convention",
+      "pos": "noun",
+      "ko": "컨벤션, 대규모 회의",
+      "form": null,
+      "synonyms": [
+        "conference",
+        "exhibition"
+      ],
+      "ipa": "/kənˈvɛnʃən/"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터, 중심 시설",
+      "form": null,
+      "synonyms": [
+        "hall",
+        "venue"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "pos": "noun",
+      "ko": "아침 식사",
+      "form": null,
+      "synonyms": [
+        "morning meal"
+      ],
+      "ipa": "/ˈbrɛkfəst/"
+    },
+    "included": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함된",
+      "form": "과거분사",
+      "synonyms": [
+        "covered",
+        "contained"
+      ],
+      "ipa": "/ˌɪnˈkluːdəd/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "객실, 방",
+      "form": null,
+      "synonyms": [
+        "guest room",
+        "chamber"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "rate": {
+      "lemma": "rate",
+      "pos": "noun",
+      "ko": "요금",
+      "form": null,
+      "synonyms": [
+        "price",
+        "charge"
+      ],
+      "ipa": "/reɪt/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다 (부정)",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "~할 필요가 있다",
+      "form": null,
+      "synonyms": [
+        "have to",
+        "require"
+      ],
+      "ipa": "/niːd/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "보관하다, 가지고 있다",
+      "form": null,
+      "synonyms": [
+        "retain",
+        "hold on to"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "receipts": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": "복수형",
+      "synonyms": [
+        "proof of purchase",
+        "voucher"
+      ],
+      "ipa": "/rɪˈsiːts/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "meal": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사",
+      "form": null,
+      "synonyms": [
+        "dish",
+        "food"
+      ],
+      "ipa": "/miːl/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "그 밖의, 다른",
+      "form": null,
+      "synonyms": [
+        "remaining",
+        "additional"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "meals": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사",
+      "form": "복수형",
+      "synonyms": [
+        "dish",
+        "food"
+      ],
+      "ipa": "/miːlz/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 된다, ~일 수 있다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "claim": {
+      "lemma": "claim",
+      "pos": "verb",
+      "ko": "(비용을) 청구하다",
+      "form": null,
+      "synonyms": [
+        "request",
+        "apply for"
+      ],
+      "ipa": "/kleɪm/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(up to로) 최대 ~까지",
+      "form": null,
+      "synonyms": [
+        "maximum"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "euros": {
+      "lemma": "euro",
+      "pos": "noun",
+      "ko": "유로 (화폐 단위)",
+      "form": "복수형",
+      "ipa": "/ˈjuːˌroʊz/"
+    },
+    "per": {
+      "lemma": "per",
+      "pos": "preposition",
+      "ko": "~당, ~마다",
+      "form": null,
+      "ipa": "/pɜːr/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "하루, 날",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "taxi": {
+      "lemma": "taxi",
+      "pos": "noun",
+      "ko": "택시",
+      "form": null,
+      "synonyms": [
+        "cab"
+      ],
+      "ipa": "/ˈtæksi/"
+    },
+    "fares": {
+      "lemma": "fare",
+      "pos": "noun",
+      "ko": "(교통) 요금",
+      "form": "복수형",
+      "synonyms": [
+        "fee",
+        "charge"
+      ],
+      "ipa": "/fɛrz/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "airport": {
+      "lemma": "airport",
+      "pos": "noun",
+      "ko": "공항",
+      "form": null,
+      "synonyms": [
+        "airfield"
+      ],
+      "ipa": "/ˈɛrˌpɔːrt/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "fully": {
+      "lemma": "fully",
+      "pos": "adverb",
+      "ko": "전액, 완전히",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/ˈfʊli/"
+    },
+    "reimbursed": {
+      "lemma": "reimburse",
+      "pos": "verb",
+      "ko": "환급된, 변제된",
+      "form": "과거분사",
+      "synonyms": [
+        "repaid",
+        "refunded"
+      ],
+      "ipa": "/ˌriːɪmˈbɜːrst/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 궁금한 점",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (전화번호)",
+      "form": null,
+      "synonyms": [
+        "line",
+        "internal number"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    },
+    "best": {
+      "lemma": "best",
+      "pos": "adjective",
+      "ko": "가장 좋은 (Best regards: 감사합니다, 맺음말)",
+      "form": "최상급",
+      "synonyms": [
+        "finest",
+        "warmest"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "regards": {
+      "lemma": "regard",
+      "pos": "noun",
+      "ko": "안부 (맺음말)",
+      "form": "복수형",
+      "synonyms": [
+        "wishes",
+        "greetings"
+      ],
+      "ipa": "/rɪˈɡɑːrdz/"
+    },
+    "lucia": {
+      "lemma": "Lucia",
+      "pos": "proper-noun",
+      "ko": "루시아 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈluːʃə/"
+    },
+    "brennan": {
+      "lemma": "Brennan",
+      "pos": "proper-noun",
+      "ko": "브레넌 (성)",
+      "form": null,
+      "ipa": "/ˈbrɛnən/"
+    }
+  }
+}

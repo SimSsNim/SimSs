@@ -1,0 +1,1636 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-22-L4-part6",
+  "date": "2026-11-22",
+  "level": 4,
+  "title": "Office Relocation Memo",
+  "titleKo": "사무실 이전 안내 회람",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 6",
+    "회람(메모)",
+    "부동산·이사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 165,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 전 직원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: 프리야 라마스와미, 시설 관리 이사"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 3월 3일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 사무실 이전"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "많은 분이 아시다시피, 캐로 빌딩의 임대 계약이 4월 말에 만료됩니다. 오랜 물색 끝에, 센트럴역에서 두 블록밖에 떨어지지 않은 웨스트게이트 플라자 9층에 더 넓은 사무실을 확보했습니다. 새 공간 덕분에 지금은 서로 다른 층에서 일하는 디자인팀과 회계팀을 한곳에 모을 수 있게 됩니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "이사는 4월 25일 주말에 진행됩니다. 포장 상자와 라벨은 4월 18일까지 모든 부서에 배달되어 있을 것입니다. 상자마다 이름과 새 책상 번호를 적어 주세요. 표시가 없는 물품은 새 사무실로 옮겨지지 않을 수 있습니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "ko": "IT팀이 주말 동안 모든 컴퓨터와 전화를 다시 연결해, 4월 28일 월요일에 업무를 시작할 때 시스템이 완전히 가동되도록 할 것입니다. 그때까지 이전과 관련된 질문은 내선 205번으로 저에게 해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Staff",
+      "ko": "수신: 전 직원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Priya Ramaswamy, Facilities Director",
+      "ko": "발신: 프리야 라마스와미, 시설 관리 이사",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: March 3",
+      "ko": "날짜: 3월 3일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: Office Relocation",
+      "ko": "제목: 사무실 이전",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "As many of you know, our lease at the Carrow Building expires at the end of April.",
+      "ko": "많은 분이 아시다시피, 캐로 빌딩의 임대 계약이 4월 말에 만료됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "After a lengthy search, we have secured a larger office on the ninth floor of Westgate Plaza, only two blocks from Central Station.",
+      "ko": "오랜 물색 끝에, 센트럴역에서 두 블록밖에 떨어지지 않은 웨스트게이트 플라자 9층에 더 넓은 사무실을 확보했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "The new space will allow us to bring together the design and accounting teams, which currently work on separate floors.",
+      "ko": "새 공간 덕분에 지금은 서로 다른 층에서 일하는 디자인팀과 회계팀을 한곳에 모을 수 있게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p6",
+      "en": "The move will take place over the weekend of April 25.",
+      "ko": "이사는 4월 25일 주말에 진행됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "Packing boxes and labels will have been delivered to every department by April 18.",
+      "ko": "포장 상자와 라벨은 4월 18일까지 모든 부서에 배달되어 있을 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "Please mark each box with your name and the number of your new desk.",
+      "ko": "상자마다 이름과 새 책상 번호를 적어 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "Any items left unlabeled may not be transferred to the new office.",
+      "ko": "표시가 없는 물품은 새 사무실로 옮겨지지 않을 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "The IT team will reconnect all computers and phones during the weekend so that our systems are fully operational when we open on Monday, April 28.",
+      "ko": "IT팀이 주말 동안 모든 컴퓨터와 전화를 다시 연결해, 4월 28일 월요일에 업무를 시작할 때 시스템이 완전히 가동되도록 할 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Until then, please direct any questions about the relocation to me at extension 205.",
+      "ko": "그때까지 이전과 관련된 질문은 내선 205번으로 저에게 해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "lease",
+      "pos": "noun",
+      "meaningKo": "임대차 계약",
+      "ipa": "/liːs/",
+      "synonyms": [
+        "rental agreement",
+        "tenancy"
+      ],
+      "matchText": "lease",
+      "sentenceId": "s5",
+      "example": {
+        "en": "We signed a five-year lease.",
+        "ko": "우리는 5년 임대 계약을 맺었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "expire",
+      "pos": "verb",
+      "meaningKo": "(계약·기한이) 만료되다",
+      "ipa": "/ɪkˈspaɪər/",
+      "synonyms": [
+        "end",
+        "run out"
+      ],
+      "matchText": "expires",
+      "sentenceId": "s5",
+      "example": {
+        "en": "My passport expires next year.",
+        "ko": "내 여권은 내년에 만료된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "secure",
+      "pos": "verb",
+      "meaningKo": "(노력해서) 확보하다, 얻어 내다",
+      "ipa": "/sɪˈkjʊr/",
+      "synonyms": [
+        "obtain",
+        "acquire"
+      ],
+      "matchText": "secured",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The firm secured a major contract.",
+        "ko": "그 회사는 큰 계약을 따냈다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "transfer",
+      "pos": "verb",
+      "meaningKo": "옮기다, 이동시키다",
+      "ipa": "/trænsˈfɜːr/",
+      "synonyms": [
+        "move",
+        "relocate"
+      ],
+      "matchText": "transferred",
+      "sentenceId": "s11",
+      "example": {
+        "en": "The files were transferred to the new server.",
+        "ko": "파일들이 새 서버로 옮겨졌다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "operational",
+      "pos": "adjective",
+      "meaningKo": "가동 중인, 운영할 수 있는",
+      "ipa": "/ˌɑːpəˈreɪʃənəl/",
+      "synonyms": [
+        "working",
+        "functioning"
+      ],
+      "matchText": "operational",
+      "sentenceId": "s12",
+      "example": {
+        "en": "The new factory will be operational in May.",
+        "ko": "새 공장은 5월에 가동될 것이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "The new space",
+          "role": "S",
+          "ko": "새 공간은"
+        },
+        {
+          "text": "will allow",
+          "role": "V",
+          "ko": "~하게 해 줄 것이다"
+        },
+        {
+          "text": "us",
+          "role": "O",
+          "ko": "우리가"
+        },
+        {
+          "text": "to bring together the design and accounting teams,",
+          "role": "C",
+          "ko": "디자인팀과 회계팀을 한곳에 모으도록"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그리고 그 팀들은",
+          "sub": true
+        },
+        {
+          "text": "currently work",
+          "role": "V",
+          "ko": "현재 일한다",
+          "sub": true
+        },
+        {
+          "text": "on separate floors.",
+          "role": "M",
+          "ko": "서로 다른 층에서",
+          "sub": true
+        }
+      ],
+      "skeleton": "S + allow + O + to V(C), which + V' + M'",
+      "explanation": "allow A to V는 'A가 ~하게 해 주다'라는 뜻이다. 콤마 뒤 which는 앞의 teams를 받아 지금 상황을 덧붙여 설명한다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "The IT team",
+          "role": "S",
+          "ko": "IT팀은"
+        },
+        {
+          "text": "will reconnect",
+          "role": "V",
+          "ko": "다시 연결할 것이다"
+        },
+        {
+          "text": "all computers and phones",
+          "role": "O",
+          "ko": "모든 컴퓨터와 전화를"
+        },
+        {
+          "text": "during the weekend",
+          "role": "M",
+          "ko": "주말 동안"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "ko": "~하도록",
+          "sub": true
+        },
+        {
+          "text": "our systems",
+          "role": "S",
+          "ko": "우리 시스템이",
+          "sub": true
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "fully operational",
+          "role": "C",
+          "ko": "완전히 가동되는",
+          "sub": true
+        },
+        {
+          "text": "when we open on Monday, April 28.",
+          "role": "M",
+          "ko": "4월 28일 월요일에 문을 열 때",
+          "sub": true
+        }
+      ],
+      "skeleton": "S + V + O + M, so that + S' + V' + C' + when절",
+      "explanation": "so that은 '~하도록'이라는 목적의 접속사다. 그 안의 when절은 시간 부사절이라 미래의 일이지만 현재 시제 open을 쓴다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래완료 수동태 (will have been p.p.)",
+      "tags": [
+        "시제",
+        "수동태"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "will have been delivered",
+        "by April 18"
+      ],
+      "explanation": "미래의 어느 시점(by April 18)까지 어떤 일이 '완료되어 있을 것'을 말할 때 미래완료를 쓴다. 상자와 라벨은 '배달되는' 것이므로 수동형 will have been p.p.가 된다.",
+      "example": {
+        "en": "The report will have been finished by Friday.",
+        "ko": "보고서는 금요일까지 완성되어 있을 것이다."
+      },
+      "note": "by + 미래 시점 + 완료의 의미 → will have p.p. (주어가 사물이면 will have been p.p.)"
+    },
+    {
+      "id": "g2",
+      "title": "leave + 목적어 + 과거분사 (left unlabeled)",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "Any items left unlabeled"
+      ],
+      "explanation": "left unlabeled는 '표시되지 않은 채로 남겨진'이라는 뜻의 과거분사구로 items를 뒤에서 꾸민다. leave something unlabeled(~을 표시하지 않은 채 두다)에서 나온 형태다.",
+      "example": {
+        "en": "Documents left unsigned will be returned.",
+        "ko": "서명하지 않은 채 남겨진 서류는 반송된다."
+      },
+      "note": "명사 + left + p.p./형용사 = '~한 상태로 남겨진 명사'."
+    },
+    {
+      "id": "g3",
+      "title": "allow + 목적어 + to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "allow us to bring together"
+      ],
+      "explanation": "allow A to V는 'A가 ~할 수 있게 해 주다'라는 뜻이다. 사물 주어(The new space)와 함께 '~ 덕분에 …할 수 있다'로 옮기면 자연스럽다.",
+      "example": {
+        "en": "The software allows users to share files easily.",
+        "ko": "그 소프트웨어 덕분에 사용자는 파일을 쉽게 공유할 수 있다."
+      },
+      "note": "allow, enable, permit + O + to V 형태는 동사 자리 문제로 자주 나온다."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "secured"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "assured"
+        },
+        {
+          "key": "B",
+          "text": "secured"
+        },
+        {
+          "key": "C",
+          "text": "ensured"
+        },
+        {
+          "key": "D",
+          "text": "insured"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "빈칸 뒤 목적어가 a larger office(더 넓은 사무실)다. 오랜 물색 끝에 사무실을 '확보했다'는 뜻의 secured가 정답.",
+      "choiceNotesKo": {
+        "A": "assure는 '(사람에게) 장담하다'라는 뜻으로 assure + 사람 + that 형태로 쓴다.",
+        "C": "ensure는 '보장하다'로 주로 ensure that절을 쓴다.",
+        "D": "insure는 '보험에 들다'라는 뜻이다."
+      },
+      "skill": "혼동 어휘(-sure 동사)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "will have been delivered"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "had been delivered"
+        },
+        {
+          "key": "B",
+          "text": "are delivering"
+        },
+        {
+          "key": "C",
+          "text": "have delivered"
+        },
+        {
+          "key": "D",
+          "text": "will have been delivered"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "by April 18은 앞으로 다가올 시점이고, 그때까지 배달이 '완료되어 있을 것'이라는 뜻이다. 상자와 라벨은 배달되는 쪽이므로 미래완료 수동태 will have been delivered.",
+      "choiceNotesKo": {
+        "A": "had been delivered는 과거 기준의 완료라 미래 일정과 맞지 않는다.",
+        "B": "are delivering은 능동이라 '상자가 배달을 한다'는 뜻이 된다.",
+        "C": "have delivered도 능동이다."
+      },
+      "skill": "미래완료 수동태"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "Please mark each box with your name and the number of your new desk."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The new building also has a fitness center for tenants."
+        },
+        {
+          "key": "B",
+          "text": "Our current lease was signed nearly ten years ago."
+        },
+        {
+          "key": "C",
+          "text": "Please mark each box with your name and the number of your new desk."
+        },
+        {
+          "key": "D",
+          "text": "Visitor parking at Westgate Plaza is limited to two hours."
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "앞 문장은 상자와 라벨을 나눠 준다는 내용이고, 뒤 문장은 '표시 없는(unlabeled) 물품은 옮기지 않을 수 있다'고 경고한다. 그 사이에 상자에 이름과 책상 번호를 적으라는 지시가 와야 흐름이 이어진다.",
+      "choiceNotesKo": {
+        "A": "건물 시설 소개는 포장 방법을 설명하는 단락과 맞지 않는다.",
+        "B": "임대 계약 이야기는 첫 단락에 어울리는 내용이다.",
+        "D": "주차 안내는 상자 표시와 관계없다."
+      },
+      "skill": "문장 넣기(labels ↔ unlabeled 단서)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s12",
+        "answerText": "operational"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "operational"
+        },
+        {
+          "key": "B",
+          "text": "operate"
+        },
+        {
+          "key": "C",
+          "text": "operation"
+        },
+        {
+          "key": "D",
+          "text": "operationally"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "be동사 are + 부사 fully 뒤는 보어 자리다. 시스템이 '완전히 가동되는' 상태를 나타내는 형용사 operational이 정답.",
+      "choiceNotesKo": {
+        "C": "명사 operation은 '시스템 = 작업'이 되어 뜻이 어색하고 fully의 수식도 받지 못한다.",
+        "D": "부사는 보어 자리에 올 수 없다."
+      },
+      "skill": "형용사 자리(be + 부사 + _)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s13",
+        "answerText": "Until then"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Even so"
+        },
+        {
+          "key": "B",
+          "text": "As a result"
+        },
+        {
+          "key": "C",
+          "text": "By contrast"
+        },
+        {
+          "key": "D",
+          "text": "Until then"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장에서 4월 28일 월요일에 새 사무실에서 업무를 시작한다고 했다. '그때까지는' 질문을 나에게 하라는 Until then이 흐름에 맞다.",
+      "choiceNotesKo": {
+        "A": "Even so(그렇다 하더라도)는 앞 내용과 반대되는 흐름이 없다.",
+        "B": "As a result는 앞 문장이 원인이어야 하는데, 시스템 연결이 질문을 보내는 이유가 되지 않는다.",
+        "C": "By contrast는 대조할 내용이 없다."
+      },
+      "skill": "접속부사(시간 흐름)"
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게 (수신); ~으로; (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "personnel"
+      ],
+      "ipa": "/stæf/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터 (발신)",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "priya": {
+      "lemma": "Priya",
+      "pos": "proper-noun",
+      "ko": "프리야 (사람 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "ramaswamy": {
+      "lemma": "Ramaswamy",
+      "pos": "proper-noun",
+      "ko": "라마스와미 (성)",
+      "form": null,
+      "ipa": null
+    },
+    "facilities": {
+      "lemma": "facility",
+      "pos": "noun",
+      "ko": "시설",
+      "form": "복수형",
+      "synonyms": [
+        "building",
+        "premises"
+      ],
+      "ipa": "/fəˈsɪlətiz/"
+    },
+    "director": {
+      "lemma": "director",
+      "pos": "noun",
+      "ko": "이사, 책임자",
+      "form": null,
+      "synonyms": [
+        "head",
+        "manager"
+      ],
+      "ipa": "/dəˈrɛktər/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "synonyms": [
+        "day"
+      ],
+      "ipa": "/deɪt/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "form": null,
+      "ipa": "/mɑːrtʃ/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "synonyms": [
+        "workplace",
+        "premises"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "relocation": {
+      "lemma": "relocation",
+      "pos": "noun",
+      "ko": "이전, 이사",
+      "form": null,
+      "synonyms": [
+        "move",
+        "transfer"
+      ],
+      "ipa": "/ˌriːˈloʊˈkeɪʃən/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하듯이",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "pronoun",
+      "ko": "많은 사람",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "be aware",
+        "understand"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "our": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "lease": {
+      "lemma": "lease",
+      "pos": "noun",
+      "ko": "임대차 계약",
+      "form": null,
+      "synonyms": [
+        "rental agreement",
+        "tenancy"
+      ],
+      "ipa": "/liːs/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (장소·시간)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "carrow": {
+      "lemma": "Carrow",
+      "pos": "proper-noun",
+      "ko": "캐로 (건물 이름)",
+      "form": null,
+      "ipa": "/ˈkæroʊ/"
+    },
+    "building": {
+      "lemma": "Building",
+      "pos": "proper-noun",
+      "ko": "빌딩 (건물 이름의 일부)",
+      "form": null,
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "expires": {
+      "lemma": "expire",
+      "pos": "verb",
+      "ko": "만료되다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "ends",
+        "runs out"
+      ],
+      "ipa": "/ɪkˈspaɪərz/"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝, 말",
+      "form": null,
+      "synonyms": [
+        "close",
+        "finish"
+      ],
+      "ipa": "/ɛnd/"
+    },
+    "april": {
+      "lemma": "April",
+      "pos": "proper-noun",
+      "ko": "4월",
+      "form": null,
+      "ipa": "/ˈeɪprəl/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~ 끝에, ~ 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lengthy": {
+      "lemma": "lengthy",
+      "pos": "adjective",
+      "ko": "오랜, 긴",
+      "form": null,
+      "synonyms": [
+        "long",
+        "extended"
+      ],
+      "ipa": "/ˈlɛŋθi/"
+    },
+    "search": {
+      "lemma": "search",
+      "pos": "noun",
+      "ko": "물색, 찾기",
+      "form": null,
+      "synonyms": [
+        "hunt",
+        "look"
+      ],
+      "ipa": "/sɜːrtʃ/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have p.p.) 완료형을 만드는 조동사",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "secured": {
+      "lemma": "secure",
+      "pos": "verb",
+      "ko": "확보했다",
+      "form": "과거분사",
+      "synonyms": [
+        "obtained",
+        "acquired"
+      ],
+      "ipa": "/sɪˈkjʊrd/"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 넓은, 더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "bigger",
+        "more spacious"
+      ],
+      "ipa": "/ˈlɑːrdʒər/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (위치·날짜)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "ninth": {
+      "lemma": "ninth",
+      "pos": "adjective",
+      "ko": "아홉 번째의",
+      "form": null,
+      "ipa": "/naɪnθ/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "westgate": {
+      "lemma": "Westgate",
+      "pos": "proper-noun",
+      "ko": "웨스트게이트 (건물 이름)",
+      "form": null,
+      "ipa": "/ˈwɛstˌɡeɪt/"
+    },
+    "plaza": {
+      "lemma": "Plaza",
+      "pos": "proper-noun",
+      "ko": "플라자 (건물 이름의 일부)",
+      "form": null,
+      "ipa": "/ˈplɑːzə/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "겨우, ~밖에",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "blocks": {
+      "lemma": "block",
+      "pos": "noun",
+      "ko": "블록, 구역",
+      "form": "복수형",
+      "synonyms": [
+        "street",
+        "square"
+      ],
+      "ipa": "/blɑːks/"
+    },
+    "central": {
+      "lemma": "Central",
+      "pos": "proper-noun",
+      "ko": "센트럴 (역 이름)",
+      "form": null,
+      "ipa": "/ˈsɛntrəl/"
+    },
+    "station": {
+      "lemma": "Station",
+      "pos": "proper-noun",
+      "ko": "역 (역 이름의 일부)",
+      "form": null,
+      "ipa": "/ˈsteɪʃən/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "공간",
+      "form": null,
+      "synonyms": [
+        "premises",
+        "area"
+      ],
+      "ipa": "/speɪs/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "allow": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "~하게 해 주다",
+      "form": null,
+      "synonyms": [
+        "enable",
+        "permit"
+      ],
+      "ipa": "/əˈlaʊ/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "(bring together로) 한데 모으다",
+      "form": null,
+      "synonyms": [
+        "gather",
+        "unite"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께, 한곳에",
+      "form": null,
+      "synonyms": [
+        "jointly",
+        "collectively"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "design": {
+      "lemma": "design",
+      "pos": "noun",
+      "ko": "디자인",
+      "form": null,
+      "synonyms": [
+        "creative"
+      ],
+      "ipa": "/dɪˈzaɪn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "accounting": {
+      "lemma": "accounting",
+      "pos": "noun",
+      "ko": "회계",
+      "form": null,
+      "synonyms": [
+        "finance",
+        "bookkeeping"
+      ],
+      "ipa": "/əˈkaʊntɪŋ/"
+    },
+    "teams": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": "복수형",
+      "synonyms": [
+        "group",
+        "department"
+      ],
+      "ipa": "/tiːmz/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사, 계속적 용법) 그리고 그것들은",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "currently": {
+      "lemma": "currently",
+      "pos": "adverb",
+      "ko": "현재",
+      "form": null,
+      "synonyms": [
+        "now",
+        "at present"
+      ],
+      "ipa": "/ˈkɜːrəntli/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": null,
+      "synonyms": [
+        "operate",
+        "be based"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "separate": {
+      "lemma": "separate",
+      "pos": "adjective",
+      "ko": "서로 다른, 별개의",
+      "form": null,
+      "synonyms": [
+        "different",
+        "distinct"
+      ],
+      "ipa": "/ˈsɛpəˌreɪt/"
+    },
+    "floors": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": "복수형",
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːrz/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "noun",
+      "ko": "이사, 이전",
+      "form": null,
+      "synonyms": [
+        "relocation",
+        "transfer"
+      ],
+      "ipa": "/muːv/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place로) 열리다, 진행되다",
+      "form": null,
+      "synonyms": [
+        "happen",
+        "occur"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place로) 일어남, 진행",
+      "form": null,
+      "synonyms": [
+        "occurrence"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~ 동안에 걸쳐",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "weekend": {
+      "lemma": "weekend",
+      "pos": "noun",
+      "ko": "주말",
+      "form": null,
+      "ipa": "/ˈwiːˌkɛnd/"
+    },
+    "packing": {
+      "lemma": "packing",
+      "pos": "noun",
+      "ko": "포장 (packing box: 포장 상자)",
+      "form": null,
+      "synonyms": [
+        "wrapping",
+        "boxing"
+      ],
+      "ipa": "/ˈpækɪŋ/"
+    },
+    "boxes": {
+      "lemma": "box",
+      "pos": "noun",
+      "ko": "상자",
+      "form": "복수형",
+      "synonyms": [
+        "carton",
+        "container"
+      ],
+      "ipa": "/ˈbɑːksəz/"
+    },
+    "labels": {
+      "lemma": "label",
+      "pos": "noun",
+      "ko": "라벨, 표시표",
+      "form": "복수형",
+      "synonyms": [
+        "tag",
+        "sticker"
+      ],
+      "ipa": "/ˈleɪbəlz/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(완료형·수동태에 쓰임)",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "delivered": {
+      "lemma": "deliver",
+      "pos": "verb",
+      "ko": "배달된",
+      "form": "과거분사",
+      "synonyms": [
+        "brought",
+        "sent"
+      ],
+      "ipa": "/dɪˈlɪvərd/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "department": {
+      "lemma": "department",
+      "pos": "noun",
+      "ko": "부서",
+      "form": null,
+      "synonyms": [
+        "division",
+        "team"
+      ],
+      "ipa": "/dɪˈpɑːrtmənt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; ~까지",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "mark": {
+      "lemma": "mark",
+      "pos": "verb",
+      "ko": "표시하다, 적다",
+      "form": null,
+      "synonyms": [
+        "label",
+        "write on"
+      ],
+      "ipa": "/mɑːrk/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "box": {
+      "lemma": "box",
+      "pos": "noun",
+      "ko": "상자",
+      "form": null,
+      "synonyms": [
+        "carton",
+        "container"
+      ],
+      "ipa": "/bɑːks/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가진",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신의, 여러분의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "name": {
+      "lemma": "name",
+      "pos": "noun",
+      "ko": "이름",
+      "form": null,
+      "ipa": "/neɪm/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "번호",
+      "form": null,
+      "ipa": "/ˈnʌmbər/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "책상",
+      "form": null,
+      "synonyms": [
+        "workstation"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 어느",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "items": {
+      "lemma": "item",
+      "pos": "noun",
+      "ko": "물품",
+      "form": "복수형",
+      "synonyms": [
+        "belonging",
+        "object"
+      ],
+      "ipa": "/ˈaɪtəmz/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "~한 채로 남겨진",
+      "form": "과거분사",
+      "synonyms": [
+        "kept",
+        "remaining"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "unlabeled": {
+      "lemma": "unlabeled",
+      "pos": "adjective",
+      "ko": "라벨(표시)이 없는",
+      "form": null,
+      "synonyms": [
+        "unmarked",
+        "untagged"
+      ],
+      "ipa": "/ənˈleɪbəld/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일 수도 있다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다 (부정)",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다(수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "transferred": {
+      "lemma": "transfer",
+      "pos": "verb",
+      "ko": "옮겨진",
+      "form": "과거분사",
+      "synonyms": [
+        "moved",
+        "relocated"
+      ],
+      "ipa": "/trænsˈfɜːrd/"
+    },
+    "it": {
+      "lemma": "IT",
+      "pos": "noun",
+      "ko": "정보 기술 (IT팀: 전산팀)",
+      "form": "줄임말",
+      "ipa": "/ɪt/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "department"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "reconnect": {
+      "lemma": "reconnect",
+      "pos": "verb",
+      "ko": "다시 연결하다",
+      "form": null,
+      "synonyms": [
+        "hook up again",
+        "restore"
+      ],
+      "ipa": "/rikəˈnɛkt/"
+    },
+    "computers": {
+      "lemma": "computer",
+      "pos": "noun",
+      "ko": "컴퓨터",
+      "form": "복수형",
+      "synonyms": [
+        "PC",
+        "machine"
+      ],
+      "ipa": "/kəmˈpjuːtərz/"
+    },
+    "phones": {
+      "lemma": "phone",
+      "pos": "noun",
+      "ko": "전화기",
+      "form": "복수형",
+      "synonyms": [
+        "telephone",
+        "handset"
+      ],
+      "ipa": "/foʊnz/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "(so that으로) ~하도록",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so that으로) ~하도록",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "systems": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템",
+      "form": "복수형",
+      "synonyms": [
+        "network",
+        "setup"
+      ],
+      "ipa": "/ˈsɪstəmz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다(수동태)",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "fully": {
+      "lemma": "fully",
+      "pos": "adverb",
+      "ko": "완전히",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/ˈfʊli/"
+    },
+    "operational": {
+      "lemma": "operational",
+      "pos": "adjective",
+      "ko": "가동 중인, 운영 가능한",
+      "form": null,
+      "synonyms": [
+        "working",
+        "functioning"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənəl/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "open": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "(업무를) 시작하다, 문을 열다",
+      "form": null,
+      "synonyms": [
+        "start",
+        "begin"
+      ],
+      "ipa": "/ˈoʊpən/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "preposition",
+      "ko": "~까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때",
+      "form": null,
+      "synonyms": [
+        "that time"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "direct": {
+      "lemma": "direct",
+      "pos": "verb",
+      "ko": "(질문 등을) ~에게 보내다",
+      "form": null,
+      "synonyms": [
+        "send",
+        "address"
+      ],
+      "ipa": "/dəˈrɛkt/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 저에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "내선 (전화번호)",
+      "form": null,
+      "synonyms": [
+        "line",
+        "internal number"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    }
+  }
+}
