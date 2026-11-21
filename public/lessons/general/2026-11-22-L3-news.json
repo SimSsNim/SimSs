@@ -1,0 +1,1704 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-22-L3-news",
+  "date": "2026-11-22",
+  "level": 3,
+  "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+  "titleKo": "NASA의 새 시드 펀딩, 소기업 혁신에 시동을 걸다",
+  "genre": "news",
+  "tags": [
+    "NASA",
+    "technology",
+    "business",
+    "Moon"
+  ],
+  "source": {
+    "work": "New NASA Seed Funding Primes Small Businesses for Innovation",
+    "author": "NASA",
+    "translator": null,
+    "year": 2026,
+    "edition": "NASA News",
+    "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+    "license": "us-government-work",
+    "excerptNote": "첫 6단락"
+  },
+  "audio": null,
+  "wordCount": 229,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "전국 각지의 소기업에 주어진 지원금이 달과 화성 탐사에 필요한 NASA의 가장 중요한 기술 과제 일부를 해결하는 동시에 미국 우주 경제에 활력을 불어넣고 있다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "NASA의 중소기업 혁신 연구/중소기업 기술 이전(SBIR/STTR) 프로그램은 최근 302개의 혁신적인 프로젝트를 선정했으며, 총 투자액은 최대 1억 7,100만 달러의 시드 펀딩(초기 자금)이다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3",
+        "s4"
+      ],
+      "ko": "이 초기 단계의 연구 개발 작업은 아르테미스 계획과 미국 달 기지 건설에 관련된 주제를 포함해 다양한 주제를 다룰 것이다. 선정된 프로젝트에는 차세대 배터리 솔루션, 혹독한 달 환경을 위한 감지 기능을 갖춘 로봇 시스템, 그리고 달 착륙장 같은 핵심 기반 시설 건설을 준비하기 위한 도구들이 포함된다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "NASA의 SBIR/STTR 프로그램은 기관의 임무를 발전시킬 수 있는 기술을 개발하고 상용화하도록 기업가, 스타트업, 소기업을 지원한다. 이 프로그램과 함께하면, 한 기업이 상용화하거나 NASA 임무에 기술을 투입하기까지의 과정은 여러 단계로 이루어진다. 이번 지원금은 그중 두 단계에 해당했다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "새로운 1단계 계약은 각각 최대 22만 5,000달러를 받아, 제안한 혁신 기술의 가치와 실현 가능성을 입증하게 된다. 선정된 프로젝트 중 일부는 연구 기관과 협력하는 소기업에 주어지는 STTR 지원금이다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "2단계 지원금은 각각 최대 130만 달러 규모의 계약 98건으로, 2025년에 선정된 1단계 프로젝트에서 시작된 작업을 이어 가며 혁신 기술의 시연과 납품을 목표로 한다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy.",
+      "ko": "전국 각지의 소기업에 주어진 지원금이 달과 화성 탐사에 필요한 NASA의 가장 중요한 기술 과제 일부를 해결하는 동시에 미국 우주 경제에 활력을 불어넣고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed funding.",
+      "ko": "NASA의 중소기업 혁신 연구/중소기업 기술 이전(SBIR/STTR) 프로그램은 최근 302개의 혁신적인 프로젝트를 선정했으며, 총 투자액은 최대 1억 7,100만 달러의 시드 펀딩(초기 자금)이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "This early-stage research and development work will tackle an array of topics, including those related to Artemis and the establishment of a U.S. Moon Base.",
+      "ko": "이 초기 단계의 연구 개발 작업은 아르테미스 계획과 미국 달 기지 건설에 관련된 주제를 포함해 다양한 주제를 다룰 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p3",
+      "en": "Selected projects include next-generation battery solutions, robotic systems with sensing capabilities for the extreme lunar environment, and tools to prepare for construction of critical infrastructure, such as lunar landing pads.",
+      "ko": "선정된 프로젝트에는 차세대 배터리 솔루션, 혹독한 달 환경을 위한 감지 기능을 갖춘 로봇 시스템, 그리고 달 착륙장 같은 핵심 기반 시설 건설을 준비하기 위한 도구들이 포함된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p4",
+      "en": "NASA’s SBIR/STTR program provides support for entrepreneurs, startups, and small businesses to advance and commercialize technologies that can advance the agency’s missions.",
+      "ko": "NASA의 SBIR/STTR 프로그램은 기관의 임무를 발전시킬 수 있는 기술을 개발하고 상용화하도록 기업가, 스타트업, 소기업을 지원한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p4",
+      "en": "Working with the program, a company’s path toward commercialization or infusion into NASA missions occurs in phases.",
+      "ko": "이 프로그램과 함께하면, 한 기업이 상용화하거나 NASA 임무에 기술을 투입하기까지의 과정은 여러 단계로 이루어진다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "The latest awards involved two of these phases.",
+      "ko": "이번 지원금은 그중 두 단계에 해당했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p5",
+      "en": "The new Phase I contracts will receive up to $225,000 each to establish the merit and feasibility of their proposed innovation.",
+      "ko": "새로운 1단계 계약은 각각 최대 22만 5,000달러를 받아, 제안한 혁신 기술의 가치와 실현 가능성을 입증하게 된다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "A portion of the projects selected are STTR awards, provided to small businesses partnered with research institutions.",
+      "ko": "선정된 프로젝트 중 일부는 연구 기관과 협력하는 소기업에 주어지는 STTR 지원금이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "The Phase II awards, with 98 contracts valued at up to $1.3 million each, will continue work begun in Phase I projects selected in 2025, targeting demonstration and delivery of the innovative technologies.",
+      "ko": "2단계 지원금은 각각 최대 130만 달러 규모의 계약 98건으로, 2025년에 선정된 1단계 프로젝트에서 시작된 작업을 이어 가며 혁신 기술의 시연과 납품을 목표로 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "crucial",
+      "pos": "adjective",
+      "meaningKo": "매우 중요한, 결정적인",
+      "ipa": "/ˈkruʃəl/",
+      "synonyms": [
+        "vital",
+        "essential",
+        "critical"
+      ],
+      "matchText": "crucial",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Sleep is crucial for good health.",
+        "ko": "잠은 건강에 매우 중요하다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "an array of",
+      "pos": "phrase",
+      "meaningKo": "다양한, 여러 가지의",
+      "ipa": "/ən əˈreɪ əv/",
+      "synonyms": [
+        "a range of",
+        "a variety of"
+      ],
+      "matchText": "an array of",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The store sells an array of fresh fruits.",
+        "ko": "그 가게는 다양한 신선한 과일을 판다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "infrastructure",
+      "pos": "noun",
+      "meaningKo": "기반 시설, 사회 기반 시설",
+      "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+      "synonyms": [
+        "facilities",
+        "foundation"
+      ],
+      "matchText": "infrastructure",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The city is investing in new roads and other infrastructure.",
+        "ko": "그 도시는 새 도로와 기타 기반 시설에 투자하고 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "commercialize",
+      "pos": "verb",
+      "meaningKo": "상용화하다, 상품으로 만들어 팔다",
+      "ipa": "/kəˈmɜrʃəˌlaɪz/",
+      "synonyms": [
+        "market",
+        "bring to market"
+      ],
+      "matchText": "commercialize",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The company plans to commercialize its new battery next year.",
+        "ko": "그 회사는 내년에 새 배터리를 상용화할 계획이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "feasibility",
+      "pos": "noun",
+      "meaningKo": "실현 가능성",
+      "ipa": "/ˌfizəˈbɪləti/",
+      "synonyms": [
+        "practicality",
+        "viability"
+      ],
+      "matchText": "feasibility",
+      "sentenceId": "s8",
+      "example": {
+        "en": "They studied the feasibility of building a bridge.",
+        "ko": "그들은 다리 건설의 실현 가능성을 검토했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Awards to small businesses around the country",
+          "role": "S",
+          "sub": false,
+          "ko": "전국 각지의 소기업에 주어진 지원금이"
+        },
+        {
+          "text": "are addressing",
+          "role": "V",
+          "sub": false,
+          "ko": "해결하고 있다"
+        },
+        {
+          "text": "some of NASA’s most crucial technology needs",
+          "role": "O",
+          "sub": false,
+          "ko": "NASA의 가장 중요한 기술 과제 일부를"
+        },
+        {
+          "text": "for exploration of the Moon and Mars",
+          "role": "M",
+          "sub": false,
+          "ko": "달과 화성 탐사를 위한"
+        },
+        {
+          "text": "while",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~하는 동시에"
+        },
+        {
+          "text": "fueling",
+          "role": "V",
+          "sub": true,
+          "ko": "활력을 불어넣으며"
+        },
+        {
+          "text": "the U.S. space economy.",
+          "role": "O",
+          "sub": true,
+          "ko": "미국 우주 경제에"
+        }
+      ],
+      "skeleton": "Awards are addressing needs",
+      "explanation": "주어는 Awards to small businesses around the country로 길다. 핵심은 Awards(지원금)이고, to ~ country는 '누구에게 주어진' 지원금인지 꾸며 준다. 동사는 현재진행형 are addressing, 목적어는 some of ~ needs다. 끝의 while fueling ~은 '~하면서 동시에'라는 뜻으로 같은 주어가 하는 두 번째 일을 덧붙인다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program",
+          "role": "S",
+          "sub": false,
+          "ko": "NASA의 중소기업 혁신 연구/중소기업 기술 이전(SBIR/STTR) 프로그램은"
+        },
+        {
+          "text": "recently",
+          "role": "M",
+          "sub": false,
+          "ko": "최근"
+        },
+        {
+          "text": "selected",
+          "role": "V",
+          "sub": false,
+          "ko": "선정했다"
+        },
+        {
+          "text": "302 innovative projects,",
+          "role": "O",
+          "sub": false,
+          "ko": "302개의 혁신적인 프로젝트를"
+        },
+        {
+          "text": "for a total investment of up to $171 million in seed funding.",
+          "role": "M",
+          "sub": false,
+          "ko": "총 최대 1억 7,100만 달러의 시드 펀딩 투자로"
+        }
+      ],
+      "skeleton": "program selected projects",
+      "explanation": "아주 긴 주어도 결국 핵심은 program 한 단어다. 앞의 긴 이름은 어떤 프로그램인지 알려 주는 이름표일 뿐이다. 동사 selected(과거형) + 목적어 302 innovative projects로 뼈대가 끝나고, for ~ funding은 투자 규모를 덧붙이는 수식어다. up to는 '최대 ~까지'라는 뜻이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Working with the program,",
+          "role": "M",
+          "sub": false,
+          "ko": "이 프로그램과 함께하면"
+        },
+        {
+          "text": "a company’s path",
+          "role": "S",
+          "sub": false,
+          "ko": "한 기업의 과정은"
+        },
+        {
+          "text": "toward commercialization or infusion into NASA missions",
+          "role": "M",
+          "sub": false,
+          "ko": "상용화 또는 NASA 임무 투입을 향한"
+        },
+        {
+          "text": "occurs",
+          "role": "V",
+          "sub": false,
+          "ko": "이루어진다"
+        },
+        {
+          "text": "in phases.",
+          "role": "M",
+          "sub": false,
+          "ko": "여러 단계로"
+        }
+      ],
+      "skeleton": "a company’s path occurs",
+      "explanation": "문장 맨 앞 Working with the program,은 분사구문으로 '프로그램과 함께 일하면'이라는 조건·상황을 나타낸다. 주어는 a company’s path이고, toward ~ missions가 그 길이 '어디를 향하는지' 꾸며 준다. 동사 occurs는 목적어가 필요 없는 자동사라서 in phases(단계별로)만 붙어 문장이 끝난다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "while + -ing – '~하면서 동시에'",
+      "tags": [
+        "분사구문",
+        "접속사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "while fueling"
+      ],
+      "explanation": "while 뒤에 주어와 be동사(they are)가 생략되고 -ing만 남은 형태다. 원래는 while they are fueling ~으로, 주어가 앞 문장과 같아서 줄였다. '~하는 동시에, ~하면서'라는 뜻으로 같은 주어가 함께 하는 일을 덧붙인다.",
+      "example": {
+        "en": "She listens to music while doing her homework.",
+        "ko": "그녀는 숙제를 하면서 음악을 듣는다."
+      },
+      "note": "when, while, before, after 같은 접속사 뒤에서 자주 이렇게 줄인다."
+    },
+    {
+      "id": "g2",
+      "title": "to부정사 – 목적 '~하기 위해'",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "to establish"
+      ],
+      "explanation": "to + 동사원형(to establish)이 문장 뒤에 붙어 '~하기 위해'라는 목적을 나타낸다. 1단계 계약이 돈을 받는 이유가 '혁신 기술의 가치와 실현 가능성을 입증하기 위해서'라는 뜻이다.",
+      "example": {
+        "en": "He saved money to buy a new bike.",
+        "ko": "그는 새 자전거를 사기 위해 돈을 모았다."
+      },
+      "note": "in order to establish로 바꿔도 뜻이 같다."
+    },
+    {
+      "id": "g3",
+      "title": "과거분사의 뒤 꾸밈 – '~된, ~받은'",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "the projects selected",
+        "provided to small businesses",
+        "partnered with research institutions"
+      ],
+      "explanation": "과거분사(-ed)가 명사 뒤에서 '~된'이라는 수동의 뜻으로 꾸며 준다. the projects selected는 '선정된 프로젝트', provided to ~는 '~에게 주어지는', small businesses partnered with ~는 '~와 협력 관계를 맺은 소기업'이다. 앞에 which are가 생략되었다고 생각하면 쉽다.",
+      "example": {
+        "en": "The book written by her became popular.",
+        "ko": "그녀가 쓴 책은 인기를 얻었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "awards": {
+      "lemma": "award",
+      "pos": "noun",
+      "ko": "지원금, (선정되어) 주어지는 계약",
+      "form": "복수형",
+      "synonyms": [
+        "grants",
+        "contracts"
+      ],
+      "ipa": "/əˈwɔːrdz/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; ~하기 위해(to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은, 소규모의",
+      "form": null,
+      "synonyms": [
+        "little",
+        "minor"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "businesses": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "기업, 회사",
+      "form": "복수형",
+      "synonyms": [
+        "companies",
+        "firms"
+      ],
+      "ipa": "/ˈbɪznəsəz/"
+    },
+    "around": {
+      "lemma": "around",
+      "pos": "preposition",
+      "ko": "~ 곳곳에, 여기저기",
+      "form": null,
+      "ipa": "/əˈraʊnd/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "country": {
+      "lemma": "country",
+      "pos": "noun",
+      "ko": "나라, 국가",
+      "form": null,
+      "synonyms": [
+        "nation"
+      ],
+      "ipa": "/ˈkʌntri/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형·수동태를 만드는 조동사) ~이다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "addressing": {
+      "lemma": "address",
+      "pos": "verb",
+      "ko": "(문제를) 다루다, 해결하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tackling",
+        "handling"
+      ],
+      "ipa": "/əˈdrɛsɪŋ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "일부, 몇몇",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "nasa's": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "NASA(미국 항공우주국)의",
+      "form": "소유격",
+      "ipa": "/ˈnæsəz/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급)",
+      "form": null,
+      "synonyms": [
+        "extremely"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "crucial": {
+      "lemma": "crucial",
+      "pos": "adjective",
+      "ko": "매우 중요한, 결정적인",
+      "form": null,
+      "synonyms": [
+        "vital",
+        "essential"
+      ],
+      "ipa": "/ˈkruːʃəl/"
+    },
+    "technology": {
+      "lemma": "technology",
+      "pos": "noun",
+      "ko": "기술",
+      "form": null,
+      "synonyms": [
+        "tech"
+      ],
+      "ipa": "/tɛkˈnɑːlədʒi/"
+    },
+    "needs": {
+      "lemma": "need",
+      "pos": "noun",
+      "ko": "필요, 요구 사항",
+      "form": "복수형",
+      "synonyms": [
+        "requirements",
+        "demands"
+      ],
+      "ipa": "/niːdz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "exploration": {
+      "lemma": "exploration",
+      "pos": "noun",
+      "ko": "탐사, 탐험",
+      "form": null,
+      "synonyms": [
+        "discovery",
+        "investigation"
+      ],
+      "ipa": "/ˌɛkspləˈreɪʃən/"
+    },
+    "moon": {
+      "lemma": "Moon",
+      "pos": "proper-noun",
+      "ko": "달",
+      "form": null,
+      "ipa": "/muːn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "mars": {
+      "lemma": "Mars",
+      "pos": "proper-noun",
+      "ko": "화성",
+      "form": null,
+      "ipa": "/mɑːrz/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동시에, ~하면서",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "fueling": {
+      "lemma": "fuel",
+      "pos": "verb",
+      "ko": "활력을 불어넣다, 촉진하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "boosting",
+        "driving"
+      ],
+      "ipa": "/ˈfjuːlɪŋ/"
+    },
+    "u": {
+      "lemma": "U.S.",
+      "pos": "proper-noun",
+      "ko": "미국 (U.S.의 U)",
+      "form": "줄임말",
+      "ipa": "/juː/"
+    },
+    "s": {
+      "lemma": "U.S.",
+      "pos": "proper-noun",
+      "ko": "미국 (U.S.의 S)",
+      "form": "줄임말",
+      "ipa": "/ɛs/"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "우주",
+      "form": null,
+      "synonyms": [
+        "outer space"
+      ],
+      "ipa": "/speɪs/"
+    },
+    "economy": {
+      "lemma": "economy",
+      "pos": "noun",
+      "ko": "경제",
+      "form": null,
+      "synonyms": [
+        "market"
+      ],
+      "ipa": "/ɪˈkɑːnəmi/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "기업, 사업 (Small Business: 중소기업)",
+      "form": null,
+      "synonyms": [
+        "company",
+        "enterprise"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "innovation": {
+      "lemma": "innovation",
+      "pos": "noun",
+      "ko": "혁신, 혁신 기술",
+      "form": null,
+      "synonyms": [
+        "invention",
+        "breakthrough"
+      ],
+      "ipa": "/ˌɪnəˈveɪʃən/"
+    },
+    "research": {
+      "lemma": "research",
+      "pos": "noun",
+      "ko": "연구",
+      "form": null,
+      "synonyms": [
+        "study",
+        "investigation"
+      ],
+      "ipa": "/riˈsɜːrtʃ/"
+    },
+    "transfer": {
+      "lemma": "transfer",
+      "pos": "noun",
+      "ko": "이전, 옮김 (Technology Transfer: 기술 이전)",
+      "form": null,
+      "synonyms": [
+        "transmission",
+        "handover"
+      ],
+      "ipa": "/trænsˈfɜːr/"
+    },
+    "sbir": {
+      "lemma": "SBIR",
+      "pos": "proper-noun",
+      "ko": "SBIR (중소기업 혁신 연구 프로그램)",
+      "form": "줄임말",
+      "ipa": null
+    },
+    "sttr": {
+      "lemma": "STTR",
+      "pos": "proper-noun",
+      "ko": "STTR (중소기업 기술 이전 프로그램)",
+      "form": "줄임말",
+      "ipa": null
+    },
+    "program": {
+      "lemma": "program",
+      "pos": "noun",
+      "ko": "프로그램, 사업",
+      "form": null,
+      "synonyms": [
+        "scheme",
+        "initiative"
+      ],
+      "ipa": "/ˈproʊˌɡræm/"
+    },
+    "recently": {
+      "lemma": "recently",
+      "pos": "adverb",
+      "ko": "최근에",
+      "form": null,
+      "synonyms": [
+        "lately",
+        "newly"
+      ],
+      "ipa": "/ˈriːsəntli/"
+    },
+    "selected": {
+      "lemma": "select",
+      "pos": "verb",
+      "ko": "선정하다, 고르다; 선정된",
+      "form": "과거형/과거분사",
+      "synonyms": [
+        "chose",
+        "picked"
+      ],
+      "ipa": "/səˈlɛktɪd/"
+    },
+    "innovative": {
+      "lemma": "innovative",
+      "pos": "adjective",
+      "ko": "혁신적인",
+      "form": null,
+      "synonyms": [
+        "inventive",
+        "creative",
+        "new"
+      ],
+      "ipa": "/ˈɪnəˌveɪtɪv/"
+    },
+    "projects": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트, 과제",
+      "form": "복수형",
+      "synonyms": [
+        "undertakings",
+        "plans"
+      ],
+      "ipa": "/ˈprɑːdʒɛkts/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "total": {
+      "lemma": "total",
+      "pos": "adjective",
+      "ko": "총, 전체의",
+      "form": null,
+      "synonyms": [
+        "overall",
+        "entire"
+      ],
+      "ipa": "/ˈtoʊtəl/"
+    },
+    "investment": {
+      "lemma": "investment",
+      "pos": "noun",
+      "ko": "투자, 투자액",
+      "form": null,
+      "synonyms": [
+        "funding",
+        "spending"
+      ],
+      "ipa": "/ˌɪnˈvɛstmənt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(up to) 최대 ~까지",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "million": {
+      "lemma": "million",
+      "pos": "number",
+      "ko": "백만",
+      "form": null,
+      "ipa": "/ˈmɪljən/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~으로, ~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "seed": {
+      "lemma": "seed",
+      "pos": "noun",
+      "ko": "씨앗 (seed funding: 초기 자금)",
+      "form": null,
+      "synonyms": [
+        "starting",
+        "initial"
+      ],
+      "ipa": "/siːd/"
+    },
+    "funding": {
+      "lemma": "funding",
+      "pos": "noun",
+      "ko": "자금 지원, 자금",
+      "form": null,
+      "synonyms": [
+        "financing",
+        "money"
+      ],
+      "ipa": "/ˈfʌndɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "early-stage": {
+      "lemma": "early-stage",
+      "pos": "adjective",
+      "ko": "초기 단계의",
+      "form": null,
+      "synonyms": [
+        "initial",
+        "beginning"
+      ],
+      "ipa": "/ˈɜːrli-steɪdʒ/"
+    },
+    "development": {
+      "lemma": "development",
+      "pos": "noun",
+      "ko": "개발",
+      "form": null,
+      "synonyms": [
+        "creation",
+        "building"
+      ],
+      "ipa": "/dɪˈvɛləpmənt/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "작업, 일",
+      "form": null,
+      "synonyms": [
+        "effort",
+        "labor"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "tackle": {
+      "lemma": "tackle",
+      "pos": "verb",
+      "ko": "(문제·일을) 다루다, 맞붙다",
+      "form": null,
+      "synonyms": [
+        "address",
+        "handle",
+        "take on"
+      ],
+      "ipa": "/ˈtækəl/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "array": {
+      "lemma": "array",
+      "pos": "noun",
+      "ko": "(an array of) 다양한 ~, 집합",
+      "form": null,
+      "synonyms": [
+        "range",
+        "variety"
+      ],
+      "ipa": "/əˈreɪ/"
+    },
+    "topics": {
+      "lemma": "topic",
+      "pos": "noun",
+      "ko": "주제",
+      "form": "복수형",
+      "synonyms": [
+        "subjects",
+        "themes"
+      ],
+      "ipa": "/ˈtɑːpɪks/"
+    },
+    "including": {
+      "lemma": "include",
+      "pos": "preposition",
+      "ko": "~을 포함하여",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˌɪnˈkluːdɪŋ/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "그것들 (앞의 topics를 가리킴)",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "related": {
+      "lemma": "related",
+      "pos": "adjective",
+      "ko": "관련된",
+      "form": null,
+      "synonyms": [
+        "connected",
+        "linked"
+      ],
+      "ipa": "/rɪˈleɪtɪd/"
+    },
+    "artemis": {
+      "lemma": "Artemis",
+      "pos": "proper-noun",
+      "ko": "아르테미스 (NASA의 유인 달 탐사 계획)",
+      "form": null,
+      "ipa": "/ˈɑrtəmɪs/"
+    },
+    "establishment": {
+      "lemma": "establishment",
+      "pos": "noun",
+      "ko": "설립, 건설",
+      "form": null,
+      "synonyms": [
+        "creation",
+        "founding",
+        "setting up"
+      ],
+      "ipa": "/ɪˈstæblɪʃmənt/"
+    },
+    "base": {
+      "lemma": "base",
+      "pos": "noun",
+      "ko": "기지 (Moon Base: 달 기지)",
+      "form": null,
+      "synonyms": [
+        "station",
+        "outpost"
+      ],
+      "ipa": "/beɪs/"
+    },
+    "include": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함하다",
+      "form": null,
+      "synonyms": [
+        "contain",
+        "cover"
+      ],
+      "ipa": "/ˌɪnˈkluːd/"
+    },
+    "next-generation": {
+      "lemma": "next-generation",
+      "pos": "adjective",
+      "ko": "차세대의",
+      "form": null,
+      "synonyms": [
+        "advanced",
+        "new"
+      ],
+      "ipa": "/nɛkst-ˌdʒɛnəˈreɪʃən/"
+    },
+    "battery": {
+      "lemma": "battery",
+      "pos": "noun",
+      "ko": "배터리, 전지",
+      "form": null,
+      "synonyms": [
+        "cell"
+      ],
+      "ipa": "/ˈbætəri/"
+    },
+    "solutions": {
+      "lemma": "solution",
+      "pos": "noun",
+      "ko": "해결책, 솔루션(기술 제품)",
+      "form": "복수형",
+      "synonyms": [
+        "answers",
+        "fixes"
+      ],
+      "ipa": "/səˈluːʃənz/"
+    },
+    "robotic": {
+      "lemma": "robotic",
+      "pos": "adjective",
+      "ko": "로봇의, 로봇을 이용한",
+      "form": null,
+      "synonyms": [
+        "automated",
+        "mechanical"
+      ],
+      "ipa": "/ˌroʊˈbɑːtɪk/"
+    },
+    "systems": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 장치",
+      "form": "복수형",
+      "synonyms": [
+        "setups",
+        "devices"
+      ],
+      "ipa": "/ˈsɪstəmz/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 갖춘, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "sensing": {
+      "lemma": "sensing",
+      "pos": "noun",
+      "ko": "감지, 센서 기능",
+      "form": null,
+      "synonyms": [
+        "detection"
+      ],
+      "ipa": "/ˈsɛnsɪŋ/"
+    },
+    "capabilities": {
+      "lemma": "capability",
+      "pos": "noun",
+      "ko": "능력, 기능",
+      "form": "복수형",
+      "synonyms": [
+        "abilities",
+        "functions"
+      ],
+      "ipa": "/ˌkeɪpəˈbɪlətiz/"
+    },
+    "extreme": {
+      "lemma": "extreme",
+      "pos": "adjective",
+      "ko": "극한의, 혹독한",
+      "form": null,
+      "synonyms": [
+        "harsh",
+        "severe"
+      ],
+      "ipa": "/ɛkˈstriːm/"
+    },
+    "lunar": {
+      "lemma": "lunar",
+      "pos": "adjective",
+      "ko": "달의",
+      "form": null,
+      "synonyms": [
+        "moon"
+      ],
+      "ipa": "/ˈluːnər/"
+    },
+    "environment": {
+      "lemma": "environment",
+      "pos": "noun",
+      "ko": "환경",
+      "form": null,
+      "synonyms": [
+        "surroundings",
+        "conditions"
+      ],
+      "ipa": "/ɪnˈvaɪrənmənt/"
+    },
+    "tools": {
+      "lemma": "tool",
+      "pos": "noun",
+      "ko": "도구, 장비",
+      "form": "복수형",
+      "synonyms": [
+        "instruments",
+        "equipment"
+      ],
+      "ipa": "/tuːlz/"
+    },
+    "prepare": {
+      "lemma": "prepare",
+      "pos": "verb",
+      "ko": "준비하다",
+      "form": null,
+      "synonyms": [
+        "get ready",
+        "plan"
+      ],
+      "ipa": "/priˈpɛr/"
+    },
+    "construction": {
+      "lemma": "construction",
+      "pos": "noun",
+      "ko": "건설, 공사",
+      "form": null,
+      "synonyms": [
+        "building"
+      ],
+      "ipa": "/kənˈstrʌkʃən/"
+    },
+    "critical": {
+      "lemma": "critical",
+      "pos": "adjective",
+      "ko": "매우 중요한, 핵심적인",
+      "form": null,
+      "synonyms": [
+        "vital",
+        "key",
+        "essential"
+      ],
+      "ipa": "/ˈkrɪtɪkəl/"
+    },
+    "infrastructure": {
+      "lemma": "infrastructure",
+      "pos": "noun",
+      "ko": "기반 시설",
+      "form": null,
+      "synonyms": [
+        "facilities",
+        "foundation"
+      ],
+      "ipa": "/ˌɪnfrəˈstrʌktʃər/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "(such as) ~와 같은",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "(such as) ~와 같은; ~로서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "landing": {
+      "lemma": "landing",
+      "pos": "noun",
+      "ko": "착륙 (landing pad: 착륙장)",
+      "form": null,
+      "synonyms": [
+        "touchdown"
+      ],
+      "ipa": "/ˈlændɪŋ/"
+    },
+    "pads": {
+      "lemma": "pad",
+      "pos": "noun",
+      "ko": "(발사·착륙용) 패드, 장",
+      "form": "복수형",
+      "synonyms": [
+        "platforms"
+      ],
+      "ipa": "/pædz/"
+    },
+    "provides": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "제공하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "gives",
+        "offers",
+        "supplies"
+      ],
+      "ipa": "/prəˈvaɪdz/"
+    },
+    "support": {
+      "lemma": "support",
+      "pos": "noun",
+      "ko": "지원, 도움",
+      "form": null,
+      "synonyms": [
+        "help",
+        "assistance",
+        "backing"
+      ],
+      "ipa": "/səˈpɔːrt/"
+    },
+    "entrepreneurs": {
+      "lemma": "entrepreneur",
+      "pos": "noun",
+      "ko": "기업가, 창업가",
+      "form": "복수형",
+      "synonyms": [
+        "founders",
+        "business owners"
+      ],
+      "ipa": "/ˌɑːntrəprəˈnɜːrz/"
+    },
+    "startups": {
+      "lemma": "startup",
+      "pos": "noun",
+      "ko": "스타트업, 신생 기업",
+      "form": "복수형",
+      "synonyms": [
+        "new companies",
+        "new businesses"
+      ],
+      "ipa": "/ˈstɑːrˌtʌps/"
+    },
+    "advance": {
+      "lemma": "advance",
+      "pos": "verb",
+      "ko": "발전시키다, 진전시키다",
+      "form": null,
+      "synonyms": [
+        "develop",
+        "improve",
+        "further"
+      ],
+      "ipa": "/ədˈvæns/"
+    },
+    "commercialize": {
+      "lemma": "commercialize",
+      "pos": "verb",
+      "ko": "상용화하다",
+      "form": null,
+      "synonyms": [
+        "market",
+        "sell"
+      ],
+      "ipa": "/kəˈmɜːrʃəˌlaɪz/"
+    },
+    "technologies": {
+      "lemma": "technology",
+      "pos": "noun",
+      "ko": "기술",
+      "form": "복수형",
+      "synonyms": [
+        "techniques",
+        "innovations"
+      ],
+      "ipa": "/tɛkˈnɑːlədʒiz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "agency's": {
+      "lemma": "agency",
+      "pos": "noun",
+      "ko": "기관의 (여기서는 NASA)",
+      "form": "소유격",
+      "synonyms": [
+        "organization's"
+      ],
+      "ipa": "/ˈeɪdʒənsiz/"
+    },
+    "missions": {
+      "lemma": "mission",
+      "pos": "noun",
+      "ko": "임무, 탐사 임무",
+      "form": "복수형",
+      "synonyms": [
+        "operations",
+        "tasks"
+      ],
+      "ipa": "/ˈmɪʃənz/"
+    },
+    "working": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다, 함께하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "collaborating",
+        "cooperating"
+      ],
+      "ipa": "/ˈwɜːrkɪŋ/"
+    },
+    "company's": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사의, 기업의",
+      "form": "소유격",
+      "synonyms": [
+        "firm's",
+        "business's"
+      ],
+      "ipa": "/ˈkʌmpəniz/"
+    },
+    "path": {
+      "lemma": "path",
+      "pos": "noun",
+      "ko": "길, 과정",
+      "form": null,
+      "synonyms": [
+        "route",
+        "course",
+        "way"
+      ],
+      "ipa": "/pæθ/"
+    },
+    "toward": {
+      "lemma": "toward",
+      "pos": "preposition",
+      "ko": "~을 향한",
+      "form": null,
+      "ipa": "/təˈwɔːrd/"
+    },
+    "commercialization": {
+      "lemma": "commercialization",
+      "pos": "noun",
+      "ko": "상용화, 상업화",
+      "form": null,
+      "synonyms": [
+        "marketing"
+      ],
+      "ipa": "/kəˌmɜːrʃəlɪˈzeɪʃən/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "infusion": {
+      "lemma": "infusion",
+      "pos": "noun",
+      "ko": "투입, 주입",
+      "form": null,
+      "synonyms": [
+        "introduction",
+        "injection"
+      ],
+      "ipa": "/ˌɪnˈfjuːʒən/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로, ~에",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "nasa": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "NASA(미국 항공우주국)",
+      "form": null,
+      "ipa": "/ˈnæsə/"
+    },
+    "occurs": {
+      "lemma": "occur",
+      "pos": "verb",
+      "ko": "일어나다, 이루어지다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "happens",
+        "takes place"
+      ],
+      "ipa": "/əˈkɜːrz/"
+    },
+    "phases": {
+      "lemma": "phase",
+      "pos": "noun",
+      "ko": "단계",
+      "form": "복수형",
+      "synonyms": [
+        "stages",
+        "steps"
+      ],
+      "ipa": "/ˈfeɪzəz/"
+    },
+    "latest": {
+      "lemma": "latest",
+      "pos": "adjective",
+      "ko": "최신의, 이번의",
+      "form": "최상급",
+      "synonyms": [
+        "newest",
+        "most recent"
+      ],
+      "ipa": "/ˈleɪtəst/"
+    },
+    "involved": {
+      "lemma": "involve",
+      "pos": "verb",
+      "ko": "포함하다, 관련되다",
+      "form": "과거형",
+      "synonyms": [
+        "included",
+        "covered"
+      ],
+      "ipa": "/ˌɪnˈvɑːlvd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "fresh",
+        "recent"
+      ],
+      "ipa": "/nuː/"
+    },
+    "phase": {
+      "lemma": "phase",
+      "pos": "noun",
+      "ko": "단계 (Phase I/II: 1단계/2단계)",
+      "form": null,
+      "synonyms": [
+        "stage",
+        "step"
+      ],
+      "ipa": "/feɪz/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "number",
+      "ko": "1 (로마 숫자, Phase I: 1단계)",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "contracts": {
+      "lemma": "contract",
+      "pos": "noun",
+      "ko": "계약",
+      "form": "복수형",
+      "synonyms": [
+        "agreements",
+        "deals"
+      ],
+      "ipa": "/ˈkɑːnˌtrækts/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "adverb",
+      "ko": "각각, 하나당",
+      "form": null,
+      "synonyms": [
+        "apiece"
+      ],
+      "ipa": "/iːtʃ/"
+    },
+    "establish": {
+      "lemma": "establish",
+      "pos": "verb",
+      "ko": "입증하다, 확립하다",
+      "form": null,
+      "synonyms": [
+        "prove",
+        "demonstrate",
+        "confirm"
+      ],
+      "ipa": "/ɪˈstæblɪʃ/"
+    },
+    "merit": {
+      "lemma": "merit",
+      "pos": "noun",
+      "ko": "가치, 장점",
+      "form": null,
+      "synonyms": [
+        "value",
+        "worth"
+      ],
+      "ipa": "/ˈmɛrət/"
+    },
+    "feasibility": {
+      "lemma": "feasibility",
+      "pos": "noun",
+      "ko": "실현 가능성",
+      "form": null,
+      "synonyms": [
+        "practicality",
+        "viability"
+      ],
+      "ipa": "/ˌfiːzəˈbɪləti/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "proposed": {
+      "lemma": "propose",
+      "pos": "verb",
+      "ko": "제안된",
+      "form": "과거분사",
+      "synonyms": [
+        "suggested",
+        "planned"
+      ],
+      "ipa": "/prəˈpoʊzd/"
+    },
+    "portion": {
+      "lemma": "portion",
+      "pos": "noun",
+      "ko": "일부, 부분",
+      "form": null,
+      "synonyms": [
+        "part",
+        "share"
+      ],
+      "ipa": "/ˈpɔːrʃən/"
+    },
+    "provided": {
+      "lemma": "provide",
+      "pos": "verb",
+      "ko": "주어진, 제공된",
+      "form": "과거분사",
+      "synonyms": [
+        "given",
+        "offered"
+      ],
+      "ipa": "/prəˈvaɪdɪd/"
+    },
+    "partnered": {
+      "lemma": "partner",
+      "pos": "verb",
+      "ko": "협력 관계를 맺은",
+      "form": "과거분사",
+      "synonyms": [
+        "teamed",
+        "allied"
+      ],
+      "ipa": "/ˈpɑːrtnərd/"
+    },
+    "institutions": {
+      "lemma": "institution",
+      "pos": "noun",
+      "ko": "기관 (연구 기관, 대학 등)",
+      "form": "복수형",
+      "synonyms": [
+        "organizations",
+        "establishments"
+      ],
+      "ipa": "/ˌɪnstɪˈtuːʃənz/"
+    },
+    "ii": {
+      "lemma": "II",
+      "pos": "number",
+      "ko": "2 (로마 숫자, Phase II: 2단계)",
+      "form": null,
+      "ipa": null
+    },
+    "valued": {
+      "lemma": "value",
+      "pos": "verb",
+      "ko": "(금액이) ~로 평가된, ~ 규모의",
+      "form": "과거분사",
+      "synonyms": [
+        "worth",
+        "priced"
+      ],
+      "ipa": "/ˈvæljud/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(금액·수치) ~로",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "continue": {
+      "lemma": "continue",
+      "pos": "verb",
+      "ko": "계속하다, 이어 가다",
+      "form": null,
+      "synonyms": [
+        "carry on",
+        "proceed with"
+      ],
+      "ipa": "/kənˈtɪnju/"
+    },
+    "begun": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작된",
+      "form": "과거분사",
+      "synonyms": [
+        "started",
+        "launched"
+      ],
+      "ipa": "/bɪˈɡʌn/"
+    },
+    "targeting": {
+      "lemma": "target",
+      "pos": "verb",
+      "ko": "목표로 하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "aiming at",
+        "focusing on"
+      ],
+      "ipa": "/ˈtɑːrɡətɪŋ/"
+    },
+    "demonstration": {
+      "lemma": "demonstration",
+      "pos": "noun",
+      "ko": "시연, 실증",
+      "form": null,
+      "synonyms": [
+        "showing",
+        "display"
+      ],
+      "ipa": "/ˌdɛmənˈstreɪʃən/"
+    },
+    "delivery": {
+      "lemma": "delivery",
+      "pos": "noun",
+      "ko": "납품, 전달",
+      "form": null,
+      "synonyms": [
+        "supply",
+        "handover"
+      ],
+      "ipa": "/dɪˈlɪvəri/"
+    }
+  }
+}
