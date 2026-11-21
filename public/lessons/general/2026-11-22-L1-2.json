@@ -1,0 +1,1086 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-22-L1-2",
+  "date": "2026-11-22",
+  "level": 1,
+  "title": "The Birds, the Beasts, and the Bat",
+  "titleKo": "새와 짐승과 박쥐",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_18_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_18_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "Gail",
+    "durationSec": 72,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 18번 트랙(전체 168번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 113,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "새들이 짐승들과 전쟁을 벌였고, 많은 전투가 치러졌는데 양쪽 모두 이기기도 하고 지기도 했다. 박쥐는 어느 편에도 확실하게 운명을 맡기지 않았다. 그 대신 새들에게 일이 잘 풀릴 때는 새들 편에서 싸우는 모습이 보였고, 반대로 짐승들이 우세해지면 짐승들 사이에 끼어 있었다. 전쟁이 계속되는 동안에는 아무도 그에게 신경 쓰지 않았다. 그러나 전쟁이 끝나고 평화가 되돌아오자, 새들도 짐승들도 그렇게 두 얼굴을 가진 배신자와는 전혀 상종하려 하지 않았다. 그래서 박쥐는 오늘날까지도 양쪽 모두에게서 쫓겨난 외로운 신세로 지낸다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The Birds were at war with the Beasts, and many battles were fought with varying success on either side.",
+      "ko": "새들이 짐승들과 전쟁을 벌였고, 많은 전투가 치러졌는데 양쪽 모두 이기기도 하고 지기도 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The Bat did not throw in his lot definitely with either party, but when things went well for the Birds he was found fighting in their ranks; when, on the other hand, the Beasts got the upper hand, he was to be found among the Beasts.",
+      "ko": "박쥐는 어느 편에도 확실하게 운명을 맡기지 않았다. 그 대신 새들에게 일이 잘 풀릴 때는 새들 편에서 싸우는 모습이 보였고, 반대로 짐승들이 우세해지면 짐승들 사이에 끼어 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "No one paid any attention to him while the war lasted: but when it was over, and peace was restored, neither the Birds nor the Beasts would have anything to do with so double-faced a traitor, and so he remains to this day a solitary outcast from both.",
+      "ko": "전쟁이 계속되는 동안에는 아무도 그에게 신경 쓰지 않았다. 그러나 전쟁이 끝나고 평화가 되돌아오자, 새들도 짐승들도 그렇게 두 얼굴을 가진 배신자와는 전혀 상종하려 하지 않았다. 그래서 박쥐는 오늘날까지도 양쪽 모두에게서 쫓겨난 외로운 신세로 지낸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "at war",
+      "pos": "phrase",
+      "meaningKo": "전쟁 중인, 싸우고 있는",
+      "ipa": "/æt ˈwɔr/",
+      "synonyms": [
+        "fighting",
+        "in conflict"
+      ],
+      "matchText": "at war",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The two countries were at war for ten years.",
+        "ko": "두 나라는 10년 동안 전쟁 중이었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "throw in one's lot with",
+      "pos": "idiom",
+      "meaningKo": "~와 운명을 같이하다, ~ 편에 서다",
+      "ipa": "/θroʊ ɪn wʌnz ˈlɑt wɪð/",
+      "synonyms": [
+        "side with",
+        "join"
+      ],
+      "matchText": "throw in his lot",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She decided to throw in her lot with the new team.",
+        "ko": "그녀는 새 팀과 운명을 같이하기로 했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "get the upper hand",
+      "pos": "idiom",
+      "meaningKo": "우세해지다, 유리한 입장에 서다",
+      "ipa": "/ɡɛt ði ˈʌpər hænd/",
+      "synonyms": [
+        "gain the advantage",
+        "win"
+      ],
+      "matchText": "got the upper hand",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Our team got the upper hand in the second half.",
+        "ko": "우리 팀은 후반전에 우세해졌다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "have nothing to do with",
+      "pos": "idiom",
+      "meaningKo": "~와 상종하지 않다, 관계를 끊다",
+      "ipa": "/hæv ˈnʌθɪŋ tə ˈdu wɪð/",
+      "synonyms": [
+        "avoid",
+        "shun"
+      ],
+      "matchText": "have anything to do with",
+      "sentenceId": "s3",
+      "example": {
+        "en": "I want to have nothing to do with liars.",
+        "ko": "나는 거짓말쟁이와는 상종하고 싶지 않다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "outcast",
+      "pos": "noun",
+      "meaningKo": "따돌림받는 사람, 쫓겨난 자",
+      "ipa": "/ˈaʊtˌkæst/",
+      "synonyms": [
+        "exile",
+        "outsider"
+      ],
+      "matchText": "outcast",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He felt like an outcast at his new school.",
+        "ko": "그는 새 학교에서 따돌림받는 사람처럼 느꼈다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "The Birds",
+          "role": "S",
+          "sub": false,
+          "ko": "새들이"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "at war",
+          "role": "C",
+          "sub": false,
+          "ko": "전쟁 중에"
+        },
+        {
+          "text": "with the Beasts,",
+          "role": "M",
+          "sub": false,
+          "ko": "짐승들과"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "many battles",
+          "role": "S",
+          "sub": false,
+          "ko": "많은 전투가"
+        },
+        {
+          "text": "were fought",
+          "role": "V",
+          "sub": false,
+          "ko": "치러졌다"
+        },
+        {
+          "text": "with varying success",
+          "role": "M",
+          "sub": false,
+          "ko": "승패가 엇갈리며"
+        },
+        {
+          "text": "on either side.",
+          "role": "M",
+          "sub": false,
+          "ko": "양쪽 모두에서"
+        }
+      ],
+      "skeleton": "The Birds were at war / many battles were fought",
+      "explanation": "and를 사이에 두고 두 문장이 이어져 있어요. 앞은 'S + be + 보어(at war)', 뒤는 수동태 'were fought(치러졌다)'예요. with varying success는 '성공이 이리저리 바뀌며', 즉 '이겼다 졌다 하며'라는 뜻이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "No one",
+          "role": "S",
+          "sub": false,
+          "ko": "아무도"
+        },
+        {
+          "text": "paid",
+          "role": "V",
+          "sub": false,
+          "ko": "기울이지 않았다"
+        },
+        {
+          "text": "any attention",
+          "role": "O",
+          "sub": false,
+          "ko": "어떤 관심도"
+        },
+        {
+          "text": "to him",
+          "role": "M",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "while",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는 동안"
+        },
+        {
+          "text": "the war",
+          "role": "S",
+          "sub": true,
+          "ko": "전쟁이"
+        },
+        {
+          "text": "lasted:",
+          "role": "V",
+          "sub": true,
+          "ko": "계속되다"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~했을 때"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "그것(전쟁)이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "되었다"
+        },
+        {
+          "text": "over,",
+          "role": "C",
+          "sub": true,
+          "ko": "끝난 상태가"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "peace",
+          "role": "S",
+          "sub": true,
+          "ko": "평화가"
+        },
+        {
+          "text": "was restored,",
+          "role": "V",
+          "sub": true,
+          "ko": "되찾아졌다"
+        },
+        {
+          "text": "neither the Birds nor the Beasts",
+          "role": "S",
+          "sub": false,
+          "ko": "새들도 짐승들도 (~않았다)"
+        },
+        {
+          "text": "would have",
+          "role": "V",
+          "sub": false,
+          "ko": "가지려 하지 않았다"
+        },
+        {
+          "text": "anything to do",
+          "role": "O",
+          "sub": false,
+          "ko": "어떤 관계도"
+        },
+        {
+          "text": "with so double-faced a traitor,",
+          "role": "M",
+          "sub": false,
+          "ko": "그렇게 두 얼굴을 가진 배신자와"
+        },
+        {
+          "text": "and so",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "remains",
+          "role": "V",
+          "sub": false,
+          "ko": "남아 있다"
+        },
+        {
+          "text": "to this day",
+          "role": "M",
+          "sub": false,
+          "ko": "오늘날까지"
+        },
+        {
+          "text": "a solitary outcast",
+          "role": "C",
+          "sub": false,
+          "ko": "외로운 따돌림받는 자로"
+        },
+        {
+          "text": "from both.",
+          "role": "M",
+          "sub": false,
+          "ko": "양쪽에서"
+        }
+      ],
+      "skeleton": "No one paid any attention / neither ... would have anything to do / he remains an outcast",
+      "explanation": "콜론(:)과 but, and so로 세 덩어리가 이어진 긴 문장이에요. while ~, when ~ 은 '때'를 나타내는 부사절이에요. neither A nor B는 'A도 B도 아니다'라서 뒤의 would have anything은 '아무 관계도 맺으려 하지 않았다'는 뜻이 돼요. 마지막 he remains는 현재형이라 '지금도 그렇다'는 느낌을 줘요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "neither A nor B",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "neither the Birds nor the Beasts"
+      ],
+      "explanation": "neither A nor B는 'A도 B도 ~ 아니다'라는 뜻이에요. 문장에 not이 없어도 부정의 뜻이 들어 있어요. 그래서 neither the Birds nor the Beasts would have anything to do with ~는 '새도 짐승도 ~와 상종하려 하지 않았다'예요.",
+      "example": {
+        "en": "Neither Tom nor Jane came to the party.",
+        "ko": "톰도 제인도 파티에 오지 않았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "be to + 동사원형 / be found + -ing",
+      "tags": [
+        "to부정사",
+        "수동태"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "he was found fighting",
+        "he was to be found"
+      ],
+      "explanation": "was found fighting은 '싸우고 있는 것이 발견되었다(싸우는 모습이 보였다)'라는 수동태예요. was to be found는 'be to 용법'으로 '찾아볼 수 있었다, 있었다'라는 뜻이에요. 두 표현 모두 박쥐가 어디에 있었는지를 말해요.",
+      "example": {
+        "en": "The cat was found sleeping under the bed.",
+        "ko": "고양이는 침대 밑에서 자고 있는 채로 발견되었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "so + 형용사 + a + 명사",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so double-faced a traitor"
+      ],
+      "explanation": "보통은 'such a 형용사 명사'라고 하지만, so를 쓰면 'so + 형용사 + a + 명사' 순서가 돼요. so double-faced a traitor는 '그렇게 두 얼굴을 가진 배신자'예요.",
+      "example": {
+        "en": "I have never seen so tall a man.",
+        "ko": "나는 그렇게 키 큰 남자를 본 적이 없다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "birds": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새",
+      "form": "복수형",
+      "synonyms": [
+        "fowl"
+      ],
+      "ipa": "/bɜːrdz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~ 상태인 (at war: 전쟁 중인)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "war": {
+      "lemma": "war",
+      "pos": "noun",
+      "ko": "전쟁",
+      "form": null,
+      "synonyms": [
+        "conflict",
+        "battle"
+      ],
+      "ipa": "/wɔːr/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "beasts": {
+      "lemma": "beast",
+      "pos": "noun",
+      "ko": "짐승",
+      "form": "복수형",
+      "synonyms": [
+        "animal",
+        "creature"
+      ],
+      "ipa": "/biːsts/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "battles": {
+      "lemma": "battle",
+      "pos": "noun",
+      "ko": "전투, 싸움",
+      "form": "복수형",
+      "synonyms": [
+        "fight",
+        "combat"
+      ],
+      "ipa": "/ˈbætəlz/"
+    },
+    "fought": {
+      "lemma": "fight",
+      "pos": "verb",
+      "ko": "싸우다, (전투를) 치르다",
+      "form": "과거분사",
+      "synonyms": [
+        "wage",
+        "battle"
+      ],
+      "ipa": "/fɔːt/"
+    },
+    "varying": {
+      "lemma": "vary",
+      "pos": "verb",
+      "ko": "바뀌는, 여러 가지인",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "changing",
+        "differing"
+      ],
+      "ipa": "/ˈvɛriɪŋ/"
+    },
+    "success": {
+      "lemma": "success",
+      "pos": "noun",
+      "ko": "성공, 승리",
+      "form": null,
+      "synonyms": [
+        "victory",
+        "win"
+      ],
+      "ipa": "/səkˈsɛs/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~ 쪽에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "either": {
+      "lemma": "either",
+      "pos": "determiner",
+      "ko": "(둘 중) 어느 쪽, 양쪽의",
+      "form": null,
+      "ipa": "/ˈiːðər/"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "편, 쪽",
+      "form": null,
+      "synonyms": [
+        "party",
+        "camp"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "bat": {
+      "lemma": "bat",
+      "pos": "noun",
+      "ko": "박쥐",
+      "form": null,
+      "ipa": "/bæt/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "throw": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던지다 (throw in one's lot with: ~와 운명을 같이하다)",
+      "form": null,
+      "synonyms": [
+        "cast",
+        "toss"
+      ],
+      "ipa": "/θroʊ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "lot": {
+      "lemma": "lot",
+      "pos": "noun",
+      "ko": "운명, 몫",
+      "form": null,
+      "synonyms": [
+        "fate",
+        "fortune"
+      ],
+      "ipa": "/lɑːt/"
+    },
+    "definitely": {
+      "lemma": "definitely",
+      "pos": "adverb",
+      "ko": "확실히, 분명히",
+      "form": null,
+      "synonyms": [
+        "clearly",
+        "firmly"
+      ],
+      "ipa": "/ˈdɛfənətli/"
+    },
+    "party": {
+      "lemma": "party",
+      "pos": "noun",
+      "ko": "편, 쪽, 당사자",
+      "form": null,
+      "synonyms": [
+        "side",
+        "group"
+      ],
+      "ipa": "/ˈpɑːrti/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 그 대신",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "things": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "일, 상황",
+      "form": "복수형",
+      "synonyms": [
+        "matters",
+        "affairs"
+      ],
+      "ipa": "/θɪŋz/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(일이) 되어 가다",
+      "form": "과거형",
+      "synonyms": [
+        "turn out",
+        "proceed"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘",
+      "form": null,
+      "synonyms": [
+        "nicely",
+        "fine"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에게",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (수동태) ~되다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다, (보니) ~하고 있다",
+      "form": "과거분사",
+      "synonyms": [
+        "discover",
+        "see"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "fighting": {
+      "lemma": "fight",
+      "pos": "verb",
+      "ko": "싸우다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "battle",
+        "combat"
+      ],
+      "ipa": "/ˈfaɪtɪŋ/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "ranks": {
+      "lemma": "rank",
+      "pos": "noun",
+      "ko": "대열, (군대의) 진영",
+      "form": "복수형",
+      "synonyms": [
+        "lines",
+        "troops"
+      ],
+      "ipa": "/ræŋks/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른 (on the other hand: 반면에)",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손; 쪽, 측면 (upper hand: 우세)",
+      "form": null,
+      "synonyms": [
+        "side",
+        "advantage"
+      ],
+      "ipa": "/hænd/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다, 차지하다",
+      "form": "과거형",
+      "synonyms": [
+        "gain",
+        "obtain"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "upper": {
+      "lemma": "upper",
+      "pos": "adjective",
+      "ko": "위쪽의, 우세한",
+      "form": null,
+      "synonyms": [
+        "higher",
+        "superior"
+      ],
+      "ipa": "/ˈʌpər/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; ~하는 것 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "among": {
+      "lemma": "among",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/əˈmʌŋ/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "아무 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "사람 (no one: 아무도)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "paid": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(관심을) 기울이다, 치르다",
+      "form": "과거형",
+      "synonyms": [
+        "give",
+        "devote"
+      ],
+      "ipa": "/peɪd/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 아무런",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "attention": {
+      "lemma": "attention",
+      "pos": "noun",
+      "ko": "관심, 주의",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "heed"
+      ],
+      "ipa": "/əˈtɛnʃən/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "lasted": {
+      "lemma": "last",
+      "pos": "verb",
+      "ko": "계속되다, 지속되다",
+      "form": "과거형",
+      "synonyms": [
+        "continue",
+        "go on"
+      ],
+      "ipa": "/ˈlæstəd/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (여기서는 전쟁)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "adjective",
+      "ko": "끝난",
+      "form": null,
+      "synonyms": [
+        "finished",
+        "ended"
+      ],
+      "ipa": "/ˈoʊvər/"
+    },
+    "peace": {
+      "lemma": "peace",
+      "pos": "noun",
+      "ko": "평화",
+      "form": null,
+      "synonyms": [
+        "harmony",
+        "calm"
+      ],
+      "ipa": "/piːs/"
+    },
+    "restored": {
+      "lemma": "restore",
+      "pos": "verb",
+      "ko": "되찾다, 회복시키다",
+      "form": "과거분사",
+      "synonyms": [
+        "bring back",
+        "renew"
+      ],
+      "ipa": "/rɪˈstɔːrd/"
+    },
+    "neither": {
+      "lemma": "neither",
+      "pos": "conjunction",
+      "ko": "(neither A nor B) A도 B도 아닌",
+      "form": null,
+      "ipa": "/ˈniːðər/"
+    },
+    "nor": {
+      "lemma": "nor",
+      "pos": "conjunction",
+      "ko": "(neither A nor B) B도 아닌",
+      "form": null,
+      "ipa": "/nɔːr/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하려 하다 (의지)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다 (have nothing to do with: ~와 상종하지 않다)",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "keep"
+      ],
+      "ipa": "/hæv/"
+    },
+    "anything": {
+      "lemma": "anything",
+      "pos": "pronoun",
+      "ko": "무엇이든, 아무것도",
+      "form": null,
+      "ipa": "/ˈɛniˌθɪŋ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다 (have to do with: ~와 관계가 있다)",
+      "form": null,
+      "synonyms": [
+        "deal"
+      ],
+      "ipa": "/duː/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게; (and so) 그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "double-faced": {
+      "lemma": "double-faced",
+      "pos": "adjective",
+      "ko": "두 얼굴의, 표리부동한",
+      "form": null,
+      "synonyms": [
+        "two-faced",
+        "deceitful"
+      ],
+      "ipa": "/ˈdʌbəl-feɪst/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "traitor": {
+      "lemma": "traitor",
+      "pos": "noun",
+      "ko": "배신자",
+      "form": null,
+      "synonyms": [
+        "betrayer",
+        "turncoat"
+      ],
+      "ipa": "/ˈtreɪtər/"
+    },
+    "remains": {
+      "lemma": "remain",
+      "pos": "verb",
+      "ko": "(여전히) ~인 채로 있다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "stays",
+        "continues"
+      ],
+      "ipa": "/rɪˈmeɪnz/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이 (to this day: 오늘날까지)",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 시대",
+      "form": null,
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "solitary": {
+      "lemma": "solitary",
+      "pos": "adjective",
+      "ko": "외로운, 혼자의",
+      "form": null,
+      "synonyms": [
+        "lonely",
+        "alone"
+      ],
+      "ipa": "/ˈsɑːləˌtɛri/"
+    },
+    "outcast": {
+      "lemma": "outcast",
+      "pos": "noun",
+      "ko": "따돌림받는 사람, 쫓겨난 자",
+      "form": null,
+      "synonyms": [
+        "exile",
+        "outsider"
+      ],
+      "ipa": "/ˈaʊtˌkæst/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~으로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "both": {
+      "lemma": "both",
+      "pos": "pronoun",
+      "ko": "양쪽 모두, 둘 다",
+      "form": null,
+      "ipa": "/boʊθ/"
+    }
+  }
+}
