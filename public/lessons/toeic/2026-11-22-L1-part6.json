@@ -1,0 +1,1233 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-22-L1-part6",
+  "date": "2026-11-22",
+  "level": 1,
+  "title": "Annual Company Picnic Announcement",
+  "titleKo": "연례 회사 야유회 안내",
+  "genre": "announcement",
+  "tags": [
+    "TOEIC Part 6",
+    "안내문",
+    "회의·행사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 109,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Riverside Printing 연례 야유회"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "올해 연례 회사 야유회가 6월 12일 토요일에 열린다는 것을 알려 드리게 되어 기쁩니다. 올해 행사는 Cedar Lake 공원에서 열립니다. 모두를 위한 게임과 음악, 넉넉한 음식이 준비됩니다. 직원 여러분은 가족을 데려오셔도 좋습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "준비에 도움이 되도록 안내 데스크에 있는 신청서를 작성해 주세요. 데려올 손님 수를 꼭 적어 주세요. 그래야 알맞은 양의 음식을 주문할 수 있습니다. 버스는 오전 9시 정각에 본사에서 출발합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "그곳에서 뵙기를 바랍니다!"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "Riverside Printing 행사팀"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Riverside Printing Annual Picnic",
+      "ko": "Riverside Printing 연례 야유회",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "We are happy to announce that our annual company picnic will take place on Saturday, June 12.",
+      "ko": "올해 연례 회사 야유회가 6월 12일 토요일에 열린다는 것을 알려 드리게 되어 기쁩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "This year, the event will be held at Cedar Lake Park.",
+      "ko": "올해 행사는 Cedar Lake 공원에서 열립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "There will be games, music, and plenty of food for everyone.",
+      "ko": "모두를 위한 게임과 음악, 넉넉한 음식이 준비됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Employees are welcome to bring their family members.",
+      "ko": "직원 여러분은 가족을 데려오셔도 좋습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "To help us plan, please complete the sign-up sheet at the front desk.",
+      "ko": "준비에 도움이 되도록 안내 데스크에 있는 신청서를 작성해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Be sure to write down the number of guests you will bring.",
+      "ko": "데려올 손님 수를 꼭 적어 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "This will help us order the right amount of food.",
+      "ko": "그래야 알맞은 양의 음식을 주문할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "Buses will leave the main office promptly at nine in the morning.",
+      "ko": "버스는 오전 9시 정각에 본사에서 출발합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "We hope to see you there!",
+      "ko": "그곳에서 뵙기를 바랍니다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "The Riverside Printing Events Team",
+      "ko": "Riverside Printing 행사팀",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "annual",
+      "pos": "adjective",
+      "meaningKo": "연례의, 해마다 하는",
+      "ipa": "/ˈænjuəl/",
+      "synonyms": [
+        "yearly"
+      ],
+      "matchText": "annual",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The annual sales meeting is in March.",
+        "ko": "연례 영업 회의는 3월에 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "take place",
+      "pos": "verb",
+      "meaningKo": "(행사가) 열리다, 일어나다",
+      "ipa": "/ˈteɪk ˈpleɪs/",
+      "synonyms": [
+        "be held",
+        "happen"
+      ],
+      "matchText": "take place",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The concert will take place in the main hall.",
+        "ko": "콘서트는 대강당에서 열린다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "plenty of",
+      "pos": "phrase",
+      "meaningKo": "많은, 넉넉한",
+      "ipa": "/ˈplɛnti ʌv/",
+      "synonyms": [
+        "a lot of",
+        "lots of"
+      ],
+      "matchText": "plenty of",
+      "sentenceId": "s4",
+      "example": {
+        "en": "We have plenty of time before the meeting.",
+        "ko": "회의 전까지 시간이 넉넉하다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "sign-up sheet",
+      "pos": "noun",
+      "meaningKo": "신청서, 참가 명단",
+      "ipa": "/ˈsaɪnˌʌp ʃit/",
+      "synonyms": [
+        "registration form",
+        "sign-up form"
+      ],
+      "matchText": "sign-up sheet",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Write your name on the sign-up sheet.",
+        "ko": "신청서에 이름을 적으세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "promptly",
+      "pos": "adverb",
+      "meaningKo": "정각에, 즉시",
+      "ipa": "/ˈprɑmptli/",
+      "synonyms": [
+        "punctually",
+        "exactly"
+      ],
+      "matchText": "promptly",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The meeting will start promptly at ten.",
+        "ko": "회의는 10시 정각에 시작한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "ko": "우리는"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "happy",
+          "role": "C",
+          "ko": "기쁜"
+        },
+        {
+          "text": "to announce",
+          "role": "M",
+          "ko": "알리게 되어"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "our annual company picnic",
+          "role": "S",
+          "ko": "연례 회사 야유회가",
+          "sub": true
+        },
+        {
+          "text": "will take place",
+          "role": "V",
+          "ko": "열릴 것이다",
+          "sub": true
+        },
+        {
+          "text": "on Saturday, June 12.",
+          "role": "M",
+          "ko": "6월 12일 토요일에",
+          "sub": true
+        }
+      ],
+      "skeleton": "We are happy to announce that our picnic will take place.",
+      "explanation": "be happy to V = ~하게 되어 기쁘다. announce의 목적어로 that절이 왔다. take place는 '열리다'라는 한 덩어리."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Buses",
+          "role": "S",
+          "ko": "버스는"
+        },
+        {
+          "text": "will leave",
+          "role": "V",
+          "ko": "출발할 것이다"
+        },
+        {
+          "text": "the main office",
+          "role": "O",
+          "ko": "본사를"
+        },
+        {
+          "text": "promptly",
+          "role": "M",
+          "ko": "정각에"
+        },
+        {
+          "text": "at nine in the morning.",
+          "role": "M",
+          "ko": "오전 9시에"
+        }
+      ],
+      "skeleton": "Buses will leave the main office.",
+      "explanation": "leave + 장소 = ~를 떠나다(출발하다). 전치사 없이 장소가 바로 목적어로 온다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래 수동태 will be + p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "will be held"
+      ],
+      "explanation": "행사(the event)는 스스로 여는 것이 아니라 '열리는' 것이므로 수동태. 미래라서 will be held.",
+      "example": {
+        "en": "The meeting will be held on Monday.",
+        "ko": "회의는 월요일에 열린다."
+      },
+      "note": "event·meeting 주어 + 빈칸 → be held"
+    },
+    {
+      "id": "g2",
+      "title": "소유격 대명사 their",
+      "tags": [
+        "대명사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "their family members"
+      ],
+      "explanation": "명사 앞에는 소유격(my, your, his, her, its, our, their). 앞의 Employees가 복수라 their.",
+      "example": {
+        "en": "The students forgot their books.",
+        "ko": "학생들은 책을 깜빡했다."
+      },
+      "note": "명사 앞 대명사 빈칸 → 소유격, 가리키는 말의 수 확인"
+    },
+    {
+      "id": "g3",
+      "title": "목적을 나타내는 to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "To help us plan"
+      ],
+      "explanation": "문장 맨 앞의 To + 동사원형은 '~하기 위해'라는 목적을 나타낸다.",
+      "example": {
+        "en": "To save time, we took a taxi.",
+        "ko": "시간을 아끼려고 택시를 탔다."
+      },
+      "note": "To V ~, 명령문/주절 → 목적의 to부정사"
+    }
+  ],
+  "glossary": {
+    "riverside": {
+      "lemma": "Riverside",
+      "pos": "proper-noun",
+      "ko": "리버사이드 (회사 이름 Riverside Printing의 일부)",
+      "form": null,
+      "ipa": "/ˈrɪvərˌsaɪd/"
+    },
+    "printing": {
+      "lemma": "Printing",
+      "pos": "proper-noun",
+      "ko": "프린팅 (회사 이름 Riverside Printing의 일부, '인쇄')",
+      "form": null,
+      "ipa": "/ˈprɪntɪŋ/"
+    },
+    "annual": {
+      "lemma": "annual",
+      "pos": "adjective",
+      "ko": "연례의, 해마다 하는",
+      "form": null,
+      "synonyms": [
+        "yearly"
+      ],
+      "ipa": "/ˈænjuəl/"
+    },
+    "picnic": {
+      "lemma": "picnic",
+      "pos": "noun",
+      "ko": "야유회",
+      "form": null,
+      "synonyms": [
+        "outing",
+        "outdoor party"
+      ],
+      "ipa": "/ˈpɪkˌnɪk/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (수동태) ~되다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "happy": {
+      "lemma": "happy",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "form": null,
+      "synonyms": [
+        "glad",
+        "pleased"
+      ],
+      "ipa": "/ˈhæpi/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; to부정사 표시",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "announce": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "알리다, 발표하다",
+      "form": null,
+      "synonyms": [
+        "declare",
+        "inform"
+      ],
+      "ipa": "/əˈnaʊns/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "company": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사",
+      "form": null,
+      "synonyms": [
+        "firm",
+        "business"
+      ],
+      "ipa": "/ˈkʌmpəˌniː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 열리다",
+      "form": null,
+      "synonyms": [
+        "occur"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place) 개최, 일어남",
+      "form": null,
+      "synonyms": [
+        "occurrence"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "saturday": {
+      "lemma": "Saturday",
+      "pos": "proper-noun",
+      "ko": "토요일",
+      "form": null,
+      "ipa": "/ˈsætərdi/"
+    },
+    "june": {
+      "lemma": "June",
+      "pos": "proper-noun",
+      "ko": "6월",
+      "form": null,
+      "ipa": "/dʒuːn/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 연도",
+      "form": null,
+      "synonyms": [
+        "twelve months"
+      ],
+      "ipa": "/jɪr/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "event": {
+      "lemma": "event",
+      "pos": "noun",
+      "ko": "행사",
+      "form": null,
+      "synonyms": [
+        "occasion",
+        "function"
+      ],
+      "ipa": "/ɪˈvɛnt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다; (수동태) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(행사를) 열다, 개최하다",
+      "form": "과거분사",
+      "synonyms": [
+        "host",
+        "organize"
+      ],
+      "ipa": "/hɛld/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에(서) (장소·시각)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "cedar": {
+      "lemma": "Cedar",
+      "pos": "proper-noun",
+      "ko": "시더 (공원 이름 Cedar Lake Park의 일부, '삼나무')",
+      "form": null,
+      "ipa": "/ˈsiːdər/"
+    },
+    "lake": {
+      "lemma": "Lake",
+      "pos": "proper-noun",
+      "ko": "레이크 (공원 이름 Cedar Lake Park의 일부, '호수')",
+      "form": null,
+      "ipa": "/leɪk/"
+    },
+    "park": {
+      "lemma": "Park",
+      "pos": "proper-noun",
+      "ko": "파크 (공원 이름 Cedar Lake Park의 일부, '공원')",
+      "form": null,
+      "ipa": "/pɑːrk/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there will be) ~이 있다; 거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "games": {
+      "lemma": "game",
+      "pos": "noun",
+      "ko": "게임, 놀이",
+      "form": "복수형",
+      "synonyms": [
+        "activity",
+        "contest"
+      ],
+      "ipa": "/ɡeɪmz/"
+    },
+    "music": {
+      "lemma": "music",
+      "pos": "noun",
+      "ko": "음악",
+      "form": null,
+      "synonyms": [
+        "tunes",
+        "songs"
+      ],
+      "ipa": "/ˈmjuːzɪk/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "plenty": {
+      "lemma": "plenty",
+      "pos": "noun",
+      "ko": "(plenty of) 많음, 넉넉함",
+      "form": null,
+      "synonyms": [
+        "abundance",
+        "lots"
+      ],
+      "ipa": "/ˈplɛnti/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "food": {
+      "lemma": "food",
+      "pos": "noun",
+      "ko": "음식",
+      "form": null,
+      "synonyms": [
+        "meals",
+        "refreshments"
+      ],
+      "ipa": "/fuːd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한, ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "everyone": {
+      "lemma": "everyone",
+      "pos": "pronoun",
+      "ko": "모든 사람",
+      "form": null,
+      "ipa": "/ˈɛvriˌwʌn/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "welcome": {
+      "lemma": "welcome",
+      "pos": "adjective",
+      "ko": "(be welcome to V) 마음껏 ~해도 좋은",
+      "form": null,
+      "synonyms": [
+        "free",
+        "invited"
+      ],
+      "ipa": "/ˈwɛlkəm/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "데려오다, 가져오다",
+      "form": null,
+      "synonyms": [
+        "take along",
+        "come with"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "family": {
+      "lemma": "family",
+      "pos": "noun",
+      "ko": "가족",
+      "form": null,
+      "synonyms": [
+        "relatives",
+        "household"
+      ],
+      "ipa": "/ˈfæməli/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "구성원, 일원",
+      "form": "복수형",
+      "synonyms": [
+        "person",
+        "relative"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "aid"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를, 우리에게",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "plan": {
+      "lemma": "plan",
+      "pos": "verb",
+      "ko": "계획하다, 준비하다",
+      "form": null,
+      "synonyms": [
+        "prepare",
+        "organize"
+      ],
+      "ipa": "/plæn/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "(양식을) 작성하다",
+      "form": null,
+      "synonyms": [
+        "fill out",
+        "fill in"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "sign-up": {
+      "lemma": "sign-up",
+      "pos": "adjective",
+      "ko": "신청(용)의, 등록의",
+      "form": null,
+      "synonyms": [
+        "registration",
+        "enrollment"
+      ],
+      "ipa": "/saɪn-ʌp/"
+    },
+    "sheet": {
+      "lemma": "sheet",
+      "pos": "noun",
+      "ko": "(종이) 서식, 한 장",
+      "form": null,
+      "synonyms": [
+        "form",
+        "list"
+      ],
+      "ipa": "/ʃiːt/"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "adjective",
+      "ko": "앞쪽의 (front desk: 안내 데스크)",
+      "form": null,
+      "synonyms": [
+        "main",
+        "entrance"
+      ],
+      "ipa": "/frʌnt/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 창구",
+      "form": null,
+      "synonyms": [
+        "counter",
+        "station"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "(be sure to V) 꼭 ~하다",
+      "form": null,
+      "synonyms": [
+        "certain"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "write": {
+      "lemma": "write",
+      "pos": "verb",
+      "ko": "(write down) 적다",
+      "form": null,
+      "synonyms": [
+        "record",
+        "note"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "(write down) 적어 두는 (기록의 뜻을 더함)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "수, 숫자",
+      "form": null,
+      "synonyms": [
+        "count",
+        "total"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "guests": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "손님",
+      "form": "복수형",
+      "synonyms": [
+        "visitor",
+        "invitee"
+      ],
+      "ipa": "/ɡɛsts/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "verb",
+      "ko": "주문하다",
+      "form": null,
+      "synonyms": [
+        "request",
+        "buy"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adjective",
+      "ko": "알맞은, 적당한",
+      "form": null,
+      "synonyms": [
+        "correct",
+        "proper"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "amount": {
+      "lemma": "amount",
+      "pos": "noun",
+      "ko": "양",
+      "form": null,
+      "synonyms": [
+        "quantity",
+        "volume"
+      ],
+      "ipa": "/əˈmaʊnt/"
+    },
+    "buses": {
+      "lemma": "bus",
+      "pos": "noun",
+      "ko": "버스",
+      "form": "복수형",
+      "synonyms": [
+        "coach",
+        "shuttle"
+      ],
+      "ipa": "/ˈbʌsɪz/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "떠나다, 출발하다",
+      "form": null,
+      "synonyms": [
+        "depart",
+        "set off"
+      ],
+      "ipa": "/liːv/"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "주된, 본(本)~ (main office: 본사)",
+      "form": null,
+      "synonyms": [
+        "central",
+        "head"
+      ],
+      "ipa": "/meɪn/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 사옥",
+      "form": null,
+      "synonyms": [
+        "headquarters",
+        "workplace"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "promptly": {
+      "lemma": "promptly",
+      "pos": "adverb",
+      "ko": "정각에, 즉시",
+      "form": null,
+      "synonyms": [
+        "punctually",
+        "exactly"
+      ],
+      "ipa": "/ˈprɑːmptli/"
+    },
+    "nine": {
+      "lemma": "nine",
+      "pos": "number",
+      "ko": "9, 아홉 (9시)",
+      "form": null,
+      "ipa": "/naɪn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "synonyms": [
+        "a.m. hours"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "hope": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "바라다",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "expect"
+      ],
+      "ipa": "/hoʊp/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 만나다",
+      "form": null,
+      "synonyms": [
+        "meet"
+      ],
+      "ipa": "/siː/"
+    },
+    "events": {
+      "lemma": "Events",
+      "pos": "proper-noun",
+      "ko": "이벤츠 (팀 이름 Events Team의 일부, '행사')",
+      "form": null,
+      "ipa": "/ɪˈvɛnts/"
+    },
+    "team": {
+      "lemma": "Team",
+      "pos": "proper-noun",
+      "ko": "팀 (팀 이름 Events Team의 일부)",
+      "form": null,
+      "ipa": "/tiːm/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "held"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "hold"
+        },
+        {
+          "key": "B",
+          "text": "holding"
+        },
+        {
+          "key": "C",
+          "text": "held"
+        },
+        {
+          "key": "D",
+          "text": "holds"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "will be 뒤에는 과거분사가 와서 수동태가 된다. 행사는 '열리는' 것이므로 will be held.",
+      "choiceNotesKo": {
+        "B": "will be holding은 '(누군가가) 열고 있을 것이다'라는 능동 진행이라 주어 the event와 맞지 않는다."
+      },
+      "skill": "수동태(will be + p.p.)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "their"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "their"
+        },
+        {
+          "key": "B",
+          "text": "they"
+        },
+        {
+          "key": "C",
+          "text": "them"
+        },
+        {
+          "key": "D",
+          "text": "theirs"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "명사 family members 앞은 소유격 자리. 주어 Employees(복수)를 가리키므로 their.",
+      "choiceNotesKo": {
+        "C": "them은 목적격이라 명사 앞에 올 수 없다.",
+        "D": "theirs는 '그들의 것'이라 뒤에 명사가 오지 않는다."
+      },
+      "skill": "대명사(소유격)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "complete"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "attend"
+        },
+        {
+          "key": "B",
+          "text": "spend"
+        },
+        {
+          "key": "C",
+          "text": "arrive"
+        },
+        {
+          "key": "D",
+          "text": "complete"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "신청서(sign-up sheet)를 '작성하다'는 complete. complete a form/sheet는 자주 나오는 표현.",
+      "choiceNotesKo": {
+        "A": "attend는 행사·회의에 참석하는 것이라 서류와 쓰지 않는다.",
+        "C": "arrive는 목적어를 바로 받지 않는다."
+      },
+      "skill": "동사 어휘(complete a sheet)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "Be sure to write down the number of guests you will bring."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Lunch was served in the cafeteria last Friday."
+        },
+        {
+          "key": "B",
+          "text": "Be sure to write down the number of guests you will bring."
+        },
+        {
+          "key": "C",
+          "text": "The park is closed during the winter."
+        },
+        {
+          "key": "D",
+          "text": "Our printing machines will be repaired next week."
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "다음 문장 'This will help us order the right amount of food(그래야 음식 양을 맞춰 주문할 수 있다)'의 This가 가리킬 내용이 필요하다. 손님 수를 적어 달라는 문장이 딱 맞다.",
+      "choiceNotesKo": {
+        "C": "야유회는 6월이라 겨울 휴장 이야기는 흐름에서 벗어난다.",
+        "D": "인쇄기 수리는 야유회 안내와 관계없다."
+      },
+      "skill": "문장 넣기(This가 가리키는 내용)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "promptly"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "promptly"
+        },
+        {
+          "key": "B",
+          "text": "prompt"
+        },
+        {
+          "key": "C",
+          "text": "promptness"
+        },
+        {
+          "key": "D",
+          "text": "prompted"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "이미 완성된 문장(Buses will leave the main office)에 덧붙어 시간을 꾸미는 말은 부사. promptly at nine = 9시 정각에.",
+      "choiceNotesKo": {
+        "B": "prompt는 형용사라 동사·시간 표현을 꾸미지 못한다.",
+        "C": "promptness는 명사라 빈칸에 들어가면 문장 구조가 깨진다."
+      },
+      "skill": "부사 자리(promptly + 시각)"
+    }
+  ]
+}
