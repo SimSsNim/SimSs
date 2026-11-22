@@ -1,0 +1,1568 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-23-L3-2",
+  "date": "2026-11-23",
+  "level": 3,
+  "title": "The Story of a Mother",
+  "titleKo": "어머니 이야기",
+  "genre": "fairy-tale",
+  "tags": [
+    "Andersen",
+    "fairy tale",
+    "fairy-tale"
+  ],
+  "source": {
+    "work": "The Story of a Mother (in Andersen's Fairy Tales)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1847,
+    "edition": "Project Gutenberg #1597",
+    "url": "https://www.gutenberg.org/ebooks/1597",
+    "license": "public-domain",
+    "excerptNote": "'The Story of a Mother'('어머니 이야기') 첫머리 1~4단락 (‘A mother sat there with her little child.’부터 ‘“Our Lord will not take him from me!”’까지, 205단어). 아픈 아이를 지키던 어머니의 집에 추위에 떠는 노인(사실은 죽음의 신)이 찾아와 요람을 흔드는 도입부 (노인의 정체가 드러나는 다섯째 단락부터는 뺌; 다섯째 단락까지 넣으면 272단어라 레벨 범위를 넘음). 제목 줄은 지문에 넣지 않음. PG #1597 영어 번역 (Gutenberg에 번역자 표기 없음). gutenberg.org 점검 중이라 archive.org에 보관된 같은 전자책(PG #1597, hcaft10.txt)에서 가져왔고, 줄바꿈만 공백 하나로 이음 (곧은 따옴표 \", 'out-of-doors', 'horse-cloth' 등은 원문 그대로)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_12_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_12_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/andersens-fairy-tales-by-hc-andersen/",
+    "reader": "Dilini Jayasinghe",
+    "durationSec": 806,
+    "startSec": 20,
+    "endSec": 100,
+    "note": "LibriVox 'Andersen's Fairy Tales'(PG #1597 낭독) 12번 트랙 'The Story of a Mother'(전체 13:25) 중 첫머리. LibriVox 안내·제목 낭독 뒤 약 0:20~1:40 (단어 수로 어림한 위치)."
+  },
+  "wordCount": 205,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "한 어머니가 어린 아이와 함께 앉아 있었다. 어머니는 너무나 풀이 죽어 있었고, 아이가 죽을까 봐 너무나 두려웠다! 아이는 몹시 창백했고, 작은 눈은 감겨 있었으며, 이따금 마치 한숨을 쉬듯 깊은 숨을 쉬면서 아주 약하게 숨을 쉬었다. 그러자 어머니는 그 어린것을 한층 더 슬픈 눈으로 바라보았다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4",
+        "s5"
+      ],
+      "ko": "그때 문을 두드리는 소리가 들리더니, 커다란 말 담요 같은 것을 몸에 두른 가난한 노인이 들어왔다. 그것은 몸을 따뜻하게 해 주었고, 추운 겨울철이었으니 노인에게는 그것이 꼭 필요했다! 바깥은 온통 얼음과 눈으로 덮여 있었고, 바람이 얼굴을 벨 듯이 매섭게 불었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "노인이 추위에 떨고 아이가 잠시 잠든 사이, 어머니는 가서 냄비에 에일(맥주)을 조금 부어 노인이 따뜻하게 마실 수 있도록 난로 위에 올려놓았다. 노인은 앉아서 요람을 흔들었고, 어머니는 그 바로 곁 의자에 앉아, 숨을 아주 깊이 몰아쉬며 작은 손을 들어 올리는 아픈 아이를 바라보았다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "\"제가 이 아이를 살릴 수 있을 거라고 생각하지 않으세요?\" 어머니가 말했다. \"하느님께서 이 아이를 제게서 데려가지 않으실 거예요!\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A mother sat there with her little child.",
+      "ko": "한 어머니가 어린 아이와 함께 앉아 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "She was so downcast, so afraid that it should die!",
+      "ko": "어머니는 너무나 풀이 죽어 있었고, 아이가 죽을까 봐 너무나 두려웠다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "It was so pale, the small eyes had closed themselves, and it drew its breath so softly, now and then, with a deep respiration, as if it sighed; and the mother looked still more sorrowfully on the little creature.",
+      "ko": "아이는 몹시 창백했고, 작은 눈은 감겨 있었으며, 이따금 마치 한숨을 쉬듯 깊은 숨을 쉬면서 아주 약하게 숨을 쉬었다. 그러자 어머니는 그 어린것을 한층 더 슬픈 눈으로 바라보았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Then a knocking was heard at the door, and in came a poor old man wrapped up as in a large horse-cloth, for it warms one, and he needed it, as it was the cold winter season!",
+      "ko": "그때 문을 두드리는 소리가 들리더니, 커다란 말 담요 같은 것을 몸에 두른 가난한 노인이 들어왔다. 그것은 몸을 따뜻하게 해 주었고, 추운 겨울철이었으니 노인에게는 그것이 꼭 필요했다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Everything out-of-doors was covered with ice and snow, and the wind blew so that it cut the face.",
+      "ko": "바깥은 온통 얼음과 눈으로 덮여 있었고, 바람이 얼굴을 벨 듯이 매섭게 불었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "As the old man trembled with cold, and the little child slept a moment, the mother went and poured some ale into a pot and set it on the stove, that it might be warm for him; the old man sat and rocked the cradle, and the mother sat down on a chair close by him, and looked at her little sick child that drew its breath so deep, and raised its little hand.",
+      "ko": "노인이 추위에 떨고 아이가 잠시 잠든 사이, 어머니는 가서 냄비에 에일(맥주)을 조금 부어 노인이 따뜻하게 마실 수 있도록 난로 위에 올려놓았다. 노인은 앉아서 요람을 흔들었고, 어머니는 그 바로 곁 의자에 앉아, 숨을 아주 깊이 몰아쉬며 작은 손을 들어 올리는 아픈 아이를 바라보았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "\"Do you not think that I shall save him?\" said she.",
+      "ko": "\"제가 이 아이를 살릴 수 있을 거라고 생각하지 않으세요?\" 어머니가 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "\"Our Lord will not take him from me!\"",
+      "ko": "\"하느님께서 이 아이를 제게서 데려가지 않으실 거예요!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "downcast",
+      "pos": "adjective",
+      "meaningKo": "풀이 죽은, 낙담한",
+      "ipa": "/ˈdaʊnˌkæst/",
+      "synonyms": [
+        "dejected",
+        "depressed",
+        "gloomy"
+      ],
+      "matchText": "downcast",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He looked downcast after losing the game.",
+        "ko": "그는 경기에 지고 나서 풀이 죽어 보였다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "respiration",
+      "pos": "noun",
+      "meaningKo": "호흡, 숨쉬기",
+      "ipa": "/ˌrɛspəˈreɪʃən/",
+      "synonyms": [
+        "breathing",
+        "breath"
+      ],
+      "matchText": "respiration",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The doctor checked the patient's pulse and respiration.",
+        "ko": "의사는 환자의 맥박과 호흡을 확인했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "now and then",
+      "pos": "phrase",
+      "meaningKo": "때때로, 이따금",
+      "ipa": "/ˈnaʊ ən ˈðɛn/",
+      "synonyms": [
+        "occasionally",
+        "from time to time",
+        "sometimes"
+      ],
+      "matchText": "now and then",
+      "sentenceId": "s3",
+      "example": {
+        "en": "We still meet for coffee now and then.",
+        "ko": "우리는 지금도 이따금 만나서 커피를 마신다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "tremble",
+      "pos": "verb",
+      "meaningKo": "(추위·두려움으로) 떨다",
+      "ipa": "/ˈtrɛmbəl/",
+      "synonyms": [
+        "shiver",
+        "shake",
+        "quiver"
+      ],
+      "matchText": "trembled",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Her hands trembled as she opened the letter.",
+        "ko": "편지를 열 때 그녀의 손이 떨렸다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "cradle",
+      "pos": "noun",
+      "meaningKo": "요람",
+      "ipa": "/ˈkreɪdəl/",
+      "synonyms": [
+        "crib",
+        "bassinet"
+      ],
+      "matchText": "cradle",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The baby was sleeping peacefully in the cradle.",
+        "ko": "아기는 요람에서 평화롭게 자고 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "She",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "so downcast, so afraid",
+          "role": "C",
+          "sub": false,
+          "ko": "너무나 풀이 죽고, 너무나 두려워하는"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할까 봐"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "아이가"
+        },
+        {
+          "text": "should die!",
+          "role": "V",
+          "sub": true,
+          "ko": "죽을까"
+        }
+      ],
+      "skeleton": "She was so downcast, so afraid",
+      "explanation": "주어 She + be동사 was + 보어(형용사) 구조다. 보어 자리에 so downcast와 so afraid 두 형용사가 쉼표로 나란히 놓였다. 뒤의 that절은 '너무 ~해서 …하다'의 결과가 아니라, afraid에 이어지는 내용(무엇이 두려운지)이다. afraid that ~ should는 '~할까 봐 두려운'이라는 뜻이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Then",
+          "role": "M",
+          "sub": false,
+          "ko": "그때"
+        },
+        {
+          "text": "a knocking",
+          "role": "S",
+          "sub": false,
+          "ko": "문 두드리는 소리가"
+        },
+        {
+          "text": "was heard",
+          "role": "V",
+          "sub": false,
+          "ko": "들렸다"
+        },
+        {
+          "text": "at the door,",
+          "role": "M",
+          "sub": false,
+          "ko": "문에서"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "in",
+          "role": "M",
+          "sub": false,
+          "ko": "안으로"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "들어왔다"
+        },
+        {
+          "text": "a poor old man",
+          "role": "S",
+          "sub": false,
+          "ko": "가난한 노인이"
+        },
+        {
+          "text": "wrapped up as in a large horse-cloth,",
+          "role": "M",
+          "sub": false,
+          "ko": "커다란 말 담요 같은 것을 두른"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "그것이"
+        },
+        {
+          "text": "warms",
+          "role": "V",
+          "sub": false,
+          "ko": "따뜻하게 하다"
+        },
+        {
+          "text": "one,",
+          "role": "O",
+          "sub": false,
+          "ko": "사람을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "needed",
+          "role": "V",
+          "sub": false,
+          "ko": "필요했다"
+        },
+        {
+          "text": "it,",
+          "role": "O",
+          "sub": false,
+          "ko": "그것이"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~이니까"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "(때가)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "the cold winter season!",
+          "role": "C",
+          "sub": true,
+          "ko": "추운 겨울철"
+        }
+      ],
+      "skeleton": "a knocking was heard, and in came a poor old man",
+      "explanation": "앞부분은 수동태(was heard: 들렸다)이고, and 뒤는 부사 in이 앞으로 나오면서 동사 came과 주어 a poor old man의 순서가 바뀐 도치 문장이다. wrapped up ~은 노인을 꾸미는 과거분사구(~을 두른)다. for는 '왜냐하면'이라는 접속사로 이유를 덧붙이고, as 절은 다시 그 이유(추운 겨울철이었으니)를 설명한다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Everything out-of-doors",
+          "role": "S",
+          "sub": false,
+          "ko": "바깥의 모든 것이"
+        },
+        {
+          "text": "was covered",
+          "role": "V",
+          "sub": false,
+          "ko": "덮여 있었다"
+        },
+        {
+          "text": "with ice and snow,",
+          "role": "M",
+          "sub": false,
+          "ko": "얼음과 눈으로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the wind",
+          "role": "S",
+          "sub": false,
+          "ko": "바람이"
+        },
+        {
+          "text": "blew",
+          "role": "V",
+          "sub": false,
+          "ko": "불었다"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 정도로"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "그것(바람)이"
+        },
+        {
+          "text": "cut",
+          "role": "V",
+          "sub": true,
+          "ko": "베었다"
+        },
+        {
+          "text": "the face.",
+          "role": "O",
+          "sub": true,
+          "ko": "얼굴을"
+        }
+      ],
+      "skeleton": "Everything was covered, and the wind blew",
+      "explanation": "두 문장이 and로 이어졌다. 앞 문장은 be covered with(~으로 덮여 있다) 수동태이고, out-of-doors(바깥의)가 뒤에서 Everything을 꾸민다. 뒤 문장의 so that은 '그래서/~할 정도로'라는 결과를 나타내어, 바람이 얼굴을 벨 듯이 세게 불었다는 뜻이 된다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "부사 + 동사 + 주어: 장소·방향 부사 도치",
+      "tags": [
+        "도치",
+        "어순"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "in came a poor old man"
+      ],
+      "explanation": "보통 어순은 a poor old man came in(가난한 노인이 들어왔다)이다. 방향을 나타내는 부사 in을 문장 맨 앞에 두면 '동사 + 주어' 순서로 바뀐다. 이야기에서 누군가 갑자기 등장하는 장면을 생생하게 보여 줄 때 자주 쓴다. 단, 주어가 대명사이면 도치하지 않는다(In he came).",
+      "example": {
+        "en": "The door opened, and in ran a little dog.",
+        "ko": "문이 열리더니 작은 강아지 한 마리가 뛰어 들어왔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as if + 과거: 마치 ~인 것처럼",
+      "tags": [
+        "가정법",
+        "접속사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "as if it sighed"
+      ],
+      "explanation": "as if 뒤에 과거형을 쓰면 '마치 ~하는 것처럼'이라는 뜻으로, 실제와 같거나 비슷한 모습을 비유한다. 아이가 실제로 한숨을 쉰 것이 아니라 깊은 숨을 쉬는 모습이 한숨처럼 보였다는 말이다.",
+      "example": {
+        "en": "He talks as if he knew everything.",
+        "ko": "그는 마치 모든 것을 아는 것처럼 말한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "that + 주어 + might: ~하도록 (목적)",
+      "tags": [
+        "조동사",
+        "부사절"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "that it might be warm for him"
+      ],
+      "explanation": "that 절 안에 may/might를 쓰면 '~하도록, ~할 수 있게'라는 목적을 나타낸다. 오늘날에는 보통 so that을 쓴다. 어머니가 에일을 난로에 올린 목적이 '노인을 위해 따뜻해지도록'이라는 뜻이다.",
+      "example": {
+        "en": "She spoke slowly so that the children might understand.",
+        "ko": "그녀는 아이들이 이해할 수 있도록 천천히 말했다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니",
+      "form": null,
+      "synonyms": [
+        "mom",
+        "parent"
+      ],
+      "ipa": "/ˈmʌðər/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다, 앉아 있다",
+      "form": "과거형",
+      "synonyms": [
+        "be seated",
+        "perch"
+      ],
+      "ipa": "/sæt/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "그곳에 (sat there: 그렇게 앉아 있었다)",
+      "form": null,
+      "synonyms": [
+        "in that place"
+      ],
+      "ipa": "/ðɛr/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께; ~을 가지고, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀의",
+      "form": "소유격",
+      "ipa": "/hɜːr/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "어린, 작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "young",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "child": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이",
+      "form": null,
+      "synonyms": [
+        "kid",
+        "baby"
+      ],
+      "ipa": "/tʃaɪld/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀는 (어머니)",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~한 상태였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무나, 아주; (so that) ~할 만큼",
+      "form": null,
+      "synonyms": [
+        "very",
+        "extremely"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "downcast": {
+      "lemma": "downcast",
+      "pos": "adjective",
+      "ko": "풀이 죽은, 낙담한",
+      "form": null,
+      "synonyms": [
+        "dejected",
+        "depressed",
+        "gloomy"
+      ],
+      "ipa": "/ˈdaʊnˌkæst/"
+    },
+    "afraid": {
+      "lemma": "afraid",
+      "pos": "adjective",
+      "ko": "두려워하는, 걱정하는",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "fearful",
+        "worried"
+      ],
+      "ipa": "/əˈfreɪd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것, ~하도록 (접속사); ~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (여기서는 주로 아이를 가리킴)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~할까 (봐) (걱정·두려움을 나타냄)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "die": {
+      "lemma": "die",
+      "pos": "verb",
+      "ko": "죽다",
+      "form": null,
+      "synonyms": [
+        "pass away",
+        "perish"
+      ],
+      "ipa": "/daɪ/"
+    },
+    "pale": {
+      "lemma": "pale",
+      "pos": "adjective",
+      "ko": "창백한",
+      "form": null,
+      "synonyms": [
+        "pallid",
+        "white",
+        "wan"
+      ],
+      "ipa": "/peɪl/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "tiny"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "eyes": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈",
+      "form": "복수형",
+      "ipa": "/aɪz/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) 이미 ~했었다 (과거완료)",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "closed": {
+      "lemma": "close",
+      "pos": "verb",
+      "ko": "감다, 닫다",
+      "form": "과거분사",
+      "synonyms": [
+        "shut"
+      ],
+      "ipa": "/kloʊzd/"
+    },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pronoun",
+      "ko": "그것들 스스로, 저절로 (재귀대명사)",
+      "form": null,
+      "ipa": "/ðɛmˈsɛlvz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "drew": {
+      "lemma": "draw",
+      "pos": "verb",
+      "ko": "(숨을) 쉬다, 들이쉬다",
+      "form": "과거형",
+      "synonyms": [
+        "take",
+        "inhale"
+      ],
+      "ipa": "/druː/"
+    },
+    "its": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것의 (아이의)",
+      "form": "소유격",
+      "ipa": "/ɪts/"
+    },
+    "breath": {
+      "lemma": "breath",
+      "pos": "noun",
+      "ko": "숨, 호흡",
+      "form": null,
+      "synonyms": [
+        "breathing",
+        "respiration"
+      ],
+      "ipa": "/brɛθ/"
+    },
+    "softly": {
+      "lemma": "softly",
+      "pos": "adverb",
+      "ko": "약하게, 조용히",
+      "form": null,
+      "synonyms": [
+        "gently",
+        "quietly",
+        "faintly"
+      ],
+      "ipa": "/ˈsɔːftli/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "(now and then) 때때로; 지금",
+      "form": null,
+      "synonyms": [
+        "at times"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그러자; (now and then) 이따금",
+      "form": null,
+      "synonyms": [
+        "next",
+        "at that time"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adjective",
+      "ko": "깊은; (부사로) 깊이",
+      "form": null,
+      "synonyms": [
+        "heavy",
+        "profound"
+      ],
+      "ipa": "/diːp/"
+    },
+    "respiration": {
+      "lemma": "respiration",
+      "pos": "noun",
+      "ko": "호흡, 숨쉬기",
+      "form": null,
+      "synonyms": [
+        "breathing",
+        "breath"
+      ],
+      "ipa": "/ˌrɛspəˈreɪʃən/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하는 동안; ~ 때문에; (as if) 마치 ~처럼; (as in) ~ 같은 것으로",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~인 것처럼",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "sighed": {
+      "lemma": "sigh",
+      "pos": "verb",
+      "ko": "한숨을 쉬다",
+      "form": "과거형",
+      "synonyms": [
+        "breathe out",
+        "moan"
+      ],
+      "ipa": "/saɪd/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다, 바라보다",
+      "form": "과거형",
+      "synonyms": [
+        "gazed",
+        "glanced"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "(비교급 앞) 한층 더, 훨씬",
+      "form": null,
+      "synonyms": [
+        "even",
+        "yet"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (more sorrowfully: 더 슬프게)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "sorrowfully": {
+      "lemma": "sorrowfully",
+      "pos": "adverb",
+      "ko": "슬프게, 비통하게",
+      "form": null,
+      "synonyms": [
+        "sadly",
+        "mournfully",
+        "sorrowingly"
+      ],
+      "ipa": "/ˈsɑroʊfəli/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~을 (look on: ~을 바라보다); ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "creature": {
+      "lemma": "creature",
+      "pos": "noun",
+      "ko": "(가엾은) 존재, 어린것, 생명체",
+      "form": null,
+      "synonyms": [
+        "being",
+        "thing"
+      ],
+      "ipa": "/ˈkriːtʃər/"
+    },
+    "knocking": {
+      "lemma": "knocking",
+      "pos": "noun",
+      "ko": "문 두드리는 소리, 노크",
+      "form": null,
+      "synonyms": [
+        "knock",
+        "rapping"
+      ],
+      "ipa": "/ˈnɑːkɪŋ/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다 (was heard: 들렸다)",
+      "form": "과거분사",
+      "synonyms": [
+        "catch",
+        "detect"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "door": {
+      "lemma": "door",
+      "pos": "noun",
+      "ko": "문",
+      "form": null,
+      "synonyms": [
+        "entrance",
+        "doorway"
+      ],
+      "ipa": "/dɔːr/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "adverb",
+      "ko": "안으로 (in came ~: ~가 들어왔다); (전치사) ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (in came: 들어왔다)",
+      "form": "과거형",
+      "synonyms": [
+        "arrived",
+        "entered"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한, 불쌍한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "penniless"
+      ],
+      "ipa": "/puːr/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 오래된",
+      "form": null,
+      "synonyms": [
+        "elderly",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow",
+        "gentleman"
+      ],
+      "ipa": "/mæn/"
+    },
+    "wrapped": {
+      "lemma": "wrap",
+      "pos": "verb",
+      "ko": "(wrapped up) 감싼, 둘러싼",
+      "form": "과거분사",
+      "synonyms": [
+        "covered",
+        "bundled"
+      ],
+      "ipa": "/ræpt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(wrap up) 단단히, 완전히",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "커다란",
+      "form": null,
+      "synonyms": [
+        "big",
+        "huge"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "horse-cloth": {
+      "lemma": "horse-cloth",
+      "pos": "noun",
+      "ko": "말 담요 (말에 덮어 주는 천)",
+      "form": null,
+      "synonyms": [
+        "horse blanket",
+        "rug"
+      ],
+      "ipa": "/hɔːrs-klɔːθ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까 (접속사)",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "warms": {
+      "lemma": "warm",
+      "pos": "verb",
+      "ko": "따뜻하게 하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "heats"
+      ],
+      "ipa": "/wɔːrmz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "사람 (일반적인 사람을 가리킴)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는 (노인)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "needed": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다",
+      "form": "과거형",
+      "synonyms": [
+        "required",
+        "wanted"
+      ],
+      "ipa": "/ˈniːdəd/"
+    },
+    "cold": {
+      "lemma": "cold",
+      "pos": "adjective",
+      "ko": "추운, 차가운; (명사) 추위",
+      "form": null,
+      "synonyms": [
+        "chilly",
+        "freezing",
+        "icy"
+      ],
+      "ipa": "/koʊld/"
+    },
+    "winter": {
+      "lemma": "winter",
+      "pos": "noun",
+      "ko": "겨울",
+      "form": null,
+      "ipa": "/ˈwɪntər/"
+    },
+    "season": {
+      "lemma": "season",
+      "pos": "noun",
+      "ko": "철, 계절",
+      "form": null,
+      "synonyms": [
+        "time",
+        "period"
+      ],
+      "ipa": "/ˈsiːzən/"
+    },
+    "everything": {
+      "lemma": "everything",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ˈɛvriˌθɪŋ/"
+    },
+    "out-of-doors": {
+      "lemma": "out-of-doors",
+      "pos": "adverb",
+      "ko": "집 밖에, 바깥에",
+      "form": null,
+      "synonyms": [
+        "outdoors",
+        "outside",
+        "outdoor"
+      ],
+      "ipa": "/aʊt-ʌv-dɔːrz/"
+    },
+    "covered": {
+      "lemma": "cover",
+      "pos": "verb",
+      "ko": "덮다 (be covered with: ~으로 덮여 있다)",
+      "form": "과거분사",
+      "synonyms": [
+        "coated",
+        "blanketed"
+      ],
+      "ipa": "/ˈkʌvərd/"
+    },
+    "ice": {
+      "lemma": "ice",
+      "pos": "noun",
+      "ko": "얼음",
+      "form": null,
+      "synonyms": [
+        "frost"
+      ],
+      "ipa": "/aɪs/"
+    },
+    "snow": {
+      "lemma": "snow",
+      "pos": "noun",
+      "ko": "눈",
+      "form": null,
+      "synonyms": [
+        "snowfall"
+      ],
+      "ipa": "/snoʊ/"
+    },
+    "wind": {
+      "lemma": "wind",
+      "pos": "noun",
+      "ko": "바람",
+      "form": null,
+      "synonyms": [
+        "breeze",
+        "gale"
+      ],
+      "ipa": "/waɪnd/"
+    },
+    "blew": {
+      "lemma": "blow",
+      "pos": "verb",
+      "ko": "(바람이) 불다",
+      "form": "과거형",
+      "synonyms": [
+        "gusted",
+        "blasted"
+      ],
+      "ipa": "/bluː/"
+    },
+    "cut": {
+      "lemma": "cut",
+      "pos": "verb",
+      "ko": "베다, 에다 (얼굴을 베는 듯 차갑다)",
+      "form": "과거형",
+      "synonyms": [
+        "slashed",
+        "stung"
+      ],
+      "ipa": "/kʌt/"
+    },
+    "face": {
+      "lemma": "face",
+      "pos": "noun",
+      "ko": "얼굴",
+      "form": null,
+      "synonyms": [
+        "countenance"
+      ],
+      "ipa": "/feɪs/"
+    },
+    "trembled": {
+      "lemma": "tremble",
+      "pos": "verb",
+      "ko": "떨다",
+      "form": "과거형",
+      "synonyms": [
+        "shivered",
+        "shook",
+        "quivered"
+      ],
+      "ipa": "/ˈtrɛmbəld/"
+    },
+    "slept": {
+      "lemma": "sleep",
+      "pos": "verb",
+      "ko": "자다",
+      "form": "과거형",
+      "synonyms": [
+        "dozed",
+        "rested"
+      ],
+      "ipa": "/slɛpt/"
+    },
+    "moment": {
+      "lemma": "moment",
+      "pos": "noun",
+      "ko": "잠시, 순간",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "minute"
+      ],
+      "ipa": "/ˈmoʊmənt/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "synonyms": [
+        "moved",
+        "walked"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "poured": {
+      "lemma": "pour",
+      "pos": "verb",
+      "ko": "붓다, 따르다",
+      "form": "과거형",
+      "synonyms": [
+        "tipped",
+        "emptied"
+      ],
+      "ipa": "/pɔːrd/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의, 조금",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "ale": {
+      "lemma": "ale",
+      "pos": "noun",
+      "ko": "에일 (맥주의 한 종류)",
+      "form": null,
+      "synonyms": [
+        "beer"
+      ],
+      "ipa": "/eɪl/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "pot": {
+      "lemma": "pot",
+      "pos": "noun",
+      "ko": "냄비, 단지",
+      "form": null,
+      "synonyms": [
+        "pan",
+        "kettle"
+      ],
+      "ipa": "/pɑːt/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "놓다, 올려놓다",
+      "form": "과거형",
+      "synonyms": [
+        "placed",
+        "put"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "stove": {
+      "lemma": "stove",
+      "pos": "noun",
+      "ko": "난로, 화덕",
+      "form": null,
+      "synonyms": [
+        "oven",
+        "range",
+        "heater"
+      ],
+      "ipa": "/stoʊv/"
+    },
+    "might": {
+      "lemma": "might",
+      "pos": "auxiliary",
+      "ko": "(that ~ might) ~하도록, ~할 수 있게",
+      "form": null,
+      "ipa": "/maɪt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하게 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "warm": {
+      "lemma": "warm",
+      "pos": "adjective",
+      "ko": "따뜻한",
+      "form": null,
+      "synonyms": [
+        "heated",
+        "hot"
+      ],
+      "ipa": "/wɔːrm/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게 (노인 / 아이)",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "rocked": {
+      "lemma": "rock",
+      "pos": "verb",
+      "ko": "(요람을) 흔들다",
+      "form": "과거형",
+      "synonyms": [
+        "swayed",
+        "swung"
+      ],
+      "ipa": "/rɑːkt/"
+    },
+    "cradle": {
+      "lemma": "cradle",
+      "pos": "noun",
+      "ko": "요람",
+      "form": null,
+      "synonyms": [
+        "crib",
+        "bassinet"
+      ],
+      "ipa": "/ˈkreɪdəl/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로 (sit down: 앉다)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "chair": {
+      "lemma": "chair",
+      "pos": "noun",
+      "ko": "의자",
+      "form": null,
+      "synonyms": [
+        "seat"
+      ],
+      "ipa": "/tʃɛr/"
+    },
+    "close": {
+      "lemma": "close",
+      "pos": "adverb",
+      "ko": "가까이 (close by: 바로 곁에)",
+      "form": null,
+      "synonyms": [
+        "near",
+        "nearby"
+      ],
+      "ipa": "/kloʊs/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~ 곁에",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "sick": {
+      "lemma": "sick",
+      "pos": "adjective",
+      "ko": "아픈",
+      "form": null,
+      "synonyms": [
+        "ill",
+        "unwell",
+        "ailing"
+      ],
+      "ipa": "/sɪk/"
+    },
+    "raised": {
+      "lemma": "raise",
+      "pos": "verb",
+      "ko": "들어 올리다",
+      "form": "과거형",
+      "synonyms": [
+        "lifted",
+        "held up"
+      ],
+      "ipa": "/reɪzd/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": null,
+      "ipa": "/hænd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(의문문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신은",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": null,
+      "synonyms": [
+        "believe",
+        "suppose"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는, 제가",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "save": {
+      "lemma": "save",
+      "pos": "verb",
+      "ko": "살리다, 구하다",
+      "form": null,
+      "synonyms": [
+        "rescue",
+        "keep alive"
+      ],
+      "ipa": "/seɪv/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "replied"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "our": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "lord": {
+      "lemma": "Lord",
+      "pos": "proper-noun",
+      "ko": "주님, 하느님 (Our Lord)",
+      "form": null,
+      "ipa": "/lɔːrd/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": null,
+      "synonyms": [
+        "carry off",
+        "remove"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나에게서, 나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    }
+  }
+}
