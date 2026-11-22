@@ -1,0 +1,1104 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-23-L1-2",
+  "date": "2026-11-23",
+  "level": 1,
+  "title": "The Two Frogs",
+  "titleKo": "두 마리 개구리",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_08_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_08_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "Mike Phillips",
+    "durationSec": 61,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 08번 트랙(전체 158번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 118,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "개구리 두 마리가 이웃으로 살았다. 한 마리는 개구리들이 좋아하는 물이 넉넉한 늪에 살았고, 다른 한 마리는 조금 떨어진 오솔길에 살았는데, 그곳에서 구할 수 있는 물이라고는 비가 온 뒤 바퀴 자국에 고인 물이 전부였다. 늪 개구리는 친구에게 경고하며 늪으로 와서 함께 살자고 졸랐다. 그곳의 집이 훨씬 더 편안하고, 더 중요한 것은 훨씬 더 안전하다는 것이었다. 그러나 다른 개구리는 익숙해진 곳을 떠날 마음이 도저히 내키지 않는다며 거절했다. 며칠 뒤 무거운 짐마차 한 대가 그 길을 내려왔고, 그는 바퀴에 깔려 죽고 말았다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Two Frogs were neighbours.",
+      "ko": "개구리 두 마리가 이웃으로 살았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "One lived in a marsh, where there was plenty of water, which frogs love: the other in a lane some distance away, where all the water to be had was that which lay in the ruts after rain.",
+      "ko": "한 마리는 개구리들이 좋아하는 물이 넉넉한 늪에 살았고, 다른 한 마리는 조금 떨어진 오솔길에 살았는데, 그곳에서 구할 수 있는 물이라고는 비가 온 뒤 바퀴 자국에 고인 물이 전부였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The Marsh Frog warned his friend and pressed him to come and live with him in the marsh, for he would find his quarters there far more comfortable and--what was still more important--more safe.",
+      "ko": "늪 개구리는 친구에게 경고하며 늪으로 와서 함께 살자고 졸랐다. 그곳의 집이 훨씬 더 편안하고, 더 중요한 것은 훨씬 더 안전하다는 것이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But the other refused, saying that he could not bring himself to move from a place to which he had become accustomed.",
+      "ko": "그러나 다른 개구리는 익숙해진 곳을 떠날 마음이 도저히 내키지 않는다며 거절했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "A few days afterwards a heavy waggon came down the lane, and he was crushed to death under the wheels.",
+      "ko": "며칠 뒤 무거운 짐마차 한 대가 그 길을 내려왔고, 그는 바퀴에 깔려 죽고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "neighbour",
+      "pos": "noun",
+      "meaningKo": "이웃",
+      "ipa": "/ˈneɪbər/",
+      "synonyms": [
+        "neighbor",
+        "resident next door"
+      ],
+      "matchText": "neighbours",
+      "sentenceId": "s1",
+      "example": {
+        "en": "My neighbour has a big black dog.",
+        "ko": "우리 이웃은 큰 검은 개를 키운다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "marsh",
+      "pos": "noun",
+      "meaningKo": "늪, 습지",
+      "ipa": "/mɑːrʃ/",
+      "synonyms": [
+        "swamp",
+        "bog",
+        "wetland"
+      ],
+      "matchText": "marsh",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Many birds live in the marsh.",
+        "ko": "많은 새가 그 늪에 산다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "press",
+      "pos": "verb",
+      "meaningKo": "(~하라고) 조르다, 강하게 권하다",
+      "ipa": "/prɛs/",
+      "synonyms": [
+        "urge",
+        "push",
+        "beg"
+      ],
+      "matchText": "pressed",
+      "sentenceId": "s3",
+      "example": {
+        "en": "My friend pressed me to stay for dinner.",
+        "ko": "친구는 나에게 저녁을 먹고 가라고 졸랐다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "bring oneself to",
+      "pos": "phrase",
+      "meaningKo": "(내키지 않는 일을) 할 마음이 들다",
+      "ipa": "/brɪŋ wʌnˈsɛlf tuː/",
+      "synonyms": [
+        "force oneself to",
+        "make oneself"
+      ],
+      "matchText": "bring himself to",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I could not bring myself to tell her the truth.",
+        "ko": "나는 그녀에게 사실을 말할 마음이 도저히 들지 않았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "accustomed",
+      "pos": "adjective",
+      "meaningKo": "익숙한 (become accustomed to: ~에 익숙해지다)",
+      "ipa": "/əˈkʌstəmd/",
+      "synonyms": [
+        "used to",
+        "familiar"
+      ],
+      "matchText": "accustomed",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She is accustomed to getting up early.",
+        "ko": "그녀는 일찍 일어나는 데 익숙하다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The Marsh Frog",
+          "role": "S",
+          "sub": false,
+          "ko": "늪 개구리는"
+        },
+        {
+          "text": "warned",
+          "role": "V",
+          "sub": false,
+          "ko": "경고했다"
+        },
+        {
+          "text": "his friend",
+          "role": "O",
+          "sub": false,
+          "ko": "자기 친구에게"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "pressed",
+          "role": "V",
+          "sub": false,
+          "ko": "졸랐다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "to come and live with him in the marsh,",
+          "role": "OC",
+          "sub": false,
+          "ko": "늪으로 와서 함께 살자고"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "would find",
+          "role": "V",
+          "sub": true,
+          "ko": "알게 될 것이기 때문이다"
+        },
+        {
+          "text": "his quarters there",
+          "role": "O",
+          "sub": true,
+          "ko": "거기 있는 자기 거처가"
+        },
+        {
+          "text": "far more comfortable",
+          "role": "OC",
+          "sub": true,
+          "ko": "훨씬 더 편안하고"
+        },
+        {
+          "text": "and--what was still more important--more safe.",
+          "role": "OC",
+          "sub": true,
+          "ko": "더 중요하게는 더 안전하다는 것을"
+        }
+      ],
+      "skeleton": "The Marsh Frog warned his friend and pressed him (to come ...)",
+      "explanation": "동사 warned와 pressed가 and로 이어져 있어요. 'press 사람 to 동사원형'은 '~에게 …하라고 조르다'예요. for는 여기서 '왜냐하면'이라는 접속사예요. find + 목적어 + 형용사는 '~이 …하다는 것을 알게 되다'예요. --what was still more important--는 '더 중요한 것은'이라는 끼워 넣은 말이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "the other",
+          "role": "S",
+          "sub": false,
+          "ko": "다른 개구리는"
+        },
+        {
+          "text": "refused,",
+          "role": "V",
+          "sub": false,
+          "ko": "거절했다"
+        },
+        {
+          "text": "saying",
+          "role": "M",
+          "sub": false,
+          "ko": "말하면서"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "could not bring himself to move",
+          "role": "V",
+          "sub": true,
+          "ko": "도저히 옮길 마음이 들지 않는다"
+        },
+        {
+          "text": "from a place",
+          "role": "M",
+          "sub": true,
+          "ko": "장소에서"
+        },
+        {
+          "text": "to which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그곳에"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "had become",
+          "role": "V",
+          "sub": true,
+          "ko": "되어 있었던"
+        },
+        {
+          "text": "accustomed.",
+          "role": "C",
+          "sub": true,
+          "ko": "익숙하게"
+        }
+      ],
+      "skeleton": "the other refused",
+      "explanation": "뼈대는 the other refused(다른 개구리는 거절했다)예요. saying that ~은 '~라고 말하면서'라는 분사구문이에요. to which 이하는 a place를 꾸며 주는 관계절로, 원래 he had become accustomed to a place에서 to a place가 앞으로 나온 모양이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "전치사 + 관계대명사 (to which)",
+      "tags": [
+        "관계사",
+        "전치사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "a place to which he had become accustomed"
+      ],
+      "explanation": "become accustomed to a place(어떤 곳에 익숙해지다)에서 to a place를 관계대명사 which로 바꾸어 앞으로 보낸 모양이에요. '그가 익숙해진 곳'이라는 뜻이에요. 쉽게 a place which he had become accustomed to라고도 쓸 수 있어요.",
+      "example": {
+        "en": "This is the house in which I was born.",
+        "ko": "이것이 내가 태어난 집이다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "수동태 (be + 과거분사)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "was crushed to death"
+      ],
+      "explanation": "be동사 + 과거분사는 '~당하다, ~되다'라는 수동태예요. was crushed는 '깔렸다(짓눌렸다)'이고, to death는 '죽을 때까지'라서 '깔려 죽었다'가 돼요.",
+      "example": {
+        "en": "The window was broken by the wind.",
+        "ko": "그 창문은 바람에 깨졌다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "비교급 강조 far / still",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "far more comfortable",
+        "still more important"
+      ],
+      "explanation": "more comfortable(더 편안한) 앞의 far와 more important(더 중요한) 앞의 still은 비교급을 강조해서 '훨씬 더'라는 뜻이 돼요. much, even, a lot도 비슷하게 써요.",
+      "example": {
+        "en": "This box is far heavier than that one.",
+        "ko": "이 상자는 저것보다 훨씬 더 무겁다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두 개(마리)의",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "frogs": {
+      "lemma": "frog",
+      "pos": "noun",
+      "ko": "개구리",
+      "form": "복수형",
+      "synonyms": [
+        "toads"
+      ],
+      "ipa": "/frɑːɡz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "neighbours": {
+      "lemma": "neighbour",
+      "pos": "noun",
+      "ko": "이웃",
+      "form": "복수형",
+      "synonyms": [
+        "neighbors"
+      ],
+      "ipa": "/ˈneɪbərz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "한 마리, 하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": "과거형",
+      "synonyms": [
+        "dwelt",
+        "resided"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "marsh": {
+      "lemma": "marsh",
+      "pos": "noun",
+      "ko": "늪, 습지",
+      "form": null,
+      "synonyms": [
+        "swamp",
+        "bog"
+      ],
+      "ipa": "/mɑːrʃ/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "(그곳에서는) ~한 곳",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "there was: ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "plenty": {
+      "lemma": "plenty",
+      "pos": "noun",
+      "ko": "많음, 넉넉함 (plenty of: 많은)",
+      "form": null,
+      "synonyms": [
+        "lots",
+        "abundance"
+      ],
+      "ipa": "/ˈplɛnti/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "form": null,
+      "synonyms": [
+        "liquid"
+      ],
+      "ipa": "/ˈwɔːtər/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그것을, ~한 것 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "love": {
+      "lemma": "love",
+      "pos": "verb",
+      "ko": "아주 좋아하다",
+      "form": null,
+      "synonyms": [
+        "adore",
+        "like"
+      ],
+      "ipa": "/lʌv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 하나 (the other: 나머지 하나)",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "lane": {
+      "lemma": "lane",
+      "pos": "noun",
+      "ko": "좁은 길, 오솔길",
+      "form": null,
+      "synonyms": [
+        "path",
+        "track"
+      ],
+      "ipa": "/leɪn/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어느 정도의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "distance": {
+      "lemma": "distance",
+      "pos": "noun",
+      "ko": "거리 (some distance away: 조금 떨어진)",
+      "form": null,
+      "synonyms": [
+        "way",
+        "space"
+      ],
+      "ipa": "/ˈdɪstəns/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "떨어져서",
+      "form": null,
+      "synonyms": [
+        "off"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는, ~할 (to부정사), ~으로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (to be had: 구할 수 있는)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "얻다, 가지다 (had become: 과거완료)",
+      "form": "과거분사",
+      "synonyms": [
+        "got",
+        "obtained"
+      ],
+      "ipa": "/hæd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것 / ~라는 것 (접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "놓여 있다, 고여 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rested",
+        "sat"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "ruts": {
+      "lemma": "rut",
+      "pos": "noun",
+      "ko": "바퀴 자국",
+      "form": "복수형",
+      "synonyms": [
+        "grooves",
+        "tracks"
+      ],
+      "ipa": "/rʌts/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~뒤에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "rain": {
+      "lemma": "rain",
+      "pos": "noun",
+      "ko": "비",
+      "form": null,
+      "synonyms": [
+        "rainfall",
+        "shower"
+      ],
+      "ipa": "/reɪn/"
+    },
+    "frog": {
+      "lemma": "frog",
+      "pos": "noun",
+      "ko": "개구리",
+      "form": null,
+      "synonyms": [
+        "toad"
+      ],
+      "ipa": "/frɑːɡ/"
+    },
+    "warned": {
+      "lemma": "warn",
+      "pos": "verb",
+      "ko": "경고하다, 주의를 주다",
+      "form": "과거형",
+      "synonyms": [
+        "cautioned",
+        "advised"
+      ],
+      "ipa": "/wɔːrnd/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "pressed": {
+      "lemma": "press",
+      "pos": "verb",
+      "ko": "조르다, 강하게 권하다",
+      "form": "과거형",
+      "synonyms": [
+        "urged",
+        "pushed"
+      ],
+      "ipa": "/prɛst/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "move",
+        "go"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": null,
+      "synonyms": [
+        "dwell",
+        "stay"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "(~이 …하다는 것을) 알게 되다",
+      "form": null,
+      "synonyms": [
+        "discover",
+        "see"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "quarters": {
+      "lemma": "quarters",
+      "pos": "noun",
+      "ko": "숙소, 거처",
+      "form": null,
+      "synonyms": [
+        "lodgings",
+        "home"
+      ],
+      "ipa": "/ˈkwɔːrtərz/"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "훨씬 (비교급 강조)",
+      "form": null,
+      "synonyms": [
+        "much",
+        "a lot"
+      ],
+      "ipa": "/fɑːr/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (비교급)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "comfortable": {
+      "lemma": "comfortable",
+      "pos": "adjective",
+      "ko": "편안한",
+      "form": null,
+      "synonyms": [
+        "cozy",
+        "pleasant"
+      ],
+      "ipa": "/ˈkʌmfərtəbəl/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~한 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "훨씬 더 (비교급 강조)",
+      "form": null,
+      "synonyms": [
+        "even"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "important": {
+      "lemma": "important",
+      "pos": "adjective",
+      "ko": "중요한",
+      "form": null,
+      "synonyms": [
+        "significant",
+        "vital"
+      ],
+      "ipa": "/ˌɪmˈpɔːrtənt/"
+    },
+    "safe": {
+      "lemma": "safe",
+      "pos": "adjective",
+      "ko": "안전한",
+      "form": null,
+      "synonyms": [
+        "secure",
+        "protected"
+      ],
+      "ipa": "/seɪf/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "refused": {
+      "lemma": "refuse",
+      "pos": "verb",
+      "ko": "거절하다",
+      "form": "과거형",
+      "synonyms": [
+        "declined",
+        "rejected"
+      ],
+      "ipa": "/rəˈfjuːzd/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stating",
+        "explaining"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "bring oneself to: ~할 마음이 들다",
+      "form": null,
+      "synonyms": [
+        "force",
+        "get"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "이사하다, 옮기다",
+      "form": null,
+      "synonyms": [
+        "relocate",
+        "leave"
+      ],
+      "ipa": "/muːv/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "장소, 곳",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "location"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "become": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~하게 되다",
+      "form": "과거분사",
+      "synonyms": [
+        "grown",
+        "got"
+      ],
+      "ipa": "/bɪˈkʌm/"
+    },
+    "accustomed": {
+      "lemma": "accustomed",
+      "pos": "adjective",
+      "ko": "익숙한",
+      "form": null,
+      "synonyms": [
+        "used",
+        "familiar"
+      ],
+      "ipa": "/əˈkʌstəmd/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "a few: 몇몇의, 조금의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": "복수형",
+      "synonyms": [
+        "dates"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "afterwards": {
+      "lemma": "afterwards",
+      "pos": "adverb",
+      "ko": "나중에, 그 뒤에",
+      "form": null,
+      "synonyms": [
+        "later",
+        "after"
+      ],
+      "ipa": "/ˈæftərwərdz/"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "무거운",
+      "form": null,
+      "synonyms": [
+        "weighty",
+        "massive"
+      ],
+      "ipa": "/ˈhɛvi/"
+    },
+    "waggon": {
+      "lemma": "waggon",
+      "pos": "noun",
+      "ko": "짐마차 (= wagon)",
+      "form": null,
+      "synonyms": [
+        "wagon",
+        "cart"
+      ],
+      "ipa": "/ˈwæɡən/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (came down: 내려왔다)",
+      "form": "과거형",
+      "synonyms": [
+        "went",
+        "rolled"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "preposition",
+      "ko": "~을 따라 내려서",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "crushed": {
+      "lemma": "crush",
+      "pos": "verb",
+      "ko": "짓누르다, 으깨다",
+      "form": "과거분사",
+      "synonyms": [
+        "squashed",
+        "flattened"
+      ],
+      "ipa": "/krʌʃt/"
+    },
+    "death": {
+      "lemma": "death",
+      "pos": "noun",
+      "ko": "죽음 (to death: 죽을 때까지)",
+      "form": null,
+      "synonyms": [
+        "dying",
+        "end"
+      ],
+      "ipa": "/dɛθ/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~아래에",
+      "form": null,
+      "ipa": "/ˈʌndər/"
+    },
+    "wheels": {
+      "lemma": "wheel",
+      "pos": "noun",
+      "ko": "바퀴",
+      "form": "복수형",
+      "synonyms": [
+        "tyres",
+        "rollers"
+      ],
+      "ipa": "/wiːlz/"
+    }
+  }
+}
