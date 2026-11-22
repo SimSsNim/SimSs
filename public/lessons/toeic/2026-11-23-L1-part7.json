@@ -1,0 +1,1325 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-23-L1-part7",
+  "date": "2026-11-23",
+  "level": 1,
+  "title": "Greenfield Dental Clinic Is Moving",
+  "titleKo": "Greenfield 치과 이전 안내",
+  "genre": "notice",
+  "tags": [
+    "TOEIC Part 7",
+    "공지",
+    "부동산·이사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 147,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Greenfield 치과가 이전합니다"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "Greenfield 치과는 3월 3일에 새 장소로 이전합니다. 새 진료실은 중앙 도서관 건너편 Oak 가 45번지에 있습니다. 새 건물이 더 넓어서 진료실이 두 개 더 생기고 대기 공간도 더 커집니다. 건물 뒤에는 무료 주차장도 있습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "장비를 옮기는 동안 2월 27일부터 3월 2일까지 휴진합니다. 이 기간에 급한 문제가 있는 환자분은 대표 번호로 전화하시면 한 시간 안에 치과의사가 다시 전화를 드립니다. 전화번호와 이메일 주소는 그대로입니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "3월 초에 이미 예약이 있으시면 따로 하실 일은 없습니다. 방문 며칠 전에 오시는 길을 담은 문자 메시지를 보내 드립니다. 새 진료실에서 뵙기를 기대합니다!"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Greenfield Dental Clinic Is Moving",
+      "ko": "Greenfield 치과가 이전합니다",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Greenfield Dental Clinic will move to a new location on March 3.",
+      "ko": "Greenfield 치과는 3월 3일에 새 장소로 이전합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Our new office is at 45 Oak Street, across from the Central Library.",
+      "ko": "새 진료실은 중앙 도서관 건너편 Oak 가 45번지에 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "The new building is larger, so we will have two more treatment rooms and a bigger waiting area.",
+      "ko": "새 건물이 더 넓어서 진료실이 두 개 더 생기고 대기 공간도 더 커집니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "There is also a free parking lot behind the building.",
+      "ko": "건물 뒤에는 무료 주차장도 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "The clinic will be closed from February 27 to March 2 while we move our equipment.",
+      "ko": "장비를 옮기는 동안 2월 27일부터 3월 2일까지 휴진합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "During this time, patients with urgent problems can call our main number, and a dentist will return the call within an hour.",
+      "ko": "이 기간에 급한 문제가 있는 환자분은 대표 번호로 전화하시면 한 시간 안에 치과의사가 다시 전화를 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Our phone number and e-mail address will stay the same.",
+      "ko": "전화번호와 이메일 주소는 그대로입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "If you already have an appointment in early March, you do not need to do anything.",
+      "ko": "3월 초에 이미 예약이 있으시면 따로 하실 일은 없습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "We will send you a text message with directions a few days before your visit.",
+      "ko": "방문 며칠 전에 오시는 길을 담은 문자 메시지를 보내 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "We look forward to seeing you in our new office!",
+      "ko": "새 진료실에서 뵙기를 기대합니다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "location",
+      "pos": "noun",
+      "meaningKo": "장소, 위치",
+      "ipa": "/loʊˈkeɪʃən/",
+      "synonyms": [
+        "place",
+        "site"
+      ],
+      "matchText": "location",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The store has moved to a new location.",
+        "ko": "그 가게는 새 장소로 옮겼다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "across from",
+      "pos": "preposition",
+      "meaningKo": "~의 건너편에",
+      "ipa": "/əˈkrɔs frʌm/",
+      "synonyms": [
+        "opposite"
+      ],
+      "matchText": "across from",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The bank is across from the post office.",
+        "ko": "은행은 우체국 건너편에 있다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "treatment",
+      "pos": "noun",
+      "meaningKo": "치료, 진료",
+      "ipa": "/ˈtritmənt/",
+      "synonyms": [
+        "care",
+        "therapy"
+      ],
+      "matchText": "treatment",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The treatment takes about thirty minutes.",
+        "ko": "치료는 약 30분 걸린다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "urgent",
+      "pos": "adjective",
+      "meaningKo": "긴급한, 급한",
+      "ipa": "/ˈɝdʒənt/",
+      "synonyms": [
+        "serious",
+        "pressing"
+      ],
+      "matchText": "urgent",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please call me if it is urgent.",
+        "ko": "급한 일이면 전화 주세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "directions",
+      "pos": "noun",
+      "meaningKo": "길 안내, 오는 길",
+      "ipa": "/dəˈrɛkʃənz/",
+      "synonyms": [
+        "route",
+        "instructions"
+      ],
+      "matchText": "directions",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Can you give me directions to the hotel?",
+        "ko": "호텔 가는 길을 알려 주시겠어요?"
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "The new building",
+          "role": "S",
+          "ko": "새 건물은"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "larger,",
+          "role": "C",
+          "ko": "더 넓은"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "ko": "그래서"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "우리는"
+        },
+        {
+          "text": "will have",
+          "role": "V",
+          "ko": "갖게 될 것이다"
+        },
+        {
+          "text": "two more treatment rooms and a bigger waiting area.",
+          "role": "O",
+          "ko": "진료실 두 개를 더, 그리고 더 큰 대기 공간을"
+        }
+      ],
+      "skeleton": "The building is larger, so we will have more rooms.",
+      "explanation": "so(그래서)가 원인(건물이 더 넓다)과 결과(공간이 늘어난다) 두 문장을 잇는다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "During this time,",
+          "role": "M",
+          "ko": "이 기간 동안"
+        },
+        {
+          "text": "patients with urgent problems",
+          "role": "S",
+          "ko": "급한 문제가 있는 환자들은"
+        },
+        {
+          "text": "can call",
+          "role": "V",
+          "ko": "전화할 수 있다"
+        },
+        {
+          "text": "our main number,",
+          "role": "O",
+          "ko": "대표 번호로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "a dentist",
+          "role": "S",
+          "ko": "치과의사가"
+        },
+        {
+          "text": "will return",
+          "role": "V",
+          "ko": "돌려줄 것이다"
+        },
+        {
+          "text": "the call",
+          "role": "O",
+          "ko": "전화를"
+        },
+        {
+          "text": "within an hour.",
+          "role": "M",
+          "ko": "한 시간 안에"
+        }
+      ],
+      "skeleton": "Patients can call, and a dentist will return the call.",
+      "explanation": "and가 두 문장을 잇는다. with urgent problems는 앞의 patients를 꾸민다. return a call = 회신 전화를 하다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래 수동태 will be + 형용사/p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "will be closed"
+      ],
+      "explanation": "병원이 '닫힌 상태가 되는' 것이므로 be closed. 앞으로의 일이라 will be closed.",
+      "example": {
+        "en": "The office will be closed on Monday.",
+        "ko": "사무실은 월요일에 문을 닫는다."
+      },
+      "note": "공지문 단골 표현: will be closed / will be open"
+    },
+    {
+      "id": "g2",
+      "title": "접속사 so (그래서)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "so we will have"
+      ],
+      "explanation": "so는 앞 문장이 원인, 뒤 문장이 결과일 때 쓰는 접속사다. 보통 앞에 콤마를 찍는다.",
+      "example": {
+        "en": "It was raining, so we stayed inside.",
+        "ko": "비가 와서 우리는 안에 있었다."
+      },
+      "note": "원인, so 결과 / because 원인 — 방향이 반대"
+    },
+    {
+      "id": "g3",
+      "title": "look forward to + -ing",
+      "tags": [
+        "동명사",
+        "전치사"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "look forward to seeing"
+      ],
+      "explanation": "look forward to의 to는 전치사라 뒤에 동사원형이 아니라 동명사(-ing)가 온다.",
+      "example": {
+        "en": "I look forward to hearing from you.",
+        "ko": "연락을 기다리겠습니다."
+      },
+      "note": "look forward to 뒤 빈칸 → -ing"
+    }
+  ],
+  "glossary": {
+    "greenfield": {
+      "lemma": "Greenfield",
+      "pos": "proper-noun",
+      "ko": "그린필드 (치과 이름 Greenfield Dental Clinic의 일부)",
+      "form": null,
+      "ipa": "/ˈɡriːnˌfiːld/"
+    },
+    "dental": {
+      "lemma": "dental",
+      "pos": "adjective",
+      "ko": "치과의, 치아의",
+      "form": null,
+      "synonyms": [
+        "tooth-related"
+      ],
+      "ipa": "/ˈdɛntəl/"
+    },
+    "clinic": {
+      "lemma": "clinic",
+      "pos": "noun",
+      "ko": "병원, 의원",
+      "form": null,
+      "synonyms": [
+        "medical office",
+        "practice"
+      ],
+      "ipa": "/ˈklɪnɪk/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (is moving) ~하고 있다",
+      "form": "3인칭 단수 현재",
+      "synonyms": [],
+      "ipa": "/ɪz/"
+    },
+    "moving": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "이전하다, 이사하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "relocating"
+      ],
+      "ipa": "/ˈmuːvɪŋ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (미래)",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "이전하다, 옮기다",
+      "form": null,
+      "synonyms": [
+        "relocate",
+        "transfer"
+      ],
+      "ipa": "/muːv/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "modern"
+      ],
+      "ipa": "/nuː/"
+    },
+    "location": {
+      "lemma": "location",
+      "pos": "noun",
+      "ko": "장소, 위치",
+      "form": null,
+      "synonyms": [
+        "place",
+        "site"
+      ],
+      "ipa": "/loʊˈkeɪʃən/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(날짜) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "form": null,
+      "ipa": "/mɑːrtʃ/"
+    },
+    "our": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 진료실",
+      "form": null,
+      "synonyms": [
+        "workplace",
+        "practice"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "oak": {
+      "lemma": "Oak",
+      "pos": "proper-noun",
+      "ko": "오크 (거리 이름 Oak Street의 일부)",
+      "form": null,
+      "ipa": "/oʊk/"
+    },
+    "street": {
+      "lemma": "street",
+      "pos": "noun",
+      "ko": "거리, 가",
+      "form": null,
+      "synonyms": [
+        "road",
+        "avenue"
+      ],
+      "ipa": "/striːt/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "(across from) ~의 건너편에",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "central": {
+      "lemma": "Central",
+      "pos": "proper-noun",
+      "ko": "센트럴 (도서관 이름 Central Library의 일부, '중앙')",
+      "form": null,
+      "ipa": "/ˈsɛntrəl/"
+    },
+    "library": {
+      "lemma": "library",
+      "pos": "noun",
+      "ko": "도서관",
+      "form": null,
+      "synonyms": [
+        "reading room"
+      ],
+      "ipa": "/ˈlaɪbrɛˌriː/"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물",
+      "form": null,
+      "synonyms": [
+        "structure",
+        "facility"
+      ],
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 넓은, 더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "bigger",
+        "more spacious"
+      ],
+      "ipa": "/ˈlɑːrdʒər/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "form": null,
+      "synonyms": [
+        "own",
+        "contain"
+      ],
+      "ipa": "/hæv/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adjective",
+      "ko": "더 많은 (two more: 두 개 더)",
+      "form": null,
+      "synonyms": [
+        "additional",
+        "extra"
+      ],
+      "ipa": "/mɔːr/"
+    },
+    "treatment": {
+      "lemma": "treatment",
+      "pos": "noun",
+      "ko": "치료, 진료",
+      "form": null,
+      "synonyms": [
+        "care",
+        "therapy"
+      ],
+      "ipa": "/ˈtriːtmənt/"
+    },
+    "rooms": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": "복수형",
+      "synonyms": [
+        "space",
+        "chamber"
+      ],
+      "ipa": "/ruːmz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "bigger": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "larger",
+        "heavier"
+      ],
+      "ipa": "/ˈbɪɡər/"
+    },
+    "waiting": {
+      "lemma": "waiting",
+      "pos": "noun",
+      "ko": "기다림 (waiting area: 대기 공간)",
+      "form": null,
+      "synonyms": [
+        "wait"
+      ],
+      "ipa": "/ˈweɪtɪŋ/"
+    },
+    "area": {
+      "lemma": "area",
+      "pos": "noun",
+      "ko": "공간, 구역",
+      "form": null,
+      "synonyms": [
+        "space",
+        "section"
+      ],
+      "ipa": "/ˈɛriə/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there is) ~이 있다",
+      "form": null,
+      "synonyms": [
+        "here"
+      ],
+      "ipa": "/ðɛr/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의",
+      "form": null,
+      "synonyms": [
+        "complimentary",
+        "no-cost"
+      ],
+      "ipa": "/friː/"
+    },
+    "parking": {
+      "lemma": "parking",
+      "pos": "noun",
+      "ko": "주차",
+      "form": null,
+      "synonyms": [
+        "car parking"
+      ],
+      "ipa": "/ˈpɑːrkɪŋ/"
+    },
+    "lot": {
+      "lemma": "lot",
+      "pos": "noun",
+      "ko": "주차장, 부지",
+      "form": null,
+      "synonyms": [
+        "parking area"
+      ],
+      "ipa": "/lɑːt/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(will be closed) ~한 상태가 되다",
+      "form": null,
+      "synonyms": [],
+      "ipa": "/biː/"
+    },
+    "closed": {
+      "lemma": "closed",
+      "pos": "adjective",
+      "ko": "문을 닫은, 휴업한",
+      "form": null,
+      "synonyms": [
+        "shut",
+        "not open"
+      ],
+      "ipa": "/kloʊzd/"
+    },
+    "february": {
+      "lemma": "February",
+      "pos": "proper-noun",
+      "ko": "2월",
+      "form": null,
+      "ipa": "/ˈfɛbjəˌwɛri/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "equipment": {
+      "lemma": "equipment",
+      "pos": "noun",
+      "ko": "장비",
+      "synonyms": [
+        "machinery",
+        "gear"
+      ],
+      "ipa": "/ɪˈkwɪpmənt/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "기간, 때",
+      "form": null,
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "patients": {
+      "lemma": "patient",
+      "pos": "noun",
+      "ko": "환자",
+      "form": "복수형",
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈpeɪʃənts/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가진",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "urgent": {
+      "lemma": "urgent",
+      "pos": "adjective",
+      "ko": "급한",
+      "synonyms": [
+        "pressing",
+        "rush"
+      ],
+      "ipa": "/ˈɜːrdʒənt/"
+    },
+    "problems": {
+      "lemma": "problem",
+      "pos": "noun",
+      "ko": "문제",
+      "form": "복수형",
+      "synonyms": [
+        "issue",
+        "difficulty"
+      ],
+      "ipa": "/ˈprɑːbləmz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~일 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다",
+      "synonyms": [
+        "phone",
+        "contact"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "주된, 대표의 (main number: 대표 번호)",
+      "form": null,
+      "synonyms": [
+        "central",
+        "primary"
+      ],
+      "ipa": "/meɪn/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "(전화) 번호",
+      "form": null,
+      "synonyms": [
+        "phone number"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "dentist": {
+      "lemma": "dentist",
+      "pos": "noun",
+      "ko": "치과 의사",
+      "form": null,
+      "synonyms": [
+        "dental surgeon"
+      ],
+      "ipa": "/ˈdɛntəst/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "(전화를) 회신하다",
+      "form": null,
+      "synonyms": [
+        "answer",
+        "respond to"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "hour": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간 (60분)",
+      "form": null,
+      "synonyms": [
+        "sixty minutes"
+      ],
+      "ipa": "/ˈaʊər/"
+    },
+    "phone": {
+      "lemma": "phone",
+      "pos": "noun",
+      "ko": "전화",
+      "form": null,
+      "synonyms": [
+        "telephone"
+      ],
+      "ipa": "/foʊn/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "email",
+        "message"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "address": {
+      "lemma": "address",
+      "pos": "noun",
+      "ko": "주소",
+      "form": null,
+      "synonyms": [
+        "contact details"
+      ],
+      "ipa": "/ˈæˌdrɛs/"
+    },
+    "stay": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "(상태가) 그대로이다, 유지되다",
+      "form": null,
+      "synonyms": [
+        "remain",
+        "keep"
+      ],
+      "ipa": "/steɪ/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "form": null,
+      "synonyms": [
+        "unchanged",
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~라면, ~이면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미, 벌써",
+      "form": null,
+      "synonyms": [
+        "before now"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "appointment": {
+      "lemma": "appointment",
+      "pos": "noun",
+      "ko": "예약, 약속",
+      "synonyms": [
+        "booking",
+        "reservation"
+      ],
+      "ipa": "/əˈpɔɪntmənt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adjective",
+      "ko": "초의, 이른 (early March: 3월 초)",
+      "form": null,
+      "synonyms": [
+        "beginning of"
+      ],
+      "ipa": "/ˈɜːrli/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다 (do anything: 무엇이든 하다); 부정문의 조동사",
+      "form": null,
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/duː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다 (부정)",
+      "form": null,
+      "synonyms": [
+        "never"
+      ],
+      "ipa": "/nɑːt/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다",
+      "form": null,
+      "synonyms": [
+        "require",
+        "want"
+      ],
+      "ipa": "/niːd/"
+    },
+    "anything": {
+      "lemma": "anything",
+      "pos": "pronoun",
+      "ko": "무엇이든, 아무것",
+      "form": null,
+      "ipa": "/ˈɛniˌθɪŋ/"
+    },
+    "send": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": null,
+      "synonyms": [
+        "ship",
+        "mail"
+      ],
+      "ipa": "/sɛnd/"
+    },
+    "text": {
+      "lemma": "text",
+      "pos": "noun",
+      "ko": "문자 (text message: 문자 메시지)",
+      "synonyms": [
+        "SMS"
+      ],
+      "ipa": "/tɛkst/"
+    },
+    "message": {
+      "lemma": "message",
+      "pos": "noun",
+      "ko": "메시지, 문자",
+      "form": null,
+      "synonyms": [
+        "note",
+        "text"
+      ],
+      "ipa": "/ˈmɛsədʒ/"
+    },
+    "directions": {
+      "lemma": "direction",
+      "pos": "noun",
+      "ko": "길 안내, 찾아가는 방법",
+      "form": "복수형",
+      "synonyms": [
+        "instructions",
+        "route"
+      ],
+      "ipa": "/dəˈrɛkʃənz/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇 개의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "your": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "귀하의, 여러분의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "visit": {
+      "lemma": "visit",
+      "pos": "noun",
+      "ko": "방문",
+      "form": null,
+      "synonyms": [
+        "appointment",
+        "trip"
+      ],
+      "ipa": "/ˈvɪzɪt/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look forward to) ~을 기대하다",
+      "form": null,
+      "synonyms": [
+        "anticipate",
+        "await"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "(look forward to) 기대하며, 앞으로",
+      "form": null,
+      "synonyms": [
+        "ahead"
+      ],
+      "ipa": "/ˈfɔːrwərd/"
+    },
+    "seeing": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 만나다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "meet"
+      ],
+      "ipa": "/ˈsiːɪŋ/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the purpose of the notice?",
+      "evidenceSentenceIds": [
+        "s2"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "To introduce a new dentist"
+        },
+        {
+          "key": "B",
+          "text": "To announce a change of address"
+        },
+        {
+          "key": "C",
+          "text": "To explain new prices"
+        },
+        {
+          "key": "D",
+          "text": "To ask patients to book appointments"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "첫 문장에서 치과가 3월 3일에 새 장소로 옮긴다(move to a new location)고 알린다. 이를 '주소 변경을 알리기 위해'로 바꿔 말한 B가 정답.",
+      "choiceNotesKo": {
+        "D": "예약을 새로 하라는 말은 없다. 오히려 할 일이 없다고 했다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "What can patients do while the clinic is closed?",
+      "evidenceSentenceIds": [
+        "s7"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "Visit the new office before March 3"
+        },
+        {
+          "key": "B",
+          "text": "Send an e-mail to a new address"
+        },
+        {
+          "key": "C",
+          "text": "Receive a call back from a dentist"
+        },
+        {
+          "key": "D",
+          "text": "Book an appointment online"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "휴진 기간에 급한 환자가 전화하면 치과의사가 한 시간 안에 다시 전화해 준다(will return the call). 이를 바꿔 말한 C가 정답.",
+      "choiceNotesKo": {
+        "B": "이메일 주소는 그대로라고 했다(will stay the same).",
+        "A": "새 진료실은 3월 3일부터 문을 연다."
+      },
+      "skill": "세부 사항(패러프레이징)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "What is suggested about patients who have an appointment in early March?",
+      "evidenceSentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "choices": [
+        {
+          "key": "A",
+          "text": "They should call to confirm it."
+        },
+        {
+          "key": "B",
+          "text": "They will need a new phone number."
+        },
+        {
+          "key": "C",
+          "text": "They will be seen at the old office."
+        },
+        {
+          "key": "D",
+          "text": "They do not have to change their plans."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "3월 초 예약이 있으면 아무것도 할 필요가 없다(do not need to do anything)고 했다. 즉 계획을 바꿀 필요가 없다는 D가 정답.",
+      "choiceNotesKo": {
+        "A": "따로 전화할 필요가 없다고 했다.",
+        "C": "3월 3일부터는 새 진료실에서 진료한다."
+      },
+      "skill": "추론"
+    }
+  ]
+}
