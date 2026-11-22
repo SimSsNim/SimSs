@@ -1,0 +1,1528 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-23-L2-2",
+  "date": "2026-11-23",
+  "level": 2,
+  "title": "The Wily Lion",
+  "titleKo": "꾀 많은 사자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_ten_librivox/fables_10_16_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_ten_librivox/fables_10_16_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-10-fables-226-250",
+    "reader": "Nikolle Doolin",
+    "durationSec": 104,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 10, 16번 트랙(전체 241번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 162,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "사자 한 마리가 풀밭에서 풀을 뜯는 살진 황소를 지켜보았다. 그 황소로 차릴 근사한 잔치를 생각하니 군침이 돌았지만, 황소의 날카로운 뿔이 무서워서 감히 덤벼들지 못했다. 그러나 얼마 지나지 않아 배고픔 때문에 그는 무언가를 하지 않을 수 없었다. 힘으로는 성공할 것 같지 않았으므로, 그는 꾀를 쓰기로 마음먹었다. 그는 친한 척하며 황소에게 다가가 말했다. \"당신의 멋진 모습에 내가 얼마나 감탄하는지 말하지 않을 수가 없군요. 머리가 정말 훌륭해요! 어깨와 넓적다리는 또 얼마나 힘차 보이는지! 그런데 친구여, 도대체 왜 그런 보기 흉한 뿔을 달고 다니나요? 그 뿔은 보기 흉한 만큼이나 거추장스럽겠군요. 내 말을 믿어요, 뿔이 없으면 훨씬 더 나을 거예요.\" 황소는 어리석게도 이 아첨에 넘어가 뿔을 잘라 버렸다. 그리고 이제 자기를 지킬 유일한 수단을 잃어버린 황소는 사자의 손쉬운 먹이가 되고 말았다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Lion watched a fat Bull feeding in a meadow, and his mouth watered when he thought of the royal feast he would make, but he did not dare to attack him, for he was afraid of his sharp horns.",
+      "ko": "사자 한 마리가 풀밭에서 풀을 뜯는 살진 황소를 지켜보았다. 그 황소로 차릴 근사한 잔치를 생각하니 군침이 돌았지만, 황소의 날카로운 뿔이 무서워서 감히 덤벼들지 못했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Hunger, however, presently compelled him to do something: and as the use of force did not promise success, he determined to resort to artifice.",
+      "ko": "그러나 얼마 지나지 않아 배고픔 때문에 그는 무언가를 하지 않을 수 없었다. 힘으로는 성공할 것 같지 않았으므로, 그는 꾀를 쓰기로 마음먹었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Going up to the Bull in friendly fashion, he said to him, \"I cannot help saying how much I admire your magnificent figure.",
+      "ko": "그는 친한 척하며 황소에게 다가가 말했다. \"당신의 멋진 모습에 내가 얼마나 감탄하는지 말하지 않을 수가 없군요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "What a fine head!",
+      "ko": "머리가 정말 훌륭해요!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "What powerful shoulders and thighs!",
+      "ko": "어깨와 넓적다리는 또 얼마나 힘차 보이는지!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "But, my dear friend, what in the world makes you wear those ugly horns?",
+      "ko": "그런데 친구여, 도대체 왜 그런 보기 흉한 뿔을 달고 다니나요?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "You must find them as awkward as they are unsightly.",
+      "ko": "그 뿔은 보기 흉한 만큼이나 거추장스럽겠군요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "Believe me, you would do much better without them.\"",
+      "ko": "내 말을 믿어요, 뿔이 없으면 훨씬 더 나을 거예요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "The Bull was foolish enough to be persuaded by this flattery to have his horns cut off; and, having now lost his only means of defence, fell an easy prey to the Lion.",
+      "ko": "황소는 어리석게도 이 아첨에 넘어가 뿔을 잘라 버렸다. 그리고 이제 자기를 지킬 유일한 수단을 잃어버린 황소는 사자의 손쉬운 먹이가 되고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "dare",
+      "pos": "verb",
+      "meaningKo": "감히 ~하다",
+      "ipa": "/dɛr/",
+      "synonyms": [
+        "venture",
+        "risk"
+      ],
+      "matchText": "dare",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He did not dare to speak to the teacher.",
+        "ko": "그는 감히 선생님께 말을 걸지 못했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "compel",
+      "pos": "verb",
+      "meaningKo": "억지로 ~하게 하다, 강요하다",
+      "ipa": "/kəmˈpɛl/",
+      "synonyms": [
+        "force",
+        "drive",
+        "oblige"
+      ],
+      "matchText": "compelled",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The rain compelled us to stay inside.",
+        "ko": "비 때문에 우리는 안에 있을 수밖에 없었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "resort to",
+      "pos": "phrasal-verb",
+      "meaningKo": "(다른 방법이 없어서) ~에 의지하다, ~을 쓰다",
+      "ipa": "/rɪˈzɔːrt tuː/",
+      "synonyms": [
+        "turn to",
+        "fall back on",
+        "use"
+      ],
+      "matchText": "resort to",
+      "sentenceId": "s2",
+      "example": {
+        "en": "They had to resort to walking when the bus broke down.",
+        "ko": "버스가 고장 나자 그들은 걸어갈 수밖에 없었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "flattery",
+      "pos": "noun",
+      "meaningKo": "아첨, 듣기 좋은 거짓 칭찬",
+      "ipa": "/ˈflætəri/",
+      "synonyms": [
+        "praise",
+        "compliments",
+        "sweet talk"
+      ],
+      "matchText": "flattery",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Don't be fooled by his flattery.",
+        "ko": "그의 아첨에 속지 마라."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "prey",
+      "pos": "noun",
+      "meaningKo": "먹이, 사냥감 (fall (a) prey to: ~의 먹이가 되다)",
+      "ipa": "/preɪ/",
+      "synonyms": [
+        "victim",
+        "target",
+        "quarry"
+      ],
+      "matchText": "prey",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The mouse became prey to the owl.",
+        "ko": "그 쥐는 올빼미의 먹이가 되었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Hunger,",
+          "role": "S",
+          "sub": false,
+          "ko": "배고픔이"
+        },
+        {
+          "text": "however,",
+          "role": "M",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "presently",
+          "role": "M",
+          "sub": false,
+          "ko": "곧"
+        },
+        {
+          "text": "compelled",
+          "role": "V",
+          "sub": false,
+          "ko": "억지로 하게 했다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그가"
+        },
+        {
+          "text": "to do something:",
+          "role": "OC",
+          "sub": false,
+          "ko": "무언가를 하도록"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~이므로"
+        },
+        {
+          "text": "the use of force",
+          "role": "S",
+          "sub": true,
+          "ko": "힘을 쓰는 것이"
+        },
+        {
+          "text": "did not promise",
+          "role": "V",
+          "sub": true,
+          "ko": "약속해 주지 않았다"
+        },
+        {
+          "text": "success,",
+          "role": "O",
+          "sub": true,
+          "ko": "성공을"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "determined",
+          "role": "V",
+          "sub": false,
+          "ko": "결심했다"
+        },
+        {
+          "text": "to resort to artifice.",
+          "role": "O",
+          "sub": false,
+          "ko": "꾀를 쓰기로"
+        }
+      ],
+      "skeleton": "Hunger compelled him to do something / he determined to resort to artifice",
+      "explanation": "콜론(:)과 and로 두 문장이 이어져 있어요. 앞 문장은 사물(Hunger)이 주어로, 'compel 사람 to ~'는 '~에게 억지로 …하게 하다'예요. 뒤 문장의 as ~ success는 '~이므로'라는 이유의 절이고, 뼈대는 he determined to resort to artifice(그는 꾀를 쓰기로 결심했다)예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Going up to the Bull",
+          "role": "M",
+          "sub": false,
+          "ko": "황소에게 다가가서"
+        },
+        {
+          "text": "in friendly fashion,",
+          "role": "M",
+          "sub": false,
+          "ko": "친한 척하며"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "to him,",
+          "role": "M",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "\"I",
+          "role": "S",
+          "sub": true,
+          "ko": "\"나는"
+        },
+        {
+          "text": "cannot help saying",
+          "role": "V",
+          "sub": true,
+          "ko": "말하지 않을 수 없다"
+        },
+        {
+          "text": "how much",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "얼마나 많이"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": true,
+          "ko": "내가"
+        },
+        {
+          "text": "admire",
+          "role": "V",
+          "sub": true,
+          "ko": "감탄하는지"
+        },
+        {
+          "text": "your magnificent figure.",
+          "role": "O",
+          "sub": true,
+          "ko": "당신의 멋진 모습을"
+        }
+      ],
+      "skeleton": "he said to him, \"I cannot help saying ...\"",
+      "explanation": "Going up ~은 '다가가서'라는 분사구문이에요. 따옴표 안의 뼈대는 I cannot help saying(말하지 않을 수 없다)이고, how much I admire ~(내가 ~을 얼마나 감탄하는지)가 saying의 목적어인 명사절이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "The Bull",
+          "role": "S",
+          "sub": false,
+          "ko": "황소는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "foolish enough",
+          "role": "C",
+          "sub": false,
+          "ko": "충분히 어리석었다"
+        },
+        {
+          "text": "to be persuaded by this flattery",
+          "role": "M",
+          "sub": false,
+          "ko": "이 아첨에 설득될 만큼"
+        },
+        {
+          "text": "to have his horns cut off;",
+          "role": "M",
+          "sub": false,
+          "ko": "자기 뿔을 잘라 내도록"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "having now lost his only means of defence,",
+          "role": "M",
+          "sub": false,
+          "ko": "이제 유일한 방어 수단을 잃고 나서"
+        },
+        {
+          "text": "fell",
+          "role": "V",
+          "sub": false,
+          "ko": "되었다"
+        },
+        {
+          "text": "an easy prey",
+          "role": "C",
+          "sub": false,
+          "ko": "손쉬운 먹이가"
+        },
+        {
+          "text": "to the Lion.",
+          "role": "M",
+          "sub": false,
+          "ko": "사자의"
+        }
+      ],
+      "skeleton": "The Bull was foolish enough ..., and fell an easy prey",
+      "explanation": "형용사 + enough to ~는 '~할 만큼 충분히 …한'이에요. have his horns cut off는 '(남을 시켜) 뿔을 잘라 내게 하다'예요. having now lost ~는 '이미 잃어버린 뒤라'는 완료 분사구문이에요. fell (a) prey to는 '~의 먹이가 되다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "cannot help + -ing (~하지 않을 수 없다)",
+      "tags": [
+        "동명사",
+        "조동사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "cannot help saying"
+      ],
+      "explanation": "cannot help 뒤에 동사-ing를 쓰면 '~하지 않을 수 없다, 저절로 ~하게 된다'는 뜻이에요. 여기서는 '감탄을 말하지 않을 수 없다'며 사자가 황소를 치켜세우고 있어요.",
+      "example": {
+        "en": "I cannot help laughing at his jokes.",
+        "ko": "나는 그의 농담에 웃지 않을 수 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "감탄문 What + (a) + 형용사 + 명사!",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "What a fine head!"
+      ],
+      "explanation": "'What + a + 형용사 + 명사!'는 '정말 ~한 …구나!'라는 감탄문이에요. 복수명사일 때는 a 없이 What powerful shoulders and thighs!처럼 써요. 뒤에 주어 + 동사(it is, they are)가 생략됐어요.",
+      "example": {
+        "en": "What a beautiful day!",
+        "ko": "정말 멋진 날이구나!"
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "as + 형용사 + as (~만큼 …한)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "as awkward as they are unsightly"
+      ],
+      "explanation": "as ~ as는 두 가지가 같은 정도라는 뜻이에요. 여기서는 뿔이 '보기 흉한 것만큼이나 거추장스럽다'라고 한 물건의 두 가지 성질을 비교했어요. find them awkward는 '그것들이 거추장스럽다고 느끼다'예요.",
+      "example": {
+        "en": "My bag is as heavy as yours.",
+        "ko": "내 가방은 네 것만큼 무겁다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lion": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": null,
+      "synonyms": [
+        "big cat"
+      ],
+      "ipa": "/ˈlaɪən/"
+    },
+    "watched": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "지켜보다",
+      "form": "과거형",
+      "synonyms": [
+        "observed",
+        "eyed"
+      ],
+      "ipa": "/wɑːtʃt/"
+    },
+    "fat": {
+      "lemma": "fat",
+      "pos": "adjective",
+      "ko": "살찐, 살진",
+      "form": null,
+      "synonyms": [
+        "plump",
+        "stout"
+      ],
+      "ipa": "/fæt/"
+    },
+    "bull": {
+      "lemma": "bull",
+      "pos": "noun",
+      "ko": "황소",
+      "form": null,
+      "synonyms": [
+        "ox",
+        "steer"
+      ],
+      "ipa": "/bʊl/"
+    },
+    "feeding": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "(동물이) 풀을 뜯다, 먹다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "grazing",
+        "eating"
+      ],
+      "ipa": "/ˈfiːdɪŋ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "meadow": {
+      "lemma": "meadow",
+      "pos": "noun",
+      "ko": "풀밭, 목초지",
+      "form": null,
+      "synonyms": [
+        "field",
+        "pasture"
+      ],
+      "ipa": "/ˈmɛˌdoʊ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "mouth": {
+      "lemma": "mouth",
+      "pos": "noun",
+      "ko": "입",
+      "form": null,
+      "synonyms": [
+        "jaws"
+      ],
+      "ipa": "/maʊθ/"
+    },
+    "watered": {
+      "lemma": "water",
+      "pos": "verb",
+      "ko": "군침이 돌다 (mouth waters)",
+      "form": "과거형",
+      "synonyms": [
+        "drooled",
+        "salivated"
+      ],
+      "ipa": "/ˈwɔːtərd/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다 (think of)",
+      "form": "과거형",
+      "synonyms": [
+        "imagined",
+        "considered"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 대해",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "royal": {
+      "lemma": "royal",
+      "pos": "adjective",
+      "ko": "왕에게 어울리는, 성대한",
+      "form": null,
+      "synonyms": [
+        "splendid",
+        "grand"
+      ],
+      "ipa": "/ˈrɔɪəl/"
+    },
+    "feast": {
+      "lemma": "feast",
+      "pos": "noun",
+      "ko": "잔치, 성찬",
+      "form": null,
+      "synonyms": [
+        "banquet",
+        "meal"
+      ],
+      "ipa": "/fiːst/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 / ~일 텐데",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다, 차리다 / ~하게 하다",
+      "form": null,
+      "synonyms": [
+        "prepare",
+        "cause"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "dare": {
+      "lemma": "dare",
+      "pos": "verb",
+      "ko": "감히 ~하다",
+      "form": null,
+      "synonyms": [
+        "venture",
+        "risk"
+      ],
+      "ipa": "/dɛr/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것, ~하도록 (to부정사), ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "attack": {
+      "lemma": "attack",
+      "pos": "verb",
+      "ko": "공격하다",
+      "form": null,
+      "synonyms": [
+        "assault",
+        "charge"
+      ],
+      "ipa": "/əˈtæk/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "afraid": {
+      "lemma": "afraid",
+      "pos": "adjective",
+      "ko": "두려워하는",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "fearful"
+      ],
+      "ipa": "/əˈfreɪd/"
+    },
+    "sharp": {
+      "lemma": "sharp",
+      "pos": "adjective",
+      "ko": "날카로운",
+      "form": null,
+      "synonyms": [
+        "pointed",
+        "keen"
+      ],
+      "ipa": "/ʃɑːrp/"
+    },
+    "horns": {
+      "lemma": "horn",
+      "pos": "noun",
+      "ko": "뿔",
+      "form": "복수형",
+      "synonyms": [
+        "antlers",
+        "tusks"
+      ],
+      "ipa": "/hɔːrnz/"
+    },
+    "hunger": {
+      "lemma": "hunger",
+      "pos": "noun",
+      "ko": "배고픔",
+      "form": null,
+      "synonyms": [
+        "starvation",
+        "appetite"
+      ],
+      "ipa": "/ˈhʌŋɡər/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "그러나",
+      "form": null,
+      "synonyms": [
+        "yet",
+        "still"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "곧, 이윽고",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "compelled": {
+      "lemma": "compel",
+      "pos": "verb",
+      "ko": "억지로 ~하게 하다",
+      "form": "과거형",
+      "synonyms": [
+        "forced",
+        "drove"
+      ],
+      "ipa": "/kəmˈpɛld/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform",
+        "attempt"
+      ],
+      "ipa": "/duː/"
+    },
+    "something": {
+      "lemma": "something",
+      "pos": "pronoun",
+      "ko": "무언가",
+      "form": null,
+      "ipa": "/ˈsʌmθɪŋ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~이므로 / ~만큼 (as ~ as)",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "noun",
+      "ko": "사용",
+      "form": null,
+      "synonyms": [
+        "employment",
+        "application"
+      ],
+      "ipa": "/juːs/"
+    },
+    "force": {
+      "lemma": "force",
+      "pos": "noun",
+      "ko": "힘, 폭력",
+      "form": null,
+      "synonyms": [
+        "strength",
+        "violence"
+      ],
+      "ipa": "/fɔːrs/"
+    },
+    "promise": {
+      "lemma": "promise",
+      "pos": "verb",
+      "ko": "~할 가망이 있다, 약속하다",
+      "form": null,
+      "synonyms": [
+        "suggest",
+        "guarantee"
+      ],
+      "ipa": "/ˈprɑːməs/"
+    },
+    "success": {
+      "lemma": "success",
+      "pos": "noun",
+      "ko": "성공",
+      "form": null,
+      "synonyms": [
+        "victory",
+        "triumph"
+      ],
+      "ipa": "/səkˈsɛs/"
+    },
+    "determined": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "결심하다",
+      "form": "과거형",
+      "synonyms": [
+        "decided",
+        "resolved"
+      ],
+      "ipa": "/dɪˈtɜːrmənd/"
+    },
+    "resort": {
+      "lemma": "resort",
+      "pos": "verb",
+      "ko": "resort to: ~에 의지하다, ~을 쓰다",
+      "form": null,
+      "synonyms": [
+        "turn",
+        "fall back"
+      ],
+      "ipa": "/rɪˈzɔːrt/"
+    },
+    "artifice": {
+      "lemma": "artifice",
+      "pos": "noun",
+      "ko": "꾀, 계략",
+      "form": null,
+      "synonyms": [
+        "trickery",
+        "cunning"
+      ],
+      "ipa": "/ˈɑːrtəfɪs/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다 (go up to: ~에게 다가가다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "walking",
+        "approaching"
+      ],
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "가까이",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "friendly": {
+      "lemma": "friendly",
+      "pos": "adjective",
+      "ko": "다정한, 친근한",
+      "form": null,
+      "synonyms": [
+        "kindly",
+        "warm"
+      ],
+      "ipa": "/ˈfrɛndli/"
+    },
+    "fashion": {
+      "lemma": "fashion",
+      "pos": "noun",
+      "ko": "방식 (in ~ fashion: ~한 태도로)",
+      "form": null,
+      "synonyms": [
+        "manner",
+        "way"
+      ],
+      "ipa": "/ˈfæʃən/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "remarked"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "cannot": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다 (cannot help -ing: ~하지 않을 수 없다)",
+      "form": "부정형",
+      "ipa": "/ˈkænɑt/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "cannot help -ing: ~하지 않을 수 없다",
+      "form": null,
+      "synonyms": [
+        "avoid",
+        "resist"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "telling",
+        "stating"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "많이 / 훨씬 (비교급 강조)",
+      "form": null,
+      "synonyms": [
+        "greatly",
+        "far"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "admire": {
+      "lemma": "admire",
+      "pos": "verb",
+      "ko": "감탄하다, 존경하다",
+      "form": null,
+      "synonyms": [
+        "praise",
+        "adore"
+      ],
+      "ipa": "/ædˈmaɪr/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "magnificent": {
+      "lemma": "magnificent",
+      "pos": "adjective",
+      "ko": "훌륭한, 멋진",
+      "form": null,
+      "synonyms": [
+        "splendid",
+        "superb"
+      ],
+      "ipa": "/mæɡˈnɪfəsənt/"
+    },
+    "figure": {
+      "lemma": "figure",
+      "pos": "noun",
+      "ko": "몸매, 모습",
+      "form": null,
+      "synonyms": [
+        "shape",
+        "build"
+      ],
+      "ipa": "/ˈfɪɡjər/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "정말 ~한! (감탄) / 무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "훌륭한, 멋진",
+      "form": null,
+      "synonyms": [
+        "handsome",
+        "excellent"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": null,
+      "synonyms": [
+        "skull"
+      ],
+      "ipa": "/hɛd/"
+    },
+    "powerful": {
+      "lemma": "powerful",
+      "pos": "adjective",
+      "ko": "힘센, 강력한",
+      "form": null,
+      "synonyms": [
+        "strong",
+        "mighty"
+      ],
+      "ipa": "/ˈpaʊərfəl/"
+    },
+    "shoulders": {
+      "lemma": "shoulder",
+      "pos": "noun",
+      "ko": "어깨",
+      "form": "복수형",
+      "synonyms": [
+        "upper arms"
+      ],
+      "ipa": "/ˈʃoʊldərz/"
+    },
+    "thighs": {
+      "lemma": "thigh",
+      "pos": "noun",
+      "ko": "넓적다리, 허벅지",
+      "form": "복수형",
+      "synonyms": [
+        "legs",
+        "haunches"
+      ],
+      "ipa": "/θaɪz/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "친애하는, 사랑하는",
+      "form": null,
+      "synonyms": [
+        "beloved",
+        "good"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상 (in the world: 도대체)",
+      "form": null,
+      "synonyms": [
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "makes": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "~하게 하다 (사역)",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "causes",
+        "forces"
+      ],
+      "ipa": "/meɪks/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "wear": {
+      "lemma": "wear",
+      "pos": "verb",
+      "ko": "달고 있다, 몸에 지니다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "bear"
+      ],
+      "ipa": "/wɛr/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "determiner",
+      "ko": "그 (복수)",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "ugly": {
+      "lemma": "ugly",
+      "pos": "adjective",
+      "ko": "보기 흉한, 못생긴",
+      "form": null,
+      "synonyms": [
+        "hideous",
+        "unattractive"
+      ],
+      "ipa": "/ˈʌɡli/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~임에 틀림없다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "(~이 …하다고) 느끼다",
+      "form": null,
+      "synonyms": [
+        "consider",
+        "feel"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "awkward": {
+      "lemma": "awkward",
+      "pos": "adjective",
+      "ko": "거추장스러운, 불편한",
+      "form": null,
+      "synonyms": [
+        "clumsy",
+        "inconvenient"
+      ],
+      "ipa": "/ˈɑːkwərd/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "unsightly": {
+      "lemma": "unsightly",
+      "pos": "adjective",
+      "ko": "보기 흉한",
+      "form": null,
+      "synonyms": [
+        "ugly",
+        "unattractive"
+      ],
+      "ipa": "/ənˈsaɪtli/"
+    },
+    "believe": {
+      "lemma": "believe",
+      "pos": "verb",
+      "ko": "믿다",
+      "form": null,
+      "synonyms": [
+        "trust",
+        "accept"
+      ],
+      "ipa": "/bɪˈliːv/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "better": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "더 잘 (do better: 더 낫다)",
+      "form": "비교급",
+      "synonyms": [
+        "preferably"
+      ],
+      "ipa": "/ˈbɛtər/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "foolish": {
+      "lemma": "foolish",
+      "pos": "adjective",
+      "ko": "어리석은",
+      "form": null,
+      "synonyms": [
+        "silly",
+        "stupid"
+      ],
+      "ipa": "/ˈfuːlɪʃ/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adverb",
+      "ko": "~할 만큼 충분히",
+      "form": null,
+      "synonyms": [
+        "sufficiently"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "persuaded": {
+      "lemma": "persuade",
+      "pos": "verb",
+      "ko": "설득하다 (be persuaded: 설득당하다)",
+      "form": "과거분사",
+      "synonyms": [
+        "convinced",
+        "talked into"
+      ],
+      "ipa": "/pərˈsweɪdɪd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "flattery": {
+      "lemma": "flattery",
+      "pos": "noun",
+      "ko": "아첨",
+      "form": null,
+      "synonyms": [
+        "praise",
+        "sweet talk"
+      ],
+      "ipa": "/ˈflætəri/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(사물을) ~하게 하다 (사역)",
+      "form": null,
+      "synonyms": [
+        "get"
+      ],
+      "ipa": "/hæv/"
+    },
+    "cut": {
+      "lemma": "cut",
+      "pos": "verb",
+      "ko": "자르다 (cut off: 잘라 내다)",
+      "form": "과거분사",
+      "synonyms": [
+        "chopped",
+        "sawn"
+      ],
+      "ipa": "/kʌt/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "떨어져, 잘려",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "having": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~하고 나서 (완료 분사구문)",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈhævɪŋ/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "lost": {
+      "lemma": "lose",
+      "pos": "verb",
+      "ko": "잃다",
+      "form": "과거분사",
+      "synonyms": [
+        "given up",
+        "forfeited"
+      ],
+      "ipa": "/lɔːst/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adjective",
+      "ko": "유일한",
+      "form": null,
+      "synonyms": [
+        "sole",
+        "single"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "means": {
+      "lemma": "means",
+      "pos": "noun",
+      "ko": "수단, 방법",
+      "form": null,
+      "synonyms": [
+        "way",
+        "method"
+      ],
+      "ipa": "/miːnz/"
+    },
+    "defence": {
+      "lemma": "defence",
+      "pos": "noun",
+      "ko": "방어, 자기를 지킴 (= defense)",
+      "form": null,
+      "synonyms": [
+        "protection",
+        "guard"
+      ],
+      "ipa": "/dɪˈfɛns/"
+    },
+    "fell": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "~이 되다 (fall prey to: ~의 먹이가 되다)",
+      "form": "과거형",
+      "synonyms": [
+        "became"
+      ],
+      "ipa": "/fɛl/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "easy": {
+      "lemma": "easy",
+      "pos": "adjective",
+      "ko": "쉬운, 손쉬운",
+      "form": null,
+      "synonyms": [
+        "simple",
+        "effortless"
+      ],
+      "ipa": "/ˈiːzi/"
+    },
+    "prey": {
+      "lemma": "prey",
+      "pos": "noun",
+      "ko": "먹이, 사냥감",
+      "form": null,
+      "synonyms": [
+        "victim",
+        "quarry"
+      ],
+      "ipa": "/preɪ/"
+    }
+  }
+}
