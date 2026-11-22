@@ -1,0 +1,1315 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-23-L1-3",
+  "date": "2026-11-23",
+  "level": 1,
+  "title": "The Fox and the Hedgehog",
+  "titleKo": "여우와 고슴도치",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_08_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_08_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-11-fables-251-275",
+    "reader": "David Barnes",
+    "durationSec": 63,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 11, 08번 트랙(전체 258번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 144,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "여우 한 마리가 물살이 센 강을 헤엄쳐 건너다가 물살에 휩쓸려, 아무리 버둥거려도 하류 쪽으로 멀리 떠내려갔다. 마침내 그는 멍들고 기진맥진한 채 강가의 고인 물에서 겨우 마른 땅으로 기어 올라왔다. 그가 꼼짝도 못 하고 그곳에 누워 있을 때, 등에 떼가 몰려와 그의 몸에 내려앉아 아무 방해도 받지 않고 피를 빨았다. 그는 너무 약해서 등에를 털어 낼 힘조차 없었기 때문이다. 고슴도치 한 마리가 그를 보고 그를 괴롭히는 파리들을 쫓아 줄까 하고 물었다. 그러나 여우는 대답했다. \"아, 제발, 아니야, 절대로 그러지 마. 이 파리들은 이미 실컷 빨아 먹어서 지금은 내게서 아주 조금만 가져가고 있거든. 그런데 네가 이것들을 쫓아 버리면, 굶주린 다른 떼가 몰려와 내게 남은 피를 모조리 빨아 먹고, 내 혈관에는 피 한 방울도 남지 않을 거야.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Fox, in swimming across a rapid river, was swept away by the current and carried a long way downstream in spite of his struggles, until at last, bruised and exhausted, he managed to scramble on to dry ground from a backwater.",
+      "ko": "여우 한 마리가 물살이 센 강을 헤엄쳐 건너다가 물살에 휩쓸려, 아무리 버둥거려도 하류 쪽으로 멀리 떠내려갔다. 마침내 그는 멍들고 기진맥진한 채 강가의 고인 물에서 겨우 마른 땅으로 기어 올라왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "As he lay there unable to move, a swarm of horseflies settled on him and sucked his blood undisturbed, for he was too weak even to shake them off.",
+      "ko": "그가 꼼짝도 못 하고 그곳에 누워 있을 때, 등에 떼가 몰려와 그의 몸에 내려앉아 아무 방해도 받지 않고 피를 빨았다. 그는 너무 약해서 등에를 털어 낼 힘조차 없었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "A Hedgehog saw him, and asked if he should brush away the flies that were tormenting him; but the Fox replied, \"Oh, please, no, not on any account, for these flies have sucked their fill and are taking very little from me now; but, if you drive them off, another swarm of hungry ones will come and suck all the blood I have left, and leave me without a drop in my veins.\"",
+      "ko": "고슴도치 한 마리가 그를 보고 그를 괴롭히는 파리들을 쫓아 줄까 하고 물었다. 그러나 여우는 대답했다. \"아, 제발, 아니야, 절대로 그러지 마. 이 파리들은 이미 실컷 빨아 먹어서 지금은 내게서 아주 조금만 가져가고 있거든. 그런데 네가 이것들을 쫓아 버리면, 굶주린 다른 떼가 몰려와 내게 남은 피를 모조리 빨아 먹고, 내 혈관에는 피 한 방울도 남지 않을 거야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "sweep away",
+      "pos": "phrasal-verb",
+      "meaningKo": "휩쓸어 가다",
+      "ipa": "/swiːp əˈweɪ/",
+      "synonyms": [
+        "carry off",
+        "wash away"
+      ],
+      "matchText": "swept away",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The flood swept away the old bridge.",
+        "ko": "홍수가 오래된 다리를 휩쓸어 갔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "in spite of",
+      "pos": "phrase",
+      "meaningKo": "~에도 불구하고",
+      "ipa": "/ɪn ˈspaɪt əv/",
+      "synonyms": [
+        "despite",
+        "regardless of"
+      ],
+      "matchText": "in spite of",
+      "sentenceId": "s1",
+      "example": {
+        "en": "We went out in spite of the rain.",
+        "ko": "우리는 비가 오는데도 밖에 나갔다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "exhausted",
+      "pos": "adjective",
+      "meaningKo": "기진맥진한, 몹시 지친",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "synonyms": [
+        "worn out",
+        "tired",
+        "weary"
+      ],
+      "matchText": "exhausted",
+      "sentenceId": "s1",
+      "example": {
+        "en": "After the race, she was exhausted.",
+        "ko": "경주가 끝나자 그녀는 기진맥진했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "torment",
+      "pos": "verb",
+      "meaningKo": "괴롭히다",
+      "ipa": "/tɔːrˈmɛnt/",
+      "synonyms": [
+        "bother",
+        "pester",
+        "trouble"
+      ],
+      "matchText": "tormenting",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The mosquitoes tormented us all night.",
+        "ko": "모기들이 밤새 우리를 괴롭혔다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "on any account",
+      "pos": "phrase",
+      "meaningKo": "(부정문에서) 절대로, 어떤 일이 있어도",
+      "ipa": "/ɑːn ˈɛni əˈkaʊnt/",
+      "synonyms": [
+        "in any case",
+        "for any reason"
+      ],
+      "matchText": "on any account",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Do not open this door on any account.",
+        "ko": "어떤 일이 있어도 이 문을 열지 마라."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Fox,",
+          "role": "S",
+          "sub": false,
+          "ko": "여우 한 마리가"
+        },
+        {
+          "text": "in swimming across a rapid river,",
+          "role": "M",
+          "sub": false,
+          "ko": "물살 센 강을 헤엄쳐 건너다가"
+        },
+        {
+          "text": "was swept away",
+          "role": "V",
+          "sub": false,
+          "ko": "휩쓸려 갔다"
+        },
+        {
+          "text": "by the current",
+          "role": "M",
+          "sub": false,
+          "ko": "물살에 의해"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "carried",
+          "role": "V",
+          "sub": false,
+          "ko": "실려 갔다"
+        },
+        {
+          "text": "a long way downstream",
+          "role": "M",
+          "sub": false,
+          "ko": "하류로 멀리"
+        },
+        {
+          "text": "in spite of his struggles,",
+          "role": "M",
+          "sub": false,
+          "ko": "버둥거렸는데도"
+        },
+        {
+          "text": "until",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때까지"
+        },
+        {
+          "text": "at last,",
+          "role": "M",
+          "sub": true,
+          "ko": "마침내"
+        },
+        {
+          "text": "bruised and exhausted,",
+          "role": "M",
+          "sub": true,
+          "ko": "멍들고 기진맥진한 채"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "managed to scramble",
+          "role": "V",
+          "sub": true,
+          "ko": "겨우 기어 올라왔다"
+        },
+        {
+          "text": "on to dry ground",
+          "role": "M",
+          "sub": true,
+          "ko": "마른 땅 위로"
+        },
+        {
+          "text": "from a backwater.",
+          "role": "M",
+          "sub": true,
+          "ko": "강가의 고인 물에서"
+        }
+      ],
+      "skeleton": "A Fox was swept away and carried (a long way)",
+      "explanation": "주어 A Fox 뒤에 동사 두 개(was swept away, (was) carried)가 and로 이어져요. 둘 다 '~당했다'는 수동태예요. in swimming ~은 '헤엄치던 중에', in spite of ~는 '~에도 불구하고'예요. until 이하는 '마침내 ~할 때까지'라는 시간의 절이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "As",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "lay",
+          "role": "V",
+          "sub": true,
+          "ko": "누워 있었다"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": true,
+          "ko": "거기에"
+        },
+        {
+          "text": "unable to move,",
+          "role": "C",
+          "sub": true,
+          "ko": "움직이지 못한 채"
+        },
+        {
+          "text": "a swarm of horseflies",
+          "role": "S",
+          "sub": false,
+          "ko": "등에 떼가"
+        },
+        {
+          "text": "settled",
+          "role": "V",
+          "sub": false,
+          "ko": "내려앉았다"
+        },
+        {
+          "text": "on him",
+          "role": "M",
+          "sub": false,
+          "ko": "그의 몸에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "sucked",
+          "role": "V",
+          "sub": false,
+          "ko": "빨았다"
+        },
+        {
+          "text": "his blood",
+          "role": "O",
+          "sub": false,
+          "ko": "그의 피를"
+        },
+        {
+          "text": "undisturbed,",
+          "role": "M",
+          "sub": false,
+          "ko": "방해받지 않고"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "too weak even to shake them off.",
+          "role": "C",
+          "sub": true,
+          "ko": "너무 약해서 그것들을 털어 낼 수조차 없었다"
+        }
+      ],
+      "skeleton": "a swarm of horseflies settled and sucked his blood",
+      "explanation": "As 이하는 '~할 때'라는 시간의 절이에요. 주어는 a swarm of horseflies(등에 떼), 동사는 settled와 sucked예요. for 이하는 이유를 덧붙여요. too ~ to …는 '너무 ~해서 …할 수 없다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "too + 형용사 + to부정사 (너무 ~해서 …할 수 없다)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "too weak even to shake them off"
+      ],
+      "explanation": "too weak to shake them off는 '그것들을 털어 내기에는 너무 약하다', 즉 '너무 약해서 털어 낼 수 없다'는 뜻이에요. even(~조차)이 들어가서 '털어 내는 것조차 못할 만큼'이 강조됐어요.",
+      "example": {
+        "en": "The box is too heavy to lift.",
+        "ko": "그 상자는 너무 무거워서 들 수 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "if + 현재시제, will + 동사원형 (조건)",
+      "tags": [
+        "접속사",
+        "조동사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "if you drive them off",
+        "will come"
+      ],
+      "explanation": "'만약 ~하면 …할 것이다'처럼 앞으로의 일을 말할 때 if절에는 현재시제(drive)를, 결과에는 will + 동사원형(will come)을 써요. if절에 will을 넣지 않는 점에 주의해요.",
+      "example": {
+        "en": "If it rains tomorrow, we will stay home.",
+        "ko": "내일 비가 오면 우리는 집에 있을 것이다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "목적격 관계대명사 생략",
+      "tags": [
+        "관계사",
+        "생략"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "all the blood I have left"
+      ],
+      "explanation": "all the blood (that) I have left는 '내가 남겨 가진 모든 피', 즉 '내게 남은 피 전부'예요. blood 뒤에 목적격 관계대명사 that이 생략되었어요. have ~ left는 '~이 남아 있다'예요.",
+      "example": {
+        "en": "This is all the money I have left.",
+        "ko": "이것이 내게 남은 돈 전부다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "fox": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": null,
+      "synonyms": [
+        "vixen"
+      ],
+      "ipa": "/fɑːks/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~하는 중에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "swimming": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄치다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "paddling",
+        "crossing"
+      ],
+      "ipa": "/ˈswɪmɪŋ/"
+    },
+    "across": {
+      "lemma": "across",
+      "pos": "preposition",
+      "ko": "~을 가로질러",
+      "form": null,
+      "ipa": "/əˈkrɔːs/"
+    },
+    "rapid": {
+      "lemma": "rapid",
+      "pos": "adjective",
+      "ko": "(물살이) 빠른",
+      "form": null,
+      "synonyms": [
+        "fast",
+        "swift"
+      ],
+      "ipa": "/ˈræpəd/"
+    },
+    "river": {
+      "lemma": "river",
+      "pos": "noun",
+      "ko": "강",
+      "form": null,
+      "synonyms": [
+        "stream"
+      ],
+      "ipa": "/ˈrɪvər/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되었다 (수동태), ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "swept": {
+      "lemma": "sweep",
+      "pos": "verb",
+      "ko": "휩쓸다 (swept away: 휩쓸려 가다)",
+      "form": "과거분사",
+      "synonyms": [
+        "carried",
+        "washed"
+      ],
+      "ipa": "/swɛpt/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떨어져",
+      "form": null,
+      "synonyms": [
+        "off"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "current": {
+      "lemma": "current",
+      "pos": "noun",
+      "ko": "물살, 흐름",
+      "form": null,
+      "synonyms": [
+        "flow",
+        "stream"
+      ],
+      "ipa": "/ˈkɜːrənt/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "carried": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "실어 나르다",
+      "form": "과거분사",
+      "synonyms": [
+        "borne",
+        "taken"
+      ],
+      "ipa": "/ˈkɛrid/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴, 먼",
+      "form": null,
+      "synonyms": [
+        "far",
+        "great"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "거리, 길",
+      "form": null,
+      "synonyms": [
+        "distance"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "downstream": {
+      "lemma": "downstream",
+      "pos": "adverb",
+      "ko": "하류로",
+      "form": null,
+      "synonyms": [
+        "down the river"
+      ],
+      "ipa": "/ˈdaʊnˈstriːm/"
+    },
+    "spite": {
+      "lemma": "spite",
+      "pos": "noun",
+      "ko": "in spite of: ~에도 불구하고",
+      "form": null,
+      "ipa": "/spaɪt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "struggles": {
+      "lemma": "struggle",
+      "pos": "noun",
+      "ko": "몸부림, 발버둥",
+      "form": "복수형",
+      "synonyms": [
+        "efforts",
+        "fights"
+      ],
+      "ipa": "/ˈstrʌɡəlz/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "at last: 마침내",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "at last: 마침내",
+      "form": null,
+      "ipa": "/læst/"
+    },
+    "bruised": {
+      "lemma": "bruise",
+      "pos": "verb",
+      "ko": "멍들게 하다 (멍든)",
+      "form": "과거분사",
+      "synonyms": [
+        "hurt",
+        "battered"
+      ],
+      "ipa": "/bruːzd/"
+    },
+    "exhausted": {
+      "lemma": "exhausted",
+      "pos": "adjective",
+      "ko": "기진맥진한",
+      "form": null,
+      "synonyms": [
+        "worn out",
+        "tired"
+      ],
+      "ipa": "/ɪɡˈzɔːstɪd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "managed": {
+      "lemma": "manage",
+      "pos": "verb",
+      "ko": "겨우 ~해내다 (manage to)",
+      "form": "과거형",
+      "synonyms": [
+        "succeeded",
+        "contrived"
+      ],
+      "ipa": "/ˈmænədʒd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것 (to부정사), ~으로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "scramble": {
+      "lemma": "scramble",
+      "pos": "verb",
+      "ko": "허둥지둥 기어오르다",
+      "form": null,
+      "synonyms": [
+        "clamber",
+        "crawl"
+      ],
+      "ipa": "/ˈskræmbəl/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~위에 (on to: ~위로)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "dry": {
+      "lemma": "dry",
+      "pos": "adjective",
+      "ko": "마른",
+      "form": null,
+      "synonyms": [
+        "solid",
+        "firm"
+      ],
+      "ipa": "/draɪ/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅",
+      "form": null,
+      "synonyms": [
+        "land",
+        "earth"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "backwater": {
+      "lemma": "backwater",
+      "pos": "noun",
+      "ko": "(강가의) 물이 고인 곳, 후미",
+      "form": null,
+      "synonyms": [
+        "still water",
+        "pool"
+      ],
+      "ipa": "/ˈbæˌkwɔːtər/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다, 누워 있다",
+      "form": "과거형",
+      "synonyms": [
+        "rested",
+        "sprawled"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "unable": {
+      "lemma": "unable",
+      "pos": "adjective",
+      "ko": "~할 수 없는",
+      "form": null,
+      "synonyms": [
+        "powerless",
+        "helpless"
+      ],
+      "ipa": "/əˈneɪbəl/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "움직이다",
+      "form": null,
+      "synonyms": [
+        "stir",
+        "budge"
+      ],
+      "ipa": "/muːv/"
+    },
+    "swarm": {
+      "lemma": "swarm",
+      "pos": "noun",
+      "ko": "(곤충의) 떼",
+      "form": null,
+      "synonyms": [
+        "cloud",
+        "horde"
+      ],
+      "ipa": "/swɔːrm/"
+    },
+    "horseflies": {
+      "lemma": "horsefly",
+      "pos": "noun",
+      "ko": "등에 (피를 빠는 큰 파리)",
+      "form": "복수형",
+      "synonyms": [
+        "gadflies"
+      ],
+      "ipa": "/ˈhɔːrsflaɪz/"
+    },
+    "settled": {
+      "lemma": "settle",
+      "pos": "verb",
+      "ko": "내려앉다",
+      "form": "과거형",
+      "synonyms": [
+        "landed",
+        "alighted"
+      ],
+      "ipa": "/ˈsɛtəld/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "sucked": {
+      "lemma": "suck",
+      "pos": "verb",
+      "ko": "빨다",
+      "form": "과거형",
+      "synonyms": [
+        "drew",
+        "drank"
+      ],
+      "ipa": "/sʌkt/"
+    },
+    "blood": {
+      "lemma": "blood",
+      "pos": "noun",
+      "ko": "피",
+      "form": null,
+      "synonyms": [
+        "gore"
+      ],
+      "ipa": "/blʌd/"
+    },
+    "undisturbed": {
+      "lemma": "undisturbed",
+      "pos": "adjective",
+      "ko": "방해받지 않고",
+      "form": null,
+      "synonyms": [
+        "unbothered",
+        "in peace"
+      ],
+      "ipa": "/ˌʌndɪˈstɜːrbd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "synonyms": [
+        "overly",
+        "excessively"
+      ],
+      "ipa": "/tuː/"
+    },
+    "weak": {
+      "lemma": "weak",
+      "pos": "adjective",
+      "ko": "약한",
+      "form": null,
+      "synonyms": [
+        "feeble",
+        "frail"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "shake": {
+      "lemma": "shake",
+      "pos": "verb",
+      "ko": "흔들다 (shake off: 털어 내다)",
+      "form": null,
+      "synonyms": [
+        "brush",
+        "throw"
+      ],
+      "ipa": "/ʃeɪk/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "떨어져서, 없어지게",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "hedgehog": {
+      "lemma": "hedgehog",
+      "pos": "noun",
+      "ko": "고슴도치",
+      "form": null,
+      "synonyms": [
+        "urchin"
+      ],
+      "ipa": "/ˈhɛdʒˌhɑːɡ/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "noticed",
+        "spotted"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거형",
+      "synonyms": [
+        "inquired",
+        "questioned"
+      ],
+      "ipa": "/æskt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~인지 (아닌지) / 만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "should": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~할까요 (제안)",
+      "form": "과거형",
+      "ipa": "/ʃʊd/"
+    },
+    "brush": {
+      "lemma": "brush",
+      "pos": "verb",
+      "ko": "쓸어 내다, 털다 (brush away)",
+      "form": null,
+      "synonyms": [
+        "sweep",
+        "wipe"
+      ],
+      "ipa": "/brʌʃ/"
+    },
+    "flies": {
+      "lemma": "fly",
+      "pos": "noun",
+      "ko": "파리",
+      "form": "복수형",
+      "synonyms": [
+        "insects",
+        "bugs"
+      ],
+      "ipa": "/flaɪz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~하고 있었다 (진행형)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "tormenting": {
+      "lemma": "torment",
+      "pos": "verb",
+      "ko": "괴롭히다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "bothering",
+        "pestering"
+      ],
+      "ipa": "/ˈtɔːrˌmɛntɪŋ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "answered",
+        "responded"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "아, 오",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "제발",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "아니",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다, ~아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~도",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "account": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "not on any account: 절대로 ~않다",
+      "form": null,
+      "synonyms": [
+        "reason",
+        "case"
+      ],
+      "ipa": "/əˈkaʊnt/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료) / 가지다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의, 그것들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "fill": {
+      "lemma": "fill",
+      "pos": "noun",
+      "ko": "실컷, 배부름 (have one's fill: 실컷 먹다)",
+      "form": null,
+      "synonyms": [
+        "plenty",
+        "enough"
+      ],
+      "ipa": "/fɪl/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~하고 있다 (진행형)",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "taking": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "가져가다, 취하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "drawing",
+        "getting"
+      ],
+      "ipa": "/ˈteɪkɪŋ/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주, 매우",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "pronoun",
+      "ko": "조금, 적은 양",
+      "form": null,
+      "ipa": "/ˈlɪtəl/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금",
+      "form": null,
+      "synonyms": [
+        "at present"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "drive": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "쫓아 버리다 (drive off)",
+      "form": null,
+      "synonyms": [
+        "chase",
+        "send"
+      ],
+      "ipa": "/draɪv/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "determiner",
+      "ko": "또 다른",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "hungry": {
+      "lemma": "hungry",
+      "pos": "adjective",
+      "ko": "배고픈, 굶주린",
+      "form": null,
+      "synonyms": [
+        "starving",
+        "ravenous"
+      ],
+      "ipa": "/ˈhʌŋɡri/"
+    },
+    "ones": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "것들 (앞의 명사 대신)",
+      "form": "복수형",
+      "ipa": "/wʌnz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive",
+        "appear"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "suck": {
+      "lemma": "suck",
+      "pos": "verb",
+      "ko": "빨다",
+      "form": null,
+      "synonyms": [
+        "drain",
+        "draw"
+      ],
+      "ipa": "/sʌk/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "남기다 (have ~ left: ~이 남아 있다)",
+      "form": "과거분사",
+      "synonyms": [
+        "remaining"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "(~한 상태로) 남겨 두다",
+      "form": null,
+      "synonyms": [
+        "abandon",
+        "let"
+      ],
+      "ipa": "/liːv/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "drop": {
+      "lemma": "drop",
+      "pos": "noun",
+      "ko": "방울",
+      "form": null,
+      "synonyms": [
+        "droplet",
+        "bit"
+      ],
+      "ipa": "/drɑːp/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "veins": {
+      "lemma": "vein",
+      "pos": "noun",
+      "ko": "혈관, 정맥",
+      "form": "복수형",
+      "synonyms": [
+        "blood vessels"
+      ],
+      "ipa": "/veɪnz/"
+    }
+  }
+}

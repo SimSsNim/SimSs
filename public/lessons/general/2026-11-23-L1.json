@@ -1,0 +1,1183 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-23-L1",
+  "date": "2026-11-23",
+  "level": 1,
+  "title": "The Lion and the Boar",
+  "titleKo": "사자와 멧돼지",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_03_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_03_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-4-fables-76-100",
+    "reader": "Vicki Barbour",
+    "durationSec": 68,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 04, 03번 트랙(전체 78번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 116,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "한여름, 덥고 목마른 어느 날, 사자 한 마리와 멧돼지 한 마리가 물을 마시려고 같은 때에 작은 샘으로 내려왔다. 눈 깜짝할 사이에 그들은 누가 먼저 마셔야 하는지를 두고 다투고 있었다. 말다툼은 곧 싸움이 되었고, 그들은 있는 힘을 다해 사납게 서로를 공격했다. 얼마 뒤 숨을 돌리려고 잠깐 멈추었을 때, 그들은 위쪽 바위에 앉아 있는 독수리(대머리수리) 몇 마리를 보았다. 독수리들은 분명히 둘 중 하나가 죽기를 기다리고 있었고, 그러면 날아 내려와 그 시체를 먹을 참이었다. 그 광경을 보자 그들은 곧바로 정신이 번쩍 들었고, \"싸우다가 독수리에게 먹히느니 친구가 되는 편이 훨씬 낫겠어.\"라고 말하며 화해했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "One hot and thirsty day in the height of summer a Lion and a Boar came down to a little spring at the same moment to drink.",
+      "ko": "한여름, 덥고 목마른 어느 날, 사자 한 마리와 멧돼지 한 마리가 물을 마시려고 같은 때에 작은 샘으로 내려왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "In a trice they were quarrelling as to who should drink first.",
+      "ko": "눈 깜짝할 사이에 그들은 누가 먼저 마셔야 하는지를 두고 다투고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The quarrel soon became a fight and they attacked one another with the utmost fury.",
+      "ko": "말다툼은 곧 싸움이 되었고, 그들은 있는 힘을 다해 사납게 서로를 공격했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Presently, stopping for a moment to take breath, they saw some vultures seated on a rock above evidently waiting for one of them to be killed, when they would fly down and feed upon the carcase.",
+      "ko": "얼마 뒤 숨을 돌리려고 잠깐 멈추었을 때, 그들은 위쪽 바위에 앉아 있는 독수리(대머리수리) 몇 마리를 보았다. 독수리들은 분명히 둘 중 하나가 죽기를 기다리고 있었고, 그러면 날아 내려와 그 시체를 먹을 참이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The sight sobered them at once, and they made up their quarrel, saying, \"We had much better be friends than fight and be eaten by vultures.\"",
+      "ko": "그 광경을 보자 그들은 곧바로 정신이 번쩍 들었고, \"싸우다가 독수리에게 먹히느니 친구가 되는 편이 훨씬 낫겠어.\"라고 말하며 화해했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "in a trice",
+      "pos": "phrase",
+      "meaningKo": "눈 깜짝할 사이에, 순식간에",
+      "ipa": "/ɪn ə ˈtraɪs/",
+      "synonyms": [
+        "in an instant",
+        "in a flash",
+        "at once"
+      ],
+      "matchText": "In a trice",
+      "sentenceId": "s2",
+      "example": {
+        "en": "In a trice, the room was clean.",
+        "ko": "순식간에 방이 깨끗해졌다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "quarrel",
+      "pos": "verb",
+      "meaningKo": "다투다, 말다툼하다",
+      "ipa": "/ˈkwɔːrəl/",
+      "synonyms": [
+        "argue",
+        "fight",
+        "squabble"
+      ],
+      "matchText": "quarrelling",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The two brothers often quarrel over toys.",
+        "ko": "두 형제는 장난감 때문에 자주 다툰다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "utmost",
+      "pos": "adjective",
+      "meaningKo": "최대의, 극도의",
+      "ipa": "/ˈʌtmoʊst/",
+      "synonyms": [
+        "greatest",
+        "highest",
+        "extreme"
+      ],
+      "matchText": "utmost",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She did the work with the utmost care.",
+        "ko": "그녀는 최대한 조심해서 그 일을 했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "evidently",
+      "pos": "adverb",
+      "meaningKo": "분명히, 보아하니",
+      "ipa": "/ˈɛvɪdəntli/",
+      "synonyms": [
+        "clearly",
+        "obviously",
+        "apparently"
+      ],
+      "matchText": "evidently",
+      "sentenceId": "s4",
+      "example": {
+        "en": "He was evidently tired after the long walk.",
+        "ko": "그는 오래 걸은 뒤라 분명히 지쳐 있었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "make up",
+      "pos": "phrasal-verb",
+      "meaningKo": "(다툼을) 끝내고 화해하다",
+      "ipa": "/meɪk ʌp/",
+      "synonyms": [
+        "reconcile",
+        "settle",
+        "make peace"
+      ],
+      "matchText": "made up their quarrel",
+      "sentenceId": "s5",
+      "example": {
+        "en": "They had a fight, but they made up the next day.",
+        "ko": "그들은 싸웠지만 다음 날 화해했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "One hot and thirsty day",
+          "role": "M",
+          "sub": false,
+          "ko": "덥고 목마른 어느 날"
+        },
+        {
+          "text": "in the height of summer",
+          "role": "M",
+          "sub": false,
+          "ko": "한여름에"
+        },
+        {
+          "text": "a Lion and a Boar",
+          "role": "S",
+          "sub": false,
+          "ko": "사자와 멧돼지가"
+        },
+        {
+          "text": "came down",
+          "role": "V",
+          "sub": false,
+          "ko": "내려왔다"
+        },
+        {
+          "text": "to a little spring",
+          "role": "M",
+          "sub": false,
+          "ko": "작은 샘으로"
+        },
+        {
+          "text": "at the same moment",
+          "role": "M",
+          "sub": false,
+          "ko": "같은 때에"
+        },
+        {
+          "text": "to drink.",
+          "role": "M",
+          "sub": false,
+          "ko": "마시려고"
+        }
+      ],
+      "skeleton": "a Lion and a Boar came down",
+      "explanation": "문장 앞의 One hot and thirsty day와 in the height of summer는 '언제'를 알려 주는 말(M)이에요. 진짜 주어는 a Lion and a Boar, 동사는 came down이에요. 뒤의 to a little spring(어디로), at the same moment(언제), to drink(왜 — 마시려고)는 모두 꾸며 주는 말이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Presently,",
+          "role": "M",
+          "sub": false,
+          "ko": "얼마 뒤"
+        },
+        {
+          "text": "stopping for a moment",
+          "role": "M",
+          "sub": false,
+          "ko": "잠깐 멈추었을 때"
+        },
+        {
+          "text": "to take breath,",
+          "role": "M",
+          "sub": false,
+          "ko": "숨을 돌리려고"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "saw",
+          "role": "V",
+          "sub": false,
+          "ko": "보았다"
+        },
+        {
+          "text": "some vultures",
+          "role": "O",
+          "sub": false,
+          "ko": "독수리 몇 마리를"
+        },
+        {
+          "text": "seated on a rock above",
+          "role": "OC",
+          "sub": false,
+          "ko": "위쪽 바위에 앉아 있는"
+        },
+        {
+          "text": "evidently waiting for one of them",
+          "role": "OC",
+          "sub": false,
+          "ko": "분명히 둘 중 하나를 기다리며"
+        },
+        {
+          "text": "to be killed,",
+          "role": "M",
+          "sub": false,
+          "ko": "죽임을 당하기를"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그때에는"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "would fly down",
+          "role": "V",
+          "sub": true,
+          "ko": "날아 내려와"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "feed upon the carcase.",
+          "role": "V",
+          "sub": true,
+          "ko": "시체를 먹을 것이었다"
+        }
+      ],
+      "skeleton": "they saw some vultures (seated / waiting)",
+      "explanation": "뼈대는 they saw some vultures(그들은 독수리들을 보았다)예요. 앞의 stopping ~은 '멈추었을 때'라는 뜻의 분사구문이에요. seated ~와 waiting ~은 독수리들이 어떤 상태였는지 설명해요(앉아 있고, 기다리고 있는). when 이하는 '그러면 그때 ~할 참이었다'라고 뒤에 이어질 일을 덧붙이는 절이에요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The sight",
+          "role": "S",
+          "sub": false,
+          "ko": "그 광경이"
+        },
+        {
+          "text": "sobered",
+          "role": "V",
+          "sub": false,
+          "ko": "정신이 들게 했다"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "sub": false,
+          "ko": "그들을"
+        },
+        {
+          "text": "at once,",
+          "role": "M",
+          "sub": false,
+          "ko": "곧바로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "made up",
+          "role": "V",
+          "sub": false,
+          "ko": "끝냈다(화해했다)"
+        },
+        {
+          "text": "their quarrel,",
+          "role": "O",
+          "sub": false,
+          "ko": "그들의 다툼을"
+        },
+        {
+          "text": "saying,",
+          "role": "M",
+          "sub": false,
+          "ko": "말하면서"
+        },
+        {
+          "text": "\"We had much better be friends",
+          "role": "O",
+          "sub": true,
+          "ko": "\"우리는 친구가 되는 편이 훨씬 낫다"
+        },
+        {
+          "text": "than fight and be eaten by vultures.\"",
+          "role": "M",
+          "sub": true,
+          "ko": "싸우다가 독수리에게 먹히는 것보다\""
+        }
+      ],
+      "skeleton": "The sight sobered them, and they made up their quarrel",
+      "explanation": "두 문장이 and로 이어져 있어요. 앞 문장은 '그 광경이 그들을 정신 차리게 했다'처럼 사물이 주어인 문장이에요. saying 이하는 '~라고 말하면서'라는 분사구문이고, 따옴표 안의 말이 saying의 내용이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "had better + 동사원형 (~하는 편이 낫다)",
+      "tags": [
+        "조동사",
+        "비교"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "had much better be friends than fight"
+      ],
+      "explanation": "had better 뒤에는 동사원형이 와서 '~하는 편이 낫다'는 뜻이 돼요. much는 better를 강조해서 '훨씬 더 낫다'가 돼요. than 뒤에도 동사원형(fight, be eaten)이 와서 '…하느니 ~하는 게 낫다'를 비교해요.",
+      "example": {
+        "en": "You had better go to bed early.",
+        "ko": "너는 일찍 자는 편이 낫겠다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "to부정사의 수동형 (to be + 과거분사)",
+      "tags": [
+        "to부정사",
+        "수동태"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "to be killed"
+      ],
+      "explanation": "to kill은 '죽이다', to be killed는 '죽임을 당하다'예요. waiting for one of them to be killed는 '그들 중 하나가 죽임을 당하기를 기다리는'이라는 뜻이에요. for 뒤의 one of them이 to be killed의 의미상 주어예요.",
+      "example": {
+        "en": "The dog wants to be loved.",
+        "ko": "그 개는 사랑받고 싶어 한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "as to + 의문사절 (~에 관해서)",
+      "tags": [
+        "전치사",
+        "명사절"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "as to who should drink first"
+      ],
+      "explanation": "as to는 '~에 관해서, ~을 두고'라는 뜻의 전치사처럼 써요. 뒤에 who should drink first(누가 먼저 마셔야 하는지)라는 의문사절이 왔어요. about와 비슷한 뜻이에요.",
+      "example": {
+        "en": "We talked as to where we should go.",
+        "ko": "우리는 어디로 가야 할지를 두고 이야기했다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느 (하나의)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "hot": {
+      "lemma": "hot",
+      "pos": "adjective",
+      "ko": "더운, 뜨거운",
+      "form": null,
+      "synonyms": [
+        "warm",
+        "scorching"
+      ],
+      "ipa": "/hɑːt/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "thirsty": {
+      "lemma": "thirsty",
+      "pos": "adjective",
+      "ko": "목마른",
+      "form": null,
+      "synonyms": [
+        "parched",
+        "dry"
+      ],
+      "ipa": "/ˈθɜːrsti/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "height": {
+      "lemma": "height",
+      "pos": "noun",
+      "ko": "한창, 절정",
+      "form": null,
+      "synonyms": [
+        "peak",
+        "middle"
+      ],
+      "ipa": "/haɪt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~중에서",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "summer": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름",
+      "form": null,
+      "synonyms": [
+        "summertime"
+      ],
+      "ipa": "/ˈsʌmər/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lion": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": null,
+      "synonyms": [
+        "big cat"
+      ],
+      "ipa": "/ˈlaɪən/"
+    },
+    "boar": {
+      "lemma": "boar",
+      "pos": "noun",
+      "ko": "멧돼지",
+      "form": null,
+      "synonyms": [
+        "wild pig",
+        "wild hog"
+      ],
+      "ipa": "/bɔːr/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come down: 내려오다)",
+      "form": "과거형",
+      "synonyms": [
+        "went",
+        "arrived"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~으로, ~하려고 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "샘",
+      "form": null,
+      "synonyms": [
+        "fountain",
+        "well"
+      ],
+      "ipa": "/sprɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (때·장소)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "form": null,
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "moment": {
+      "lemma": "moment",
+      "pos": "noun",
+      "ko": "순간, 때",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "time"
+      ],
+      "ipa": "/ˈmoʊmənt/"
+    },
+    "drink": {
+      "lemma": "drink",
+      "pos": "verb",
+      "ko": "마시다",
+      "form": null,
+      "synonyms": [
+        "sip",
+        "swallow"
+      ],
+      "ipa": "/drɪŋk/"
+    },
+    "trice": {
+      "lemma": "trice",
+      "pos": "noun",
+      "ko": "순간 (in a trice: 눈 깜짝할 사이에)",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "flash"
+      ],
+      "ipa": "/traɪs/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~하고 있었다 (진행형)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "quarrelling": {
+      "lemma": "quarrel",
+      "pos": "verb",
+      "ko": "다투다, 말다툼하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "arguing",
+        "fighting"
+      ],
+      "ipa": "/ˈkwɔːrəlɪŋ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "as to: ~에 관해서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "누가",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 하다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adverb",
+      "ko": "먼저, 처음으로",
+      "form": null,
+      "synonyms": [
+        "before",
+        "earlier"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "quarrel": {
+      "lemma": "quarrel",
+      "pos": "noun",
+      "ko": "말다툼, 싸움",
+      "form": null,
+      "synonyms": [
+        "argument",
+        "dispute"
+      ],
+      "ipa": "/ˈkwɔːrəl/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "shortly",
+        "quickly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "became": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": "과거형",
+      "synonyms": [
+        "turned into",
+        "grew"
+      ],
+      "ipa": "/bɪˈkeɪm/"
+    },
+    "fight": {
+      "lemma": "fight",
+      "pos": "noun",
+      "ko": "싸움 / 싸우다",
+      "form": null,
+      "synonyms": [
+        "battle",
+        "struggle"
+      ],
+      "ipa": "/faɪt/"
+    },
+    "attacked": {
+      "lemma": "attack",
+      "pos": "verb",
+      "ko": "공격하다",
+      "form": "과거형",
+      "synonyms": [
+        "assaulted",
+        "charged"
+      ],
+      "ipa": "/əˈtækt/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "pronoun",
+      "ko": "다른 하나 (one another: 서로)",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "utmost": {
+      "lemma": "utmost",
+      "pos": "adjective",
+      "ko": "최대의, 극도의",
+      "form": null,
+      "synonyms": [
+        "greatest",
+        "extreme"
+      ],
+      "ipa": "/ˈʌtˌmoʊst/"
+    },
+    "fury": {
+      "lemma": "fury",
+      "pos": "noun",
+      "ko": "격노, 맹렬함",
+      "form": null,
+      "synonyms": [
+        "rage",
+        "anger"
+      ],
+      "ipa": "/ˈfjʊri/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "얼마 뒤, 곧",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "stopping": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "pausing",
+        "halting"
+      ],
+      "ipa": "/ˈstɑːpɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~동안, ~을",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "취하다 (take breath: 숨을 돌리다)",
+      "form": null,
+      "synonyms": [
+        "catch",
+        "get"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "breath": {
+      "lemma": "breath",
+      "pos": "noun",
+      "ko": "숨, 호흡",
+      "form": null,
+      "synonyms": [
+        "air",
+        "rest"
+      ],
+      "ipa": "/brɛθ/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "noticed",
+        "spotted"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "몇몇의, 약간의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "vultures": {
+      "lemma": "vulture",
+      "pos": "noun",
+      "ko": "대머리수리, 독수리",
+      "form": "복수형",
+      "synonyms": [
+        "buzzards",
+        "scavengers"
+      ],
+      "ipa": "/ˈvʌltʃərz/"
+    },
+    "seated": {
+      "lemma": "seat",
+      "pos": "verb",
+      "ko": "앉아 있는",
+      "form": "과거분사",
+      "synonyms": [
+        "sitting",
+        "perched"
+      ],
+      "ipa": "/ˈsiːtɪd/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "rock": {
+      "lemma": "rock",
+      "pos": "noun",
+      "ko": "바위",
+      "form": null,
+      "synonyms": [
+        "stone",
+        "boulder"
+      ],
+      "ipa": "/rɑːk/"
+    },
+    "above": {
+      "lemma": "above",
+      "pos": "adverb",
+      "ko": "위에, 위쪽에",
+      "form": null,
+      "synonyms": [
+        "overhead",
+        "higher up"
+      ],
+      "ipa": "/əˈbʌv/"
+    },
+    "evidently": {
+      "lemma": "evidently",
+      "pos": "adverb",
+      "ko": "분명히, 보아하니",
+      "form": null,
+      "synonyms": [
+        "clearly",
+        "obviously"
+      ],
+      "ipa": "/ˈɛvədəntli/"
+    },
+    "waiting": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "expecting",
+        "hoping"
+      ],
+      "ipa": "/ˈweɪtɪŋ/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을, 그들",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~되다 (수동태), ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "killed": {
+      "lemma": "kill",
+      "pos": "verb",
+      "ko": "죽이다",
+      "form": "과거분사",
+      "synonyms": [
+        "slain",
+        "murdered"
+      ],
+      "ipa": "/kɪld/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "그때(에), ~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~할 참이다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "fly": {
+      "lemma": "fly",
+      "pos": "verb",
+      "ko": "날다",
+      "form": null,
+      "synonyms": [
+        "soar",
+        "swoop"
+      ],
+      "ipa": "/flaɪ/"
+    },
+    "feed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "먹다 (feed upon: ~을 먹고 살다)",
+      "form": null,
+      "synonyms": [
+        "eat",
+        "dine"
+      ],
+      "ipa": "/fiːd/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~을, ~위에 (on과 같은 뜻)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "carcase": {
+      "lemma": "carcase",
+      "pos": "noun",
+      "ko": "(동물의) 시체 (= carcass)",
+      "form": null,
+      "synonyms": [
+        "corpse",
+        "body",
+        "remains"
+      ],
+      "ipa": "/ˈkɑːrkəs/"
+    },
+    "sight": {
+      "lemma": "sight",
+      "pos": "noun",
+      "ko": "광경, 보는 것",
+      "form": null,
+      "synonyms": [
+        "view",
+        "scene"
+      ],
+      "ipa": "/saɪt/"
+    },
+    "sobered": {
+      "lemma": "sober",
+      "pos": "verb",
+      "ko": "정신이 들게 하다, 진정시키다",
+      "form": "과거형",
+      "synonyms": [
+        "calmed",
+        "steadied"
+      ],
+      "ipa": "/ˈsoʊbərd/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "at once: 곧바로, 즉시",
+      "form": null,
+      "synonyms": [
+        "immediately"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "make up: (다툼을) 끝내다, 화해하다",
+      "form": "과거형",
+      "synonyms": [
+        "settled",
+        "ended"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "make up의 일부 (완전히 끝냄)",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "telling",
+        "declaring"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "had better: ~하는 편이 낫다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "훨씬 (비교급 강조)",
+      "form": null,
+      "synonyms": [
+        "far",
+        "a lot"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "better": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "더 낫게 (had better: ~하는 편이 낫다)",
+      "form": "비교급",
+      "synonyms": [
+        "preferably"
+      ],
+      "ipa": "/ˈbɛtər/"
+    },
+    "friends": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": "복수형",
+      "synonyms": [
+        "allies",
+        "companions"
+      ],
+      "ipa": "/frɛndz/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "eaten": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다 (be eaten: 먹히다)",
+      "form": "과거분사",
+      "synonyms": [
+        "devoured",
+        "consumed"
+      ],
+      "ipa": "/ˈiːtən/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    }
+  }
+}
