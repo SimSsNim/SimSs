@@ -1,0 +1,1722 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-23-L3-3",
+  "date": "2026-11-23",
+  "level": 3,
+  "title": "How the Whale Got His Throat",
+  "titleKo": "고래는 어떻게 목구멍을 얻었을까",
+  "genre": "short-story",
+  "tags": [
+    "Rudyard Kipling",
+    "Just So Stories",
+    "short-story"
+  ],
+  "source": {
+    "work": "Just So Stories (How the Whale Got His Throat)",
+    "author": "Rudyard Kipling",
+    "translator": null,
+    "year": 1902,
+    "edition": "Project Gutenberg #2781",
+    "url": "https://www.gutenberg.org/ebooks/2781",
+    "license": "public-domain",
+    "excerptNote": "'How the Whale Got His Throat' 첫 5개 단락 전체 (‘In the sea, once upon a time, O my Best Beloved…’부터 꾀돌이 물고기가 뱃사람이 있는 곳을 알려 주는 ‘…is a man of infinite-resource-and-sagacity.’까지, 253단어). 고래가 바다의 물고기를 다 먹어 치우고, 마지막 남은 꾀돌이 물고기가 사람을 먹어 보라고 꾀는 도입부 (고래가 헤엄쳐 가서 뱃사람을 찾는 여섯째 단락부터는 뺌). 250단어를 조금 넘지만 단락을 자르지 않으려고 그대로 둠. gutenberg.org가 503(점검 중)이라 archive.org에 보관된 같은 전자책(PG #2781, jusss10.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. 첫 단어 'IN'은 장식용 대문자라 'In'으로 적음. 이탤릭 표시 밑줄(_on_, _in_, _not_)은 지우고 글자만 남김. 줄 끝에서 나뉜 'jack-/knife', 'infinite-/resource-and-sagacity'는 하이픈을 살려 붙임(본문 다른 곳의 표기와 같음). 'mackereel', 'pickereel', 대시 --, 곧은 작은따옴표는 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/just_so_kara_librivox/justso_01_kipling.mp3",
+    "mp3Low": "https://www.archive.org/download/just_so_kara_librivox/justso_01_kipling_64kb.mp3",
+    "pageUrl": "https://librivox.org/just-so-stories-by-rudyard-kipling-version-2/",
+    "reader": "Kara Shallenberg",
+    "durationSec": 437,
+    "startSec": 20,
+    "endSec": 115,
+    "note": "LibriVox Just So Stories (version 2, 낭독 대본 PG #2781), 트랙 01 'How the Whale Got His Throat' (전체 7:17). 지문은 LibriVox 안내 멘트·제목 뒤 이야기 첫 다섯 단락으로, 약 0:20~1:55 (추정)."
+  },
+  "wordCount": 253,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "바닷속에, 옛날 옛적에, 오 내 사랑하는 아가야, 고래 한 마리가 살았는데, 그 고래는 물고기를 먹었단다. 고래는 불가사리와 동갈치, 게와 가자미, 넙치와 황어, 홍어와 그 짝, 고등어와 강꼬치고기, 그리고 정말 참말로 구불구불 꼬불꼬불한 뱀장어까지 먹었지. 온 바다에서 찾을 수 있는 물고기란 물고기는 모두 입으로 먹어 치웠어. 이렇게! 그러다 마침내 온 바다에 작은 물고기 딱 한 마리만 남게 되었는데, 그건 작은 꾀돌이 물고기였고, 해를 입지 않으려고 고래의 오른쪽 귀 조금 뒤에서 헤엄치고 있었단다. 그때 고래가 꼬리로 꼿꼿이 서서 말했어. '배고파.' 그러자 작은 꾀돌이 물고기가 작고 꾀바른 목소리로 말했지. '고귀하고 너그러우신 고래님, 사람을 맛본 적이 있으신가요?'"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "'아니.' 고래가 말했어. '그건 어떤 맛인데?'"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "'맛있어요.' 작은 꾀돌이 물고기가 말했어. '맛있지만 좀 오돌토돌하죠.'"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "'그럼 좀 가져와 봐.' 고래가 말하고는 꼬리로 바닷물에 거품을 일으켰어."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "ko": "'한 번에 한 명이면 충분해요.' 꾀돌이 물고기가 말했어. '북위 50도, 서경 40도로 헤엄쳐 가시면(그건 마법이에요), 바다 한가운데 뗏목 위에 앉아 있는, 파란 캔버스 바지 한 벌과 멜빵 한 벌(멜빵을 잊으면 안 된단다, 내 사랑하는 아가야), 그리고 접칼 하나 말고는 아무것도 걸치지 않은 난파한 뱃사람 한 명을 찾게 될 거예요. 공평하게 미리 말씀드리자면, 그는 꾀와 지혜가 한없는 사람이랍니다.'"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "In the sea, once upon a time, O my Best Beloved, there was a Whale, and he ate fishes.",
+      "ko": "바닷속에, 옛날 옛적에, 오 내 사랑하는 아가야, 고래 한 마리가 살았는데, 그 고래는 물고기를 먹었단다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "He ate the starfish and the garfish, and the crab and the dab, and the plaice and the dace, and the skate and his mate, and the mackereel and the pickereel, and the really truly twirly-whirly eel.",
+      "ko": "고래는 불가사리와 동갈치, 게와 가자미, 넙치와 황어, 홍어와 그 짝, 고등어와 강꼬치고기, 그리고 정말 참말로 구불구불 꼬불꼬불한 뱀장어까지 먹었지.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "All the fishes he could find in all the sea he ate with his mouth--so!",
+      "ko": "온 바다에서 찾을 수 있는 물고기란 물고기는 모두 입으로 먹어 치웠어. 이렇게!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Till at last there was only one small fish left in all the sea, and he was a small 'Stute Fish, and he swam a little behind the Whale's right ear, so as to be out of harm's way.",
+      "ko": "그러다 마침내 온 바다에 작은 물고기 딱 한 마리만 남게 되었는데, 그건 작은 꾀돌이 물고기였고, 해를 입지 않으려고 고래의 오른쪽 귀 조금 뒤에서 헤엄치고 있었단다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Then the Whale stood up on his tail and said, 'I'm hungry.'",
+      "ko": "그때 고래가 꼬리로 꼿꼿이 서서 말했어. '배고파.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "And the small 'Stute Fish said in a small 'stute voice, 'Noble and generous Cetacean, have you ever tasted Man?'",
+      "ko": "그러자 작은 꾀돌이 물고기가 작고 꾀바른 목소리로 말했지. '고귀하고 너그러우신 고래님, 사람을 맛본 적이 있으신가요?'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "'No,' said the Whale.",
+      "ko": "'아니.' 고래가 말했어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "'What is it like?'",
+      "ko": "'그건 어떤 맛인데?'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "'Nice,' said the small 'Stute Fish.",
+      "ko": "'맛있어요.' 작은 꾀돌이 물고기가 말했어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p3",
+      "en": "'Nice but nubbly.'",
+      "ko": "'맛있지만 좀 오돌토돌하죠.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "'Then fetch me some,' said the Whale, and he made the sea froth up with his tail.",
+      "ko": "'그럼 좀 가져와 봐.' 고래가 말하고는 꼬리로 바닷물에 거품을 일으켰어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "'One at a time is enough,' said the 'Stute Fish.",
+      "ko": "'한 번에 한 명이면 충분해요.' 꾀돌이 물고기가 말했어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "'If you swim to latitude Fifty North, longitude Forty West (that is magic), you will find, sitting on a raft, in the middle of the sea, with nothing on but a pair of blue canvas breeches, a pair of suspenders (you must not forget the suspenders, Best Beloved), and a jack-knife, one ship-wrecked Mariner, who, it is only fair to tell you, is a man of infinite-resource-and-sagacity.'",
+      "ko": "'북위 50도, 서경 40도로 헤엄쳐 가시면(그건 마법이에요), 바다 한가운데 뗏목 위에 앉아 있는, 파란 캔버스 바지 한 벌과 멜빵 한 벌(멜빵을 잊으면 안 된단다, 내 사랑하는 아가야), 그리고 접칼 하나 말고는 아무것도 걸치지 않은 난파한 뱃사람 한 명을 찾게 될 거예요. 공평하게 미리 말씀드리자면, 그는 꾀와 지혜가 한없는 사람이랍니다.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "once upon a time",
+      "pos": "phrase",
+      "meaningKo": "옛날 옛적에",
+      "ipa": "/wʌns əˈpɑn ə taɪm/",
+      "synonyms": [
+        "long ago",
+        "in the old days",
+        "a long time ago"
+      ],
+      "matchText": "once upon a time",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Once upon a time, a little girl lived in a forest.",
+        "ko": "옛날 옛적에 한 어린 소녀가 숲속에 살았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "out of harm's way",
+      "pos": "idiom",
+      "meaningKo": "안전한 곳에, 해를 입지 않는 곳에",
+      "ipa": "/aʊt əv hɑrmz weɪ/",
+      "synonyms": [
+        "safe",
+        "out of danger"
+      ],
+      "matchText": "out of harm's way",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Keep the medicine on a high shelf, out of harm's way.",
+        "ko": "약은 손이 닿지 않게 높은 선반 위 안전한 곳에 두어라."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "generous",
+      "pos": "adjective",
+      "meaningKo": "너그러운, 후한",
+      "ipa": "/ˈdʒɛnərəs/",
+      "synonyms": [
+        "kind",
+        "giving",
+        "big-hearted"
+      ],
+      "matchText": "generous",
+      "sentenceId": "s6",
+      "example": {
+        "en": "It was generous of you to share your lunch.",
+        "ko": "점심을 나눠 주다니 너는 참 너그럽구나."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "fetch",
+      "pos": "verb",
+      "meaningKo": "가서 가져오다, 데려오다",
+      "ipa": "/fɛtʃ/",
+      "synonyms": [
+        "bring",
+        "get",
+        "go and get"
+      ],
+      "matchText": "fetch",
+      "sentenceId": "s11",
+      "example": {
+        "en": "Could you fetch me a glass of water?",
+        "ko": "물 한 잔 가져다줄래?"
+      }
+    },
+    {
+      "id": "v5",
+      "term": "shipwrecked",
+      "pos": "adjective",
+      "meaningKo": "난파한, 배가 부서져 조난당한",
+      "ipa": "/ˈʃɪpˌrɛkt/",
+      "synonyms": [
+        "stranded",
+        "castaway"
+      ],
+      "matchText": "ship-wrecked",
+      "sentenceId": "s13",
+      "example": {
+        "en": "The shipwrecked sailors lived on the island for a year.",
+        "ko": "난파한 선원들은 그 섬에서 1년 동안 살았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "All the fishes",
+          "role": "O",
+          "sub": false,
+          "ko": "모든 물고기를"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "could find",
+          "role": "V",
+          "sub": true,
+          "ko": "찾을 수 있었던"
+        },
+        {
+          "text": "in all the sea",
+          "role": "M",
+          "sub": true,
+          "ko": "온 바다에서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "ate",
+          "role": "V",
+          "sub": false,
+          "ko": "먹었다"
+        },
+        {
+          "text": "with his mouth--so!",
+          "role": "M",
+          "sub": false,
+          "ko": "입으로, 이렇게!"
+        }
+      ],
+      "skeleton": "he ate all the fishes",
+      "explanation": "원래 어순은 He ate all the fishes (that) he could find in all the sea.이다. 목적어 All the fishes를 강조하려고 문장 맨 앞으로 옮겼다. he could find in all the sea는 앞의 fishes를 꾸미는 관계절로, 목적격 관계대명사 that이 생략되었다. 이야기를 들려주는 말투라 끝에 '이렇게!(so!)'하고 몸짓을 덧붙였다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Till at last",
+          "role": "M",
+          "sub": false,
+          "ko": "그러다 마침내"
+        },
+        {
+          "text": "there was",
+          "role": "V",
+          "sub": false,
+          "ko": "~이 있었다"
+        },
+        {
+          "text": "only one small fish",
+          "role": "S",
+          "sub": false,
+          "ko": "작은 물고기 딱 한 마리가"
+        },
+        {
+          "text": "left",
+          "role": "M",
+          "sub": false,
+          "ko": "남은"
+        },
+        {
+          "text": "in all the sea,",
+          "role": "M",
+          "sub": false,
+          "ko": "온 바다에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "a small 'Stute Fish,",
+          "role": "C",
+          "sub": false,
+          "ko": "작은 꾀돌이 물고기"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은"
+        },
+        {
+          "text": "swam",
+          "role": "V",
+          "sub": false,
+          "ko": "헤엄쳤다"
+        },
+        {
+          "text": "a little behind the Whale's right ear,",
+          "role": "M",
+          "sub": false,
+          "ko": "고래의 오른쪽 귀 조금 뒤에서"
+        },
+        {
+          "text": "so as to be out of harm's way.",
+          "role": "M",
+          "sub": false,
+          "ko": "해를 입지 않으려고"
+        }
+      ],
+      "skeleton": "there was only one small fish, and he was a 'Stute Fish, and he swam",
+      "explanation": "세 개의 절이 and로 이어진 문장이다. 첫 절은 'there was + 주어' 구문이고, 과거분사 left(남은)가 뒤에서 fish를 꾸민다. 마지막의 so as to ~는 '~하기 위해'라는 목적을 나타낸다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "'Then",
+          "role": "M",
+          "sub": true,
+          "ko": "그럼"
+        },
+        {
+          "text": "fetch",
+          "role": "V",
+          "sub": true,
+          "ko": "가져와라"
+        },
+        {
+          "text": "me",
+          "role": "IO",
+          "sub": true,
+          "ko": "나에게"
+        },
+        {
+          "text": "some,'",
+          "role": "O",
+          "sub": true,
+          "ko": "좀"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "the Whale,",
+          "role": "S",
+          "sub": false,
+          "ko": "고래가"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "made",
+          "role": "V",
+          "sub": false,
+          "ko": "~하게 했다"
+        },
+        {
+          "text": "the sea",
+          "role": "O",
+          "sub": false,
+          "ko": "바다를"
+        },
+        {
+          "text": "froth up",
+          "role": "OC",
+          "sub": false,
+          "ko": "거품이 일게"
+        },
+        {
+          "text": "with his tail.",
+          "role": "M",
+          "sub": false,
+          "ko": "꼬리로"
+        }
+      ],
+      "skeleton": "the Whale said, and he made the sea froth up",
+      "explanation": "따옴표 안은 명령문으로 'fetch + 간접목적어(me) + 직접목적어(some)' 구조이다. 이야기에서는 said the Whale처럼 '말했다 + 주어' 순서로 도치하는 일이 많다. 뒷부분은 사역동사 make가 '목적어(the sea) + 동사원형(froth up)'을 데리고 '바다가 거품이 일게 만들었다'는 뜻이 된다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "목적어를 앞으로 옮긴 강조 어순",
+      "tags": [
+        "어순",
+        "관계사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "All the fishes he could find in all the sea he ate"
+      ],
+      "explanation": "보통은 'He ate all the fishes ~'처럼 주어+동사+목적어 순서지만, 목적어를 강조하고 싶을 때 문장 앞으로 꺼내기도 한다. 또 fishes 뒤에 목적격 관계대명사 that이 생략되어 he could find ~가 바로 명사를 꾸민다.",
+      "example": {
+        "en": "This book I read three times.",
+        "ko": "이 책은 내가 세 번이나 읽었다."
+      },
+      "note": "fishes는 여러 종류의 물고기를 말할 때 쓰는 복수형이다(보통은 fish)."
+    },
+    {
+      "id": "g2",
+      "title": "so as to + 동사원형: ~하기 위해",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "so as to be out of harm's way"
+      ],
+      "explanation": "so as to + 동사원형은 in order to와 같이 '~하기 위해, ~하도록'이라는 목적을 나타낸다. 부정은 so as not to ~(~하지 않도록)이다.",
+      "example": {
+        "en": "She got up early so as to catch the first bus.",
+        "ko": "그녀는 첫차를 타려고 일찍 일어났다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "사역동사 make + 목적어 + 동사원형",
+      "tags": [
+        "기타"
+      ],
+      "sentenceId": "s11",
+      "highlight": [
+        "made the sea froth up"
+      ],
+      "explanation": "make, let, have 같은 사역동사는 '목적어 + 동사원형'을 써서 '(목적어)가 ~하게 하다'라는 뜻을 만든다. 여기서는 to froth가 아니라 froth를 쓴 점에 주의한다.",
+      "example": {
+        "en": "The joke made everyone laugh.",
+        "ko": "그 농담은 모두를 웃게 했다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "sea": {
+      "lemma": "sea",
+      "pos": "noun",
+      "ko": "바다",
+      "form": null,
+      "synonyms": [
+        "ocean",
+        "the deep"
+      ],
+      "ipa": "/siː/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(once upon a time) 옛날에",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "long ago"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "(once upon a time) ~에; ~ 위에",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시절; (at a time) 한 번에",
+      "form": null,
+      "synonyms": [
+        "period",
+        "occasion"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "o": {
+      "lemma": "O",
+      "pos": "interjection",
+      "ko": "오 (부르는 말)",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "best": {
+      "lemma": "best",
+      "pos": "adjective",
+      "ko": "(Best Beloved) 가장 사랑하는",
+      "form": "최상급",
+      "synonyms": [
+        "dearest",
+        "most loved"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "beloved": {
+      "lemma": "beloved",
+      "pos": "noun",
+      "ko": "사랑하는 사람 (Best Beloved: 작가가 딸을 부르는 말)",
+      "form": null,
+      "synonyms": [
+        "darling",
+        "dear"
+      ],
+      "ipa": "/bɪˈlʌvd/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was) ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed",
+        "lived"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "whale": {
+      "lemma": "whale",
+      "pos": "noun",
+      "ko": "고래",
+      "form": null,
+      "synonyms": [
+        "cetacean"
+      ],
+      "ipa": "/weɪl/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (고래·물고기·뱃사람을 가리킴)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "ate": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹었다",
+      "form": "과거형",
+      "synonyms": [
+        "devoured",
+        "consumed",
+        "swallowed"
+      ],
+      "ipa": "/eɪt/"
+    },
+    "fishes": {
+      "lemma": "fish",
+      "pos": "noun",
+      "ko": "물고기들 (여러 종류)",
+      "form": "복수형",
+      "synonyms": [
+        "sea creatures"
+      ],
+      "ipa": "/ˈfɪʃəz/"
+    },
+    "starfish": {
+      "lemma": "starfish",
+      "pos": "noun",
+      "ko": "불가사리",
+      "form": null,
+      "synonyms": [
+        "sea star"
+      ],
+      "ipa": "/ˈstɑːrˌfɪʃ/"
+    },
+    "garfish": {
+      "lemma": "garfish",
+      "pos": "noun",
+      "ko": "동갈치 (주둥이가 긴 물고기)",
+      "form": null,
+      "synonyms": [
+        "needlefish"
+      ],
+      "ipa": "/ˈɡɑrˌfɪʃ/"
+    },
+    "crab": {
+      "lemma": "crab",
+      "pos": "noun",
+      "ko": "게",
+      "form": null,
+      "synonyms": [
+        "crustacean"
+      ],
+      "ipa": "/kræb/"
+    },
+    "dab": {
+      "lemma": "dab",
+      "pos": "noun",
+      "ko": "작은 가자미의 한 종류",
+      "form": null,
+      "synonyms": [
+        "flatfish"
+      ],
+      "ipa": "/dæb/"
+    },
+    "plaice": {
+      "lemma": "plaice",
+      "pos": "noun",
+      "ko": "넙치류 (유럽산 가자미)",
+      "form": null,
+      "synonyms": [
+        "flatfish",
+        "flounder"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "dace": {
+      "lemma": "dace",
+      "pos": "noun",
+      "ko": "황어류 민물고기",
+      "form": null,
+      "synonyms": [
+        "minnow"
+      ],
+      "ipa": "/deɪs/"
+    },
+    "skate": {
+      "lemma": "skate",
+      "pos": "noun",
+      "ko": "홍어, 가오리",
+      "form": null,
+      "synonyms": [
+        "ray"
+      ],
+      "ipa": "/skeɪt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "mate": {
+      "lemma": "mate",
+      "pos": "noun",
+      "ko": "짝, 친구",
+      "form": null,
+      "synonyms": [
+        "partner",
+        "companion"
+      ],
+      "ipa": "/meɪt/"
+    },
+    "mackereel": {
+      "lemma": "mackerel",
+      "pos": "noun",
+      "ko": "고등어 (mackerel을 말장난으로 늘인 철자)",
+      "form": null,
+      "synonyms": [
+        "mackerel"
+      ],
+      "ipa": "/ˈmækəˌril/"
+    },
+    "pickereel": {
+      "lemma": "pickerel",
+      "pos": "noun",
+      "ko": "강꼬치고기 (pickerel을 말장난으로 늘인 철자)",
+      "form": null,
+      "synonyms": [
+        "pike",
+        "pickerel"
+      ],
+      "ipa": "/ˈpɪkəˌril/"
+    },
+    "really": {
+      "lemma": "really",
+      "pos": "adverb",
+      "ko": "정말로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "actually"
+      ],
+      "ipa": "/ˈrɪli/"
+    },
+    "truly": {
+      "lemma": "truly",
+      "pos": "adverb",
+      "ko": "참말로, 진짜로",
+      "form": null,
+      "synonyms": [
+        "really",
+        "genuinely"
+      ],
+      "ipa": "/ˈtruːli/"
+    },
+    "twirly-whirly": {
+      "lemma": "twirly-whirly",
+      "pos": "adjective",
+      "ko": "구불구불 꼬불꼬불한",
+      "form": null,
+      "synonyms": [
+        "twisty",
+        "wriggly",
+        "curly"
+      ],
+      "ipa": "/ˈtwɜrli ˈwɜrli/"
+    },
+    "eel": {
+      "lemma": "eel",
+      "pos": "noun",
+      "ko": "뱀장어",
+      "form": null,
+      "synonyms": [
+        "moray"
+      ],
+      "ipa": "/iːl/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 온",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "찾다, 발견하다",
+      "form": null,
+      "synonyms": [
+        "discover",
+        "come across",
+        "locate"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "mouth": {
+      "lemma": "mouth",
+      "pos": "noun",
+      "ko": "입",
+      "form": null,
+      "synonyms": [
+        "jaws"
+      ],
+      "ipa": "/maʊθ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "이렇게 (몸짓과 함께); (so as to) ~하도록",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "(till at last) 그러다 마침내; ~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at last) 마침내; (at a time) 한 번에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내, 결국",
+      "form": null,
+      "synonyms": [
+        "end",
+        "finally"
+      ],
+      "ipa": "/læst/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adjective",
+      "ko": "오직 하나의, 유일한",
+      "form": null,
+      "synonyms": [
+        "single",
+        "sole",
+        "lone"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의, 한",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "little",
+        "tiny"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "fish": {
+      "lemma": "fish",
+      "pos": "noun",
+      "ko": "물고기",
+      "form": null,
+      "synonyms": [
+        "sea creature"
+      ],
+      "ipa": "/fɪʃ/"
+    },
+    "left": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "남은",
+      "form": "과거분사",
+      "synonyms": [
+        "remaining",
+        "still there"
+      ],
+      "ipa": "/lɛft/"
+    },
+    "stute": {
+      "lemma": "astute",
+      "pos": "adjective",
+      "ko": "꾀 많은, 영리한 ('stute는 astute를 줄인 말)",
+      "form": "줄임말",
+      "synonyms": [
+        "clever",
+        "smart",
+        "shrewd"
+      ],
+      "ipa": "/stut/"
+    },
+    "swam": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "paddled",
+        "floated"
+      ],
+      "ipa": "/swæm/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adverb",
+      "ko": "(a little) 조금, 약간",
+      "form": null,
+      "synonyms": [
+        "slightly",
+        "somewhat"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "whale's": {
+      "lemma": "whale",
+      "pos": "noun",
+      "ko": "고래의",
+      "form": "소유격",
+      "synonyms": [
+        "cetacean's"
+      ],
+      "ipa": "/weɪlz/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adjective",
+      "ko": "오른쪽의",
+      "form": null,
+      "synonyms": [
+        "right-hand"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "ear": {
+      "lemma": "ear",
+      "pos": "noun",
+      "ko": "귀",
+      "form": null,
+      "synonyms": [
+        "auricle"
+      ],
+      "ipa": "/iːr/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(so as to) ~하기 위해",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기 위해, ~하는 것; ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있다, ~이다",
+      "form": null,
+      "synonyms": [
+        "stay",
+        "remain"
+      ],
+      "ipa": "/biː/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~에서 벗어나",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에서",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "harm's": {
+      "lemma": "harm",
+      "pos": "noun",
+      "ko": "해, 위험의",
+      "form": "소유격",
+      "synonyms": [
+        "danger's",
+        "injury's"
+      ],
+      "ipa": "/hɑːrmz/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "(out of harm's way) 길목, 위치",
+      "form": null,
+      "synonyms": [
+        "path",
+        "reach"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그러자; 그럼",
+      "form": null,
+      "synonyms": [
+        "next",
+        "after that"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "(stood up) 섰다",
+      "form": "과거형",
+      "synonyms": [
+        "rose",
+        "got up"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로; (froth up) 부글부글",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~로; (nothing on) 몸에 걸치고",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "tail": {
+      "lemma": "tail",
+      "pos": "noun",
+      "ko": "꼬리",
+      "form": null,
+      "synonyms": [
+        "fluke",
+        "tail fin"
+      ],
+      "ipa": "/teɪl/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "replied",
+        "told"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "i'm": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는 ~이다 (I am)",
+      "form": "줄임말",
+      "ipa": "/aɪm/"
+    },
+    "hungry": {
+      "lemma": "hungry",
+      "pos": "adjective",
+      "ko": "배고픈",
+      "form": null,
+      "synonyms": [
+        "starving",
+        "famished"
+      ],
+      "ipa": "/ˈhʌŋɡri/"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "form": null,
+      "synonyms": [
+        "tone",
+        "speech"
+      ],
+      "ipa": "/vɔɪs/"
+    },
+    "noble": {
+      "lemma": "noble",
+      "pos": "adjective",
+      "ko": "고귀한, 훌륭한",
+      "form": null,
+      "synonyms": [
+        "grand",
+        "great",
+        "honorable"
+      ],
+      "ipa": "/ˈnoʊbəl/"
+    },
+    "generous": {
+      "lemma": "generous",
+      "pos": "adjective",
+      "ko": "너그러운, 후한",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "big-hearted",
+        "giving"
+      ],
+      "ipa": "/ˈdʒɛnərəs/"
+    },
+    "cetacean": {
+      "lemma": "cetacean",
+      "pos": "noun",
+      "ko": "고래류 동물 (여기선 고래를 높여 부르는 말)",
+      "form": null,
+      "synonyms": [
+        "whale"
+      ],
+      "ipa": "/sɪˈteɪʃən/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have + 과거분사) ~한 적이 있다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "(경험) 한 번이라도",
+      "form": null,
+      "synonyms": [
+        "at any time",
+        "once"
+      ],
+      "ipa": "/ˈɛvər/"
+    },
+    "tasted": {
+      "lemma": "taste",
+      "pos": "verb",
+      "ko": "맛본",
+      "form": "과거분사",
+      "synonyms": [
+        "tried",
+        "sampled",
+        "eaten"
+      ],
+      "ipa": "/ˈteɪstɪd/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 인간",
+      "form": null,
+      "synonyms": [
+        "human",
+        "person",
+        "people"
+      ],
+      "ipa": "/mæn/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "아니",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "seems"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~와 같은 (What is it like? 어떤 맛이야?)",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "nice": {
+      "lemma": "nice",
+      "pos": "adjective",
+      "ko": "맛있는, 좋은",
+      "form": null,
+      "synonyms": [
+        "tasty",
+        "delicious",
+        "good"
+      ],
+      "ipa": "/naɪs/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나; (nothing on but) ~ 말고는",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "nubbly": {
+      "lemma": "nubbly",
+      "pos": "adjective",
+      "ko": "오돌토돌한, 울퉁불퉁한",
+      "form": null,
+      "synonyms": [
+        "lumpy",
+        "knobbly",
+        "bumpy"
+      ],
+      "ipa": "/ˈnʌbli/"
+    },
+    "fetch": {
+      "lemma": "fetch",
+      "pos": "verb",
+      "ko": "가서 가져오다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "get",
+        "go and get"
+      ],
+      "ipa": "/fɛtʃ/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나에게",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "pronoun",
+      "ko": "조금, 얼마간",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(made ~ froth up) ~하게 했다",
+      "form": "과거형",
+      "synonyms": [
+        "caused",
+        "forced"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "froth": {
+      "lemma": "froth",
+      "pos": "verb",
+      "ko": "거품이 일다",
+      "form": null,
+      "synonyms": [
+        "foam",
+        "bubble",
+        "churn"
+      ],
+      "ipa": "/frɔːθ/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adjective",
+      "ko": "충분한",
+      "form": null,
+      "synonyms": [
+        "sufficient",
+        "plenty"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "swim": {
+      "lemma": "swim",
+      "pos": "verb",
+      "ko": "헤엄치다",
+      "form": null,
+      "synonyms": [
+        "paddle",
+        "travel by water"
+      ],
+      "ipa": "/swɪm/"
+    },
+    "latitude": {
+      "lemma": "latitude",
+      "pos": "noun",
+      "ko": "위도",
+      "form": null,
+      "synonyms": [
+        "parallel"
+      ],
+      "ipa": "/ˈlætəˌtuːd/"
+    },
+    "fifty": {
+      "lemma": "fifty",
+      "pos": "number",
+      "ko": "50",
+      "form": null,
+      "ipa": "/ˈfɪfti/"
+    },
+    "north": {
+      "lemma": "north",
+      "pos": "noun",
+      "ko": "북쪽 (Fifty North: 북위 50도)",
+      "form": null,
+      "synonyms": [
+        "the north"
+      ],
+      "ipa": "/nɔːrθ/"
+    },
+    "longitude": {
+      "lemma": "longitude",
+      "pos": "noun",
+      "ko": "경도",
+      "form": null,
+      "synonyms": [
+        "meridian"
+      ],
+      "ipa": "/ˈlɑːndʒəˌtuːd/"
+    },
+    "forty": {
+      "lemma": "forty",
+      "pos": "number",
+      "ko": "40",
+      "form": null,
+      "ipa": "/ˈfɔːrti/"
+    },
+    "west": {
+      "lemma": "west",
+      "pos": "noun",
+      "ko": "서쪽 (Forty West: 서경 40도)",
+      "form": null,
+      "synonyms": [
+        "the west"
+      ],
+      "ipa": "/wɛst/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "magic": {
+      "lemma": "magic",
+      "pos": "noun",
+      "ko": "마법",
+      "form": null,
+      "synonyms": [
+        "sorcery",
+        "enchantment",
+        "wizardry"
+      ],
+      "ipa": "/ˈmædʒɪk/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "sitting": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉아 있는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "seated",
+        "perched"
+      ],
+      "ipa": "/ˈsɪtɪŋ/"
+    },
+    "raft": {
+      "lemma": "raft",
+      "pos": "noun",
+      "ko": "뗏목",
+      "form": null,
+      "synonyms": [
+        "float",
+        "platform"
+      ],
+      "ipa": "/ræft/"
+    },
+    "middle": {
+      "lemma": "middle",
+      "pos": "noun",
+      "ko": "한가운데",
+      "form": null,
+      "synonyms": [
+        "center",
+        "midst"
+      ],
+      "ipa": "/ˈmɪdəl/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 않음",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "pair": {
+      "lemma": "pair",
+      "pos": "noun",
+      "ko": "한 벌, 한 쌍",
+      "form": null,
+      "synonyms": [
+        "set",
+        "couple"
+      ],
+      "ipa": "/pɛr/"
+    },
+    "blue": {
+      "lemma": "blue",
+      "pos": "adjective",
+      "ko": "파란",
+      "form": null,
+      "synonyms": [
+        "azure",
+        "navy"
+      ],
+      "ipa": "/bluː/"
+    },
+    "canvas": {
+      "lemma": "canvas",
+      "pos": "noun",
+      "ko": "캔버스 천 (질긴 범포)",
+      "form": null,
+      "synonyms": [
+        "sailcloth",
+        "heavy cloth"
+      ],
+      "ipa": "/ˈkænvəs/"
+    },
+    "breeches": {
+      "lemma": "breeches",
+      "pos": "noun",
+      "ko": "무릎까지 오는 바지, 반바지",
+      "form": "복수형",
+      "synonyms": [
+        "trousers",
+        "pants",
+        "knickerbockers"
+      ],
+      "ipa": "/ˈbriːtʃɪz/"
+    },
+    "suspenders": {
+      "lemma": "suspender",
+      "pos": "noun",
+      "ko": "멜빵",
+      "form": "복수형",
+      "synonyms": [
+        "braces",
+        "straps"
+      ],
+      "ipa": "/səˈspɛndərz/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다 (must not: ~하면 안 된다)",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "forget": {
+      "lemma": "forget",
+      "pos": "verb",
+      "ko": "잊다",
+      "form": null,
+      "synonyms": [
+        "overlook",
+        "neglect"
+      ],
+      "ipa": "/fərˈɡɛt/"
+    },
+    "jack-knife": {
+      "lemma": "jackknife",
+      "pos": "noun",
+      "ko": "접칼 (큰 주머니칼)",
+      "form": null,
+      "synonyms": [
+        "pocketknife",
+        "folding knife"
+      ],
+      "ipa": "/dʒæk-naɪf/"
+    },
+    "ship-wrecked": {
+      "lemma": "shipwrecked",
+      "pos": "adjective",
+      "ko": "난파한, 조난당한",
+      "form": null,
+      "synonyms": [
+        "stranded",
+        "castaway",
+        "marooned"
+      ],
+      "ipa": "/ʃɪp-rɛkt/"
+    },
+    "mariner": {
+      "lemma": "mariner",
+      "pos": "noun",
+      "ko": "뱃사람, 선원",
+      "form": null,
+      "synonyms": [
+        "sailor",
+        "seaman",
+        "seafarer"
+      ],
+      "ipa": "/ˈmɛrənər/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~인 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "fair": {
+      "lemma": "fair",
+      "pos": "adjective",
+      "ko": "공평한, 공정한",
+      "form": null,
+      "synonyms": [
+        "just",
+        "right",
+        "honest"
+      ],
+      "ipa": "/fɛr/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 알려 주다",
+      "form": null,
+      "synonyms": [
+        "inform",
+        "let know",
+        "warn"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "infinite-resource-and-sagacity": {
+      "lemma": "infinite resource and sagacity",
+      "pos": "phrase",
+      "ko": "한없는 꾀와 지혜 (작가가 하이픈으로 한 덩어리로 만든 말)",
+      "form": null,
+      "ipa": "/ˈɪnfənət ˈrisɔrs ənd səˈɡæsəti/"
+    }
+  }
+}
