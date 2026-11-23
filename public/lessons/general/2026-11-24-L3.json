@@ -1,0 +1,1750 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L3",
+  "date": "2026-11-24",
+  "level": 3,
+  "title": "Hans in Luck",
+  "titleKo": "운 좋은 한스",
+  "genre": "fairy-tale",
+  "tags": [
+    "Grimm",
+    "fairy tale",
+    "fairy-tale"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Hans in Luck)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Hans in Luck'('운 좋은 한스') 첫머리: 첫 두 단락 전체와 셋째 단락의 앞 두 문장 (‘Some men are born to good luck…’부터 ‘…trotting gaily along on a capital horse.’까지, 211단어). 행운을 타고난 사람들에 대한 서두와, 칠 년 일한 한스가 머리만 한 은덩어리를 품삯으로 받아 집으로 떠나는 도입부 (말 탄 사람과 은덩어리를 말로 바꾸는 대화부터는 뺌). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2591, grimm10.txt, 항목 grimmsfairytales02591gut)에서 가져왔고, 줄바꿈만 공백으로 이음(그래서 'comes right-- all'처럼 줄 끝 대시 뒤에 공백이 남음). 따옴표는 텍스트판 그대로 곧은 작은따옴표, neighbour·homewards 등 영국식 철자도 원문 그대로. 첫 단락의 'what can it know about the matter?'는 원문대로 소문자로 시작."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_02_hans_in_luck.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_02_hans_in_luck_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Steve Andersen",
+    "durationSec": 990,
+    "startSec": 15,
+    "endSec": 100,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 02 'Hans in Luck' (전체 16:29). 지문은 이야기 맨 처음 부분으로, LibriVox 안내 멘트 뒤 약 0:15~1:40 (단어 수로 어림한 위치)."
+  },
+  "wordCount": 211,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "어떤 사람들은 행운을 타고난다. 그들이 하는 일, 하려는 일은 모두 잘 풀리고, 그들에게 떨어지는 것은 모두 이득이 되며, 그들의 거위는 모두 백조가 되고, 그들의 카드는 모두 으뜸패가 된다. 어느 쪽으로 던지든 그들은 가엾은 고양이처럼 언제나 발로 착지해서, 오히려 그만큼 더 빨리 앞으로 나아갈 뿐이다. 세상은 아마도 그들이 스스로를 생각하는 것처럼 그들을 늘 좋게 생각하지는 않겠지만, 그들이 세상 따위를 무슨 상관하겠는가? 세상이 그 일에 대해 무엇을 알겠는가?"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "이웃집 한스도 그런 운 좋은 사람 가운데 하나였다. 그는 칠 년이라는 긴 세월 동안 주인을 위해 열심히 일했다. 마침내 그가 말했다. '주인님, 제 일할 기간이 끝났습니다. 집에 가서 가엾은 어머니를 한 번 더 뵈어야겠어요. 그러니 부디 제 품삯을 주시고 보내 주세요.' 그러자 주인이 말했다. '한스, 너는 충실하고 착한 일꾼이었으니 품삯을 넉넉히 주마.' 그러고는 그에게 그의 머리만 한 은덩어리를 주었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "한스는 주머니 손수건을 꺼내 은덩어리를 그 안에 싸서 어깨에 둘러메고, 집으로 가는 길을 터벅터벅 걸어갔다. 그가 한 발 한 발 발을 끌며 느릿느릿 걸어가고 있을 때, 한 남자가 아주 훌륭한 말을 타고 신나게 달려오는 모습이 눈에 들어왔다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Some men are born to good luck: all they do or try to do comes right-- all that falls to them is so much gain--all their geese are swans--all their cards are trumps--toss them which way you will, they will always, like poor puss, alight upon their legs, and only move on so much the faster.",
+      "ko": "어떤 사람들은 행운을 타고난다. 그들이 하는 일, 하려는 일은 모두 잘 풀리고, 그들에게 떨어지는 것은 모두 이득이 되며, 그들의 거위는 모두 백조가 되고, 그들의 카드는 모두 으뜸패가 된다. 어느 쪽으로 던지든 그들은 가엾은 고양이처럼 언제나 발로 착지해서, 오히려 그만큼 더 빨리 앞으로 나아갈 뿐이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The world may very likely not always think of them as they think of themselves, but what care they for the world?",
+      "ko": "세상은 아마도 그들이 스스로를 생각하는 것처럼 그들을 늘 좋게 생각하지는 않겠지만, 그들이 세상 따위를 무슨 상관하겠는가?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "what can it know about the matter?",
+      "ko": "세상이 그 일에 대해 무엇을 알겠는가?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "One of these lucky beings was neighbour Hans.",
+      "ko": "이웃집 한스도 그런 운 좋은 사람 가운데 하나였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Seven long years he had worked hard for his master.",
+      "ko": "그는 칠 년이라는 긴 세월 동안 주인을 위해 열심히 일했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "At last he said, 'Master, my time is up; I must go home and see my poor mother once more: so pray pay me my wages and let me go.'",
+      "ko": "마침내 그가 말했다. '주인님, 제 일할 기간이 끝났습니다. 집에 가서 가엾은 어머니를 한 번 더 뵈어야겠어요. 그러니 부디 제 품삯을 주시고 보내 주세요.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "And the master said, 'You have been a faithful and good servant, Hans, so your pay shall be handsome.'",
+      "ko": "그러자 주인이 말했다. '한스, 너는 충실하고 착한 일꾼이었으니 품삯을 넉넉히 주마.'",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "Then he gave him a lump of silver as big as his head.",
+      "ko": "그러고는 그에게 그의 머리만 한 은덩어리를 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "Hans took out his pocket-handkerchief, put the piece of silver into it, threw it over his shoulder, and jogged off on his road homewards.",
+      "ko": "한스는 주머니 손수건을 꺼내 은덩어리를 그 안에 싸서 어깨에 둘러메고, 집으로 가는 길을 터벅터벅 걸어갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p3",
+      "en": "As he went lazily on, dragging one foot after another, a man came in sight, trotting gaily along on a capital horse.",
+      "ko": "그가 한 발 한 발 발을 끌며 느릿느릿 걸어가고 있을 때, 한 남자가 아주 훌륭한 말을 타고 신나게 달려오는 모습이 눈에 들어왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be born to",
+      "pos": "phrase",
+      "meaningKo": "~을 타고나다, 태어날 때부터 ~을 갖다",
+      "ipa": "/bi bɔːrn tu/",
+      "synonyms": [
+        "be destined for",
+        "be blessed with"
+      ],
+      "matchText": "are born to",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Some people seem to be born to lead.",
+        "ko": "어떤 사람들은 이끄는 일을 타고난 것 같다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "wage",
+      "pos": "noun",
+      "meaningKo": "품삯, 임금 (보통 복수형 wages)",
+      "ipa": "/weɪdʒ/",
+      "synonyms": [
+        "pay",
+        "salary",
+        "earnings"
+      ],
+      "matchText": "wages",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The workers received their wages every Friday.",
+        "ko": "일꾼들은 매주 금요일에 품삯을 받았다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "faithful",
+      "pos": "adjective",
+      "meaningKo": "충실한, 성실한",
+      "ipa": "/ˈfeɪθfəl/",
+      "synonyms": [
+        "loyal",
+        "devoted",
+        "reliable"
+      ],
+      "matchText": "faithful",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The dog was a faithful friend to the old man.",
+        "ko": "그 개는 노인에게 충실한 친구였다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "lump",
+      "pos": "noun",
+      "meaningKo": "덩어리",
+      "ipa": "/lʌmp/",
+      "synonyms": [
+        "chunk",
+        "block",
+        "piece"
+      ],
+      "matchText": "lump",
+      "sentenceId": "s8",
+      "example": {
+        "en": "She put a lump of sugar in her tea.",
+        "ko": "그녀는 차에 각설탕 한 덩어리를 넣었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "come in sight",
+      "pos": "phrase",
+      "meaningKo": "눈에 보이기 시작하다, 시야에 들어오다",
+      "ipa": "/kʌm ɪn saɪt/",
+      "synonyms": [
+        "appear",
+        "come into view",
+        "show up"
+      ],
+      "matchText": "came in sight",
+      "sentenceId": "s10",
+      "example": {
+        "en": "After an hour of walking, the village came in sight.",
+        "ko": "한 시간을 걷고 나니 마을이 눈에 들어왔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Seven long years",
+          "role": "M",
+          "sub": false,
+          "ko": "칠 년이라는 긴 세월 동안"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "had worked",
+          "role": "V",
+          "sub": false,
+          "ko": "일해 왔다"
+        },
+        {
+          "text": "hard",
+          "role": "M",
+          "sub": false,
+          "ko": "열심히"
+        },
+        {
+          "text": "for his master.",
+          "role": "M",
+          "sub": false,
+          "ko": "자기 주인을 위해"
+        }
+      ],
+      "skeleton": "he had worked",
+      "explanation": "기간을 나타내는 Seven long years가 문장 맨 앞에 나와 '오랜 세월'을 강조한다. 보통 어순이라면 He had worked hard for his master for seven long years.이다. 뼈대는 S+V(he had worked)이고, hard와 for his master는 동사를 꾸미는 수식어(M)이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "Then",
+          "role": "M",
+          "sub": false,
+          "ko": "그러고 나서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "gave",
+          "role": "V",
+          "sub": false,
+          "ko": "주었다"
+        },
+        {
+          "text": "him",
+          "role": "IO",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "a lump of silver",
+          "role": "O",
+          "sub": false,
+          "ko": "은덩어리 하나를"
+        },
+        {
+          "text": "as big as his head.",
+          "role": "M",
+          "sub": false,
+          "ko": "그의 머리만큼 큰"
+        }
+      ],
+      "skeleton": "he gave him a lump of silver",
+      "explanation": "give + 사람(IO) + 물건(O)의 4형식 문장이다. '그에게(him) / 은덩어리를(a lump of silver)' 순서로 끊어 읽는다. as big as his head는 a lump of silver를 뒤에서 꾸며 '머리만 한 크기의'라는 뜻을 더한다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "As",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": true,
+          "ko": "가고 있었다"
+        },
+        {
+          "text": "lazily on,",
+          "role": "M",
+          "sub": true,
+          "ko": "느릿느릿 계속"
+        },
+        {
+          "text": "dragging one foot after another,",
+          "role": "M",
+          "sub": false,
+          "ko": "한 발 한 발 끌면서"
+        },
+        {
+          "text": "a man",
+          "role": "S",
+          "sub": false,
+          "ko": "한 남자가"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "왔다"
+        },
+        {
+          "text": "in sight,",
+          "role": "M",
+          "sub": false,
+          "ko": "눈에 보이는 곳에"
+        },
+        {
+          "text": "trotting gaily along",
+          "role": "M",
+          "sub": false,
+          "ko": "신나게 달려오면서"
+        },
+        {
+          "text": "on a capital horse.",
+          "role": "M",
+          "sub": false,
+          "ko": "훌륭한 말을 타고"
+        }
+      ],
+      "skeleton": "a man came in sight",
+      "explanation": "As가 이끄는 부사절(As he went lazily on)이 '때'를 나타내고, 주절의 뼈대는 a man came in sight(한 남자가 눈에 들어왔다)이다. dragging ~과 trotting ~은 모두 분사구문으로, 앞의 것은 한스의 모습을, 뒤의 것은 말 탄 남자의 모습을 덧붙여 설명한다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거완료 had + 과거분사",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "had worked"
+      ],
+      "explanation": "had worked는 과거완료로, 이야기의 기준 시점(한스가 주인에게 말을 꺼낸 때)보다 더 앞서서 계속된 일을 나타낸다. '그때까지 칠 년 동안 일해 왔다'는 뜻이다.",
+      "example": {
+        "en": "She had lived in Seoul for ten years before she moved to Busan.",
+        "ko": "그녀는 부산으로 이사하기 전에 서울에서 10년 동안 살았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as + 형용사 + as: 원급 비교",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "as big as"
+      ],
+      "explanation": "as + 형용사/부사 원급 + as는 '~만큼 …한'이라는 뜻으로, 두 대상이 같은 정도임을 나타낸다. as big as his head는 '그의 머리만큼 큰'이라는 뜻으로 은덩어리가 얼마나 큰지 보여 준다.",
+      "example": {
+        "en": "This box is as heavy as a rock.",
+        "ko": "이 상자는 바위만큼 무겁다."
+      },
+      "note": "부정은 not as(so) ~ as: He is not as tall as his brother. (그는 형만큼 키가 크지 않다.)"
+    },
+    {
+      "id": "g3",
+      "title": "분사구문: 동시 동작",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "dragging one foot after another",
+        "trotting gaily along"
+      ],
+      "explanation": "동사원형-ing로 시작하는 구가 쉼표 뒤에 붙어 '~하면서'라는 동시 동작을 나타낸다. dragging one foot after another는 한스가 걷는 모습을, trotting gaily along은 말 탄 남자가 다가오는 모습을 생생하게 덧붙인다.",
+      "example": {
+        "en": "He walked down the street, singing a song.",
+        "ko": "그는 노래를 부르면서 길을 걸어갔다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤, 일부의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 남자",
+      "form": "복수형",
+      "synonyms": [
+        "people",
+        "persons"
+      ],
+      "ipa": "/mɛn/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (be born: 태어나다)",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "born": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(be born) 태어나다",
+      "form": "과거분사",
+      "ipa": "/bɔːrn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~으로; (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은, 착한",
+      "form": null,
+      "synonyms": [
+        "fine",
+        "nice",
+        "kind"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "luck": {
+      "lemma": "luck",
+      "pos": "noun",
+      "ko": "운, 행운",
+      "form": null,
+      "synonyms": [
+        "fortune",
+        "chance"
+      ],
+      "ipa": "/lʌk/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 모두",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform",
+        "carry out"
+      ],
+      "ipa": "/duː/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "try": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "시도하다, 해 보다",
+      "form": null,
+      "synonyms": [
+        "attempt"
+      ],
+      "ipa": "/traɪ/"
+    },
+    "comes": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(come right) 잘되다; 오다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "turn out",
+        "become"
+      ],
+      "ipa": "/kʌmz/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adjective",
+      "ko": "잘된, 옳은, 제대로 된",
+      "form": null,
+      "synonyms": [
+        "well",
+        "correct"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "falls": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(일·몫이) 떨어지다, 돌아오다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "come",
+        "drop"
+      ],
+      "ipa": "/fɔːlz/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들을, 그들에게",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "is": {
+      "lemma": "is",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그만큼; 그러니; 그렇게",
+      "form": null,
+      "synonyms": [
+        "thus",
+        "therefore"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adjective",
+      "ko": "많은 (so much gain: 그대로 이득)",
+      "form": null,
+      "synonyms": [
+        "a lot of"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "gain": {
+      "lemma": "gain",
+      "pos": "noun",
+      "ko": "이득, 이익",
+      "form": null,
+      "synonyms": [
+        "profit",
+        "benefit"
+      ],
+      "ipa": "/ɡeɪn/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "geese": {
+      "lemma": "goose",
+      "pos": "noun",
+      "ko": "거위",
+      "form": "복수형",
+      "synonyms": [
+        "fowl"
+      ],
+      "ipa": "/ɡiːs/"
+    },
+    "swans": {
+      "lemma": "swan",
+      "pos": "noun",
+      "ko": "백조",
+      "form": "복수형",
+      "ipa": "/swɑːnz/"
+    },
+    "cards": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드, 패",
+      "form": "복수형",
+      "ipa": "/kɑːrdz/"
+    },
+    "trumps": {
+      "lemma": "trump",
+      "pos": "noun",
+      "ko": "으뜸패, 비장의 카드",
+      "form": "복수형",
+      "synonyms": [
+        "winning card",
+        "ace"
+      ],
+      "ipa": "/trʌmps/"
+    },
+    "toss": {
+      "lemma": "toss",
+      "pos": "verb",
+      "ko": "던지다",
+      "form": null,
+      "synonyms": [
+        "throw",
+        "fling"
+      ],
+      "ipa": "/tɔːs/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "determiner",
+      "ko": "어느",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "쪽, 방향; 길",
+      "form": null,
+      "synonyms": [
+        "direction",
+        "path"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신 (일반적인 사람)",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다; ~하고 싶다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "언제나, 항상",
+      "form": null,
+      "synonyms": [
+        "forever",
+        "constantly"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가엾은, 불쌍한",
+      "form": null,
+      "synonyms": [
+        "pitiful",
+        "wretched"
+      ],
+      "ipa": "/puːr/"
+    },
+    "puss": {
+      "lemma": "puss",
+      "pos": "noun",
+      "ko": "고양이 (애칭)",
+      "form": null,
+      "synonyms": [
+        "cat",
+        "pussycat",
+        "kitty"
+      ],
+      "ipa": "/pʊs/"
+    },
+    "alight": {
+      "lemma": "alight",
+      "pos": "verb",
+      "ko": "내려앉다, 착지하다",
+      "form": null,
+      "synonyms": [
+        "land",
+        "settle"
+      ],
+      "ipa": "/əˈlaɪt/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~위에 (on보다 격식)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "legs": {
+      "lemma": "leg",
+      "pos": "noun",
+      "ko": "다리",
+      "form": "복수형",
+      "synonyms": [
+        "limb"
+      ],
+      "ipa": "/lɛɡz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, 그저",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "(move on) 나아가다, 움직이다",
+      "form": null,
+      "synonyms": [
+        "go",
+        "proceed"
+      ],
+      "ipa": "/muːv/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "adverb",
+      "ko": "계속, 앞으로; (전치사) ~위에, ~을 타고",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사); (the + 비교급) 그만큼 더",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "faster": {
+      "lemma": "fast",
+      "pos": "adverb",
+      "ko": "빨리",
+      "form": "비교급",
+      "synonyms": [
+        "quicker",
+        "more quickly"
+      ],
+      "ipa": "/ˈfæstər/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상, 세상 사람들",
+      "form": null,
+      "synonyms": [
+        "society",
+        "people"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "synonyms": [
+        "quite",
+        "really"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "likely": {
+      "lemma": "likely",
+      "pos": "adverb",
+      "ko": "(very likely) 아마도",
+      "form": null,
+      "synonyms": [
+        "probably",
+        "perhaps"
+      ],
+      "ipa": "/ˈlaɪkli/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다, 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다, 여기다",
+      "form": null,
+      "synonyms": [
+        "consider",
+        "regard"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 대해",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~처럼, ~만큼; ~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pronoun",
+      "ko": "그들 자신",
+      "form": null,
+      "ipa": "/ðɛmˈsɛlvz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇, 무엇을",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "care": {
+      "lemma": "care",
+      "pos": "verb",
+      "ko": "(what care they: 무슨 상관이겠는가) 신경 쓰다, 상관하다",
+      "form": null,
+      "synonyms": [
+        "mind",
+        "worry"
+      ],
+      "ipa": "/kɛr/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 위해; (기간) ~동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand",
+        "be aware of"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "matter": {
+      "lemma": "matter",
+      "pos": "noun",
+      "ko": "일, 문제",
+      "form": null,
+      "synonyms": [
+        "affair",
+        "issue",
+        "subject"
+      ],
+      "ipa": "/ˈmætər/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, 한 사람; (one foot) 한 쪽의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이런, 이",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "lucky": {
+      "lemma": "lucky",
+      "pos": "adjective",
+      "ko": "운 좋은",
+      "form": null,
+      "synonyms": [
+        "fortunate",
+        "blessed"
+      ],
+      "ipa": "/ˈlʌki/"
+    },
+    "beings": {
+      "lemma": "being",
+      "pos": "noun",
+      "ko": "존재, 사람",
+      "form": "복수형",
+      "synonyms": [
+        "creatures",
+        "people"
+      ],
+      "ipa": "/ˈbiːɪŋz/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "neighbour": {
+      "lemma": "neighbour",
+      "pos": "noun",
+      "ko": "이웃 (미국식 neighbor)",
+      "form": null,
+      "synonyms": [
+        "neighbor"
+      ],
+      "ipa": "/ˈneɪbər/"
+    },
+    "hans": {
+      "lemma": "Hans",
+      "pos": "proper-noun",
+      "ko": "한스 (이야기의 주인공 이름)",
+      "form": null,
+      "ipa": "/hɑːns/"
+    },
+    "seven": {
+      "lemma": "seven",
+      "pos": "number",
+      "ko": "일곱, 7",
+      "form": null,
+      "ipa": "/ˈsɛvən/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴, 오랜",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "ipa": "/jɪrz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had + 과거분사) 과거완료",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": "과거분사",
+      "synonyms": [
+        "labored",
+        "toiled"
+      ],
+      "ipa": "/wɜːrkt/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "열심히",
+      "form": null,
+      "synonyms": [
+        "diligently",
+        "industriously"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "employer",
+        "boss",
+        "lord"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at last) 마침내; ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내, 결국",
+      "form": null,
+      "synonyms": [
+        "finally"
+      ],
+      "ipa": "/læst/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "spoke"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "(일할) 기간, 시간",
+      "form": null,
+      "synonyms": [
+        "term",
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(be up) 끝난, 다 된",
+      "form": null,
+      "synonyms": [
+        "over",
+        "finished"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "leave",
+        "travel"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다, 만나다",
+      "form": null,
+      "synonyms": [
+        "visit",
+        "meet"
+      ],
+      "ipa": "/siː/"
+    },
+    "mother": {
+      "lemma": "mother",
+      "pos": "noun",
+      "ko": "어머니",
+      "form": null,
+      "synonyms": [
+        "mom",
+        "mum"
+      ],
+      "ipa": "/ˈmʌðər/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(once more) 한 번 더; 한 번",
+      "form": null,
+      "synonyms": [
+        "one time"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "(once more) 한 번 더, 더",
+      "form": null,
+      "synonyms": [
+        "again"
+      ],
+      "ipa": "/mɔːr/"
+    },
+    "pray": {
+      "lemma": "pray",
+      "pos": "adverb",
+      "ko": "부디, 제발 (옛 표현)",
+      "form": null,
+      "synonyms": [
+        "please",
+        "kindly"
+      ],
+      "ipa": "/preɪ/"
+    },
+    "pay": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(돈을) 주다, 지불하다",
+      "form": null,
+      "synonyms": [
+        "give",
+        "settle"
+      ],
+      "ipa": "/peɪ/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나에게, 나를",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "wages": {
+      "lemma": "wage",
+      "pos": "noun",
+      "ko": "품삯, 임금",
+      "form": "복수형",
+      "synonyms": [
+        "pay",
+        "salary",
+        "earnings"
+      ],
+      "ipa": "/ˈweɪdʒəz/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have + 과거분사) 현재완료",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "faithful": {
+      "lemma": "faithful",
+      "pos": "adjective",
+      "ko": "충실한, 성실한",
+      "form": null,
+      "synonyms": [
+        "loyal",
+        "devoted",
+        "reliable"
+      ],
+      "ipa": "/ˈfeɪθfəl/"
+    },
+    "servant": {
+      "lemma": "servant",
+      "pos": "noun",
+      "ko": "하인, 일꾼",
+      "form": null,
+      "synonyms": [
+        "worker",
+        "attendant",
+        "helper"
+      ],
+      "ipa": "/ˈsɜːrvənt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "너의, 당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~하게 될 것이다 (주인의 약속·의지)",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "handsome": {
+      "lemma": "handsome",
+      "pos": "adjective",
+      "ko": "(금액이) 넉넉한, 후한",
+      "form": null,
+      "synonyms": [
+        "generous",
+        "ample",
+        "large"
+      ],
+      "ipa": "/ˈhænsəm/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고 나서, 그때",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterward"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "과거형",
+      "synonyms": [
+        "handed",
+        "offered"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그에게, 그를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "lump": {
+      "lemma": "lump",
+      "pos": "noun",
+      "ko": "덩어리",
+      "form": null,
+      "synonyms": [
+        "chunk",
+        "block",
+        "piece"
+      ],
+      "ipa": "/lʌmp/"
+    },
+    "silver": {
+      "lemma": "silver",
+      "pos": "noun",
+      "ko": "은",
+      "form": null,
+      "synonyms": [
+        "sterling"
+      ],
+      "ipa": "/ˈsɪlvər/"
+    },
+    "big": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "ipa": "/bɪɡ/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": null,
+      "synonyms": [
+        "skull"
+      ],
+      "ipa": "/hɛd/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take out) 꺼내다",
+      "form": "과거형",
+      "synonyms": [
+        "pulled",
+        "drew"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로 (take out: 꺼내다)",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "pocket-handkerchief": {
+      "lemma": "pocket-handkerchief",
+      "pos": "noun",
+      "ko": "주머니 손수건",
+      "form": null,
+      "synonyms": [
+        "handkerchief",
+        "hanky"
+      ],
+      "ipa": "/ˈpɑːkət-ˈhæŋkərtʃɪf/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "넣다, 두다",
+      "form": "과거형",
+      "synonyms": [
+        "placed",
+        "set"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "piece": {
+      "lemma": "piece",
+      "pos": "noun",
+      "ko": "조각, 덩이",
+      "form": null,
+      "synonyms": [
+        "chunk",
+        "bit",
+        "lump"
+      ],
+      "ipa": "/piːs/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "threw": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던지다, 휙 걸치다",
+      "form": "과거형",
+      "synonyms": [
+        "tossed",
+        "flung",
+        "slung"
+      ],
+      "ipa": "/θruː/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~위로, ~너머로",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "shoulder": {
+      "lemma": "shoulder",
+      "pos": "noun",
+      "ko": "어깨",
+      "form": null,
+      "ipa": "/ˈʃoʊldər/"
+    },
+    "jogged": {
+      "lemma": "jog",
+      "pos": "verb",
+      "ko": "(jog off) 터벅터벅 걸어가다",
+      "form": "과거형",
+      "synonyms": [
+        "trudged",
+        "plodded"
+      ],
+      "ipa": "/dʒɑːɡd/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "떠나서, 출발하여",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "road": {
+      "lemma": "road",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "way",
+        "path",
+        "route"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "homewards": {
+      "lemma": "homewards",
+      "pos": "adverb",
+      "ko": "집 쪽으로 (미국식 homeward)",
+      "form": null,
+      "synonyms": [
+        "homeward",
+        "toward home"
+      ],
+      "ipa": "/ˈhoʊmwərdz/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "synonyms": [
+        "walked",
+        "traveled"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "lazily": {
+      "lemma": "lazily",
+      "pos": "adverb",
+      "ko": "느릿느릿, 게으르게",
+      "form": null,
+      "synonyms": [
+        "slowly",
+        "idly",
+        "sluggishly"
+      ],
+      "ipa": "/ˈlæzəli/"
+    },
+    "dragging": {
+      "lemma": "drag",
+      "pos": "verb",
+      "ko": "(발을) 끌다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "trailing",
+        "pulling"
+      ],
+      "ipa": "/ˈdræɡɪŋ/"
+    },
+    "foot": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": null,
+      "ipa": "/fʊt/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~뒤에 (one after another: 하나씩 차례로)",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "pronoun",
+      "ko": "또 하나, 다른 것",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow",
+        "gentleman"
+      ],
+      "ipa": "/mæn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come in sight: 눈에 들어오다)",
+      "form": "과거형",
+      "synonyms": [
+        "appeared",
+        "arrived"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~안에 (in sight: 보이는 곳에)",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "sight": {
+      "lemma": "sight",
+      "pos": "noun",
+      "ko": "시야, 보이는 범위",
+      "form": null,
+      "synonyms": [
+        "view",
+        "vision"
+      ],
+      "ipa": "/saɪt/"
+    },
+    "trotting": {
+      "lemma": "trot",
+      "pos": "verb",
+      "ko": "(말이) 빠른 걸음으로 가다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "jogging",
+        "riding"
+      ],
+      "ipa": "/ˈtrɑːtɪŋ/"
+    },
+    "gaily": {
+      "lemma": "gaily",
+      "pos": "adverb",
+      "ko": "즐겁게, 신나게",
+      "form": null,
+      "synonyms": [
+        "cheerfully",
+        "merrily",
+        "happily"
+      ],
+      "ipa": "/ˈɡeɪli/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "(길을 따라) 앞으로, 쭉",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "capital": {
+      "lemma": "capital",
+      "pos": "adjective",
+      "ko": "훌륭한, 아주 좋은 (옛 표현)",
+      "form": null,
+      "synonyms": [
+        "excellent",
+        "splendid",
+        "first-rate"
+      ],
+      "ipa": "/ˈkæpətəl/"
+    },
+    "horse": {
+      "lemma": "horse",
+      "pos": "noun",
+      "ko": "말",
+      "form": null,
+      "synonyms": [
+        "steed",
+        "mount"
+      ],
+      "ipa": "/hɔːrs/"
+    }
+  }
+}
