@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L1-3",
+  "date": "2026-11-24",
+  "level": 1,
+  "title": "The Bald Man and the Fly",
+  "titleKo": "대머리 남자와 파리",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_12_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_12_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "rk",
+    "durationSec": 77,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 12번 트랙(전체 162번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 110,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "파리 한 마리가 대머리 남자의 머리 위에 내려앉아 그를 물었다. 남자는 파리를 죽이려고 너무 서두른 나머지, 자기 머리를 세게 철썩 때리고 말았다. 하지만 파리는 달아났고, 그를 비웃으며 말했다. \"당신은 겨우 한 번 살짝 문 것 때문에 나를 죽이려고 했죠. 그럼 방금 당신이 스스로에게 한 그 세찬 한 방에 대해서는, 이제 당신 자신에게 어떻게 할 건가요?\" \"아, 그 한 방이라면 나는 원망하지 않아.\" 그가 대답했다. \"나는 나 자신을 해칠 생각이 전혀 없었으니까. 하지만 너는, 사람 피를 빨아 먹고 사는 이 비열한 벌레야, 너를 때려죽이는 통쾌함을 맛볼 수 있다면 그보다 훨씬 더 아픈 것도 참았을 거야!\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Fly settled on the head of a Bald Man and bit him.",
+      "ko": "파리 한 마리가 대머리 남자의 머리 위에 내려앉아 그를 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "In his eagerness to kill it, he hit himself a smart slap.",
+      "ko": "남자는 파리를 죽이려고 너무 서두른 나머지, 자기 머리를 세게 철썩 때리고 말았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But the Fly escaped, and said to him in derision, \"You tried to kill me for just one little bite; what will you do to yourself now, for the heavy smack you have just given yourself?\"",
+      "ko": "하지만 파리는 달아났고, 그를 비웃으며 말했다. \"당신은 겨우 한 번 살짝 문 것 때문에 나를 죽이려고 했죠. 그럼 방금 당신이 스스로에게 한 그 세찬 한 방에 대해서는, 이제 당신 자신에게 어떻게 할 건가요?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "\"Oh, for that blow I bear no grudge,\" he replied, \"for I never intended myself any harm; but as for you, you contemptible insect, who live by sucking human blood, I'd have borne a good deal more than that for the satisfaction of dashing the life out of you!\"",
+      "ko": "\"아, 그 한 방이라면 나는 원망하지 않아.\" 그가 대답했다. \"나는 나 자신을 해칠 생각이 전혀 없었으니까. 하지만 너는, 사람 피를 빨아 먹고 사는 이 비열한 벌레야, 너를 때려죽이는 통쾌함을 맛볼 수 있다면 그보다 훨씬 더 아픈 것도 참았을 거야!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "settle",
+      "pos": "verb",
+      "meaningKo": "(새·곤충이) 내려앉다",
+      "ipa": "/ˈsɛtəl/",
+      "synonyms": [
+        "land",
+        "alight",
+        "perch"
+      ],
+      "matchText": "settled",
+      "sentenceId": "s1",
+      "example": {
+        "en": "A bird settled on the roof.",
+        "ko": "새 한 마리가 지붕 위에 내려앉았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "eagerness",
+      "pos": "noun",
+      "meaningKo": "열망, 몹시 하고 싶은 마음",
+      "ipa": "/ˈiːɡərnəs/",
+      "synonyms": [
+        "keenness",
+        "desire",
+        "zeal"
+      ],
+      "matchText": "eagerness",
+      "sentenceId": "s2",
+      "example": {
+        "en": "In her eagerness to win, she ran too fast.",
+        "ko": "이기고 싶은 마음에 그녀는 너무 빨리 달렸다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "in derision",
+      "pos": "phrase",
+      "meaningKo": "비웃으며, 조롱하며",
+      "ipa": "/ɪn dɪˈrɪʒən/",
+      "synonyms": [
+        "mockingly",
+        "with scorn"
+      ],
+      "matchText": "in derision",
+      "sentenceId": "s3",
+      "example": {
+        "en": "They laughed in derision at his idea.",
+        "ko": "그들은 그의 생각을 비웃으며 웃었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "bear a grudge",
+      "pos": "idiom",
+      "meaningKo": "원한을 품다, 앙심을 품다",
+      "ipa": "/bɛr ə ɡrʌdʒ/",
+      "synonyms": [
+        "hold a grudge",
+        "resent"
+      ],
+      "matchText": "bear no grudge",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I don't bear a grudge against him.",
+        "ko": "나는 그에게 원한을 품고 있지 않다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "contemptible",
+      "pos": "adjective",
+      "meaningKo": "비열한, 경멸스러운",
+      "ipa": "/kənˈtɛmptəbəl/",
+      "synonyms": [
+        "despicable",
+        "mean",
+        "low"
+      ],
+      "matchText": "contemptible",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Lying to a child is contemptible.",
+        "ko": "아이에게 거짓말하는 것은 비열한 일이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "In his eagerness",
+          "role": "M",
+          "sub": false,
+          "ko": "그의 열망 속에서(너무 서두른 나머지)"
+        },
+        {
+          "text": "to kill it,",
+          "role": "M",
+          "sub": false,
+          "ko": "그것을 죽이려는"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "hit",
+          "role": "V",
+          "sub": false,
+          "ko": "때렸다"
+        },
+        {
+          "text": "himself",
+          "role": "IO",
+          "sub": false,
+          "ko": "자기 자신에게"
+        },
+        {
+          "text": "a smart slap.",
+          "role": "O",
+          "sub": false,
+          "ko": "세찬 손바닥 한 방을"
+        }
+      ],
+      "skeleton": "he hit himself a smart slap",
+      "explanation": "뼈대는 he hit himself a smart slap이에요. hit + 사람 + 때린 것(a smart slap)의 모양으로 '~에게 한 방을 먹이다'라는 뜻이 돼요. 앞의 In his eagerness to kill it은 '죽이고 싶은 마음이 앞서서'라는 이유·상황을 나타내요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "the Fly",
+          "role": "S",
+          "sub": false,
+          "ko": "파리는"
+        },
+        {
+          "text": "escaped,",
+          "role": "V",
+          "sub": false,
+          "ko": "달아났다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "to him",
+          "role": "M",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "in derision,",
+          "role": "M",
+          "sub": false,
+          "ko": "비웃으며"
+        },
+        {
+          "text": "\"You tried to kill me for just one little bite; what will you do to yourself now, for the heavy smack you have just given yourself?\"",
+          "role": "O",
+          "sub": false,
+          "ko": "\"겨우 한 번 문 것 때문에 날 죽이려 했죠. 방금 스스로에게 한 세찬 한 방에 대해선 이제 어떻게 할 건가요?\""
+        }
+      ],
+      "skeleton": "the Fly escaped, and said ~",
+      "explanation": "주어 the Fly에 동사 escaped와 said가 and로 이어져 있어요. to him(누구에게), in derision(어떻게)은 꾸며 주는 말이고, 따옴표 속 말 전체가 said의 목적어예요. 따옴표 안의 the heavy smack (that) you have just given yourself에서는 관계대명사 that이 생략됐어요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "목적격 관계대명사 생략",
+      "tags": [
+        "관계사",
+        "생략"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "the heavy smack you have just given yourself"
+      ],
+      "explanation": "the heavy smack 뒤에 that(또는 which)이 숨어 있어요. '네가 방금 너 자신에게 준 세찬 한 방'이라는 뜻이에요. 관계대명사가 목적어 역할을 할 때는 이렇게 생략할 수 있어요.",
+      "example": {
+        "en": "This is the book I bought yesterday.",
+        "ko": "이것은 내가 어제 산 책이다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "I'd have + 과거분사 (~했을 것이다)",
+      "tags": [
+        "가정법",
+        "조동사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "I'd have borne"
+      ],
+      "explanation": "I'd have borne은 I would have borne의 줄임말이에요. '(만약 너를 죽일 수 있었다면) 그보다 훨씬 더한 것도 참았을 것이다'라는, 실제로 일어나지 않은 일을 상상하는 표현이에요. borne은 bear(참다)의 과거분사예요.",
+      "example": {
+        "en": "I'd have come, but I was sick.",
+        "ko": "나는 갔을 텐데, 아팠어."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "fly": {
+      "lemma": "fly",
+      "pos": "noun",
+      "ko": "파리",
+      "form": null,
+      "synonyms": [
+        "insect",
+        "bug"
+      ],
+      "ipa": "/flaɪ/"
+    },
+    "settled": {
+      "lemma": "settle",
+      "pos": "verb",
+      "ko": "내려앉다",
+      "form": "과거형",
+      "synonyms": [
+        "land",
+        "alight"
+      ],
+      "ipa": "/ˈsɛtəld/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "head": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리",
+      "form": null,
+      "ipa": "/hɛd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "bald": {
+      "lemma": "bald",
+      "pos": "adjective",
+      "ko": "대머리의",
+      "form": null,
+      "synonyms": [
+        "hairless"
+      ],
+      "ipa": "/bɔːld/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "ipa": "/mæn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "bit": {
+      "lemma": "bite",
+      "pos": "verb",
+      "ko": "물다",
+      "form": "과거형",
+      "synonyms": [
+        "nip",
+        "sting"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 속에서, ~으로",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "eagerness": {
+      "lemma": "eagerness",
+      "pos": "noun",
+      "ko": "열망, 조급함",
+      "form": null,
+      "synonyms": [
+        "keenness",
+        "desire"
+      ],
+      "ipa": "/ˈiːɡərnəs/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하려는; ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "kill": {
+      "lemma": "kill",
+      "pos": "verb",
+      "ko": "죽이다",
+      "form": null,
+      "synonyms": [
+        "slay",
+        "swat"
+      ],
+      "ipa": "/kɪl/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "hit": {
+      "lemma": "hit",
+      "pos": "verb",
+      "ko": "때리다",
+      "form": "과거형",
+      "synonyms": [
+        "strike",
+        "smack"
+      ],
+      "ipa": "/hɪt/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": "재귀대명사",
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "smart": {
+      "lemma": "smart",
+      "pos": "adjective",
+      "ko": "(타격이) 세찬, 따끔한",
+      "form": null,
+      "synonyms": [
+        "sharp",
+        "stinging"
+      ],
+      "ipa": "/smɑːrt/"
+    },
+    "slap": {
+      "lemma": "slap",
+      "pos": "noun",
+      "ko": "찰싹 때리기",
+      "form": null,
+      "synonyms": [
+        "smack",
+        "blow"
+      ],
+      "ipa": "/slæp/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "escaped": {
+      "lemma": "escape",
+      "pos": "verb",
+      "ko": "달아나다",
+      "form": "과거형",
+      "synonyms": [
+        "get away",
+        "flee"
+      ],
+      "ipa": "/ɪˈskeɪpt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "speak",
+        "remark"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "derision": {
+      "lemma": "derision",
+      "pos": "noun",
+      "ko": "비웃음, 조롱",
+      "form": null,
+      "synonyms": [
+        "mockery",
+        "scorn"
+      ],
+      "ipa": "/dəˈrɪʒən/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "tried": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "애쓰다, ~하려고 하다",
+      "form": "과거형",
+      "synonyms": [
+        "attempt"
+      ],
+      "ipa": "/traɪd/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 때문에, ~에 대해; (접속사) 왜냐하면",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "겨우, 단지; 방금",
+      "form": null,
+      "synonyms": [
+        "only",
+        "merely"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "bite": {
+      "lemma": "bite",
+      "pos": "noun",
+      "ko": "(벌레가) 문 것",
+      "form": null,
+      "synonyms": [
+        "sting",
+        "nip"
+      ],
+      "ipa": "/baɪt/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "당신 자신",
+      "form": "재귀대명사",
+      "ipa": "/jərˈsɛlf/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "세찬, 강한",
+      "form": null,
+      "synonyms": [
+        "hard",
+        "powerful"
+      ],
+      "ipa": "/ˈhɛvi/"
+    },
+    "smack": {
+      "lemma": "smack",
+      "pos": "noun",
+      "ko": "철썩 때리기",
+      "form": null,
+      "synonyms": [
+        "slap",
+        "blow"
+      ],
+      "ipa": "/smæk/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료를 만드는 조동사); (would have) ~했을 것이다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "given": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": "과거분사",
+      "synonyms": [
+        "deal",
+        "hand"
+      ],
+      "ipa": "/ˈɡɪvən/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "아, 오",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그 (저); (대명사) 그것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "blow": {
+      "lemma": "blow",
+      "pos": "noun",
+      "ko": "(주먹·손으로) 때림, 한 방",
+      "form": null,
+      "synonyms": [
+        "hit",
+        "knock"
+      ],
+      "ipa": "/bloʊ/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "bear": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(감정을) 품다; 참다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "carry"
+      ],
+      "ipa": "/bɛr/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "grudge": {
+      "lemma": "grudge",
+      "pos": "noun",
+      "ko": "원한, 앙심",
+      "form": null,
+      "synonyms": [
+        "resentment",
+        "ill will"
+      ],
+      "ipa": "/ɡrʌdʒ/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~ 않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "intended": {
+      "lemma": "intend",
+      "pos": "verb",
+      "ko": "의도하다, ~할 생각이다",
+      "form": "과거형",
+      "synonyms": [
+        "mean",
+        "plan"
+      ],
+      "ipa": "/ˌɪnˈtɛndɪd/"
+    },
+    "myself": {
+      "lemma": "myself",
+      "pos": "pronoun",
+      "ko": "나 자신",
+      "form": "재귀대명사",
+      "ipa": "/ˌmaɪˈsɛlf/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~도",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "harm": {
+      "lemma": "harm",
+      "pos": "noun",
+      "ko": "해, 피해",
+      "form": null,
+      "synonyms": [
+        "hurt",
+        "injury"
+      ],
+      "ipa": "/hɑːrm/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "(as for) ~에 관해서는",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "contemptible": {
+      "lemma": "contemptible",
+      "pos": "adjective",
+      "ko": "비열한, 경멸스러운",
+      "form": null,
+      "synonyms": [
+        "despicable",
+        "mean"
+      ],
+      "ipa": "/kənˈtɛmptəbəl/"
+    },
+    "insect": {
+      "lemma": "insect",
+      "pos": "noun",
+      "ko": "곤충, 벌레",
+      "form": null,
+      "synonyms": [
+        "bug",
+        "pest"
+      ],
+      "ipa": "/ˈɪnˌsɛkt/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "live": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": null,
+      "synonyms": [
+        "exist",
+        "survive"
+      ],
+      "ipa": "/laɪv/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~함으로써",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "sucking": {
+      "lemma": "suck",
+      "pos": "verb",
+      "ko": "빨다",
+      "form": "동명사",
+      "synonyms": [
+        "draw",
+        "drain"
+      ],
+      "ipa": "/ˈsʌkɪŋ/"
+    },
+    "human": {
+      "lemma": "human",
+      "pos": "adjective",
+      "ko": "사람의, 인간의",
+      "form": null,
+      "ipa": "/ˈhjuːmən/"
+    },
+    "blood": {
+      "lemma": "blood",
+      "pos": "noun",
+      "ko": "피",
+      "form": null,
+      "ipa": "/blʌd/"
+    },
+    "i'd": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는 ~했을 것이다",
+      "form": "줄임말 (I would)",
+      "ipa": "/aɪd/"
+    },
+    "borne": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "참다, 견디다",
+      "form": "과거분사",
+      "synonyms": [
+        "endure",
+        "put up with"
+      ],
+      "ipa": "/bɔːrn/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "(a good deal) 상당한",
+      "form": null,
+      "ipa": "/ɡʊd/"
+    },
+    "deal": {
+      "lemma": "deal",
+      "pos": "noun",
+      "ko": "(a good deal) 많은 양",
+      "form": null,
+      "synonyms": [
+        "lot",
+        "amount"
+      ],
+      "ipa": "/diːl/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adjective",
+      "ko": "더 많은",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "preposition",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "satisfaction": {
+      "lemma": "satisfaction",
+      "pos": "noun",
+      "ko": "만족, 통쾌함",
+      "form": null,
+      "synonyms": [
+        "pleasure",
+        "delight"
+      ],
+      "ipa": "/ˌsætəsˈfækʃən/"
+    },
+    "dashing": {
+      "lemma": "dash",
+      "pos": "verb",
+      "ko": "(dash the life out of) 때려죽이다",
+      "form": "동명사",
+      "synonyms": [
+        "smash",
+        "knock"
+      ],
+      "ipa": "/ˈdæʃɪŋ/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "목숨, 생명",
+      "form": null,
+      "ipa": "/laɪf/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    }
+  }
+}
