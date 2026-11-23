@@ -1,0 +1,1302 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-24-L1-part6",
+  "date": "2026-11-24",
+  "level": 1,
+  "title": "Your Business Trip Itinerary",
+  "titleKo": "출장 일정 안내 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "출장·여행"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 113,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Brooks 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "Silverline 여행사에서 출장을 예약해 주셔서 감사합니다. 시카고행 항공편은 3월 9일 월요일 오전 8시에 출발합니다. 출발 최소 두 시간 전에 공항에 도착해 주세요."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "또한 Lakeview 호텔에 3박 일정으로 객실을 예약해 두었습니다. 호텔은 회의장에서 걸어서 5분밖에 걸리지 않습니다. 그래서 차를 빌리실 필요가 없습니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "첨부된 여행 일정표를 확인하시고 잘못된 점이 있으면 즉시 연락해 주세요. 전자 항공권은 금요일에 이메일로 보내 드립니다. 즐거운 여행 되시기를 바랍니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "진심을 담아,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "Megan Torres, Silverline 여행사"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Brooks,",
+      "ko": "Brooks 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for booking your business trip with Silverline Travel.",
+      "ko": "Silverline 여행사에서 출장을 예약해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Your flight to Chicago leaves on Monday, March 9, at eight in the morning.",
+      "ko": "시카고행 항공편은 3월 9일 월요일 오전 8시에 출발합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Please arrive at the airport at least two hours before departure.",
+      "ko": "출발 최소 두 시간 전에 공항에 도착해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "We have also reserved a room for you at the Lakeview Hotel for three nights.",
+      "ko": "또한 Lakeview 호텔에 3박 일정으로 객실을 예약해 두었습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "The hotel is only a five-minute walk from the conference center.",
+      "ko": "호텔은 회의장에서 걸어서 5분밖에 걸리지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Because of this, you will not need to rent a car.",
+      "ko": "그래서 차를 빌리실 필요가 없습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Please review the attached itinerary and contact us immediately if you find any mistakes.",
+      "ko": "첨부된 여행 일정표를 확인하시고 잘못된 점이 있으면 즉시 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Your electronic tickets will be sent to you by e-mail on Friday.",
+      "ko": "전자 항공권은 금요일에 이메일로 보내 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "We hope you have a pleasant trip.",
+      "ko": "즐거운 여행 되시기를 바랍니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Sincerely,",
+      "ko": "진심을 담아,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Megan Torres, Silverline Travel",
+      "ko": "Megan Torres, Silverline 여행사",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "term": "departure",
+      "pos": "noun",
+      "meaningKo": "출발",
+      "ipa": "/dɪˈpɑːrtʃər/",
+      "synonyms": [
+        "leaving",
+        "takeoff"
+      ],
+      "matchText": "departure",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Departure is scheduled for noon.",
+        "ko": "출발은 정오로 예정되어 있다."
+      },
+      "id": "v1"
+    },
+    {
+      "term": "reserve",
+      "pos": "verb",
+      "meaningKo": "예약하다",
+      "ipa": "/rɪˈzɜːrv/",
+      "synonyms": [
+        "book",
+        "hold"
+      ],
+      "matchText": "reserved",
+      "sentenceId": "s5",
+      "example": {
+        "en": "I reserved a table for four.",
+        "ko": "나는 네 명 자리를 예약했다."
+      },
+      "id": "v2"
+    },
+    {
+      "term": "rent",
+      "pos": "verb",
+      "meaningKo": "(돈을 내고) 빌리다",
+      "ipa": "/rɛnt/",
+      "synonyms": [
+        "hire",
+        "lease"
+      ],
+      "matchText": "rent",
+      "sentenceId": "s7",
+      "example": {
+        "en": "We rented a van for the move.",
+        "ko": "우리는 이사하려고 승합차를 빌렸다."
+      },
+      "id": "v3"
+    },
+    {
+      "term": "itinerary",
+      "pos": "noun",
+      "meaningKo": "여행 일정표",
+      "ipa": "/aɪˈtɪnəˌrɛri/",
+      "synonyms": [
+        "schedule",
+        "travel plan"
+      ],
+      "matchText": "itinerary",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Here is your itinerary for the trip.",
+        "ko": "여기 출장 일정표가 있습니다."
+      },
+      "id": "v4"
+    },
+    {
+      "term": "attached",
+      "pos": "adjective",
+      "meaningKo": "첨부된",
+      "ipa": "/əˈtætʃt/",
+      "synonyms": [
+        "enclosed",
+        "included"
+      ],
+      "matchText": "attached",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Please read the attached file.",
+        "ko": "첨부된 파일을 읽어 주세요."
+      },
+      "id": "v5"
+    }
+  ],
+  "structures": [
+    {
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Your flight to Chicago",
+          "role": "S",
+          "ko": "시카고행 항공편은"
+        },
+        {
+          "text": "leaves",
+          "role": "V",
+          "ko": "출발한다"
+        },
+        {
+          "text": "on Monday, March 9,",
+          "role": "M",
+          "ko": "3월 9일 월요일에"
+        },
+        {
+          "text": "at eight in the morning.",
+          "role": "M",
+          "ko": "오전 8시에"
+        }
+      ],
+      "skeleton": "Your flight leaves on Monday.",
+      "explanation": "주어는 flight(단수) 하나이므로 동사는 3인칭 단수 leaves. 정해진 일정(시간표)은 현재 시제로 미래를 나타낼 수 있다.",
+      "id": "st1"
+    },
+    {
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "Please review",
+          "role": "V",
+          "ko": "확인해 주세요"
+        },
+        {
+          "text": "the attached itinerary",
+          "role": "O",
+          "ko": "첨부된 일정표를"
+        },
+        {
+          "text": "and contact",
+          "role": "V",
+          "ko": "그리고 연락해 주세요"
+        },
+        {
+          "text": "us",
+          "role": "O",
+          "ko": "저희에게"
+        },
+        {
+          "text": "immediately",
+          "role": "M",
+          "ko": "즉시"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "ko": "만약 ~라면"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "당신이",
+          "sub": true
+        },
+        {
+          "text": "find",
+          "role": "V",
+          "ko": "발견하다",
+          "sub": true
+        },
+        {
+          "text": "any mistakes.",
+          "role": "O",
+          "ko": "어떤 잘못이라도",
+          "sub": true
+        }
+      ],
+      "skeleton": "Please review the itinerary and contact us.",
+      "explanation": "Please로 시작하는 명령문. review와 contact 두 동사가 and로 이어지고, if절이 조건을 덧붙인다.",
+      "id": "st2"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "현재 시제로 나타내는 확정된 일정",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "leaves"
+      ],
+      "explanation": "비행기·기차 출발처럼 시간표로 정해진 미래 일은 현재 시제로 쓸 수 있다. 주어 Your flight가 단수라 leaves.",
+      "example": {
+        "en": "The train leaves at six tonight.",
+        "ko": "기차는 오늘 밤 6시에 출발한다."
+      },
+      "note": "주어가 단수인지 복수인지 먼저 확인하고 동사의 -s를 고르자.",
+      "id": "g1"
+    },
+    {
+      "title": "미래 수동태 will be + p.p.",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "will be sent"
+      ],
+      "explanation": "항공권(tickets)은 '보내지는' 대상이므로 수동태. 앞으로의 일이라 will be + p.p.",
+      "example": {
+        "en": "The report will be sent tomorrow.",
+        "ko": "보고서는 내일 보내질 것이다."
+      },
+      "note": "사물 주어 + 목적어 없음 → 수동태.",
+      "id": "g2"
+    },
+    {
+      "title": "수단의 전치사 by",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "by e-mail"
+      ],
+      "explanation": "by + 수단(교통·통신)은 '~로, ~을 통해'라는 뜻. by e-mail, by phone, by bus처럼 관사 없이 쓴다.",
+      "example": {
+        "en": "You can pay by credit card.",
+        "ko": "신용카드로 결제할 수 있다."
+      },
+      "note": "by 뒤 수단 명사에는 a/the를 붙이지 않는다.",
+      "id": "g3"
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "(편지 첫머리) ~께",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~ 씨 (남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "brooks": {
+      "lemma": "Brooks",
+      "pos": "proper-noun",
+      "ko": "브룩스 (사람 성)",
+      "form": null,
+      "ipa": "/brʊks/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "booking": {
+      "lemma": "book",
+      "pos": "verb",
+      "ko": "예약하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "reserving",
+        "arranging"
+      ],
+      "ipa": "/ˈbʊkɪŋ/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "사업, 업무",
+      "form": null,
+      "synonyms": [
+        "work",
+        "commerce"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "trip": {
+      "lemma": "trip",
+      "pos": "noun",
+      "ko": "여행, 출장",
+      "form": null,
+      "synonyms": [
+        "journey",
+        "visit"
+      ],
+      "ipa": "/trɪp/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~에서",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "silverline": {
+      "lemma": "Silverline",
+      "pos": "proper-noun",
+      "ko": "실버라인 (여행사 이름)",
+      "form": null,
+      "ipa": "/ˈsɪlvərlaɪn/"
+    },
+    "travel": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "여행",
+      "form": null,
+      "synonyms": [
+        "tourism",
+        "journey"
+      ],
+      "ipa": "/ˈtrævəl/"
+    },
+    "flight": {
+      "lemma": "flight",
+      "pos": "noun",
+      "ko": "항공편",
+      "form": null,
+      "synonyms": [
+        "plane",
+        "air trip"
+      ],
+      "ipa": "/flaɪt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로, ~에게; (to부정사) ~하기",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "chicago": {
+      "lemma": "Chicago",
+      "pos": "proper-noun",
+      "ko": "시카고 (미국 도시)",
+      "form": null,
+      "ipa": "/ʃəˈkɑːˌɡoʊ/"
+    },
+    "leaves": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "출발하다, 떠나다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "departs",
+        "takes off"
+      ],
+      "ipa": "/liːvz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(날짜·요일) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "form": null,
+      "ipa": "/mɑːrtʃ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(장소·시각) ~에서, ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "eight": {
+      "lemma": "eight",
+      "pos": "number",
+      "ko": "8, 여덟 (시)",
+      "form": null,
+      "ipa": "/eɪt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "synonyms": [
+        "dawn",
+        "a.m."
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "get to",
+        "reach"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "airport": {
+      "lemma": "airport",
+      "pos": "noun",
+      "ko": "공항",
+      "form": null,
+      "synonyms": [
+        "airfield",
+        "terminal"
+      ],
+      "ipa": "/ˈɛrˌpɔːrt/"
+    },
+    "least": {
+      "lemma": "least",
+      "pos": "adjective",
+      "ko": "(at least) 최소한, 적어도",
+      "form": "최상급",
+      "synonyms": [
+        "minimum"
+      ],
+      "ipa": "/liːst/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "synonyms": [
+        "sixty minutes"
+      ],
+      "ipa": "/ˈaʊərz/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "departure": {
+      "lemma": "departure",
+      "pos": "noun",
+      "ko": "출발",
+      "form": null,
+      "synonyms": [
+        "leaving",
+        "takeoff"
+      ],
+      "ipa": "/dɪˈpɑːrtʃər/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다; (완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한, ~도",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "reserved": {
+      "lemma": "reserve",
+      "pos": "verb",
+      "ko": "예약하다",
+      "form": "과거분사",
+      "synonyms": [
+        "booked",
+        "held"
+      ],
+      "ipa": "/rɪˈzɜːrvd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "(호텔) 객실, 방",
+      "form": null,
+      "synonyms": [
+        "accommodation",
+        "suite"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "lakeview": {
+      "lemma": "Lakeview",
+      "pos": "proper-noun",
+      "ko": "레이크뷰 (호텔 이름)",
+      "form": null,
+      "ipa": "/ˈleɪkˌvjuː/"
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔",
+      "form": null,
+      "synonyms": [
+        "inn",
+        "lodge"
+      ],
+      "ipa": "/hoʊˈtɛl/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "nights": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤, ~박",
+      "form": "복수형",
+      "synonyms": [
+        "evenings"
+      ],
+      "ipa": "/naɪts/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "단지, ~밖에",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "five-minute": {
+      "lemma": "five-minute",
+      "pos": "adjective",
+      "ko": "5분 걸리는",
+      "form": null,
+      "synonyms": [
+        "short"
+      ],
+      "ipa": "/faɪv-ˈmɪnət/"
+    },
+    "walk": {
+      "lemma": "walk",
+      "pos": "noun",
+      "ko": "걷기, 걸어가는 거리",
+      "form": null,
+      "synonyms": [
+        "stroll"
+      ],
+      "ipa": "/wɔːk/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "회의, 학회",
+      "form": null,
+      "synonyms": [
+        "convention",
+        "meeting"
+      ],
+      "ipa": "/ˈkɑːnfərəns/"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터, 중심 시설",
+      "form": null,
+      "synonyms": [
+        "hall",
+        "venue"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "preposition",
+      "ko": "(because of) ~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이 점",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다",
+      "form": null,
+      "synonyms": [
+        "require",
+        "have to"
+      ],
+      "ipa": "/niːd/"
+    },
+    "rent": {
+      "lemma": "rent",
+      "pos": "verb",
+      "ko": "(돈을 내고) 빌리다",
+      "form": null,
+      "synonyms": [
+        "hire",
+        "lease"
+      ],
+      "ipa": "/rɛnt/"
+    },
+    "car": {
+      "lemma": "car",
+      "pos": "noun",
+      "ko": "자동차",
+      "form": null,
+      "synonyms": [
+        "vehicle",
+        "automobile"
+      ],
+      "ipa": "/kɑːr/"
+    },
+    "review": {
+      "lemma": "review",
+      "pos": "verb",
+      "ko": "검토하다, 확인하다",
+      "form": null,
+      "synonyms": [
+        "check",
+        "look over"
+      ],
+      "ipa": "/ˌriːˈvjuː/"
+    },
+    "attached": {
+      "lemma": "attached",
+      "pos": "adjective",
+      "ko": "첨부된",
+      "form": null,
+      "synonyms": [
+        "enclosed",
+        "included"
+      ],
+      "ipa": "/əˈtætʃt/"
+    },
+    "itinerary": {
+      "lemma": "itinerary",
+      "pos": "noun",
+      "ko": "여행 일정표",
+      "form": null,
+      "synonyms": [
+        "schedule",
+        "travel plan"
+      ],
+      "ipa": "/aɪˈtɪnəˌrɛri/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를, 저희에게",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "immediately": {
+      "lemma": "immediately",
+      "pos": "adverb",
+      "ko": "즉시",
+      "form": null,
+      "synonyms": [
+        "right away",
+        "at once"
+      ],
+      "ipa": "/ˌɪˈmiːˌdiːətli/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다, 찾다",
+      "form": null,
+      "synonyms": [
+        "discover",
+        "notice"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~든, 아무",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "mistakes": {
+      "lemma": "mistake",
+      "pos": "noun",
+      "ko": "실수, 잘못",
+      "form": "복수형",
+      "synonyms": [
+        "errors",
+        "problems"
+      ],
+      "ipa": "/mɪˈsteɪks/"
+    },
+    "electronic": {
+      "lemma": "electronic",
+      "pos": "adjective",
+      "ko": "전자의",
+      "form": null,
+      "synonyms": [
+        "digital",
+        "online"
+      ],
+      "ipa": "/ˌɪˌlɛkˈtrɑːnɪk/"
+    },
+    "tickets": {
+      "lemma": "ticket",
+      "pos": "noun",
+      "ko": "표, 항공권",
+      "form": "복수형",
+      "synonyms": [
+        "passes",
+        "boarding passes"
+      ],
+      "ipa": "/ˈtɪkəts/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": "과거분사",
+      "synonyms": [
+        "delivered",
+        "e-mailed"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지; ~로(수단)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "electronic mail"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "hope": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "바라다, 희망하다",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "expect"
+      ],
+      "ipa": "/hoʊp/"
+    },
+    "pleasant": {
+      "lemma": "pleasant",
+      "pos": "adjective",
+      "ko": "즐거운, 기분 좋은",
+      "form": null,
+      "synonyms": [
+        "enjoyable",
+        "nice"
+      ],
+      "ipa": "/ˈplɛzənt/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "(편지 맺음말) 진심을 담아",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "respectfully"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "megan": {
+      "lemma": "Megan",
+      "pos": "proper-noun",
+      "ko": "메건 (여자 이름)",
+      "form": null,
+      "ipa": "/ˈmeɪɡən/"
+    },
+    "torres": {
+      "lemma": "Torres",
+      "pos": "proper-noun",
+      "ko": "토레스 (사람 성)",
+      "form": null,
+      "ipa": "/ˈtɔːˌrɛz/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "leaves"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "leave"
+        },
+        {
+          "key": "B",
+          "text": "leaves"
+        },
+        {
+          "key": "C",
+          "text": "leaving"
+        },
+        {
+          "key": "D",
+          "text": "to leave"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "빈칸은 문장의 동사 자리. 주어 Your flight가 단수이므로 3인칭 단수 leaves가 정답. 시간표로 정해진 일정이라 현재 시제를 쓴다.",
+      "choiceNotesKo": {
+        "A": "복수 주어에 쓰는 형태라 단수 flight와 맞지 않는다.",
+        "C": "-ing형만으로는 문장의 동사가 될 수 없다."
+      },
+      "skill": "동사 자리(수 일치)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "The hotel is only a five-minute walk from the conference center."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Our office is closed on weekends."
+        },
+        {
+          "key": "B",
+          "text": "Your return flight was canceled last week."
+        },
+        {
+          "key": "C",
+          "text": "The conference center has a large parking lot."
+        },
+        {
+          "key": "D",
+          "text": "The hotel is only a five-minute walk from the conference center."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "다음 문장 'Because of this, you will not need to rent a car(그래서 차를 빌릴 필요가 없다)'가 단서. 차가 필요 없는 이유는 호텔이 회의장에서 걸어갈 수 있을 만큼 가깝기 때문이다.",
+      "choiceNotesKo": {
+        "C": "주차장이 크다는 것은 오히려 차를 쓰라는 말이라 다음 문장과 이어지지 않는다.",
+        "B": "호텔 이야기 중간에 갑자기 나오고, 차를 빌릴 필요가 없다는 내용과도 관계없다."
+      },
+      "skill": "문장 넣기(Because of this 단서)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "immediately"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "immediately"
+        },
+        {
+          "key": "B",
+          "text": "immediate"
+        },
+        {
+          "key": "C",
+          "text": "immediacy"
+        },
+        {
+          "key": "D",
+          "text": "more immediate"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "contact us(동사 + 목적어) 뒤에서 동사를 꾸미는 부사 자리. immediately(즉시)가 정답.",
+      "choiceNotesKo": {
+        "B": "형용사라 동사를 꾸밀 수 없다."
+      },
+      "skill": "부사 자리(동사 + 목적어 뒤)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "by"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "by"
+        },
+        {
+          "key": "D",
+          "text": "of"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "'이메일로' 보낸다는 수단을 나타낼 때는 by e-mail. by + 수단(관사 없이).",
+      "choiceNotesKo": {
+        "A": "for e-mail은 '이메일을 위해'라는 뜻이 되어 어색하다."
+      },
+      "skill": "수단의 전치사 by"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "pleasant"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "pleasant"
+        },
+        {
+          "key": "B",
+          "text": "delicious"
+        },
+        {
+          "key": "C",
+          "text": "empty"
+        },
+        {
+          "key": "D",
+          "text": "patient"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "have a pleasant trip = 즐거운 여행을 하다. 여행(trip)을 꾸미기에 자연스러운 형용사는 pleasant(즐거운).",
+      "choiceNotesKo": {
+        "B": "음식에만 쓰는 말(맛있는)이라 trip과 어울리지 않는다.",
+        "D": "사람의 성격(참을성 있는)을 나타낸다."
+      },
+      "skill": "형용사 어휘(a pleasant trip)"
+    }
+  ]
+}
