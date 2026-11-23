@@ -1,0 +1,1605 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-24-L4-part6",
+  "date": "2026-11-24",
+  "level": 4,
+  "title": "Defective Refrigerator Response Letter",
+  "titleKo": "냉장고 결함 문의 답변 편지",
+  "genre": "letter",
+  "tags": [
+    "TOEIC Part 6",
+    "편지",
+    "고객 서비스"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 158,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "린드크비스트 님께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "저희 페어뷰 매장에서 구입하신 냉장고에 관해 10월 28일에 보내 주신 편지 감사합니다. 배송된 지 겨우 3주 만에 제품의 냉각 기능이 멈췄다는 소식을 듣고 무척 유감스러웠습니다. 11월 3일에 제품을 점검한 저희 기술자가 압축기에 결함이 있었음을 확인했습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "저희는 냉장고를 무상으로 교체해 드릴 뿐만 아니라, 상한 음식에 대해서도 변상해 드릴 준비가 되어 있습니다. 정확한 금액을 계산할 수 있도록 식료품 영수증을 우편이나 이메일로 보내 주십시오. 환급금은 보통 저희가 영수증을 받은 날로부터 영업일 기준 10일 이내에 지급됩니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "교체용 냉장고는 11월 15일에 배송되며, 그때 저희 작업반이 결함 있는 제품을 수거해 갈 것입니다. 이번 일로 댁에 불편을 끼쳐 드린 점 깊이 사과드립니다. 추가로 궁금하신 점이 있으시면 내선 214번으로 제게 직접 연락해 주십시오."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "진심을 담아,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "마리솔 에체베리아"
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "코베인 가전 고객 관리 매니저"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Lindqvist,",
+      "ko": "린드크비스트 님께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for your letter of October 28 regarding the refrigerator you purchased from our Fairview store.",
+      "ko": "저희 페어뷰 매장에서 구입하신 냉장고에 관해 10월 28일에 보내 주신 편지 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "We were sorry to learn that the unit stopped cooling barely three weeks after it was delivered.",
+      "ko": "배송된 지 겨우 3주 만에 제품의 냉각 기능이 멈췄다는 소식을 듣고 무척 유감스러웠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Our technician, who inspected the appliance on November 3, has confirmed that the compressor was defective.",
+      "ko": "11월 3일에 제품을 점검한 저희 기술자가 압축기에 결함이 있었음을 확인했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Not only will we replace the refrigerator at no cost, but we are also prepared to reimburse you for any food that spoiled.",
+      "ko": "저희는 냉장고를 무상으로 교체해 드릴 뿐만 아니라, 상한 음식에 대해서도 변상해 드릴 준비가 되어 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Please mail or e-mail us your grocery receipts so that we can calculate the exact amount.",
+      "ko": "정확한 금액을 계산할 수 있도록 식료품 영수증을 우편이나 이메일로 보내 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Reimbursement is typically issued within ten business days of our receiving them.",
+      "ko": "환급금은 보통 저희가 영수증을 받은 날로부터 영업일 기준 10일 이내에 지급됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Your replacement refrigerator will be delivered on November 15, and our crew will haul away the defective unit at the same time.",
+      "ko": "교체용 냉장고는 11월 15일에 배송되며, 그때 저희 작업반이 결함 있는 제품을 수거해 갈 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "We deeply regret the disruption this situation has caused your household.",
+      "ko": "이번 일로 댁에 불편을 끼쳐 드린 점 깊이 사과드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Should you have any further questions, please contact me directly at extension 214.",
+      "ko": "추가로 궁금하신 점이 있으시면 내선 214번으로 제게 직접 연락해 주십시오.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Sincerely,",
+      "ko": "진심을 담아,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Marisol Etxeberria",
+      "ko": "마리솔 에체베리아",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Customer Relations Manager, Corvane Appliances",
+      "ko": "코베인 가전 고객 관리 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "defective",
+      "pos": "adjective",
+      "meaningKo": "결함이 있는",
+      "ipa": "/dɪˈfektɪv/",
+      "synonyms": [
+        "faulty",
+        "broken"
+      ],
+      "matchText": "defective",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Customers may return defective items within thirty days.",
+        "ko": "고객은 결함 있는 제품을 30일 이내에 반품할 수 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "reimburse",
+      "pos": "verb",
+      "meaningKo": "(비용을) 변상하다, 환급하다",
+      "ipa": "/ˌriːɪmˈbɜːrs/",
+      "synonyms": [
+        "repay",
+        "compensate"
+      ],
+      "matchText": "reimburse",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The company will reimburse you for travel expenses.",
+        "ko": "회사가 출장 경비를 환급해 줄 것이다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "receipt",
+      "pos": "noun",
+      "meaningKo": "영수증",
+      "ipa": "/rɪˈsiːt/",
+      "synonyms": [
+        "proof of purchase"
+      ],
+      "matchText": "receipts",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Please keep your receipt in case you need to return the item.",
+        "ko": "반품이 필요할 경우를 대비해 영수증을 보관하세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "haul away",
+      "pos": "verb",
+      "meaningKo": "실어 가다, 수거해 가다",
+      "ipa": "/hɔːl əˈweɪ/",
+      "synonyms": [
+        "remove",
+        "take away"
+      ],
+      "matchText": "haul away",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The movers will haul away any unwanted furniture.",
+        "ko": "이삿짐 업체가 필요 없는 가구를 실어 갈 것이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "disruption",
+      "pos": "noun",
+      "meaningKo": "지장, 혼란",
+      "ipa": "/dɪsˈrʌpʃən/",
+      "synonyms": [
+        "disturbance",
+        "interruption"
+      ],
+      "matchText": "disruption",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The road work caused major disruption to local traffic.",
+        "ko": "도로 공사로 지역 교통에 큰 지장이 생겼다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Our technician,",
+          "role": "S",
+          "ko": "저희 기술자는"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "~한"
+        },
+        {
+          "text": "inspected",
+          "role": "V",
+          "ko": "점검했다",
+          "sub": true
+        },
+        {
+          "text": "the appliance",
+          "role": "O",
+          "ko": "제품을",
+          "sub": true
+        },
+        {
+          "text": "on November 3,",
+          "role": "M",
+          "ko": "11월 3일에",
+          "sub": true
+        },
+        {
+          "text": "has confirmed",
+          "role": "V",
+          "ko": "확인했다"
+        },
+        {
+          "text": "that the compressor was defective.",
+          "role": "O",
+          "ko": "압축기에 결함이 있었다는 것을"
+        }
+      ],
+      "skeleton": "S, [who + V + O + M], + V + that절(O)",
+      "explanation": "주어 Our technician 뒤에 콤마로 관계대명사절(who ~)을 넣어 설명을 덧붙였다. 진짜 동사는 has confirmed이고 목적어는 that절."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Not only",
+          "role": "M",
+          "ko": "~뿐만 아니라"
+        },
+        {
+          "text": "will",
+          "role": "V",
+          "ko": "(조동사)"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "replace",
+          "role": "V",
+          "ko": "교체할 것이다"
+        },
+        {
+          "text": "the refrigerator",
+          "role": "O",
+          "ko": "냉장고를"
+        },
+        {
+          "text": "at no cost,",
+          "role": "M",
+          "ko": "무상으로"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "ko": "그러나(but also)"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "ko": "~이다"
+        },
+        {
+          "text": "also prepared",
+          "role": "C",
+          "ko": "또한 준비가 된"
+        },
+        {
+          "text": "to reimburse you for any food that spoiled.",
+          "role": "M",
+          "ko": "상한 음식에 대해 변상해 드릴"
+        }
+      ],
+      "skeleton": "Not only + 조동사 + S + V ~, but S + also ~",
+      "explanation": "Not only가 문장 앞으로 나와 조동사 will이 주어 we 앞으로 도치되었다. 뒤에는 but (S) also가 짝으로 온다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Not only 도치",
+      "tags": [
+        "도치"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "Not only will we replace"
+      ],
+      "explanation": "부정어 Not only가 문장 맨 앞에 오면 의문문처럼 '조동사 + 주어 + 동사원형' 순서로 바뀐다. 뒤에는 보통 but (also)가 이어진다.",
+      "example": {
+        "en": "Not only does the hotel offer free parking, but it also provides airport shuttles.",
+        "ko": "그 호텔은 무료 주차를 제공할 뿐 아니라 공항 셔틀도 운행한다."
+      },
+      "note": "Not only + 빈칸 + 주어 + 동사원형 → 빈칸은 조동사(will/do/does/did)."
+    },
+    {
+      "id": "g2",
+      "title": "가정법 미래 도치 (Should + S + 동사원형)",
+      "tags": [
+        "가정법",
+        "도치"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "Should you have any further questions"
+      ],
+      "explanation": "If you should have ~에서 If를 생략하고 Should를 주어 앞으로 보낸 형태. '혹시 ~하시면'이라는 정중한 조건으로, 편지 맺음말에 자주 쓰인다.",
+      "example": {
+        "en": "Should the package arrive damaged, please contact us immediately.",
+        "ko": "혹시 소포가 파손된 채 도착하면 즉시 연락해 주세요."
+      },
+      "note": "빈칸 + 주어 + 동사원형 ~, please ... 패턴이면 Should."
+    },
+    {
+      "id": "g3",
+      "title": "숫자를 꾸미는 부사 barely",
+      "tags": [
+        "품사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "barely three weeks"
+      ],
+      "explanation": "barely, nearly, almost, approximately 같은 부사는 숫자 표현 앞에서 '겨우/거의/약'처럼 양을 꾸민다.",
+      "example": {
+        "en": "The meeting lasted barely ten minutes.",
+        "ko": "회의는 겨우 10분 동안 진행되었다."
+      },
+      "note": "숫자 앞 빈칸은 형용사가 아니라 부사 자리."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨, ~님 (남성 호칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "lindqvist": {
+      "lemma": "Lindqvist",
+      "pos": "proper-noun",
+      "ko": "린드크비스트 (사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신(들)의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "letter": {
+      "lemma": "letter",
+      "pos": "noun",
+      "ko": "편지",
+      "form": null,
+      "synonyms": [
+        "correspondence"
+      ],
+      "ipa": "/ˈlɛtər/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "october": {
+      "lemma": "October",
+      "pos": "proper-noun",
+      "ko": "10월",
+      "form": null,
+      "ipa": "/ɑkˈtoʊbər/"
+    },
+    "regarding": {
+      "lemma": "regarding",
+      "pos": "preposition",
+      "ko": "~에 관한",
+      "form": null,
+      "ipa": "/rɪˈɡɑːrdɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "refrigerator": {
+      "lemma": "refrigerator",
+      "pos": "noun",
+      "ko": "냉장고",
+      "form": null,
+      "synonyms": [
+        "fridge"
+      ],
+      "ipa": "/rəˈfrɪdʒəˌreɪtər/"
+    },
+    "purchased": {
+      "lemma": "purchase",
+      "pos": "verb",
+      "ko": "구입하다",
+      "form": "과거형",
+      "synonyms": [
+        "buy"
+      ],
+      "ipa": "/ˈpɜːrtʃəst/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "fairview": {
+      "lemma": "Fairview",
+      "pos": "proper-noun",
+      "ko": "페어뷰 (지점 이름)",
+      "form": null,
+      "ipa": "/ˈfɛrˌvjuː/"
+    },
+    "store": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "매장, 가게",
+      "form": null,
+      "synonyms": [
+        "shop",
+        "outlet"
+      ],
+      "ipa": "/stɔːr/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이라면 (가정법)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "sorry": {
+      "lemma": "sorry",
+      "pos": "adjective",
+      "ko": "유감스러운, 미안한",
+      "form": null,
+      "synonyms": [
+        "regretful"
+      ],
+      "ipa": "/ˈsɑːri/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에, ~로; (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "learn": {
+      "lemma": "learn",
+      "pos": "verb",
+      "ko": "알게 되다",
+      "form": null,
+      "synonyms": [
+        "find out",
+        "hear"
+      ],
+      "ipa": "/lɜːrn/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것; (관계대명사) ~하는",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "unit": {
+      "lemma": "unit",
+      "pos": "noun",
+      "ko": "(제품) 한 대, 기기",
+      "form": null,
+      "synonyms": [
+        "appliance",
+        "device"
+      ],
+      "ipa": "/ˈjuːnət/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다",
+      "form": "과거형",
+      "synonyms": [
+        "cease",
+        "quit"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "cooling": {
+      "lemma": "cool",
+      "pos": "verb",
+      "ko": "냉각하는 것",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "chill"
+      ],
+      "ipa": "/ˈkuːlɪŋ/"
+    },
+    "barely": {
+      "lemma": "barely",
+      "pos": "adverb",
+      "ko": "겨우, 고작",
+      "form": null,
+      "synonyms": [
+        "only",
+        "just"
+      ],
+      "ipa": "/ˈbɛrli/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋의",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "weeks": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주",
+      "form": "복수형",
+      "ipa": "/wiːks/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "conjunction",
+      "ko": "~한 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "delivered": {
+      "lemma": "deliver",
+      "pos": "verb",
+      "ko": "배달된",
+      "form": "과거분사",
+      "synonyms": [
+        "bring",
+        "ship"
+      ],
+      "ipa": "/dɪˈlɪvərd/"
+    },
+    "technician": {
+      "lemma": "technician",
+      "pos": "noun",
+      "ko": "기술자",
+      "form": null,
+      "synonyms": [
+        "repair person",
+        "engineer"
+      ],
+      "ipa": "/tɛkˈnɪʃən/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "inspected": {
+      "lemma": "inspect",
+      "pos": "verb",
+      "ko": "점검하다",
+      "form": "과거형",
+      "synonyms": [
+        "examine",
+        "check"
+      ],
+      "ipa": "/ˌɪnˈspɛktɪd/"
+    },
+    "appliance": {
+      "lemma": "appliance",
+      "pos": "noun",
+      "ko": "가전제품",
+      "form": null,
+      "synonyms": [
+        "device",
+        "machine"
+      ],
+      "ipa": "/əˈplaɪəns/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "november": {
+      "lemma": "November",
+      "pos": "proper-noun",
+      "ko": "11월",
+      "form": null,
+      "ipa": "/noʊˈvɛmbər/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "confirmed": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인하다",
+      "form": "과거분사",
+      "synonyms": [
+        "verify"
+      ],
+      "ipa": "/kənˈfɜːrmd/"
+    },
+    "compressor": {
+      "lemma": "compressor",
+      "pos": "noun",
+      "ko": "압축기, 컴프레서",
+      "form": null,
+      "ipa": "/kəmˈprɛsər/"
+    },
+    "defective": {
+      "lemma": "defective",
+      "pos": "adjective",
+      "ko": "결함이 있는",
+      "form": null,
+      "synonyms": [
+        "faulty",
+        "broken"
+      ],
+      "ipa": "/dɪˈfɛktɪv/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~아니다 (not only ~뿐만 아니라)",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "(not only) ~뿐만 아니라",
+      "form": null,
+      "ipa": "/ˈoʊnli/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "replace": {
+      "lemma": "replace",
+      "pos": "verb",
+      "ko": "교체하다",
+      "form": null,
+      "synonyms": [
+        "exchange",
+        "swap"
+      ],
+      "ipa": "/ˌriːˈpleɪs/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에(서)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떠한 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "cost": {
+      "lemma": "cost",
+      "pos": "noun",
+      "ko": "비용",
+      "form": null,
+      "synonyms": [
+        "charge",
+        "expense"
+      ],
+      "ipa": "/kɑːst/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나 (not only A but also B)",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다; (수동태) ~되다",
+      "form": "복수형",
+      "ipa": "/ɑːr/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "prepared": {
+      "lemma": "prepared",
+      "pos": "adjective",
+      "ko": "(be prepared to) ~할 준비가 된",
+      "form": null,
+      "synonyms": [
+        "ready",
+        "willing"
+      ],
+      "ipa": "/priˈpɛrd/"
+    },
+    "reimburse": {
+      "lemma": "reimburse",
+      "pos": "verb",
+      "ko": "(비용을) 변상하다, 환급하다",
+      "form": null,
+      "synonyms": [
+        "repay",
+        "compensate"
+      ],
+      "ipa": "/ˌriːɪmˈbɜːrs/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~든, 모든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "food": {
+      "lemma": "food",
+      "pos": "noun",
+      "ko": "음식",
+      "form": null,
+      "synonyms": [
+        "groceries"
+      ],
+      "ipa": "/fuːd/"
+    },
+    "spoiled": {
+      "lemma": "spoil",
+      "pos": "verb",
+      "ko": "상하다",
+      "form": "과거형",
+      "synonyms": [
+        "go bad",
+        "rot"
+      ],
+      "ipa": "/spɔɪld/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, ~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "mail": {
+      "lemma": "mail",
+      "pos": "verb",
+      "ko": "우편으로 보내다",
+      "form": null,
+      "synonyms": [
+        "post",
+        "send"
+      ],
+      "ipa": "/meɪl/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "verb",
+      "ko": "이메일로 보내다",
+      "form": null,
+      "synonyms": [
+        "email",
+        "send"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "grocery": {
+      "lemma": "grocery",
+      "pos": "noun",
+      "ko": "식료품",
+      "form": null,
+      "synonyms": [
+        "food"
+      ],
+      "ipa": "/ˈɡroʊsəri/"
+    },
+    "receipts": {
+      "lemma": "receipt",
+      "pos": "noun",
+      "ko": "영수증",
+      "form": "복수형",
+      "synonyms": [
+        "proof of purchase"
+      ],
+      "ipa": "/rɪˈsiːts/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 아주",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "calculate": {
+      "lemma": "calculate",
+      "pos": "verb",
+      "ko": "계산하다",
+      "form": null,
+      "synonyms": [
+        "compute",
+        "work out"
+      ],
+      "ipa": "/ˈkælkjəˌleɪt/"
+    },
+    "exact": {
+      "lemma": "exact",
+      "pos": "adjective",
+      "ko": "정확한",
+      "form": null,
+      "synonyms": [
+        "precise"
+      ],
+      "ipa": "/ɪɡˈzækt/"
+    },
+    "amount": {
+      "lemma": "amount",
+      "pos": "noun",
+      "ko": "금액",
+      "form": null,
+      "synonyms": [
+        "sum",
+        "total"
+      ],
+      "ipa": "/əˈmaʊnt/"
+    },
+    "reimbursement": {
+      "lemma": "reimbursement",
+      "pos": "noun",
+      "ko": "환급(금), 변상",
+      "form": null,
+      "synonyms": [
+        "repayment",
+        "refund"
+      ],
+      "ipa": "/ˌriːɪmˈbɜːrsmənt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "typically": {
+      "lemma": "typically",
+      "pos": "adverb",
+      "ko": "보통, 일반적으로",
+      "form": null,
+      "synonyms": [
+        "usually",
+        "normally"
+      ],
+      "ipa": "/ˈtɪpɪkli/"
+    },
+    "issued": {
+      "lemma": "issue",
+      "pos": "verb",
+      "ko": "지급되다, 발행되다",
+      "form": "과거분사",
+      "synonyms": [
+        "pay out",
+        "provide"
+      ],
+      "ipa": "/ˈɪʃud/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "ten": {
+      "lemma": "ten",
+      "pos": "number",
+      "ko": "10의",
+      "form": null,
+      "ipa": "/tɛn/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "사업체, 회사",
+      "form": null,
+      "synonyms": [
+        "company",
+        "firm"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "ipa": "/deɪz/"
+    },
+    "receiving": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받는 것",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːvɪŋ/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "replacement": {
+      "lemma": "replacement",
+      "pos": "adjective",
+      "ko": "교체용의, 대체의",
+      "form": null,
+      "synonyms": [
+        "substitute",
+        "new"
+      ],
+      "ipa": "/rɪˈpleɪsmənt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "crew": {
+      "lemma": "crew",
+      "pos": "noun",
+      "ko": "작업반, 직원들",
+      "form": null,
+      "synonyms": [
+        "team",
+        "staff"
+      ],
+      "ipa": "/kruː/"
+    },
+    "haul": {
+      "lemma": "haul",
+      "pos": "verb",
+      "ko": "(haul away) 실어 가다",
+      "form": null,
+      "synonyms": [
+        "carry",
+        "remove"
+      ],
+      "ipa": "/hɔːl/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "(haul away) 치워서, 멀리",
+      "form": null,
+      "ipa": "/əˈweɪ/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "form": null,
+      "synonyms": [
+        "identical"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시점",
+      "form": null,
+      "synonyms": [
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "deeply": {
+      "lemma": "deeply",
+      "pos": "adverb",
+      "ko": "깊이, 진심으로",
+      "form": null,
+      "synonyms": [
+        "sincerely",
+        "truly"
+      ],
+      "ipa": "/ˈdiːpli/"
+    },
+    "regret": {
+      "lemma": "regret",
+      "pos": "verb",
+      "ko": "유감으로 생각하다",
+      "form": null,
+      "synonyms": [
+        "be sorry for"
+      ],
+      "ipa": "/rəˈɡrɛt/"
+    },
+    "disruption": {
+      "lemma": "disruption",
+      "pos": "noun",
+      "ko": "지장, 혼란",
+      "form": null,
+      "synonyms": [
+        "disturbance",
+        "interruption"
+      ],
+      "ipa": "/dɪsˈrʌpʃən/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "situation": {
+      "lemma": "situation",
+      "pos": "noun",
+      "ko": "상황",
+      "form": null,
+      "synonyms": [
+        "circumstance",
+        "matter"
+      ],
+      "ipa": "/ˌsɪtʃuˈeɪʃən/"
+    },
+    "caused": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "초래하다",
+      "form": "과거분사",
+      "synonyms": [
+        "create",
+        "bring about"
+      ],
+      "ipa": "/kɑːzd/"
+    },
+    "household": {
+      "lemma": "household",
+      "pos": "noun",
+      "ko": "가정, 가구",
+      "form": null,
+      "synonyms": [
+        "family",
+        "home"
+      ],
+      "ipa": "/ˈhaʊsˌhoʊld/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 있다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "further": {
+      "lemma": "further",
+      "pos": "adjective",
+      "ko": "추가의",
+      "form": null,
+      "synonyms": [
+        "additional",
+        "more"
+      ],
+      "ipa": "/ˈfɜːrðər/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문, 문의",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "directly": {
+      "lemma": "directly",
+      "pos": "adverb",
+      "ko": "직접",
+      "form": null,
+      "synonyms": [
+        "personally"
+      ],
+      "ipa": "/dəˈrɛktli/"
+    },
+    "extension": {
+      "lemma": "extension",
+      "pos": "noun",
+      "ko": "(전화) 내선",
+      "form": null,
+      "synonyms": [
+        "line"
+      ],
+      "ipa": "/ɪkˈstɛnʃən/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "(편지 맺음말) 진심을 담아",
+      "form": null,
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "marisol": {
+      "lemma": "Marisol",
+      "pos": "proper-noun",
+      "ko": "마리솔 (사람 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "etxeberria": {
+      "lemma": "Etxeberria",
+      "pos": "proper-noun",
+      "ko": "에체베리아 (사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "relations": {
+      "lemma": "relation",
+      "pos": "noun",
+      "ko": "관계 (customer relations 고객 관리)",
+      "form": "복수형",
+      "ipa": "/riˈleɪʃənz/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "corvane": {
+      "lemma": "Corvane",
+      "pos": "proper-noun",
+      "ko": "코베인 (회사 이름)",
+      "form": null,
+      "ipa": "/ˈkɔːrveɪn/"
+    },
+    "appliances": {
+      "lemma": "appliance",
+      "pos": "noun",
+      "ko": "가전제품",
+      "form": "복수형",
+      "synonyms": [
+        "device"
+      ],
+      "ipa": "/əˈplaɪənsəz/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "barely"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "bare"
+        },
+        {
+          "key": "B",
+          "text": "barely"
+        },
+        {
+          "key": "C",
+          "text": "bareness"
+        },
+        {
+          "key": "D",
+          "text": "bared"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "빈칸은 숫자 표현 three weeks after ~ 앞에서 \"겨우\"라는 정도를 나타내는 자리. 수량 표현을 꾸미는 것은 부사이므로 barely(겨우, 고작).",
+      "choiceNotesKo": {
+        "A": "형용사 bare(벌거벗은, 최소한의)는 이 자리에서 수량을 꾸미지 못한다.",
+        "D": "bared는 동사 bare(드러내다)의 과거형이다."
+      },
+      "skill": "부사 자리(숫자 수식)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "will"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "will"
+        },
+        {
+          "key": "B",
+          "text": "we will"
+        },
+        {
+          "key": "C",
+          "text": "are"
+        },
+        {
+          "key": "D",
+          "text": "being"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "Not only가 문장 맨 앞에 오면 조동사가 주어 앞으로 나간다. 빈칸 뒤가 we replace(주어 + 동사원형)이므로 조동사 will이 정답. 뒤 문장의 교체·배송이 앞으로의 일이라는 점도 미래와 맞는다.",
+      "choiceNotesKo": {
+        "B": "we will을 넣으면 주어 we가 두 번 나오고 도치도 되지 않는다.",
+        "C": "are 뒤에는 동사원형 replace가 올 수 없다."
+      },
+      "skill": "Not only 도치"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Please mail or e-mail us your grocery receipts so that we can calculate the exact amount."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The compressor is covered by a separate ten-year warranty."
+        },
+        {
+          "key": "B",
+          "text": "Our Fairview store has recently extended its weekend hours."
+        },
+        {
+          "key": "C",
+          "text": "Many customers prefer models with a built-in ice maker."
+        },
+        {
+          "key": "D",
+          "text": "Please mail or e-mail us your grocery receipts so that we can calculate the exact amount."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장은 상한 음식을 변상해 주겠다는 내용이고, 뒤 문장은 \"그것들(them)을 받은 뒤 10일 안에 환급한다\"이다. them이 가리킬 복수 명사(grocery receipts)를 처음 꺼내는 D가 들어가야 흐름이 이어진다.",
+      "choiceNotesKo": {
+        "A": "보증 이야기는 변상 절차와 이어지지 않고, warranty는 단수라 them과도 맞지 않는다.",
+        "B": "매장 영업시간은 이 편지의 주제와 관계없다.",
+        "C": "제빙기 모델 선호는 엉뚱한 화제다."
+      },
+      "skill": "문장 넣기(them 지시어 단서)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "disruption"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "disrupt"
+        },
+        {
+          "key": "B",
+          "text": "disruptive"
+        },
+        {
+          "key": "C",
+          "text": "disruption"
+        },
+        {
+          "key": "D",
+          "text": "disruptively"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "정관사 the 뒤, 관계대명사가 생략된 절(this situation has caused) 앞은 명사 자리. regret의 목적어로 명사 disruption(지장, 불편)이 맞다.",
+      "choiceNotesKo": {
+        "B": "형용사 disruptive는 뒤에 꾸밀 명사가 있어야 한다.",
+        "A": "동사원형은 the 뒤에 올 수 없다."
+      },
+      "skill": "명사 자리(관사 뒤)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "Should"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Unless"
+        },
+        {
+          "key": "B",
+          "text": "Whether"
+        },
+        {
+          "key": "C",
+          "text": "Although"
+        },
+        {
+          "key": "D",
+          "text": "Should"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "빈칸 뒤가 주어 you + 동사원형 have이고, 콤마 뒤에 명령문(please contact)이 온다. If you should have ~에서 If를 생략하고 도치한 Should가 정답.",
+      "choiceNotesKo": {
+        "A": "Unless를 쓰면 \"질문이 없으면 연락하라\"가 되어 말이 안 된다.",
+        "B": "Whether는 \"~이든 아니든\"이라 or not 등이 필요하고 의미도 맞지 않는다.",
+        "C": "Although(비록 ~이지만)는 양보라 흐름과 맞지 않는다."
+      },
+      "skill": "가정법 도치(Should + S + 동사원형)"
+    }
+  ]
+}
