@@ -1,0 +1,1575 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L3-3",
+  "date": "2026-11-24",
+  "level": 3,
+  "title": "How the Camel Got His Hump",
+  "titleKo": "낙타는 어떻게 혹이 생겼을까",
+  "genre": "short-story",
+  "tags": [
+    "Rudyard Kipling",
+    "Just So Stories",
+    "short-story"
+  ],
+  "source": {
+    "work": "Just So Stories (How the Camel Got His Hump)",
+    "author": "Rudyard Kipling",
+    "translator": null,
+    "year": 1902,
+    "edition": "Project Gutenberg #2781",
+    "url": "https://www.gutenberg.org/ebooks/2781",
+    "license": "public-domain",
+    "excerptNote": "'How the Camel Got His Hump' 첫 8개 단락 전체 (‘Now this is the next tale…’부터 소가 다녀간 뒤 ‘…and the Ox went away and told the Man.’까지, 222단어). 일하기 싫은 낙타가 말·개·소의 부탁에 매번 'Humph!'라고만 대꾸하는 도입부 (사람이 세 동물을 불러 모으는 아홉째 단락부터는 뺌). gutenberg.org가 503(점검 중)이라 archive.org에 보관된 같은 전자책(PG #2781, jusss10.txt, 항목 justsostories02781gut)에서 가져왔고, 줄바꿈만 공백으로 이음. 첫 단어 'NOW'는 장식용 대문자라 'Now'로 적음. 'scruciating, plough, 곧은 작은따옴표는 원문 그대로. 따옴표 안의 느낌표('Humph!')에서도 문장을 나눔."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/just_so_kara_librivox/justso_02_kipling.mp3",
+    "mp3Low": "https://www.archive.org/download/just_so_kara_librivox/justso_02_kipling_64kb.mp3",
+    "pageUrl": "https://librivox.org/just-so-stories-by-rudyard-kipling-version-2/",
+    "reader": "Kara Shallenberg",
+    "durationSec": 431,
+    "startSec": 20,
+    "endSec": 110,
+    "note": "LibriVox Just So Stories (version 2, 낭독 대본 PG #2781), 트랙 02 'How The Camel Got His Hump' (전체 7:11). 지문은 LibriVox 안내 멘트·제목 뒤 이야기 첫 여덟 단락으로, 약 0:20~1:50 (단어 수로 어림한 추정)."
+  },
+  "wordCount": 222,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "자, 이것은 그다음 이야기인데, 낙타가 어떻게 커다란 혹을 갖게 되었는지 들려준단다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "세상이 아직 아주 새롭던 태초의 시절, 동물들이 막 사람을 위해 일하기 시작했을 무렵, 낙타 한 마리가 있었는데, 그는 일하기 싫어서 '울부짖는 사막' 한가운데에 살았다. 게다가 그 자신도 못 말리는 '울보짓쟁이'였다. 그래서 그는 나뭇가지며 가시며 위성류며 밀크위드며 가시덤불을 먹으면서 지독하게도 빈둥거렸고, 누가 말을 걸면 \"흥!\" 하고 말했다. 그냥 \"흥!\" 그뿐이었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "얼마 뒤 월요일 아침에 말이 등에 안장을 얹고 입에 재갈을 문 채 그에게 와서 말했다. \"낙타야, 오 낙타야, 나와서 우리처럼 총총 달리렴.\""
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "\"흥!\" 낙타가 말했다. 그러자 말은 가 버리고는 사람에게 일러바쳤다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "얼마 뒤 개가 입에 막대기를 물고 그에게 와서 말했다. \"낙타야, 오 낙타야, 와서 우리처럼 물어 오고 날라 주렴.\""
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "\"흥!\" 낙타가 말했다. 그러자 개는 가 버리고는 사람에게 일러바쳤다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "얼마 뒤 소가 목에 멍에를 메고 그에게 와서 말했다. \"낙타야, 오 낙타야, 와서 우리처럼 밭을 갈렴.\""
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s13",
+        "s14"
+      ],
+      "ko": "\"흥!\" 낙타가 말했다. 그러자 소는 가 버리고는 사람에게 일러바쳤다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Now this is the next tale, and it tells how the Camel got his big hump.",
+      "ko": "자, 이것은 그다음 이야기인데, 낙타가 어떻게 커다란 혹을 갖게 되었는지 들려준단다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "In the beginning of years, when the world was so new and all, and the Animals were just beginning to work for Man, there was a Camel, and he lived in the middle of a Howling Desert because he did not want to work; and besides, he was a Howler himself.",
+      "ko": "세상이 아직 아주 새롭던 태초의 시절, 동물들이 막 사람을 위해 일하기 시작했을 무렵, 낙타 한 마리가 있었는데, 그는 일하기 싫어서 '울부짖는 사막' 한가운데에 살았다. 게다가 그 자신도 못 말리는 '울보짓쟁이'였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "So he ate sticks and thorns and tamarisks and milkweed and prickles, most 'scruciating idle; and when anybody spoke to him he said 'Humph!'",
+      "ko": "그래서 그는 나뭇가지며 가시며 위성류며 밀크위드며 가시덤불을 먹으면서 지독하게도 빈둥거렸고, 누가 말을 걸면 \"흥!\" 하고 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Just 'Humph!'",
+      "ko": "그냥 \"흥!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "and no more.",
+      "ko": "그뿐이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Presently the Horse came to him on Monday morning, with a saddle on his back and a bit in his mouth, and said, 'Camel, O Camel, come out and trot like the rest of us.'",
+      "ko": "얼마 뒤 월요일 아침에 말이 등에 안장을 얹고 입에 재갈을 문 채 그에게 와서 말했다. \"낙타야, 오 낙타야, 나와서 우리처럼 총총 달리렴.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p4",
+      "en": "'Humph!'",
+      "ko": "\"흥!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "said the Camel; and the Horse went away and told the Man.",
+      "ko": "낙타가 말했다. 그러자 말은 가 버리고는 사람에게 일러바쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "Presently the Dog came to him, with a stick in his mouth, and said, 'Camel, O Camel, come and fetch and carry like the rest of us.'",
+      "ko": "얼마 뒤 개가 입에 막대기를 물고 그에게 와서 말했다. \"낙타야, 오 낙타야, 와서 우리처럼 물어 오고 날라 주렴.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "'Humph!'",
+      "ko": "\"흥!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "said the Camel; and the Dog went away and told the Man.",
+      "ko": "낙타가 말했다. 그러자 개는 가 버리고는 사람에게 일러바쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "Presently the Ox came to him, with the yoke on his neck and said, 'Camel, O Camel, come and plough like the rest of us.'",
+      "ko": "얼마 뒤 소가 목에 멍에를 메고 그에게 와서 말했다. \"낙타야, 오 낙타야, 와서 우리처럼 밭을 갈렴.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p8",
+      "en": "'Humph!'",
+      "ko": "\"흥!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "said the Camel; and the Ox went away and told the Man.",
+      "ko": "낙타가 말했다. 그러자 소는 가 버리고는 사람에게 일러바쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "besides",
+      "pos": "adverb",
+      "meaningKo": "게다가, 그 밖에도",
+      "ipa": "/bɪˈsaɪdz/",
+      "synonyms": [
+        "moreover",
+        "also",
+        "in addition"
+      ],
+      "matchText": "besides",
+      "sentenceId": "s2",
+      "example": {
+        "en": "I'm too tired to go out. Besides, it's raining.",
+        "ko": "나가기엔 너무 피곤해. 게다가 비도 오잖아."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "idle",
+      "pos": "adjective",
+      "meaningKo": "게으른, 빈둥거리는",
+      "ipa": "/ˈaɪdəl/",
+      "synonyms": [
+        "lazy",
+        "inactive",
+        "unoccupied"
+      ],
+      "matchText": "idle",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He spent an idle afternoon watching TV.",
+        "ko": "그는 TV를 보며 빈둥빈둥 오후를 보냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "presently",
+      "pos": "adverb",
+      "meaningKo": "곧, 얼마 뒤 (옛 표현)",
+      "ipa": "/ˈprɛzəntli/",
+      "synonyms": [
+        "soon",
+        "shortly",
+        "before long"
+      ],
+      "matchText": "Presently",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Presently the door opened and a man came in.",
+        "ko": "얼마 뒤 문이 열리고 한 남자가 들어왔다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "fetch and carry",
+      "pos": "phrase",
+      "meaningKo": "(남을 위해) 물건을 가져오고 나르다, 잔심부름하다",
+      "ipa": "/ˌfɛtʃ ən ˈkæri/",
+      "synonyms": [
+        "run errands",
+        "bring and take",
+        "wait on"
+      ],
+      "matchText": "fetch and carry",
+      "sentenceId": "s9",
+      "example": {
+        "en": "She is tired of fetching and carrying for her boss.",
+        "ko": "그녀는 상사의 잔심부름을 하는 데 지쳤다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "plough",
+      "pos": "verb",
+      "meaningKo": "(쟁기로 밭을) 갈다 (미국식 plow)",
+      "ipa": "/plaʊ/",
+      "synonyms": [
+        "till",
+        "cultivate",
+        "furrow"
+      ],
+      "matchText": "plough",
+      "sentenceId": "s12",
+      "example": {
+        "en": "The farmer ploughs his field every spring.",
+        "ko": "농부는 봄마다 밭을 간다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "In the beginning of years,",
+          "role": "M",
+          "sub": false,
+          "ko": "태초의 시절에,"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "the world",
+          "role": "S",
+          "sub": true,
+          "ko": "세상이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였고"
+        },
+        {
+          "text": "so new and all,",
+          "role": "C",
+          "sub": true,
+          "ko": "아주 새로웠고,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "the Animals",
+          "role": "S",
+          "sub": true,
+          "ko": "동물들이"
+        },
+        {
+          "text": "were just beginning",
+          "role": "V",
+          "sub": true,
+          "ko": "막 시작하고 있던"
+        },
+        {
+          "text": "to work for Man,",
+          "role": "O",
+          "sub": true,
+          "ko": "사람을 위해 일하는 것을,"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": false,
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "a Camel,",
+          "role": "S",
+          "sub": false,
+          "ko": "낙타 한 마리가,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": false,
+          "ko": "살았다"
+        },
+        {
+          "text": "in the middle of a Howling Desert",
+          "role": "M",
+          "sub": false,
+          "ko": "울부짖는 사막 한가운데에서"
+        },
+        {
+          "text": "because",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "did not want",
+          "role": "V",
+          "sub": true,
+          "ko": "원하지 않았기 때문에"
+        },
+        {
+          "text": "to work;",
+          "role": "O",
+          "sub": true,
+          "ko": "일하는 것을;"
+        },
+        {
+          "text": "and besides,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "게다가,"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "a Howler himself.",
+          "role": "C",
+          "sub": false,
+          "ko": "그 자신도 울부짖는 녀석"
+        }
+      ],
+      "skeleton": "there was a Camel, and he lived",
+      "explanation": "문장의 뼈대는 'there was a Camel(낙타가 있었다)'과 'he lived(그는 살았다)' 두 개이고 and로 이어진다. 앞의 when ~ for Man은 '언제'를 알려 주는 부사절인데, 그 안에 다시 and로 두 절(the world was ~ / the Animals were ~)이 이어져 있다. because ~ to work는 그가 사막 한가운데 산 이유를 말하는 부사절이다. 마지막 and besides 뒤의 절은 정보를 하나 더 보탠다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "So",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "ate",
+          "role": "V",
+          "sub": false,
+          "ko": "먹었다"
+        },
+        {
+          "text": "sticks and thorns and tamarisks and milkweed and prickles,",
+          "role": "O",
+          "sub": false,
+          "ko": "나뭇가지와 가시와 위성류와 밀크위드와 가시덤불을,"
+        },
+        {
+          "text": "most 'scruciating idle;",
+          "role": "M",
+          "sub": false,
+          "ko": "지독하게 빈둥거리며;"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "anybody",
+          "role": "S",
+          "sub": true,
+          "ko": "누구든"
+        },
+        {
+          "text": "spoke",
+          "role": "V",
+          "sub": true,
+          "ko": "말을 걸면"
+        },
+        {
+          "text": "to him",
+          "role": "M",
+          "sub": true,
+          "ko": "그에게"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "'Humph!'",
+          "role": "O",
+          "sub": false,
+          "ko": "\"흥!\"이라고"
+        }
+      ],
+      "skeleton": "he ate sticks ... ; he said 'Humph!'",
+      "explanation": "세미콜론(;)을 사이에 두고 두 문장이 and로 이어져 있다. 첫 부분은 he ate + 목적어(먹은 것들 다섯 가지를 and로 계속 연결). most 'scruciating idle은 '지독하게 게으르게'라는 뜻으로, 먹는 모습을 덧붙여 설명한다. 둘째 부분은 when ~ to him(누가 말을 걸 때마다)이라는 부사절 뒤에 뼈대 he said 'Humph!'가 온다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "Presently",
+          "role": "M",
+          "sub": false,
+          "ko": "얼마 뒤"
+        },
+        {
+          "text": "the Horse",
+          "role": "S",
+          "sub": false,
+          "ko": "말이"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": false,
+          "ko": "왔다"
+        },
+        {
+          "text": "to him",
+          "role": "M",
+          "sub": false,
+          "ko": "그에게"
+        },
+        {
+          "text": "on Monday morning,",
+          "role": "M",
+          "sub": false,
+          "ko": "월요일 아침에,"
+        },
+        {
+          "text": "with a saddle on his back and a bit in his mouth,",
+          "role": "M",
+          "sub": false,
+          "ko": "등에 안장을, 입에 재갈을 한 채로,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "said,",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다,"
+        },
+        {
+          "text": "'Camel, O Camel,",
+          "role": "M",
+          "sub": true,
+          "ko": "\"낙타야, 오 낙타야,"
+        },
+        {
+          "text": "come out",
+          "role": "V",
+          "sub": true,
+          "ko": "나와라"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "trot",
+          "role": "V",
+          "sub": true,
+          "ko": "총총 달려라"
+        },
+        {
+          "text": "like the rest of us.'",
+          "role": "M",
+          "sub": true,
+          "ko": "우리 나머지처럼.\""
+        }
+      ],
+      "skeleton": "the Horse came and said",
+      "explanation": "주어 the Horse에 동사 came과 said 두 개가 and로 이어진다. with a saddle on his back and a bit in his mouth는 'with + 명사 + 전치사구' 형태로 말이 어떤 모습으로 왔는지를 보여 준다. 따옴표 안은 said의 내용으로, 'come out and trot'처럼 동사원형으로 시작하는 명령문이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "there + be 동사: '~이 있었다'",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "there was a Camel"
+      ],
+      "explanation": "'there was + 명사'는 '~이 있었다'라는 뜻으로, 이야기에 새로운 인물이나 사물을 처음 등장시킬 때 자주 쓴다. there는 '거기'라는 뜻이 아니고, 진짜 주어는 동사 뒤에 오는 a Camel이다. 그래서 동사도 뒤의 주어에 맞춘다(단수 → was, 복수 → were).",
+      "example": {
+        "en": "There were three bears in the forest.",
+        "ko": "숲속에 곰 세 마리가 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "과거진행형 + to부정사: were just beginning to work",
+      "tags": [
+        "시제",
+        "to부정사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "were just beginning to work"
+      ],
+      "explanation": "were beginning은 'was/were + -ing' 형태의 과거진행형으로 '(그때) 막 시작하고 있었다'라는 뜻이다. just는 '막, 이제 겨우'라는 뜻을 더한다. begin 뒤의 to work는 '일하는 것'이라는 명사 역할의 to부정사로 begin의 목적어다(begin working도 가능).",
+      "example": {
+        "en": "It was just beginning to rain when we left.",
+        "ko": "우리가 떠날 때 막 비가 오기 시작하고 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "시간의 부사절 when: '~할 때(마다)'",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "when anybody spoke to him he said 'Humph!'"
+      ],
+      "explanation": "when + 주어 + 동사는 '~할 때'라는 시간의 부사절을 만든다. 여기서는 반복된 습관을 말하므로 '누가 말을 걸 때마다'로 옮기면 자연스럽다. 부사절이 앞에 오면 보통 쉼표를 찍지만, 이 글처럼 쉼표 없이 바로 주절(he said ~)이 이어지기도 한다.",
+      "example": {
+        "en": "When my brother is tired, he goes to bed early.",
+        "ko": "내 남동생은 피곤할 때면 일찍 잔다."
+      },
+      "note": "'scruciating는 excruciating(지독한, 몹시 괴로운)의 앞을 줄여 아이에게 말하듯 쓴 표현으로, most 'scruciating idle은 '지독~하게 게으른'이라는 느낌이다."
+    }
+  ],
+  "glossary": {
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "자, 그럼 (이야기를 시작하며)",
+      "form": null,
+      "synonyms": [
+        "well",
+        "so"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "subsequent"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "tale": {
+      "lemma": "tale",
+      "pos": "noun",
+      "ko": "이야기",
+      "form": null,
+      "synonyms": [
+        "story",
+        "fable"
+      ],
+      "ipa": "/teɪl/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "tells": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "들려주다, 이야기하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "relate",
+        "recount",
+        "describe"
+      ],
+      "ipa": "/tɛlz/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "camel": {
+      "lemma": "Camel",
+      "pos": "noun",
+      "ko": "낙타 (이 이야기의 주인공)",
+      "form": null,
+      "synonyms": [
+        "dromedary"
+      ],
+      "ipa": "/ˈkæməl/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다, 갖게 되다",
+      "form": "과거형",
+      "synonyms": [
+        "obtained",
+        "acquired",
+        "received"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "big": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "ipa": "/bɪɡ/"
+    },
+    "hump": {
+      "lemma": "hump",
+      "pos": "noun",
+      "ko": "(낙타의) 혹",
+      "form": null,
+      "synonyms": [
+        "lump",
+        "bump",
+        "hunch"
+      ],
+      "ipa": "/hʌmp/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "beginning": {
+      "lemma": "beginning",
+      "pos": "noun",
+      "ko": "처음, 시작 (뒤에서는 begin의 -ing형 '시작하는')",
+      "form": null,
+      "synonyms": [
+        "start",
+        "origin",
+        "dawn"
+      ],
+      "ipa": "/bɪˈɡɪnɪŋ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 시절",
+      "form": "복수형",
+      "synonyms": [
+        "ages",
+        "times"
+      ],
+      "ipa": "/jɪrz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상, 세계",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "globe"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "아주, 그토록 / 그래서",
+      "form": null,
+      "synonyms": [
+        "very",
+        "therefore"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "young",
+        "fresh",
+        "recent"
+      ],
+      "ipa": "/nuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "(and all) 그런 것 전부 / 모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "animals": {
+      "lemma": "animal",
+      "pos": "noun",
+      "ko": "동물",
+      "form": "복수형",
+      "synonyms": [
+        "beasts",
+        "creatures"
+      ],
+      "ipa": "/ˈænəməlz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 이제 겨우 / 그냥",
+      "form": null,
+      "synonyms": [
+        "only",
+        "merely",
+        "barely"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하는 것 / ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": null,
+      "synonyms": [
+        "labor",
+        "toil"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "man": {
+      "lemma": "Man",
+      "pos": "noun",
+      "ko": "사람, 인간",
+      "form": null,
+      "synonyms": [
+        "humans",
+        "mankind"
+      ],
+      "ipa": "/mæn/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was) ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그, 그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살았다",
+      "form": "과거형",
+      "synonyms": [
+        "dwelt",
+        "resided",
+        "stayed"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "middle": {
+      "lemma": "middle",
+      "pos": "noun",
+      "ko": "한가운데",
+      "form": null,
+      "synonyms": [
+        "center",
+        "heart",
+        "midst"
+      ],
+      "ipa": "/ˈmɪdəl/"
+    },
+    "howling": {
+      "lemma": "howl",
+      "pos": "adjective",
+      "ko": "울부짖는 (바람이 윙윙대는)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "wailing",
+        "roaring",
+        "wild"
+      ],
+      "ipa": "/ˈhaʊlɪŋ/"
+    },
+    "desert": {
+      "lemma": "desert",
+      "pos": "noun",
+      "ko": "사막",
+      "form": null,
+      "synonyms": [
+        "wasteland",
+        "wilderness"
+      ],
+      "ipa": "/ˈdɛzərt/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "desire"
+      ],
+      "ipa": "/wɑːnt/"
+    },
+    "besides": {
+      "lemma": "besides",
+      "pos": "adverb",
+      "ko": "게다가",
+      "form": null,
+      "synonyms": [
+        "moreover",
+        "also",
+        "furthermore"
+      ],
+      "ipa": "/bɪˈsaɪdz/"
+    },
+    "howler": {
+      "lemma": "howler",
+      "pos": "noun",
+      "ko": "울부짖는 자, 지독한 녀석",
+      "form": null,
+      "synonyms": [
+        "wailer",
+        "yowler"
+      ],
+      "ipa": "/ˈhaʊlər/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "ate": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹었다",
+      "form": "과거형",
+      "synonyms": [
+        "consumed",
+        "devoured"
+      ],
+      "ipa": "/eɪt/"
+    },
+    "sticks": {
+      "lemma": "stick",
+      "pos": "noun",
+      "ko": "나뭇가지, 막대기",
+      "form": "복수형",
+      "synonyms": [
+        "twigs",
+        "branches"
+      ],
+      "ipa": "/stɪks/"
+    },
+    "thorns": {
+      "lemma": "thorn",
+      "pos": "noun",
+      "ko": "가시",
+      "form": "복수형",
+      "synonyms": [
+        "spines",
+        "prickles"
+      ],
+      "ipa": "/θɔːrnz/"
+    },
+    "tamarisks": {
+      "lemma": "tamarisk",
+      "pos": "noun",
+      "ko": "위성류 (사막에 사는 관목)",
+      "form": "복수형",
+      "synonyms": [
+        "shrubs",
+        "bushes"
+      ],
+      "ipa": "/ˈtæmərɪsks/"
+    },
+    "milkweed": {
+      "lemma": "milkweed",
+      "pos": "noun",
+      "ko": "밀크위드 (하얀 즙이 나오는 풀)",
+      "form": null,
+      "synonyms": [
+        "weed",
+        "wild plant"
+      ],
+      "ipa": "/ˈmɪlˌkwiːd/"
+    },
+    "prickles": {
+      "lemma": "prickle",
+      "pos": "noun",
+      "ko": "가시, 가시 있는 풀",
+      "form": "복수형",
+      "synonyms": [
+        "thorns",
+        "spines",
+        "barbs"
+      ],
+      "ipa": "/ˈprɪkəlz/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "몹시, 가장",
+      "form": null,
+      "synonyms": [
+        "very",
+        "extremely"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "scruciating": {
+      "lemma": "excruciating",
+      "pos": "adjective",
+      "ko": "('scruciating) 지독한, 몹시 괴로운",
+      "form": "줄임말",
+      "synonyms": [
+        "terrible",
+        "awful",
+        "dreadful"
+      ],
+      "ipa": "/ˈskruʃiˌeɪtɪŋ/"
+    },
+    "idle": {
+      "lemma": "idle",
+      "pos": "adjective",
+      "ko": "게으른, 빈둥거리는",
+      "form": null,
+      "synonyms": [
+        "lazy",
+        "inactive",
+        "slothful"
+      ],
+      "ipa": "/ˈaɪdəl/"
+    },
+    "anybody": {
+      "lemma": "anybody",
+      "pos": "pronoun",
+      "ko": "누구든",
+      "form": null,
+      "ipa": "/ˈɛnibədi/"
+    },
+    "spoke": {
+      "lemma": "speak",
+      "pos": "verb",
+      "ko": "말했다, 말을 걸었다",
+      "form": "과거형",
+      "synonyms": [
+        "talked",
+        "addressed"
+      ],
+      "ipa": "/spoʊk/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "stated",
+        "replied"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "humph": {
+      "lemma": "humph",
+      "pos": "interjection",
+      "ko": "흥! (불만·무시를 나타내는 소리)",
+      "form": null,
+      "ipa": "/hʌmf/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "(no more) 더 이상 ~ 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "pronoun",
+      "ko": "더 많은 것 (no more: 그뿐)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "곧, 얼마 뒤",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly",
+        "before long"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "horse": {
+      "lemma": "Horse",
+      "pos": "noun",
+      "ko": "말",
+      "form": null,
+      "synonyms": [
+        "steed",
+        "mount"
+      ],
+      "ipa": "/hɔːrs/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다",
+      "form": "과거형",
+      "synonyms": [
+        "arrived",
+        "approached"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일) / ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "먼데이: 월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침",
+      "form": null,
+      "synonyms": [
+        "dawn",
+        "forenoon"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~한 채로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "saddle": {
+      "lemma": "saddle",
+      "pos": "noun",
+      "ko": "안장",
+      "form": null,
+      "synonyms": [
+        "seat"
+      ],
+      "ipa": "/ˈsædəl/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "noun",
+      "ko": "등",
+      "form": null,
+      "synonyms": [
+        "spine",
+        "rear"
+      ],
+      "ipa": "/bæk/"
+    },
+    "bit": {
+      "lemma": "bit",
+      "pos": "noun",
+      "ko": "재갈 (말의 입에 물리는 쇠)",
+      "form": null,
+      "synonyms": [
+        "mouthpiece",
+        "curb"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "mouth": {
+      "lemma": "mouth",
+      "pos": "noun",
+      "ko": "입",
+      "form": null,
+      "synonyms": [
+        "jaws",
+        "lips"
+      ],
+      "ipa": "/maʊθ/"
+    },
+    "o": {
+      "lemma": "O",
+      "pos": "interjection",
+      "ko": "오 (부르는 말 앞에)",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 나오다",
+      "form": null,
+      "synonyms": [
+        "approach",
+        "appear"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "synonyms": [
+        "outside",
+        "forth"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "trot": {
+      "lemma": "trot",
+      "pos": "verb",
+      "ko": "(말이) 총총 빠르게 걷다",
+      "form": null,
+      "synonyms": [
+        "jog",
+        "canter",
+        "run"
+      ],
+      "ipa": "/trɑːt/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~처럼",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "rest": {
+      "lemma": "rest",
+      "pos": "noun",
+      "ko": "나머지",
+      "form": null,
+      "synonyms": [
+        "remainder",
+        "others"
+      ],
+      "ipa": "/rɛst/"
+    },
+    "us": {
+      "lemma": "us",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/ʌs/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다",
+      "form": "과거형",
+      "synonyms": [
+        "left",
+        "departed"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "떠나서, 저리로",
+      "form": null,
+      "synonyms": [
+        "off",
+        "elsewhere"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "알렸다, 일러바쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "informed",
+        "reported to"
+      ],
+      "ipa": "/toʊld/"
+    },
+    "dog": {
+      "lemma": "Dog",
+      "pos": "noun",
+      "ko": "개",
+      "form": null,
+      "synonyms": [
+        "hound"
+      ],
+      "ipa": "/dɔːɡ/"
+    },
+    "stick": {
+      "lemma": "stick",
+      "pos": "noun",
+      "ko": "막대기",
+      "form": null,
+      "synonyms": [
+        "twig",
+        "rod",
+        "branch"
+      ],
+      "ipa": "/stɪk/"
+    },
+    "fetch": {
+      "lemma": "fetch",
+      "pos": "verb",
+      "ko": "가져오다, 물어 오다",
+      "form": null,
+      "synonyms": [
+        "bring",
+        "retrieve",
+        "get"
+      ],
+      "ipa": "/fɛtʃ/"
+    },
+    "carry": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "나르다",
+      "form": null,
+      "synonyms": [
+        "bear",
+        "haul",
+        "transport"
+      ],
+      "ipa": "/ˈkæri/"
+    },
+    "ox": {
+      "lemma": "Ox",
+      "pos": "noun",
+      "ko": "황소, 소",
+      "form": null,
+      "synonyms": [
+        "bull",
+        "bullock"
+      ],
+      "ipa": "/ɑːks/"
+    },
+    "yoke": {
+      "lemma": "yoke",
+      "pos": "noun",
+      "ko": "멍에 (소의 목에 거는 나무틀)",
+      "form": null,
+      "synonyms": [
+        "harness",
+        "collar"
+      ],
+      "ipa": "/joʊk/"
+    },
+    "neck": {
+      "lemma": "neck",
+      "pos": "noun",
+      "ko": "목",
+      "form": null,
+      "synonyms": [
+        "nape",
+        "throat"
+      ],
+      "ipa": "/nɛk/"
+    },
+    "plough": {
+      "lemma": "plough",
+      "pos": "verb",
+      "ko": "(밭을) 갈다",
+      "form": null,
+      "synonyms": [
+        "till",
+        "cultivate",
+        "plow"
+      ],
+      "ipa": "/plaʊ/"
+    }
+  }
+}
