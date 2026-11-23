@@ -1,0 +1,1664 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-24-L2-part7",
+  "date": "2026-11-24",
+  "level": 2,
+  "title": "Introducing the Fresh Rewards Program",
+  "titleKo": "Fresh Rewards 회원 프로그램 시작 안내",
+  "genre": "announcement",
+  "tags": [
+    "TOEIC Part 7",
+    "공고",
+    "마케팅"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 180,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "Greenleaf 마켓은 단골 고객을 위한 무료 회원 프로그램인 Fresh Rewards의 시작을 알리게 되어 기쁩니다. 4월 1일부터 고객은 어느 계산대에서나 또는 Greenleaf 모바일 앱으로 가입할 수 있습니다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "회원은 매장에서 1달러를 쓸 때마다 1포인트를 받습니다. 200포인트를 모으면 다음 구매 때 10달러 할인으로 바꿀 수 있습니다. 또한 회원은 매주 이메일로 특별 쿠폰을 받습니다. 이 쿠폰은 다른 고객에게는 제공되지 않습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7",
+        "s8"
+      ],
+      "ko": "시작을 기념해 4월 한 달 동안 가입하는 분은 누구나 즉시 보너스 50포인트를 받습니다. 포인트로는 상품권을 살 수 없으며, 회원이 12개월 동안 쇼핑하지 않으면 포인트가 소멸된다는 점에 유의해 주세요."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "매장 관리자 Olivia Grant는 이 프로그램이 고객 의견에 따라 만들어졌다고 말했습니다. Grant 씨에 따르면, 많은 고객이 식료품비를 아낄 방법이 더 있었으면 좋겠다고 직원들에게 말했다고 합니다. 더 자세한 내용은 매장 직원에게 문의하시거나 웹사이트를 방문해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Greenleaf Market is pleased to announce the launch of Fresh Rewards, a free membership program for our loyal customers.",
+      "ko": "Greenleaf 마켓은 단골 고객을 위한 무료 회원 프로그램인 Fresh Rewards의 시작을 알리게 되어 기쁩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Starting on April 1, shoppers can sign up at any checkout counter or through the Greenleaf mobile app.",
+      "ko": "4월 1일부터 고객은 어느 계산대에서나 또는 Greenleaf 모바일 앱으로 가입할 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Members will earn one point for every dollar they spend in our stores.",
+      "ko": "회원은 매장에서 1달러를 쓸 때마다 1포인트를 받습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Once a member collects 200 points, the points can be exchanged for a ten-dollar discount on a future purchase.",
+      "ko": "200포인트를 모으면 다음 구매 때 10달러 할인으로 바꿀 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "In addition, members will receive special coupons by e-mail every week.",
+      "ko": "또한 회원은 매주 이메일로 특별 쿠폰을 받습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "These coupons are not available to other customers.",
+      "ko": "이 쿠폰은 다른 고객에게는 제공되지 않습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "To celebrate the launch, anyone who joins during the month of April will receive 50 bonus points right away.",
+      "ko": "시작을 기념해 4월 한 달 동안 가입하는 분은 누구나 즉시 보너스 50포인트를 받습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Please note that points cannot be used to buy gift cards, and they will expire if a member does not shop with us for twelve months.",
+      "ko": "포인트로는 상품권을 살 수 없으며, 회원이 12개월 동안 쇼핑하지 않으면 포인트가 소멸된다는 점에 유의해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Store manager Olivia Grant said that the program was created in response to customer feedback.",
+      "ko": "매장 관리자 Olivia Grant는 이 프로그램이 고객 의견에 따라 만들어졌다고 말했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "According to Ms. Grant, many shoppers had told the staff that they wanted more ways to save money on groceries.",
+      "ko": "Grant 씨에 따르면, 많은 고객이 식료품비를 아낄 방법이 더 있었으면 좋겠다고 직원들에게 말했다고 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "For more information, please ask any store employee or visit our website.",
+      "ko": "더 자세한 내용은 매장 직원에게 문의하시거나 웹사이트를 방문해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "term": "launch",
+      "pos": "noun",
+      "meaningKo": "출시, 시작",
+      "ipa": "/lɔːntʃ/",
+      "synonyms": [
+        "introduction",
+        "start",
+        "debut"
+      ],
+      "matchText": "launch",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The launch of the new phone is next week.",
+        "ko": "새 휴대폰 출시는 다음 주다."
+      },
+      "id": "v1"
+    },
+    {
+      "term": "loyal",
+      "pos": "adjective",
+      "meaningKo": "충성스러운, 단골의",
+      "ipa": "/ˈlɔɪəl/",
+      "synonyms": [
+        "faithful",
+        "regular"
+      ],
+      "matchText": "loyal",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The café has many loyal customers.",
+        "ko": "그 카페에는 단골손님이 많다."
+      },
+      "id": "v2"
+    },
+    {
+      "term": "exchange A for B",
+      "pos": "phrase",
+      "meaningKo": "A를 B로 바꾸다",
+      "ipa": "/ɪksˈtʃeɪndʒ fɔːr/",
+      "synonyms": [
+        "trade",
+        "swap"
+      ],
+      "matchText": "exchanged for",
+      "sentenceId": "s4",
+      "example": {
+        "en": "You can exchange the shirt for a larger size.",
+        "ko": "셔츠를 더 큰 치수로 바꿀 수 있다."
+      },
+      "id": "v3"
+    },
+    {
+      "term": "expire",
+      "pos": "verb",
+      "meaningKo": "(기한이) 만료되다, 소멸되다",
+      "ipa": "/ɪkˈspaɪər/",
+      "synonyms": [
+        "run out",
+        "end"
+      ],
+      "matchText": "expire",
+      "sentenceId": "s8",
+      "example": {
+        "en": "My passport will expire next year.",
+        "ko": "내 여권은 내년에 만료된다."
+      },
+      "id": "v4"
+    },
+    {
+      "term": "in response to",
+      "pos": "phrase",
+      "meaningKo": "~에 응하여, ~에 따라",
+      "ipa": "/ɪn rɪˈspɑːns tuː/",
+      "synonyms": [
+        "in reply to",
+        "because of"
+      ],
+      "matchText": "in response to",
+      "sentenceId": "s9",
+      "example": {
+        "en": "We changed the menu in response to customer requests.",
+        "ko": "우리는 고객 요청에 따라 메뉴를 바꿨다."
+      },
+      "id": "v5"
+    }
+  ],
+  "structures": [
+    {
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Once",
+          "role": "CONJ",
+          "ko": "일단 ~하면"
+        },
+        {
+          "text": "a member",
+          "role": "S",
+          "ko": "회원이",
+          "sub": true
+        },
+        {
+          "text": "collects",
+          "role": "V",
+          "ko": "모으다",
+          "sub": true
+        },
+        {
+          "text": "200 points,",
+          "role": "O",
+          "ko": "200포인트를",
+          "sub": true
+        },
+        {
+          "text": "the points",
+          "role": "S",
+          "ko": "그 포인트는"
+        },
+        {
+          "text": "can be exchanged",
+          "role": "V",
+          "ko": "바뀔 수 있다"
+        },
+        {
+          "text": "for a ten-dollar discount",
+          "role": "M",
+          "ko": "10달러 할인으로"
+        },
+        {
+          "text": "on a future purchase.",
+          "role": "M",
+          "ko": "다음 구매에서"
+        }
+      ],
+      "skeleton": "The points can be exchanged for a discount.",
+      "explanation": "once(일단 ~하면)가 이끄는 시간·조건절이 앞에 온다. 주절은 can be + p.p. 수동태(바뀔 수 있다).",
+      "id": "st1"
+    },
+    {
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "To celebrate the launch,",
+          "role": "M",
+          "ko": "시작을 기념하기 위해"
+        },
+        {
+          "text": "anyone",
+          "role": "S",
+          "ko": "누구든"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "~하는"
+        },
+        {
+          "text": "joins",
+          "role": "V",
+          "ko": "가입하다",
+          "sub": true
+        },
+        {
+          "text": "during the month of April",
+          "role": "M",
+          "ko": "4월 한 달 동안",
+          "sub": true
+        },
+        {
+          "text": "will receive",
+          "role": "V",
+          "ko": "받을 것이다"
+        },
+        {
+          "text": "50 bonus points",
+          "role": "O",
+          "ko": "보너스 50포인트를"
+        },
+        {
+          "text": "right away.",
+          "role": "M",
+          "ko": "즉시"
+        }
+      ],
+      "skeleton": "Anyone will receive 50 bonus points.",
+      "explanation": "문장 앞 To V는 목적(~하기 위해). 주어 anyone을 who절이 꾸며 '가입하는 사람은 누구나'가 된다. anyone은 단수라 관계절 동사도 joins.",
+      "id": "st2"
+    },
+    {
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "According to Ms. Grant,",
+          "role": "M",
+          "ko": "Grant 씨에 따르면"
+        },
+        {
+          "text": "many shoppers",
+          "role": "S",
+          "ko": "많은 고객이"
+        },
+        {
+          "text": "had told",
+          "role": "V",
+          "ko": "말했었다"
+        },
+        {
+          "text": "the staff",
+          "role": "O",
+          "ko": "직원들에게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라고"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그들이",
+          "sub": true
+        },
+        {
+          "text": "wanted",
+          "role": "V",
+          "ko": "원했다",
+          "sub": true
+        },
+        {
+          "text": "more ways to save money on groceries.",
+          "role": "O",
+          "ko": "식료품비를 아낄 더 많은 방법을",
+          "sub": true
+        }
+      ],
+      "skeleton": "Many shoppers had told the staff that they wanted more ways.",
+      "explanation": "tell + 사람 + that절. 프로그램을 만들기(과거)보다 더 이전에 고객이 말한 것이므로 과거완료 had told.",
+      "id": "st3"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "조동사 + 수동태(can be + p.p.)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "can be exchanged"
+      ],
+      "explanation": "포인트는 '바뀌는' 대상이므로 수동태. 조동사 can 뒤에는 be + p.p.를 쓴다.",
+      "example": {
+        "en": "Tickets can be bought online.",
+        "ko": "표는 온라인으로 살 수 있다."
+      },
+      "note": "조동사 뒤 수동태는 항상 be + p.p.(is/are 아님).",
+      "id": "g1"
+    },
+    {
+      "title": "주격 관계대명사 who와 수 일치",
+      "tags": [
+        "관계사",
+        "일치"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "anyone who joins"
+      ],
+      "explanation": "who가 사람(anyone)을 꾸미며 관계절의 주어 역할을 한다. 관계절 동사는 선행사 anyone(단수)에 맞춰 joins.",
+      "example": {
+        "en": "Anyone who finishes early may leave.",
+        "ko": "일찍 끝내는 사람은 누구든 가도 된다."
+      },
+      "note": "관계절 동사의 수는 바로 앞 선행사에 맞춘다.",
+      "id": "g2"
+    },
+    {
+      "title": "Please note that + 절",
+      "tags": [
+        "명사절"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "Please note that"
+      ],
+      "explanation": "note(유의하다) 뒤에 that절이 목적어로 와서 '~라는 점에 유의해 주세요'가 된다. 공지문에서 주의 사항을 알릴 때 쓴다.",
+      "example": {
+        "en": "Please note that the office will close early today.",
+        "ko": "오늘 사무실이 일찍 닫는다는 점에 유의해 주세요."
+      },
+      "note": "Part 7에서 Please note that 뒤에는 제한·예외 같은 정답 단서가 자주 나온다.",
+      "id": "g3"
+    }
+  ],
+  "glossary": {
+    "greenleaf": {
+      "lemma": "Greenleaf",
+      "pos": "proper-noun",
+      "ko": "그린리프 (마트 이름)",
+      "form": null,
+      "ipa": "/ˈɡriːnˌliːf/"
+    },
+    "market": {
+      "lemma": "market",
+      "pos": "noun",
+      "ko": "시장, 마트",
+      "form": null,
+      "synonyms": [
+        "store",
+        "supermarket"
+      ],
+      "ipa": "/ˈmɑːrkət/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "pleased": {
+      "lemma": "pleased",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "form": null,
+      "synonyms": [
+        "happy",
+        "glad"
+      ],
+      "ipa": "/pliːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로, ~에게; (to부정사) ~하기",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "announce": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "발표하다, 알리다",
+      "form": null,
+      "synonyms": [
+        "declare",
+        "report"
+      ],
+      "ipa": "/əˈnaʊns/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "launch": {
+      "lemma": "launch",
+      "pos": "noun",
+      "ko": "출시, 시작",
+      "form": null,
+      "synonyms": [
+        "introduction",
+        "start",
+        "debut"
+      ],
+      "ipa": "/lɔːntʃ/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "fresh": {
+      "lemma": "Fresh",
+      "pos": "proper-noun",
+      "ko": "프레시 (Fresh Rewards: 프로그램 이름)",
+      "form": null,
+      "ipa": "/frɛʃ/"
+    },
+    "rewards": {
+      "lemma": "Rewards",
+      "pos": "proper-noun",
+      "ko": "리워즈 (Fresh Rewards: 프로그램 이름)",
+      "form": null,
+      "ipa": "/rɪˈwɔːrdz/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의",
+      "form": null,
+      "synonyms": [
+        "complimentary",
+        "no-cost"
+      ],
+      "ipa": "/friː/"
+    },
+    "membership": {
+      "lemma": "membership",
+      "pos": "noun",
+      "ko": "회원 (자격)",
+      "form": null,
+      "synonyms": [
+        "enrollment"
+      ],
+      "ipa": "/ˈmɛmbərˌʃɪp/"
+    },
+    "program": {
+      "lemma": "program",
+      "pos": "noun",
+      "ko": "프로그램, 제도",
+      "form": null,
+      "synonyms": [
+        "plan",
+        "scheme"
+      ],
+      "ipa": "/ˈproʊˌɡræm/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해, ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "loyal": {
+      "lemma": "loyal",
+      "pos": "adjective",
+      "ko": "충성스러운, 단골의",
+      "form": null,
+      "synonyms": [
+        "faithful",
+        "regular"
+      ],
+      "ipa": "/ˈlɔɪəl/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "shoppers",
+        "clients"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(starting on) ~부터 시작하여",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beginning",
+        "from"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(날짜) ~에; ~에 대한",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "april": {
+      "lemma": "April",
+      "pos": "proper-noun",
+      "ko": "4월",
+      "form": null,
+      "ipa": "/ˈeɪprəl/"
+    },
+    "shoppers": {
+      "lemma": "shopper",
+      "pos": "noun",
+      "ko": "쇼핑객, 손님",
+      "form": "복수형",
+      "synonyms": [
+        "customers",
+        "buyers"
+      ],
+      "ipa": "/ˈʃɑːpərz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "sign": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "(sign up) 가입하다",
+      "form": null,
+      "synonyms": [
+        "register",
+        "enroll"
+      ],
+      "ipa": "/saɪn/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(sign up) 가입하여",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(장소·시각) ~에서, ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~든, 아무",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "checkout": {
+      "lemma": "checkout",
+      "pos": "noun",
+      "ko": "계산대",
+      "form": null,
+      "synonyms": [
+        "cashier",
+        "register"
+      ],
+      "ipa": "/ˈtʃɛˌkaʊt/"
+    },
+    "counter": {
+      "lemma": "counter",
+      "pos": "noun",
+      "ko": "카운터, 판매대",
+      "form": null,
+      "synonyms": [
+        "desk",
+        "stand"
+      ],
+      "ipa": "/ˈkaʊntər/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "mobile": {
+      "lemma": "mobile",
+      "pos": "adjective",
+      "ko": "모바일의, 휴대용의",
+      "form": null,
+      "synonyms": [
+        "smartphone",
+        "portable"
+      ],
+      "ipa": "/ˈmoʊbəl/"
+    },
+    "app": {
+      "lemma": "app",
+      "pos": "noun",
+      "ko": "앱 (응용 프로그램)",
+      "form": "줄임말",
+      "synonyms": [
+        "application",
+        "program"
+      ],
+      "ipa": "/æp/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "회원, 구성원",
+      "form": "복수형",
+      "synonyms": [
+        "participants"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "earn": {
+      "lemma": "earn",
+      "pos": "verb",
+      "ko": "얻다, 벌다",
+      "form": null,
+      "synonyms": [
+        "gain",
+        "get",
+        "collect"
+      ],
+      "ipa": "/ɜːrn/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "1, 하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "point": {
+      "lemma": "point",
+      "pos": "noun",
+      "ko": "포인트, 점수",
+      "form": null,
+      "synonyms": [
+        "credit",
+        "reward"
+      ],
+      "ipa": "/pɔɪnt/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, 매 ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "dollar": {
+      "lemma": "dollar",
+      "pos": "noun",
+      "ko": "달러",
+      "form": null,
+      "synonyms": [
+        "buck"
+      ],
+      "ipa": "/ˈdɑːlər/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들, 그것들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "spend": {
+      "lemma": "spend",
+      "pos": "verb",
+      "ko": "(돈을) 쓰다",
+      "form": null,
+      "synonyms": [
+        "pay",
+        "use"
+      ],
+      "ipa": "/spɛnd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "stores": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "매장, 가게",
+      "form": "복수형",
+      "synonyms": [
+        "shops",
+        "branches"
+      ],
+      "ipa": "/stɔːrz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "conjunction",
+      "ko": "일단 ~하면",
+      "form": null,
+      "ipa": "/wʌns/"
+    },
+    "member": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "회원, 구성원",
+      "form": null,
+      "synonyms": [
+        "participant"
+      ],
+      "ipa": "/ˈmɛmbər/"
+    },
+    "collects": {
+      "lemma": "collect",
+      "pos": "verb",
+      "ko": "모으다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "gathers",
+        "saves up"
+      ],
+      "ipa": "/kəˈlɛkts/"
+    },
+    "points": {
+      "lemma": "point",
+      "pos": "noun",
+      "ko": "포인트",
+      "form": "복수형",
+      "synonyms": [
+        "credits",
+        "rewards"
+      ],
+      "ipa": "/pɔɪnts/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "exchanged": {
+      "lemma": "exchange",
+      "pos": "verb",
+      "ko": "교환하다, 바꾸다",
+      "form": "과거분사",
+      "synonyms": [
+        "traded",
+        "swapped"
+      ],
+      "ipa": "/ɪksˈtʃeɪndʒd/"
+    },
+    "ten-dollar": {
+      "lemma": "ten-dollar",
+      "pos": "adjective",
+      "ko": "10달러짜리의",
+      "form": null,
+      "ipa": "/tɛn-ˈdɑːlər/"
+    },
+    "discount": {
+      "lemma": "discount",
+      "pos": "noun",
+      "ko": "할인",
+      "form": null,
+      "synonyms": [
+        "reduction",
+        "price cut"
+      ],
+      "ipa": "/dɪˈskaʊnt/"
+    },
+    "future": {
+      "lemma": "future",
+      "pos": "adjective",
+      "ko": "미래의, 다음의",
+      "form": null,
+      "synonyms": [
+        "later",
+        "upcoming"
+      ],
+      "ipa": "/ˈfjuːtʃər/"
+    },
+    "purchase": {
+      "lemma": "purchase",
+      "pos": "noun",
+      "ko": "구매",
+      "form": null,
+      "synonyms": [
+        "buy",
+        "shopping"
+      ],
+      "ipa": "/ˈpɜːrtʃəs/"
+    },
+    "addition": {
+      "lemma": "addition",
+      "pos": "noun",
+      "ko": "(in addition) 추가로, 게다가",
+      "form": null,
+      "synonyms": [
+        "extra"
+      ],
+      "ipa": "/əˈdɪʃən/"
+    },
+    "receive": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːv/"
+    },
+    "special": {
+      "lemma": "special",
+      "pos": "adjective",
+      "ko": "특별한",
+      "form": null,
+      "synonyms": [
+        "exclusive",
+        "unique"
+      ],
+      "ipa": "/ˈspɛʃəl/"
+    },
+    "coupons": {
+      "lemma": "coupon",
+      "pos": "noun",
+      "ko": "쿠폰",
+      "form": "복수형",
+      "synonyms": [
+        "vouchers"
+      ],
+      "ipa": "/ˈkuːˌpɔːnz/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지; ~로(수단)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "electronic mail"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주",
+      "form": null,
+      "synonyms": [
+        "seven days"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "these": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이것들, 이런",
+      "form": "복수형",
+      "ipa": "/ðiːz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "복수 현재",
+      "ipa": "/ɑːr/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "이용할 수 있는, 제공되는",
+      "form": null,
+      "synonyms": [
+        "offered",
+        "accessible"
+      ],
+      "ipa": "/əˈveɪləbəl/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "form": null,
+      "synonyms": [
+        "different"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "celebrate": {
+      "lemma": "celebrate",
+      "pos": "verb",
+      "ko": "기념하다, 축하하다",
+      "form": null,
+      "synonyms": [
+        "mark",
+        "honor"
+      ],
+      "ipa": "/ˈsɛləˌbreɪt/"
+    },
+    "anyone": {
+      "lemma": "anyone",
+      "pos": "pronoun",
+      "ko": "누구든지",
+      "form": null,
+      "ipa": "/ˈɛniˌwʌn/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "joins": {
+      "lemma": "join",
+      "pos": "verb",
+      "ko": "가입하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "signs up",
+        "enrolls"
+      ],
+      "ipa": "/dʒɔɪnz/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 월",
+      "form": null,
+      "synonyms": [
+        "four weeks"
+      ],
+      "ipa": "/mʌnθ/"
+    },
+    "bonus": {
+      "lemma": "bonus",
+      "pos": "adjective",
+      "ko": "보너스의, 추가의",
+      "form": null,
+      "synonyms": [
+        "extra",
+        "additional"
+      ],
+      "ipa": "/ˈboʊnəs/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adverb",
+      "ko": "(right away) 바로",
+      "form": null,
+      "synonyms": [
+        "immediately"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "(right away) 즉시",
+      "form": null,
+      "ipa": "/əˈweɪ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 부탁)",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "note": {
+      "lemma": "note",
+      "pos": "verb",
+      "ko": "유의하다, 주목하다",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "be aware"
+      ],
+      "ipa": "/noʊt/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "cannot": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다",
+      "form": "부정형",
+      "ipa": "/ˈkænɑt/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": "과거분사",
+      "synonyms": [
+        "spent",
+        "applied"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "buy": {
+      "lemma": "buy",
+      "pos": "verb",
+      "ko": "사다",
+      "form": null,
+      "synonyms": [
+        "purchase",
+        "get"
+      ],
+      "ipa": "/baɪ/"
+    },
+    "gift": {
+      "lemma": "gift",
+      "pos": "noun",
+      "ko": "선물 (gift card: 상품권)",
+      "form": null,
+      "synonyms": [
+        "present"
+      ],
+      "ipa": "/ɡɪft/"
+    },
+    "cards": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드",
+      "form": "복수형",
+      "synonyms": [
+        "vouchers"
+      ],
+      "ipa": "/kɑːrdz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "expire": {
+      "lemma": "expire",
+      "pos": "verb",
+      "ko": "만료되다, 소멸되다",
+      "form": null,
+      "synonyms": [
+        "run out",
+        "end"
+      ],
+      "ipa": "/ɪkˈspaɪr/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "does": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "3인칭 단수",
+      "ipa": "/dʌz/"
+    },
+    "shop": {
+      "lemma": "shop",
+      "pos": "verb",
+      "ko": "쇼핑하다, 물건을 사다",
+      "form": null,
+      "synonyms": [
+        "buy",
+        "purchase"
+      ],
+      "ipa": "/ʃɑːp/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~에서",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를, 저희에게",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "twelve": {
+      "lemma": "twelve",
+      "pos": "number",
+      "ko": "12, 열둘",
+      "form": null,
+      "ipa": "/twɛlv/"
+    },
+    "months": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 개월",
+      "form": "복수형",
+      "synonyms": [
+        "four-week periods"
+      ],
+      "ipa": "/mʌnθs/"
+    },
+    "store": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "매장",
+      "form": null,
+      "synonyms": [
+        "shop",
+        "branch"
+      ],
+      "ipa": "/stɔːr/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 점장",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "director"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "olivia": {
+      "lemma": "Olivia",
+      "pos": "proper-noun",
+      "ko": "올리비아 (여자 이름)",
+      "form": null,
+      "ipa": "/oʊˈlɪviə/"
+    },
+    "grant": {
+      "lemma": "Grant",
+      "pos": "proper-noun",
+      "ko": "그랜트 (사람 성)",
+      "form": null,
+      "ipa": "/ɡrænt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "stated",
+        "explained"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "created": {
+      "lemma": "create",
+      "pos": "verb",
+      "ko": "만들다",
+      "form": "과거분사",
+      "synonyms": [
+        "developed",
+        "designed"
+      ],
+      "ipa": "/kriˈeɪtəd/"
+    },
+    "response": {
+      "lemma": "response",
+      "pos": "noun",
+      "ko": "(in response to) 응답, 반응",
+      "form": null,
+      "synonyms": [
+        "reply",
+        "reaction"
+      ],
+      "ipa": "/rɪˈspɑːns/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "shopper",
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "feedback": {
+      "lemma": "feedback",
+      "pos": "noun",
+      "ko": "의견, 피드백",
+      "form": null,
+      "synonyms": [
+        "opinions",
+        "comments"
+      ],
+      "ipa": "/ˈfiːdˌbæk/"
+    },
+    "according": {
+      "lemma": "according",
+      "pos": "adverb",
+      "ko": "(according to) ~에 따르면",
+      "form": null,
+      "ipa": "/əˈkɔːrdɪŋ/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~ 씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "told": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 알리다",
+      "form": "과거분사",
+      "synonyms": [
+        "informed",
+        "said to"
+      ],
+      "ipa": "/toʊld/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "personnel"
+      ],
+      "ipa": "/stæf/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": "과거형",
+      "synonyms": [
+        "wished for",
+        "desired"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "determiner",
+      "ko": "더 많은",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "ways": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방법",
+      "form": "복수형",
+      "synonyms": [
+        "methods",
+        "means"
+      ],
+      "ipa": "/weɪz/"
+    },
+    "save": {
+      "lemma": "save",
+      "pos": "verb",
+      "ko": "(돈을) 아끼다, 절약하다",
+      "form": null,
+      "synonyms": [
+        "cut costs",
+        "keep"
+      ],
+      "ipa": "/seɪv/"
+    },
+    "money": {
+      "lemma": "money",
+      "pos": "noun",
+      "ko": "돈",
+      "form": null,
+      "synonyms": [
+        "cash",
+        "funds"
+      ],
+      "ipa": "/ˈmʌni/"
+    },
+    "groceries": {
+      "lemma": "grocery",
+      "pos": "noun",
+      "ko": "식료품",
+      "form": "복수형",
+      "synonyms": [
+        "food",
+        "provisions"
+      ],
+      "ipa": "/ˈɡroʊsəriz/"
+    },
+    "information": {
+      "lemma": "information",
+      "pos": "noun",
+      "ko": "정보",
+      "form": null,
+      "synonyms": [
+        "details",
+        "facts"
+      ],
+      "ipa": "/ˌɪnfərˈmeɪʃən/"
+    },
+    "ask": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다, 문의하다",
+      "form": null,
+      "synonyms": [
+        "inquire",
+        "consult"
+      ],
+      "ipa": "/æsk/"
+    },
+    "employee": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": null,
+      "synonyms": [
+        "staff member",
+        "worker"
+      ],
+      "ipa": "/ɛmˈplɔɪi/"
+    },
+    "visit": {
+      "lemma": "visit",
+      "pos": "verb",
+      "ko": "방문하다",
+      "form": null,
+      "synonyms": [
+        "go to",
+        "check"
+      ],
+      "ipa": "/ˈvɪzɪt/"
+    },
+    "website": {
+      "lemma": "website",
+      "pos": "noun",
+      "ko": "웹사이트",
+      "form": null,
+      "synonyms": [
+        "web page",
+        "site"
+      ],
+      "ipa": "/ˈwɛbˌsaɪt/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the purpose of the announcement?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "To advertise the opening of a store"
+        },
+        {
+          "key": "B",
+          "text": "To introduce a new customer program"
+        },
+        {
+          "key": "C",
+          "text": "To explain a change in store hours"
+        },
+        {
+          "key": "D",
+          "text": "To ask customers to complete a survey"
+        }
+      ],
+      "answer": "B",
+      "evidenceSentenceIds": [
+        "s1"
+      ],
+      "explanationKo": "첫 문장 'announce the launch of Fresh Rewards, a free membership program'이 단서. 새 회원(고객) 프로그램을 소개하는 공지다. launch → introduce, membership program → customer program으로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "D": "고객 의견(feedback)이 언급되지만 설문을 요청하지는 않는다."
+      },
+      "skill": "글의 목적"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "How can customers get bonus points?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "By buying gift cards"
+        },
+        {
+          "key": "B",
+          "text": "By shopping for twelve months"
+        },
+        {
+          "key": "C",
+          "text": "By signing up for the program in April"
+        },
+        {
+          "key": "D",
+          "text": "By downloading coupons from the website"
+        }
+      ],
+      "answer": "C",
+      "evidenceSentenceIds": [
+        "s7"
+      ],
+      "explanationKo": "'anyone who joins during the month of April will receive 50 bonus points'가 단서. joins → signing up for the program으로 바꿔 말했다.",
+      "choiceNotesKo": {
+        "A": "포인트로 상품권을 살 수 없다고 했을 뿐, 보너스와 관계없다.",
+        "B": "12개월은 포인트가 소멸되는 기간이다."
+      },
+      "skill": "세부 사항(패러프레이징)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "What is suggested about Fresh Rewards?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "It charges members a monthly fee."
+        },
+        {
+          "key": "B",
+          "text": "Its points never expire."
+        },
+        {
+          "key": "C",
+          "text": "It is available only through the mobile app."
+        },
+        {
+          "key": "D",
+          "text": "It was developed based on shoppers' opinions."
+        }
+      ],
+      "answer": "D",
+      "evidenceSentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "explanationKo": "관리자가 프로그램이 'in response to customer feedback(고객 의견에 따라)' 만들어졌고, 고객들이 돈을 아낄 방법을 원했다고 말했다. 즉 고객 의견을 바탕으로 만들어졌다.",
+      "choiceNotesKo": {
+        "A": "첫 문장에 free(무료) 프로그램이라고 했다.",
+        "C": "계산대에서도 가입할 수 있다(s2)."
+      },
+      "skill": "추론"
+    }
+  ]
+}
