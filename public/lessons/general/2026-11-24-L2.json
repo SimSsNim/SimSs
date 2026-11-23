@@ -1,0 +1,1228 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L2",
+  "date": "2026-11-24",
+  "level": 2,
+  "title": "The Ass and the Dog",
+  "titleKo": "당나귀와 개",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_07_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_07_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-9-fables-201-225",
+    "reader": "Tae Jensen",
+    "durationSec": 76,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 09, 07번 트랙(전체 207번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 낭독자는 LibriVox 사이트 장애로 검색 결과에서 확인(불확실할 수 있음)"
+  },
+  "wordCount": 151,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "당나귀와 개가 함께 여행을 하고 있었는데, 길을 가다가 봉인된 꾸러미 하나가 땅에 떨어져 있는 것을 발견했다. 당나귀는 그것을 주워 봉인을 뜯었고, 안에 글이 적혀 있는 것을 알게 되었다. 그러고는 그 글을 개에게 소리 내어 읽어 주기 시작했다. 계속 읽어 나가 보니, 그 글은 온통 풀과 보리와 건초에 관한 것, 한마디로 당나귀들이 좋아하는 온갖 종류의 먹이에 관한 이야기였다. 개는 이 모든 것을 듣는 게 무척 지루했고, 마침내 참지 못하고 외쳤다. \"친구, 몇 장만 건너뛰고 고기와 뼈에 관한 내용은 없는지 좀 봐.\" 당나귀는 꾸러미를 처음부터 끝까지 훑어보았지만 그런 내용은 하나도 찾지 못했고, 그렇다고 말했다. 그러자 개가 넌더리를 내며 말했다. \"아, 그거 그냥 갖다 버려. 그런 게 무슨 쓸모가 있겠어?\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "An Ass and a Dog were on their travels together, and, as they went along, they found a sealed packet lying on the ground.",
+      "ko": "당나귀와 개가 함께 여행을 하고 있었는데, 길을 가다가 봉인된 꾸러미 하나가 땅에 떨어져 있는 것을 발견했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The Ass picked it up, broke the seal, and found it contained some writing, which he proceeded to read out aloud to the Dog.",
+      "ko": "당나귀는 그것을 주워 봉인을 뜯었고, 안에 글이 적혀 있는 것을 알게 되었다. 그러고는 그 글을 개에게 소리 내어 읽어 주기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "As he read on it turned out to be all about grass and barley and hay--in short, all the kinds of fodder that Asses are fond of.",
+      "ko": "계속 읽어 나가 보니, 그 글은 온통 풀과 보리와 건초에 관한 것, 한마디로 당나귀들이 좋아하는 온갖 종류의 먹이에 관한 이야기였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The Dog was a good deal bored with listening to all this, till at last his impatience got the better of him, and he cried, \"Just skip a few pages, friend, and see if there isn't something about meat and bones.\"",
+      "ko": "개는 이 모든 것을 듣는 게 무척 지루했고, 마침내 참지 못하고 외쳤다. \"친구, 몇 장만 건너뛰고 고기와 뼈에 관한 내용은 없는지 좀 봐.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The Ass glanced all through the packet, but found nothing of the sort, and said so.",
+      "ko": "당나귀는 꾸러미를 처음부터 끝까지 훑어보았지만 그런 내용은 하나도 찾지 못했고, 그렇다고 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Then the Dog said in disgust, \"Oh, throw it away, do: what's the good of a thing like that?\"",
+      "ko": "그러자 개가 넌더리를 내며 말했다. \"아, 그거 그냥 갖다 버려. 그런 게 무슨 쓸모가 있겠어?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "proceed to",
+      "pos": "phrase",
+      "meaningKo": "이어서 ~하기 시작하다, ~하는 데 착수하다",
+      "ipa": "/prəˈsiːd tuː/",
+      "synonyms": [
+        "go on to",
+        "begin to",
+        "start to"
+      ],
+      "matchText": "proceeded to",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He sat down and proceeded to eat.",
+        "ko": "그는 앉더니 먹기 시작했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "turn out",
+      "pos": "phrasal-verb",
+      "meaningKo": "(결국) ~인 것으로 드러나다",
+      "ipa": "/tɜːrn aʊt/",
+      "synonyms": [
+        "prove",
+        "end up",
+        "emerge"
+      ],
+      "matchText": "turned out",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The test turned out to be easy.",
+        "ko": "그 시험은 쉬운 것으로 드러났다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "be fond of",
+      "pos": "phrase",
+      "meaningKo": "~을 좋아하다",
+      "ipa": "/bi fɑːnd ʌv/",
+      "synonyms": [
+        "like",
+        "love",
+        "be keen on"
+      ],
+      "matchText": "are fond of",
+      "sentenceId": "s3",
+      "example": {
+        "en": "My sister is fond of cats.",
+        "ko": "내 여동생은 고양이를 좋아한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "get the better of",
+      "pos": "idiom",
+      "meaningKo": "(감정 등이) ~을 이기다, 압도하다",
+      "ipa": "/ɡɛt ðə ˈbɛtər ʌv/",
+      "synonyms": [
+        "overcome",
+        "overpower",
+        "defeat"
+      ],
+      "matchText": "got the better of",
+      "sentenceId": "s4",
+      "example": {
+        "en": "His curiosity got the better of him.",
+        "ko": "그는 호기심을 이기지 못했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "in disgust",
+      "pos": "phrase",
+      "meaningKo": "넌더리를 내며, 역겨워하며",
+      "ipa": "/ɪn dɪsˈɡʌst/",
+      "synonyms": [
+        "with distaste",
+        "angrily"
+      ],
+      "matchText": "in disgust",
+      "sentenceId": "s6",
+      "example": {
+        "en": "She threw down the book in disgust.",
+        "ko": "그녀는 넌더리를 내며 책을 내던졌다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "The Ass",
+          "role": "S",
+          "sub": false,
+          "ko": "당나귀는"
+        },
+        {
+          "text": "picked",
+          "role": "V",
+          "sub": false,
+          "ko": "주웠다"
+        },
+        {
+          "text": "it",
+          "role": "O",
+          "sub": false,
+          "ko": "그것을"
+        },
+        {
+          "text": "up,",
+          "role": "M",
+          "sub": false,
+          "ko": "(위로)"
+        },
+        {
+          "text": "broke",
+          "role": "V",
+          "sub": false,
+          "ko": "뜯었다"
+        },
+        {
+          "text": "the seal,",
+          "role": "O",
+          "sub": false,
+          "ko": "봉인을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "sub": false,
+          "ko": "알게 되었다"
+        },
+        {
+          "text": "it contained some writing,",
+          "role": "O",
+          "sub": false,
+          "ko": "그것에 글이 들어 있다는 것을"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그것을"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "proceeded to read out aloud",
+          "role": "V",
+          "sub": true,
+          "ko": "이어서 소리 내어 읽었다"
+        },
+        {
+          "text": "to the Dog.",
+          "role": "M",
+          "sub": true,
+          "ko": "개에게"
+        }
+      ],
+      "skeleton": "The Ass picked ~, broke ~, and found ~",
+      "explanation": "한 주어(The Ass)에 동사 세 개(picked up, broke, found)가 차례로 이어져요. found 뒤의 it contained some writing은 '그것이 글을 담고 있다는 것'이라는 목적어(앞에 that 생략)예요. 콤마 뒤 which는 some writing을 받아서 '그리고 그 글을'이라는 뜻으로 설명을 덧붙여요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "The Dog",
+          "role": "S",
+          "sub": false,
+          "ko": "개는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "a good deal bored",
+          "role": "C",
+          "sub": false,
+          "ko": "무척 지루한"
+        },
+        {
+          "text": "with listening to all this,",
+          "role": "M",
+          "sub": false,
+          "ko": "이 모든 것을 듣는 것에"
+        },
+        {
+          "text": "till",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때까지 (마침내)"
+        },
+        {
+          "text": "at last",
+          "role": "M",
+          "sub": true,
+          "ko": "마침내"
+        },
+        {
+          "text": "his impatience",
+          "role": "S",
+          "sub": true,
+          "ko": "그의 조바심이"
+        },
+        {
+          "text": "got",
+          "role": "V",
+          "sub": true,
+          "ko": "이겼다"
+        },
+        {
+          "text": "the better of him,",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "cried,",
+          "role": "V",
+          "sub": false,
+          "ko": "외쳤다"
+        },
+        {
+          "text": "\"Just skip a few pages, friend, and see if there isn't something about meat and bones.\"",
+          "role": "O",
+          "sub": false,
+          "ko": "\"친구, 몇 장만 건너뛰고 고기와 뼈에 관한 게 없는지 봐.\""
+        }
+      ],
+      "skeleton": "The Dog was bored ~ and he cried ~",
+      "explanation": "앞부분 뼈대는 The Dog was bored(개는 지루했다)예요. till 절은 '그러다 마침내 ~했다'처럼 시간의 흐름을 보여 줘요. his impatience got the better of him은 '조바심이 그를 이겼다', 즉 '더는 참지 못했다'는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "계속적 용법의 관계대명사 which",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "which he proceeded to read out aloud"
+      ],
+      "explanation": "콤마 뒤에 오는 which는 앞의 명사(some writing)를 받아 '그리고 그것을'처럼 설명을 이어 줘요. 콤마가 없는 which는 '어떤' 것인지 골라 주지만, 콤마가 있으면 정보를 덧붙이는 역할을 해요.",
+      "example": {
+        "en": "I lent him my bike, which he never returned.",
+        "ko": "나는 그에게 자전거를 빌려줬는데, 그는 그것을 끝내 돌려주지 않았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "turn out to be (~인 것으로 드러나다)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "it turned out to be all about grass"
+      ],
+      "explanation": "turn out to be + 명사/형용사는 '알고 보니 ~였다'라는 뜻이에요. 처음엔 몰랐는데 나중에 사실이 밝혀질 때 써요.",
+      "example": {
+        "en": "The stranger turned out to be my cousin.",
+        "ko": "그 낯선 사람은 알고 보니 내 사촌이었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "목적격 관계대명사 that",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "all the kinds of fodder that Asses are fond of"
+      ],
+      "explanation": "that Asses are fond of가 앞의 fodder(먹이)를 꾸며서 '당나귀들이 좋아하는 먹이'가 돼요. be fond of의 of 뒤에 와야 할 목적어가 that으로 바뀌어 앞으로 갔기 때문에 문장 끝에 of만 남아 있어요.",
+      "example": {
+        "en": "This is the song that I am fond of.",
+        "ko": "이것이 내가 좋아하는 노래야."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사, 모음 앞)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ass": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": null,
+      "synonyms": [
+        "donkey"
+      ],
+      "ipa": "/æs/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "dog": {
+      "lemma": "dog",
+      "pos": "noun",
+      "ko": "개",
+      "form": null,
+      "ipa": "/dɔːɡ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~에 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 중인; ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "travels": {
+      "lemma": "travel",
+      "pos": "noun",
+      "ko": "여행",
+      "form": "복수형",
+      "synonyms": [
+        "journey",
+        "trip"
+      ],
+      "ipa": "/ˈtrævəlz/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "jointly"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하면서, ~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "synonyms": [
+        "travel",
+        "move"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "(길을) 따라, 계속 앞으로",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "발견하다; 알게 되다",
+      "form": "과거형",
+      "synonyms": [
+        "discover",
+        "come upon"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "sealed": {
+      "lemma": "seal",
+      "pos": "verb",
+      "ko": "봉인하다",
+      "form": "과거분사",
+      "synonyms": [
+        "closed",
+        "fastened"
+      ],
+      "ipa": "/siːld/"
+    },
+    "packet": {
+      "lemma": "packet",
+      "pos": "noun",
+      "ko": "꾸러미, 소포",
+      "form": null,
+      "synonyms": [
+        "parcel",
+        "package"
+      ],
+      "ipa": "/ˈpækət/"
+    },
+    "lying": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "놓여 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rest",
+        "sit"
+      ],
+      "ipa": "/ˈlaɪɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅, 지면",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "soil"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "picked": {
+      "lemma": "pick",
+      "pos": "verb",
+      "ko": "(pick up) 줍다",
+      "form": "과거형",
+      "synonyms": [
+        "lift",
+        "take"
+      ],
+      "ipa": "/pɪkt/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "broke": {
+      "lemma": "break",
+      "pos": "verb",
+      "ko": "뜯다, 깨다",
+      "form": "과거형",
+      "synonyms": [
+        "open",
+        "crack"
+      ],
+      "ipa": "/broʊk/"
+    },
+    "seal": {
+      "lemma": "seal",
+      "pos": "noun",
+      "ko": "봉인",
+      "form": null,
+      "synonyms": [
+        "stamp",
+        "closure"
+      ],
+      "ipa": "/siːl/"
+    },
+    "contained": {
+      "lemma": "contain",
+      "pos": "verb",
+      "ko": "담고 있다",
+      "form": "과거형",
+      "synonyms": [
+        "hold",
+        "include"
+      ],
+      "ipa": "/kənˈteɪnd/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의, 어떤",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "writing": {
+      "lemma": "writing",
+      "pos": "noun",
+      "ko": "글, 쓰인 것",
+      "form": null,
+      "synonyms": [
+        "text",
+        "words"
+      ],
+      "ipa": "/ˈraɪtɪŋ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그리고 그것을 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "proceeded": {
+      "lemma": "proceed",
+      "pos": "verb",
+      "ko": "(proceed to) 이어서 ~하다",
+      "form": "과거형",
+      "synonyms": [
+        "go on",
+        "begin"
+      ],
+      "ipa": "/prəˈsiːdɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기; ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "read": {
+      "lemma": "read",
+      "pos": "verb",
+      "ko": "읽다",
+      "form": "과거형",
+      "ipa": "/rɛd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(read out) 소리 내어",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "aloud": {
+      "lemma": "aloud",
+      "pos": "adverb",
+      "ko": "소리 내어",
+      "form": null,
+      "synonyms": [
+        "out loud",
+        "audibly"
+      ],
+      "ipa": "/əˈlaʊd/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn out) ~으로 드러나다",
+      "form": "과거형",
+      "synonyms": [
+        "prove"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "완전히, 온통; (한정사) 모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 관한",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "grass": {
+      "lemma": "grass",
+      "pos": "noun",
+      "ko": "풀",
+      "form": null,
+      "ipa": "/ɡræs/"
+    },
+    "barley": {
+      "lemma": "barley",
+      "pos": "noun",
+      "ko": "보리",
+      "form": null,
+      "ipa": "/ˈbɑːrli/"
+    },
+    "hay": {
+      "lemma": "hay",
+      "pos": "noun",
+      "ko": "건초",
+      "form": null,
+      "ipa": "/heɪ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in short) 한마디로; ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "noun",
+      "ko": "(in short) 요컨대",
+      "form": null,
+      "synonyms": [
+        "brief"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "kinds": {
+      "lemma": "kind",
+      "pos": "noun",
+      "ko": "종류",
+      "form": "복수형",
+      "synonyms": [
+        "types",
+        "sorts"
+      ],
+      "ipa": "/kaɪndz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "fodder": {
+      "lemma": "fodder",
+      "pos": "noun",
+      "ko": "(가축의) 먹이, 사료",
+      "form": null,
+      "synonyms": [
+        "feed",
+        "forage"
+      ],
+      "ipa": "/ˈfɑːdər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사); 그것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "asses": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": "복수형",
+      "synonyms": [
+        "donkeys"
+      ],
+      "ipa": "/ˈæsəz/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
+    },
+    "fond": {
+      "lemma": "fond",
+      "pos": "adjective",
+      "ko": "(be fond of) ~을 좋아하는",
+      "form": null,
+      "synonyms": [
+        "keen",
+        "attached"
+      ],
+      "ipa": "/fɑːnd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "(a good deal) 상당한; (명사) 쓸모, 이로움",
+      "form": null,
+      "ipa": "/ɡʊd/"
+    },
+    "deal": {
+      "lemma": "deal",
+      "pos": "noun",
+      "ko": "(a good deal) 꽤 많이, 무척",
+      "form": null,
+      "synonyms": [
+        "lot"
+      ],
+      "ipa": "/diːl/"
+    },
+    "bored": {
+      "lemma": "bored",
+      "pos": "adjective",
+      "ko": "지루한",
+      "form": null,
+      "synonyms": [
+        "weary",
+        "fed up"
+      ],
+      "ipa": "/bɔːrd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로, ~에",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "listening": {
+      "lemma": "listen",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "동명사",
+      "synonyms": [
+        "hear",
+        "attend"
+      ],
+      "ipa": "/ˈlɪsənɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at last) 마침내",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내",
+      "form": null,
+      "ipa": "/læst/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "impatience": {
+      "lemma": "impatience",
+      "pos": "noun",
+      "ko": "조바심, 성급함",
+      "form": null,
+      "synonyms": [
+        "restlessness",
+        "eagerness"
+      ],
+      "ipa": "/ˌɪmˈpeɪʃəns/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get the better of) ~을 이기다",
+      "form": "과거형",
+      "synonyms": [
+        "overcome"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "better": {
+      "lemma": "better",
+      "pos": "noun",
+      "ko": "(get the better of) 우세, 이김",
+      "form": null,
+      "ipa": "/ˈbɛtər/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "call"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "그냥, 좀",
+      "form": null,
+      "synonyms": [
+        "simply"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "skip": {
+      "lemma": "skip",
+      "pos": "verb",
+      "ko": "건너뛰다",
+      "form": null,
+      "synonyms": [
+        "pass over",
+        "omit"
+      ],
+      "ipa": "/skɪp/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(a few) 몇몇의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "pages": {
+      "lemma": "page",
+      "pos": "noun",
+      "ko": "페이지, 쪽",
+      "form": "복수형",
+      "ipa": "/ˈpeɪdʒəz/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "알아보다, 확인하다",
+      "form": null,
+      "synonyms": [
+        "check",
+        "look"
+      ],
+      "ipa": "/siː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~인지 (아닌지)",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(there is) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "isn't": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 아니다, 없다",
+      "form": "줄임말 (is not)",
+      "ipa": "/ˈɪzənt/"
+    },
+    "something": {
+      "lemma": "something",
+      "pos": "pronoun",
+      "ko": "어떤 것",
+      "form": null,
+      "ipa": "/ˈsʌmθɪŋ/"
+    },
+    "meat": {
+      "lemma": "meat",
+      "pos": "noun",
+      "ko": "고기",
+      "form": null,
+      "ipa": "/miːt/"
+    },
+    "bones": {
+      "lemma": "bone",
+      "pos": "noun",
+      "ko": "뼈",
+      "form": "복수형",
+      "ipa": "/boʊnz/"
+    },
+    "glanced": {
+      "lemma": "glance",
+      "pos": "verb",
+      "ko": "훑어보다",
+      "form": "과거형",
+      "synonyms": [
+        "skim",
+        "look over"
+      ],
+      "ipa": "/ɡlænst/"
+    },
+    "through": {
+      "lemma": "through",
+      "pos": "preposition",
+      "ko": "~을 통해, 처음부터 끝까지",
+      "form": null,
+      "ipa": "/θruː/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 없음",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "sort": {
+      "lemma": "sort",
+      "pos": "noun",
+      "ko": "종류",
+      "form": null,
+      "synonyms": [
+        "kind",
+        "type"
+      ],
+      "ipa": "/sɔːrt/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "state",
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게 (앞 내용을 받음)",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러자, 그때",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "disgust": {
+      "lemma": "disgust",
+      "pos": "noun",
+      "ko": "넌더리, 혐오",
+      "form": null,
+      "synonyms": [
+        "distaste",
+        "revulsion"
+      ],
+      "ipa": "/dɪsˈɡʌst/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "아, 오",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "throw": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던지다, (throw away) 버리다",
+      "form": null,
+      "synonyms": [
+        "toss",
+        "discard"
+      ],
+      "ipa": "/θroʊ/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, (throw away) 버려",
+      "form": null,
+      "ipa": "/əˈweɪ/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(명령문 끝 강조) 제발, 어서",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "what's": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇이 ~인가",
+      "form": "줄임말 (what is)",
+      "ipa": "/wʌts/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "것, 물건",
+      "form": null,
+      "synonyms": [
+        "object",
+        "item"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~ 같은",
+      "form": null,
+      "ipa": "/laɪk/"
+    }
+  }
+}

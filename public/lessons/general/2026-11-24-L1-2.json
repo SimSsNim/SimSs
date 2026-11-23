@@ -1,0 +1,1022 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L1-2",
+  "date": "2026-11-24",
+  "level": 1,
+  "title": "The Wolf and His Shadow",
+  "titleKo": "늑대와 그림자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_ten_librivox/fables_10_13_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_ten_librivox/fables_10_13_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-10-fables-226-250",
+    "reader": "JemmaBlythe",
+    "durationSec": 62,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 10, 13번 트랙(전체 238번 우화). 앞부분에 LibriVox 안내 멘트가 있음. LibriVox 목록에는 'The Fox and His Shadow'로 적혀 있음(낭독자 정보는 LibriVox 사이트 장애로 검색 결과로 확인)"
+  },
+  "wordCount": 106,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "해가 하늘에서 낮게 기울어 가던 무렵 들판을 어슬렁거리던 늑대 한 마리가 자기 그림자의 크기에 크게 감탄하며 혼잣말을 했다. \"내가 이렇게 큰 줄은 전혀 몰랐어. 내가 사자를 무서워했다니, 기가 막히는군! 아니, 그 녀석이 아니라 내가 짐승들의 왕이 되어야 마땅해.\" 그러고는 위험은 아랑곳하지 않고, 그 일에 조금도 의심할 여지가 없다는 듯 으스대며 돌아다녔다. 바로 그때 사자 한 마리가 늑대에게 달려들어 그를 잡아먹기 시작했다. \"아아,\" 늑대가 울부짖었다. \"내가 사실을 놓치지 않았더라면, 헛된 생각 때문에 이렇게 망하지는 않았을 텐데.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Wolf, who was roaming about on the plain when the sun was getting low in the sky, was much impressed by the size of his shadow, and said to himself, \"I had no idea I was so big.",
+      "ko": "해가 하늘에서 낮게 기울어 가던 무렵 들판을 어슬렁거리던 늑대 한 마리가 자기 그림자의 크기에 크게 감탄하며 혼잣말을 했다. \"내가 이렇게 큰 줄은 전혀 몰랐어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Fancy my being afraid of a lion!",
+      "ko": "내가 사자를 무서워했다니, 기가 막히는군!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Why, I, not he, ought to be King of the beasts\"; and, heedless of danger, he strutted about as if there could be no doubt at all about it.",
+      "ko": "아니, 그 녀석이 아니라 내가 짐승들의 왕이 되어야 마땅해.\" 그러고는 위험은 아랑곳하지 않고, 그 일에 조금도 의심할 여지가 없다는 듯 으스대며 돌아다녔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Just then a lion sprang upon him and began to devour him.",
+      "ko": "바로 그때 사자 한 마리가 늑대에게 달려들어 그를 잡아먹기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "\"Alas,\" he cried, \"had I not lost sight of the facts, I shouldn't have been ruined by my fancies.\"",
+      "ko": "\"아아,\" 늑대가 울부짖었다. \"내가 사실을 놓치지 않았더라면, 헛된 생각 때문에 이렇게 망하지는 않았을 텐데.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "roam about",
+      "pos": "phrasal-verb",
+      "meaningKo": "어슬렁거리다, 돌아다니다",
+      "ipa": "/roʊm əˈbaʊt/",
+      "synonyms": [
+        "wander",
+        "walk around",
+        "rove"
+      ],
+      "matchText": "roaming about",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The cows were roaming about the hill.",
+        "ko": "소들이 언덕을 어슬렁거리고 있었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "be impressed by",
+      "pos": "phrase",
+      "meaningKo": "~에 감탄하다, 깊은 인상을 받다",
+      "ipa": "/bi ɪmˈprɛst baɪ/",
+      "synonyms": [
+        "be amazed by",
+        "be struck by"
+      ],
+      "matchText": "impressed by",
+      "sentenceId": "s1",
+      "example": {
+        "en": "I was impressed by her singing.",
+        "ko": "나는 그녀의 노래에 감탄했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "heedless of",
+      "pos": "phrase",
+      "meaningKo": "~을 아랑곳하지 않고, 개의치 않고",
+      "ipa": "/ˈhiːdləs ʌv/",
+      "synonyms": [
+        "careless of",
+        "ignoring"
+      ],
+      "matchText": "heedless of",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He ran into the road, heedless of the cars.",
+        "ko": "그는 차들은 아랑곳하지 않고 도로로 뛰어들었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "strut",
+      "pos": "verb",
+      "meaningKo": "으스대며 걷다, 뽐내며 걷다",
+      "ipa": "/strʌt/",
+      "synonyms": [
+        "swagger",
+        "parade",
+        "show off"
+      ],
+      "matchText": "strutted",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The rooster strutted around the yard.",
+        "ko": "수탉이 마당을 으스대며 돌아다녔다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "devour",
+      "pos": "verb",
+      "meaningKo": "게걸스럽게 먹다, 잡아먹다",
+      "ipa": "/dɪˈvaʊər/",
+      "synonyms": [
+        "eat up",
+        "gobble",
+        "swallow"
+      ],
+      "matchText": "devour",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The hungry boy devoured the pizza.",
+        "ko": "배고픈 소년은 피자를 게걸스럽게 먹어 치웠다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Wolf,",
+          "role": "S",
+          "sub": false,
+          "ko": "늑대 한 마리가"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 늑대는)"
+        },
+        {
+          "text": "was roaming about",
+          "role": "V",
+          "sub": true,
+          "ko": "어슬렁거리고 있었다"
+        },
+        {
+          "text": "on the plain",
+          "role": "M",
+          "sub": true,
+          "ko": "들판에서"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "the sun",
+          "role": "S",
+          "sub": true,
+          "ko": "해가"
+        },
+        {
+          "text": "was getting",
+          "role": "V",
+          "sub": true,
+          "ko": "되어 가고 있었다"
+        },
+        {
+          "text": "low",
+          "role": "C",
+          "sub": true,
+          "ko": "낮게"
+        },
+        {
+          "text": "in the sky,",
+          "role": "M",
+          "sub": true,
+          "ko": "하늘에서"
+        },
+        {
+          "text": "was much impressed",
+          "role": "V",
+          "sub": false,
+          "ko": "크게 감탄했다"
+        },
+        {
+          "text": "by the size of his shadow,",
+          "role": "M",
+          "sub": false,
+          "ko": "자기 그림자의 크기에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "to himself,",
+          "role": "M",
+          "sub": false,
+          "ko": "혼잣말로"
+        },
+        {
+          "text": "\"I had no idea I was so big.",
+          "role": "O",
+          "sub": false,
+          "ko": "\"내가 이렇게 큰 줄 전혀 몰랐어."
+        }
+      ],
+      "skeleton": "A Wolf was much impressed ~ and said ~",
+      "explanation": "주어 A Wolf 뒤에 콤마로 둘러싸인 who 관계절이 와서 늑대가 무엇을 하고 있었는지 설명해요. 그 안에 다시 when 절(해가 낮아질 때)이 들어 있어요. 진짜 동사는 was impressed와 said 두 개이고 and로 이어져요. 따옴표 속 말이 said의 목적어예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "\"Alas,\"",
+          "role": "M",
+          "sub": false,
+          "ko": "\"아아,\""
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "cried,",
+          "role": "V",
+          "sub": false,
+          "ko": "외쳤다"
+        },
+        {
+          "text": "\"had",
+          "role": "V",
+          "sub": true,
+          "ko": "(만약) ~했더라면"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": true,
+          "ko": "내가"
+        },
+        {
+          "text": "not lost sight of",
+          "role": "V",
+          "sub": true,
+          "ko": "놓치지 않았다"
+        },
+        {
+          "text": "the facts,",
+          "role": "O",
+          "sub": true,
+          "ko": "사실을"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": false,
+          "ko": "나는"
+        },
+        {
+          "text": "shouldn't have been ruined",
+          "role": "V",
+          "sub": false,
+          "ko": "망하지 않았을 텐데"
+        },
+        {
+          "text": "by my fancies.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "내 헛된 생각 때문에"
+        }
+      ],
+      "skeleton": "I shouldn't have been ruined",
+      "explanation": "따옴표 속 문장의 뼈대는 I shouldn't have been ruined(나는 망하지 않았을 텐데)예요. 앞의 had I not lost sight of the facts는 If I had not lost sight of the facts에서 if를 빼고 had를 앞으로 보낸 조건절이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "가정법 과거완료와 if 생략 도치",
+      "tags": [
+        "가정법",
+        "도치"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "had I not lost sight of the facts",
+        "shouldn't have been ruined"
+      ],
+      "explanation": "과거 사실과 반대로 '~했더라면 …했을 텐데'라고 할 때 If + 주어 + had p.p., 주어 + would/should have p.p.를 써요. if를 빼면 had가 주어 앞으로 나와서 Had I not lost …가 돼요. 실제로는 사실을 놓쳤고, 그래서 망했다는 뜻이에요.",
+      "example": {
+        "en": "Had I known, I would have helped you.",
+        "ko": "내가 알았더라면 너를 도왔을 텐데."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as if + 가정 (마치 ~인 것처럼)",
+      "tags": [
+        "가정법",
+        "접속사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "as if there could be no doubt at all about it"
+      ],
+      "explanation": "as if는 '마치 ~인 것처럼'이라는 뜻이에요. 늑대는 정말로 왕이 아닌데 마치 의심할 여지가 전혀 없다는 듯이 행동했어요.",
+      "example": {
+        "en": "He talks as if he knew everything.",
+        "ko": "그는 마치 모든 것을 아는 것처럼 말한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "Fancy + 동명사! (~하다니!)",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "Fancy my being afraid"
+      ],
+      "explanation": "Fancy + -ing는 '~하다니 (놀랍다/우습다)!'라는 영국식 감탄 표현이에요. my는 being의 의미상 주어로 '내가 ~하는 것'이라는 뜻이에요.",
+      "example": {
+        "en": "Fancy meeting you here!",
+        "ko": "여기서 너를 만나다니!"
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "wolf": {
+      "lemma": "wolf",
+      "pos": "noun",
+      "ko": "늑대",
+      "form": null,
+      "ipa": "/wʊlf/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "roaming": {
+      "lemma": "roam",
+      "pos": "verb",
+      "ko": "돌아다니다, 어슬렁거리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "wander",
+        "rove"
+      ],
+      "ipa": "/ˈroʊmɪŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "여기저기; (전치사) ~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에서",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "plain": {
+      "lemma": "plain",
+      "pos": "noun",
+      "ko": "평원, 들판",
+      "form": null,
+      "synonyms": [
+        "prairie",
+        "field"
+      ],
+      "ipa": "/pleɪn/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 태양",
+      "form": null,
+      "ipa": "/sʌn/"
+    },
+    "getting": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(~한 상태가) 되다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "become",
+        "grow"
+      ],
+      "ipa": "/ˈɡɛtɪŋ/"
+    },
+    "low": {
+      "lemma": "low",
+      "pos": "adjective",
+      "ko": "낮은",
+      "form": null,
+      "synonyms": [
+        "sinking"
+      ],
+      "ipa": "/loʊ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "sky": {
+      "lemma": "sky",
+      "pos": "noun",
+      "ko": "하늘",
+      "form": null,
+      "ipa": "/skaɪ/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "매우, 크게",
+      "form": null,
+      "synonyms": [
+        "greatly",
+        "very"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "impressed": {
+      "lemma": "impress",
+      "pos": "verb",
+      "ko": "감탄하게 하다, 깊은 인상을 주다",
+      "form": "과거분사",
+      "synonyms": [
+        "amaze",
+        "strike"
+      ],
+      "ipa": "/ˌɪmˈprɛst/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~ 때문에",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "size": {
+      "lemma": "size",
+      "pos": "noun",
+      "ko": "크기",
+      "form": null,
+      "synonyms": [
+        "bigness",
+        "scale"
+      ],
+      "ipa": "/saɪz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "shadow": {
+      "lemma": "shadow",
+      "pos": "noun",
+      "ko": "그림자",
+      "form": null,
+      "synonyms": [
+        "shade"
+      ],
+      "ipa": "/ˈʃæˌdoʊ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "speak",
+        "remark"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게; (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": "재귀대명사",
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다; (조동사) 과거완료를 만듦",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "전혀 ~ 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "idea": {
+      "lemma": "idea",
+      "pos": "noun",
+      "ko": "생각, 짐작",
+      "form": null,
+      "synonyms": [
+        "notion",
+        "clue"
+      ],
+      "ipa": "/aɪˈdiːə/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 이렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "big": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "ipa": "/bɪɡ/"
+    },
+    "fancy": {
+      "lemma": "fancy",
+      "pos": "verb",
+      "ko": "(감탄) ~하다니!",
+      "form": null,
+      "synonyms": [
+        "imagine",
+        "just think of"
+      ],
+      "ipa": "/ˈfænsi/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~인 것",
+      "form": "동명사",
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "afraid": {
+      "lemma": "afraid",
+      "pos": "adjective",
+      "ko": "무서워하는",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "frightened"
+      ],
+      "ipa": "/əˈfreɪd/"
+    },
+    "lion": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": null,
+      "ipa": "/ˈlaɪən/"
+    },
+    "why": {
+      "lemma": "why",
+      "pos": "interjection",
+      "ko": "아니, 글쎄 (놀람·강조)",
+      "form": null,
+      "ipa": "/waɪ/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아닌, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "ought": {
+      "lemma": "ought",
+      "pos": "auxiliary",
+      "ko": "(ought to) ~해야 마땅하다",
+      "form": null,
+      "ipa": "/ɔːt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~가 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "king": {
+      "lemma": "king",
+      "pos": "noun",
+      "ko": "왕",
+      "form": null,
+      "synonyms": [
+        "ruler",
+        "monarch"
+      ],
+      "ipa": "/kɪŋ/"
+    },
+    "beasts": {
+      "lemma": "beast",
+      "pos": "noun",
+      "ko": "짐승",
+      "form": "복수형",
+      "synonyms": [
+        "animals",
+        "creatures"
+      ],
+      "ipa": "/biːsts/"
+    },
+    "heedless": {
+      "lemma": "heedless",
+      "pos": "adjective",
+      "ko": "(heedless of) ~을 아랑곳하지 않는",
+      "form": null,
+      "synonyms": [
+        "careless",
+        "unmindful"
+      ],
+      "ipa": "/ˈhiːdləs/"
+    },
+    "danger": {
+      "lemma": "danger",
+      "pos": "noun",
+      "ko": "위험",
+      "form": null,
+      "synonyms": [
+        "peril",
+        "risk"
+      ],
+      "ipa": "/ˈdeɪndʒər/"
+    },
+    "strutted": {
+      "lemma": "strut",
+      "pos": "verb",
+      "ko": "으스대며 걷다",
+      "form": "과거형",
+      "synonyms": [
+        "swagger",
+        "parade"
+      ],
+      "ipa": "/ˈstrʌtɪd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~처럼",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "pronoun",
+      "ko": "(there be) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~일 수 있다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "doubt": {
+      "lemma": "doubt",
+      "pos": "noun",
+      "ko": "의심",
+      "form": null,
+      "synonyms": [
+        "uncertainty",
+        "question"
+      ],
+      "ipa": "/daʊt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at all) 조금도",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "(at all) 전혀, 조금도",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "바로",
+      "form": null,
+      "synonyms": [
+        "exactly",
+        "right"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "sprang": {
+      "lemma": "spring",
+      "pos": "verb",
+      "ko": "(spring upon) 덤벼들다, 뛰어오르다",
+      "form": "과거형",
+      "synonyms": [
+        "leap",
+        "pounce"
+      ],
+      "ipa": "/spræŋ/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위로, ~에게",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "devour": {
+      "lemma": "devour",
+      "pos": "verb",
+      "ko": "잡아먹다, 게걸스럽게 먹다",
+      "form": null,
+      "synonyms": [
+        "eat up",
+        "gobble"
+      ],
+      "ipa": "/dɪˈvaʊər/"
+    },
+    "alas": {
+      "lemma": "alas",
+      "pos": "interjection",
+      "ko": "아아 (슬픔·후회)",
+      "form": null,
+      "ipa": "/əˈlæs/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다, 울부짖다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "wail"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "lost": {
+      "lemma": "lose",
+      "pos": "verb",
+      "ko": "(lose sight of) ~을 놓치다, 잊다",
+      "form": "과거분사",
+      "synonyms": [
+        "miss",
+        "forget"
+      ],
+      "ipa": "/lɔːst/"
+    },
+    "sight": {
+      "lemma": "sight",
+      "pos": "noun",
+      "ko": "(lose sight of) 시야, 보는 것",
+      "form": null,
+      "synonyms": [
+        "view"
+      ],
+      "ipa": "/saɪt/"
+    },
+    "facts": {
+      "lemma": "fact",
+      "pos": "noun",
+      "ko": "사실",
+      "form": "복수형",
+      "synonyms": [
+        "truths",
+        "reality"
+      ],
+      "ipa": "/fækts/"
+    },
+    "shouldn't": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~하지 않았을 텐데",
+      "form": "줄임말 (should not)",
+      "ipa": "/ˈʃʊdənt/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(완료형을 만드는 조동사)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(수동태) ~되다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "ruined": {
+      "lemma": "ruin",
+      "pos": "verb",
+      "ko": "망치다, 파멸시키다",
+      "form": "과거분사",
+      "synonyms": [
+        "destroy",
+        "wreck"
+      ],
+      "ipa": "/ˈruːənd/"
+    },
+    "fancies": {
+      "lemma": "fancy",
+      "pos": "noun",
+      "ko": "헛된 생각, 공상",
+      "form": "복수형",
+      "synonyms": [
+        "illusions",
+        "daydreams"
+      ],
+      "ipa": "/ˈfænsiz/"
+    }
+  }
+}
