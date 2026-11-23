@@ -1,0 +1,2296 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L4",
+  "date": "2026-11-24",
+  "level": 4,
+  "title": "Springtime à la Carte",
+  "titleKo": "아 라 카르트 봄날 (차림표 속의 봄)",
+  "genre": "short-story",
+  "tags": [
+    "O. Henry",
+    "short story",
+    "New York",
+    "typewriter"
+  ],
+  "source": {
+    "work": "The Four Million (Springtime à la Carte)",
+    "author": "O. Henry",
+    "translator": null,
+    "year": 1906,
+    "edition": "Project Gutenberg #2776",
+    "url": "https://www.gutenberg.org/ebooks/2776",
+    "license": "public-domain",
+    "excerptNote": "'Springtime à la Carte' 첫 7개 단락 전체 (‘It was a day in March.’부터 ‘…canvassed for odd jobs of copying.’까지, 283단어). 작가가 '3월의 어느 날이었다'라는 뻔한 첫 문장을 스스로 놀리며 시작하고, 차림표를 보며 우는 타자수 세라를 소개하는 도입부 (세라가 슐렌버그 식당과 거래를 트는 여덟째 단락부터는 뺌). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2776, 2776-8.txt, 항목 thefourmillion02776gut)에서 가져왔고, 줄바꿈만 공백으로 이음. 철자 any one, free-lance, stenog 등은 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/fourmillion_2603_librivox/fourmillion_14_henry_128kb.mp3",
+    "mp3Low": "https://www.archive.org/download/fourmillion_2603_librivox/fourmillion_14_henry_64kb.mp3",
+    "pageUrl": "https://librivox.org/four-million-version-3-by-o-henry/",
+    "reader": "valroth",
+    "durationSec": 864,
+    "startSec": 18,
+    "endSec": 135,
+    "note": "LibriVox The Four Million (Version 3), 트랙 14 'Springtime à la Carte'(14:24). 지문은 이야기 첫 부분(약 0:18~2:15, 추정)."
+  },
+  "wordCount": 283,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "3월의 어느 날이었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "여러분이 이야기를 쓸 때는 절대로, 절대로 이런 식으로 시작하지 마라. 이보다 더 나쁜 첫머리는 있을 수 없다. 상상력이 없고, 밋밋하고, 무미건조한 데다 그저 바람 이야기(빈말)로만 이루어지기 쉽다. 하지만 이번 경우에는 그래도 괜찮다. 왜냐하면 원래 이야기의 첫머리를 열었어야 할 다음 단락은 너무나 엉뚱하고 터무니없어서, 아무 준비 없이 독자의 눈앞에 불쑥 내밀 수가 없기 때문이다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "세라는 차림표를 앞에 두고 울고 있었다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "뉴욕 아가씨가 메뉴판 위에 눈물을 떨구다니, 생각해 보라!"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "이 일을 설명하기 위해 여러분은 마음껏 추측해도 좋다. 바닷가재가 다 떨어졌다거나, 그녀가 사순절 동안 아이스크림을 끊겠다고 맹세했다거나, 양파를 주문했다거나, 막 해킷의 낮 공연을 보고 왔다거나 하고 말이다. 그리고 이 추측들이 모두 틀렸으니, 부디 이야기가 계속되게 해 주시라."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13",
+        "s14"
+      ],
+      "ko": "세상은 자기가 칼로 열어젖힐 굴이라고 선언했던 그 신사는 그가 받을 만한 것보다 더 큰 인기를 얻었다. 칼로 굴을 여는 것은 어렵지 않다. 하지만 누군가 이 지구라는 조개를 타자기로 열려고 애쓰는 모습을 본 적이 있는가? 그런 식으로 날굴 한 다스를 까 주기를 기다리고 싶은가?"
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s15",
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "ko": "세라는 그 다루기 힘든 무기로 조개껍데기를 겨우 벌려서, 안에 든 차갑고 축축한 세상을 아주 조금 갉아 먹을 수 있을 만큼은 되었다. 그녀가 아는 속기는, 상업 학교가 막 세상에 내보낸 속기과 졸업생만큼이나 전혀 없었다. 그래서 속기를 할 줄 몰랐기 때문에, 그녀는 사무직 인재들이 모인 그 화려한 무리에 들어갈 수 없었다. 그녀는 프리랜서 타자수로, 이런저런 문서 옮겨 치기 일감을 찾아다녔다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "It was a day in March.",
+      "ko": "3월의 어느 날이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Never, never begin a story this way when you write one.",
+      "ko": "여러분이 이야기를 쓸 때는 절대로, 절대로 이런 식으로 시작하지 마라.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "No opening could possibly be worse.",
+      "ko": "이보다 더 나쁜 첫머리는 있을 수 없다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "It is unimaginative, flat, dry and likely to consist of mere wind.",
+      "ko": "상상력이 없고, 밋밋하고, 무미건조한 데다 그저 바람 이야기(빈말)로만 이루어지기 쉽다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "But in this instance it is allowable.",
+      "ko": "하지만 이번 경우에는 그래도 괜찮다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "For the following paragraph, which should have inaugurated the narrative, is too wildly extravagant and preposterous to be flaunted in the face of the reader without preparation.",
+      "ko": "왜냐하면 원래 이야기의 첫머리를 열었어야 할 다음 단락은 너무나 엉뚱하고 터무니없어서, 아무 준비 없이 독자의 눈앞에 불쑥 내밀 수가 없기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Sarah was crying over her bill of fare.",
+      "ko": "세라는 차림표를 앞에 두고 울고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Think of a New York girl shedding tears on the menu card!",
+      "ko": "뉴욕 아가씨가 메뉴판 위에 눈물을 떨구다니, 생각해 보라!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p5",
+      "en": "To account for this you will be allowed to guess that the lobsters were all out, or that she had sworn ice-cream off during Lent, or that she had ordered onions, or that she had just come from a Hackett matinee.",
+      "ko": "이 일을 설명하기 위해 여러분은 마음껏 추측해도 좋다. 바닷가재가 다 떨어졌다거나, 그녀가 사순절 동안 아이스크림을 끊겠다고 맹세했다거나, 양파를 주문했다거나, 막 해킷의 낮 공연을 보고 왔다거나 하고 말이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p5",
+      "en": "And then, all these theories being wrong, you will please let the story proceed.",
+      "ko": "그리고 이 추측들이 모두 틀렸으니, 부디 이야기가 계속되게 해 주시라.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p6",
+      "en": "The gentleman who announced that the world was an oyster which he with his sword would open made a larger hit than he deserved.",
+      "ko": "세상은 자기가 칼로 열어젖힐 굴이라고 선언했던 그 신사는 그가 받을 만한 것보다 더 큰 인기를 얻었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "It is not difficult to open an oyster with a sword.",
+      "ko": "칼로 굴을 여는 것은 어렵지 않다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "But did you ever notice any one try to open the terrestrial bivalve with a typewriter?",
+      "ko": "하지만 누군가 이 지구라는 조개를 타자기로 열려고 애쓰는 모습을 본 적이 있는가?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p6",
+      "en": "Like to wait for a dozen raw opened that way?",
+      "ko": "그런 식으로 날굴 한 다스를 까 주기를 기다리고 싶은가?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p7",
+      "en": "Sarah had managed to pry apart the shells with her unhandy weapon far enough to nibble a wee bit at the cold and clammy world within.",
+      "ko": "세라는 그 다루기 힘든 무기로 조개껍데기를 겨우 벌려서, 안에 든 차갑고 축축한 세상을 아주 조금 갉아 먹을 수 있을 만큼은 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s16",
+      "paragraphId": "p7",
+      "en": "She knew no more shorthand than if she had been a graduate in stenography just let slip upon the world by a business college.",
+      "ko": "그녀가 아는 속기는, 상업 학교가 막 세상에 내보낸 속기과 졸업생만큼이나 전혀 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s17",
+      "paragraphId": "p7",
+      "en": "So, not being able to stenog, she could not enter that bright galaxy of office talent.",
+      "ko": "그래서 속기를 할 줄 몰랐기 때문에, 그녀는 사무직 인재들이 모인 그 화려한 무리에 들어갈 수 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s18",
+      "paragraphId": "p7",
+      "en": "She was a free-lance typewriter and canvassed for odd jobs of copying.",
+      "ko": "그녀는 프리랜서 타자수로, 이런저런 문서 옮겨 치기 일감을 찾아다녔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "preposterous",
+      "pos": "adjective",
+      "meaningKo": "터무니없는, 말도 안 되는",
+      "ipa": "/prɪˈpɑːstərəs/",
+      "synonyms": [
+        "absurd",
+        "ridiculous",
+        "outrageous"
+      ],
+      "matchText": "preposterous",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The idea that the moon is made of cheese is preposterous.",
+        "ko": "달이 치즈로 만들어졌다는 생각은 터무니없다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "account for",
+      "pos": "phrasal-verb",
+      "meaningKo": "~을 설명하다, ~의 이유가 되다",
+      "ipa": "/əˈkaʊnt fɔːr/",
+      "synonyms": [
+        "explain",
+        "justify"
+      ],
+      "matchText": "account for",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Nobody could account for his sudden change of mind.",
+        "ko": "아무도 그의 갑작스러운 변심을 설명할 수 없었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "swear off",
+      "pos": "phrasal-verb",
+      "meaningKo": "(맹세하고) ~을 끊다",
+      "ipa": "/swɛr ɔːf/",
+      "synonyms": [
+        "give up",
+        "quit",
+        "renounce"
+      ],
+      "matchText": "sworn ice-cream off",
+      "sentenceId": "s9",
+      "example": {
+        "en": "After the doctor's warning, he swore off sweets.",
+        "ko": "의사의 경고를 듣고 그는 단것을 끊었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "pry apart",
+      "pos": "phrasal-verb",
+      "meaningKo": "(억지로) 비틀어 벌리다, 떼어 내다",
+      "ipa": "/praɪ əˈpɑːrt/",
+      "synonyms": [
+        "force open",
+        "prise apart",
+        "lever apart"
+      ],
+      "matchText": "pry apart",
+      "sentenceId": "s15",
+      "example": {
+        "en": "She used a knife to pry apart the two frozen slices of bread.",
+        "ko": "그녀는 칼로 얼어붙은 빵 두 조각을 억지로 떼어 냈다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "canvass",
+      "pos": "verb",
+      "meaningKo": "(일감·표 등을 얻으려고) 찾아다니다, 부탁하며 돌아다니다",
+      "ipa": "/ˈkænvəs/",
+      "synonyms": [
+        "solicit",
+        "seek",
+        "look for"
+      ],
+      "matchText": "canvassed",
+      "sentenceId": "s18",
+      "example": {
+        "en": "Volunteers canvassed the neighborhood for donations.",
+        "ko": "자원봉사자들은 기부금을 얻으려고 동네를 돌아다녔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "For",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "the following paragraph,",
+          "role": "S",
+          "sub": false,
+          "ko": "다음 단락은"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그런데 그것은)"
+        },
+        {
+          "text": "should have inaugurated",
+          "role": "V",
+          "sub": true,
+          "ko": "시작했어야 했다"
+        },
+        {
+          "text": "the narrative,",
+          "role": "O",
+          "sub": true,
+          "ko": "이야기를"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "sub": false,
+          "ko": "~이다"
+        },
+        {
+          "text": "too wildly extravagant and preposterous",
+          "role": "C",
+          "sub": false,
+          "ko": "너무나 엉뚱하고 터무니없어서"
+        },
+        {
+          "text": "to be flaunted",
+          "role": "M",
+          "sub": false,
+          "ko": "내밀어질 수 없다"
+        },
+        {
+          "text": "in the face of the reader",
+          "role": "M",
+          "sub": false,
+          "ko": "독자의 눈앞에"
+        },
+        {
+          "text": "without preparation.",
+          "role": "M",
+          "sub": false,
+          "ko": "준비 없이"
+        }
+      ],
+      "skeleton": "The following paragraph is too extravagant to be flaunted. (S + V + C + too ~ to …)",
+      "explanation": "문장 첫머리의 For는 전치사가 아니라 '왜냐하면'이라는 이유의 등위접속사다. 주어 the following paragraph 뒤에 쉼표로 둘러싸인 which절이 끼어들어 그 단락을 보충 설명하고, 본동사 is가 나온다. too ~ to …는 '너무 ~해서 …할 수 없다'이고, to be flaunted는 수동형 to부정사로 '(단락이) 내보여지다'라는 뜻이다. should have p.p.는 '~했어야 했는데 (그러지 못했다)'로, 원래 첫 단락이 되어야 했던 문장이 지금은 뒤로 밀렸다는 뜻이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s11",
+      "chunks": [
+        {
+          "text": "The gentleman",
+          "role": "S",
+          "sub": false,
+          "ko": "그 신사는"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 신사는)"
+        },
+        {
+          "text": "announced",
+          "role": "V",
+          "sub": true,
+          "ko": "선언했다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "the world",
+          "role": "S",
+          "sub": true,
+          "ko": "세상이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~이다"
+        },
+        {
+          "text": "an oyster",
+          "role": "C",
+          "sub": true,
+          "ko": "굴이라고"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 굴은)"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "with his sword",
+          "role": "M",
+          "sub": true,
+          "ko": "자기 칼로"
+        },
+        {
+          "text": "would open",
+          "role": "V",
+          "sub": true,
+          "ko": "열 것이다"
+        },
+        {
+          "text": "made",
+          "role": "V",
+          "sub": false,
+          "ko": "얻었다"
+        },
+        {
+          "text": "a larger hit",
+          "role": "O",
+          "sub": false,
+          "ko": "더 큰 인기를"
+        },
+        {
+          "text": "than",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~보다"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "deserved.",
+          "role": "V",
+          "sub": true,
+          "ko": "받을 만했던 것"
+        }
+      ],
+      "skeleton": "The gentleman made a larger hit. (S + V + O)",
+      "explanation": "주어 The gentleman 뒤에 who절이 길게 붙어 '세상은 자기가 칼로 열 굴이라고 선언한' 신사라고 꾸민다. who절 안에는 announced의 목적어인 that절이 있고, 그 안에서 다시 which절이 an oyster를 꾸민다(which he would open with his sword에서 부사구가 앞으로 나온 어순). 본동사는 made로, make a hit는 '인기를 끌다, 성공하다'라는 뜻이다. 셰익스피어 희극의 유명한 대사('The world's mine oyster, which I with sword will open.')를 비튼 표현이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s16",
+      "chunks": [
+        {
+          "text": "She",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "knew",
+          "role": "V",
+          "sub": false,
+          "ko": "알았다"
+        },
+        {
+          "text": "no more shorthand",
+          "role": "O",
+          "sub": false,
+          "ko": "속기를 조금도 더 알지 못했다"
+        },
+        {
+          "text": "than",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~보다"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "만약 ~라면"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "had been",
+          "role": "V",
+          "sub": true,
+          "ko": "~였더라도"
+        },
+        {
+          "text": "a graduate in stenography",
+          "role": "C",
+          "sub": true,
+          "ko": "속기과 졸업생"
+        },
+        {
+          "text": "just let slip upon the world",
+          "role": "M",
+          "sub": true,
+          "ko": "막 세상에 내보내진"
+        },
+        {
+          "text": "by a business college.",
+          "role": "M",
+          "sub": true,
+          "ko": "상업 학교에 의해"
+        }
+      ],
+      "skeleton": "She knew no more shorthand (than …). (S + V + O)",
+      "explanation": "no more A than B는 'B만큼이나 A가 아니다(둘 다 아니다)'라는 뜻의 비교 표현이다. than 뒤에 if she had been ~이라는 가정법 과거완료가 이어져 '갓 졸업한 속기과 학생이었다 해도 그만큼밖에 모를 것'이라는 비꼼이 된다. 즉 속기 학교 졸업생도 속기를 모른다는 농담을 섞어, 세라가 속기를 전혀 모른다고 말한다. just let slip upon the world는 과거분사구로 a graduate를 뒤에서 꾸민다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "should have p.p.: '~했어야 했는데 (안 했다)'",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "should have inaugurated"
+      ],
+      "explanation": "should have + 과거분사는 과거에 했어야 할 일을 하지 않았을 때의 아쉬움·비판을 나타낸다. 여기서는 '원래 이야기의 첫머리가 되었어야 할 단락'이라는 뜻으로, 작가가 그 단락을 맨 앞에 두지 않고 'It was a day in March.'로 시작한 이유를 설명한다.",
+      "example": {
+        "en": "You should have told me the truth earlier.",
+        "ko": "너는 나에게 진실을 좀 더 일찍 말했어야 했다."
+      },
+      "note": "could have p.p.(~할 수도 있었다), must have p.p.(~했음이 틀림없다)와 구별해 두자."
+    },
+    {
+      "id": "g2",
+      "title": "too ~ to …: '너무 ~해서 …할 수 없다'",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "too wildly extravagant and preposterous to be flaunted"
+      ],
+      "explanation": "too + 형용사 + to부정사는 정도가 지나쳐서 to 이하를 할 수 없다는 뜻이다. so ~ that … can't로 바꿔 쓸 수 있다: so extravagant that it cannot be flaunted. 여기서는 to부정사가 수동형(to be p.p.)이라 '(단락이) 내보여질 수 없다'가 된다.",
+      "example": {
+        "en": "The box was too heavy to be carried by one person.",
+        "ko": "그 상자는 너무 무거워서 한 사람이 나를 수 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "분사구문: being의 독립분사구문과 부정 분사구문",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s17",
+      "highlight": [
+        "not being able to stenog"
+      ],
+      "explanation": "not being able to stenog는 'because she was not able to stenog'를 줄인 분사구문으로 이유를 나타낸다. 분사구문의 부정은 분사 앞에 not을 둔다. s10의 all these theories being wrong처럼 주절과 주어가 다르면 분사 앞에 주어를 남기는데, 이를 독립분사구문이라고 한다.",
+      "example": {
+        "en": "Not knowing what to say, she simply smiled.",
+        "ko": "무슨 말을 해야 할지 몰라서 그녀는 그저 미소만 지었다."
+      },
+      "note": "stenog는 stenography(속기)를 동사처럼 줄여 쓴 오 헨리식 말장난이다."
+    }
+  ],
+  "glossary": {
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (날짜·상황을 나타내는 주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "synonyms": [
+        "date",
+        "time"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "form": null,
+      "ipa": "/mɑːrtʃ/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "절대 ~하지 마라, 결코 ~않다",
+      "form": null,
+      "synonyms": [
+        "not ever",
+        "at no time"
+      ],
+      "ipa": "/ˈnɛvər/"
+    },
+    "begin": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": null,
+      "synonyms": [
+        "start",
+        "open",
+        "commence"
+      ],
+      "ipa": "/bɪˈɡɪn/"
+    },
+    "story": {
+      "lemma": "story",
+      "pos": "noun",
+      "ko": "이야기",
+      "form": null,
+      "synonyms": [
+        "tale",
+        "narrative"
+      ],
+      "ipa": "/ˈstɔːri/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방식, 방법",
+      "form": null,
+      "synonyms": [
+        "manner",
+        "method"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분 (독자)",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "write": {
+      "lemma": "write",
+      "pos": "verb",
+      "ko": "쓰다",
+      "form": null,
+      "synonyms": [
+        "compose",
+        "pen"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(앞의 명사를 받아) 그것, 하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "opening": {
+      "lemma": "opening",
+      "pos": "noun",
+      "ko": "첫머리, 시작 부분",
+      "form": null,
+      "synonyms": [
+        "beginning",
+        "start",
+        "introduction"
+      ],
+      "ipa": "/ˈoʊpənɪŋ/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있을 것이다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "possibly": {
+      "lemma": "possibly",
+      "pos": "adverb",
+      "ko": "(부정·비교와 함께) 도저히, 아무리 해도",
+      "form": null,
+      "synonyms": [
+        "conceivably",
+        "by any means"
+      ],
+      "ipa": "/ˈpɑːsəbli/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "worse": {
+      "lemma": "bad",
+      "pos": "adjective",
+      "ko": "더 나쁜",
+      "form": "비교급",
+      "synonyms": [
+        "poorer",
+        "inferior"
+      ],
+      "ipa": "/wɜːrs/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "unimaginative": {
+      "lemma": "unimaginative",
+      "pos": "adjective",
+      "ko": "상상력이 없는, 평범한",
+      "form": null,
+      "synonyms": [
+        "dull",
+        "uninspired",
+        "ordinary"
+      ],
+      "ipa": "/ənɪˈmæˌdʒɪnətɪv/"
+    },
+    "flat": {
+      "lemma": "flat",
+      "pos": "adjective",
+      "ko": "밋밋한, 단조로운",
+      "form": null,
+      "synonyms": [
+        "dull",
+        "boring",
+        "lifeless"
+      ],
+      "ipa": "/flæt/"
+    },
+    "dry": {
+      "lemma": "dry",
+      "pos": "adjective",
+      "ko": "무미건조한, 재미없는",
+      "form": null,
+      "synonyms": [
+        "dull",
+        "tedious",
+        "boring"
+      ],
+      "ipa": "/draɪ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "likely": {
+      "lemma": "likely",
+      "pos": "adjective",
+      "ko": "~할 것 같은, ~하기 쉬운",
+      "form": null,
+      "synonyms": [
+        "apt",
+        "liable",
+        "prone"
+      ],
+      "ipa": "/ˈlaɪkli/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것, ~하기 위해 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "consist": {
+      "lemma": "consist",
+      "pos": "verb",
+      "ko": "(of와 함께) ~로 이루어지다",
+      "form": null,
+      "synonyms": [
+        "comprise",
+        "be made up"
+      ],
+      "ipa": "/kənˈsɪst/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~로 (된)",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "mere": {
+      "lemma": "mere",
+      "pos": "adjective",
+      "ko": "단지 ~에 불과한, 순전한",
+      "form": null,
+      "synonyms": [
+        "simple",
+        "pure",
+        "bare"
+      ],
+      "ipa": "/mɪr/"
+    },
+    "wind": {
+      "lemma": "wind",
+      "pos": "noun",
+      "ko": "바람; 빈말, 허풍",
+      "form": null,
+      "synonyms": [
+        "breeze",
+        "empty talk"
+      ],
+      "ipa": "/waɪnd/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "instance": {
+      "lemma": "instance",
+      "pos": "noun",
+      "ko": "경우, 사례",
+      "form": null,
+      "synonyms": [
+        "case",
+        "occasion",
+        "example"
+      ],
+      "ipa": "/ˈɪnstəns/"
+    },
+    "allowable": {
+      "lemma": "allowable",
+      "pos": "adjective",
+      "ko": "허용될 수 있는, 괜찮은",
+      "form": null,
+      "synonyms": [
+        "acceptable",
+        "permissible"
+      ],
+      "ipa": "/əˈlaʊəbəl/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 (이유); ~을 위해, ~을",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "following": {
+      "lemma": "following",
+      "pos": "adjective",
+      "ko": "다음의, 뒤따르는",
+      "form": null,
+      "synonyms": [
+        "next",
+        "subsequent",
+        "ensuing"
+      ],
+      "ipa": "/ˈfɑːloʊɪŋ/"
+    },
+    "paragraph": {
+      "lemma": "paragraph",
+      "pos": "noun",
+      "ko": "단락, 문단",
+      "form": null,
+      "synonyms": [
+        "section",
+        "passage"
+      ],
+      "ipa": "/ˈpærəˌɡræf/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것은, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "should": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~해야 하다 (should have p.p.: ~했어야 했다)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(완료형을 만드는 조동사)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "inaugurated": {
+      "lemma": "inaugurate",
+      "pos": "verb",
+      "ko": "시작하다, 개시하다",
+      "form": "과거분사",
+      "synonyms": [
+        "begin",
+        "launch",
+        "open"
+      ],
+      "ipa": "/ɪˈnɔːɡəˌreɪtɪd/"
+    },
+    "narrative": {
+      "lemma": "narrative",
+      "pos": "noun",
+      "ko": "이야기, 서술",
+      "form": null,
+      "synonyms": [
+        "story",
+        "account",
+        "tale"
+      ],
+      "ipa": "/ˈnærətɪv/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무 (too ~ to …: 너무 ~해서 …할 수 없다)",
+      "form": null,
+      "synonyms": [
+        "excessively",
+        "overly"
+      ],
+      "ipa": "/tuː/"
+    },
+    "wildly": {
+      "lemma": "wildly",
+      "pos": "adverb",
+      "ko": "엄청나게, 터무니없이",
+      "form": null,
+      "synonyms": [
+        "extremely",
+        "madly",
+        "hugely"
+      ],
+      "ipa": "/ˈwaɪldli/"
+    },
+    "extravagant": {
+      "lemma": "extravagant",
+      "pos": "adjective",
+      "ko": "엉뚱한, 지나친, 터무니없는",
+      "form": null,
+      "synonyms": [
+        "excessive",
+        "outlandish",
+        "fanciful"
+      ],
+      "ipa": "/ɛkˈstrævəɡənt/"
+    },
+    "preposterous": {
+      "lemma": "preposterous",
+      "pos": "adjective",
+      "ko": "터무니없는, 말도 안 되는",
+      "form": null,
+      "synonyms": [
+        "absurd",
+        "ridiculous",
+        "outrageous"
+      ],
+      "ipa": "/prɪˈpɑːstərəs/"
+    },
+    "flaunted": {
+      "lemma": "flaunt",
+      "pos": "verb",
+      "ko": "과시하다, 대놓고 내보이다",
+      "form": "과거분사",
+      "synonyms": [
+        "display",
+        "show off",
+        "parade"
+      ],
+      "ipa": "/ˈflɔːntɪd/"
+    },
+    "face": {
+      "lemma": "face",
+      "pos": "noun",
+      "ko": "얼굴, 눈앞 (in the face of: ~의 면전에)",
+      "form": null,
+      "synonyms": [
+        "presence",
+        "front"
+      ],
+      "ipa": "/feɪs/"
+    },
+    "reader": {
+      "lemma": "reader",
+      "pos": "noun",
+      "ko": "독자",
+      "form": null,
+      "synonyms": [
+        "audience"
+      ],
+      "ipa": "/ˈriːdər/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "preparation": {
+      "lemma": "preparation",
+      "pos": "noun",
+      "ko": "준비, 사전 예고",
+      "form": null,
+      "synonyms": [
+        "readiness",
+        "warning"
+      ],
+      "ipa": "/ˌprɛpəˈreɪʃən/"
+    },
+    "sarah": {
+      "lemma": "Sarah",
+      "pos": "proper-noun",
+      "ko": "세라 (여자 이름, 주인공)",
+      "form": null,
+      "ipa": "/ˈsɛrə/"
+    },
+    "crying": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "울다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "weep",
+        "sob"
+      ],
+      "ipa": "/ˈkraɪɪŋ/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~을 두고, ~ 위에서",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "determiner",
+      "ko": "그녀의",
+      "form": null,
+      "ipa": "/hɜːr/"
+    },
+    "bill": {
+      "lemma": "bill",
+      "pos": "noun",
+      "ko": "목록, 표 (bill of fare: 차림표)",
+      "form": null,
+      "synonyms": [
+        "list",
+        "menu"
+      ],
+      "ipa": "/bɪl/"
+    },
+    "fare": {
+      "lemma": "fare",
+      "pos": "noun",
+      "ko": "음식, 요리 (bill of fare: 차림표)",
+      "form": null,
+      "synonyms": [
+        "food",
+        "menu"
+      ],
+      "ipa": "/fɛr/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다 (think of: ~을 생각해 보다)",
+      "form": null,
+      "synonyms": [
+        "imagine",
+        "consider"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "new": {
+      "lemma": "New York",
+      "pos": "proper-noun",
+      "ko": "뉴(욕) (New York: 뉴욕)",
+      "form": null,
+      "ipa": "/nuː/"
+    },
+    "york": {
+      "lemma": "New York",
+      "pos": "proper-noun",
+      "ko": "(뉴)욕 (New York: 뉴욕, 미국 도시)",
+      "form": null,
+      "ipa": "/jɔːrk/"
+    },
+    "girl": {
+      "lemma": "girl",
+      "pos": "noun",
+      "ko": "아가씨, 여자아이",
+      "form": null,
+      "synonyms": [
+        "young woman",
+        "lass"
+      ],
+      "ipa": "/ɡɜːrl/"
+    },
+    "shedding": {
+      "lemma": "shed",
+      "pos": "verb",
+      "ko": "(눈물을) 흘리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "drop",
+        "spill",
+        "let fall"
+      ],
+      "ipa": "/ˈʃɛdɪŋ/"
+    },
+    "tears": {
+      "lemma": "tear",
+      "pos": "noun",
+      "ko": "눈물",
+      "form": "복수형",
+      "synonyms": [
+        "teardrops"
+      ],
+      "ipa": "/tɛrz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "menu": {
+      "lemma": "menu",
+      "pos": "noun",
+      "ko": "메뉴, 차림표",
+      "form": null,
+      "synonyms": [
+        "bill of fare"
+      ],
+      "ipa": "/ˈmɛnju/"
+    },
+    "card": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드, 판 (menu card: 메뉴판)",
+      "form": null,
+      "synonyms": [
+        "board",
+        "sheet"
+      ],
+      "ipa": "/kɑːrd/"
+    },
+    "account": {
+      "lemma": "account",
+      "pos": "verb",
+      "ko": "(account for) ~을 설명하다",
+      "form": null,
+      "synonyms": [
+        "explain",
+        "justify"
+      ],
+      "ipa": "/əˈkaʊnt/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~해 주시겠지요",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "allowed": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "허락하다 (be allowed to: ~해도 된다)",
+      "form": "과거분사",
+      "synonyms": [
+        "permit",
+        "let"
+      ],
+      "ipa": "/əˈlaʊd/"
+    },
+    "guess": {
+      "lemma": "guess",
+      "pos": "verb",
+      "ko": "추측하다",
+      "form": null,
+      "synonyms": [
+        "suppose",
+        "speculate",
+        "surmise"
+      ],
+      "ipa": "/ɡɛs/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사); 그 (지시)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "lobsters": {
+      "lemma": "lobster",
+      "pos": "noun",
+      "ko": "바닷가재",
+      "form": "복수형",
+      "ipa": "/ˈlɑːbstərz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "모두, 완전히 (all out: 다 떨어진); 모든",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/ɔːl/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(물건이) 떨어진, 다 팔린",
+      "form": null,
+      "synonyms": [
+        "sold out",
+        "used up"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료를 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "sworn": {
+      "lemma": "swear",
+      "pos": "verb",
+      "ko": "맹세하다 (swear off: 맹세하고 끊다)",
+      "form": "과거분사",
+      "synonyms": [
+        "vow",
+        "pledge"
+      ],
+      "ipa": "/swɔːrn/"
+    },
+    "ice-cream": {
+      "lemma": "ice cream",
+      "pos": "noun",
+      "ko": "아이스크림",
+      "form": null,
+      "ipa": "/aɪs-kriːm/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(끊어서) 떨어져, 그만두어 (swear off)",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "lent": {
+      "lemma": "Lent",
+      "pos": "proper-noun",
+      "ko": "사순절 (부활절 전 40일, 절제하는 기간)",
+      "form": null,
+      "ipa": "/lɛnt/"
+    },
+    "ordered": {
+      "lemma": "order",
+      "pos": "verb",
+      "ko": "주문하다",
+      "form": "과거분사",
+      "synonyms": [
+        "request",
+        "ask for"
+      ],
+      "ipa": "/ˈɔːrdərd/"
+    },
+    "onions": {
+      "lemma": "onion",
+      "pos": "noun",
+      "ko": "양파",
+      "form": "복수형",
+      "ipa": "/ˈʌnjənz/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 방금; 그저",
+      "form": null,
+      "synonyms": [
+        "recently",
+        "only"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거분사",
+      "synonyms": [
+        "arrive",
+        "return"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "hackett": {
+      "lemma": "Hackett",
+      "pos": "proper-noun",
+      "ko": "해킷 (당시 인기 배우 제임스 K. 해킷)",
+      "form": null,
+      "ipa": "/ˈhækɪt/"
+    },
+    "matinee": {
+      "lemma": "matinee",
+      "pos": "noun",
+      "ko": "(연극의) 낮 공연",
+      "form": null,
+      "synonyms": [
+        "afternoon show",
+        "daytime performance"
+      ],
+      "ipa": "/ˈmætɪˌneɪ/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고 나서, 그렇다면",
+      "form": null,
+      "synonyms": [
+        "next",
+        "so"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "these": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": "복수형",
+      "ipa": "/ðiːz/"
+    },
+    "theories": {
+      "lemma": "theory",
+      "pos": "noun",
+      "ko": "추측, 가설",
+      "form": "복수형",
+      "synonyms": [
+        "guesses",
+        "hypotheses",
+        "ideas"
+      ],
+      "ipa": "/ˈθɪriz/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이므로 (분사구문)",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "wrong": {
+      "lemma": "wrong",
+      "pos": "adjective",
+      "ko": "틀린",
+      "form": null,
+      "synonyms": [
+        "incorrect",
+        "mistaken"
+      ],
+      "ipa": "/rɔːŋ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "부디, 제발",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "proceed": {
+      "lemma": "proceed",
+      "pos": "verb",
+      "ko": "계속 진행되다",
+      "form": null,
+      "synonyms": [
+        "continue",
+        "go on",
+        "advance"
+      ],
+      "ipa": "/prəˈsiːd/"
+    },
+    "gentleman": {
+      "lemma": "gentleman",
+      "pos": "noun",
+      "ko": "신사, 남자",
+      "form": null,
+      "synonyms": [
+        "man",
+        "sir"
+      ],
+      "ipa": "/ˈdʒɛntəlmən/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "announced": {
+      "lemma": "announce",
+      "pos": "verb",
+      "ko": "선언하다, 공표하다",
+      "form": "과거형",
+      "synonyms": [
+        "declare",
+        "proclaim"
+      ],
+      "ipa": "/əˈnaʊnst/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "globe"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "oyster": {
+      "lemma": "oyster",
+      "pos": "noun",
+      "ko": "굴 (조개)",
+      "form": null,
+      "synonyms": [
+        "shellfish"
+      ],
+      "ipa": "/ˈɔɪstər/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~로, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "sword": {
+      "lemma": "sword",
+      "pos": "noun",
+      "ko": "칼, 검",
+      "form": null,
+      "synonyms": [
+        "blade",
+        "saber"
+      ],
+      "ipa": "/sɔːrd/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "open": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열다, 까다",
+      "form": null,
+      "synonyms": [
+        "unlock",
+        "pry open"
+      ],
+      "ipa": "/ˈoʊpən/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다 (make a hit: 인기를 끌다)",
+      "form": "과거형",
+      "synonyms": [
+        "create",
+        "score"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "larger": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "더 큰",
+      "form": "비교급",
+      "synonyms": [
+        "bigger",
+        "greater"
+      ],
+      "ipa": "/ˈlɑːrdʒər/"
+    },
+    "hit": {
+      "lemma": "hit",
+      "pos": "noun",
+      "ko": "성공, 인기 (make a hit: 인기를 끌다)",
+      "form": null,
+      "synonyms": [
+        "success",
+        "sensation"
+      ],
+      "ipa": "/hɪt/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "deserved": {
+      "lemma": "deserve",
+      "pos": "verb",
+      "ko": "~을 받을 만하다",
+      "form": "과거형",
+      "synonyms": [
+        "merit",
+        "earn",
+        "warrant"
+      ],
+      "ipa": "/dɪˈzɜːrvd/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "difficult": {
+      "lemma": "difficult",
+      "pos": "adjective",
+      "ko": "어려운",
+      "form": null,
+      "synonyms": [
+        "hard",
+        "tough"
+      ],
+      "ipa": "/ˈdɪfəkəlt/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(의문문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "(의문문에서) 한 번이라도",
+      "form": null,
+      "synonyms": [
+        "at any time"
+      ],
+      "ipa": "/ˈɛvər/"
+    },
+    "notice": {
+      "lemma": "notice",
+      "pos": "verb",
+      "ko": "보다, 알아채다",
+      "form": null,
+      "synonyms": [
+        "see",
+        "observe",
+        "spot"
+      ],
+      "ipa": "/ˈnoʊtəs/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 (any one: 누구든)",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "try": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "애쓰다, 시도하다",
+      "form": null,
+      "synonyms": [
+        "attempt",
+        "strive"
+      ],
+      "ipa": "/traɪ/"
+    },
+    "terrestrial": {
+      "lemma": "terrestrial",
+      "pos": "adjective",
+      "ko": "지구의, 땅의",
+      "form": null,
+      "synonyms": [
+        "earthly",
+        "worldly"
+      ],
+      "ipa": "/təˈrɛstriəl/"
+    },
+    "bivalve": {
+      "lemma": "bivalve",
+      "pos": "noun",
+      "ko": "쌍각류 조개 (굴·조개처럼 껍데기가 두 장인 것)",
+      "form": null,
+      "synonyms": [
+        "shellfish",
+        "clam"
+      ],
+      "ipa": "/ˈbaɪˌvælv/"
+    },
+    "typewriter": {
+      "lemma": "typewriter",
+      "pos": "noun",
+      "ko": "타자기; (옛 용법) 타자수",
+      "form": null,
+      "synonyms": [
+        "typist"
+      ],
+      "ipa": "/ˈtaɪˌpraɪtər/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "좋아하다 (would you like to ~?: ~하고 싶은가?)",
+      "form": null,
+      "synonyms": [
+        "want",
+        "wish"
+      ],
+      "ipa": "/laɪk/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "await",
+        "hold on"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "dozen": {
+      "lemma": "dozen",
+      "pos": "noun",
+      "ko": "열두 개, 한 다스",
+      "form": null,
+      "synonyms": [
+        "twelve"
+      ],
+      "ipa": "/ˈdʌzən/"
+    },
+    "raw": {
+      "lemma": "raw",
+      "pos": "noun",
+      "ko": "날것 (여기서는 날굴)",
+      "form": null,
+      "synonyms": [
+        "uncooked"
+      ],
+      "ipa": "/rɑː/"
+    },
+    "opened": {
+      "lemma": "open",
+      "pos": "verb",
+      "ko": "열다, 까다",
+      "form": "과거분사",
+      "synonyms": [
+        "unlock",
+        "crack open"
+      ],
+      "ipa": "/ˈoʊpənd/"
+    },
+    "managed": {
+      "lemma": "manage",
+      "pos": "verb",
+      "ko": "(manage to) 간신히 ~해내다",
+      "form": "과거분사",
+      "synonyms": [
+        "succeed",
+        "contrive"
+      ],
+      "ipa": "/ˈmænədʒd/"
+    },
+    "pry": {
+      "lemma": "pry",
+      "pos": "verb",
+      "ko": "(억지로) 비틀어 열다 (pry apart)",
+      "form": null,
+      "synonyms": [
+        "prise",
+        "force",
+        "lever"
+      ],
+      "ipa": "/praɪ/"
+    },
+    "apart": {
+      "lemma": "apart",
+      "pos": "adverb",
+      "ko": "떨어져, 벌어져",
+      "form": null,
+      "synonyms": [
+        "asunder",
+        "open"
+      ],
+      "ipa": "/əˈpɑːrt/"
+    },
+    "shells": {
+      "lemma": "shell",
+      "pos": "noun",
+      "ko": "(조개) 껍데기",
+      "form": "복수형",
+      "synonyms": [
+        "husks",
+        "casings"
+      ],
+      "ipa": "/ʃɛlz/"
+    },
+    "unhandy": {
+      "lemma": "unhandy",
+      "pos": "adjective",
+      "ko": "다루기 어려운, 서투른",
+      "form": null,
+      "synonyms": [
+        "awkward",
+        "clumsy",
+        "unwieldy"
+      ],
+      "ipa": "/ʌnˈhændi/"
+    },
+    "weapon": {
+      "lemma": "weapon",
+      "pos": "noun",
+      "ko": "무기",
+      "form": null,
+      "synonyms": [
+        "tool",
+        "arm"
+      ],
+      "ipa": "/ˈwɛpən/"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "멀리, 상당히 (far enough: 충분할 만큼)",
+      "form": null,
+      "synonyms": [
+        "considerably"
+      ],
+      "ipa": "/fɑːr/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "adverb",
+      "ko": "충분히",
+      "form": null,
+      "synonyms": [
+        "sufficiently",
+        "adequately"
+      ],
+      "ipa": "/ɪˈnʌf/"
+    },
+    "nibble": {
+      "lemma": "nibble",
+      "pos": "verb",
+      "ko": "조금씩 갉아 먹다",
+      "form": null,
+      "synonyms": [
+        "bite",
+        "munch",
+        "peck"
+      ],
+      "ipa": "/ˈnɪbəl/"
+    },
+    "wee": {
+      "lemma": "wee",
+      "pos": "adjective",
+      "ko": "아주 작은, 조금의",
+      "form": null,
+      "synonyms": [
+        "tiny",
+        "little",
+        "small"
+      ],
+      "ipa": "/wiː/"
+    },
+    "bit": {
+      "lemma": "bit",
+      "pos": "noun",
+      "ko": "조금, 약간 (a wee bit: 아주 조금)",
+      "form": null,
+      "synonyms": [
+        "piece",
+        "morsel"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (향해), ~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "cold": {
+      "lemma": "cold",
+      "pos": "adjective",
+      "ko": "차가운",
+      "form": null,
+      "synonyms": [
+        "chilly",
+        "icy"
+      ],
+      "ipa": "/koʊld/"
+    },
+    "clammy": {
+      "lemma": "clammy",
+      "pos": "adjective",
+      "ko": "축축하고 차가운",
+      "form": null,
+      "synonyms": [
+        "damp",
+        "moist",
+        "sticky"
+      ],
+      "ipa": "/ˈklæmi/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "adverb",
+      "ko": "안에, 내부에",
+      "form": null,
+      "synonyms": [
+        "inside"
+      ],
+      "ipa": "/wɪˈðɪn/"
+    },
+    "knew": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": "과거형",
+      "synonyms": [
+        "understand"
+      ],
+      "ipa": "/nuː/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adjective",
+      "ko": "더 많은 (no more A than B: B만큼이나 A가 아닌)",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "shorthand": {
+      "lemma": "shorthand",
+      "pos": "noun",
+      "ko": "속기 (빨리 받아 적는 기호 체계)",
+      "form": null,
+      "synonyms": [
+        "stenography"
+      ],
+      "ipa": "/ˈʃɔːrtˌhænd/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "graduate": {
+      "lemma": "graduate",
+      "pos": "noun",
+      "ko": "졸업생",
+      "form": null,
+      "synonyms": [
+        "alumnus",
+        "degree holder"
+      ],
+      "ipa": "/ˈɡrædʒəwət/"
+    },
+    "stenography": {
+      "lemma": "stenography",
+      "pos": "noun",
+      "ko": "속기술",
+      "form": null,
+      "synonyms": [
+        "shorthand"
+      ],
+      "ipa": "/stəˈnɑːɡrəfi/"
+    },
+    "slip": {
+      "lemma": "slip",
+      "pos": "verb",
+      "ko": "미끄러져 나가다 (let slip upon the world: 세상에 내보내다)",
+      "form": null,
+      "synonyms": [
+        "slide",
+        "release"
+      ],
+      "ipa": "/slɪp/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "사업, 상업 (business college: 상업 학교)",
+      "form": null,
+      "synonyms": [
+        "commerce",
+        "trade"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "college": {
+      "lemma": "college",
+      "pos": "noun",
+      "ko": "(전문) 학교, 대학",
+      "form": null,
+      "synonyms": [
+        "school",
+        "academy"
+      ],
+      "ipa": "/ˈkɑːlɪdʒ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서",
+      "form": null,
+      "synonyms": [
+        "therefore",
+        "thus"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "able": {
+      "lemma": "able",
+      "pos": "adjective",
+      "ko": "~할 수 있는 (be able to)",
+      "form": null,
+      "synonyms": [
+        "capable"
+      ],
+      "ipa": "/ˈeɪbəl/"
+    },
+    "stenog": {
+      "lemma": "stenog",
+      "pos": "verb",
+      "ko": "속기하다 (stenography를 줄인 말장난)",
+      "form": null,
+      "synonyms": [
+        "take shorthand"
+      ],
+      "ipa": "/stəˈnɑːɡ/"
+    },
+    "enter": {
+      "lemma": "enter",
+      "pos": "verb",
+      "ko": "들어가다, 가입하다",
+      "form": null,
+      "synonyms": [
+        "join",
+        "get into"
+      ],
+      "ipa": "/ˈɛntər/"
+    },
+    "bright": {
+      "lemma": "bright",
+      "pos": "adjective",
+      "ko": "화려한, 빛나는",
+      "form": null,
+      "synonyms": [
+        "brilliant",
+        "shining"
+      ],
+      "ipa": "/braɪt/"
+    },
+    "galaxy": {
+      "lemma": "galaxy",
+      "pos": "noun",
+      "ko": "(뛰어난 사람들의) 화려한 무리, 은하",
+      "form": null,
+      "synonyms": [
+        "constellation",
+        "array",
+        "host"
+      ],
+      "ipa": "/ˈɡæləksi/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 사무직",
+      "form": null,
+      "synonyms": [
+        "workplace",
+        "bureau"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "talent": {
+      "lemma": "talent",
+      "pos": "noun",
+      "ko": "인재, 재능 있는 사람들",
+      "form": null,
+      "synonyms": [
+        "ability",
+        "gifted people"
+      ],
+      "ipa": "/ˈtælənt/"
+    },
+    "free-lance": {
+      "lemma": "free-lance",
+      "pos": "adjective",
+      "ko": "프리랜서의, 자유 계약의",
+      "form": null,
+      "synonyms": [
+        "independent",
+        "self-employed"
+      ],
+      "ipa": "/friː-læns/"
+    },
+    "canvassed": {
+      "lemma": "canvass",
+      "pos": "verb",
+      "ko": "(일감을 얻으려) 찾아다니다",
+      "form": "과거형",
+      "synonyms": [
+        "solicit",
+        "seek"
+      ],
+      "ipa": "/ˈkænvəst/"
+    },
+    "odd": {
+      "lemma": "odd",
+      "pos": "adjective",
+      "ko": "임시의, 이런저런 (odd jobs: 잡일)",
+      "form": null,
+      "synonyms": [
+        "occasional",
+        "casual",
+        "miscellaneous"
+      ],
+      "ipa": "/ɑːd/"
+    },
+    "jobs": {
+      "lemma": "job",
+      "pos": "noun",
+      "ko": "일, 일감",
+      "form": "복수형",
+      "synonyms": [
+        "tasks",
+        "work"
+      ],
+      "ipa": "/dʒɑːbz/"
+    },
+    "copying": {
+      "lemma": "copy",
+      "pos": "noun",
+      "ko": "옮겨 쓰기, 필사 (동명사)",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "transcription",
+        "duplication"
+      ],
+      "ipa": "/ˈkɑːpiɪŋ/"
+    }
+  }
+}
