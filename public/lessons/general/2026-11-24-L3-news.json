@@ -1,0 +1,1891 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-24-L3-news",
+  "date": "2026-11-24",
+  "level": 3,
+  "title": "Laser Focus at the Top of the World",
+  "titleKo": "세계의 꼭대기에서 레이저로 위성을 겨누다",
+  "genre": "news",
+  "tags": [
+    "NASA",
+    "Earth science",
+    "technology",
+    "Arctic",
+    "satellites"
+  ],
+  "source": {
+    "work": "Laser Focus at the Top of the World",
+    "author": "NASA",
+    "translator": null,
+    "year": 2026,
+    "edition": "NASA News",
+    "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+    "license": "us-government-work",
+    "excerptNote": "첫 4단락"
+  },
+  "audio": null,
+  "wordCount": 253,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "60여 년 전, NASA 고다드 우주비행센터의 과학자들은 레이저를 하늘로 겨누고, 특수 반사경을 단 궤도 위성에 빛의 펄스를 쏘았다. 빛이 돌아오는 데 걸린 시간을 측정함으로써, 그들은 위성을 추적하는 새롭고 더 정밀한 방법을 보여 주었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "그 뒤로 위성 레이저 거리 측정(SLR)은 더 정밀해졌고 더 널리 쓰이게 되었다. 이 기술은 이제 위성 궤도를 검증하고 지표면의 미세한 변화를 지도로 나타내는 것처럼, 지구 관측의 여러 측면을 떠받치고 있다. 고다드 광학연구시설(지금의 고다드 지구물리·천문 관측소)에서 처음 개척된 레이저 거리 측정은 현재 전 세계 40곳이 넘는 관측소에서 이루어진다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "2026년, NASA 과학자들이 개발하고 고다드에서 시험한 차세대 SLR이 가동되기 시작했다. 10월 12일, 더 빠르고 한층 더 정밀한 SLR 시스템이 노르웨이 스발바르의 니올레순 측지 관측소에서 공식적으로 첫선을 보였다. 이 관측소는 NASA의 협력 기관인 노르웨이 측량청이 운영한다. 북극 군도에 있는 이 관측소의 외딴 위치가 이 사진에 나와 있는데, 사진은 2026년 7월 랜드샛 9호의 OLI(운용 지표 영상기)로 촬영되었다. 이것은 처음으로 가동되는 NASA 차세대 SLR 시스템이자, 지구에서 가장 북쪽에 있는 SLR 시설이다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "수십 년 전에 개발된 시스템들은 전 세계 레이저 추적망의 ‘일꾼’ 역할을 해 왔지만, 노후화와 늘어나는 위성 수 때문에 업그레이드가 필요해졌다고 NASA 우주 측지 프로젝트의 프로젝트 매니저 스티븐 머코위츠는 말했다. “우리는 더 많은 물체를 추적하고, 그것들을 더 정확하고 정밀하게 추적할 수 있는 새로운 시스템을 원했습니다.”라고 그는 말했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "More than 60 years ago, scientists at NASA’s Goddard Space Flight Center aimed a laser skyward and fired a pulse of light at an orbiting satellite equipped with special reflectors.",
+      "ko": "60여 년 전, NASA 고다드 우주비행센터의 과학자들은 레이저를 하늘로 겨누고, 특수 반사경을 단 궤도 위성에 빛의 펄스를 쏘았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "By measuring the time it took for the light to return, they demonstrated a new, more precise method for tracking satellites.",
+      "ko": "빛이 돌아오는 데 걸린 시간을 측정함으로써, 그들은 위성을 추적하는 새롭고 더 정밀한 방법을 보여 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "Since then, satellite laser ranging (SLR) has grown more precise and more widely used.",
+      "ko": "그 뒤로 위성 레이저 거리 측정(SLR)은 더 정밀해졌고 더 널리 쓰이게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "The technique now underpins many aspects of Earth observation, such as validating satellite orbits and mapping subtle changes to Earth’s surface.",
+      "ko": "이 기술은 이제 위성 궤도를 검증하고 지표면의 미세한 변화를 지도로 나타내는 것처럼, 지구 관측의 여러 측면을 떠받치고 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Pioneered at the Goddard Optical Research Facility—now the Goddard Geophysical and Astronomical Observatory—laser ranging is performed at more than 40 stations worldwide.",
+      "ko": "고다드 광학연구시설(지금의 고다드 지구물리·천문 관측소)에서 처음 개척된 레이저 거리 측정은 현재 전 세계 40곳이 넘는 관측소에서 이루어진다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "In 2026, the next generation of SLR, developed by NASA scientists and tested at Goddard, began to come online.",
+      "ko": "2026년, NASA 과학자들이 개발하고 고다드에서 시험한 차세대 SLR이 가동되기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "On October 12, a faster, even more precise SLR system officially debuted at the Ny-Ålesund Geodetic Observatory in Svalbard, Norway, operated by the Norwegian Mapping Authority, a NASA partner.",
+      "ko": "10월 12일, 더 빠르고 한층 더 정밀한 SLR 시스템이 노르웨이 스발바르의 니올레순 측지 관측소에서 공식적으로 첫선을 보였다. 이 관측소는 NASA의 협력 기관인 노르웨이 측량청이 운영한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "The observatory’s remote location in the Arctic archipelago is shown in this image, acquired with the OLI (Operational Land Imager) on Landsat 9 in July 2026.",
+      "ko": "북극 군도에 있는 이 관측소의 외딴 위치가 이 사진에 나와 있는데, 사진은 2026년 7월 랜드샛 9호의 OLI(운용 지표 영상기)로 촬영되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "It is the first NASA next-generation SLR system in operation and the northernmost SLR facility on Earth.",
+      "ko": "이것은 처음으로 가동되는 NASA 차세대 SLR 시스템이자, 지구에서 가장 북쪽에 있는 SLR 시설이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "While the systems developed decades ago have been “workhorses” of the global laser tracking network, their age and the growing number of satellites have necessitated updates, said Stephen Merkowitz, project manager for NASA’s Space Geodesy Project.",
+      "ko": "수십 년 전에 개발된 시스템들은 전 세계 레이저 추적망의 ‘일꾼’ 역할을 해 왔지만, 노후화와 늘어나는 위성 수 때문에 업그레이드가 필요해졌다고 NASA 우주 측지 프로젝트의 프로젝트 매니저 스티븐 머코위츠는 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "“We wanted newer systems that could track more objects, and track them more accurately and precisely,” he said.",
+      "ko": "“우리는 더 많은 물체를 추적하고, 그것들을 더 정확하고 정밀하게 추적할 수 있는 새로운 시스템을 원했습니다.”라고 그는 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "precise",
+      "pos": "adjective",
+      "meaningKo": "정밀한, 정확한",
+      "ipa": "/prɪˈsaɪs/",
+      "synonyms": [
+        "exact",
+        "accurate"
+      ],
+      "matchText": "precise",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We need a precise measurement of the room.",
+        "ko": "우리는 방의 정밀한 치수가 필요하다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "underpin",
+      "pos": "verb",
+      "meaningKo": "(밑에서) 떠받치다, ~의 토대가 되다",
+      "ipa": "/ˌʌndərˈpɪn/",
+      "synonyms": [
+        "support",
+        "form the basis of"
+      ],
+      "matchText": "underpins",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Trust underpins every good friendship.",
+        "ko": "신뢰는 모든 좋은 우정의 토대가 된다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "come online",
+      "pos": "phrase",
+      "meaningKo": "가동되기 시작하다, 운영에 들어가다",
+      "ipa": "/kʌm ˌɑnˈlaɪn/",
+      "synonyms": [
+        "start operating",
+        "go live"
+      ],
+      "matchText": "come online",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The new power plant will come online next year.",
+        "ko": "새 발전소는 내년에 가동을 시작한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "debut",
+      "pos": "verb",
+      "meaningKo": "처음 선보이다, 데뷔하다",
+      "ipa": "/deɪˈbju/",
+      "synonyms": [
+        "launch",
+        "premiere"
+      ],
+      "matchText": "debuted",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The new phone debuted in September.",
+        "ko": "새 휴대전화는 9월에 처음 출시되었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "necessitate",
+      "pos": "verb",
+      "meaningKo": "~을 필요하게 만들다",
+      "ipa": "/nəˈsɛsəˌteɪt/",
+      "synonyms": [
+        "require",
+        "call for"
+      ],
+      "matchText": "necessitated",
+      "sentenceId": "s10",
+      "example": {
+        "en": "The heavy rain necessitated a change of plans.",
+        "ko": "폭우 때문에 계획을 바꿔야 했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "By measuring the time",
+          "role": "M",
+          "sub": false,
+          "ko": "시간을 측정함으로써"
+        },
+        {
+          "text": "it took",
+          "role": "V",
+          "sub": true,
+          "ko": "(그것이) 걸린"
+        },
+        {
+          "text": "for the light to return,",
+          "role": "M",
+          "sub": true,
+          "ko": "빛이 돌아오는 데"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "demonstrated",
+          "role": "V",
+          "sub": false,
+          "ko": "보여 주었다"
+        },
+        {
+          "text": "a new, more precise method",
+          "role": "O",
+          "sub": false,
+          "ko": "새롭고 더 정밀한 방법을"
+        },
+        {
+          "text": "for tracking satellites.",
+          "role": "M",
+          "sub": false,
+          "ko": "위성을 추적하는"
+        }
+      ],
+      "skeleton": "they demonstrated a method",
+      "explanation": "By + -ing는 ‘~함으로써’라는 수단을 나타낸다. the time 뒤에는 관계사 that이 생략된 절 (that) it took for the light to return(빛이 돌아오는 데 걸린)이 붙어 time을 꾸민다. 문장의 뼈대는 they demonstrated a method(그들은 방법을 보여 주었다)이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "The technique",
+          "role": "S",
+          "sub": false,
+          "ko": "이 기술은"
+        },
+        {
+          "text": "now",
+          "role": "M",
+          "sub": false,
+          "ko": "이제"
+        },
+        {
+          "text": "underpins",
+          "role": "V",
+          "sub": false,
+          "ko": "떠받친다"
+        },
+        {
+          "text": "many aspects of Earth observation,",
+          "role": "O",
+          "sub": false,
+          "ko": "지구 관측의 여러 측면을"
+        },
+        {
+          "text": "such as validating satellite orbits and mapping subtle changes to Earth’s surface.",
+          "role": "M",
+          "sub": false,
+          "ko": "위성 궤도를 검증하고 지표면의 미세한 변화를 지도로 나타내는 것처럼"
+        }
+      ],
+      "skeleton": "The technique underpins aspects",
+      "explanation": "주어 The technique, 동사 underpins(3인칭 단수 -s), 목적어 many aspects로 이루어진 3형식 문장이다. such as 뒤에는 예시가 오는데, validating과 mapping 두 동명사가 and로 나란히 이어져 있다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "While",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~이지만"
+        },
+        {
+          "text": "the systems",
+          "role": "S",
+          "sub": true,
+          "ko": "시스템들은"
+        },
+        {
+          "text": "developed decades ago",
+          "role": "M",
+          "sub": true,
+          "ko": "수십 년 전에 개발된"
+        },
+        {
+          "text": "have been",
+          "role": "V",
+          "sub": true,
+          "ko": "~해 왔다"
+        },
+        {
+          "text": "“workhorses” of the global laser tracking network,",
+          "role": "C",
+          "sub": true,
+          "ko": "전 세계 레이저 추적망의 ‘일꾼’"
+        },
+        {
+          "text": "their age and the growing number of satellites",
+          "role": "S",
+          "sub": false,
+          "ko": "(시스템의) 노후화와 늘어나는 위성 수가"
+        },
+        {
+          "text": "have necessitated",
+          "role": "V",
+          "sub": false,
+          "ko": "필요하게 만들었다"
+        },
+        {
+          "text": "updates,",
+          "role": "O",
+          "sub": false,
+          "ko": "업그레이드를"
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "Stephen Merkowitz, project manager for NASA’s Space Geodesy Project.",
+          "role": "S",
+          "sub": false,
+          "ko": "NASA 우주 측지 프로젝트의 프로젝트 매니저 스티븐 머코위츠가"
+        }
+      ],
+      "skeleton": "their age and the number have necessitated updates",
+      "explanation": "While이 이끄는 부사절은 ‘~이지만’이라는 대조를 나타낸다. 주절의 주어는 their age and the growing number of satellites 두 개라서 동사가 복수형 have necessitated이다. 끝의 said Stephen Merkowitz는 ‘말했다 + 말한 사람’ 순서로 도치된 인용 표현이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료: has grown",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "has grown"
+      ],
+      "explanation": "Since then(그 뒤로)과 함께 현재완료 has grown을 써서, 과거(60여 년 전)부터 지금까지 계속 변해 온 일을 나타낸다. Since + 과거 시점은 현재완료와 자주 함께 쓰인다.",
+      "example": {
+        "en": "Since then, the town has grown much bigger.",
+        "ko": "그 뒤로 그 마을은 훨씬 커졌다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "수동태 + 과거분사 꾸밈: is shown, acquired",
+      "tags": [
+        "수동태",
+        "분사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "is shown",
+        "acquired with"
+      ],
+      "explanation": "is shown은 ‘보여진다’라는 수동태다. 쉼표 뒤 acquired with ...는 과거분사구로, 앞의 this image를 꾸며 ‘~로 촬영된(얻어진) 사진’이라는 뜻을 더한다.",
+      "example": {
+        "en": "The photo, taken in 1990, is shown on the wall.",
+        "ko": "1990년에 찍은 그 사진은 벽에 걸려 있다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "최상급: the northernmost",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "the northernmost"
+      ],
+      "explanation": "northernmost는 ‘가장 북쪽의’라는 최상급 형용사다. -most가 붙은 방향 형용사(southernmost, easternmost 등)도 같은 방식으로 쓰고, 앞에 the를 붙인다.",
+      "example": {
+        "en": "Key West is the southernmost city in the continental U.S.",
+        "ko": "키웨스트는 미국 본토에서 가장 남쪽에 있는 도시다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더, 더 많이",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "년, 해",
+      "form": "복수형",
+      "synonyms": [
+        "periods"
+      ],
+      "ipa": "/jɪrz/"
+    },
+    "ago": {
+      "lemma": "ago",
+      "pos": "adverb",
+      "ko": "~ 전에",
+      "form": null,
+      "synonyms": [
+        "before",
+        "back"
+      ],
+      "ipa": "/əˈɡoʊ/"
+    },
+    "scientists": {
+      "lemma": "scientist",
+      "pos": "noun",
+      "ko": "과학자",
+      "form": "복수형",
+      "synonyms": [
+        "researchers"
+      ],
+      "ipa": "/ˈsaɪəntɪsts/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "nasa's": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "나사(미국 항공우주국)의",
+      "form": "소유격",
+      "ipa": "/ˈnæsəz/"
+    },
+    "goddard": {
+      "lemma": "Goddard",
+      "pos": "proper-noun",
+      "ko": "고다드 (NASA 고다드 센터)",
+      "form": null,
+      "ipa": "/ˈɡɑːdərd/"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "우주",
+      "form": null,
+      "synonyms": [
+        "cosmos"
+      ],
+      "ipa": "/speɪs/"
+    },
+    "flight": {
+      "lemma": "flight",
+      "pos": "noun",
+      "ko": "비행",
+      "form": null,
+      "synonyms": [
+        "flying"
+      ],
+      "ipa": "/flaɪt/"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터, 시설",
+      "form": null,
+      "synonyms": [
+        "facility"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "aimed": {
+      "lemma": "aim",
+      "pos": "verb",
+      "ko": "겨누다, 조준하다",
+      "form": "과거형",
+      "synonyms": [
+        "point",
+        "direct"
+      ],
+      "ipa": "/eɪmd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "laser": {
+      "lemma": "laser",
+      "pos": "noun",
+      "ko": "레이저",
+      "form": null,
+      "synonyms": [
+        "beam"
+      ],
+      "ipa": "/ˈleɪzər/"
+    },
+    "skyward": {
+      "lemma": "skyward",
+      "pos": "adverb",
+      "ko": "하늘 쪽으로",
+      "form": null,
+      "synonyms": [
+        "upward"
+      ],
+      "ipa": "/ˈskaɪwərd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "fired": {
+      "lemma": "fire",
+      "pos": "verb",
+      "ko": "쏘다, 발사하다",
+      "form": "과거형",
+      "synonyms": [
+        "shoot",
+        "launch"
+      ],
+      "ipa": "/ˈfaɪərd/"
+    },
+    "pulse": {
+      "lemma": "pulse",
+      "pos": "noun",
+      "ko": "펄스, 짧은 파동",
+      "form": null,
+      "synonyms": [
+        "burst",
+        "flash"
+      ],
+      "ipa": "/pʌls/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "light": {
+      "lemma": "light",
+      "pos": "noun",
+      "ko": "빛",
+      "form": null,
+      "synonyms": [
+        "beam",
+        "glow"
+      ],
+      "ipa": "/laɪt/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "orbiting": {
+      "lemma": "orbit",
+      "pos": "verb",
+      "ko": "궤도를 도는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "circling",
+        "revolving"
+      ],
+      "ipa": "/ˈɔːrbətɪŋ/"
+    },
+    "satellite": {
+      "lemma": "satellite",
+      "pos": "noun",
+      "ko": "위성, 인공위성",
+      "form": null,
+      "synonyms": [
+        "spacecraft"
+      ],
+      "ipa": "/ˈsætəˌlaɪt/"
+    },
+    "equipped": {
+      "lemma": "equip",
+      "pos": "verb",
+      "ko": "(장비를) 갖춘",
+      "form": "과거분사",
+      "synonyms": [
+        "fitted",
+        "outfitted"
+      ],
+      "ipa": "/ɪˈkwɪpt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가진; ~로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "special": {
+      "lemma": "special",
+      "pos": "adjective",
+      "ko": "특수한, 특별한",
+      "form": null,
+      "synonyms": [
+        "particular",
+        "unique"
+      ],
+      "ipa": "/ˈspɛʃəl/"
+    },
+    "reflectors": {
+      "lemma": "reflector",
+      "pos": "noun",
+      "ko": "반사경, 반사판",
+      "form": "복수형",
+      "synonyms": [
+        "mirrors"
+      ],
+      "ipa": "/rɪˈflɛktərz/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~함으로써; ~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "measuring": {
+      "lemma": "measure",
+      "pos": "verb",
+      "ko": "측정하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "gauging",
+        "calculating"
+      ],
+      "ipa": "/ˈmɛʒərɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": null,
+      "synonyms": [
+        "duration"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (시간을 나타내는 주어)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간이) 걸리다",
+      "form": "과거형",
+      "synonyms": [
+        "require",
+        "need"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한; ~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 위해 (to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌아오다",
+      "form": null,
+      "synonyms": [
+        "come back"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "demonstrated": {
+      "lemma": "demonstrate",
+      "pos": "verb",
+      "ko": "보여 주다, 입증하다",
+      "form": "과거형",
+      "synonyms": [
+        "show",
+        "prove"
+      ],
+      "ipa": "/ˈdɛmənˌstreɪtɪd/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "novel",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "precise": {
+      "lemma": "precise",
+      "pos": "adjective",
+      "ko": "정밀한, 정확한",
+      "form": null,
+      "synonyms": [
+        "exact",
+        "accurate"
+      ],
+      "ipa": "/prɪˈsaɪs/"
+    },
+    "method": {
+      "lemma": "method",
+      "pos": "noun",
+      "ko": "방법",
+      "form": null,
+      "synonyms": [
+        "way",
+        "technique"
+      ],
+      "ipa": "/ˈmɛθəd/"
+    },
+    "tracking": {
+      "lemma": "track",
+      "pos": "verb",
+      "ko": "추적하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "following",
+        "monitoring"
+      ],
+      "ipa": "/ˈtrækɪŋ/"
+    },
+    "satellites": {
+      "lemma": "satellite",
+      "pos": "noun",
+      "ko": "위성, 인공위성",
+      "form": "복수형",
+      "synonyms": [
+        "spacecraft"
+      ],
+      "ipa": "/ˈsætəˌlaɪts/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "preposition",
+      "ko": "~ 이후로",
+      "form": null,
+      "ipa": "/sɪns/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때",
+      "form": null,
+      "synonyms": [
+        "that time"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "ranging": {
+      "lemma": "ranging",
+      "pos": "noun",
+      "ko": "거리 측정",
+      "form": null,
+      "synonyms": [
+        "distance measuring"
+      ],
+      "ipa": "/ˈreɪndʒɪŋ/"
+    },
+    "slr": {
+      "lemma": "SLR",
+      "pos": "proper-noun",
+      "ko": "에스엘알 (위성 레이저 거리 측정)",
+      "form": "줄임말",
+      "ipa": "/ˌɛs ɛl ˈɑr/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "grown": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "~하게 되다, 자라다",
+      "form": "과거분사",
+      "synonyms": [
+        "become",
+        "develop"
+      ],
+      "ipa": "/ɡroʊn/"
+    },
+    "widely": {
+      "lemma": "widely",
+      "pos": "adverb",
+      "ko": "널리",
+      "form": null,
+      "synonyms": [
+        "broadly",
+        "extensively"
+      ],
+      "ipa": "/ˈwaɪdli/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "쓰이는, 사용되는",
+      "form": "과거분사",
+      "synonyms": [
+        "employed",
+        "applied"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "technique": {
+      "lemma": "technique",
+      "pos": "noun",
+      "ko": "기술, 기법",
+      "form": null,
+      "synonyms": [
+        "method",
+        "approach"
+      ],
+      "ipa": "/tɛkˈniːk/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금",
+      "form": null,
+      "synonyms": [
+        "currently"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "underpins": {
+      "lemma": "underpin",
+      "pos": "verb",
+      "ko": "떠받치다, ~의 토대가 되다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "supports",
+        "underlies"
+      ],
+      "ipa": "/ˌʌndərˈpɪnz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "aspects": {
+      "lemma": "aspect",
+      "pos": "noun",
+      "ko": "측면, 면",
+      "form": "복수형",
+      "synonyms": [
+        "parts",
+        "facets"
+      ],
+      "ipa": "/ˈæˌspɛkts/"
+    },
+    "earth": {
+      "lemma": "Earth",
+      "pos": "proper-noun",
+      "ko": "지구",
+      "form": null,
+      "ipa": "/ɜːrθ/"
+    },
+    "observation": {
+      "lemma": "observation",
+      "pos": "noun",
+      "ko": "관측, 관찰",
+      "form": null,
+      "synonyms": [
+        "monitoring",
+        "watching"
+      ],
+      "ipa": "/ˌɑːbzərˈveɪʃən/"
+    },
+    "such": {
+      "lemma": "such",
+      "pos": "determiner",
+      "ko": "그러한 (such as: ~와 같은)",
+      "form": null,
+      "ipa": "/sʌtʃ/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~처럼, ~로서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "validating": {
+      "lemma": "validate",
+      "pos": "verb",
+      "ko": "검증하다, 확인하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "verifying",
+        "confirming"
+      ],
+      "ipa": "/ˈvæləˌdeɪtɪŋ/"
+    },
+    "orbits": {
+      "lemma": "orbit",
+      "pos": "noun",
+      "ko": "궤도",
+      "form": "복수형",
+      "synonyms": [
+        "paths",
+        "trajectories"
+      ],
+      "ipa": "/ˈɔːrbəts/"
+    },
+    "mapping": {
+      "lemma": "mapping",
+      "pos": "noun",
+      "ko": "지도 작성, 측량",
+      "form": null,
+      "synonyms": [
+        "charting",
+        "surveying"
+      ],
+      "ipa": "/ˈmæpɪŋ/"
+    },
+    "subtle": {
+      "lemma": "subtle",
+      "pos": "adjective",
+      "ko": "미세한, 미묘한",
+      "form": null,
+      "synonyms": [
+        "slight",
+        "faint"
+      ],
+      "ipa": "/ˈsʌtəl/"
+    },
+    "changes": {
+      "lemma": "change",
+      "pos": "noun",
+      "ko": "변화",
+      "form": "복수형",
+      "synonyms": [
+        "shifts",
+        "variations"
+      ],
+      "ipa": "/ˈtʃeɪndʒəz/"
+    },
+    "earth's": {
+      "lemma": "Earth",
+      "pos": "proper-noun",
+      "ko": "지구의",
+      "form": "소유격",
+      "ipa": "/ɜːrθs/"
+    },
+    "surface": {
+      "lemma": "surface",
+      "pos": "noun",
+      "ko": "표면, 지표",
+      "form": null,
+      "synonyms": [
+        "exterior",
+        "face"
+      ],
+      "ipa": "/ˈsɜːrfəs/"
+    },
+    "pioneered": {
+      "lemma": "pioneer",
+      "pos": "verb",
+      "ko": "개척되다, 처음 개발하다",
+      "form": "과거분사",
+      "synonyms": [
+        "introduced",
+        "developed"
+      ],
+      "ipa": "/ˌpaɪəˈnɪrd/"
+    },
+    "optical": {
+      "lemma": "optical",
+      "pos": "adjective",
+      "ko": "광학의",
+      "form": null,
+      "synonyms": [
+        "visual"
+      ],
+      "ipa": "/ˈɑːptɪkəl/"
+    },
+    "research": {
+      "lemma": "research",
+      "pos": "noun",
+      "ko": "연구",
+      "form": null,
+      "synonyms": [
+        "study",
+        "investigation"
+      ],
+      "ipa": "/riˈsɜːrtʃ/"
+    },
+    "facility": {
+      "lemma": "facility",
+      "pos": "noun",
+      "ko": "시설",
+      "form": null,
+      "synonyms": [
+        "center",
+        "site"
+      ],
+      "ipa": "/fəˈsɪlɪti/"
+    },
+    "geophysical": {
+      "lemma": "geophysical",
+      "pos": "adjective",
+      "ko": "지구물리학의",
+      "form": null,
+      "ipa": "/ˌdʒiːoʊˈfɪzəkəl/"
+    },
+    "astronomical": {
+      "lemma": "astronomical",
+      "pos": "adjective",
+      "ko": "천문학의",
+      "form": null,
+      "ipa": "/ˌæstrəˈnɑːmɪkəl/"
+    },
+    "observatory": {
+      "lemma": "observatory",
+      "pos": "noun",
+      "ko": "관측소, 천문대",
+      "form": null,
+      "synonyms": [
+        "station"
+      ],
+      "ipa": "/əbˈzɜːrvəˌtɔːri/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "performed": {
+      "lemma": "perform",
+      "pos": "verb",
+      "ko": "수행되다, 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "carried out",
+        "done"
+      ],
+      "ipa": "/pərˈfɔːrmd/"
+    },
+    "stations": {
+      "lemma": "station",
+      "pos": "noun",
+      "ko": "관측소, 기지",
+      "form": "복수형",
+      "synonyms": [
+        "sites",
+        "bases"
+      ],
+      "ipa": "/ˈsteɪʃənz/"
+    },
+    "worldwide": {
+      "lemma": "worldwide",
+      "pos": "adverb",
+      "ko": "전 세계에서",
+      "form": null,
+      "synonyms": [
+        "globally",
+        "everywhere"
+      ],
+      "ipa": "/ˈwɜːrlˈdwaɪd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "generation": {
+      "lemma": "generation",
+      "pos": "noun",
+      "ko": "세대",
+      "form": null,
+      "synonyms": [
+        "version"
+      ],
+      "ipa": "/ˌdʒɛnəˈreɪʃən/"
+    },
+    "developed": {
+      "lemma": "develop",
+      "pos": "verb",
+      "ko": "개발하다, 개발된",
+      "form": "과거분사",
+      "synonyms": [
+        "created",
+        "built"
+      ],
+      "ipa": "/dɪˈvɛləpt/"
+    },
+    "nasa": {
+      "lemma": "NASA",
+      "pos": "proper-noun",
+      "ko": "나사 (미국 항공우주국)",
+      "form": null,
+      "ipa": "/ˈnæsə/"
+    },
+    "tested": {
+      "lemma": "test",
+      "pos": "verb",
+      "ko": "시험하다, 시험된",
+      "form": "과거분사",
+      "synonyms": [
+        "tried",
+        "checked"
+      ],
+      "ipa": "/ˈtɛstɪd/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "started"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come online: 가동되다)",
+      "form": null,
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adverb",
+      "ko": "가동 중으로, 작동하는",
+      "form": null,
+      "synonyms": [
+        "operational"
+      ],
+      "ipa": "/ˈɔːnˌlaɪn/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜); ~에서",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "october": {
+      "lemma": "October",
+      "pos": "proper-noun",
+      "ko": "10월",
+      "form": null,
+      "ipa": "/ɑkˈtoʊbər/"
+    },
+    "faster": {
+      "lemma": "fast",
+      "pos": "adjective",
+      "ko": "더 빠른",
+      "form": "비교급",
+      "synonyms": [
+        "quicker",
+        "speedier"
+      ],
+      "ipa": "/ˈfæstər/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "한층, 훨씬",
+      "form": null,
+      "synonyms": [
+        "still"
+      ],
+      "ipa": "/ˈiːvɪn/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 장치",
+      "form": null,
+      "synonyms": [
+        "setup",
+        "apparatus"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "officially": {
+      "lemma": "officially",
+      "pos": "adverb",
+      "ko": "공식적으로",
+      "form": null,
+      "synonyms": [
+        "formally"
+      ],
+      "ipa": "/əˈfɪʃəli/"
+    },
+    "debuted": {
+      "lemma": "debut",
+      "pos": "verb",
+      "ko": "처음 선보이다",
+      "form": "과거형",
+      "synonyms": [
+        "premiered",
+        "launched"
+      ],
+      "ipa": "/deɪˈbjuːd/"
+    },
+    "ny": {
+      "lemma": "Ny-Ålesund",
+      "pos": "proper-noun",
+      "ko": "니올레순 (스발바르의 마을, 앞부분)",
+      "form": null,
+      "ipa": null
+    },
+    "lesund": {
+      "lemma": "Ny-Ålesund",
+      "pos": "proper-noun",
+      "ko": "니올레순 (스발바르의 마을, 뒷부분)",
+      "form": null,
+      "ipa": null
+    },
+    "geodetic": {
+      "lemma": "geodetic",
+      "pos": "adjective",
+      "ko": "측지의, 측지학의",
+      "form": null,
+      "ipa": "/ˌdʒiːəˈdɛtɪk/"
+    },
+    "svalbard": {
+      "lemma": "Svalbard",
+      "pos": "proper-noun",
+      "ko": "스발바르 (노르웨이령 북극 제도)",
+      "form": null,
+      "ipa": "/ˈsvɑlbɑr/"
+    },
+    "norway": {
+      "lemma": "Norway",
+      "pos": "proper-noun",
+      "ko": "노르웨이 (북유럽 국가)",
+      "form": null,
+      "ipa": "/ˈnɔːrˌweɪ/"
+    },
+    "operated": {
+      "lemma": "operate",
+      "pos": "verb",
+      "ko": "운영되다, 운영하다",
+      "form": "과거분사",
+      "synonyms": [
+        "run",
+        "managed"
+      ],
+      "ipa": "/ˈɑːpəˌreɪtəd/"
+    },
+    "norwegian": {
+      "lemma": "Norwegian",
+      "pos": "proper-noun",
+      "ko": "노르웨이의",
+      "form": null,
+      "ipa": "/ˌnɔːrˈwiːdʒən/"
+    },
+    "authority": {
+      "lemma": "authority",
+      "pos": "noun",
+      "ko": "당국, 관청",
+      "form": null,
+      "synonyms": [
+        "agency"
+      ],
+      "ipa": "/əˈθɔːrəti/"
+    },
+    "partner": {
+      "lemma": "partner",
+      "pos": "noun",
+      "ko": "협력 기관, 파트너",
+      "form": null,
+      "synonyms": [
+        "ally",
+        "collaborator"
+      ],
+      "ipa": "/ˈpɑːrtnər/"
+    },
+    "observatory's": {
+      "lemma": "observatory",
+      "pos": "noun",
+      "ko": "관측소의",
+      "form": "소유격",
+      "synonyms": [
+        "station's"
+      ],
+      "ipa": "/əbˈzɜːrvəˌtɔːriz/"
+    },
+    "remote": {
+      "lemma": "remote",
+      "pos": "adjective",
+      "ko": "외딴, 멀리 떨어진",
+      "form": null,
+      "synonyms": [
+        "isolated",
+        "distant"
+      ],
+      "ipa": "/rɪˈmoʊt/"
+    },
+    "location": {
+      "lemma": "location",
+      "pos": "noun",
+      "ko": "위치, 장소",
+      "form": null,
+      "synonyms": [
+        "site",
+        "position"
+      ],
+      "ipa": "/loʊˈkeɪʃən/"
+    },
+    "arctic": {
+      "lemma": "Arctic",
+      "pos": "proper-noun",
+      "ko": "북극의, 북극 지방",
+      "form": null,
+      "ipa": "/ˈɑːrktɪk/"
+    },
+    "archipelago": {
+      "lemma": "archipelago",
+      "pos": "noun",
+      "ko": "군도, 제도",
+      "form": null,
+      "synonyms": [
+        "island group"
+      ],
+      "ipa": "/ˌɑːrkəˈpɛləˌɡoʊ/"
+    },
+    "shown": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여지다",
+      "form": "과거분사",
+      "synonyms": [
+        "displayed",
+        "pictured"
+      ],
+      "ipa": "/ʃoʊn/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "image": {
+      "lemma": "image",
+      "pos": "noun",
+      "ko": "사진, 영상",
+      "form": null,
+      "synonyms": [
+        "picture",
+        "photo"
+      ],
+      "ipa": "/ˈɪmədʒ/"
+    },
+    "acquired": {
+      "lemma": "acquire",
+      "pos": "verb",
+      "ko": "얻다, 촬영하다",
+      "form": "과거분사",
+      "synonyms": [
+        "captured",
+        "obtained"
+      ],
+      "ipa": "/əˈkwaɪərd/"
+    },
+    "oli": {
+      "lemma": "OLI",
+      "pos": "proper-noun",
+      "ko": "오엘아이 (랜드샛 위성의 지표 영상기)",
+      "form": "줄임말",
+      "ipa": "/ˌoʊ ɛl ˈaɪ/"
+    },
+    "operational": {
+      "lemma": "operational",
+      "pos": "adjective",
+      "ko": "운용의, 작동하는",
+      "form": null,
+      "synonyms": [
+        "working",
+        "functional"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənəl/"
+    },
+    "land": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "땅, 육지",
+      "form": null,
+      "synonyms": [
+        "ground",
+        "terrain"
+      ],
+      "ipa": "/lænd/"
+    },
+    "imager": {
+      "lemma": "imager",
+      "pos": "noun",
+      "ko": "영상기, 촬영 장비",
+      "form": null,
+      "synonyms": [
+        "camera",
+        "sensor"
+      ],
+      "ipa": "/ˈɪmɪdʒər/"
+    },
+    "landsat": {
+      "lemma": "Landsat",
+      "pos": "proper-noun",
+      "ko": "랜드샛 (미국 지구 관측 위성)",
+      "form": null,
+      "ipa": "/ˈlændˈsæt/"
+    },
+    "july": {
+      "lemma": "July",
+      "pos": "proper-noun",
+      "ko": "7월",
+      "form": null,
+      "ipa": "/ˌdʒuːˈlaɪ/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의, 최초의",
+      "form": null,
+      "synonyms": [
+        "initial",
+        "earliest"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "next-generation": {
+      "lemma": "next-generation",
+      "pos": "adjective",
+      "ko": "차세대의",
+      "form": null,
+      "synonyms": [
+        "advanced",
+        "new"
+      ],
+      "ipa": "/nɛkst-ˌdʒɛnəˈreɪʃən/"
+    },
+    "operation": {
+      "lemma": "operation",
+      "pos": "noun",
+      "ko": "가동, 운영",
+      "form": null,
+      "synonyms": [
+        "service",
+        "use"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃən/"
+    },
+    "northernmost": {
+      "lemma": "northernmost",
+      "pos": "adjective",
+      "ko": "가장 북쪽의",
+      "form": "최상급",
+      "synonyms": [
+        "farthest north"
+      ],
+      "ipa": "/ˈnɔːrðərnˌmoʊst/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~이지만, ~하는 반면",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "systems": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템, 장치",
+      "form": "복수형",
+      "synonyms": [
+        "setups"
+      ],
+      "ipa": "/ˈsɪstəmz/"
+    },
+    "decades": {
+      "lemma": "decade",
+      "pos": "noun",
+      "ko": "10년",
+      "form": "복수형",
+      "ipa": "/dɛˈkeɪdz/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~였다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "workhorses": {
+      "lemma": "workhorse",
+      "pos": "noun",
+      "ko": "일꾼, 믿음직한 주력 장비",
+      "form": "복수형",
+      "synonyms": [
+        "mainstays",
+        "backbones"
+      ],
+      "ipa": "/ˈwɜːrkˌhɔːrsɪz/"
+    },
+    "global": {
+      "lemma": "global",
+      "pos": "adjective",
+      "ko": "전 세계의",
+      "form": null,
+      "synonyms": [
+        "worldwide",
+        "international"
+      ],
+      "ipa": "/ˈɡloʊbəl/"
+    },
+    "network": {
+      "lemma": "network",
+      "pos": "noun",
+      "ko": "망, 네트워크",
+      "form": null,
+      "synonyms": [
+        "system",
+        "grid"
+      ],
+      "ipa": "/ˈnɛˌtwɜːrk/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의, 그것들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "age": {
+      "lemma": "age",
+      "pos": "noun",
+      "ko": "나이, 노후화",
+      "form": null,
+      "synonyms": [
+        "oldness"
+      ],
+      "ipa": "/eɪdʒ/"
+    },
+    "growing": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "늘어나는, 증가하는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "increasing",
+        "rising"
+      ],
+      "ipa": "/ˈɡroʊɪŋ/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "수, 숫자",
+      "form": null,
+      "synonyms": [
+        "count",
+        "amount"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "necessitated": {
+      "lemma": "necessitate",
+      "pos": "verb",
+      "ko": "~을 필요하게 만들다",
+      "form": "과거분사",
+      "synonyms": [
+        "required",
+        "demanded"
+      ],
+      "ipa": "/nəˈsɛsəˌteɪtəd/"
+    },
+    "updates": {
+      "lemma": "update",
+      "pos": "noun",
+      "ko": "업그레이드, 갱신",
+      "form": "복수형",
+      "synonyms": [
+        "upgrades",
+        "improvements"
+      ],
+      "ipa": "/əpˈdeɪts/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "stated",
+        "explained"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "stephen": {
+      "lemma": "Stephen",
+      "pos": "proper-noun",
+      "ko": "스티븐 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈstiːvən/"
+    },
+    "merkowitz": {
+      "lemma": "Merkowitz",
+      "pos": "proper-noun",
+      "ko": "머코위츠 (사람 성)",
+      "form": null,
+      "ipa": "/ˈmɜrkəwɪts/"
+    },
+    "project": {
+      "lemma": "project",
+      "pos": "noun",
+      "ko": "프로젝트, 사업",
+      "form": null,
+      "synonyms": [
+        "program",
+        "plan"
+      ],
+      "ipa": "/ˈprɑːdʒɛkt/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "director",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "geodesy": {
+      "lemma": "geodesy",
+      "pos": "noun",
+      "ko": "측지학 (지구 모양·크기 측정)",
+      "form": null,
+      "ipa": "/dʒiˈɑːdəsi/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": "과거형",
+      "synonyms": [
+        "wished for",
+        "sought"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "newer": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "더 새로운",
+      "form": "비교급",
+      "synonyms": [
+        "more modern"
+      ],
+      "ipa": "/ˈnuːər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "track": {
+      "lemma": "track",
+      "pos": "verb",
+      "ko": "추적하다",
+      "form": null,
+      "synonyms": [
+        "follow",
+        "monitor"
+      ],
+      "ipa": "/træk/"
+    },
+    "objects": {
+      "lemma": "object",
+      "pos": "noun",
+      "ko": "물체",
+      "form": "복수형",
+      "synonyms": [
+        "things",
+        "items"
+      ],
+      "ipa": "/ˈɑːbdʒɛkts/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "accurately": {
+      "lemma": "accurately",
+      "pos": "adverb",
+      "ko": "정확하게",
+      "form": null,
+      "synonyms": [
+        "correctly",
+        "exactly"
+      ],
+      "ipa": "/ˈækjərətli/"
+    },
+    "precisely": {
+      "lemma": "precisely",
+      "pos": "adverb",
+      "ko": "정밀하게",
+      "form": null,
+      "synonyms": [
+        "exactly",
+        "carefully"
+      ],
+      "ipa": "/prɪˈsaɪsli/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    }
+  }
+}
