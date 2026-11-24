@@ -1,0 +1,1083 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-25-L1-2",
+  "date": "2026-11-25",
+  "level": 1,
+  "title": "The Wolf and the Shepherd",
+  "titleKo": "늑대와 양치기",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_02_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_02_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "Kim Braun",
+    "durationSec": 72,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 02번 트랙(전체 152번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 낭독자는 LibriVox 사이트 장애로 LibriVox 목록 미러 검색 결과에서 확인"
+  },
+  "wordCount": 130,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "늑대 한 마리가 오랫동안 양 떼 근처를 어슬렁거렸지만, 양들을 괴롭히려는 기색은 전혀 보이지 않았다. 양치기는 처음에는 늑대를 날카롭게 지켜보았다. 당연히 늑대가 나쁜 짓을 꾸미고 있다고 생각했기 때문이다. 하지만 시간이 흘러도 늑대가 양 떼에 손댈 기미를 보이지 않자, 양치기는 늑대를 적이라기보다 오히려 보호자로 여기기 시작했다. 그래서 어느 날 볼일이 생겨 도시에 가게 되었을 때, 늑대에게 양들을 맡기고 떠나는 것이 조금도 불안하지 않았다. 그러나 양치기가 등을 돌리자마자 늑대는 양들을 덮쳐 대부분을 죽여 버렸다. 돌아온 양치기는 늑대가 저지른 참상을 보고 외쳤다. \"늑대에게 양 떼를 믿고 맡겼으니 이런 일을 당해도 싸지.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Wolf hung about near a flock of sheep for a long time, but made no attempt to molest them.",
+      "ko": "늑대 한 마리가 오랫동안 양 떼 근처를 어슬렁거렸지만, 양들을 괴롭히려는 기색은 전혀 보이지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The Shepherd at first kept a sharp eye on him, for he naturally thought he meant mischief: but as time went by and the Wolf showed no inclination to meddle with the flock, he began to look upon him more as a protector than as an enemy: and when one day some errand took him to the city, he felt no uneasiness at leaving the Wolf with the sheep.",
+      "ko": "양치기는 처음에는 늑대를 날카롭게 지켜보았다. 당연히 늑대가 나쁜 짓을 꾸미고 있다고 생각했기 때문이다. 하지만 시간이 흘러도 늑대가 양 떼에 손댈 기미를 보이지 않자, 양치기는 늑대를 적이라기보다 오히려 보호자로 여기기 시작했다. 그래서 어느 날 볼일이 생겨 도시에 가게 되었을 때, 늑대에게 양들을 맡기고 떠나는 것이 조금도 불안하지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But as soon as his back was turned the Wolf attacked them and killed the greater number.",
+      "ko": "그러나 양치기가 등을 돌리자마자 늑대는 양들을 덮쳐 대부분을 죽여 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "When the Shepherd returned and saw the havoc he had wrought, he cried, \"It serves me right for trusting my flock to a Wolf.\"",
+      "ko": "돌아온 양치기는 늑대가 저지른 참상을 보고 외쳤다. \"늑대에게 양 떼를 믿고 맡겼으니 이런 일을 당해도 싸지.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "flock",
+      "pos": "noun",
+      "meaningKo": "(양·새의) 떼",
+      "ipa": "/flɑːk/",
+      "synonyms": [
+        "herd",
+        "group"
+      ],
+      "matchText": "flock",
+      "sentenceId": "s1",
+      "example": {
+        "en": "A flock of birds flew over the river.",
+        "ko": "새 떼가 강 위로 날아갔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "keep an eye on",
+      "pos": "idiom",
+      "meaningKo": "~을 지켜보다, 감시하다",
+      "ipa": "/kiːp ən aɪ ɑːn/",
+      "synonyms": [
+        "watch",
+        "look after"
+      ],
+      "matchText": "kept a sharp eye on",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Please keep an eye on my bag.",
+        "ko": "내 가방 좀 봐 줘."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "mischief",
+      "pos": "noun",
+      "meaningKo": "나쁜 짓, 해코지",
+      "ipa": "/ˈmɪstʃɪf/",
+      "synonyms": [
+        "harm",
+        "trouble"
+      ],
+      "matchText": "mischief",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The boys were up to mischief again.",
+        "ko": "남자아이들이 또 나쁜 짓을 꾸미고 있었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "as soon as",
+      "pos": "conjunction",
+      "meaningKo": "~하자마자",
+      "ipa": "/æz suːn æz/",
+      "synonyms": [
+        "the moment",
+        "once"
+      ],
+      "matchText": "as soon as",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Call me as soon as you get home.",
+        "ko": "집에 도착하자마자 전화해."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "serve ~ right",
+      "pos": "idiom",
+      "meaningKo": "(~가) 그런 일을 당해도 싸다",
+      "ipa": "/sɝːv raɪt/",
+      "synonyms": [
+        "deserve it"
+      ],
+      "matchText": "serves me right",
+      "sentenceId": "s4",
+      "example": {
+        "en": "He was late again and missed the bus. It serves him right.",
+        "ko": "그는 또 늦어서 버스를 놓쳤다. 그래도 싸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A Wolf",
+          "role": "S",
+          "sub": false,
+          "ko": "늑대 한 마리가"
+        },
+        {
+          "text": "hung about",
+          "role": "V",
+          "sub": false,
+          "ko": "어슬렁거렸다"
+        },
+        {
+          "text": "near a flock of sheep",
+          "role": "M",
+          "sub": false,
+          "ko": "양 떼 근처에서"
+        },
+        {
+          "text": "for a long time,",
+          "role": "M",
+          "sub": false,
+          "ko": "오랫동안"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "made",
+          "role": "V",
+          "sub": false,
+          "ko": "했다"
+        },
+        {
+          "text": "no attempt",
+          "role": "O",
+          "sub": false,
+          "ko": "아무 시도도 (하지 않았다)"
+        },
+        {
+          "text": "to molest them.",
+          "role": "M",
+          "sub": false,
+          "ko": "양들을 괴롭히려는"
+        }
+      ],
+      "skeleton": "A Wolf hung about ~, but made no attempt ~",
+      "explanation": "주어 A Wolf 하나에 동사 두 개(hung about, made)가 but으로 이어져 있어요. made no attempt는 '시도를 전혀 하지 않았다'는 뜻이고, to molest them이 어떤 시도인지 꾸며 줘요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "as soon as",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하자마자"
+        },
+        {
+          "text": "his back",
+          "role": "S",
+          "sub": true,
+          "ko": "그의 등이"
+        },
+        {
+          "text": "was turned",
+          "role": "V",
+          "sub": true,
+          "ko": "돌려지다"
+        },
+        {
+          "text": "the Wolf",
+          "role": "S",
+          "sub": false,
+          "ko": "늑대는"
+        },
+        {
+          "text": "attacked",
+          "role": "V",
+          "sub": false,
+          "ko": "공격했다"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "sub": false,
+          "ko": "양들을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "killed",
+          "role": "V",
+          "sub": false,
+          "ko": "죽였다"
+        },
+        {
+          "text": "the greater number.",
+          "role": "O",
+          "sub": false,
+          "ko": "대부분을"
+        }
+      ],
+      "skeleton": "the Wolf attacked them and killed the greater number",
+      "explanation": "as soon as his back was turned는 '그가 등을 돌리자마자(자리를 비우자마자)'라는 때를 나타내는 부사절이에요. 그 뒤에 진짜 주어 the Wolf와 동사 attacked, killed가 나와요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "When",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~할 때"
+        },
+        {
+          "text": "the Shepherd",
+          "role": "S",
+          "sub": true,
+          "ko": "양치기가"
+        },
+        {
+          "text": "returned",
+          "role": "V",
+          "sub": true,
+          "ko": "돌아왔다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "saw",
+          "role": "V",
+          "sub": true,
+          "ko": "보았다"
+        },
+        {
+          "text": "the havoc",
+          "role": "O",
+          "sub": true,
+          "ko": "참상을"
+        },
+        {
+          "text": "he had wrought,",
+          "role": "M",
+          "sub": true,
+          "ko": "(늑대가) 저지른"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "cried,",
+          "role": "V",
+          "sub": false,
+          "ko": "외쳤다"
+        },
+        {
+          "text": "\"It serves me right for trusting my flock to a Wolf.\"",
+          "role": "O",
+          "sub": false,
+          "ko": "\"늑대에게 양 떼를 맡겼으니 당해도 싸다\""
+        }
+      ],
+      "skeleton": "he cried, \"…\"",
+      "explanation": "When으로 시작하는 부사절 안에 동사 returned와 saw가 있어요. he had wrought는 the havoc을 꾸미는 관계절로, 앞에 which(that)가 생략됐어요. 주절은 he cried이고 따옴표 안의 말이 외친 내용이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "수동태 be + 과거분사",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "was turned"
+      ],
+      "explanation": "his back was turned는 '그의 등이 돌려졌다', 즉 '그가 등을 돌렸다(자리를 비웠다)'는 뜻이에요. 'be동사 + 과거분사'는 주어가 어떤 일을 당하는 수동태예요.",
+      "example": {
+        "en": "The door was opened by the wind.",
+        "ko": "문이 바람에 열렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "비교 more A than B (B라기보다 A)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "more as a protector than as an enemy"
+      ],
+      "explanation": "more A than B는 'B보다 더 A'라는 뜻인데, 여기서는 '적이라기보다는 오히려 보호자로'라는 의미예요.",
+      "example": {
+        "en": "He is more a friend than a teacher to me.",
+        "ko": "그는 내게 선생님이라기보다 친구다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "전치사 + 동명사",
+      "tags": [
+        "동명사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "for trusting"
+      ],
+      "explanation": "전치사 뒤에 동사가 올 때는 -ing 형태(동명사)로 써요. for trusting my flock은 '내 양 떼를 믿고 맡긴 것 때문에'라는 뜻이에요. 앞 문장의 at leaving the Wolf(늑대를 두고 떠나는 것에)도 같은 원리예요.",
+      "example": {
+        "en": "Thank you for helping me.",
+        "ko": "도와줘서 고마워."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "wolf": {
+      "lemma": "wolf",
+      "pos": "noun",
+      "ko": "늑대",
+      "form": null,
+      "ipa": "/wʊlf/"
+    },
+    "hung": {
+      "lemma": "hang",
+      "pos": "verb",
+      "ko": "(hang about) 어슬렁거리다",
+      "form": "과거형",
+      "synonyms": [
+        "linger",
+        "loiter"
+      ],
+      "ipa": "/hʌŋ/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "근처에서, 이리저리; ~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "preposition",
+      "ko": "~ 가까이에",
+      "form": null,
+      "ipa": "/nɪr/"
+    },
+    "flock": {
+      "lemma": "flock",
+      "pos": "noun",
+      "ko": "(양) 떼",
+      "form": null,
+      "synonyms": [
+        "herd"
+      ],
+      "ipa": "/flɑːk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "sheep": {
+      "lemma": "sheep",
+      "pos": "noun",
+      "ko": "양",
+      "form": null,
+      "ipa": "/ʃiːp/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안; ~ 때문에",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "form": null,
+      "synonyms": [
+        "lengthy"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간, 때",
+      "form": null,
+      "ipa": "/taɪm/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "하다, 만들다",
+      "form": "과거형",
+      "ipa": "/meɪd/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "아무 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "attempt": {
+      "lemma": "attempt",
+      "pos": "noun",
+      "ko": "시도",
+      "form": null,
+      "synonyms": [
+        "try",
+        "effort"
+      ],
+      "ipa": "/əˈtɛmpt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하려는 (to부정사), ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "molest": {
+      "lemma": "molest",
+      "pos": "verb",
+      "ko": "괴롭히다, 해치다",
+      "form": null,
+      "synonyms": [
+        "harm",
+        "bother"
+      ],
+      "ipa": "/məˈlɛst/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "shepherd": {
+      "lemma": "shepherd",
+      "pos": "noun",
+      "ko": "양치기",
+      "form": null,
+      "synonyms": [
+        "herder"
+      ],
+      "ipa": "/ˈʃɛpərd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at first: 처음에는)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adverb",
+      "ko": "처음에",
+      "form": null,
+      "synonyms": [
+        "initially"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "유지하다 (keep an eye on: 지켜보다)",
+      "form": "과거형",
+      "ipa": "/kɛpt/"
+    },
+    "sharp": {
+      "lemma": "sharp",
+      "pos": "adjective",
+      "ko": "날카로운, 예리한",
+      "form": null,
+      "synonyms": [
+        "keen",
+        "close"
+      ],
+      "ipa": "/ʃɑːrp/"
+    },
+    "eye": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈, 감시",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에 대해",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "naturally": {
+      "lemma": "naturally",
+      "pos": "adverb",
+      "ko": "당연히",
+      "form": null,
+      "synonyms": [
+        "of course",
+        "obviously"
+      ],
+      "ipa": "/ˈnætʃərəli/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "believe"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "meant": {
+      "lemma": "mean",
+      "pos": "verb",
+      "ko": "꾀하다, 의도하다",
+      "form": "과거형",
+      "synonyms": [
+        "intend",
+        "plan"
+      ],
+      "ipa": "/mɛnt/"
+    },
+    "mischief": {
+      "lemma": "mischief",
+      "pos": "noun",
+      "ko": "나쁜 짓, 해코지",
+      "form": null,
+      "synonyms": [
+        "harm",
+        "trouble"
+      ],
+      "ipa": "/ˈmɪstʃəf/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~함에 따라; ~로서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(시간이) 지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "pass"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "adverb",
+      "ko": "지나서",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "showed": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보이다",
+      "form": "과거형",
+      "synonyms": [
+        "display"
+      ],
+      "ipa": "/ʃoʊd/"
+    },
+    "inclination": {
+      "lemma": "inclination",
+      "pos": "noun",
+      "ko": "~하려는 마음, 기미",
+      "form": null,
+      "synonyms": [
+        "tendency",
+        "wish"
+      ],
+      "ipa": "/ˌɪnkləˈneɪʃən/"
+    },
+    "meddle": {
+      "lemma": "meddle",
+      "pos": "verb",
+      "ko": "참견하다, 손대다",
+      "form": null,
+      "synonyms": [
+        "interfere",
+        "tamper"
+      ],
+      "ipa": "/ˈmɛdəl/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~에",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look upon A as B) A를 B로 여기다",
+      "form": null,
+      "synonyms": [
+        "regard",
+        "view"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~을",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (more A than B: B라기보다 A)",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "protector": {
+      "lemma": "protector",
+      "pos": "noun",
+      "ko": "보호자",
+      "form": null,
+      "synonyms": [
+        "guardian",
+        "defender"
+      ],
+      "ipa": "/prəˈtɛktər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "enemy": {
+      "lemma": "enemy",
+      "pos": "noun",
+      "ko": "적",
+      "form": null,
+      "synonyms": [
+        "foe"
+      ],
+      "ipa": "/ˈɛnəmi/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느 (one day: 어느 날)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "errand": {
+      "lemma": "errand",
+      "pos": "noun",
+      "ko": "볼일, 심부름",
+      "form": null,
+      "synonyms": [
+        "task",
+        "chore"
+      ],
+      "ipa": "/ˈɛrənd/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": "과거형",
+      "synonyms": [
+        "bring"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "city": {
+      "lemma": "city",
+      "pos": "noun",
+      "ko": "도시",
+      "form": null,
+      "synonyms": [
+        "town"
+      ],
+      "ipa": "/ˈsɪti/"
+    },
+    "felt": {
+      "lemma": "feel",
+      "pos": "verb",
+      "ko": "느끼다",
+      "form": "과거형",
+      "ipa": "/fɛlt/"
+    },
+    "uneasiness": {
+      "lemma": "uneasiness",
+      "pos": "noun",
+      "ko": "불안, 걱정",
+      "form": null,
+      "synonyms": [
+        "anxiety",
+        "worry"
+      ],
+      "ipa": "/ˌʌˈniːzinəs/"
+    },
+    "leaving": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "두고 가다, 맡기다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈliːvɪŋ/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧 (as soon as: ~하자마자)",
+      "form": null,
+      "ipa": "/suːn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "noun",
+      "ko": "등",
+      "form": null,
+      "ipa": "/bæk/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "돌리다",
+      "form": "과거분사",
+      "synonyms": [
+        "rotate"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "attacked": {
+      "lemma": "attack",
+      "pos": "verb",
+      "ko": "공격하다",
+      "form": "과거형",
+      "synonyms": [
+        "assault"
+      ],
+      "ipa": "/əˈtækt/"
+    },
+    "killed": {
+      "lemma": "kill",
+      "pos": "verb",
+      "ko": "죽이다",
+      "form": "과거형",
+      "synonyms": [
+        "slay"
+      ],
+      "ipa": "/kɪld/"
+    },
+    "greater": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "더 많은 (the greater number: 대부분)",
+      "form": "비교급",
+      "synonyms": [
+        "larger"
+      ],
+      "ipa": "/ˈɡreɪtər/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "수",
+      "form": null,
+      "ipa": "/ˈnʌmbər/"
+    },
+    "returned": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌아오다",
+      "form": "과거형",
+      "synonyms": [
+        "come back"
+      ],
+      "ipa": "/rɪˈtɜːrnd/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "ipa": "/sɔː/"
+    },
+    "havoc": {
+      "lemma": "havoc",
+      "pos": "noun",
+      "ko": "대참사, 엉망진창",
+      "form": null,
+      "synonyms": [
+        "destruction",
+        "ruin"
+      ],
+      "ipa": "/ˈhævək/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료를 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "wrought": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "(피해를) 가져오다, 저지르다 (옛말)",
+      "form": "과거분사",
+      "synonyms": [
+        "cause"
+      ],
+      "ipa": "/rɔːt/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "exclaim"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (It serves me right: 당해도 싸다)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "serves": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "(serve ~ right) 당해도 싸다",
+      "form": "3인칭 단수",
+      "ipa": "/sɜːrvz/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adverb",
+      "ko": "마땅하게, 당연히",
+      "form": null,
+      "ipa": "/raɪt/"
+    },
+    "trusting": {
+      "lemma": "trust",
+      "pos": "verb",
+      "ko": "믿고 맡기다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "entrust"
+      ],
+      "ipa": "/ˈtrʌstɪŋ/"
+    },
+    "my": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    }
+  }
+}
