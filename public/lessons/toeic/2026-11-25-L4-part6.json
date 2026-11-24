@@ -1,0 +1,1447 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-25-L4-part6",
+  "date": "2026-11-25",
+  "level": 4,
+  "title": "Hotel Restaurant Renovation Notice",
+  "titleKo": "호텔 레스토랑 보수 공사 안내문",
+  "genre": "notice",
+  "tags": [
+    "TOEIC Part 6",
+    "안내문",
+    "식당·호텔"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 150,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "캐러웨이 하버 호텔 투숙객 안내"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "1월 6일부터 2월 14일까지 1층 레스토랑인 솔트마시 그릴이 대대적인 보수 공사로 문을 닫습니다. 이 기간에 아침 식사는 임시로 식사 공간으로 바뀐 2층 랜턴 룸에서 제공됩니다. 룸서비스는 계속 24시간 이용할 수 있지만, 메뉴는 평소보다 다소 제한됩니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "공사는 평일 오전 9시에서 오후 5시 사이에만 진행됩니다. 그렇다 하더라도 1층에 묵는 투숙객은 이 시간대에 다소 소음을 느끼실 수 있습니다. 더 조용한 객실을 원하시는 분은 추가 요금 없이 더 높은 층으로 옮기실 수 있습니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "보수 공사 기간 내내 매일 아침 로비에서 무료 커피를 드실 수 있습니다. 양해해 주셔서 감사드리며, 올봄 새롭게 단장한 솔트마시 그릴에서 여러분을 맞이하기를 고대합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Notice to Guests of the Carraway Harbor Hotel",
+      "ko": "캐러웨이 하버 호텔 투숙객 안내",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From January 6 to February 14, the Saltmarsh Grill, our ground-floor restaurant, will be closed for an extensive renovation.",
+      "ko": "1월 6일부터 2월 14일까지 1층 레스토랑인 솔트마시 그릴이 대대적인 보수 공사로 문을 닫습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "During this period, breakfast will be served in the Lantern Room on the second floor, which has been temporarily converted into a dining area.",
+      "ko": "이 기간에 아침 식사는 임시로 식사 공간으로 바뀐 2층 랜턴 룸에서 제공됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Room service will remain available at all hours, although the menu will be somewhat more limited than usual.",
+      "ko": "룸서비스는 계속 24시간 이용할 수 있지만, 메뉴는 평소보다 다소 제한됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Construction work will take place only on weekdays between nine in the morning and five in the afternoon.",
+      "ko": "공사는 평일 오전 9시에서 오후 5시 사이에만 진행됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Even so, guests staying on the first floor may notice some noise during these hours.",
+      "ko": "그렇다 하더라도 1층에 묵는 투숙객은 이 시간대에 다소 소음을 느끼실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Those who would prefer a quieter room may move to a higher floor at no extra charge.",
+      "ko": "더 조용한 객실을 원하시는 분은 추가 요금 없이 더 높은 층으로 옮기실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Throughout the renovation, complimentary coffee will be available in the lobby each morning.",
+      "ko": "보수 공사 기간 내내 매일 아침 로비에서 무료 커피를 드실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "We appreciate your understanding and look forward to welcoming you to the newly designed Saltmarsh Grill this spring.",
+      "ko": "양해해 주셔서 감사드리며, 올봄 새롭게 단장한 솔트마시 그릴에서 여러분을 맞이하기를 고대합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "extensive",
+      "pos": "adjective",
+      "meaningKo": "대대적인, 광범위한",
+      "ipa": "/ɪkˈstensɪv/",
+      "synonyms": [
+        "large-scale",
+        "thorough"
+      ],
+      "matchText": "extensive",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The museum underwent extensive repairs last year.",
+        "ko": "그 박물관은 작년에 대대적인 수리를 했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "convert into",
+      "pos": "verb",
+      "meaningKo": "~으로 바꾸다, 개조하다",
+      "ipa": "/kənˈvɜːrt ˈɪntuː/",
+      "synonyms": [
+        "transform into",
+        "turn into"
+      ],
+      "matchText": "converted into",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The old factory was converted into apartments.",
+        "ko": "오래된 공장이 아파트로 개조되었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "somewhat",
+      "pos": "adverb",
+      "meaningKo": "다소, 약간",
+      "ipa": "/ˈsʌmwʌt/",
+      "synonyms": [
+        "slightly",
+        "rather"
+      ],
+      "matchText": "somewhat",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Prices are somewhat higher during the holidays.",
+        "ko": "연휴 기간에는 가격이 다소 높다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "at no extra charge",
+      "pos": "phrase",
+      "meaningKo": "추가 요금 없이",
+      "ipa": "/æt noʊ ˈekstrə tʃɑːrdʒ/",
+      "synonyms": [
+        "free of charge",
+        "at no additional cost"
+      ],
+      "matchText": "at no extra charge",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Gift wrapping is provided at no extra charge.",
+        "ko": "선물 포장은 추가 요금 없이 제공된다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "look forward to",
+      "pos": "verb",
+      "meaningKo": "~을 고대하다",
+      "ipa": "/lʊk ˈfɔːrwərd tuː/",
+      "synonyms": [
+        "anticipate",
+        "await"
+      ],
+      "matchText": "look forward to",
+      "sentenceId": "s9",
+      "example": {
+        "en": "We look forward to working with you.",
+        "ko": "함께 일하게 되기를 고대합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "During this period,",
+          "role": "M",
+          "ko": "이 기간에"
+        },
+        {
+          "text": "breakfast",
+          "role": "S",
+          "ko": "아침 식사는"
+        },
+        {
+          "text": "will be served",
+          "role": "V",
+          "ko": "제공될 것이다"
+        },
+        {
+          "text": "in the Lantern Room on the second floor,",
+          "role": "M",
+          "ko": "2층 랜턴 룸에서"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "ko": "그런데 그곳은"
+        },
+        {
+          "text": "has been temporarily converted",
+          "role": "V",
+          "ko": "임시로 바뀌었다",
+          "sub": true
+        },
+        {
+          "text": "into a dining area.",
+          "role": "M",
+          "ko": "식사 공간으로",
+          "sub": true
+        }
+      ],
+      "skeleton": "M, S + V(수동) + M, which + V(현재완료 수동) + M",
+      "explanation": "콤마 뒤의 which는 앞의 the Lantern Room을 받아 설명을 덧붙이는 계속적 용법 관계대명사다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Room service",
+          "role": "S",
+          "ko": "룸서비스는"
+        },
+        {
+          "text": "will remain",
+          "role": "V",
+          "ko": "유지될 것이다"
+        },
+        {
+          "text": "available",
+          "role": "C",
+          "ko": "이용 가능한 상태로"
+        },
+        {
+          "text": "at all hours,",
+          "role": "M",
+          "ko": "24시간"
+        },
+        {
+          "text": "although",
+          "role": "CONJ",
+          "ko": "~이지만"
+        },
+        {
+          "text": "the menu",
+          "role": "S",
+          "ko": "메뉴는",
+          "sub": true
+        },
+        {
+          "text": "will be",
+          "role": "V",
+          "ko": "~일 것이다",
+          "sub": true
+        },
+        {
+          "text": "somewhat more limited than usual.",
+          "role": "C",
+          "ko": "평소보다 다소 더 제한된",
+          "sub": true
+        }
+      ],
+      "skeleton": "S + remain + C + M, although + S + V + C(비교급 than)",
+      "explanation": "remain + 형용사(~인 상태로 남다). although절 안의 보어는 비교급 more limited + than usual."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료 수동태 (has been p.p.)",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "has been temporarily converted"
+      ],
+      "explanation": "이미 바뀌어서 지금 그 상태라는 뜻은 현재완료, 주어가 '바뀌는' 쪽이므로 수동 → has been + p.p. 부사(temporarily)는 been과 p.p. 사이에 온다.",
+      "example": {
+        "en": "The meeting room has been reserved for Friday.",
+        "ko": "회의실은 금요일로 예약되어 있다."
+      },
+      "note": "has been + 부사 + ___ → 과거분사 자리."
+    },
+    {
+      "id": "g2",
+      "title": "비교급 + than",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "more limited than usual"
+      ],
+      "explanation": "than이 보이면 앞에는 비교급(-er 또는 more + 형용사)이 온다. somewhat, much, even, far 등이 비교급을 꾸민다.",
+      "example": {
+        "en": "This year's sales were much higher than expected.",
+        "ko": "올해 매출은 예상보다 훨씬 높았다."
+      },
+      "note": "빈칸 뒤 than → 비교급. somewhat/much/even + 비교급도 확인."
+    },
+    {
+      "id": "g3",
+      "title": "전치사 throughout vs 접속사",
+      "tags": [
+        "전치사",
+        "접속사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "Throughout the renovation"
+      ],
+      "explanation": "throughout(~ 내내)은 전치사라 뒤에 명사(구)가 온다. while, whereas, unless는 접속사라 뒤에 주어 + 동사가 와야 한다.",
+      "example": {
+        "en": "The museum is open throughout the year.",
+        "ko": "그 박물관은 1년 내내 문을 연다."
+      },
+      "note": "빈칸 뒤가 명사구뿐이면 접속사 보기는 지운다."
+    }
+  ],
+  "glossary": {
+    "notice": {
+      "lemma": "notice",
+      "pos": "noun",
+      "ko": "안내문, 공지; (동사) 알아차리다",
+      "form": null,
+      "synonyms": [
+        "announcement",
+        "notification"
+      ],
+      "ipa": "/ˈnoʊtəs/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "guests": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "투숙객, 손님",
+      "form": "복수형",
+      "synonyms": [
+        "visitor",
+        "patron"
+      ],
+      "ipa": "/ɡɛsts/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "carraway": {
+      "lemma": "Carraway",
+      "pos": "proper-noun",
+      "ko": "캐러웨이 (호텔 이름)",
+      "form": null,
+      "ipa": "/ˈkærəˌweɪ/"
+    },
+    "harbor": {
+      "lemma": "Harbor",
+      "pos": "proper-noun",
+      "ko": "하버 (호텔 이름의 일부: 항구)",
+      "form": null,
+      "ipa": "/ˈhɑːrbər/"
+    },
+    "hotel": {
+      "lemma": "hotel",
+      "pos": "noun",
+      "ko": "호텔",
+      "form": null,
+      "synonyms": [
+        "inn",
+        "lodge"
+      ],
+      "ipa": "/hoʊˈtɛl/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "january": {
+      "lemma": "January",
+      "pos": "proper-noun",
+      "ko": "1월",
+      "form": null,
+      "ipa": "/ˈdʒænjuˌɛri/"
+    },
+    "february": {
+      "lemma": "February",
+      "pos": "proper-noun",
+      "ko": "2월",
+      "form": null,
+      "ipa": "/ˈfɛbjəˌwɛri/"
+    },
+    "saltmarsh": {
+      "lemma": "Saltmarsh",
+      "pos": "proper-noun",
+      "ko": "솔트마시 (레스토랑 이름)",
+      "form": null,
+      "ipa": "/ˈsɔːltˌmɑːrʃ/"
+    },
+    "grill": {
+      "lemma": "Grill",
+      "pos": "proper-noun",
+      "ko": "그릴 (레스토랑 이름의 일부: 구이 요리점)",
+      "form": null,
+      "ipa": "/ɡrɪl/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의, 저희",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "ground-floor": {
+      "lemma": "ground-floor",
+      "pos": "adjective",
+      "ko": "1층의",
+      "form": null,
+      "synonyms": [
+        "street-level"
+      ],
+      "ipa": "/ɡraʊnd-flɔːr/"
+    },
+    "restaurant": {
+      "lemma": "restaurant",
+      "pos": "noun",
+      "ko": "식당, 레스토랑",
+      "form": null,
+      "synonyms": [
+        "eatery",
+        "dining room"
+      ],
+      "ipa": "/ˈrɛstəˌrɑːnt/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다; ~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "closed": {
+      "lemma": "close",
+      "pos": "verb",
+      "ko": "문을 닫다",
+      "form": "과거분사",
+      "synonyms": [
+        "shut"
+      ],
+      "ipa": "/kloʊzd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 때문에, ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "extensive": {
+      "lemma": "extensive",
+      "pos": "adjective",
+      "ko": "대대적인, 광범위한",
+      "form": null,
+      "synonyms": [
+        "large-scale",
+        "thorough"
+      ],
+      "ipa": "/ɪkˈstɛnsɪv/"
+    },
+    "renovation": {
+      "lemma": "renovation",
+      "pos": "noun",
+      "ko": "보수, 개조 공사",
+      "form": null,
+      "synonyms": [
+        "remodeling",
+        "refurbishment"
+      ],
+      "ipa": "/ˌrɛnəˈveɪʃən/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "period": {
+      "lemma": "period",
+      "pos": "noun",
+      "ko": "기간",
+      "form": null,
+      "synonyms": [
+        "time",
+        "span"
+      ],
+      "ipa": "/ˈpɪriəd/"
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "pos": "noun",
+      "ko": "아침 식사",
+      "form": null,
+      "synonyms": [
+        "morning meal"
+      ],
+      "ipa": "/ˈbrɛkfəst/"
+    },
+    "served": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "(음식을) 제공하다",
+      "form": "과거분사",
+      "synonyms": [
+        "provide",
+        "offer"
+      ],
+      "ipa": "/sɜːrvd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서; (in the morning) 오전에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "lantern": {
+      "lemma": "Lantern",
+      "pos": "proper-noun",
+      "ko": "랜턴 (연회장 이름의 일부: 등불)",
+      "form": null,
+      "ipa": "/ˈlæntərn/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 객실; (Room) ~룸(장소 이름)",
+      "form": null,
+      "synonyms": [
+        "chamber",
+        "space"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(층·요일) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의 (second floor: 2층)",
+      "form": null,
+      "ipa": "/ˈsɛkənd/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그런데 그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "~했다 (현재완료)",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "temporarily": {
+      "lemma": "temporarily",
+      "pos": "adverb",
+      "ko": "임시로, 일시적으로",
+      "form": null,
+      "synonyms": [
+        "for now",
+        "briefly"
+      ],
+      "ipa": "/ˌtɛmpəˈrɛrəli/"
+    },
+    "converted": {
+      "lemma": "convert",
+      "pos": "verb",
+      "ko": "개조하다, 바꾸다",
+      "form": "과거분사",
+      "synonyms": [
+        "transform",
+        "turn"
+      ],
+      "ipa": "/kənˈvɜːrtɪd/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~으로 (변화)",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "dining": {
+      "lemma": "dining",
+      "pos": "noun",
+      "ko": "식사",
+      "form": null,
+      "synonyms": [
+        "eating"
+      ],
+      "ipa": "/ˈdaɪnɪŋ/"
+    },
+    "area": {
+      "lemma": "area",
+      "pos": "noun",
+      "ko": "공간, 구역",
+      "form": null,
+      "synonyms": [
+        "space",
+        "zone"
+      ],
+      "ipa": "/ˈɛriə/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스 (room service: 룸서비스)",
+      "form": null,
+      "synonyms": [
+        "assistance"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "remain": {
+      "lemma": "remain",
+      "pos": "verb",
+      "ko": "계속 ~이다, 남아 있다",
+      "form": null,
+      "synonyms": [
+        "stay",
+        "continue"
+      ],
+      "ipa": "/rɪˈmeɪn/"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "이용할 수 있는",
+      "form": null,
+      "synonyms": [
+        "accessible",
+        "obtainable"
+      ],
+      "ipa": "/əˈveɪləbəl/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at all hours) 언제나; ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간; (at all hours) 24시간 내내",
+      "form": "복수형",
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/ˈaʊərz/"
+    },
+    "although": {
+      "lemma": "although",
+      "pos": "conjunction",
+      "ko": "~이지만",
+      "form": null,
+      "ipa": "/ˌɔːlˈðoʊ/"
+    },
+    "menu": {
+      "lemma": "menu",
+      "pos": "noun",
+      "ko": "메뉴",
+      "form": null,
+      "synonyms": [
+        "bill of fare"
+      ],
+      "ipa": "/ˈmɛnju/"
+    },
+    "somewhat": {
+      "lemma": "somewhat",
+      "pos": "adverb",
+      "ko": "다소, 약간",
+      "form": null,
+      "synonyms": [
+        "slightly",
+        "rather"
+      ],
+      "ipa": "/ˈsʌmˈwʌt/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 (비교급)",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "limited": {
+      "lemma": "limited",
+      "pos": "adjective",
+      "ko": "제한된",
+      "form": null,
+      "synonyms": [
+        "restricted",
+        "reduced"
+      ],
+      "ipa": "/ˈlɪmətəd/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "usual": {
+      "lemma": "usual",
+      "pos": "adjective",
+      "ko": "평소의 (than usual: 평소보다)",
+      "form": null,
+      "synonyms": [
+        "normal",
+        "typical"
+      ],
+      "ipa": "/ˈjuːʒəwəl/"
+    },
+    "construction": {
+      "lemma": "construction",
+      "pos": "noun",
+      "ko": "공사, 건설",
+      "form": null,
+      "synonyms": [
+        "building work"
+      ],
+      "ipa": "/kənˈstrʌkʃən/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "작업, 일",
+      "form": null,
+      "synonyms": [
+        "labor",
+        "activity"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 진행되다, 열리다",
+      "form": null,
+      "synonyms": [
+        "occur"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place) 개최, 진행",
+      "form": null,
+      "ipa": "/pleɪs/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~에만, 오직",
+      "form": null,
+      "synonyms": [
+        "solely",
+        "just"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "weekdays": {
+      "lemma": "weekday",
+      "pos": "noun",
+      "ko": "평일",
+      "form": "복수형",
+      "synonyms": [
+        "working day"
+      ],
+      "ipa": "/ˈwiːkˌdeɪz/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "(A and B) ~ 사이에",
+      "form": null,
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "nine": {
+      "lemma": "nine",
+      "pos": "number",
+      "ko": "9, 아홉",
+      "form": null,
+      "ipa": "/naɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "synonyms": [
+        "a.m. hours"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "5, 다섯",
+      "form": null,
+      "ipa": "/faɪv/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "(even so) 그렇다 하더라도",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "(even so) 그렇다 해도",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "staying": {
+      "lemma": "stay",
+      "pos": "verb",
+      "ko": "묵다, 머물다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "lodge",
+        "reside"
+      ],
+      "ipa": "/ˈsteɪɪŋ/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의 (first floor: 1층)",
+      "form": null,
+      "ipa": "/fɜːrst/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할 수도 있다; ~해도 된다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "noise": {
+      "lemma": "noise",
+      "pos": "noun",
+      "ko": "소음",
+      "form": null,
+      "synonyms": [
+        "sound",
+        "racket"
+      ],
+      "ipa": "/nɔɪz/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(those who) ~하는 사람들",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "(would prefer) ~을 더 원하다",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "prefer": {
+      "lemma": "prefer",
+      "pos": "verb",
+      "ko": "더 좋아하다, 선호하다",
+      "form": null,
+      "synonyms": [
+        "favor",
+        "choose"
+      ],
+      "ipa": "/prəˈfɜːr/"
+    },
+    "quieter": {
+      "lemma": "quiet",
+      "pos": "adjective",
+      "ko": "조용한",
+      "form": "비교급",
+      "synonyms": [
+        "calmer",
+        "more peaceful"
+      ],
+      "ipa": "/ˈkwaɪətər/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "옮기다, 이동하다",
+      "form": null,
+      "synonyms": [
+        "relocate",
+        "transfer"
+      ],
+      "ipa": "/muːv/"
+    },
+    "higher": {
+      "lemma": "high",
+      "pos": "adjective",
+      "ko": "높은",
+      "form": "비교급",
+      "synonyms": [
+        "upper"
+      ],
+      "ipa": "/ˈhaɪər/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "extra": {
+      "lemma": "extra",
+      "pos": "adjective",
+      "ko": "추가의",
+      "form": null,
+      "synonyms": [
+        "additional",
+        "further"
+      ],
+      "ipa": "/ˈɛkstrə/"
+    },
+    "charge": {
+      "lemma": "charge",
+      "pos": "noun",
+      "ko": "요금",
+      "form": null,
+      "synonyms": [
+        "fee",
+        "cost"
+      ],
+      "ipa": "/tʃɑːrdʒ/"
+    },
+    "throughout": {
+      "lemma": "throughout",
+      "pos": "preposition",
+      "ko": "~ 내내",
+      "form": null,
+      "ipa": "/θruˈaʊt/"
+    },
+    "complimentary": {
+      "lemma": "complimentary",
+      "pos": "adjective",
+      "ko": "무료의",
+      "form": null,
+      "synonyms": [
+        "free",
+        "courtesy"
+      ],
+      "ipa": "/ˌkɑːmpləˈmɛntəri/"
+    },
+    "coffee": {
+      "lemma": "coffee",
+      "pos": "noun",
+      "ko": "커피",
+      "form": null,
+      "ipa": "/ˈkɑːfi/"
+    },
+    "lobby": {
+      "lemma": "lobby",
+      "pos": "noun",
+      "ko": "로비",
+      "form": null,
+      "synonyms": [
+        "foyer",
+        "entrance hall"
+      ],
+      "ipa": "/ˈlɑːbi/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "각각의, 매 ~",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는, 저희는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "appreciate": {
+      "lemma": "appreciate",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "value",
+        "be grateful for"
+      ],
+      "ipa": "/əˈpriːʃiˌeɪt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "여러분의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "understanding": {
+      "lemma": "understanding",
+      "pos": "noun",
+      "ko": "이해, 양해",
+      "form": null,
+      "synonyms": [
+        "patience",
+        "cooperation"
+      ],
+      "ipa": "/ˌʌndərˈstændɪŋ/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look forward to) 고대하다",
+      "form": null,
+      "synonyms": [
+        "anticipate"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "(look forward to) 앞으로",
+      "form": null,
+      "ipa": "/ˈfɔːrwərd/"
+    },
+    "welcoming": {
+      "lemma": "welcome",
+      "pos": "verb",
+      "ko": "맞이하다, 환영하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "greet",
+        "receive"
+      ],
+      "ipa": "/ˈwɛlkəmɪŋ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "newly": {
+      "lemma": "newly",
+      "pos": "adverb",
+      "ko": "새로",
+      "form": null,
+      "synonyms": [
+        "freshly",
+        "recently"
+      ],
+      "ipa": "/ˈnuːli/"
+    },
+    "designed": {
+      "lemma": "design",
+      "pos": "verb",
+      "ko": "디자인하다, 설계하다",
+      "form": "과거분사",
+      "synonyms": [
+        "planned",
+        "styled"
+      ],
+      "ipa": "/dɪˈzaɪnd/"
+    },
+    "spring": {
+      "lemma": "spring",
+      "pos": "noun",
+      "ko": "봄",
+      "form": null,
+      "synonyms": [
+        "springtime"
+      ],
+      "ipa": "/sprɪŋ/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "converted"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "conveyed"
+        },
+        {
+          "key": "B",
+          "text": "convinced"
+        },
+        {
+          "key": "C",
+          "text": "converted"
+        },
+        {
+          "key": "D",
+          "text": "conferred"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "랜턴 룸이 임시로 '식사 공간으로 바뀌었다' → convert A into B(A를 B로 개조하다)의 수동형 has been converted into.",
+      "choiceNotesKo": {
+        "A": "convey(전달하다)는 into와 함께 공간을 바꾸는 뜻이 없다.",
+        "B": "convince(설득하다)는 사람에게 쓴다."
+      },
+      "skill": "혼동 어휘(con- 동사)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "more limited"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "more limited"
+        },
+        {
+          "key": "B",
+          "text": "limitation"
+        },
+        {
+          "key": "C",
+          "text": "most limited"
+        },
+        {
+          "key": "D",
+          "text": "limits"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "빈칸 뒤에 than usual이 있으므로 비교급이 필요하다 → more limited. somewhat은 비교급을 꾸미는 부사.",
+      "choiceNotesKo": {
+        "C": "최상급은 than과 함께 쓰지 않는다.",
+        "B": "명사 limitation은 '메뉴 = 제한'이 되어 어색하고 than과 어울리지 않는다."
+      },
+      "skill": "비교급 + than"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Even so, guests staying on the first floor may notice some noise during these hours."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "The Saltmarsh Grill first opened more than twenty years ago."
+        },
+        {
+          "key": "B",
+          "text": "Dinner reservations can be made online or by phone."
+        },
+        {
+          "key": "C",
+          "text": "The Lantern Room can also be booked for private events."
+        },
+        {
+          "key": "D",
+          "text": "Even so, guests staying on the first floor may notice some noise during these hours."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장은 공사 시간(평일 9시~5시), 뒤 문장은 '더 조용한 객실'로 옮길 수 있다는 내용. 그 사이에는 'these hours(이 시간대)'에 소음이 있을 수 있다는 D가 와야 흐름이 이어진다.",
+      "choiceNotesKo": {
+        "B": "레스토랑이 문을 닫는다고 했으므로 저녁 예약 안내는 맞지 않는다.",
+        "C": "랜턴 룸 대관 이야기는 소음·객실 이동 흐름과 관계없다."
+      },
+      "skill": "문장 넣기(these hours 단서)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "Throughout"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "While"
+        },
+        {
+          "key": "B",
+          "text": "Throughout"
+        },
+        {
+          "key": "C",
+          "text": "Whereas"
+        },
+        {
+          "key": "D",
+          "text": "Unless"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "빈칸 뒤가 the renovation(명사구)뿐이므로 전치사가 필요하다 → Throughout(~ 내내). '공사 기간 내내 무료 커피 제공'.",
+      "choiceNotesKo": {
+        "A": "While은 접속사라 뒤에 주어 + 동사가 와야 한다(While the renovation is underway 등).",
+        "C": "Whereas(반면에)도 접속사."
+      },
+      "skill": "전치사 vs 접속사(기간)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "understanding"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "understand"
+        },
+        {
+          "key": "B",
+          "text": "understandably"
+        },
+        {
+          "key": "C",
+          "text": "understanding"
+        },
+        {
+          "key": "D",
+          "text": "understandable"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "소유격 your 뒤, 동사 appreciate의 목적어 자리 → 명사 understanding(이해, 양해). appreciate your understanding은 안내문 단골 표현.",
+      "choiceNotesKo": {
+        "D": "형용사 understandable 뒤에는 명사가 와야 한다."
+      },
+      "skill": "명사 자리(소유격 뒤)"
+    }
+  ]
+}
