@@ -1,0 +1,1028 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-25-L1",
+  "date": "2026-11-25",
+  "level": 1,
+  "title": "The Old Man and Death",
+  "titleKo": "노인과 죽음의 신",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_11_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_11_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-11-fables-251-275",
+    "reader": "Nikolle Doolin",
+    "durationSec": 80,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 11, 11번 트랙(전체 261번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 낭독자는 LibriVox 사이트 장애로 LibriVox 목록 미러 검색 결과에서 확인"
+  },
+  "wordCount": 114,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "한 노인이 숲에서 땔나무 한 다발을 베어 집으로 지고 가기 시작했다. 갈 길은 멀었고, 노인은 절반을 조금 넘게 가기도 전에 완전히 지쳐 버렸다. 노인은 짐을 땅바닥에 내던지고, 죽음의 신에게 와서 이 고된 삶에서 자기를 풀어 달라고 외쳤다. 그 말이 입에서 나오자마자, 몹시 당황스럽게도 죽음의 신이 그의 앞에 나타나 기꺼이 그의 부탁을 들어주겠다고 말했다. 노인은 너무 놀라 정신이 나갈 뻔했지만, 침착함을 잃지 않고 더듬더듬 말했다. \"나리, 괜찮으시다면 제발 이 짐을 다시 짊어지게 좀 도와주십시오.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "An Old Man cut himself a bundle of faggots in a wood and started to carry them home.",
+      "ko": "한 노인이 숲에서 땔나무 한 다발을 베어 집으로 지고 가기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "He had a long way to go, and was tired out before he had got much more than half-way.",
+      "ko": "갈 길은 멀었고, 노인은 절반을 조금 넘게 가기도 전에 완전히 지쳐 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Casting his burden on the ground, he called upon Death to come and release him from his life of toil.",
+      "ko": "노인은 짐을 땅바닥에 내던지고, 죽음의 신에게 와서 이 고된 삶에서 자기를 풀어 달라고 외쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The words were scarcely out of his mouth when, much to his dismay, Death stood before him and professed his readiness to serve him.",
+      "ko": "그 말이 입에서 나오자마자, 몹시 당황스럽게도 죽음의 신이 그의 앞에 나타나 기꺼이 그의 부탁을 들어주겠다고 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "He was almost frightened out of his wits, but he had enough presence of mind to stammer out, \"Good sir, if you'd be so kind, pray help me up with my burden again.\"",
+      "ko": "노인은 너무 놀라 정신이 나갈 뻔했지만, 침착함을 잃지 않고 더듬더듬 말했다. \"나리, 괜찮으시다면 제발 이 짐을 다시 짊어지게 좀 도와주십시오.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "bundle",
+      "pos": "noun",
+      "meaningKo": "묶음, 다발",
+      "ipa": "/ˈbʌndəl/",
+      "synonyms": [
+        "bunch",
+        "pack"
+      ],
+      "matchText": "bundle",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She carried a bundle of books to school.",
+        "ko": "그녀는 책 한 묶음을 학교로 들고 갔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "burden",
+      "pos": "noun",
+      "meaningKo": "(무거운) 짐",
+      "ipa": "/ˈbɝːdən/",
+      "synonyms": [
+        "load",
+        "weight"
+      ],
+      "matchText": "burden",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The donkey carried a heavy burden.",
+        "ko": "당나귀는 무거운 짐을 날랐다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "release",
+      "pos": "verb",
+      "meaningKo": "풀어 주다, 해방하다",
+      "ipa": "/rɪˈliːs/",
+      "synonyms": [
+        "free",
+        "let go"
+      ],
+      "matchText": "release",
+      "sentenceId": "s3",
+      "example": {
+        "en": "They released the bird from the cage.",
+        "ko": "그들은 새를 새장에서 풀어 주었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "dismay",
+      "pos": "noun",
+      "meaningKo": "당황, 실망",
+      "ipa": "/dɪsˈmeɪ/",
+      "synonyms": [
+        "shock",
+        "alarm"
+      ],
+      "matchText": "dismay",
+      "sentenceId": "s4",
+      "example": {
+        "en": "To my dismay, the shop was closed.",
+        "ko": "당황스럽게도 가게 문이 닫혀 있었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "presence of mind",
+      "pos": "phrase",
+      "meaningKo": "침착함, 재치",
+      "ipa": "/ˈprezəns əv maɪnd/",
+      "synonyms": [
+        "calmness",
+        "quick thinking"
+      ],
+      "matchText": "presence of mind",
+      "sentenceId": "s5",
+      "example": {
+        "en": "He had the presence of mind to call 119.",
+        "ko": "그는 침착하게 119에 전화했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Casting his burden on the ground,",
+          "role": "M",
+          "sub": false,
+          "ko": "짐을 땅에 내던지며"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "called upon",
+          "role": "V",
+          "sub": false,
+          "ko": "불렀다(부탁했다)"
+        },
+        {
+          "text": "Death",
+          "role": "O",
+          "sub": false,
+          "ko": "죽음의 신에게"
+        },
+        {
+          "text": "to come and release him",
+          "role": "OC",
+          "sub": false,
+          "ko": "와서 자기를 풀어 달라고"
+        },
+        {
+          "text": "from his life of toil.",
+          "role": "M",
+          "sub": false,
+          "ko": "고된 삶에서"
+        }
+      ],
+      "skeleton": "he called upon Death to come and release him",
+      "explanation": "맨 앞 Casting ~ ground는 분사구문으로 '짐을 내던지면서'라는 뜻이에요. 진짜 주어와 동사는 he called upon이고, call upon A to ~는 'A에게 ~해 달라고 부탁하다'예요. to come and release him이 Death에게 바라는 내용이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "The words",
+          "role": "S",
+          "sub": false,
+          "ko": "그 말이"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "scarcely",
+          "role": "M",
+          "sub": false,
+          "ko": "거의 ~않게"
+        },
+        {
+          "text": "out of his mouth",
+          "role": "C",
+          "sub": false,
+          "ko": "입 밖으로 나온"
+        },
+        {
+          "text": "when,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때"
+        },
+        {
+          "text": "much to his dismay,",
+          "role": "M",
+          "sub": true,
+          "ko": "몹시 당황스럽게도"
+        },
+        {
+          "text": "Death",
+          "role": "S",
+          "sub": true,
+          "ko": "죽음의 신이"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "sub": true,
+          "ko": "섰다"
+        },
+        {
+          "text": "before him",
+          "role": "M",
+          "sub": true,
+          "ko": "그의 앞에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "professed",
+          "role": "V",
+          "sub": true,
+          "ko": "밝혔다"
+        },
+        {
+          "text": "his readiness to serve him.",
+          "role": "O",
+          "sub": true,
+          "ko": "그를 섬길 준비가 되었다고"
+        }
+      ],
+      "skeleton": "The words were scarcely out ~ when Death stood ~",
+      "explanation": "scarcely A when B는 'A하자마자 B했다'는 표현이에요. 말이 입에서 거의 나오지도 않았는데 죽음의 신이 나타났다는 뜻이죠. when 뒤 절에는 동사 stood와 professed가 and로 이어져 있어요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "분사구문 (~하면서, ~하고)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "Casting his burden on the ground"
+      ],
+      "explanation": "동사에 -ing를 붙여 문장 앞에 두면 '~하면서, ~하고 나서'라는 뜻의 분사구문이 돼요. He cast his burden on the ground, and he called ~ 를 짧게 줄인 것이에요.",
+      "example": {
+        "en": "Opening the door, she saw a cat.",
+        "ko": "문을 열자 그녀는 고양이 한 마리를 보았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "scarcely ~ when … (~하자마자 …했다)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "scarcely",
+        "when"
+      ],
+      "explanation": "scarcely는 '거의 ~않다'라는 뜻인데, scarcely A when B 형태로 쓰면 'A하자마자 B했다'가 돼요. hardly ~ when과 같은 뜻이에요.",
+      "example": {
+        "en": "I had scarcely sat down when the phone rang.",
+        "ko": "내가 앉자마자 전화가 울렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거완료 had + 과거분사",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "had got"
+      ],
+      "explanation": "before he had got ~ half-way에서 had got은 과거보다 더 앞선 일(절반을 가는 것)을 나타내는 과거완료예요. '절반을 가기도 전에 이미 지쳤다'는 순서를 보여 줘요.",
+      "example": {
+        "en": "The train had left before we arrived.",
+        "ko": "우리가 도착하기 전에 기차는 이미 떠났다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은, 나이 든",
+      "form": null,
+      "synonyms": [
+        "elderly",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "cut": {
+      "lemma": "cut",
+      "pos": "verb",
+      "ko": "베다, 자르다",
+      "form": "과거형",
+      "synonyms": [
+        "chop"
+      ],
+      "ipa": "/kʌt/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신 (여기서는 '자기 몫으로')",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "bundle": {
+      "lemma": "bundle",
+      "pos": "noun",
+      "ko": "묶음, 다발",
+      "form": null,
+      "synonyms": [
+        "bunch",
+        "pack"
+      ],
+      "ipa": "/ˈbʌndəl/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "faggots": {
+      "lemma": "faggot",
+      "pos": "noun",
+      "ko": "땔나뭇단, 장작 다발",
+      "form": "복수형",
+      "synonyms": [
+        "firewood",
+        "sticks"
+      ],
+      "ipa": "/ˈfæɡəts/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~(안)에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "wood": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "forest"
+      ],
+      "ipa": "/wʊd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "started": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "begin"
+      ],
+      "ipa": "/ˈstɑːrtɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 (to부정사), ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "carry": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "나르다, 지고 가다",
+      "form": null,
+      "synonyms": [
+        "bear",
+        "take"
+      ],
+      "ipa": "/ˈkæri/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "ipa": "/hoʊm/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다; (과거완료 조동사)",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴, 먼",
+      "form": null,
+      "synonyms": [
+        "far"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길, 거리",
+      "form": null,
+      "synonyms": [
+        "distance"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": null,
+      "synonyms": [
+        "travel"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하게 되다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "tired": {
+      "lemma": "tire",
+      "pos": "verb",
+      "ko": "지치게 하다 (tired out: 녹초가 된)",
+      "form": "과거분사",
+      "synonyms": [
+        "exhausted"
+      ],
+      "ipa": "/ˈtaɪərd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "완전히; 밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에; ~ 앞에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(어느 지점에) 이르다",
+      "form": "과거분사",
+      "synonyms": [
+        "reach"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "훨씬, 많이",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "half-way": {
+      "lemma": "half-way",
+      "pos": "adverb",
+      "ko": "중간까지, 절반쯤",
+      "form": null,
+      "synonyms": [
+        "midway"
+      ],
+      "ipa": "/hæf-weɪ/"
+    },
+    "casting": {
+      "lemma": "cast",
+      "pos": "verb",
+      "ko": "던지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "throw",
+        "fling"
+      ],
+      "ipa": "/ˈkæstɪŋ/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "burden": {
+      "lemma": "burden",
+      "pos": "noun",
+      "ko": "짐",
+      "form": null,
+      "synonyms": [
+        "load",
+        "weight"
+      ],
+      "ipa": "/ˈbɜːrdən/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅, 지면",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "soil"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "부르다 (call upon: ~에게 청하다)",
+      "form": "과거형",
+      "synonyms": [
+        "summon"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에게 (call upon)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "death": {
+      "lemma": "Death",
+      "pos": "proper-noun",
+      "ko": "죽음의 신 (죽음을 사람처럼 표현)",
+      "form": null,
+      "ipa": "/dɛθ/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "release": {
+      "lemma": "release",
+      "pos": "verb",
+      "ko": "풀어 주다",
+      "form": null,
+      "synonyms": [
+        "free"
+      ],
+      "ipa": "/riˈliːs/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "삶, 인생",
+      "form": null,
+      "synonyms": [
+        "existence"
+      ],
+      "ipa": "/laɪf/"
+    },
+    "toil": {
+      "lemma": "toil",
+      "pos": "noun",
+      "ko": "고된 일, 노역",
+      "form": null,
+      "synonyms": [
+        "labor",
+        "hard work"
+      ],
+      "ipa": "/tɔɪl/"
+    },
+    "words": {
+      "lemma": "word",
+      "pos": "noun",
+      "ko": "말, 단어",
+      "form": "복수형",
+      "ipa": "/wɜːrdz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "scarcely": {
+      "lemma": "scarcely",
+      "pos": "adverb",
+      "ko": "거의 ~않다",
+      "form": null,
+      "synonyms": [
+        "hardly",
+        "barely"
+      ],
+      "ipa": "/ˈskɛrsli/"
+    },
+    "mouth": {
+      "lemma": "mouth",
+      "pos": "noun",
+      "ko": "입",
+      "form": null,
+      "ipa": "/maʊθ/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때 (scarcely ~ when: ~하자마자)",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "dismay": {
+      "lemma": "dismay",
+      "pos": "noun",
+      "ko": "당황, 경악",
+      "form": null,
+      "synonyms": [
+        "shock",
+        "alarm"
+      ],
+      "ipa": "/dɪˈsmeɪ/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서다",
+      "form": "과거형",
+      "ipa": "/stʊd/"
+    },
+    "professed": {
+      "lemma": "profess",
+      "pos": "verb",
+      "ko": "공언하다, 밝히다",
+      "form": "과거형",
+      "synonyms": [
+        "declare",
+        "claim"
+      ],
+      "ipa": "/prəˈfɛst/"
+    },
+    "readiness": {
+      "lemma": "readiness",
+      "pos": "noun",
+      "ko": "기꺼이 하려는 마음",
+      "form": null,
+      "synonyms": [
+        "willingness",
+        "eagerness"
+      ],
+      "ipa": "/ˈrɛdinəs/"
+    },
+    "serve": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "섬기다, 도와주다",
+      "form": null,
+      "synonyms": [
+        "help",
+        "assist"
+      ],
+      "ipa": "/sɜːrv/"
+    },
+    "almost": {
+      "lemma": "almost",
+      "pos": "adverb",
+      "ko": "거의",
+      "form": null,
+      "synonyms": [
+        "nearly"
+      ],
+      "ipa": "/ˈɔːlˌmoʊst/"
+    },
+    "frightened": {
+      "lemma": "frighten",
+      "pos": "verb",
+      "ko": "겁먹게 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "scare"
+      ],
+      "ipa": "/ˈfraɪtənd/"
+    },
+    "wits": {
+      "lemma": "wit",
+      "pos": "noun",
+      "ko": "정신, 제정신",
+      "form": "복수형",
+      "synonyms": [
+        "senses",
+        "mind"
+      ],
+      "ipa": "/wɪts/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "enough": {
+      "lemma": "enough",
+      "pos": "determiner",
+      "ko": "충분한",
+      "form": null,
+      "ipa": "/ɪˈnʌf/"
+    },
+    "presence": {
+      "lemma": "presence",
+      "pos": "noun",
+      "ko": "(presence of mind) 침착함",
+      "form": null,
+      "ipa": "/ˈprɛzəns/"
+    },
+    "mind": {
+      "lemma": "mind",
+      "pos": "noun",
+      "ko": "마음, 정신",
+      "form": null,
+      "ipa": "/maɪnd/"
+    },
+    "stammer": {
+      "lemma": "stammer",
+      "pos": "verb",
+      "ko": "말을 더듬다",
+      "form": null,
+      "synonyms": [
+        "stutter"
+      ],
+      "ipa": "/ˈstæmər/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은 (Good sir: 나리, 선생님)",
+      "form": null,
+      "synonyms": [
+        "kind"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "sir": {
+      "lemma": "sir",
+      "pos": "noun",
+      "ko": "나리, 선생님 (존칭)",
+      "form": null,
+      "ipa": "/sɜːr/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "you'd": {
+      "lemma": "you would",
+      "pos": "phrase",
+      "ko": "당신이 ~할 것이다",
+      "form": "줄임말",
+      "ipa": "/juːd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게, 매우",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "kind": {
+      "lemma": "kind",
+      "pos": "adjective",
+      "ko": "친절한",
+      "form": null,
+      "synonyms": [
+        "nice",
+        "generous"
+      ],
+      "ipa": "/kaɪnd/"
+    },
+    "pray": {
+      "lemma": "pray",
+      "pos": "adverb",
+      "ko": "제발, 부디 (옛 공손한 말투)",
+      "form": null,
+      "synonyms": [
+        "please"
+      ],
+      "ipa": "/preɪ/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "my": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    }
+  }
+}
