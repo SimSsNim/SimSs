@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L1",
+  "date": "2026-11-26",
+  "level": 1,
+  "title": "The Man and the Lion",
+  "titleKo": "사람과 사자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'There are two sides to every question.'은 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_05_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_05_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-4-fables-76-100",
+    "reader": "Vicki Barbour",
+    "durationSec": 77,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 04, 05번 트랙(전체 80번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독될 수 있음"
+  },
+  "wordCount": 116,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "사람과 사자가 함께 길을 가고 있었는데, 이야기를 나누다가 둘은 서로 자기 솜씨를 자랑하기 시작했고, 저마다 힘과 용기에서 상대보다 낫다고 주장했다. 둘이 여전히 열을 올리며 말다툼을 하고 있을 때, 사람이 사자의 목을 조르는 조각상이 서 있는 갈림길에 이르렀다. \"저것 봐!\" 사람이 의기양양하게 말했다. \"저걸 보라고! 저게 우리가 너희보다 더 강하다는 증거 아니겠어?\" \"너무 서두르지 마, 친구.\" 사자가 말했다. \"그건 그저 너희 쪽에서 본 생각일 뿐이야. 만약 우리 사자들이 조각상을 만들 수 있다면, 장담하는데 그 대부분에서 너는 사람이 밑에 깔려 있는 모습을 보게 될 거야.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Man and a Lion were companions on a journey, and in the course of conversation they began to boast about their prowess, and each claimed to be superior to the other in strength and courage.",
+      "ko": "사람과 사자가 함께 길을 가고 있었는데, 이야기를 나누다가 둘은 서로 자기 솜씨를 자랑하기 시작했고, 저마다 힘과 용기에서 상대보다 낫다고 주장했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "They were still arguing with some heat when they came to a cross-road where there was a statue of a Man strangling a Lion.",
+      "ko": "둘이 여전히 열을 올리며 말다툼을 하고 있을 때, 사람이 사자의 목을 조르는 조각상이 서 있는 갈림길에 이르렀다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "\"There!\"",
+      "ko": "\"저것 봐!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "said the Man triumphantly, \"look at that!",
+      "ko": "사람이 의기양양하게 말했다. \"저걸 보라고!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Doesn't that prove to you that we are stronger than you?\"",
+      "ko": "저게 우리가 너희보다 더 강하다는 증거 아니겠어?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "\"Not so fast, my friend,\" said the Lion: \"that is only your view of the case.",
+      "ko": "\"너무 서두르지 마, 친구.\" 사자가 말했다. \"그건 그저 너희 쪽에서 본 생각일 뿐이야.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "If we Lions could make statues, you may be sure that in most of them you would see the Man underneath.\"",
+      "ko": "만약 우리 사자들이 조각상을 만들 수 있다면, 장담하는데 그 대부분에서 너는 사람이 밑에 깔려 있는 모습을 보게 될 거야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "companion",
+      "pos": "noun",
+      "meaningKo": "동반자, 길동무",
+      "ipa": "/kəmˈpænjən/",
+      "synonyms": [
+        "partner",
+        "fellow traveler"
+      ],
+      "matchText": "companions",
+      "sentenceId": "s1",
+      "example": {
+        "en": "My dog is my best companion on walks.",
+        "ko": "우리 개는 산책할 때 나의 가장 좋은 길동무다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "boast about",
+      "pos": "phrasal-verb",
+      "meaningKo": "~에 대해 자랑하다",
+      "ipa": "/boʊst əˈbaʊt/",
+      "synonyms": [
+        "brag about",
+        "show off"
+      ],
+      "matchText": "boast about",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He always boasts about his new phone.",
+        "ko": "그는 늘 새 휴대폰을 자랑한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "superior to",
+      "pos": "phrase",
+      "meaningKo": "~보다 나은, 우월한",
+      "ipa": "/suːˈpɪriər tuː/",
+      "synonyms": [
+        "better than"
+      ],
+      "matchText": "superior to",
+      "sentenceId": "s1",
+      "example": {
+        "en": "This bike is superior to my old one.",
+        "ko": "이 자전거가 내 옛날 것보다 낫다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "triumphantly",
+      "pos": "adverb",
+      "meaningKo": "의기양양하게",
+      "ipa": "/traɪˈʌmfəntli/",
+      "synonyms": [
+        "proudly",
+        "victoriously"
+      ],
+      "matchText": "triumphantly",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She raised the trophy triumphantly.",
+        "ko": "그녀는 의기양양하게 트로피를 들어 올렸다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "underneath",
+      "pos": "adverb",
+      "meaningKo": "밑에, 아래에",
+      "ipa": "/ˌʌndərˈniːθ/",
+      "synonyms": [
+        "below",
+        "beneath"
+      ],
+      "matchText": "underneath",
+      "sentenceId": "s7",
+      "example": {
+        "en": "I lifted the rock and found a bug underneath.",
+        "ko": "돌을 들었더니 밑에 벌레가 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "They",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "were still arguing",
+          "role": "V",
+          "sub": false,
+          "ko": "여전히 말다툼하고 있었다"
+        },
+        {
+          "text": "with some heat",
+          "role": "M",
+          "sub": false,
+          "ko": "열을 올리며"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "came",
+          "role": "V",
+          "sub": true,
+          "ko": "왔다"
+        },
+        {
+          "text": "to a cross-road",
+          "role": "M",
+          "sub": true,
+          "ko": "갈림길에"
+        },
+        {
+          "text": "where",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그곳에는"
+        },
+        {
+          "text": "there was",
+          "role": "V",
+          "sub": true,
+          "ko": "있었다"
+        },
+        {
+          "text": "a statue of a Man strangling a Lion.",
+          "role": "S",
+          "sub": true,
+          "ko": "사람이 사자 목을 조르는 조각상이"
+        }
+      ],
+      "skeleton": "They were still arguing",
+      "explanation": "뼈대는 They were still arguing(그들은 여전히 다투고 있었다)이에요. when 뒤는 '그때 ~에 이르렀다'는 때를 나타내는 절이고, where는 앞의 a cross-road를 꾸며 '조각상이 있는 갈림길'이라는 뜻을 만들어요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "If",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "만약"
+        },
+        {
+          "text": "we Lions",
+          "role": "S",
+          "sub": true,
+          "ko": "우리 사자들이"
+        },
+        {
+          "text": "could make",
+          "role": "V",
+          "sub": true,
+          "ko": "만들 수 있다면"
+        },
+        {
+          "text": "statues,",
+          "role": "O",
+          "sub": true,
+          "ko": "조각상을"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "너는"
+        },
+        {
+          "text": "may be",
+          "role": "V",
+          "sub": false,
+          "ko": "~일 것이다"
+        },
+        {
+          "text": "sure",
+          "role": "C",
+          "sub": false,
+          "ko": "확신해도"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "in most of them",
+          "role": "M",
+          "sub": true,
+          "ko": "그것들 대부분에서"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": true,
+          "ko": "너는"
+        },
+        {
+          "text": "would see",
+          "role": "V",
+          "sub": true,
+          "ko": "보게 될 것이다"
+        },
+        {
+          "text": "the Man",
+          "role": "O",
+          "sub": true,
+          "ko": "사람을"
+        },
+        {
+          "text": "underneath.\"",
+          "role": "OC",
+          "sub": true,
+          "ko": "밑에 깔린 채로"
+        }
+      ],
+      "skeleton": "you may be sure that ~",
+      "explanation": "If ~ statues는 '만약 ~할 수 있다면'이라는 조건이에요. 진짜 뼈대는 you may be sure(너는 확신해도 좋다)이고, that 뒤에 확신할 내용(사람이 밑에 깔린 모습을 보게 될 것)이 와요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "비교급 + than (~보다 더 …한)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "stronger than"
+      ],
+      "explanation": "형용사에 -er을 붙이고 than을 쓰면 '~보다 더 …한'이라는 뜻이에요. strong → stronger. 사람은 조각상을 보고 '우리가 너희보다 더 강하다'고 말해요.",
+      "example": {
+        "en": "A lion is stronger than a dog.",
+        "ko": "사자는 개보다 더 강하다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "가정법 과거 (If + 과거, would + 동사원형)",
+      "tags": [
+        "가정법"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "If we Lions could make statues",
+        "would see"
+      ],
+      "explanation": "지금 사실과 반대되는 상상을 할 때 'If + 과거형, ~ would + 동사원형'을 써요. 사자는 실제로 조각상을 만들 수 없으니까 '만약 만들 수 있다면 ~할 텐데'라고 말하는 거예요.",
+      "example": {
+        "en": "If I had wings, I would fly to you.",
+        "ko": "나에게 날개가 있다면 너에게 날아갈 텐데."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "지각동사 + 목적어 + -ing (…가 ~하는 것)",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "a Man strangling a Lion"
+      ],
+      "explanation": "a Man strangling a Lion은 '사자의 목을 조르고 있는 사람'이에요. 명사 뒤에 -ing가 와서 그 명사가 '~하고 있는' 모습을 설명해요.",
+      "example": {
+        "en": "Look at the boy riding a bike.",
+        "ko": "자전거를 타고 있는 저 소년을 봐."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 인간",
+      "form": null,
+      "synonyms": [
+        "human",
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "lion": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": null,
+      "synonyms": [
+        "big cat"
+      ],
+      "ipa": "/ˈlaɪən/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "companions": {
+      "lemma": "companion",
+      "pos": "noun",
+      "ko": "동반자, 길동무",
+      "form": "복수형",
+      "synonyms": [
+        "partner",
+        "fellow traveler"
+      ],
+      "ipa": "/kəmˈpænjənz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~하는 중에, ~에서",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "journey": {
+      "lemma": "journey",
+      "pos": "noun",
+      "ko": "여행, 여정",
+      "form": null,
+      "synonyms": [
+        "trip",
+        "travel"
+      ],
+      "ipa": "/ˈdʒɜːrni/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~하는 중에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "course": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "진행, 과정 (in the course of: ~하는 동안)",
+      "form": null,
+      "synonyms": [
+        "progress",
+        "process"
+      ],
+      "ipa": "/kɔːrs/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "conversation": {
+      "lemma": "conversation",
+      "pos": "noun",
+      "ko": "대화",
+      "form": null,
+      "synonyms": [
+        "talk",
+        "chat"
+      ],
+      "ipa": "/ˌkɑːnvərˈseɪʃən/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것(to부정사), ~에게, ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "boast": {
+      "lemma": "boast",
+      "pos": "verb",
+      "ko": "자랑하다",
+      "form": null,
+      "synonyms": [
+        "brag",
+        "show off"
+      ],
+      "ipa": "/boʊst/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "prowess": {
+      "lemma": "prowess",
+      "pos": "noun",
+      "ko": "솜씨, 기량",
+      "form": null,
+      "synonyms": [
+        "skill",
+        "ability"
+      ],
+      "ipa": "/ˈpraʊəs/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각자",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "claimed": {
+      "lemma": "claim",
+      "pos": "verb",
+      "ko": "주장하다",
+      "form": "과거형",
+      "synonyms": [
+        "insist",
+        "declare"
+      ],
+      "ipa": "/kleɪmd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "동사원형",
+      "ipa": "/biː/"
+    },
+    "superior": {
+      "lemma": "superior",
+      "pos": "adjective",
+      "ko": "우월한, 더 나은",
+      "form": null,
+      "synonyms": [
+        "better",
+        "greater"
+      ],
+      "ipa": "/suˈpɪriər/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 쪽 (the other: 상대)",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "strength": {
+      "lemma": "strength",
+      "pos": "noun",
+      "ko": "힘",
+      "form": null,
+      "synonyms": [
+        "power",
+        "might"
+      ],
+      "ipa": "/strɛŋkθ/"
+    },
+    "courage": {
+      "lemma": "courage",
+      "pos": "noun",
+      "ko": "용기",
+      "form": null,
+      "synonyms": [
+        "bravery"
+      ],
+      "ipa": "/ˈkɜːrədʒ/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "여전히",
+      "form": null,
+      "synonyms": [
+        "yet",
+        "even now"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "arguing": {
+      "lemma": "argue",
+      "pos": "verb",
+      "ko": "말다툼하다, 논쟁하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "quarrel",
+        "dispute"
+      ],
+      "ipa": "/ˈɑːrɡjuɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~하며",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "약간의, 어느 정도의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "heat": {
+      "lemma": "heat",
+      "pos": "noun",
+      "ko": "열기, 흥분",
+      "form": null,
+      "synonyms": [
+        "passion",
+        "anger"
+      ],
+      "ipa": "/hiːt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 이르다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive",
+        "reach"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "cross-road": {
+      "lemma": "cross-road",
+      "pos": "noun",
+      "ko": "갈림길, 교차로",
+      "form": null,
+      "synonyms": [
+        "crossroads",
+        "junction"
+      ],
+      "ipa": "/krɔːs-roʊd/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "(그곳에서) ~하는 곳",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was) ~이 있었다; 저기",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있었다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "statue": {
+      "lemma": "statue",
+      "pos": "noun",
+      "ko": "조각상",
+      "form": null,
+      "synonyms": [
+        "sculpture",
+        "figure"
+      ],
+      "ipa": "/ˈstæˌtʃuː/"
+    },
+    "strangling": {
+      "lemma": "strangle",
+      "pos": "verb",
+      "ko": "목을 조르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "choke",
+        "throttle"
+      ],
+      "ipa": "/ˈstræŋɡəlɪŋ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "speak",
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "triumphantly": {
+      "lemma": "triumphantly",
+      "pos": "adverb",
+      "ko": "의기양양하게",
+      "form": null,
+      "synonyms": [
+        "proudly",
+        "victoriously"
+      ],
+      "ipa": "/traɪˈʌmfəntli/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "see",
+        "watch"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (look at: ~을 보다)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "저것; (접속사) ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "doesn't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않다 (does not)",
+      "form": "줄임말",
+      "ipa": "/ˈdʌzənt/"
+    },
+    "prove": {
+      "lemma": "prove",
+      "pos": "verb",
+      "ko": "증명하다",
+      "form": null,
+      "synonyms": [
+        "show",
+        "demonstrate"
+      ],
+      "ipa": "/pruːv/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형",
+      "ipa": "/ɑːr/"
+    },
+    "stronger": {
+      "lemma": "strong",
+      "pos": "adjective",
+      "ko": "더 강한",
+      "form": "비교급",
+      "synonyms": [
+        "mightier",
+        "more powerful"
+      ],
+      "ipa": "/ˈstrɔːŋər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "fast": {
+      "lemma": "fast",
+      "pos": "adverb",
+      "ko": "빨리 (not so fast: 서두르지 마)",
+      "form": null,
+      "synonyms": [
+        "quickly",
+        "hastily"
+      ],
+      "ipa": "/fæst/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "friend": {
+      "lemma": "friend",
+      "pos": "noun",
+      "ko": "친구",
+      "form": null,
+      "synonyms": [
+        "pal",
+        "companion"
+      ],
+      "ipa": "/frɛnd/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "단지, 오직",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의, 너희의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "view": {
+      "lemma": "view",
+      "pos": "noun",
+      "ko": "견해, 관점",
+      "form": null,
+      "synonyms": [
+        "opinion",
+        "viewpoint"
+      ],
+      "ipa": "/vjuː/"
+    },
+    "case": {
+      "lemma": "case",
+      "pos": "noun",
+      "ko": "문제, 상황",
+      "form": null,
+      "synonyms": [
+        "matter",
+        "situation"
+      ],
+      "ipa": "/keɪs/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "lions": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": "복수형",
+      "synonyms": [
+        "big cats"
+      ],
+      "ipa": "/ˈlaɪənz/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다",
+      "form": null,
+      "synonyms": [
+        "create",
+        "build"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "statues": {
+      "lemma": "statue",
+      "pos": "noun",
+      "ko": "조각상",
+      "form": "복수형",
+      "synonyms": [
+        "sculptures",
+        "figures"
+      ],
+      "ipa": "/ˈstæˌtʃuːz/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 좋다, ~일 것이다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확신하는",
+      "form": null,
+      "synonyms": [
+        "certain",
+        "confident"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "pronoun",
+      "ko": "대부분",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (가정)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "find"
+      ],
+      "ipa": "/siː/"
+    },
+    "underneath": {
+      "lemma": "underneath",
+      "pos": "adverb",
+      "ko": "밑에, 아래에",
+      "form": null,
+      "synonyms": [
+        "below",
+        "beneath"
+      ],
+      "ipa": "/ˌʌndərˈniːθ/"
+    }
+  }
+}

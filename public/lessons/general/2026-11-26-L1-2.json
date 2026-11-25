@@ -1,0 +1,1171 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L1-2",
+  "date": "2026-11-26",
+  "level": 1,
+  "title": "The Mouse and the Bull",
+  "titleKo": "생쥐와 황소",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'The battle is not always to the strong.'은 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_14_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_14_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-6-fables-126-150",
+    "reader": "Christine Dewar",
+    "durationSec": 78,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 06, 14번 트랙(전체 139번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독될 수 있음"
+  },
+  "wordCount": 131,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "황소 한 마리가 자기 코를 문 생쥐를 쫓아갔다. 하지만 생쥐는 황소가 잡기에는 너무 빨라서 담벼락의 구멍 속으로 쏙 들어가 버렸다. 황소는 지칠 때까지 담벼락에 몇 번이고 사납게 들이받았고, 애쓰느라 기진맥진해서 땅바닥에 털썩 주저앉았다. 모든 것이 조용해지자 생쥐가 쪼르르 나와서 황소를 또 물었다. 화가 나서 제정신이 아닌 황소는 벌떡 일어났지만, 그때는 이미 생쥐가 다시 구멍 속으로 돌아가 있었고, 황소는 어쩔 수 없는 분노에 그저 울부짖으며 씩씩거릴 수밖에 없었다. 곧 담벼락 안에서 가늘고 작은 목소리가 들려왔다. \"너희 덩치 큰 녀석들이 언제나 마음대로 되는 건 아니야, 알겠지? 때로는 우리 작은 녀석들이 이기기도 한다고.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Bull gave chase to a Mouse which had bitten him in the nose: but the Mouse was too quick for him and slipped into a hole in a wall.",
+      "ko": "황소 한 마리가 자기 코를 문 생쥐를 쫓아갔다. 하지만 생쥐는 황소가 잡기에는 너무 빨라서 담벼락의 구멍 속으로 쏙 들어가 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The Bull charged furiously into the wall again and again until he was tired out, and sank down on the ground exhausted with his efforts.",
+      "ko": "황소는 지칠 때까지 담벼락에 몇 번이고 사납게 들이받았고, 애쓰느라 기진맥진해서 땅바닥에 털썩 주저앉았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "When all was quiet, the Mouse darted out and bit him again.",
+      "ko": "모든 것이 조용해지자 생쥐가 쪼르르 나와서 황소를 또 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Beside himself with rage he started to his feet, but by that time the Mouse was back in his hole again, and he could do nothing but bellow and fume in helpless anger.",
+      "ko": "화가 나서 제정신이 아닌 황소는 벌떡 일어났지만, 그때는 이미 생쥐가 다시 구멍 속으로 돌아가 있었고, 황소는 어쩔 수 없는 분노에 그저 울부짖으며 씩씩거릴 수밖에 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "Presently he heard a shrill little voice say from inside the wall, \"You big fellows don't always have it your own way, you see: sometimes we little ones come off best.\"",
+      "ko": "곧 담벼락 안에서 가늘고 작은 목소리가 들려왔다. \"너희 덩치 큰 녀석들이 언제나 마음대로 되는 건 아니야, 알겠지? 때로는 우리 작은 녀석들이 이기기도 한다고.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "give chase to",
+      "pos": "phrase",
+      "meaningKo": "~을 뒤쫓다",
+      "ipa": "/ɡɪv tʃeɪs tuː/",
+      "synonyms": [
+        "chase",
+        "run after",
+        "pursue"
+      ],
+      "matchText": "gave chase to",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The dog gave chase to the cat.",
+        "ko": "개가 고양이를 뒤쫓았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "furiously",
+      "pos": "adverb",
+      "meaningKo": "사납게, 맹렬하게",
+      "ipa": "/ˈfjʊriəsli/",
+      "synonyms": [
+        "fiercely",
+        "wildly"
+      ],
+      "matchText": "furiously",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The wind blew furiously all night.",
+        "ko": "밤새 바람이 사납게 불었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "exhausted",
+      "pos": "adjective",
+      "meaningKo": "기진맥진한, 몹시 지친",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "synonyms": [
+        "worn out",
+        "tired out"
+      ],
+      "matchText": "exhausted",
+      "sentenceId": "s2",
+      "example": {
+        "en": "After the race, I was exhausted.",
+        "ko": "경주가 끝난 뒤 나는 기진맥진했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "beside oneself with",
+      "pos": "idiom",
+      "meaningKo": "(감정으로) 제정신이 아닌",
+      "ipa": "/bɪˈsaɪd wʌnˈsɛlf wɪð/",
+      "synonyms": [
+        "mad with",
+        "overcome by"
+      ],
+      "matchText": "Beside himself with",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She was beside herself with joy.",
+        "ko": "그녀는 기뻐서 어쩔 줄 몰랐다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "come off best",
+      "pos": "idiom",
+      "meaningKo": "(겨루기에서) 이기다, 가장 잘되다",
+      "ipa": "/kʌm ɔːf bɛst/",
+      "synonyms": [
+        "win",
+        "come out on top"
+      ],
+      "matchText": "come off best",
+      "sentenceId": "s5",
+      "example": {
+        "en": "In the end, the small team came off best.",
+        "ko": "결국 작은 팀이 이겼다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "The Bull",
+          "role": "S",
+          "sub": false,
+          "ko": "황소는"
+        },
+        {
+          "text": "charged",
+          "role": "V",
+          "sub": false,
+          "ko": "들이받았다"
+        },
+        {
+          "text": "furiously",
+          "role": "M",
+          "sub": false,
+          "ko": "사납게"
+        },
+        {
+          "text": "into the wall",
+          "role": "M",
+          "sub": false,
+          "ko": "담벼락에"
+        },
+        {
+          "text": "again and again",
+          "role": "M",
+          "sub": false,
+          "ko": "몇 번이고"
+        },
+        {
+          "text": "until",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때까지"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "tired out,",
+          "role": "C",
+          "sub": true,
+          "ko": "완전히 지친"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "sank down",
+          "role": "V",
+          "sub": false,
+          "ko": "주저앉았다"
+        },
+        {
+          "text": "on the ground",
+          "role": "M",
+          "sub": false,
+          "ko": "땅바닥에"
+        },
+        {
+          "text": "exhausted with his efforts.",
+          "role": "M",
+          "sub": false,
+          "ko": "애쓰느라 기진맥진해서"
+        }
+      ],
+      "skeleton": "The Bull charged ~ and sank down",
+      "explanation": "주어 The Bull 하나에 동사 charged와 sank down이 and로 이어져 있어요. until ~ tired out은 '지칠 때까지'라는 때의 절이고, 끝의 exhausted with his efforts는 '애쓰느라 녹초가 된 채로'라고 황소의 상태를 덧붙여요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Beside himself with rage",
+          "role": "M",
+          "sub": false,
+          "ko": "화가 나서 제정신이 아닌 채로"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "started to his feet,",
+          "role": "V",
+          "sub": false,
+          "ko": "벌떡 일어났다"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "by that time",
+          "role": "M",
+          "sub": false,
+          "ko": "그때는 이미"
+        },
+        {
+          "text": "the Mouse",
+          "role": "S",
+          "sub": false,
+          "ko": "생쥐가"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "있었다"
+        },
+        {
+          "text": "back in his hole again,",
+          "role": "M",
+          "sub": false,
+          "ko": "다시 구멍 속에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "could do",
+          "role": "V",
+          "sub": false,
+          "ko": "할 수 있었다"
+        },
+        {
+          "text": "nothing but bellow and fume",
+          "role": "O",
+          "sub": false,
+          "ko": "울부짖고 씩씩거리는 것밖에"
+        },
+        {
+          "text": "in helpless anger.",
+          "role": "M",
+          "sub": false,
+          "ko": "어쩔 수 없는 분노 속에서"
+        }
+      ],
+      "skeleton": "he started ~, but the Mouse was ~, and he could do nothing but ~",
+      "explanation": "세 개의 문장이 but, and로 이어진 긴 문장이에요. 맨 앞 Beside himself with rage는 황소의 기분을 설명해요. nothing but + 동사원형은 '~하는 것 말고는 아무것도 못 하다'라는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "too + 형용사 + for (…에게 너무 ~한)",
+      "tags": [
+        "어휘"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "too quick for him"
+      ],
+      "explanation": "too는 '너무'라는 뜻으로, 지나쳐서 뭔가를 할 수 없다는 느낌을 줘요. too quick for him은 '황소가 잡기에는 너무 빠른'이에요.",
+      "example": {
+        "en": "This box is too heavy for me.",
+        "ko": "이 상자는 내가 들기에 너무 무겁다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "지각동사 hear + 목적어 + 동사원형",
+      "tags": [
+        "기타"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "heard a shrill little voice say"
+      ],
+      "explanation": "hear(듣다), see(보다) 같은 지각동사 뒤에는 '목적어 + 동사원형'이 올 수 있어요. heard a voice say는 '목소리가 ~라고 말하는 것을 들었다'예요.",
+      "example": {
+        "en": "I heard someone call my name.",
+        "ko": "나는 누군가 내 이름을 부르는 것을 들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거완료 had + 과거분사 (그 전에 이미 ~했던)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "had bitten"
+      ],
+      "explanation": "이야기 속 과거보다 더 먼저 일어난 일은 had + 과거분사로 써요. 생쥐가 코를 문 일이 황소가 쫓아간 것보다 먼저라서 had bitten이에요.",
+      "example": {
+        "en": "When I arrived, the bus had left.",
+        "ko": "내가 도착했을 때 버스는 이미 떠났었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "bull": {
+      "lemma": "bull",
+      "pos": "noun",
+      "ko": "황소",
+      "form": null,
+      "synonyms": [
+        "ox"
+      ],
+      "ipa": "/bʊl/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다 (give chase to: ~을 뒤쫓다)",
+      "form": "과거형",
+      "synonyms": [
+        "offer",
+        "make"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "chase": {
+      "lemma": "chase",
+      "pos": "noun",
+      "ko": "추격",
+      "form": null,
+      "synonyms": [
+        "pursuit",
+        "hunt"
+      ],
+      "ipa": "/tʃeɪs/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "mouse": {
+      "lemma": "mouse",
+      "pos": "noun",
+      "ko": "생쥐",
+      "form": null,
+      "synonyms": [
+        "rodent"
+      ],
+      "ipa": "/maʊs/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~한 (것)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "bitten": {
+      "lemma": "bite",
+      "pos": "verb",
+      "ko": "물다",
+      "form": "과거분사",
+      "synonyms": [
+        "nip",
+        "snap at"
+      ],
+      "ipa": "/ˈbɪtən/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~속에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "nose": {
+      "lemma": "nose",
+      "pos": "noun",
+      "ko": "코",
+      "form": null,
+      "synonyms": [
+        "snout"
+      ],
+      "ipa": "/noʊz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만; ~ 말고는(nothing but)",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "quick": {
+      "lemma": "quick",
+      "pos": "adjective",
+      "ko": "빠른, 재빠른",
+      "form": null,
+      "synonyms": [
+        "fast",
+        "swift"
+      ],
+      "ipa": "/kwɪk/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에게(는)",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "slipped": {
+      "lemma": "slip",
+      "pos": "verb",
+      "ko": "살짝 들어가다",
+      "form": "과거형",
+      "synonyms": [
+        "slide",
+        "sneak"
+      ],
+      "ipa": "/slɪpt/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "hole": {
+      "lemma": "hole",
+      "pos": "noun",
+      "ko": "구멍",
+      "form": null,
+      "synonyms": [
+        "gap",
+        "opening"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "wall": {
+      "lemma": "wall",
+      "pos": "noun",
+      "ko": "담, 벽",
+      "form": null,
+      "synonyms": [
+        "fence"
+      ],
+      "ipa": "/wɔːl/"
+    },
+    "charged": {
+      "lemma": "charge",
+      "pos": "verb",
+      "ko": "돌진하다, 들이받다",
+      "form": "과거형",
+      "synonyms": [
+        "rush",
+        "attack"
+      ],
+      "ipa": "/tʃɑːrdʒd/"
+    },
+    "furiously": {
+      "lemma": "furiously",
+      "pos": "adverb",
+      "ko": "사납게, 맹렬하게",
+      "form": null,
+      "synonyms": [
+        "fiercely",
+        "wildly"
+      ],
+      "ipa": "/ˈfjʊriəsli/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시, 또",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "tired": {
+      "lemma": "tired",
+      "pos": "adjective",
+      "ko": "지친 (tired out: 녹초가 된)",
+      "form": null,
+      "synonyms": [
+        "weary"
+      ],
+      "ipa": "/ˈtaɪərd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "완전히; 밖으로",
+      "form": null,
+      "synonyms": [
+        "outside"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "sank": {
+      "lemma": "sink",
+      "pos": "verb",
+      "ko": "주저앉다, 가라앉다",
+      "form": "과거형",
+      "synonyms": [
+        "drop",
+        "fall"
+      ],
+      "ipa": "/sæŋk/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "synonyms": [
+        "downward"
+      ],
+      "ipa": "/daʊn/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "ground": {
+      "lemma": "ground",
+      "pos": "noun",
+      "ko": "땅바닥",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "floor"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "exhausted": {
+      "lemma": "exhausted",
+      "pos": "adjective",
+      "ko": "기진맥진한",
+      "form": null,
+      "synonyms": [
+        "worn out",
+        "tired out"
+      ],
+      "ipa": "/ɪɡˈzɔːstɪd/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~ 때문에, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "efforts": {
+      "lemma": "effort",
+      "pos": "noun",
+      "ko": "노력, 애씀",
+      "form": "복수형",
+      "synonyms": [
+        "struggle",
+        "exertion"
+      ],
+      "ipa": "/ˈɛfərts/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "quiet": {
+      "lemma": "quiet",
+      "pos": "adjective",
+      "ko": "조용한",
+      "form": null,
+      "synonyms": [
+        "silent",
+        "still"
+      ],
+      "ipa": "/ˈkwaɪət/"
+    },
+    "darted": {
+      "lemma": "dart",
+      "pos": "verb",
+      "ko": "쏜살같이 움직이다",
+      "form": "과거형",
+      "synonyms": [
+        "dash",
+        "rush"
+      ],
+      "ipa": "/ˈdɑːrtɪd/"
+    },
+    "bit": {
+      "lemma": "bite",
+      "pos": "verb",
+      "ko": "물다",
+      "form": "과거형",
+      "synonyms": [
+        "nip",
+        "snap at"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "beside": {
+      "lemma": "beside",
+      "pos": "preposition",
+      "ko": "~을 벗어나 (beside oneself: 제정신이 아닌)",
+      "form": null,
+      "ipa": "/bɪˈsaɪd/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "rage": {
+      "lemma": "rage",
+      "pos": "noun",
+      "ko": "격노, 분노",
+      "form": null,
+      "synonyms": [
+        "fury",
+        "anger"
+      ],
+      "ipa": "/reɪdʒ/"
+    },
+    "started": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "벌떡 일어나다 (start to one's feet)",
+      "form": "과거형",
+      "synonyms": [
+        "jump",
+        "spring"
+      ],
+      "ipa": "/ˈstɑːrtɪd/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발 (to one's feet: 일어서서)",
+      "form": "복수형",
+      "synonyms": [
+        "legs"
+      ],
+      "ipa": "/fiːt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지는",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간",
+      "form": null,
+      "synonyms": [
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "다시 제자리로",
+      "form": null,
+      "synonyms": [
+        "home"
+      ],
+      "ipa": "/bæk/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "동사원형",
+      "ipa": "/duː/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 않다",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "bellow": {
+      "lemma": "bellow",
+      "pos": "verb",
+      "ko": "(소가) 울부짖다, 고함치다",
+      "form": "동사원형",
+      "synonyms": [
+        "roar",
+        "bawl"
+      ],
+      "ipa": "/ˈbɛloʊ/"
+    },
+    "fume": {
+      "lemma": "fume",
+      "pos": "verb",
+      "ko": "씩씩거리다, 몹시 화내다",
+      "form": "동사원형",
+      "synonyms": [
+        "rage",
+        "seethe"
+      ],
+      "ipa": "/fjuːm/"
+    },
+    "helpless": {
+      "lemma": "helpless",
+      "pos": "adjective",
+      "ko": "어쩔 수 없는, 무력한",
+      "form": null,
+      "synonyms": [
+        "powerless"
+      ],
+      "ipa": "/ˈhɛlpləs/"
+    },
+    "anger": {
+      "lemma": "anger",
+      "pos": "noun",
+      "ko": "분노, 화",
+      "form": null,
+      "synonyms": [
+        "rage",
+        "fury"
+      ],
+      "ipa": "/ˈæŋɡər/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "곧, 이윽고",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "과거형",
+      "synonyms": [
+        "catch",
+        "listen to"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "shrill": {
+      "lemma": "shrill",
+      "pos": "adjective",
+      "ko": "날카로운, 가는",
+      "form": null,
+      "synonyms": [
+        "high-pitched",
+        "piercing"
+      ],
+      "ipa": "/ʃrɪl/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "form": null,
+      "synonyms": [
+        "sound"
+      ],
+      "ipa": "/vɔɪs/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "동사원형",
+      "synonyms": [
+        "speak",
+        "tell"
+      ],
+      "ipa": "/seɪ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "inside": {
+      "lemma": "inside",
+      "pos": "preposition",
+      "ko": "~ 안",
+      "form": null,
+      "ipa": "/ˌɪnˈsaɪd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너희, 너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "big": {
+      "lemma": "big",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "ipa": "/bɪɡ/"
+    },
+    "fellows": {
+      "lemma": "fellow",
+      "pos": "noun",
+      "ko": "녀석, 놈",
+      "form": "복수형",
+      "synonyms": [
+        "guys",
+        "chaps"
+      ],
+      "ipa": "/ˈfɛloʊz/"
+    },
+    "don't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않다",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "always": {
+      "lemma": "always",
+      "pos": "adverb",
+      "ko": "항상, 언제나",
+      "form": null,
+      "synonyms": [
+        "ever",
+        "every time"
+      ],
+      "ipa": "/ˈɔːlˌweɪz/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다 (have it one's own way: 제멋대로 하다)",
+      "form": "동사원형",
+      "ipa": "/hæv/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(관용 표현 속의) 그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너희의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "synonyms": [
+        "personal"
+      ],
+      "ipa": "/oʊn/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방식, 뜻",
+      "form": null,
+      "synonyms": [
+        "manner",
+        "will"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "알다 (you see: 알겠지)",
+      "form": "동사원형",
+      "synonyms": [
+        "understand",
+        "know"
+      ],
+      "ipa": "/siː/"
+    },
+    "sometimes": {
+      "lemma": "sometimes",
+      "pos": "adverb",
+      "ko": "때때로",
+      "form": null,
+      "synonyms": [
+        "at times",
+        "now and then"
+      ],
+      "ipa": "/səmˈtaɪmz/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "ones": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "것, 녀석들",
+      "form": "복수형",
+      "ipa": "/wʌnz/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(결과가) ~되다 (come off best: 이기다)",
+      "form": "동사원형",
+      "synonyms": [
+        "turn out",
+        "end up"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "adverb",
+      "ko": "(come off) 결과가 나다",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/ɔːf/"
+    },
+    "best": {
+      "lemma": "best",
+      "pos": "adverb",
+      "ko": "가장 잘",
+      "form": "최상급",
+      "synonyms": [
+        "most successfully"
+      ],
+      "ipa": "/bɛst/"
+    }
+  }
+}

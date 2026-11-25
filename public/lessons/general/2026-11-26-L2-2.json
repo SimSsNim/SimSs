@@ -1,0 +1,1260 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L2-2",
+  "date": "2026-11-26",
+  "level": 2,
+  "title": "The Ass and His Masters",
+  "titleKo": "당나귀와 주인들",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Servants don't know a good master till they have served a worse.'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_25_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_25_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-8-fables-176-200",
+    "reader": "Marian Brown",
+    "durationSec": 83,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 08, 25번 트랙(전체 200번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독될 수 있음"
+  },
+  "wordCount": 154,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "한 정원사에게 당나귀가 있었는데, 먹이는 부족하고 짐은 무겁고 매질은 끊이지 않아 몹시 고된 나날을 보냈다. 그래서 당나귀는 유피테르 신에게 자기를 정원사에게서 데려가 다른 주인에게 넘겨 달라고 빌었다. 그러자 유피테르는 메르쿠리우스를 정원사에게 보내 당나귀를 옹기장이에게 팔라고 시켰고, 정원사는 그렇게 했다. 하지만 당나귀는 여전히 불만이었다. 전보다 더 힘들게 일해야 했기 때문이다. 그래서 당나귀는 유피테르에게 두 번째로 살려 달라고 빌었고, 유피테르는 아주 친절하게도 당나귀가 무두장이(가죽 만드는 사람)에게 팔리도록 해 주었다. 하지만 새 주인의 직업이 무엇인지 알게 되자 당나귀는 절망하며 울부짖었다. \"아무리 힘들게 일하고 아무리 험하게 대접받았어도, 나는 왜 예전 주인들 중 어느 쪽이든 섬기는 데 만족하지 못했을까? 그들이라면 나를 제대로 묻어 주었을 텐데, 이제 나는 결국 가죽 무두질 통 속으로 들어가게 생겼구나.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Gardener had an Ass which had a very hard time of it, what with scanty food, heavy loads, and constant beating.",
+      "ko": "한 정원사에게 당나귀가 있었는데, 먹이는 부족하고 짐은 무겁고 매질은 끊이지 않아 몹시 고된 나날을 보냈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The Ass therefore begged Jupiter to take him away from the Gardener and hand him over to another master.",
+      "ko": "그래서 당나귀는 유피테르 신에게 자기를 정원사에게서 데려가 다른 주인에게 넘겨 달라고 빌었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "So Jupiter sent Mercury to the Gardener to bid him sell the Ass to a Potter, which he did.",
+      "ko": "그러자 유피테르는 메르쿠리우스를 정원사에게 보내 당나귀를 옹기장이에게 팔라고 시켰고, 정원사는 그렇게 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "But the Ass was as discontented as ever, for he had to work harder than before: so he begged Jupiter for relief a second time, and Jupiter very obligingly arranged that he should be sold to a Tanner.",
+      "ko": "하지만 당나귀는 여전히 불만이었다. 전보다 더 힘들게 일해야 했기 때문이다. 그래서 당나귀는 유피테르에게 두 번째로 살려 달라고 빌었고, 유피테르는 아주 친절하게도 당나귀가 무두장이(가죽 만드는 사람)에게 팔리도록 해 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "But when the Ass saw what his new master's trade was, he cried in despair, \"Why wasn't I content to serve either of my former masters, hard as I had to work and badly as I was treated?",
+      "ko": "하지만 새 주인의 직업이 무엇인지 알게 되자 당나귀는 절망하며 울부짖었다. \"아무리 힘들게 일하고 아무리 험하게 대접받았어도, 나는 왜 예전 주인들 중 어느 쪽이든 섬기는 데 만족하지 못했을까?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "for they would have buried me decently, but now I shall come in the end to the tanning-vat.\"",
+      "ko": "그들이라면 나를 제대로 묻어 주었을 텐데, 이제 나는 결국 가죽 무두질 통 속으로 들어가게 생겼구나.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "scanty",
+      "pos": "adjective",
+      "meaningKo": "부족한, 빈약한",
+      "ipa": "/ˈskænti/",
+      "synonyms": [
+        "meager",
+        "scarce",
+        "insufficient"
+      ],
+      "matchText": "scanty",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The poor family lived on scanty meals.",
+        "ko": "가난한 가족은 빈약한 식사로 살았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "discontented",
+      "pos": "adjective",
+      "meaningKo": "불만스러운",
+      "ipa": "/ˌdɪskənˈtɛntɪd/",
+      "synonyms": [
+        "unhappy",
+        "dissatisfied"
+      ],
+      "matchText": "discontented",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The workers were discontented with their pay.",
+        "ko": "노동자들은 임금에 불만이었다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "obligingly",
+      "pos": "adverb",
+      "meaningKo": "친절하게, 기꺼이 (부탁을 들어주며)",
+      "ipa": "/əˈblaɪdʒɪŋli/",
+      "synonyms": [
+        "kindly",
+        "helpfully"
+      ],
+      "matchText": "obligingly",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The waiter obligingly brought us more bread.",
+        "ko": "웨이터는 친절하게 빵을 더 가져다주었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "in despair",
+      "pos": "phrase",
+      "meaningKo": "절망하여",
+      "ipa": "/ɪn dɪˈspɛr/",
+      "synonyms": [
+        "hopelessly",
+        "in distress"
+      ],
+      "matchText": "in despair",
+      "sentenceId": "s5",
+      "example": {
+        "en": "He threw up his hands in despair.",
+        "ko": "그는 절망하여 두 손을 들었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "former",
+      "pos": "adjective",
+      "meaningKo": "예전의, 이전의",
+      "ipa": "/ˈfɔːrmər/",
+      "synonyms": [
+        "previous",
+        "earlier",
+        "past"
+      ],
+      "matchText": "former",
+      "sentenceId": "s5",
+      "example": {
+        "en": "She met her former teacher on the street.",
+        "ko": "그녀는 길에서 예전 선생님을 만났다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "The Ass",
+          "role": "S",
+          "sub": false,
+          "ko": "당나귀는"
+        },
+        {
+          "text": "therefore",
+          "role": "M",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "begged",
+          "role": "V",
+          "sub": false,
+          "ko": "간청했다"
+        },
+        {
+          "text": "Jupiter",
+          "role": "O",
+          "sub": false,
+          "ko": "유피테르에게"
+        },
+        {
+          "text": "to take him away from the Gardener",
+          "role": "OC",
+          "sub": false,
+          "ko": "정원사에게서 자기를 데려가 달라고"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "hand him over to another master.",
+          "role": "OC",
+          "sub": false,
+          "ko": "다른 주인에게 넘겨 달라고"
+        }
+      ],
+      "skeleton": "The Ass begged Jupiter to take ~ and hand ~",
+      "explanation": "beg A to ~는 'A에게 ~해 달라고 간청하다'예요. to 뒤의 take와 hand가 and로 이어져서 부탁이 두 가지(데려가 달라, 넘겨 달라)라는 걸 보여 줘요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "the Ass",
+          "role": "S",
+          "sub": false,
+          "ko": "당나귀는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "as discontented as ever,",
+          "role": "C",
+          "sub": false,
+          "ko": "여전히 불만인"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "had to work",
+          "role": "V",
+          "sub": false,
+          "ko": "일해야 했다"
+        },
+        {
+          "text": "harder than before:",
+          "role": "M",
+          "sub": false,
+          "ko": "전보다 더 힘들게"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "begged",
+          "role": "V",
+          "sub": false,
+          "ko": "간청했다"
+        },
+        {
+          "text": "Jupiter",
+          "role": "O",
+          "sub": false,
+          "ko": "유피테르에게"
+        },
+        {
+          "text": "for relief",
+          "role": "M",
+          "sub": false,
+          "ko": "살려 달라고"
+        },
+        {
+          "text": "a second time,",
+          "role": "M",
+          "sub": false,
+          "ko": "두 번째로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "Jupiter",
+          "role": "S",
+          "sub": false,
+          "ko": "유피테르는"
+        },
+        {
+          "text": "very obligingly",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 친절하게"
+        },
+        {
+          "text": "arranged",
+          "role": "V",
+          "sub": false,
+          "ko": "주선했다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~하도록"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "should be sold",
+          "role": "V",
+          "sub": true,
+          "ko": "팔리도록"
+        },
+        {
+          "text": "to a Tanner.",
+          "role": "M",
+          "sub": true,
+          "ko": "무두장이에게"
+        }
+      ],
+      "skeleton": "the Ass was as discontented as ever ~ so he begged ~, and Jupiter arranged that ~",
+      "explanation": "긴 문장이지만 for(이유), so(결과), and(이어서)로 나누면 쉬워요. as ~ as ever는 '여전히 ~한', have to는 '~해야 하다'예요. arranged that he should be sold는 '팔리도록 주선했다'예요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "as + 형용사 + as ever (여전히 ~한)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "as discontented as ever"
+      ],
+      "explanation": "as ~ as ever는 '언제나처럼, 여전히 ~한'이라는 뜻이에요. 주인이 바뀌었는데도 당나귀의 불만은 그대로였다는 거예요.",
+      "example": {
+        "en": "Grandma is as kind as ever.",
+        "ko": "할머니는 여전히 다정하시다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "양보의 as (형용사/부사 + as + 주어 + 동사: 아무리 ~해도)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "hard as I had to work",
+        "badly as I was treated"
+      ],
+      "explanation": "형용사나 부사를 앞으로 꺼내고 as를 쓰면 '아무리 ~했지만'이라는 양보의 뜻이 돼요. hard as I had to work = though I had to work hard.",
+      "example": {
+        "en": "Tired as she was, she kept running.",
+        "ko": "그녀는 무척 지쳤지만 계속 달렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "would have + 과거분사 (~했을 텐데)",
+      "tags": [
+        "가정법"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "would have buried"
+      ],
+      "explanation": "would have + 과거분사는 '(그랬다면) ~했을 텐데'라며 실제로 일어나지 않은 일을 상상할 때 써요. 예전 주인들이었다면 당나귀를 제대로 묻어 주었을 거라는 뜻이에요.",
+      "example": {
+        "en": "With a map, we would have found the way.",
+        "ko": "지도가 있었다면 우리는 길을 찾았을 텐데."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "gardener": {
+      "lemma": "gardener",
+      "pos": "noun",
+      "ko": "정원사",
+      "form": null,
+      "synonyms": [
+        "grower",
+        "farmer"
+      ],
+      "ipa": "/ˈɡɑːrdənər/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다; (had to) ~해야 했다; (had a hard time) 고생했다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ass": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": null,
+      "synonyms": [
+        "donkey"
+      ],
+      "ipa": "/æs/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것은, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주, 매우",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adjective",
+      "ko": "힘든, 고된; (부사) 열심히",
+      "form": null,
+      "synonyms": [
+        "tough",
+        "difficult"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간, 시절; 번(a second time)",
+      "form": null,
+      "synonyms": [
+        "period",
+        "occasion"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(관용 표현 속) 그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "(what with) ~ 때문에; 무엇",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "(what with) ~ 등으로 인해",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "scanty": {
+      "lemma": "scanty",
+      "pos": "adjective",
+      "ko": "부족한, 빈약한",
+      "form": null,
+      "synonyms": [
+        "meager",
+        "scarce"
+      ],
+      "ipa": "/ˈskænti/"
+    },
+    "food": {
+      "lemma": "food",
+      "pos": "noun",
+      "ko": "먹이, 음식",
+      "form": null,
+      "synonyms": [
+        "feed",
+        "meals"
+      ],
+      "ipa": "/fuːd/"
+    },
+    "heavy": {
+      "lemma": "heavy",
+      "pos": "adjective",
+      "ko": "무거운",
+      "form": null,
+      "synonyms": [
+        "weighty",
+        "hefty"
+      ],
+      "ipa": "/ˈhɛvi/"
+    },
+    "loads": {
+      "lemma": "load",
+      "pos": "noun",
+      "ko": "짐",
+      "form": "복수형",
+      "synonyms": [
+        "burdens",
+        "cargo"
+      ],
+      "ipa": "/loʊdz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "constant": {
+      "lemma": "constant",
+      "pos": "adjective",
+      "ko": "끊임없는",
+      "form": null,
+      "synonyms": [
+        "continual",
+        "endless"
+      ],
+      "ipa": "/ˈkɑːnstənt/"
+    },
+    "beating": {
+      "lemma": "beating",
+      "pos": "noun",
+      "ko": "매질",
+      "form": null,
+      "synonyms": [
+        "thrashing",
+        "whipping"
+      ],
+      "ipa": "/ˈbiːtɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "therefore": {
+      "lemma": "therefore",
+      "pos": "adverb",
+      "ko": "그래서, 그러므로",
+      "form": null,
+      "synonyms": [
+        "so",
+        "thus"
+      ],
+      "ipa": "/ˈðɛrˌfɔːr/"
+    },
+    "begged": {
+      "lemma": "beg",
+      "pos": "verb",
+      "ko": "간청하다, 빌다",
+      "form": "과거형",
+      "synonyms": [
+        "plead",
+        "implore"
+      ],
+      "ipa": "/bɛɡd/"
+    },
+    "jupiter": {
+      "lemma": "Jupiter",
+      "pos": "proper-noun",
+      "ko": "유피테르 (로마 신화의 최고신, 제우스)",
+      "form": null,
+      "ipa": "/ˈdʒuːpətər/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; ~하는 것(to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": "동사원형",
+      "synonyms": [
+        "carry",
+        "remove"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "멀리, 떠나서",
+      "form": null,
+      "synonyms": [
+        "off"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에게서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "verb",
+      "ko": "넘겨주다 (hand over)",
+      "form": "동사원형",
+      "synonyms": [
+        "pass",
+        "give"
+      ],
+      "ipa": "/hænd/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "adverb",
+      "ko": "(hand over) 넘겨",
+      "form": null,
+      "synonyms": [
+        "across"
+      ],
+      "ipa": "/ˈoʊvər/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "determiner",
+      "ko": "다른 하나의",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "owner",
+        "boss"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "sent": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": "과거형",
+      "synonyms": [
+        "dispatch"
+      ],
+      "ipa": "/sɛnt/"
+    },
+    "mercury": {
+      "lemma": "Mercury",
+      "pos": "proper-noun",
+      "ko": "메르쿠리우스 (로마 신화 신들의 전령, 헤르메스)",
+      "form": null,
+      "ipa": "/ˈmɜːrkjəri/"
+    },
+    "bid": {
+      "lemma": "bid",
+      "pos": "verb",
+      "ko": "명령하다, 시키다",
+      "form": "동사원형",
+      "synonyms": [
+        "order",
+        "tell"
+      ],
+      "ipa": "/bɪd/"
+    },
+    "sell": {
+      "lemma": "sell",
+      "pos": "verb",
+      "ko": "팔다",
+      "form": "동사원형",
+      "synonyms": [
+        "trade"
+      ],
+      "ipa": "/sɛl/"
+    },
+    "potter": {
+      "lemma": "potter",
+      "pos": "noun",
+      "ko": "옹기장이, 도공",
+      "form": null,
+      "synonyms": [
+        "ceramicist"
+      ],
+      "ipa": "/ˈpɑːtər/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다 (which he did: 그는 그렇게 했다)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as ~ as) ~만큼; (접속사) 비록 ~지만",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "discontented": {
+      "lemma": "discontented",
+      "pos": "adjective",
+      "ko": "불만스러운",
+      "form": null,
+      "synonyms": [
+        "unhappy",
+        "dissatisfied"
+      ],
+      "ipa": "/ˌdɪskənˈtɛntɪd/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "언제나, 늘 (as ~ as ever: 여전히)",
+      "form": null,
+      "synonyms": [
+        "always"
+      ],
+      "ipa": "/ˈɛvər/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면; (전치사) ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": "동사원형",
+      "synonyms": [
+        "labor",
+        "toil"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "harder": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "더 힘들게",
+      "form": "비교급",
+      "synonyms": [
+        "more",
+        "more strenuously"
+      ],
+      "ipa": "/ˈhɑːrdər/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "adverb",
+      "ko": "전에",
+      "form": null,
+      "synonyms": [
+        "earlier",
+        "previously"
+      ],
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "relief": {
+      "lemma": "relief",
+      "pos": "noun",
+      "ko": "구제, (고통에서) 벗어남",
+      "form": null,
+      "synonyms": [
+        "help",
+        "rescue"
+      ],
+      "ipa": "/rɪˈliːf/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "form": null,
+      "synonyms": [
+        "another"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "obligingly": {
+      "lemma": "obligingly",
+      "pos": "adverb",
+      "ko": "친절하게, 기꺼이",
+      "form": null,
+      "synonyms": [
+        "kindly",
+        "helpfully"
+      ],
+      "ipa": "/əˈblaɪdʒɪŋli/"
+    },
+    "arranged": {
+      "lemma": "arrange",
+      "pos": "verb",
+      "ko": "주선하다, 마련하다",
+      "form": "과거형",
+      "synonyms": [
+        "organize",
+        "set up"
+      ],
+      "ipa": "/əˈreɪndʒd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~하도록, ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "should": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~하도록 (that절 안)",
+      "form": "과거형",
+      "ipa": "/ʃʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "동사원형",
+      "ipa": "/biː/"
+    },
+    "sold": {
+      "lemma": "sell",
+      "pos": "verb",
+      "ko": "팔다",
+      "form": "과거분사",
+      "synonyms": [
+        "traded"
+      ],
+      "ipa": "/soʊld/"
+    },
+    "tanner": {
+      "lemma": "tanner",
+      "pos": "noun",
+      "ko": "무두장이 (짐승 가죽을 다루는 사람)",
+      "form": null,
+      "synonyms": [
+        "leather maker"
+      ],
+      "ipa": "/ˈtænər/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "알다, 보다",
+      "form": "과거형",
+      "synonyms": [
+        "realize",
+        "notice"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "fresh",
+        "recent"
+      ],
+      "ipa": "/nuː/"
+    },
+    "master's": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인의",
+      "form": "소유격",
+      "synonyms": [
+        "owner's"
+      ],
+      "ipa": "/ˈmæstərz/"
+    },
+    "trade": {
+      "lemma": "trade",
+      "pos": "noun",
+      "ko": "직업, 일",
+      "form": null,
+      "synonyms": [
+        "job",
+        "occupation"
+      ],
+      "ipa": "/treɪd/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다, 울부짖다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "wail"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 속에서; ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "despair": {
+      "lemma": "despair",
+      "pos": "noun",
+      "ko": "절망",
+      "form": null,
+      "synonyms": [
+        "hopelessness",
+        "misery"
+      ],
+      "ipa": "/dɪˈspɛr/"
+    },
+    "why": {
+      "lemma": "why",
+      "pos": "adverb",
+      "ko": "왜",
+      "form": null,
+      "synonyms": [
+        "for what reason"
+      ],
+      "ipa": "/waɪ/"
+    },
+    "wasn't": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 아니었다 (was not)",
+      "form": "줄임말",
+      "ipa": "/ˈwɑːzənt/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "content": {
+      "lemma": "content",
+      "pos": "adjective",
+      "ko": "만족하는",
+      "form": null,
+      "synonyms": [
+        "satisfied",
+        "happy"
+      ],
+      "ipa": "/ˈkɑːntɛnt/"
+    },
+    "serve": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "섬기다, 일하다",
+      "form": "동사원형",
+      "synonyms": [
+        "work for",
+        "obey"
+      ],
+      "ipa": "/sɜːrv/"
+    },
+    "either": {
+      "lemma": "either",
+      "pos": "pronoun",
+      "ko": "(둘 중) 어느 쪽이든",
+      "form": null,
+      "ipa": "/ˈiːðər/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "former": {
+      "lemma": "former",
+      "pos": "adjective",
+      "ko": "예전의, 이전의",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "earlier"
+      ],
+      "ipa": "/ˈfɔːrmər/"
+    },
+    "masters": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": "복수형",
+      "synonyms": [
+        "owners"
+      ],
+      "ipa": "/ˈmæstərz/"
+    },
+    "badly": {
+      "lemma": "badly",
+      "pos": "adverb",
+      "ko": "나쁘게, 험하게",
+      "form": null,
+      "synonyms": [
+        "poorly",
+        "cruelly"
+      ],
+      "ipa": "/ˈbædli/"
+    },
+    "treated": {
+      "lemma": "treat",
+      "pos": "verb",
+      "ko": "대하다, 대우하다",
+      "form": "과거분사",
+      "synonyms": [
+        "handle",
+        "use"
+      ],
+      "ipa": "/ˈtriːtɪd/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~했을 것이다 (가정)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(would have + 과거분사) ~했을 텐데",
+      "form": "동사원형",
+      "ipa": "/hæv/"
+    },
+    "buried": {
+      "lemma": "bury",
+      "pos": "verb",
+      "ko": "묻다",
+      "form": "과거분사",
+      "synonyms": [
+        "inter",
+        "lay to rest"
+      ],
+      "ipa": "/ˈbɛrid/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "decently": {
+      "lemma": "decently",
+      "pos": "adverb",
+      "ko": "제대로, 점잖게",
+      "form": null,
+      "synonyms": [
+        "properly",
+        "respectably"
+      ],
+      "ipa": "/ˈdiːsəntli/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "이제, 지금",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "shall": {
+      "lemma": "shall",
+      "pos": "auxiliary",
+      "ko": "~하게 될 것이다",
+      "form": null,
+      "ipa": "/ʃæl/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 이르다 (come in the end: 결국 ~에 이르다)",
+      "form": "동사원형",
+      "synonyms": [
+        "end up",
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝 (in the end: 결국)",
+      "form": null,
+      "synonyms": [
+        "finish",
+        "close"
+      ],
+      "ipa": "/ɛnd/"
+    },
+    "tanning-vat": {
+      "lemma": "tanning-vat",
+      "pos": "noun",
+      "ko": "무두질 통 (가죽을 담가 처리하는 큰 통)",
+      "form": null,
+      "synonyms": [
+        "tub",
+        "vat"
+      ],
+      "ipa": "/ˈtænɪŋ-væt/"
+    }
+  }
+}
