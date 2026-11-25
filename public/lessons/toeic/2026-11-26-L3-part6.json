@@ -1,0 +1,1693 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-26-L3-part6",
+  "date": "2026-11-26",
+  "level": 3,
+  "title": "Apartment Move-In Letter",
+  "titleKo": "아파트 입주 안내 편지",
+  "genre": "letter",
+  "tags": [
+    "TOEIC Part 6",
+    "편지",
+    "부동산·이사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 168,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "오카포 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "메이플크레스트 아파트와 임대 계약을 맺어 주셔서 감사합니다. 고객님의 세대인 4B호가 1월 9일에 입주 준비가 완료된다는 것을 알려 드리게 되어 기쁩니다. 이삿짐 트럭은 평일 오전 9시부터 오후 5시 사이에만 건물 뒤 하역 구역을 이용할 수 있다는 점에 유의해 주세요. 이 구역은 인근의 여러 업체와 함께 쓰기 때문에 미리 예약해야 합니다. 시간대를 예약하려면 이사 최소 3일 전에 저희 사무실로 전화만 주시면 됩니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "도착하시면 저희 건물 관리인이 로비에서 맞이하고 열쇠 두 벌을 건네 드릴 것입니다. 관리인은 난방 장치를 작동하는 방법과 재활용 수거함 위치도 알려 드릴 것입니다. 지하 주차장 자리를 배정해 드릴 수 있도록 동봉한 주차 신청서도 12월 30일까지 보내 주세요."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "더 도움이 필요하시면 555-0148로 제게 직접 연락해 주세요."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "메이플크레스트 공동체에 오신 것을 환영합니다!"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "진심을 담아,"
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "프리야 난다쿠마르, 임대 담당자"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Okafor,",
+      "ko": "오카포 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for signing a lease with Maplecrest Apartments.",
+      "ko": "메이플크레스트 아파트와 임대 계약을 맺어 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "We are pleased to confirm that your unit, Apartment 4B, will be ready for you on January 9.",
+      "ko": "고객님의 세대인 4B호가 1월 9일에 입주 준비가 완료된다는 것을 알려 드리게 되어 기쁩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Please note that moving trucks may use the loading area behind the building only on weekdays between 9 in the morning and 5 in the afternoon.",
+      "ko": "이삿짐 트럭은 평일 오전 9시부터 오후 5시 사이에만 건물 뒤 하역 구역을 이용할 수 있다는 점에 유의해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Because this area is shared with several nearby businesses, it must be reserved in advance.",
+      "ko": "이 구역은 인근의 여러 업체와 함께 쓰기 때문에 미리 예약해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "To book a time slot, simply call our office at least three days before your move.",
+      "ko": "시간대를 예약하려면 이사 최소 3일 전에 저희 사무실로 전화만 주시면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Upon your arrival, our building manager will meet you in the lobby and hand you two sets of keys.",
+      "ko": "도착하시면 저희 건물 관리인이 로비에서 맞이하고 열쇠 두 벌을 건네 드릴 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "She will also show you how to operate the heating system and where to find the recycling bins.",
+      "ko": "관리인은 난방 장치를 작동하는 방법과 재활용 수거함 위치도 알려 드릴 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "Please also return the enclosed parking form by December 30 so that we can assign you a space in the underground garage.",
+      "ko": "지하 주차장 자리를 배정해 드릴 수 있도록 동봉한 주차 신청서도 12월 30일까지 보내 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "If you need any further assistance, please contact me directly at 555-0148.",
+      "ko": "더 도움이 필요하시면 555-0148로 제게 직접 연락해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Welcome to the Maplecrest community!",
+      "ko": "메이플크레스트 공동체에 오신 것을 환영합니다!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Sincerely,",
+      "ko": "진심을 담아,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Priya Nandakumar, Leasing Coordinator",
+      "ko": "프리야 난다쿠마르, 임대 담당자",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "in advance",
+      "pos": "phrase",
+      "meaningKo": "미리, 사전에",
+      "ipa": "/ɪn ədˈvæns/",
+      "synonyms": [
+        "beforehand",
+        "ahead of time"
+      ],
+      "matchText": "in advance",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Please buy your tickets in advance.",
+        "ko": "표는 미리 구입해 주세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "time slot",
+      "pos": "noun",
+      "meaningKo": "(예약) 시간대",
+      "ipa": "/ˈtaɪm slɑːt/",
+      "synonyms": [
+        "time window",
+        "appointment"
+      ],
+      "matchText": "time slot",
+      "sentenceId": "s6",
+      "example": {
+        "en": "All the morning time slots are already taken.",
+        "ko": "오전 시간대는 이미 모두 찼다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "operate",
+      "pos": "verb",
+      "meaningKo": "(기계를) 작동하다, 조작하다",
+      "ipa": "/ˈɑːpəreɪt/",
+      "synonyms": [
+        "run",
+        "use"
+      ],
+      "matchText": "operate",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Only trained staff may operate this machine.",
+        "ko": "교육받은 직원만 이 기계를 작동할 수 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "enclosed",
+      "pos": "adjective",
+      "meaningKo": "동봉된",
+      "ipa": "/ɪnˈkloʊzd/",
+      "synonyms": [
+        "attached",
+        "included"
+      ],
+      "matchText": "enclosed",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Please sign the enclosed contract.",
+        "ko": "동봉된 계약서에 서명해 주세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "assign",
+      "pos": "verb",
+      "meaningKo": "배정하다, 할당하다",
+      "ipa": "/əˈsaɪn/",
+      "synonyms": [
+        "allocate",
+        "allot"
+      ],
+      "matchText": "assign",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The manager will assign each employee a desk.",
+        "ko": "관리자가 직원마다 책상을 배정할 것이다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Because",
+          "role": "CONJ",
+          "ko": "~ 때문에"
+        },
+        {
+          "text": "this area",
+          "role": "S",
+          "ko": "이 구역은",
+          "sub": true
+        },
+        {
+          "text": "is shared",
+          "role": "V",
+          "ko": "함께 쓰인다",
+          "sub": true
+        },
+        {
+          "text": "with several nearby businesses,",
+          "role": "M",
+          "ko": "근처의 여러 업체와",
+          "sub": true
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "ko": "그곳은"
+        },
+        {
+          "text": "must be reserved",
+          "role": "V",
+          "ko": "예약되어야 한다"
+        },
+        {
+          "text": "in advance.",
+          "role": "M",
+          "ko": "미리"
+        }
+      ],
+      "skeleton": "Because + S + V(수동) ~, S + 조동사 + be p.p.",
+      "explanation": "이유의 부사절과 주절 모두 수동태다. it은 앞의 this area(하역 구역)를 가리킨다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s9",
+      "chunks": [
+        {
+          "text": "Please also return",
+          "role": "V",
+          "ko": "또한 보내 주세요"
+        },
+        {
+          "text": "the enclosed parking form",
+          "role": "O",
+          "ko": "동봉된 주차 신청서를"
+        },
+        {
+          "text": "by December 30",
+          "role": "M",
+          "ko": "12월 30일까지"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "ko": "~하도록"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "저희가",
+          "sub": true
+        },
+        {
+          "text": "can assign",
+          "role": "V",
+          "ko": "배정할 수 있다",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "IO",
+          "ko": "고객님께",
+          "sub": true
+        },
+        {
+          "text": "a space in the underground garage.",
+          "role": "O",
+          "ko": "지하 주차장 자리를",
+          "sub": true
+        }
+      ],
+      "skeleton": "(Please) V + O + M + so that + S + can + V + IO + O",
+      "explanation": "명령문은 동사부터 시작한다. so that + S + can ~은 '~할 수 있도록'이라는 목적의 부사절이며, 그 안에서 assign은 '누구에게 + 무엇을' 두 목적어를 갖는다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "Upon + 명사 (~하자마자, ~할 때)",
+      "tags": [
+        "전치사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "Upon your arrival"
+      ],
+      "explanation": "upon(=on) 뒤에 동작을 나타내는 명사나 동명사가 오면 '~하자마자, ~하면'이라는 뜻이 된다. When you arrive와 같은 의미.",
+      "example": {
+        "en": "Upon receiving your payment, we will ship the item.",
+        "ko": "결제를 받는 즉시 상품을 보내 드리겠습니다."
+      },
+      "note": "Upon arrival / Upon request / Upon completion은 토익 빈출 묶음 표현."
+    },
+    {
+      "id": "g2",
+      "title": "의문사 + to부정사",
+      "tags": [
+        "to부정사",
+        "명사절"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "how to operate",
+        "where to find"
+      ],
+      "explanation": "how to V는 '~하는 방법', where to V는 '어디서 ~할지'라는 뜻으로 명사처럼 show의 목적어가 된다.",
+      "example": {
+        "en": "The guide explains where to park.",
+        "ko": "안내서는 어디에 주차할지 설명한다."
+      },
+      "note": "show/explain/know 뒤 빈칸에 how to, where to 같은 묶음이 자주 나온다."
+    },
+    {
+      "id": "g3",
+      "title": "so that + S + can (목적)",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "so that we can assign"
+      ],
+      "explanation": "so that은 '~하도록, ~할 수 있게'라는 목적의 부사절을 이끈다. 뒤에 주어 + can/will + 동사원형이 자주 온다.",
+      "example": {
+        "en": "Please arrive early so that we can start on time.",
+        "ko": "제시간에 시작할 수 있도록 일찍 와 주세요."
+      },
+      "note": "so that 뒤에는 완전한 절, in order to 뒤에는 동사원형."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리 인사)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "synonyms": [
+        "sir"
+      ],
+      "ipa": "/ˈmɪstər/"
+    },
+    "okafor": {
+      "lemma": "Okafor",
+      "pos": "proper-noun",
+      "ko": "오카포 (사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "signing": {
+      "lemma": "sign",
+      "pos": "verb",
+      "ko": "서명하다, (계약을) 맺다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "entering into",
+        "concluding"
+      ],
+      "ipa": "/ˈsaɪnɪŋ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lease": {
+      "lemma": "lease",
+      "pos": "noun",
+      "ko": "임대 계약",
+      "form": null,
+      "synonyms": [
+        "rental agreement",
+        "tenancy"
+      ],
+      "ipa": "/liːs/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 (함께)",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "maplecrest": {
+      "lemma": "Maplecrest",
+      "pos": "proper-noun",
+      "ko": "메이플크레스트 (아파트 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "apartments": {
+      "lemma": "apartment",
+      "pos": "noun",
+      "ko": "아파트",
+      "form": "복수형",
+      "synonyms": [
+        "flat",
+        "unit"
+      ],
+      "ipa": "/əˈpɑːrtmənts/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
+    },
+    "pleased": {
+      "lemma": "pleased",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "form": null,
+      "synonyms": [
+        "glad",
+        "happy"
+      ],
+      "ipa": "/pliːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하게 되어 (to부정사); ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "confirm": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인하다, 확정하다",
+      "form": null,
+      "synonyms": [
+        "verify",
+        "ensure"
+      ],
+      "ipa": "/kənˈfɜːrm/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "unit": {
+      "lemma": "unit",
+      "pos": "noun",
+      "ko": "(아파트의) 세대, 호",
+      "form": null,
+      "synonyms": [
+        "apartment",
+        "residence"
+      ],
+      "ipa": "/ˈjuːnət/"
+    },
+    "apartment": {
+      "lemma": "apartment",
+      "pos": "noun",
+      "ko": "아파트 (한 세대)",
+      "form": null,
+      "synonyms": [
+        "flat",
+        "unit"
+      ],
+      "ipa": "/əˈpɑːrtmənt/"
+    },
+    "4b": {
+      "lemma": "4B",
+      "pos": "proper-noun",
+      "ko": "4B (호수)",
+      "form": null,
+      "ipa": null
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "ready": {
+      "lemma": "ready",
+      "pos": "adjective",
+      "ko": "준비된",
+      "form": null,
+      "synonyms": [
+        "prepared",
+        "set"
+      ],
+      "ipa": "/ˈrɛdi/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (날짜·요일)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "january": {
+      "lemma": "January",
+      "pos": "proper-noun",
+      "ko": "1월",
+      "form": null,
+      "ipa": "/ˈdʒænjuˌɛri/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요 (공손한 요청)",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "note": {
+      "lemma": "note",
+      "pos": "verb",
+      "ko": "유의하다, 알아 두다",
+      "form": null,
+      "synonyms": [
+        "notice",
+        "bear in mind"
+      ],
+      "ipa": "/noʊt/"
+    },
+    "moving": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "이사하다 (moving truck: 이삿짐 트럭)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "relocating"
+      ],
+      "ipa": "/ˈmuːvɪŋ/"
+    },
+    "trucks": {
+      "lemma": "truck",
+      "pos": "noun",
+      "ko": "트럭",
+      "form": "복수형",
+      "synonyms": [
+        "vehicles",
+        "lorries"
+      ],
+      "ipa": "/trʌks/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "use": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": null,
+      "synonyms": [
+        "utilize",
+        "employ",
+        "apply"
+      ],
+      "ipa": "/juːs/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "loading": {
+      "lemma": "loading",
+      "pos": "noun",
+      "ko": "짐 싣기·내리기 (loading area: 하역 구역)",
+      "form": null,
+      "synonyms": [
+        "unloading",
+        "freight handling"
+      ],
+      "ipa": "/ˈloʊdɪŋ/"
+    },
+    "area": {
+      "lemma": "area",
+      "pos": "noun",
+      "ko": "구역, 공간",
+      "form": null,
+      "synonyms": [
+        "zone",
+        "space"
+      ],
+      "ipa": "/ˈɛriə/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물",
+      "form": null,
+      "synonyms": [
+        "structure",
+        "facility",
+        "premises"
+      ],
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "~에만, 오직",
+      "form": null,
+      "synonyms": [
+        "solely",
+        "just"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "weekdays": {
+      "lemma": "weekday",
+      "pos": "noun",
+      "ko": "평일",
+      "form": "복수형",
+      "synonyms": [
+        "working day"
+      ],
+      "ipa": "/ˈwiːkˌdeɪz/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에 (in the morning: 오전에, in advance: 미리)",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "synonyms": [
+        "forenoon"
+      ],
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "synonyms": [
+        "p.m."
+      ],
+      "ipa": "/ˌæftərˈnuːn/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "shared": {
+      "lemma": "share",
+      "pos": "verb",
+      "ko": "함께 쓰다, 공유하다",
+      "form": "과거분사",
+      "synonyms": [
+        "used jointly"
+      ],
+      "ipa": "/ʃɛrd/"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "몇몇의, 여러",
+      "form": null,
+      "ipa": "/ˈsɛvrəl/"
+    },
+    "nearby": {
+      "lemma": "nearby",
+      "pos": "adjective",
+      "ko": "근처의",
+      "form": null,
+      "synonyms": [
+        "neighboring",
+        "local"
+      ],
+      "ipa": "/ˈnɪrˈbaɪ/"
+    },
+    "businesses": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "업체, 회사",
+      "form": "복수형",
+      "synonyms": [
+        "company",
+        "firm"
+      ],
+      "ipa": "/ˈbɪznəsəz/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "reserved": {
+      "lemma": "reserve",
+      "pos": "verb",
+      "ko": "예약하다",
+      "form": "과거분사",
+      "synonyms": [
+        "book",
+        "hold"
+      ],
+      "ipa": "/rɪˈzɜːrvd/"
+    },
+    "advance": {
+      "lemma": "advance",
+      "pos": "noun",
+      "ko": "(in advance) 미리, 사전에",
+      "form": null,
+      "synonyms": [
+        "beforehand"
+      ],
+      "ipa": "/ədˈvæns/"
+    },
+    "book": {
+      "lemma": "book",
+      "pos": "verb",
+      "ko": "예약하다",
+      "form": null,
+      "synonyms": [
+        "reserve",
+        "schedule"
+      ],
+      "ipa": "/bʊk/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간 (time slot: 시간대)",
+      "form": null,
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "slot": {
+      "lemma": "slot",
+      "pos": "noun",
+      "ko": "(정해진) 자리, 시간대",
+      "form": null,
+      "synonyms": [
+        "opening",
+        "window"
+      ],
+      "ipa": "/slɑːt/"
+    },
+    "simply": {
+      "lemma": "simply",
+      "pos": "adverb",
+      "ko": "그냥, 간단히",
+      "form": null,
+      "synonyms": [
+        "just",
+        "only"
+      ],
+      "ipa": "/ˈsɪmpli/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다",
+      "form": null,
+      "synonyms": [
+        "phone",
+        "ring"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "synonyms": [
+        "workplace",
+        "bureau",
+        "branch"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~로 (전화번호), at least: 적어도",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "least": {
+      "lemma": "least",
+      "pos": "adverb",
+      "ko": "(at least) 적어도, 최소한",
+      "form": null,
+      "synonyms": [
+        "minimum"
+      ],
+      "ipa": "/liːst/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "3, 셋",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "move": {
+      "lemma": "move",
+      "pos": "noun",
+      "ko": "이사",
+      "form": null,
+      "synonyms": [
+        "relocation"
+      ],
+      "ipa": "/muːv/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~하자마자, ~할 때 (= on)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "arrival": {
+      "lemma": "arrival",
+      "pos": "noun",
+      "ko": "도착",
+      "form": null,
+      "synonyms": [
+        "coming",
+        "entrance"
+      ],
+      "ipa": "/əˈraɪvəl/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "meet": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "맞이하다, 만나다",
+      "form": null,
+      "synonyms": [
+        "greet",
+        "receive"
+      ],
+      "ipa": "/miːt/"
+    },
+    "lobby": {
+      "lemma": "lobby",
+      "pos": "noun",
+      "ko": "로비",
+      "form": null,
+      "synonyms": [
+        "foyer",
+        "entrance hall"
+      ],
+      "ipa": "/ˈlɑːbi/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "verb",
+      "ko": "건네주다",
+      "form": null,
+      "synonyms": [
+        "give",
+        "pass"
+      ],
+      "ipa": "/hænd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "2, 둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "sets": {
+      "lemma": "set",
+      "pos": "noun",
+      "ko": "벌, 세트",
+      "form": "복수형",
+      "synonyms": [
+        "pair",
+        "bundle"
+      ],
+      "ipa": "/sɛts/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "keys": {
+      "lemma": "key",
+      "pos": "noun",
+      "ko": "열쇠",
+      "form": "복수형",
+      "synonyms": [
+        "latchkeys"
+      ],
+      "ipa": "/kiːz/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "show": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "알려 주다, 보여 주다",
+      "form": null,
+      "synonyms": [
+        "explain",
+        "demonstrate"
+      ],
+      "ipa": "/ʃoʊ/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "operate": {
+      "lemma": "operate",
+      "pos": "verb",
+      "ko": "조작하다, 작동시키다",
+      "form": null,
+      "synonyms": [
+        "use",
+        "run"
+      ],
+      "ipa": "/ˈɑːpəˌreɪt/"
+    },
+    "heating": {
+      "lemma": "heating",
+      "pos": "noun",
+      "ko": "난방",
+      "form": null,
+      "synonyms": [
+        "warming"
+      ],
+      "ipa": "/ˈhiːtɪŋ/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "장치, 시스템",
+      "form": null,
+      "synonyms": [
+        "equipment",
+        "unit"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "어디에서 (where to: 어디서 ~할지)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "find": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "찾다",
+      "form": null,
+      "synonyms": [
+        "locate"
+      ],
+      "ipa": "/faɪnd/"
+    },
+    "recycling": {
+      "lemma": "recycling",
+      "pos": "noun",
+      "ko": "재활용",
+      "form": null,
+      "synonyms": [
+        "reuse"
+      ],
+      "ipa": "/riˈsaɪkəlɪŋ/"
+    },
+    "bins": {
+      "lemma": "bin",
+      "pos": "noun",
+      "ko": "수거함, 통",
+      "form": "복수형",
+      "synonyms": [
+        "container",
+        "receptacle"
+      ],
+      "ipa": "/bɪnz/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "(서류를) 보내다, 제출하다",
+      "form": null,
+      "synonyms": [
+        "send back",
+        "submit"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "enclosed": {
+      "lemma": "enclose",
+      "pos": "verb",
+      "ko": "동봉하다 (enclosed: 동봉된)",
+      "form": "과거분사",
+      "synonyms": [
+        "included",
+        "attached"
+      ],
+      "ipa": "/ɛnˈkloʊzd/"
+    },
+    "parking": {
+      "lemma": "parking",
+      "pos": "noun",
+      "ko": "주차",
+      "form": null,
+      "synonyms": [
+        "car parking"
+      ],
+      "ipa": "/ˈpɑːrkɪŋ/"
+    },
+    "form": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": null,
+      "synonyms": [
+        "document",
+        "application"
+      ],
+      "ipa": "/fɔːrm/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~까지 (기한)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "december": {
+      "lemma": "December",
+      "pos": "proper-noun",
+      "ko": "12월",
+      "form": null,
+      "ipa": "/dɪˈsɛmbər/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "(so that) ~하도록",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "assign": {
+      "lemma": "assign",
+      "pos": "verb",
+      "ko": "배정하다, 할당하다",
+      "form": null,
+      "synonyms": [
+        "allocate",
+        "allot"
+      ],
+      "ipa": "/əˈsaɪn/"
+    },
+    "space": {
+      "lemma": "space",
+      "pos": "noun",
+      "ko": "(주차) 자리, 공간",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "place"
+      ],
+      "ipa": "/speɪs/"
+    },
+    "underground": {
+      "lemma": "underground",
+      "pos": "adjective",
+      "ko": "지하의",
+      "form": null,
+      "synonyms": [
+        "subterranean",
+        "basement"
+      ],
+      "ipa": "/ˈʌndərˌɡraʊnd/"
+    },
+    "garage": {
+      "lemma": "garage",
+      "pos": "noun",
+      "ko": "차고, 주차장",
+      "form": null,
+      "synonyms": [
+        "parking structure",
+        "car park"
+      ],
+      "ipa": "/ɡəˈrɑːʒ/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "필요로 하다",
+      "form": null,
+      "synonyms": [
+        "require"
+      ],
+      "ipa": "/niːd/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "further": {
+      "lemma": "further",
+      "pos": "adjective",
+      "ko": "추가의",
+      "form": null,
+      "synonyms": [
+        "additional",
+        "more"
+      ],
+      "ipa": "/ˈfɜːrðər/"
+    },
+    "assistance": {
+      "lemma": "assistance",
+      "pos": "noun",
+      "ko": "도움, 지원",
+      "form": null,
+      "synonyms": [
+        "help",
+        "support"
+      ],
+      "ipa": "/əˈsɪstəns/"
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "directly": {
+      "lemma": "directly",
+      "pos": "adverb",
+      "ko": "직접",
+      "form": null,
+      "synonyms": [
+        "personally"
+      ],
+      "ipa": "/dəˈrɛktli/"
+    },
+    "555-0148": {
+      "lemma": "555-0148",
+      "pos": "number",
+      "ko": "555-0148 (전화번호)",
+      "form": null,
+      "ipa": null
+    },
+    "welcome": {
+      "lemma": "welcome",
+      "pos": "interjection",
+      "ko": "환영합니다",
+      "form": null,
+      "ipa": "/ˈwɛlkəm/"
+    },
+    "community": {
+      "lemma": "community",
+      "pos": "noun",
+      "ko": "공동체, 커뮤니티",
+      "form": null,
+      "synonyms": [
+        "network",
+        "group"
+      ],
+      "ipa": "/kəˈmjuːnəti/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)",
+      "form": null,
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "priya": {
+      "lemma": "Priya",
+      "pos": "proper-noun",
+      "ko": "프리야 (사람 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "nandakumar": {
+      "lemma": "Nandakumar",
+      "pos": "proper-noun",
+      "ko": "난다쿠마르 (사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "leasing": {
+      "lemma": "leasing",
+      "pos": "noun",
+      "ko": "임대 (업무)",
+      "form": null,
+      "synonyms": [
+        "renting",
+        "rentals"
+      ],
+      "ipa": "/ˈliːsɪŋ/"
+    },
+    "coordinator": {
+      "lemma": "coordinator",
+      "pos": "noun",
+      "ko": "진행 담당자, 코디네이터",
+      "form": null,
+      "synonyms": [
+        "organizer",
+        "manager",
+        "planner"
+      ],
+      "ipa": "/koʊˈɔːrdəˌneɪtər/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "confirm"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "remind"
+        },
+        {
+          "key": "B",
+          "text": "insist"
+        },
+        {
+          "key": "C",
+          "text": "confirm"
+        },
+        {
+          "key": "D",
+          "text": "assure"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "입주 날짜가 정해졌음을 알려 주는 문장이므로 '확정해 알려 드리다'라는 뜻의 confirm이 맞다. be pleased to confirm that ~는 편지에 자주 나오는 표현.",
+      "choiceNotesKo": {
+        "A": "remind는 remind you that처럼 사람 목적어가 먼저 와야 한다.",
+        "D": "assure도 assure you that처럼 사람 목적어가 필요하다.",
+        "B": "insist(우기다)는 기쁜 소식을 전하는 문맥에 어울리지 않는다."
+      },
+      "skill": "어휘(confirm that절)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "Because this area is shared with several nearby businesses, it must be reserved in advance."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Because this area is shared with several nearby businesses, it must be reserved in advance."
+        },
+        {
+          "key": "B",
+          "text": "The building was completed in 2019 and contains forty units."
+        },
+        {
+          "key": "C",
+          "text": "Monthly rent is due on the first day of each month."
+        },
+        {
+          "key": "D",
+          "text": "Residents are welcome to use the rooftop garden throughout the year."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "바로 뒤 문장이 '시간대를 예약하려면(To book a time slot) 전화하라'이므로, 그 앞에는 하역 구역을 '미리 예약해야 한다(must be reserved)'는 내용이 와야 흐름이 이어진다.",
+      "choiceNotesKo": {
+        "C": "월세 납부일은 이사 트럭·예약 안내 흐름과 관계없다.",
+        "D": "옥상 정원 이야기는 하역 구역 예약 안내 사이에 끼어들 이유가 없다."
+      },
+      "skill": "문장 넣기(book a time slot 단서)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "Upon"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Unless"
+        },
+        {
+          "key": "B",
+          "text": "Until"
+        },
+        {
+          "key": "C",
+          "text": "Except"
+        },
+        {
+          "key": "D",
+          "text": "Upon"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "빈칸 뒤가 명사구(your arrival)이므로 전치사 자리. '도착하자마자, 도착하면'이라는 뜻의 Upon이 문맥에 맞다.",
+      "choiceNotesKo": {
+        "A": "Unless는 접속사라 뒤에 주어 + 동사가 와야 한다.",
+        "B": "Until(~까지 계속)은 '도착할 때까지 로비에서 맞이한다'가 되어 어색하다.",
+        "C": "Except(~을 제외하고)는 의미가 통하지 않는다."
+      },
+      "skill": "전치사(Upon + 명사)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "enclosed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "enclose"
+        },
+        {
+          "key": "B",
+          "text": "enclosed"
+        },
+        {
+          "key": "C",
+          "text": "enclosing"
+        },
+        {
+          "key": "D",
+          "text": "enclosure"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "관사 the와 명사 parking form 사이는 명사를 꾸미는 자리. 신청서는 편지에 '동봉된' 것이므로 과거분사 enclosed가 맞다.",
+      "choiceNotesKo": {
+        "C": "enclosing은 신청서가 무언가를 '동봉하는' 능동의 뜻이 된다.",
+        "D": "enclosure parking form은 자연스러운 표현이 아니다."
+      },
+      "skill": "과거분사 형용사(명사 앞)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "assistance"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "assist"
+        },
+        {
+          "key": "B",
+          "text": "assisted"
+        },
+        {
+          "key": "C",
+          "text": "assistance"
+        },
+        {
+          "key": "D",
+          "text": "assistive"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "need의 목적어 자리이고 any further(추가의)의 꾸밈을 받으므로 명사 assistance(도움)가 와야 한다.",
+      "choiceNotesKo": {
+        "D": "assistive는 형용사라 뒤에 꾸밀 명사가 필요하다.",
+        "A": "동사원형 assist는 any further 뒤 목적어가 될 수 없다."
+      },
+      "skill": "명사 자리(타동사 목적어)"
+    }
+  ]
+}
