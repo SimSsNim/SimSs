@@ -1,0 +1,1342 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L2-3",
+  "date": "2026-11-26",
+  "level": 2,
+  "title": "The Foxes and the River",
+  "titleKo": "여우들과 강",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_13_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_13_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-11-fables-251-275",
+    "reader": "Nikolle Doolin",
+    "durationSec": 62,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 11, 13번 트랙(전체 263번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 150,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "여우 여러 마리가 강둑에 모여 물을 마시고 싶어 했다. 그러나 물살이 너무 세고 물이 아주 깊고 위험해 보여서 감히 마시지 못하고, 물가 가까이에 서서 서로 겁내지 말라고 격려만 하고 있었다. 마침내 그중 한 마리가 나머지를 부끄럽게 만들고 자기가 얼마나 용감한지 보여 주려고 말했다. \"난 조금도 무섭지 않아! 봐, 물속으로 곧장 들어갈 테니!\" 그가 그렇게 하자마자 물살이 그를 휩쓸어 버렸다. 다른 여우들은 그가 하류로 떠내려가는 것을 보고 외쳤다. \"가지 마, 우리를 두고 가지 마! 돌아와서 우리도 안전하게 물을 마실 수 있는 곳을 알려 줘.\" 하지만 그가 대답했다. \"미안하지만 아직은 안 되겠어. 나는 바닷가에 가고 싶은데, 이 물살이 나를 거기까지 멋지게 데려다줄 거거든. 돌아오면 기꺼이 알려 줄게.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A number of Foxes assembled on the bank of a river and wanted to drink; but the current was so strong and the water looked so deep and dangerous that they didn't dare to do so, but stood near the edge encouraging one another not to be afraid.",
+      "ko": "여우 여러 마리가 강둑에 모여 물을 마시고 싶어 했다. 그러나 물살이 너무 세고 물이 아주 깊고 위험해 보여서 감히 마시지 못하고, 물가 가까이에 서서 서로 겁내지 말라고 격려만 하고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "At last one of them, to shame the rest, and show how brave he was, said, \"I am not a bit frightened!",
+      "ko": "마침내 그중 한 마리가 나머지를 부끄럽게 만들고 자기가 얼마나 용감한지 보여 주려고 말했다. \"난 조금도 무섭지 않아!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "See, I'll step right into the water!\"",
+      "ko": "봐, 물속으로 곧장 들어갈 테니!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "He had no sooner done so than the current swept him off his feet.",
+      "ko": "그가 그렇게 하자마자 물살이 그를 휩쓸어 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "When the others saw him being carried down-stream they cried, \"Don't go and leave us!",
+      "ko": "다른 여우들은 그가 하류로 떠내려가는 것을 보고 외쳤다. \"가지 마, 우리를 두고 가지 마!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Come back and show us where we too can drink with safety.\"",
+      "ko": "돌아와서 우리도 안전하게 물을 마실 수 있는 곳을 알려 줘.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "But he replied, \"I'm afraid I can't yet: I want to go to the seaside, and this current will take me there nicely.",
+      "ko": "하지만 그가 대답했다. \"미안하지만 아직은 안 되겠어. 나는 바닷가에 가고 싶은데, 이 물살이 나를 거기까지 멋지게 데려다줄 거거든.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "When I come back I'll show you with pleasure.\"",
+      "ko": "돌아오면 기꺼이 알려 줄게.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "assemble",
+      "pos": "verb",
+      "meaningKo": "모이다",
+      "ipa": "/əˈsɛmbəl/",
+      "synonyms": [
+        "gather",
+        "meet",
+        "come together"
+      ],
+      "matchText": "assembled",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The students assembled in the hall.",
+        "ko": "학생들이 강당에 모였다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "dare",
+      "pos": "verb",
+      "meaningKo": "감히 ~하다",
+      "ipa": "/dɛr/",
+      "synonyms": [
+        "venture",
+        "have the courage"
+      ],
+      "matchText": "dare",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He didn't dare to look down.",
+        "ko": "그는 감히 아래를 내려다보지 못했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "encourage",
+      "pos": "verb",
+      "meaningKo": "격려하다, 용기를 북돋우다",
+      "ipa": "/ɪnˈkɜːrɪdʒ/",
+      "synonyms": [
+        "cheer on",
+        "support",
+        "inspire"
+      ],
+      "matchText": "encouraging",
+      "sentenceId": "s1",
+      "example": {
+        "en": "My parents always encourage me.",
+        "ko": "부모님은 언제나 나를 격려해 주신다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "sweep ~ off one's feet",
+      "pos": "idiom",
+      "meaningKo": "~을 넘어뜨려 휩쓸어 가다",
+      "ipa": "/swiːp ɔːf fiːt/",
+      "synonyms": [
+        "knock over",
+        "carry away"
+      ],
+      "matchText": "swept him off his feet",
+      "sentenceId": "s4",
+      "example": {
+        "en": "A big wave swept the boy off his feet.",
+        "ko": "큰 파도가 소년을 넘어뜨려 휩쓸었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "with pleasure",
+      "pos": "phrase",
+      "meaningKo": "기꺼이",
+      "ipa": "/wɪð ˈplɛʒər/",
+      "synonyms": [
+        "gladly",
+        "happily"
+      ],
+      "matchText": "with pleasure",
+      "sentenceId": "s8",
+      "example": {
+        "en": "\"Can you help me?\" \"With pleasure!\"",
+        "ko": "\"도와줄 수 있어?\" \"기꺼이!\""
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A number of Foxes",
+          "role": "S",
+          "sub": false,
+          "ko": "여러 마리 여우가"
+        },
+        {
+          "text": "assembled",
+          "role": "V",
+          "sub": false,
+          "ko": "모였다"
+        },
+        {
+          "text": "on the bank of a river",
+          "role": "M",
+          "sub": false,
+          "ko": "강둑에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "wanted",
+          "role": "V",
+          "sub": false,
+          "ko": "원했다"
+        },
+        {
+          "text": "to drink;",
+          "role": "O",
+          "sub": false,
+          "ko": "물 마시기를"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "the current",
+          "role": "S",
+          "sub": false,
+          "ko": "물살이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "so strong",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 센"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the water",
+          "role": "S",
+          "sub": false,
+          "ko": "물이"
+        },
+        {
+          "text": "looked",
+          "role": "V",
+          "sub": false,
+          "ko": "보였다"
+        },
+        {
+          "text": "so deep and dangerous",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 깊고 위험하게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들은"
+        },
+        {
+          "text": "didn't dare",
+          "role": "V",
+          "sub": true,
+          "ko": "감히 ~하지 못했다"
+        },
+        {
+          "text": "to do so,",
+          "role": "O",
+          "sub": true,
+          "ko": "그렇게 하기를"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "대신"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "sub": true,
+          "ko": "서 있었다"
+        },
+        {
+          "text": "near the edge",
+          "role": "M",
+          "sub": true,
+          "ko": "물가 가까이에"
+        },
+        {
+          "text": "encouraging one another",
+          "role": "M",
+          "sub": true,
+          "ko": "서로 격려하며"
+        },
+        {
+          "text": "not to be afraid.",
+          "role": "OC",
+          "sub": true,
+          "ko": "겁내지 말라고"
+        }
+      ],
+      "skeleton": "Foxes assembled and wanted to drink; but the current was so strong ~ that they didn't dare ~",
+      "explanation": "세미콜론(;) 앞은 '여우들이 모여서 마시고 싶어 했다', 뒤는 so ~ that 구문으로 '물살이 너무 세고 물이 깊어 보여서 감히 못 마셨다'예요. encouraging one another not to be afraid는 '서로 겁내지 말라고 격려하면서'예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "He",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": false,
+          "ko": "~했다"
+        },
+        {
+          "text": "no sooner",
+          "role": "M",
+          "sub": false,
+          "ko": "~하자마자"
+        },
+        {
+          "text": "done so",
+          "role": "V",
+          "sub": false,
+          "ko": "그렇게 하다"
+        },
+        {
+          "text": "than",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~하자"
+        },
+        {
+          "text": "the current",
+          "role": "S",
+          "sub": true,
+          "ko": "물살이"
+        },
+        {
+          "text": "swept",
+          "role": "V",
+          "sub": true,
+          "ko": "휩쓸었다"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그를"
+        },
+        {
+          "text": "off his feet.",
+          "role": "M",
+          "sub": true,
+          "ko": "발이 땅에서 떨어지게"
+        }
+      ],
+      "skeleton": "He had no sooner done so than the current swept him",
+      "explanation": "no sooner A than B는 'A하자마자 B했다'예요. 먼저 일어난 일(물에 들어감)은 had done(과거완료)으로, 바로 뒤에 일어난 일(휩쓸림)은 swept(과거)로 썼어요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "no sooner ~ than … (~하자마자 …했다)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "no sooner",
+        "than"
+      ],
+      "explanation": "no sooner + had + 과거분사 + than + 과거형은 'A하자마자 B했다'라는 뜻이에요. 앞의 일이 끝나자마자 바로 뒤의 일이 일어났다는 느낌이에요.",
+      "example": {
+        "en": "I had no sooner left home than it began to rain.",
+        "ko": "내가 집을 나서자마자 비가 오기 시작했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "지각동사 + 목적어 + being + 과거분사 (…가 ~되고 있는 것)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "saw him being carried"
+      ],
+      "explanation": "see A being + 과거분사는 'A가 ~되고 있는 것을 보다'예요. 여우가 스스로 가는 게 아니라 물살에 '실려 가고 있는' 모습이라서 being carried라고 썼어요.",
+      "example": {
+        "en": "We saw the car being towed away.",
+        "ko": "우리는 차가 견인되어 가는 것을 보았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "to부정사의 부정 not to (~하지 말라고)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "not to be afraid"
+      ],
+      "explanation": "to부정사를 부정할 때는 to 바로 앞에 not을 붙여요. encourage A not to ~는 'A에게 ~하지 말라고 격려하다'예요.",
+      "example": {
+        "en": "Mom told me not to be late.",
+        "ko": "엄마는 나에게 늦지 말라고 하셨다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사); (a number of) 여러",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "수 (a number of: 여러, 많은)",
+      "form": null,
+      "synonyms": [
+        "lot",
+        "group"
+      ],
+      "ipa": "/ˈnʌmbər/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~ 중",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "foxes": {
+      "lemma": "fox",
+      "pos": "noun",
+      "ko": "여우",
+      "form": "복수형",
+      "synonyms": [
+        "vixens"
+      ],
+      "ipa": "/ˈfɑːksəz/"
+    },
+    "assembled": {
+      "lemma": "assemble",
+      "pos": "verb",
+      "ko": "모이다",
+      "form": "과거형",
+      "synonyms": [
+        "gather",
+        "meet"
+      ],
+      "ipa": "/əˈsɛmbəld/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "bank": {
+      "lemma": "bank",
+      "pos": "noun",
+      "ko": "둑, 강기슭",
+      "form": null,
+      "synonyms": [
+        "shore",
+        "riverside"
+      ],
+      "ipa": "/bæŋk/"
+    },
+    "river": {
+      "lemma": "river",
+      "pos": "noun",
+      "ko": "강",
+      "form": null,
+      "synonyms": [
+        "stream"
+      ],
+      "ipa": "/ˈrɪvər/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "wanted": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": "과거형",
+      "synonyms": [
+        "wish",
+        "desire"
+      ],
+      "ipa": "/ˈwɔːntɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하는 것(to부정사); ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "drink": {
+      "lemma": "drink",
+      "pos": "verb",
+      "ko": "마시다",
+      "form": "동사원형",
+      "synonyms": [
+        "sip",
+        "gulp"
+      ],
+      "ipa": "/drɪŋk/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만; 대신",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "current": {
+      "lemma": "current",
+      "pos": "noun",
+      "ko": "물살, 흐름",
+      "form": null,
+      "synonyms": [
+        "stream",
+        "flow"
+      ],
+      "ipa": "/ˈkɜːrənt/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 그렇게 (do so: 그렇게 하다)",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "strong": {
+      "lemma": "strong",
+      "pos": "adjective",
+      "ko": "센, 강한",
+      "form": null,
+      "synonyms": [
+        "powerful",
+        "fierce"
+      ],
+      "ipa": "/strɔːŋ/"
+    },
+    "water": {
+      "lemma": "water",
+      "pos": "noun",
+      "ko": "물",
+      "form": null,
+      "synonyms": [
+        "river"
+      ],
+      "ipa": "/ˈwɔːtər/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "~해 보이다",
+      "form": "과거형",
+      "synonyms": [
+        "seem",
+        "appear"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adjective",
+      "ko": "깊은",
+      "form": null,
+      "synonyms": [
+        "bottomless"
+      ],
+      "ipa": "/diːp/"
+    },
+    "dangerous": {
+      "lemma": "dangerous",
+      "pos": "adjective",
+      "ko": "위험한",
+      "form": null,
+      "synonyms": [
+        "risky",
+        "unsafe"
+      ],
+      "ipa": "/ˈdeɪndʒərəs/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서 ~하다",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "didn't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 않았다 (did not)",
+      "form": "줄임말",
+      "ipa": "/ˈdɪdənt/"
+    },
+    "dare": {
+      "lemma": "dare",
+      "pos": "verb",
+      "ko": "감히 ~하다",
+      "form": "동사원형",
+      "synonyms": [
+        "venture",
+        "risk"
+      ],
+      "ipa": "/dɛr/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "동사원형",
+      "ipa": "/duː/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있다",
+      "form": "과거형",
+      "synonyms": [
+        "remain",
+        "wait"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "near": {
+      "lemma": "near",
+      "pos": "preposition",
+      "ko": "~ 가까이에",
+      "form": null,
+      "ipa": "/nɪr/"
+    },
+    "edge": {
+      "lemma": "edge",
+      "pos": "noun",
+      "ko": "가장자리, 물가",
+      "form": null,
+      "synonyms": [
+        "brink",
+        "side"
+      ],
+      "ipa": "/ɛdʒ/"
+    },
+    "encouraging": {
+      "lemma": "encourage",
+      "pos": "verb",
+      "ko": "격려하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "cheer",
+        "urge"
+      ],
+      "ipa": "/ɛnˈkɜːrɪdʒɪŋ/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(one another) 서로; 하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "another": {
+      "lemma": "another",
+      "pos": "pronoun",
+      "ko": "(one another) 서로",
+      "form": null,
+      "ipa": "/əˈnʌðər/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": "동사원형",
+      "ipa": "/biː/"
+    },
+    "afraid": {
+      "lemma": "afraid",
+      "pos": "adjective",
+      "ko": "두려워하는; (I'm afraid) 유감이지만",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "frightened"
+      ],
+      "ipa": "/əˈfreɪd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at last: 마침내)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "마지막 (at last: 마침내)",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "shame": {
+      "lemma": "shame",
+      "pos": "verb",
+      "ko": "부끄럽게 하다",
+      "form": "동사원형",
+      "synonyms": [
+        "embarrass",
+        "humiliate"
+      ],
+      "ipa": "/ʃeɪm/"
+    },
+    "rest": {
+      "lemma": "rest",
+      "pos": "noun",
+      "ko": "나머지",
+      "form": null,
+      "synonyms": [
+        "others",
+        "remainder"
+      ],
+      "ipa": "/rɛst/"
+    },
+    "show": {
+      "lemma": "show",
+      "pos": "verb",
+      "ko": "보여 주다; 알려 주다",
+      "form": "동사원형",
+      "synonyms": [
+        "display",
+        "prove"
+      ],
+      "ipa": "/ʃoʊ/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "form": null,
+      "synonyms": [
+        "to what extent"
+      ],
+      "ipa": "/haʊ/"
+    },
+    "brave": {
+      "lemma": "brave",
+      "pos": "adjective",
+      "ko": "용감한",
+      "form": null,
+      "synonyms": [
+        "bold",
+        "courageous"
+      ],
+      "ipa": "/breɪv/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형",
+      "ipa": "/æm/"
+    },
+    "bit": {
+      "lemma": "bit",
+      "pos": "noun",
+      "ko": "조금 (not a bit: 조금도 ~않다)",
+      "form": null,
+      "synonyms": [
+        "little",
+        "jot"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "frightened": {
+      "lemma": "frightened",
+      "pos": "adjective",
+      "ko": "겁먹은",
+      "form": null,
+      "synonyms": [
+        "scared",
+        "afraid"
+      ],
+      "ipa": "/ˈfraɪtənd/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "봐, 보다",
+      "form": "동사원형",
+      "synonyms": [
+        "look",
+        "watch"
+      ],
+      "ipa": "/siː/"
+    },
+    "i'll": {
+      "lemma": "I will",
+      "pos": "pronoun",
+      "ko": "나는 ~할 것이다 (I will)",
+      "form": "줄임말",
+      "ipa": "/aɪl/"
+    },
+    "step": {
+      "lemma": "step",
+      "pos": "verb",
+      "ko": "발을 내딛다",
+      "form": "동사원형",
+      "synonyms": [
+        "walk",
+        "tread"
+      ],
+      "ipa": "/stɛp/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adverb",
+      "ko": "곧장, 바로",
+      "form": null,
+      "synonyms": [
+        "straight",
+        "directly"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "(no sooner) ~하자마자",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "sooner": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "더 빨리 (no sooner ~ than: ~하자마자)",
+      "form": "비교급",
+      "synonyms": [
+        "earlier"
+      ],
+      "ipa": "/ˈsuːnər/"
+    },
+    "done": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "과거분사",
+      "ipa": "/dʌn/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다; (no sooner ~ than) ~하자마자",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "swept": {
+      "lemma": "sweep",
+      "pos": "verb",
+      "ko": "휩쓸다",
+      "form": "과거형",
+      "synonyms": [
+        "carry away",
+        "wash away"
+      ],
+      "ipa": "/swɛpt/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "preposition",
+      "ko": "~에서 떨어져",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발 (off one's feet: 발이 땅에서 떨어져)",
+      "form": "복수형",
+      "synonyms": [
+        "legs"
+      ],
+      "ipa": "/fiːt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "others": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 이들",
+      "form": "복수형",
+      "ipa": "/ˈʌðərz/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거형",
+      "synonyms": [
+        "notice",
+        "watch"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "being": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(being + 과거분사) ~되고 있는",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈbiːɪŋ/"
+    },
+    "carried": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "실어 나르다",
+      "form": "과거분사",
+      "synonyms": [
+        "bear",
+        "take"
+      ],
+      "ipa": "/ˈkɛrid/"
+    },
+    "down-stream": {
+      "lemma": "down-stream",
+      "pos": "adverb",
+      "ko": "하류로",
+      "form": null,
+      "synonyms": [
+        "downriver"
+      ],
+      "ipa": "/daʊn-striːm/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외치다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "call"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "don't": {
+      "lemma": "do not",
+      "pos": "auxiliary",
+      "ko": "~하지 마 (do not)",
+      "form": "줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "동사원형",
+      "synonyms": [
+        "leave",
+        "depart"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "두고 가다, 떠나다",
+      "form": "동사원형",
+      "synonyms": [
+        "abandon",
+        "desert"
+      ],
+      "ipa": "/liːv/"
+    },
+    "us": {
+      "lemma": "us",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": null,
+      "ipa": "/ʌs/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다 (come back: 돌아오다)",
+      "form": "동사원형",
+      "synonyms": [
+        "return"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "다시, 되돌아",
+      "form": null,
+      "synonyms": [
+        "again"
+      ],
+      "ipa": "/bæk/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "어디에서 (~하는 곳)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "~도 역시",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~하게",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "safety": {
+      "lemma": "safety",
+      "pos": "noun",
+      "ko": "안전",
+      "form": null,
+      "synonyms": [
+        "security"
+      ],
+      "ipa": "/ˈseɪfti/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답하다",
+      "form": "과거형",
+      "synonyms": [
+        "answer",
+        "respond"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "i'm": {
+      "lemma": "I am",
+      "pos": "pronoun",
+      "ko": "나는 ~이다 (I am)",
+      "form": "줄임말",
+      "ipa": "/aɪm/"
+    },
+    "can't": {
+      "lemma": "can not",
+      "pos": "auxiliary",
+      "ko": "~할 수 없다 (cannot)",
+      "form": "줄임말",
+      "ipa": "/kænt/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "adverb",
+      "ko": "아직",
+      "form": null,
+      "synonyms": [
+        "so far",
+        "still"
+      ],
+      "ipa": "/jɛt/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": "현재형",
+      "synonyms": [
+        "wish",
+        "desire"
+      ],
+      "ipa": "/wɑːnt/"
+    },
+    "seaside": {
+      "lemma": "seaside",
+      "pos": "noun",
+      "ko": "바닷가",
+      "form": null,
+      "synonyms": [
+        "beach",
+        "coast"
+      ],
+      "ipa": "/ˈsiːˌsaɪd/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "데려가다",
+      "form": "동사원형",
+      "synonyms": [
+        "carry",
+        "bring"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를",
+      "form": null,
+      "ipa": "/miː/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "nicely": {
+      "lemma": "nicely",
+      "pos": "adverb",
+      "ko": "멋지게, 순조롭게",
+      "form": null,
+      "synonyms": [
+        "neatly",
+        "smoothly"
+      ],
+      "ipa": "/ˈnaɪsli/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "pleasure": {
+      "lemma": "pleasure",
+      "pos": "noun",
+      "ko": "기쁨 (with pleasure: 기꺼이)",
+      "form": null,
+      "synonyms": [
+        "joy",
+        "delight"
+      ],
+      "ipa": "/ˈplɛʒər/"
+    }
+  }
+}

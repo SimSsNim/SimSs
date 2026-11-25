@@ -1,0 +1,1236 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L1-3",
+  "date": "2026-11-26",
+  "level": 1,
+  "title": "The Ass Carrying the Image",
+  "titleKo": "신상을 나르는 당나귀",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 (끝의 교훈 한 줄 'Rude shocks await those who take to themselves the credit that is due to others.'는 제외)"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_08_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_08_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-9-fables-201-225",
+    "reader": "Tae Jensen",
+    "durationSec": 78,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 09, 08번 트랙(전체 208번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독될 수 있음"
+  },
+  "wordCount": 139,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "어떤 사람이 신상(神像)을 마을의 한 신전에 가져가려고 자기 당나귀 등에 실었다. 그들이 길을 따라가는 동안 마주친 사람들은 모두 신상을 공경하는 마음에서 모자를 벗고 고개를 숙였다. 그런데 당나귀는 사람들이 자기를 존경해서 그러는 줄 알고, 그에 맞춰 잘난 체하기 시작했다. 마침내 당나귀는 너무 우쭐해져서 자기가 하고 싶은 대로 해도 된다고 생각했고, 등에 진 짐에 항의하는 뜻으로 딱 멈춰 서서 더는 가지 않겠다고 단호히 버텼다. 당나귀 몰이꾼은 당나귀가 이렇게 고집을 부리자 막대기로 세게, 오랫동안 때리면서 말했다. \"이 멍청한 바보야, 사람들이 당나귀한테 절을 할 지경이 됐다고 생각하는 거냐?\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A certain man put an Image on the back of his Ass to take it to one of the temples of the town.",
+      "ko": "어떤 사람이 신상(神像)을 마을의 한 신전에 가져가려고 자기 당나귀 등에 실었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "As they went along the road all the people they met uncovered and bowed their heads out of reverence for the Image; but the Ass thought they were doing it out of respect for himself, and began to give himself airs accordingly.",
+      "ko": "그들이 길을 따라가는 동안 마주친 사람들은 모두 신상을 공경하는 마음에서 모자를 벗고 고개를 숙였다. 그런데 당나귀는 사람들이 자기를 존경해서 그러는 줄 알고, 그에 맞춰 잘난 체하기 시작했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "At last he became so conceited that he imagined he could do as he liked, and, by way of protest against the load he was carrying, he came to a full stop and flatly declined to proceed any further.",
+      "ko": "마침내 당나귀는 너무 우쭐해져서 자기가 하고 싶은 대로 해도 된다고 생각했고, 등에 진 짐에 항의하는 뜻으로 딱 멈춰 서서 더는 가지 않겠다고 단호히 버텼다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "His driver, finding him so obstinate, hit him hard and long with his stick, saying the while, \"Oh, you dunder-headed idiot, do you suppose it's come to this, that men pay worship to an Ass?\"",
+      "ko": "당나귀 몰이꾼은 당나귀가 이렇게 고집을 부리자 막대기로 세게, 오랫동안 때리면서 말했다. \"이 멍청한 바보야, 사람들이 당나귀한테 절을 할 지경이 됐다고 생각하는 거냐?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "reverence",
+      "pos": "noun",
+      "meaningKo": "공경, 숭배",
+      "ipa": "/ˈrɛvərəns/",
+      "synonyms": [
+        "respect",
+        "honor",
+        "worship"
+      ],
+      "matchText": "reverence",
+      "sentenceId": "s2",
+      "example": {
+        "en": "People bowed in reverence to the old king.",
+        "ko": "사람들은 공경하는 마음으로 늙은 왕에게 절했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "give oneself airs",
+      "pos": "idiom",
+      "meaningKo": "잘난 체하다, 뽐내다",
+      "ipa": "/ɡɪv wʌnˈsɛlf ɛrz/",
+      "synonyms": [
+        "show off",
+        "act proud"
+      ],
+      "matchText": "give himself airs",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Since he won the prize, he gives himself airs.",
+        "ko": "상을 탄 뒤로 그는 잘난 체한다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "conceited",
+      "pos": "adjective",
+      "meaningKo": "자만하는, 우쭐한",
+      "ipa": "/kənˈsiːtɪd/",
+      "synonyms": [
+        "vain",
+        "proud",
+        "arrogant"
+      ],
+      "matchText": "conceited",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Don't be conceited about your good grades.",
+        "ko": "좋은 성적으로 우쭐해하지 마라."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "obstinate",
+      "pos": "adjective",
+      "meaningKo": "고집 센, 완고한",
+      "ipa": "/ˈɑːbstɪnət/",
+      "synonyms": [
+        "stubborn",
+        "headstrong"
+      ],
+      "matchText": "obstinate",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The obstinate child refused to eat.",
+        "ko": "고집 센 아이는 먹기를 거부했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "decline",
+      "pos": "verb",
+      "meaningKo": "거절하다",
+      "ipa": "/dɪˈklaɪn/",
+      "synonyms": [
+        "refuse",
+        "turn down"
+      ],
+      "matchText": "declined",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She declined the invitation politely.",
+        "ko": "그녀는 정중하게 초대를 거절했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "A certain man",
+          "role": "S",
+          "sub": false,
+          "ko": "어떤 사람이"
+        },
+        {
+          "text": "put",
+          "role": "V",
+          "sub": false,
+          "ko": "놓았다(실었다)"
+        },
+        {
+          "text": "an Image",
+          "role": "O",
+          "sub": false,
+          "ko": "신상을"
+        },
+        {
+          "text": "on the back of his Ass",
+          "role": "M",
+          "sub": false,
+          "ko": "자기 당나귀 등에"
+        },
+        {
+          "text": "to take it",
+          "role": "M",
+          "sub": false,
+          "ko": "그것을 가져가려고"
+        },
+        {
+          "text": "to one of the temples of the town.",
+          "role": "M",
+          "sub": false,
+          "ko": "마을의 신전 중 한 곳으로"
+        }
+      ],
+      "skeleton": "A certain man put an Image",
+      "explanation": "put A on B는 'A를 B 위에 놓다'예요. to take it ~은 '그것을 가져가기 위해서'라는 목적을 나타내는 to부정사예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "At last",
+          "role": "M",
+          "sub": false,
+          "ko": "마침내"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "became",
+          "role": "V",
+          "sub": false,
+          "ko": "되었다"
+        },
+        {
+          "text": "so conceited",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 우쭐하게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "imagined",
+          "role": "V",
+          "sub": true,
+          "ko": "생각했다"
+        },
+        {
+          "text": "he could do as he liked,",
+          "role": "O",
+          "sub": true,
+          "ko": "하고 싶은 대로 해도 된다고"
+        },
+        {
+          "text": "and,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "by way of protest against the load he was carrying,",
+          "role": "M",
+          "sub": false,
+          "ko": "지고 있던 짐에 항의하는 뜻으로"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "came to a full stop",
+          "role": "V",
+          "sub": false,
+          "ko": "완전히 멈춰 섰다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "flatly",
+          "role": "M",
+          "sub": false,
+          "ko": "딱 잘라"
+        },
+        {
+          "text": "declined",
+          "role": "V",
+          "sub": false,
+          "ko": "거부했다"
+        },
+        {
+          "text": "to proceed any further.",
+          "role": "O",
+          "sub": false,
+          "ko": "더 가기를"
+        }
+      ],
+      "skeleton": "he became so conceited that ~, and he came to a full stop and declined ~",
+      "explanation": "so + 형용사 + that ~은 '너무 ~해서 …하다'예요. 뒷부분은 주어 he에 came과 declined 두 동사가 and로 이어졌고, by way of protest ~는 '항의의 뜻으로'라는 이유를 덧붙여요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "so + 형용사 + that (너무 ~해서 …하다)",
+      "tags": [
+        "부사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "so conceited that"
+      ],
+      "explanation": "so ~ that … 은 '너무 ~해서 …하다'라는 결과를 나타내요. 당나귀가 너무 우쭐해서(so conceited) 마음대로 해도 된다고 생각했어요(that he imagined ~).",
+      "example": {
+        "en": "He was so tired that he fell asleep.",
+        "ko": "그는 너무 피곤해서 잠이 들었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "목적의 to부정사 (~하려고)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "to take it"
+      ],
+      "explanation": "동사 뒤의 to + 동사원형이 '~하기 위해서'라는 목적을 나타낼 수 있어요. 당나귀에 신상을 실은 목적이 '신전에 가져가려고'예요.",
+      "example": {
+        "en": "I went to the store to buy milk.",
+        "ko": "나는 우유를 사려고 가게에 갔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "분사구문 (~해서, ~하면서)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "finding him so obstinate",
+        "saying the while"
+      ],
+      "explanation": "finding ~은 '그가 고집을 부리는 것을 보고', saying ~은 '말하면서'라는 뜻이에요. 주어(His driver)가 같아서 접속사와 주어를 빼고 -ing로 줄였어요.",
+      "example": {
+        "en": "Smiling brightly, she waved to us.",
+        "ko": "환하게 웃으며 그녀는 우리에게 손을 흔들었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "certain": {
+      "lemma": "certain",
+      "pos": "adjective",
+      "ko": "어떤, 어느",
+      "form": null,
+      "synonyms": [
+        "particular",
+        "some"
+      ],
+      "ipa": "/ˈsɜːrtən/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 남자",
+      "form": null,
+      "synonyms": [
+        "person",
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "놓다, 싣다",
+      "form": "과거형",
+      "synonyms": [
+        "place",
+        "set"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "image": {
+      "lemma": "image",
+      "pos": "noun",
+      "ko": "(신의) 상, 신상",
+      "form": null,
+      "synonyms": [
+        "statue",
+        "idol"
+      ],
+      "ipa": "/ˈɪmədʒ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "noun",
+      "ko": "등",
+      "form": null,
+      "synonyms": [
+        "spine"
+      ],
+      "ipa": "/bæk/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "ass": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": null,
+      "synonyms": [
+        "donkey"
+      ],
+      "ipa": "/æs/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로; ~하려고(to부정사)",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "가져가다",
+      "form": "동사원형",
+      "synonyms": [
+        "carry",
+        "bring"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "temples": {
+      "lemma": "temple",
+      "pos": "noun",
+      "ko": "신전, 사원",
+      "form": "복수형",
+      "synonyms": [
+        "shrines"
+      ],
+      "ipa": "/ˈtɛmpəlz/"
+    },
+    "town": {
+      "lemma": "town",
+      "pos": "noun",
+      "ko": "마을, 읍",
+      "form": null,
+      "synonyms": [
+        "village"
+      ],
+      "ipa": "/taʊn/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하는 동안; ~대로",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "synonyms": [
+        "travel",
+        "walk"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "road": {
+      "lemma": "road",
+      "pos": "noun",
+      "ko": "길, 도로",
+      "form": null,
+      "synonyms": [
+        "path",
+        "way"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "folks"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "met": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "마주치다, 만나다",
+      "form": "과거형",
+      "synonyms": [
+        "come across",
+        "encounter"
+      ],
+      "ipa": "/mɛt/"
+    },
+    "uncovered": {
+      "lemma": "uncover",
+      "pos": "verb",
+      "ko": "(경의로) 모자를 벗다",
+      "form": "과거형",
+      "synonyms": [
+        "take off one's hat",
+        "bare one's head"
+      ],
+      "ipa": "/ənˈkʌvərd/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "bowed": {
+      "lemma": "bow",
+      "pos": "verb",
+      "ko": "숙이다, 절하다",
+      "form": "과거형",
+      "synonyms": [
+        "bend",
+        "nod"
+      ],
+      "ipa": "/baʊd/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "heads": {
+      "lemma": "head",
+      "pos": "noun",
+      "ko": "머리, 고개",
+      "form": "복수형",
+      "synonyms": [
+        "skulls"
+      ],
+      "ipa": "/hɛdz/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(out of) ~에서, ~ 때문에",
+      "form": null,
+      "synonyms": [
+        "from"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "reverence": {
+      "lemma": "reverence",
+      "pos": "noun",
+      "ko": "공경, 숭배",
+      "form": null,
+      "synonyms": [
+        "respect",
+        "honor"
+      ],
+      "ipa": "/ˈrɛvərəns/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "과거형",
+      "synonyms": [
+        "believe",
+        "suppose"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "doing": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/ˈduːɪŋ/"
+    },
+    "respect": {
+      "lemma": "respect",
+      "pos": "noun",
+      "ko": "존경",
+      "form": null,
+      "synonyms": [
+        "honor",
+        "regard"
+      ],
+      "ipa": "/rɪˈspɛkt/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "began": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": "과거형",
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡæn/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다 (give oneself airs: 잘난 체하다)",
+      "form": "동사원형",
+      "synonyms": [
+        "put on"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "airs": {
+      "lemma": "air",
+      "pos": "noun",
+      "ko": "잘난 체하는 태도 (airs)",
+      "form": "복수형",
+      "synonyms": [
+        "pride",
+        "vanity"
+      ],
+      "ipa": "/ɛrz/"
+    },
+    "accordingly": {
+      "lemma": "accordingly",
+      "pos": "adverb",
+      "ko": "그에 맞춰, 그래서",
+      "form": null,
+      "synonyms": [
+        "correspondingly",
+        "so"
+      ],
+      "ipa": "/əˈkɔːrdɪŋli/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at last: 마침내)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "마지막 (at last: 마침내)",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "became": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": "과거형",
+      "synonyms": [
+        "grow",
+        "turn"
+      ],
+      "ipa": "/bɪˈkeɪm/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "너무, 그렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "conceited": {
+      "lemma": "conceited",
+      "pos": "adjective",
+      "ko": "우쭐한, 자만하는",
+      "form": null,
+      "synonyms": [
+        "vain",
+        "proud"
+      ],
+      "ipa": "/kənˈsiːtəd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서 ~하다",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "imagined": {
+      "lemma": "imagine",
+      "pos": "verb",
+      "ko": "생각하다, 상상하다",
+      "form": "과거형",
+      "synonyms": [
+        "suppose",
+        "believe"
+      ],
+      "ipa": "/ˌɪˈmædʒənd/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "동사원형",
+      "ipa": "/duː/"
+    },
+    "liked": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "원하다, 좋아하다",
+      "form": "과거형",
+      "synonyms": [
+        "want",
+        "wish"
+      ],
+      "ipa": "/laɪkt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "(by way of) ~으로서",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "방법 (by way of: ~으로서)",
+      "form": null,
+      "synonyms": [
+        "means",
+        "manner"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "protest": {
+      "lemma": "protest",
+      "pos": "noun",
+      "ko": "항의",
+      "form": null,
+      "synonyms": [
+        "objection",
+        "complaint"
+      ],
+      "ipa": "/ˈproʊˌtɛst/"
+    },
+    "against": {
+      "lemma": "against",
+      "pos": "preposition",
+      "ko": "~에 맞서, ~에 반대하여",
+      "form": null,
+      "ipa": "/əˈɡɛnst/"
+    },
+    "load": {
+      "lemma": "load",
+      "pos": "noun",
+      "ko": "짐",
+      "form": null,
+      "synonyms": [
+        "burden",
+        "cargo"
+      ],
+      "ipa": "/loʊd/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(진행형) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "carrying": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "나르다, 지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "bear",
+        "haul"
+      ],
+      "ipa": "/ˈkæriɪŋ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "이르다 (come to a stop: 멈추다)",
+      "form": "과거형",
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "완전한",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "total"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "stop": {
+      "lemma": "stop",
+      "pos": "noun",
+      "ko": "멈춤",
+      "form": null,
+      "synonyms": [
+        "halt",
+        "standstill"
+      ],
+      "ipa": "/stɑːp/"
+    },
+    "flatly": {
+      "lemma": "flatly",
+      "pos": "adverb",
+      "ko": "딱 잘라, 단호히",
+      "form": null,
+      "synonyms": [
+        "firmly",
+        "bluntly"
+      ],
+      "ipa": "/ˈflætli/"
+    },
+    "declined": {
+      "lemma": "decline",
+      "pos": "verb",
+      "ko": "거부하다, 거절하다",
+      "form": "과거형",
+      "synonyms": [
+        "refuse",
+        "turn down"
+      ],
+      "ipa": "/dɪˈklaɪnd/"
+    },
+    "proceed": {
+      "lemma": "proceed",
+      "pos": "verb",
+      "ko": "나아가다, 계속 가다",
+      "form": "동사원형",
+      "synonyms": [
+        "go on",
+        "advance"
+      ],
+      "ipa": "/prəˈsiːd/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "adverb",
+      "ko": "조금이라도",
+      "form": null,
+      "synonyms": [
+        "at all"
+      ],
+      "ipa": "/ˈɛni/"
+    },
+    "further": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "더 멀리",
+      "form": "비교급",
+      "synonyms": [
+        "farther",
+        "onward"
+      ],
+      "ipa": "/ˈfɜːrðər/"
+    },
+    "driver": {
+      "lemma": "driver",
+      "pos": "noun",
+      "ko": "(짐승을) 모는 사람, 몰이꾼",
+      "form": null,
+      "synonyms": [
+        "handler",
+        "keeper"
+      ],
+      "ipa": "/ˈdraɪvər/"
+    },
+    "finding": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "(~임을) 알다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "discover",
+        "see"
+      ],
+      "ipa": "/ˈfaɪndɪŋ/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": null,
+      "ipa": "/hɪm/"
+    },
+    "obstinate": {
+      "lemma": "obstinate",
+      "pos": "adjective",
+      "ko": "고집 센, 완고한",
+      "form": null,
+      "synonyms": [
+        "stubborn",
+        "headstrong"
+      ],
+      "ipa": "/ˈɑːbstənət/"
+    },
+    "hit": {
+      "lemma": "hit",
+      "pos": "verb",
+      "ko": "때리다",
+      "form": "과거형",
+      "synonyms": [
+        "strike",
+        "beat"
+      ],
+      "ipa": "/hɪt/"
+    },
+    "hard": {
+      "lemma": "hard",
+      "pos": "adverb",
+      "ko": "세게",
+      "form": null,
+      "synonyms": [
+        "forcefully",
+        "heavily"
+      ],
+      "ipa": "/hɑːrd/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "오래",
+      "form": null,
+      "synonyms": [
+        "for a long time"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "stick": {
+      "lemma": "stick",
+      "pos": "noun",
+      "ko": "막대기",
+      "form": null,
+      "synonyms": [
+        "rod",
+        "club"
+      ],
+      "ipa": "/stɪk/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "noun",
+      "ko": "동안 (the while: 그러는 동안 내내)",
+      "form": null,
+      "synonyms": [
+        "time"
+      ],
+      "ipa": "/waɪl/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "오, 아",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "dunder-headed": {
+      "lemma": "dunder-headed",
+      "pos": "adjective",
+      "ko": "멍청한, 아둔한",
+      "form": null,
+      "synonyms": [
+        "stupid",
+        "thick-headed"
+      ],
+      "ipa": "/ˈdʌndərˌhɛdɪd/"
+    },
+    "idiot": {
+      "lemma": "idiot",
+      "pos": "noun",
+      "ko": "바보, 멍청이",
+      "form": null,
+      "synonyms": [
+        "fool",
+        "dunce"
+      ],
+      "ipa": "/ˈɪˌdiːət/"
+    },
+    "suppose": {
+      "lemma": "suppose",
+      "pos": "verb",
+      "ko": "생각하다, 추측하다",
+      "form": "동사원형",
+      "synonyms": [
+        "think",
+        "imagine"
+      ],
+      "ipa": "/səˈpoʊz/"
+    },
+    "it's": {
+      "lemma": "it has",
+      "pos": "pronoun",
+      "ko": "그것이 ~했다 (it has의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/ɪts/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "(사태가) ~에 이르다",
+      "form": "과거분사",
+      "synonyms": [
+        "reach",
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것, 이런 지경",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": "복수형",
+      "synonyms": [
+        "people"
+      ],
+      "ipa": "/mɛn/"
+    },
+    "pay": {
+      "lemma": "pay",
+      "pos": "verb",
+      "ko": "(경의를) 바치다",
+      "form": "현재형",
+      "synonyms": [
+        "give",
+        "offer"
+      ],
+      "ipa": "/peɪ/"
+    },
+    "worship": {
+      "lemma": "worship",
+      "pos": "noun",
+      "ko": "숭배, 경배",
+      "form": null,
+      "synonyms": [
+        "reverence",
+        "adoration"
+      ],
+      "ipa": "/ˈwɜːrʃəp/"
+    }
+  }
+}
