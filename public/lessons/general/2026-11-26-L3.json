@@ -1,0 +1,1590 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L3",
+  "date": "2026-11-26",
+  "level": 3,
+  "title": "Snowdrop",
+  "titleKo": "스노드롭 (백설공주)",
+  "genre": "fairy-tale",
+  "tags": [
+    "Grimm",
+    "fairy tale",
+    "fairy-tale"
+  ],
+  "source": {
+    "work": "Grimms' Fairy Tales (Snowdrop)",
+    "author": "Jacob and Wilhelm Grimm",
+    "translator": "Edgar Taylor and Marian Edwardes",
+    "year": 1823,
+    "edition": "Project Gutenberg #2591",
+    "url": "https://www.gutenberg.org/ebooks/2591",
+    "license": "public-domain",
+    "excerptNote": "'Snowdrop'(흔히 '백설공주'(Little Snow-White)로 알려진 이야기, 이 번역본에서는 주인공 이름이 Snowdrop) 열째 단락 전체 (‘By and by in came the masters of the cottage.’부터 ‘…till the night was gone.’까지, 211단어). 왕비의 명령으로 숲에 버려진 스노드롭이 산속 오두막에서 잠든 뒤, 집주인인 일곱 난쟁이가 돌아와 '누가 내 의자에 앉았지?'라고 차례로 묻다가 잠든 아이를 발견하는 장면. gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2591, grimm10.txt, 항목 grimmsfairytales02591gut)의 텍스트 보기 페이지에서 가져왔고, 줄바꿈만 공백으로 이음. 따옴표는 텍스트판 그대로 곧은 작은따옴표, lighted·brethren 등 옛 표현도 원문 그대로. 문장은 ! ? 기준으로 나눠 \"…said, 'Good heavens!\" / \"what a lovely child she is!'\"가 따로 나뉨."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/grimms_english_librivox/grimm_31_snowdrop.mp3",
+    "mp3Low": "https://www.archive.org/download/grimms_english_librivox/grimm_31_snowdrop_64kb.mp3",
+    "pageUrl": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+    "reader": "Gesine",
+    "durationSec": 1000,
+    "startSec": 255,
+    "endSec": 345,
+    "note": "LibriVox Grimms' Fairy Tales (Version 1), 트랙 31 'Snowdrop' (전체 16:40, 낭독 Gesine). 지문은 이야기 열째 단락으로, 약 4:15~5:45 (단어 수로 어림한 위치)."
+  },
+  "wordCount": 211,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15"
+      ],
+      "ko": "얼마 뒤 오두막의 주인들이 들어왔다. 그들은 산속에 살면서 금을 캐고 찾아다니는 일곱 난쟁이였다. 그들은 일곱 개의 등불을 켜고, 무언가 잘못되었다는 것을 곧바로 알아챘다. 첫째가 말했다. \"누가 내 의자에 앉았지?\" 둘째가 말했다. \"누가 내 접시에 있던 걸 먹었지?\" 셋째가 말했다. \"누가 내 빵을 뜯어 먹었지?\" 넷째가 말했다. \"누가 내 숟가락을 건드렸지?\" 다섯째가 말했다. \"누가 내 포크를 만졌지?\" 여섯째가 말했다. \"누가 내 칼로 무언가를 잘랐지?\" 일곱째가 말했다. \"누가 내 포도주를 마셨지?\" 그때 첫째가 둘러보더니 말했다. \"누가 내 침대에 누워 있었지?\" 그러자 나머지 난쟁이들이 그에게 달려왔고, 모두가 누군가 자기 침대에도 올라갔었다고 소리쳤다. 그런데 일곱째가 백설공주(스노드롭)를 발견하고 형제들을 모두 불러 와서 보라고 했다. 그들은 놀라움과 경탄에 차서 소리치며 등불을 가져와 그녀를 비춰 보고는 말했다. \"세상에! 얼마나 사랑스러운 아이인가!\" 그들은 그녀를 보고 무척 기뻐했고, 그녀를 깨우지 않도록 조심했다. 그리고 일곱째 난쟁이는 밤이 다 지나갈 때까지 다른 난쟁이들과 한 시간씩 돌아가며 함께 잤다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "By and by in came the masters of the cottage.",
+      "ko": "얼마 뒤 오두막의 주인들이 들어왔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Now they were seven little dwarfs, that lived among the mountains, and dug and searched for gold.",
+      "ko": "그들은 산속에 살면서 금을 캐고 찾아다니는 일곱 난쟁이였다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "They lighted up their seven lamps, and saw at once that all was not right.",
+      "ko": "그들은 일곱 개의 등불을 켜고, 무언가 잘못되었다는 것을 곧바로 알아챘다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The first said, 'Who has been sitting on my stool?'",
+      "ko": "첫째가 말했다. \"누가 내 의자에 앉았지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The second, 'Who has been eating off my plate?'",
+      "ko": "둘째가 말했다. \"누가 내 접시에 있던 걸 먹었지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "The third, 'Who has been picking my bread?'",
+      "ko": "셋째가 말했다. \"누가 내 빵을 뜯어 먹었지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "The fourth, 'Who has been meddling with my spoon?'",
+      "ko": "넷째가 말했다. \"누가 내 숟가락을 건드렸지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "The fifth, 'Who has been handling my fork?'",
+      "ko": "다섯째가 말했다. \"누가 내 포크를 만졌지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "The sixth, 'Who has been cutting with my knife?'",
+      "ko": "여섯째가 말했다. \"누가 내 칼로 무언가를 잘랐지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p1",
+      "en": "The seventh, 'Who has been drinking my wine?'",
+      "ko": "일곱째가 말했다. \"누가 내 포도주를 마셨지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p1",
+      "en": "Then the first looked round and said, 'Who has been lying on my bed?'",
+      "ko": "그때 첫째가 둘러보더니 말했다. \"누가 내 침대에 누워 있었지?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p1",
+      "en": "And the rest came running to him, and everyone cried out that somebody had been upon his bed.",
+      "ko": "그러자 나머지 난쟁이들이 그에게 달려왔고, 모두가 누군가 자기 침대에도 올라갔었다고 소리쳤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p1",
+      "en": "But the seventh saw Snowdrop, and called all his brethren to come and see her; and they cried out with wonder and astonishment and brought their lamps to look at her, and said, 'Good heavens!",
+      "ko": "그런데 일곱째가 백설공주(스노드롭)를 발견하고 형제들을 모두 불러 와서 보라고 했다. 그들은 놀라움과 경탄에 차서 소리치며 등불을 가져와 그녀를 비춰 보고는 말했다. \"세상에!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p1",
+      "en": "what a lovely child she is!'",
+      "ko": "얼마나 사랑스러운 아이인가!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s15",
+      "paragraphId": "p1",
+      "en": "And they were very glad to see her, and took care not to wake her; and the seventh dwarf slept an hour with each of the other dwarfs in turn, till the night was gone.",
+      "ko": "그들은 그녀를 보고 무척 기뻐했고, 그녀를 깨우지 않도록 조심했다. 그리고 일곱째 난쟁이는 밤이 다 지나갈 때까지 다른 난쟁이들과 한 시간씩 돌아가며 함께 잤다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "by and by",
+      "pos": "idiom",
+      "meaningKo": "얼마 뒤, 이윽고, 머지않아",
+      "ipa": "/baɪ ənd baɪ/",
+      "synonyms": [
+        "before long",
+        "soon",
+        "eventually"
+      ],
+      "matchText": "By and by",
+      "sentenceId": "s1",
+      "example": {
+        "en": "By and by the rain stopped and the sun came out.",
+        "ko": "이윽고 비가 그치고 해가 나왔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "search for",
+      "pos": "phrasal-verb",
+      "meaningKo": "~을 찾다, 찾아다니다",
+      "ipa": "/sɝtʃ fɔr/",
+      "synonyms": [
+        "look for",
+        "hunt for",
+        "seek"
+      ],
+      "matchText": "searched for",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We searched for the lost key all morning.",
+        "ko": "우리는 아침 내내 잃어버린 열쇠를 찾았다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "meddle with",
+      "pos": "phrasal-verb",
+      "meaningKo": "(남의 물건을) 함부로 만지다, 참견하다",
+      "ipa": "/ˈmɛdəl wɪð/",
+      "synonyms": [
+        "tamper with",
+        "interfere with",
+        "mess with"
+      ],
+      "matchText": "meddling with",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please don't meddle with my computer.",
+        "ko": "제 컴퓨터를 함부로 만지지 마세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "astonishment",
+      "pos": "noun",
+      "meaningKo": "깜짝 놀람, 경악",
+      "ipa": "/əˈstɑnɪʃmənt/",
+      "synonyms": [
+        "amazement",
+        "surprise",
+        "wonder"
+      ],
+      "matchText": "astonishment",
+      "sentenceId": "s13",
+      "example": {
+        "en": "To my astonishment, he passed the test.",
+        "ko": "놀랍게도 그는 시험에 합격했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "take care",
+      "pos": "phrase",
+      "meaningKo": "(~하도록/~하지 않도록) 조심하다, 주의하다",
+      "ipa": "/teɪk kɛr/",
+      "synonyms": [
+        "be careful",
+        "make sure",
+        "be cautious"
+      ],
+      "matchText": "took care",
+      "sentenceId": "s15",
+      "example": {
+        "en": "Take care not to drop the glass.",
+        "ko": "유리잔을 떨어뜨리지 않도록 조심해라."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Now",
+          "role": "M",
+          "sub": false,
+          "ko": "그런데(그들로 말하자면)"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "seven little dwarfs,",
+          "role": "C",
+          "sub": false,
+          "ko": "일곱 난쟁이"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "(그 난쟁이들은)"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": true,
+          "ko": "살았다"
+        },
+        {
+          "text": "among the mountains,",
+          "role": "M",
+          "sub": true,
+          "ko": "산속에서"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "dug and searched",
+          "role": "V",
+          "sub": true,
+          "ko": "캐고 찾아다녔다"
+        },
+        {
+          "text": "for gold.",
+          "role": "M",
+          "sub": true,
+          "ko": "금을"
+        }
+      ],
+      "skeleton": "they were seven little dwarfs",
+      "explanation": "뼈대는 'they were seven little dwarfs(그들은 일곱 난쟁이였다)'이다. 쉼표 뒤의 that은 관계대명사로 앞의 dwarfs를 꾸민다. 관계사절 안에서는 lived, dug, searched 세 동사가 and로 이어져 '산속에 살면서 금을 캐고 찾아다니는' 난쟁이라는 뜻이 된다. 옛날 영어에서는 쉼표 뒤에도 that을 쓰곤 했지만, 요즘은 보통 who를 쓴다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "And",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the rest",
+          "role": "S",
+          "sub": false,
+          "ko": "나머지는"
+        },
+        {
+          "text": "came running",
+          "role": "V",
+          "sub": false,
+          "ko": "달려왔다"
+        },
+        {
+          "text": "to him,",
+          "role": "M",
+          "sub": false,
+          "ko": "그에게로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "everyone",
+          "role": "S",
+          "sub": false,
+          "ko": "모두가"
+        },
+        {
+          "text": "cried out",
+          "role": "V",
+          "sub": false,
+          "ko": "소리쳤다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~라고"
+        },
+        {
+          "text": "somebody",
+          "role": "S",
+          "sub": true,
+          "ko": "누군가가"
+        },
+        {
+          "text": "had been",
+          "role": "V",
+          "sub": true,
+          "ko": "있었다"
+        },
+        {
+          "text": "upon his bed.",
+          "role": "M",
+          "sub": true,
+          "ko": "자기 침대 위에"
+        }
+      ],
+      "skeleton": "the rest came running, and everyone cried out that ~",
+      "explanation": "두 개의 절이 and로 이어진 문장이다. 앞 절의 came running은 'come + -ing' 형태로 '달려오다'라는 뜻이다. 뒤 절에서 cried out(소리쳤다) 다음의 that절이 '무엇이라고' 소리쳤는지를 알려 준다. that절 안의 had been은 과거완료로, 난쟁이들이 소리친 때보다 더 먼저 누군가가 침대에 올라갔었다는 뜻이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s15",
+      "chunks": [
+        {
+          "text": "And",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "very glad",
+          "role": "C",
+          "sub": false,
+          "ko": "무척 기쁜"
+        },
+        {
+          "text": "to see her,",
+          "role": "M",
+          "sub": false,
+          "ko": "그녀를 보고"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "took",
+          "role": "V",
+          "sub": false,
+          "ko": "기울였다"
+        },
+        {
+          "text": "care",
+          "role": "O",
+          "sub": false,
+          "ko": "주의를"
+        },
+        {
+          "text": "not to wake her;",
+          "role": "M",
+          "sub": false,
+          "ko": "그녀를 깨우지 않도록"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the seventh dwarf",
+          "role": "S",
+          "sub": false,
+          "ko": "일곱째 난쟁이는"
+        },
+        {
+          "text": "slept",
+          "role": "V",
+          "sub": false,
+          "ko": "잤다"
+        },
+        {
+          "text": "an hour",
+          "role": "M",
+          "sub": false,
+          "ko": "한 시간씩"
+        },
+        {
+          "text": "with each of the other dwarfs",
+          "role": "M",
+          "sub": false,
+          "ko": "다른 난쟁이들 각각과"
+        },
+        {
+          "text": "in turn,",
+          "role": "M",
+          "sub": false,
+          "ko": "차례로"
+        },
+        {
+          "text": "till",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때까지"
+        },
+        {
+          "text": "the night",
+          "role": "S",
+          "sub": true,
+          "ko": "밤이"
+        },
+        {
+          "text": "was gone.",
+          "role": "V",
+          "sub": true,
+          "ko": "지나갔다"
+        }
+      ],
+      "skeleton": "they were very glad, and took care; and the seventh dwarf slept",
+      "explanation": "세미콜론(;)을 기준으로 두 부분으로 나뉜다. 앞부분은 주어 they 하나에 were와 took 두 동사가 이어진다. to see her는 감정(glad)의 원인을, not to wake her는 '~하지 않도록'이라는 목적을 나타내는 to부정사다. 뒷부분은 the seventh dwarf slept가 뼈대이고, an hour, with each of the other dwarfs, in turn이 '얼마나, 누구와, 어떻게' 잤는지 꾸민다. 마지막 till절은 '밤이 다 갈 때까지'라는 시간의 부사절이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료 진행형: has been + -ing",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "has been sitting"
+      ],
+      "explanation": "'have/has been + 동사-ing'는 과거부터 최근까지 어떤 일이 계속되어 왔음을 나타낸다. 난쟁이들은 의자가 흐트러진 흔적을 보고 '(내가 없는 동안) 누가 내 의자에 앉아 있었지?'라고 묻는다. 이처럼 지금 눈앞에 남아 있는 흔적을 보고 방금까지 있었던 일을 말할 때 자주 쓴다. 이 단락에서 같은 형태가 여덟 번 반복된다.",
+      "example": {
+        "en": "Your eyes are red. Have you been crying?",
+        "ko": "눈이 빨개. 울고 있었니?"
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "생략: The second, 'Who has been …?'",
+      "tags": [
+        "생략"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "The second,"
+      ],
+      "explanation": "s4에서 'The first said'라고 말한 뒤, 같은 말이 반복되는 문장에서는 동사 said를 빼고 'The second, …', 'The third, …'처럼 썼다. 앞에서 나온 말을 되풀이하지 않으려고 생략한 것으로, 읽을 때는 'The second (said), …'로 이해하면 된다.",
+      "example": {
+        "en": "Tom ordered pizza, and Jane, pasta.",
+        "ko": "톰은 피자를, 제인은 파스타를 주문했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "to부정사의 부정: not to + 동사원형",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s15",
+      "highlight": [
+        "took care not to wake her"
+      ],
+      "explanation": "to부정사를 부정할 때는 to 바로 앞에 not을 붙인다. take care to ~는 '~하도록 조심하다', take care not to ~는 '~하지 않도록 조심하다'라는 뜻이다. 난쟁이들은 잠든 아이를 깨우지 않도록 조심했다.",
+      "example": {
+        "en": "She walked slowly, taking care not to fall.",
+        "ko": "그녀는 넘어지지 않도록 조심하며 천천히 걸었다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해; (by and by) 얼마 뒤",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "adverb",
+      "ko": "안으로; ~안에서",
+      "form": null,
+      "synonyms": [
+        "inside"
+      ],
+      "ipa": "/ɪn/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive",
+        "enter"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "masters": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": "복수형",
+      "synonyms": [
+        "owner",
+        "lord"
+      ],
+      "ipa": "/ˈmæstərz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "cottage": {
+      "lemma": "cottage",
+      "pos": "noun",
+      "ko": "작은 시골집, 오두막",
+      "form": null,
+      "synonyms": [
+        "hut",
+        "cabin"
+      ],
+      "ipa": "/ˈkɑːtədʒ/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "그런데, 자 (이야기를 이어 갈 때)",
+      "form": null,
+      "synonyms": [
+        "well"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "seven": {
+      "lemma": "seven",
+      "pos": "number",
+      "ko": "일곱, 7",
+      "form": null,
+      "ipa": "/ˈsɛvən/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "dwarfs": {
+      "lemma": "dwarf",
+      "pos": "noun",
+      "ko": "난쟁이",
+      "form": "복수형",
+      "synonyms": [
+        "gnome"
+      ],
+      "ipa": "/dwɔːrfs/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는; (접속사) ~라고",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": "과거형",
+      "synonyms": [
+        "dwell",
+        "reside"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "among": {
+      "lemma": "among",
+      "pos": "preposition",
+      "ko": "~ 사이에, ~ 속에",
+      "form": null,
+      "ipa": "/əˈmʌŋ/"
+    },
+    "mountains": {
+      "lemma": "mountain",
+      "pos": "noun",
+      "ko": "산",
+      "form": "복수형",
+      "synonyms": [
+        "hill",
+        "peak"
+      ],
+      "ipa": "/ˈmaʊntənz/"
+    },
+    "dug": {
+      "lemma": "dig",
+      "pos": "verb",
+      "ko": "(땅을) 파다, 캐다",
+      "form": "과거형",
+      "synonyms": [
+        "excavate",
+        "mine"
+      ],
+      "ipa": "/dʌɡ/"
+    },
+    "searched": {
+      "lemma": "search",
+      "pos": "verb",
+      "ko": "찾다, 뒤지다",
+      "form": "과거형",
+      "synonyms": [
+        "seek",
+        "hunt",
+        "look"
+      ],
+      "ipa": "/sɜːrtʃt/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 (찾아); ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "gold": {
+      "lemma": "gold",
+      "pos": "noun",
+      "ko": "금",
+      "form": null,
+      "synonyms": [
+        "treasure"
+      ],
+      "ipa": "/ɡoʊld/"
+    },
+    "lighted": {
+      "lemma": "light",
+      "pos": "verb",
+      "ko": "(불을) 켜다",
+      "form": "과거형",
+      "synonyms": [
+        "kindle",
+        "ignite"
+      ],
+      "ipa": "/ˈlaɪtəd/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(light up) 환하게, 완전히",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "lamps": {
+      "lemma": "lamp",
+      "pos": "noun",
+      "ko": "등불, 램프",
+      "form": "복수형",
+      "synonyms": [
+        "lantern",
+        "light"
+      ],
+      "ipa": "/læmps/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다; 알아차리다",
+      "form": "과거형",
+      "synonyms": [
+        "notice",
+        "perceive"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at once) 즉시",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(at once) 곧바로, 즉시",
+      "form": null,
+      "synonyms": [
+        "immediately"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 것; 모두",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~아니다, ~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "adjective",
+      "ko": "제대로 된, 정상인",
+      "form": null,
+      "synonyms": [
+        "correct",
+        "proper"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫째의 (첫째 난쟁이)",
+      "form": null,
+      "synonyms": [
+        "eldest"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "speak",
+        "tell"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "누가",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(has been -ing) ~하고 있었다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "sitting": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rest",
+        "perch"
+      ],
+      "ipa": "/ˈsɪtɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "determiner",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "stool": {
+      "lemma": "stool",
+      "pos": "noun",
+      "ko": "(등받이 없는) 의자",
+      "form": null,
+      "synonyms": [
+        "seat"
+      ],
+      "ipa": "/stuːl/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "둘째의 (둘째 난쟁이)",
+      "form": null,
+      "ipa": "/ˈsɛkənd/"
+    },
+    "eating": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "consume"
+      ],
+      "ipa": "/ˈiːtɪŋ/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "preposition",
+      "ko": "~에서 (떼어 내어)",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "plate": {
+      "lemma": "plate",
+      "pos": "noun",
+      "ko": "접시",
+      "form": null,
+      "synonyms": [
+        "dish"
+      ],
+      "ipa": "/pleɪt/"
+    },
+    "third": {
+      "lemma": "third",
+      "pos": "adjective",
+      "ko": "셋째의 (셋째 난쟁이)",
+      "form": null,
+      "ipa": "/θɜːrd/"
+    },
+    "picking": {
+      "lemma": "pick",
+      "pos": "verb",
+      "ko": "(조금씩) 뜯다, 떼어 먹다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "nibble",
+        "pluck"
+      ],
+      "ipa": "/ˈpɪkɪŋ/"
+    },
+    "bread": {
+      "lemma": "bread",
+      "pos": "noun",
+      "ko": "빵",
+      "form": null,
+      "synonyms": [
+        "loaf"
+      ],
+      "ipa": "/brɛd/"
+    },
+    "fourth": {
+      "lemma": "fourth",
+      "pos": "adjective",
+      "ko": "넷째의 (넷째 난쟁이)",
+      "form": null,
+      "ipa": "/fɔːrθ/"
+    },
+    "meddling": {
+      "lemma": "meddle",
+      "pos": "verb",
+      "ko": "(함부로) 만지다, 참견하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "tamper",
+        "interfere"
+      ],
+      "ipa": "/ˈmɛdəlɪŋ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 (가지고); ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "spoon": {
+      "lemma": "spoon",
+      "pos": "noun",
+      "ko": "숟가락",
+      "form": null,
+      "ipa": "/spuːn/"
+    },
+    "fifth": {
+      "lemma": "fifth",
+      "pos": "adjective",
+      "ko": "다섯째의 (다섯째 난쟁이)",
+      "form": null,
+      "ipa": "/fɪfθ/"
+    },
+    "handling": {
+      "lemma": "handle",
+      "pos": "verb",
+      "ko": "(손으로) 만지다, 다루다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "touch",
+        "use"
+      ],
+      "ipa": "/ˈhændlɪŋ/"
+    },
+    "fork": {
+      "lemma": "fork",
+      "pos": "noun",
+      "ko": "포크",
+      "form": null,
+      "ipa": "/fɔːrk/"
+    },
+    "sixth": {
+      "lemma": "sixth",
+      "pos": "adjective",
+      "ko": "여섯째의 (여섯째 난쟁이)",
+      "form": null,
+      "ipa": "/sɪksθ/"
+    },
+    "cutting": {
+      "lemma": "cut",
+      "pos": "verb",
+      "ko": "자르다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "slice",
+        "chop"
+      ],
+      "ipa": "/ˈkʌtɪŋ/"
+    },
+    "knife": {
+      "lemma": "knife",
+      "pos": "noun",
+      "ko": "칼",
+      "form": null,
+      "synonyms": [
+        "blade"
+      ],
+      "ipa": "/naɪf/"
+    },
+    "seventh": {
+      "lemma": "seventh",
+      "pos": "adjective",
+      "ko": "일곱째의 (일곱째 난쟁이)",
+      "form": null,
+      "ipa": "/ˈsɛvənθ/"
+    },
+    "drinking": {
+      "lemma": "drink",
+      "pos": "verb",
+      "ko": "마시다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "sip",
+        "swallow"
+      ],
+      "ipa": "/ˈdrɪŋkɪŋ/"
+    },
+    "wine": {
+      "lemma": "wine",
+      "pos": "noun",
+      "ko": "포도주",
+      "form": null,
+      "ipa": "/waɪn/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그때, 그러자",
+      "form": null,
+      "synonyms": [
+        "next"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다, 둘러보다",
+      "form": "과거형",
+      "synonyms": [
+        "glance",
+        "gaze"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "round": {
+      "lemma": "round",
+      "pos": "adverb",
+      "ko": "(look round) 빙 둘러",
+      "form": null,
+      "synonyms": [
+        "around"
+      ],
+      "ipa": "/raʊnd/"
+    },
+    "lying": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다, 누워 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rest",
+        "recline"
+      ],
+      "ipa": "/ˈlaɪɪŋ/"
+    },
+    "bed": {
+      "lemma": "bed",
+      "pos": "noun",
+      "ko": "침대",
+      "form": null,
+      "ipa": "/bɛd/"
+    },
+    "rest": {
+      "lemma": "rest",
+      "pos": "noun",
+      "ko": "(the rest) 나머지",
+      "form": null,
+      "synonyms": [
+        "others",
+        "remainder"
+      ],
+      "ipa": "/rɛst/"
+    },
+    "running": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "달리다 (came running: 달려왔다)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "rush",
+        "dash"
+      ],
+      "ipa": "/ˈrʌnɪŋ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하려고",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "everyone": {
+      "lemma": "everyone",
+      "pos": "pronoun",
+      "ko": "모두, 누구나",
+      "form": null,
+      "ipa": "/ˈɛvriˌwʌn/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "소리치다, 외치다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "exclaim"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(cry out) 큰 소리로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "somebody": {
+      "lemma": "somebody",
+      "pos": "pronoun",
+      "ko": "누군가",
+      "form": null,
+      "ipa": "/ˈsʌmˌbɑːdi/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에 (on의 문어체)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "determiner",
+      "ko": "그의, 자기의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 그런데",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "snowdrop": {
+      "lemma": "Snowdrop",
+      "pos": "proper-noun",
+      "ko": "스노드롭 (이 번역본에서 백설공주의 이름, '설강화'라는 꽃 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "부르다",
+      "form": "과거형",
+      "synonyms": [
+        "summon",
+        "invite"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "brethren": {
+      "lemma": "brother",
+      "pos": "noun",
+      "ko": "형제들 (brothers의 옛 형태)",
+      "form": "복수형",
+      "synonyms": [
+        "brothers"
+      ],
+      "ipa": "/ˈbrɛðrən/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "approach"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "look at",
+        "view"
+      ],
+      "ipa": "/siː/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀를",
+      "form": "목적격",
+      "ipa": "/hɜːr/"
+    },
+    "wonder": {
+      "lemma": "wonder",
+      "pos": "noun",
+      "ko": "경이, 놀라움",
+      "form": null,
+      "synonyms": [
+        "amazement",
+        "awe"
+      ],
+      "ipa": "/ˈwʌndər/"
+    },
+    "astonishment": {
+      "lemma": "astonishment",
+      "pos": "noun",
+      "ko": "깜짝 놀람, 경악",
+      "form": null,
+      "synonyms": [
+        "amazement",
+        "surprise"
+      ],
+      "ipa": "/əˈstɑːnɪʃmənt/"
+    },
+    "brought": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "form": "과거형",
+      "synonyms": [
+        "carry",
+        "fetch"
+      ],
+      "ipa": "/brɔːt/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "gaze",
+        "peer"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "(Good heavens!) 세상에, 저런",
+      "form": null,
+      "synonyms": [
+        "great"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "heavens": {
+      "lemma": "heaven",
+      "pos": "noun",
+      "ko": "(Good heavens!) 세상에! (놀람)",
+      "form": "복수형",
+      "ipa": "/ˈhɛvənz/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "(감탄문) 얼마나 ~한",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "lovely": {
+      "lemma": "lovely",
+      "pos": "adjective",
+      "ko": "사랑스러운, 아름다운",
+      "form": null,
+      "synonyms": [
+        "beautiful",
+        "pretty",
+        "charming"
+      ],
+      "ipa": "/ˈlʌvli/"
+    },
+    "child": {
+      "lemma": "child",
+      "pos": "noun",
+      "ko": "아이",
+      "form": null,
+      "synonyms": [
+        "kid",
+        "little one"
+      ],
+      "ipa": "/tʃaɪld/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 무척",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "glad": {
+      "lemma": "glad",
+      "pos": "adjective",
+      "ko": "기쁜",
+      "form": null,
+      "synonyms": [
+        "happy",
+        "pleased",
+        "delighted"
+      ],
+      "ipa": "/ɡlæd/"
+    },
+    "took": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take care) 주의를 기울이다",
+      "form": "과거형",
+      "synonyms": [
+        "exercise"
+      ],
+      "ipa": "/tʊk/"
+    },
+    "care": {
+      "lemma": "care",
+      "pos": "noun",
+      "ko": "주의, 조심",
+      "form": null,
+      "synonyms": [
+        "caution",
+        "attention"
+      ],
+      "ipa": "/kɛr/"
+    },
+    "wake": {
+      "lemma": "wake",
+      "pos": "verb",
+      "ko": "깨우다",
+      "form": null,
+      "synonyms": [
+        "awaken",
+        "rouse"
+      ],
+      "ipa": "/weɪk/"
+    },
+    "dwarf": {
+      "lemma": "dwarf",
+      "pos": "noun",
+      "ko": "난쟁이",
+      "form": null,
+      "synonyms": [
+        "gnome"
+      ],
+      "ipa": "/dwɔːrf/"
+    },
+    "slept": {
+      "lemma": "sleep",
+      "pos": "verb",
+      "ko": "자다",
+      "form": "과거형",
+      "synonyms": [
+        "rest",
+        "doze"
+      ],
+      "ipa": "/slɛpt/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (모음 앞 부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "hour": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "한 시간",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각각, 각자",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른, 나머지의",
+      "form": null,
+      "synonyms": [
+        "remaining"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "noun",
+      "ko": "(in turn) 차례, 순번",
+      "form": null,
+      "synonyms": [
+        "rotation"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "till": {
+      "lemma": "till",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/tɪl/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "synonyms": [
+        "nighttime"
+      ],
+      "ipa": "/naɪt/"
+    },
+    "gone": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다, 지나가다 (was gone: 지나가 버렸다)",
+      "form": "과거분사",
+      "synonyms": [
+        "pass",
+        "end"
+      ],
+      "ipa": "/ɡɔːn/"
+    }
+  }
+}
