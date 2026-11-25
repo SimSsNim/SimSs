@@ -1,0 +1,1747 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-26-L3-3",
+  "date": "2026-11-26",
+  "level": 3,
+  "title": "The Nightingale",
+  "titleKo": "나이팅게일",
+  "genre": "fairy-tale",
+  "tags": [
+    "Andersen",
+    "fairy tale",
+    "fairy-tale"
+  ],
+  "source": {
+    "work": "Fairy Tales of Hans Christian Andersen (The Nightingale)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1843,
+    "edition": "Project Gutenberg #27200",
+    "url": "https://www.gutenberg.org/ebooks/27200",
+    "license": "public-domain",
+    "excerptNote": "'The Nightingale'('나이팅게일', 1843년 발표) 첫 단락 전체 (‘In China, you know, the emperor is a Chinese…’부터 ‘…how beautiful is the nightingale's song!\"’까지, 245단어). 도자기 궁전과 끝없는 정원, 숲속 나이팅게일의 노래를 소개하는 도입부 (여행자들이 나이팅게일을 칭찬하는 둘째 단락부터는 뺌). 이 작품은 PG #1597에는 실려 있지 않아 PG #27200(H. P. Paull 번역으로 알려진 판, Gutenberg에 번역자 표기 없음)에서 가져옴. gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(항목 fairytalesofhans27200gut, 27200.txt)에서 가져왔고, 줄바꿈만 공백 하나로 이음. 'Chinamen', 'travelled', 'every one' 등은 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/andersenfairytales_vol2_1208_librivox/andersenfairytalesvol2_02_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/andersenfairytales_vol2_1208_librivox/andersenfairytalesvol2_02_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/hans-christian-andersen-fairytales-and-short-stories-volume-2-1844-to-1847-by-hans-christian-andersen/",
+    "reader": "Kristin G.",
+    "durationSec": 1341,
+    "startSec": 20,
+    "endSec": 110,
+    "note": "LibriVox 'Hans Christian Andersen: Fairytales and Short Stories Volume 2, 1844 to 1847' 트랙 02 'The Nightingale'(전체 22:21, 낭독 Kristin G.). LibriVox 원문은 hca.gilead.org.il의 H. P. Paull 번역으로 보이며 PG #27200과 같은 번역일 가능성이 높으나, 이 환경에서 대조하지 못함. 지문은 이야기 첫 단락(안내 멘트·제목 뒤 약 0:20~1:50, 단어 수로 어림한 추정)."
+  },
+  "wordCount": 245,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11"
+      ],
+      "ko": "알다시피 중국에서는 황제가 중국 사람이고, 그 주변 사람들도 모두 중국 사람이지요. 내가 지금부터 들려줄 이야기는 아주 오래전에 일어난 일이라, 잊히기 전에 지금 들어 두는 게 좋아요. 황제의 궁전은 세상에서 가장 아름다웠어요. 궁전은 온통 도자기로 지어져 무척 값비쌌지만, 너무 섬세하고 깨지기 쉬워서 누구든 그것을 만지는 사람은 조심해야만 했어요. 정원에서는 아주 진기한 꽃들을 볼 수 있었는데, 꽃마다 예쁜 은방울이 매달려 딸랑딸랑 울렸기 때문에 지나가는 사람은 누구나 그 꽃들을 알아보지 않을 수 없었어요. 정말이지 황제의 정원에 있는 것은 모두 놀라웠고, 정원은 너무 멀리까지 뻗어 있어서 정원사조차 그 끝이 어디인지 몰랐어요. 정원 경계 너머로 여행해 본 사람들은 그곳에 우뚝 솟은 나무들이 있는 웅장한 숲이 깊고 푸른 바다까지 비스듬히 이어져 있고, 큰 배들이 그 나뭇가지 그늘 아래로 지나간다는 것을 알고 있었어요. 이 나무들 가운데 한 그루에 나이팅게일 한 마리가 살았는데, 그 새가 어찌나 아름답게 노래하는지 할 일이 많은 가난한 어부들조차 하던 일을 멈추고 귀를 기울이곤 했어요. 이따금 밤에 그물을 치러 나가면 어부들은 그 새의 노래를 듣고 \"아, 정말 아름답지 않아?\" 하고 말하곤 했어요. 하지만 고기잡이로 돌아가면 다음 날 밤까지 그 새를 잊어버렸지요. 그러다 다시 그 노래를 들으면 \"아, 나이팅게일의 노래는 얼마나 아름다운가!\" 하고 외치곤 했어요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "In China, you know, the emperor is a Chinese, and all those about him are Chinamen also.",
+      "ko": "알다시피 중국에서는 황제가 중국 사람이고, 그 주변 사람들도 모두 중국 사람이지요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "The story I am going to tell you happened a great many years ago, so it is well to hear it now before it is forgotten.",
+      "ko": "내가 지금부터 들려줄 이야기는 아주 오래전에 일어난 일이라, 잊히기 전에 지금 들어 두는 게 좋아요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The emperor's palace was the most beautiful in the world.",
+      "ko": "황제의 궁전은 세상에서 가장 아름다웠어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "It was built entirely of porcelain, and very costly, but so delicate and brittle that whoever touched it was obliged to be careful.",
+      "ko": "궁전은 온통 도자기로 지어져 무척 값비쌌지만, 너무 섬세하고 깨지기 쉬워서 누구든 그것을 만지는 사람은 조심해야만 했어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "In the garden could be seen the most singular flowers, with pretty silver bells tied to them, which tinkled so that every one who passed could not help noticing the flowers.",
+      "ko": "정원에서는 아주 진기한 꽃들을 볼 수 있었는데, 꽃마다 예쁜 은방울이 매달려 딸랑딸랑 울렸기 때문에 지나가는 사람은 누구나 그 꽃들을 알아보지 않을 수 없었어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "Indeed, everything in the emperor's garden was remarkable, and it extended so far that the gardener himself did not know where it ended.",
+      "ko": "정말이지 황제의 정원에 있는 것은 모두 놀라웠고, 정원은 너무 멀리까지 뻗어 있어서 정원사조차 그 끝이 어디인지 몰랐어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "Those who travelled beyond its limits knew that there was a noble forest, with lofty trees, sloping down to the deep blue sea, and the great ships sailed under the shadow of its branches.",
+      "ko": "정원 경계 너머로 여행해 본 사람들은 그곳에 우뚝 솟은 나무들이 있는 웅장한 숲이 깊고 푸른 바다까지 비스듬히 이어져 있고, 큰 배들이 그 나뭇가지 그늘 아래로 지나간다는 것을 알고 있었어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "In one of these trees lived a nightingale, who sang so beautifully that even the poor fishermen, who had so many other things to do, would stop and listen.",
+      "ko": "이 나무들 가운데 한 그루에 나이팅게일 한 마리가 살았는데, 그 새가 어찌나 아름답게 노래하는지 할 일이 많은 가난한 어부들조차 하던 일을 멈추고 귀를 기울이곤 했어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "Sometimes, when they went at night to spread their nets, they would hear her sing, and say, \"Oh, is not that beautiful?\"",
+      "ko": "이따금 밤에 그물을 치러 나가면 어부들은 그 새의 노래를 듣고 \"아, 정말 아름답지 않아?\" 하고 말하곤 했어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p1",
+      "en": "But when they returned to their fishing, they forgot the bird until the next night.",
+      "ko": "하지만 고기잡이로 돌아가면 다음 날 밤까지 그 새를 잊어버렸지요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p1",
+      "en": "Then they would hear it again, and exclaim \"Oh, how beautiful is the nightingale's song!\"",
+      "ko": "그러다 다시 그 노래를 들으면 \"아, 나이팅게일의 노래는 얼마나 아름다운가!\" 하고 외치곤 했어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "porcelain",
+      "pos": "noun",
+      "meaningKo": "도자기, 자기",
+      "ipa": "/ˈpɔrsələn/",
+      "synonyms": [
+        "china",
+        "ceramic"
+      ],
+      "matchText": "porcelain",
+      "sentenceId": "s4",
+      "example": {
+        "en": "My grandmother keeps her porcelain cups in a glass cabinet.",
+        "ko": "할머니는 도자기 찻잔을 유리장에 보관하신다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "brittle",
+      "pos": "adjective",
+      "meaningKo": "깨지기 쉬운, 부서지기 쉬운",
+      "ipa": "/ˈbrɪtəl/",
+      "synonyms": [
+        "fragile",
+        "breakable",
+        "delicate"
+      ],
+      "matchText": "brittle",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Old paper becomes brittle and tears easily.",
+        "ko": "오래된 종이는 바스러지기 쉬워져서 잘 찢어진다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "be obliged to",
+      "pos": "phrase",
+      "meaningKo": "~해야만 하다, 어쩔 수 없이 ~하다",
+      "ipa": "/bi əˈblaɪdʒd tu/",
+      "synonyms": [
+        "have to",
+        "must",
+        "be forced to"
+      ],
+      "matchText": "was obliged to",
+      "sentenceId": "s4",
+      "example": {
+        "en": "We were obliged to wait outside in the rain.",
+        "ko": "우리는 빗속에서 밖에서 기다려야만 했다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "cannot help -ing",
+      "pos": "idiom",
+      "meaningKo": "~하지 않을 수 없다",
+      "ipa": "/ˈkænɑt hɛlp/",
+      "synonyms": [
+        "can't stop",
+        "can't resist"
+      ],
+      "matchText": "could not help noticing",
+      "sentenceId": "s5",
+      "example": {
+        "en": "I could not help laughing at his joke.",
+        "ko": "나는 그의 농담에 웃지 않을 수 없었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "lofty",
+      "pos": "adjective",
+      "meaningKo": "아주 높은, 우뚝 솟은",
+      "ipa": "/ˈlɔfti/",
+      "synonyms": [
+        "tall",
+        "towering",
+        "high"
+      ],
+      "matchText": "lofty",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Lofty mountains surrounded the quiet village.",
+        "ko": "우뚝 솟은 산들이 그 조용한 마을을 둘러싸고 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "그것(궁전)은"
+        },
+        {
+          "text": "was built",
+          "role": "V",
+          "sub": false,
+          "ko": "지어졌다"
+        },
+        {
+          "text": "entirely of porcelain,",
+          "role": "M",
+          "sub": false,
+          "ko": "온통 도자기로,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "very costly,",
+          "role": "C",
+          "sub": false,
+          "ko": "매우 값비쌌다,"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "so delicate and brittle",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 섬세하고 깨지기 쉬워서"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "(그 결과)"
+        },
+        {
+          "text": "whoever touched it",
+          "role": "S",
+          "sub": true,
+          "ko": "그것을 만지는 사람은 누구든"
+        },
+        {
+          "text": "was obliged",
+          "role": "V",
+          "sub": true,
+          "ko": "~해야만 했다"
+        },
+        {
+          "text": "to be careful.",
+          "role": "M",
+          "sub": true,
+          "ko": "조심하는 것을"
+        }
+      ],
+      "skeleton": "It was built … (and was) very costly, but (was) so delicate and brittle that …",
+      "explanation": "주어 It(궁전) 하나에 was built / (was) very costly / (was) so delicate and brittle 세 서술이 and, but으로 이어져 있고, 뒤의 be동사는 생략되었어요. 'so ~ that …'은 '너무 ~해서 …하다'라는 결과를 나타내고, that절 안에서는 whoever touched it(그것을 만지는 사람은 누구든)이 하나의 명사절 주어로 쓰였어요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "In the garden",
+          "role": "M",
+          "sub": false,
+          "ko": "정원에서는"
+        },
+        {
+          "text": "could be seen",
+          "role": "V",
+          "sub": false,
+          "ko": "볼 수 있었다"
+        },
+        {
+          "text": "the most singular flowers,",
+          "role": "S",
+          "sub": false,
+          "ko": "가장 진기한 꽃들이,"
+        },
+        {
+          "text": "with pretty silver bells tied to them,",
+          "role": "M",
+          "sub": false,
+          "ko": "예쁜 은방울이 그것들에 매달린 채,"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고 그 방울들은"
+        },
+        {
+          "text": "tinkled",
+          "role": "V",
+          "sub": true,
+          "ko": "딸랑거렸다"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "every one who passed",
+          "role": "S",
+          "sub": true,
+          "ko": "지나가는 사람은 누구나"
+        },
+        {
+          "text": "could not help",
+          "role": "V",
+          "sub": true,
+          "ko": "~하지 않을 수 없었다"
+        },
+        {
+          "text": "noticing the flowers.",
+          "role": "O",
+          "sub": true,
+          "ko": "그 꽃들을 알아보는 것을"
+        }
+      ],
+      "skeleton": "In the garden could be seen the most singular flowers (= The most singular flowers could be seen in the garden.)",
+      "explanation": "장소를 나타내는 부사구 In the garden이 문장 앞에 나오면서 주어 the most singular flowers와 동사 could be seen의 순서가 바뀐 도치 문장이에요. 'with + 명사 + 과거분사(tied)'는 '~이 매달린 채로'라는 부대상황이고, which는 앞의 bells를 받는 계속적 용법 관계대명사예요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "In one of these trees",
+          "role": "M",
+          "sub": false,
+          "ko": "이 나무들 중 한 그루에"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": false,
+          "ko": "살았다"
+        },
+        {
+          "text": "a nightingale,",
+          "role": "S",
+          "sub": false,
+          "ko": "나이팅게일 한 마리가,"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그 새는"
+        },
+        {
+          "text": "sang",
+          "role": "V",
+          "sub": true,
+          "ko": "노래했다"
+        },
+        {
+          "text": "so beautifully",
+          "role": "M",
+          "sub": true,
+          "ko": "너무 아름답게"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그래서"
+        },
+        {
+          "text": "even the poor fishermen,",
+          "role": "S",
+          "sub": true,
+          "ko": "가난한 어부들조차,"
+        },
+        {
+          "text": "who had so many other things to do,",
+          "role": "M",
+          "sub": true,
+          "ko": "다른 할 일이 아주 많은데도,"
+        },
+        {
+          "text": "would stop and listen.",
+          "role": "V",
+          "sub": true,
+          "ko": "멈춰서 귀 기울이곤 했다."
+        }
+      ],
+      "skeleton": "In one of these trees lived a nightingale.",
+      "explanation": "여기서도 장소 부사구가 앞에 나와 동사 lived가 주어 a nightingale보다 먼저 왔어요(도치). who sang so beautifully that …은 nightingale을 설명하는 관계절이고, 그 안에 'so ~ that …(너무 ~해서 …하다)'이 들어 있어요. would는 과거의 반복된 습관 '~하곤 했다'를 뜻해요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "so ~ that …: 너무 ~해서 …하다",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "so delicate and brittle that"
+      ],
+      "explanation": "'so + 형용사/부사 + that + 주어 + 동사'는 원인(너무 ~해서)과 결과(…하다)를 함께 나타내요. 이 지문에서는 s4(so delicate and brittle that), s6(so far that), s8(so beautifully that)에 세 번이나 나와요.",
+      "example": {
+        "en": "The box was so heavy that I could not lift it.",
+        "ko": "그 상자는 너무 무거워서 나는 들 수 없었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "장소 부사구 도치: In the garden could be seen …",
+      "tags": [
+        "도치",
+        "어순"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "In the garden could be seen"
+      ],
+      "explanation": "장소나 방향을 나타내는 부사구를 문장 맨 앞에 두면 '동사 + 주어' 순서로 뒤집히곤 해요. 주어가 길거나 새로 소개하는 대상일 때 이야기를 생생하게 만들어 줘요. s8의 'In one of these trees lived a nightingale'도 같은 구조예요.",
+      "example": {
+        "en": "On the hill stood an old castle.",
+        "ko": "언덕 위에 오래된 성이 서 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "과거의 습관 would: ~하곤 했다",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "they would hear her sing"
+      ],
+      "explanation": "과거 이야기에서 would + 동사원형은 '(그때마다) ~하곤 했다'라는 반복된 행동을 나타내요. 또 'hear + 목적어 + 동사원형(sing)'은 '~가 …하는 것을 듣다'라는 지각동사 구문이에요.",
+      "example": {
+        "en": "When I was a child, my father would read to me every night.",
+        "ko": "내가 어렸을 때 아버지는 매일 밤 책을 읽어 주시곤 했다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "china": {
+      "lemma": "China",
+      "pos": "proper-noun",
+      "ko": "차이나(중국), 나라 이름",
+      "form": null,
+      "ipa": "/ˈtʃaɪnə/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 여러분",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "emperor": {
+      "lemma": "emperor",
+      "pos": "noun",
+      "ko": "황제",
+      "form": null,
+      "synonyms": [
+        "ruler",
+        "monarch"
+      ],
+      "ipa": "/ˈɛmpərər/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "chinese": {
+      "lemma": "Chinese",
+      "pos": "noun",
+      "ko": "중국 사람",
+      "form": null,
+      "ipa": "/tʃaɪˈniːz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든 (사람들)",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(~하는) 사람들",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~의 주변에",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그의 (목적격)",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "복수 현재형",
+      "ipa": "/ɑːr/"
+    },
+    "chinamen": {
+      "lemma": "Chinaman",
+      "pos": "noun",
+      "ko": "중국 사람 (옛 표현)",
+      "form": "복수형",
+      "ipa": null
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한, 역시",
+      "form": null,
+      "synonyms": [
+        "too"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "story": {
+      "lemma": "story",
+      "pos": "noun",
+      "ko": "이야기",
+      "form": null,
+      "synonyms": [
+        "tale"
+      ],
+      "ipa": "/ˈstɔːri/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (be going to: ~할 것이다)",
+      "form": "1인칭 현재형",
+      "ipa": "/æm/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(be going to) ~할 것이다",
+      "form": "현재분사(-ing)",
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "tell": {
+      "lemma": "tell",
+      "pos": "verb",
+      "ko": "말하다, 들려주다",
+      "form": null,
+      "synonyms": [
+        "relate",
+        "narrate"
+      ],
+      "ipa": "/tɛl/"
+    },
+    "happened": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "일어나다, 생기다",
+      "form": "과거형",
+      "synonyms": [
+        "occur"
+      ],
+      "ipa": "/ˈhæpənd/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "(a great many) 아주 많은; 큰",
+      "form": null,
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "ipa": "/jɪrz/"
+    },
+    "ago": {
+      "lemma": "ago",
+      "pos": "adverb",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/əˈɡoʊ/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그래서; 너무, 아주",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것 (가주어·궁전·정원·노래)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adjective",
+      "ko": "(it is well to) ~하는 게 좋다, 바람직한",
+      "form": null,
+      "synonyms": [
+        "advisable",
+        "wise"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "hear": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": null,
+      "synonyms": [
+        "listen to"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "forgotten": {
+      "lemma": "forget",
+      "pos": "verb",
+      "ko": "잊다 (is forgotten: 잊히다)",
+      "form": "과거분사",
+      "ipa": "/fərˈɡɑːtən/"
+    },
+    "emperor's": {
+      "lemma": "emperor",
+      "pos": "noun",
+      "ko": "황제의",
+      "form": "소유격",
+      "synonyms": [
+        "ruler"
+      ],
+      "ipa": "/ˈɛmpərərz/"
+    },
+    "palace": {
+      "lemma": "palace",
+      "pos": "noun",
+      "ko": "궁전",
+      "form": null,
+      "synonyms": [
+        "castle"
+      ],
+      "ipa": "/ˈpæləs/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, ~였다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장 (최상급)",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "beautiful": {
+      "lemma": "beautiful",
+      "pos": "adjective",
+      "ko": "아름다운",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "pretty"
+      ],
+      "ipa": "/ˈbjuːtəfəl/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상, 세계",
+      "form": null,
+      "synonyms": [
+        "earth"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "built": {
+      "lemma": "build",
+      "pos": "verb",
+      "ko": "짓다 (was built: 지어졌다)",
+      "form": "과거분사",
+      "synonyms": [
+        "construct"
+      ],
+      "ipa": "/bɪlt/"
+    },
+    "entirely": {
+      "lemma": "entirely",
+      "pos": "adverb",
+      "ko": "완전히, 온통",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "wholly"
+      ],
+      "ipa": "/ɪnˈtaɪərli/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~으로 (재료); ~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "porcelain": {
+      "lemma": "porcelain",
+      "pos": "noun",
+      "ko": "도자기, 자기",
+      "form": null,
+      "synonyms": [
+        "china",
+        "ceramic"
+      ],
+      "ipa": "/ˈpɔːrsələn/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "costly": {
+      "lemma": "costly",
+      "pos": "adjective",
+      "ko": "값비싼",
+      "form": null,
+      "synonyms": [
+        "expensive",
+        "precious"
+      ],
+      "ipa": "/ˈkɑːstli/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만, 그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "delicate": {
+      "lemma": "delicate",
+      "pos": "adjective",
+      "ko": "섬세한, 연약한",
+      "form": null,
+      "synonyms": [
+        "fragile",
+        "dainty"
+      ],
+      "ipa": "/ˈdɛləkət/"
+    },
+    "brittle": {
+      "lemma": "brittle",
+      "pos": "adjective",
+      "ko": "깨지기 쉬운",
+      "form": null,
+      "synonyms": [
+        "fragile",
+        "breakable"
+      ],
+      "ipa": "/ˈbrɪtəl/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "(so ~ that) 그래서 …하다; ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "whoever": {
+      "lemma": "whoever",
+      "pos": "pronoun",
+      "ko": "~하는 사람은 누구든",
+      "form": null,
+      "ipa": "/huˈɛvər/"
+    },
+    "touched": {
+      "lemma": "touch",
+      "pos": "verb",
+      "ko": "만지다",
+      "form": "과거형",
+      "synonyms": [
+        "handle"
+      ],
+      "ipa": "/tʌtʃt/"
+    },
+    "obliged": {
+      "lemma": "oblige",
+      "pos": "verb",
+      "ko": "(be obliged to) ~해야만 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "force"
+      ],
+      "ipa": "/əˈblaɪdʒd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~하게 되다",
+      "form": "동사원형",
+      "ipa": "/biː/"
+    },
+    "careful": {
+      "lemma": "careful",
+      "pos": "adjective",
+      "ko": "조심하는",
+      "form": null,
+      "synonyms": [
+        "cautious"
+      ],
+      "ipa": "/ˈkɛrfəl/"
+    },
+    "garden": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원",
+      "form": null,
+      "synonyms": [
+        "yard"
+      ],
+      "ipa": "/ˈɡɑːrdən/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다 (could be seen: 볼 수 있었다)",
+      "form": "과거분사",
+      "ipa": "/siːn/"
+    },
+    "singular": {
+      "lemma": "singular",
+      "pos": "adjective",
+      "ko": "진기한, 보기 드문",
+      "form": null,
+      "synonyms": [
+        "unusual",
+        "remarkable",
+        "strange"
+      ],
+      "ipa": "/ˈsɪŋɡjələr/"
+    },
+    "flowers": {
+      "lemma": "flower",
+      "pos": "noun",
+      "ko": "꽃",
+      "form": "복수형",
+      "synonyms": [
+        "blossom"
+      ],
+      "ipa": "/ˈflaʊərz/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가진, ~한 채로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "pretty": {
+      "lemma": "pretty",
+      "pos": "adjective",
+      "ko": "예쁜",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "charming"
+      ],
+      "ipa": "/ˈprɪti/"
+    },
+    "silver": {
+      "lemma": "silver",
+      "pos": "adjective",
+      "ko": "은으로 만든, 은빛의",
+      "form": null,
+      "ipa": "/ˈsɪlvər/"
+    },
+    "bells": {
+      "lemma": "bell",
+      "pos": "noun",
+      "ko": "방울, 종",
+      "form": "복수형",
+      "ipa": "/bɛlz/"
+    },
+    "tied": {
+      "lemma": "tie",
+      "pos": "verb",
+      "ko": "매다, 묶다 (tied to: ~에 매달린)",
+      "form": "과거분사",
+      "synonyms": [
+        "fasten",
+        "attach"
+      ],
+      "ipa": "/taɪd/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을 (목적격)",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "그리고 그것은 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "tinkled": {
+      "lemma": "tinkle",
+      "pos": "verb",
+      "ko": "딸랑딸랑 울리다",
+      "form": "과거형",
+      "synonyms": [
+        "jingle",
+        "ring"
+      ],
+      "ipa": "/ˈtɪŋkəld/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "모든, ~마다",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "사람 (every one: 모든 사람)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "go by"
+      ],
+      "ipa": "/pæst/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "(cannot help -ing) ~하지 않을 수 없다",
+      "form": null,
+      "synonyms": [
+        "avoid",
+        "resist"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "noticing": {
+      "lemma": "notice",
+      "pos": "verb",
+      "ko": "알아차리다, 눈에 띄다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "observe",
+        "see"
+      ],
+      "ipa": "/ˈnoʊtɪsɪŋ/"
+    },
+    "indeed": {
+      "lemma": "indeed",
+      "pos": "adverb",
+      "ko": "정말로, 참으로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "really"
+      ],
+      "ipa": "/ˌɪnˈdiːd/"
+    },
+    "everything": {
+      "lemma": "everything",
+      "pos": "pronoun",
+      "ko": "모든 것",
+      "form": null,
+      "ipa": "/ˈɛvriˌθɪŋ/"
+    },
+    "remarkable": {
+      "lemma": "remarkable",
+      "pos": "adjective",
+      "ko": "놀라운, 주목할 만한",
+      "form": null,
+      "synonyms": [
+        "extraordinary",
+        "wonderful"
+      ],
+      "ipa": "/rɪˈmɑːrkəbəl/"
+    },
+    "extended": {
+      "lemma": "extend",
+      "pos": "verb",
+      "ko": "뻗어 있다, 이어지다",
+      "form": "과거형",
+      "synonyms": [
+        "stretch",
+        "reach"
+      ],
+      "ipa": "/ɪkˈstɛndəd/"
+    },
+    "far": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "멀리",
+      "form": null,
+      "ipa": "/fɑːr/"
+    },
+    "gardener": {
+      "lemma": "gardener",
+      "pos": "noun",
+      "ko": "정원사",
+      "form": null,
+      "ipa": "/ˈɡɑːrdənər/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신, ~조차",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "did": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": "과거형",
+      "ipa": "/dɪd/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "어디에 (where it ended: 그것이 끝나는 곳)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "ended": {
+      "lemma": "end",
+      "pos": "verb",
+      "ko": "끝나다",
+      "form": "과거형",
+      "synonyms": [
+        "finish",
+        "stop"
+      ],
+      "ipa": "/ˈɛndəd/"
+    },
+    "travelled": {
+      "lemma": "travel",
+      "pos": "verb",
+      "ko": "여행하다",
+      "form": "과거형",
+      "synonyms": [
+        "journey"
+      ],
+      "ipa": "/ˈtrævəld/"
+    },
+    "beyond": {
+      "lemma": "beyond",
+      "pos": "preposition",
+      "ko": "~ 너머로",
+      "form": null,
+      "ipa": "/bɪˈɑːnd/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "determiner",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "limits": {
+      "lemma": "limit",
+      "pos": "noun",
+      "ko": "경계, 한계",
+      "form": "복수형",
+      "synonyms": [
+        "boundary",
+        "border"
+      ],
+      "ipa": "/ˈlɪməts/"
+    },
+    "knew": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": "과거형",
+      "ipa": "/nuː/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was) ~이 있었다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "noble": {
+      "lemma": "noble",
+      "pos": "adjective",
+      "ko": "웅장한, 훌륭한",
+      "form": null,
+      "synonyms": [
+        "grand",
+        "magnificent",
+        "stately"
+      ],
+      "ipa": "/ˈnoʊbəl/"
+    },
+    "forest": {
+      "lemma": "forest",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "woods"
+      ],
+      "ipa": "/ˈfɔːrəst/"
+    },
+    "lofty": {
+      "lemma": "lofty",
+      "pos": "adjective",
+      "ko": "아주 높은, 우뚝 솟은",
+      "form": null,
+      "synonyms": [
+        "tall",
+        "towering"
+      ],
+      "ipa": "/ˈlɔːfti/"
+    },
+    "trees": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": "복수형",
+      "ipa": "/triːz/"
+    },
+    "sloping": {
+      "lemma": "slope",
+      "pos": "verb",
+      "ko": "비탈지다, 비스듬히 이어지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "incline",
+        "descend"
+      ],
+      "ipa": "/ˈsloʊpɪŋ/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adjective",
+      "ko": "깊은",
+      "form": null,
+      "ipa": "/diːp/"
+    },
+    "blue": {
+      "lemma": "blue",
+      "pos": "adjective",
+      "ko": "푸른, 파란",
+      "form": null,
+      "synonyms": [
+        "azure"
+      ],
+      "ipa": "/bluː/"
+    },
+    "sea": {
+      "lemma": "sea",
+      "pos": "noun",
+      "ko": "바다",
+      "form": null,
+      "synonyms": [
+        "ocean"
+      ],
+      "ipa": "/siː/"
+    },
+    "ships": {
+      "lemma": "ship",
+      "pos": "noun",
+      "ko": "배",
+      "form": "복수형",
+      "synonyms": [
+        "vessel",
+        "boat"
+      ],
+      "ipa": "/ʃɪps/"
+    },
+    "sailed": {
+      "lemma": "sail",
+      "pos": "verb",
+      "ko": "항해하다, 배가 지나가다",
+      "form": "과거형",
+      "synonyms": [
+        "voyage"
+      ],
+      "ipa": "/seɪld/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래로",
+      "form": null,
+      "ipa": "/ˈʌndər/"
+    },
+    "shadow": {
+      "lemma": "shadow",
+      "pos": "noun",
+      "ko": "그늘, 그림자",
+      "form": null,
+      "synonyms": [
+        "shade"
+      ],
+      "ipa": "/ˈʃæˌdoʊ/"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "bough",
+        "limb"
+      ],
+      "ipa": "/ˈbræntʃəz/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이 (복수)",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살다",
+      "form": "과거형",
+      "synonyms": [
+        "dwell"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "nightingale": {
+      "lemma": "nightingale",
+      "pos": "noun",
+      "ko": "나이팅게일 (밤에 우는 작은 새)",
+      "form": null,
+      "ipa": "/ˈnaɪtɪŋɡeɪl/"
+    },
+    "sang": {
+      "lemma": "sing",
+      "pos": "verb",
+      "ko": "노래하다",
+      "form": "과거형",
+      "ipa": "/sæŋ/"
+    },
+    "beautifully": {
+      "lemma": "beautifully",
+      "pos": "adverb",
+      "ko": "아름답게",
+      "form": null,
+      "synonyms": [
+        "lovely",
+        "gracefully"
+      ],
+      "ipa": "/ˈbjuːtəfli/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "~조차, ~마저",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "humble"
+      ],
+      "ipa": "/puːr/"
+    },
+    "fishermen": {
+      "lemma": "fisherman",
+      "pos": "noun",
+      "ko": "어부",
+      "form": "복수형",
+      "synonyms": [
+        "fisher"
+      ],
+      "ipa": "/ˈfɪʃərmɪn/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, (할 일이) 있다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "things": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "일, 것",
+      "form": "복수형",
+      "synonyms": [
+        "task"
+      ],
+      "ipa": "/θɪŋz/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": "동사원형",
+      "ipa": "/duː/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하곤 했다 (과거 습관)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "stop": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다",
+      "form": null,
+      "synonyms": [
+        "pause",
+        "halt"
+      ],
+      "ipa": "/stɑːp/"
+    },
+    "listen": {
+      "lemma": "listen",
+      "pos": "verb",
+      "ko": "귀 기울이다, 듣다",
+      "form": null,
+      "synonyms": [
+        "hear",
+        "attend"
+      ],
+      "ipa": "/ˈlɪsən/"
+    },
+    "sometimes": {
+      "lemma": "sometimes",
+      "pos": "adverb",
+      "ko": "때때로, 이따금",
+      "form": null,
+      "synonyms": [
+        "occasionally"
+      ],
+      "ipa": "/səmˈtaɪmz/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들 (어부들)",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "ipa": "/wɛnt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (at night: 밤에)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "ipa": "/naɪt/"
+    },
+    "spread": {
+      "lemma": "spread",
+      "pos": "verb",
+      "ko": "펼치다, (그물을) 치다",
+      "form": null,
+      "synonyms": [
+        "lay out",
+        "cast"
+      ],
+      "ipa": "/sprɛd/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "nets": {
+      "lemma": "net",
+      "pos": "noun",
+      "ko": "그물",
+      "form": "복수형",
+      "ipa": "/nɛts/"
+    },
+    "her": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀를 (나이팅게일)",
+      "form": "목적격",
+      "ipa": "/hɜːr/"
+    },
+    "sing": {
+      "lemma": "sing",
+      "pos": "verb",
+      "ko": "노래하다",
+      "form": "동사원형",
+      "ipa": "/sɪŋ/"
+    },
+    "say": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "동사원형",
+      "ipa": "/seɪ/"
+    },
+    "oh": {
+      "lemma": "oh",
+      "pos": "interjection",
+      "ko": "아, 오 (감탄)",
+      "form": null,
+      "ipa": "/oʊ/"
+    },
+    "returned": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌아가다",
+      "form": "과거형",
+      "synonyms": [
+        "go back"
+      ],
+      "ipa": "/rɪˈtɜːrnd/"
+    },
+    "fishing": {
+      "lemma": "fishing",
+      "pos": "noun",
+      "ko": "고기잡이, 낚시",
+      "form": null,
+      "ipa": "/ˈfɪʃɪŋ/"
+    },
+    "forgot": {
+      "lemma": "forget",
+      "pos": "verb",
+      "ko": "잊다",
+      "form": "과거형",
+      "ipa": "/fərˈɡɑːt/"
+    },
+    "bird": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새",
+      "form": null,
+      "ipa": "/bɜːrd/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "preposition",
+      "ko": "~까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고 나서, 그때",
+      "form": null,
+      "ipa": "/ðɛn/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "exclaim": {
+      "lemma": "exclaim",
+      "pos": "verb",
+      "ko": "외치다, 감탄하여 소리치다",
+      "form": "동사원형",
+      "synonyms": [
+        "cry out",
+        "shout"
+      ],
+      "ipa": "/ɪksˈkleɪm/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나 (감탄문)",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "nightingale's": {
+      "lemma": "nightingale",
+      "pos": "noun",
+      "ko": "나이팅게일의",
+      "form": "소유격",
+      "ipa": null
+    },
+    "song": {
+      "lemma": "song",
+      "pos": "noun",
+      "ko": "노래",
+      "form": null,
+      "synonyms": [
+        "melody",
+        "tune"
+      ],
+      "ipa": "/sɔːŋ/"
+    }
+  }
+}
