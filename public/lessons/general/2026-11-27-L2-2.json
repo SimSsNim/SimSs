@@ -1,0 +1,1228 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-27-L2-2",
+  "date": "2026-11-27",
+  "level": 2,
+  "title": "The Horse and the Stag",
+  "titleKo": "말과 수사슴",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_14_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_eleven_librivox/fables_11_14_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-11-fables-251-275",
+    "reader": "Nikolle Doolin",
+    "durationSec": 95,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 11, 14번 트랙(전체 264번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 146,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "옛날에 한 말이 혼자 독차지한 풀밭에서 풀을 뜯으며 살고 있었다. 그런데 어느 날 수사슴 한 마리가 풀밭에 들어와서는, 자기도 말과 똑같이 거기서 풀을 먹을 권리가 있다고 말하고, 게다가 가장 좋은 자리들을 모두 차지해 버렸다. 말은 반갑지 않은 손님에게 복수하고 싶어서, 사람에게 가서 수사슴을 쫓아내는 것을 도와줄 수 있느냐고 물었다. \"좋지.\" 사람이 말했다. \"기꺼이 도와주마. 하지만 네 입에 굴레를 씌우고 네 등에 올라타게 해 줘야만 그렇게 할 수 있단다.\" 말은 이에 동의했고, 둘은 함께 곧 수사슴을 목초지에서 쫓아냈다. 하지만 일이 끝나고 나서 말은 낭패스럽게도 그 사람이 평생의 주인이 되어 버렸다는 것을 알게 되었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "There was once a Horse who used to graze in a meadow which he had all to himself.",
+      "ko": "옛날에 한 말이 혼자 독차지한 풀밭에서 풀을 뜯으며 살고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "But one day a Stag came into the meadow, and said he had as good a right to feed there as the Horse, and moreover chose all the best places for himself.",
+      "ko": "그런데 어느 날 수사슴 한 마리가 풀밭에 들어와서는, 자기도 말과 똑같이 거기서 풀을 먹을 권리가 있다고 말하고, 게다가 가장 좋은 자리들을 모두 차지해 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The Horse, wishing to be revenged upon his unwelcome visitor, went to a man and asked if he would help him to turn out the Stag.",
+      "ko": "말은 반갑지 않은 손님에게 복수하고 싶어서, 사람에게 가서 수사슴을 쫓아내는 것을 도와줄 수 있느냐고 물었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "\"Yes,\" said the man, \"I will by all means; but I can only do so if you let me put a bridle in your mouth and mount on your back.\"",
+      "ko": "\"좋지.\" 사람이 말했다. \"기꺼이 도와주마. 하지만 네 입에 굴레를 씌우고 네 등에 올라타게 해 줘야만 그렇게 할 수 있단다.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The Horse agreed to this, and the two together very soon turned the Stag out of the pasture: but when that was done, the Horse found to his dismay that in the man he had got a master for good.",
+      "ko": "말은 이에 동의했고, 둘은 함께 곧 수사슴을 목초지에서 쫓아냈다. 하지만 일이 끝나고 나서 말은 낭패스럽게도 그 사람이 평생의 주인이 되어 버렸다는 것을 알게 되었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "graze",
+      "pos": "verb",
+      "meaningKo": "(가축이) 풀을 뜯다",
+      "ipa": "/ɡreɪz/",
+      "synonyms": [
+        "feed",
+        "browse"
+      ],
+      "matchText": "graze",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Cows were grazing in the field.",
+        "ko": "소들이 들판에서 풀을 뜯고 있었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "moreover",
+      "pos": "adverb",
+      "meaningKo": "게다가, 더욱이",
+      "ipa": "/mɔrˈoʊvɚ/",
+      "synonyms": [
+        "besides",
+        "furthermore",
+        "in addition"
+      ],
+      "matchText": "moreover",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The hotel was cheap; moreover, it was clean.",
+        "ko": "그 호텔은 쌌다. 게다가 깨끗했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "unwelcome",
+      "pos": "adjective",
+      "meaningKo": "반갑지 않은, 달갑지 않은",
+      "ipa": "/ʌnˈwɛlkəm/",
+      "synonyms": [
+        "unwanted",
+        "undesirable"
+      ],
+      "matchText": "unwelcome",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Rain was an unwelcome guest at the picnic.",
+        "ko": "비는 소풍에 반갑지 않은 손님이었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "by all means",
+      "pos": "idiom",
+      "meaningKo": "기꺼이, 물론이지",
+      "ipa": "/baɪ ɔl minz/",
+      "synonyms": [
+        "certainly",
+        "of course"
+      ],
+      "matchText": "by all means",
+      "sentenceId": "s4",
+      "example": {
+        "en": "\"May I sit here?\" \"By all means.\"",
+        "ko": "\"여기 앉아도 될까요?\" \"물론이죠.\""
+      }
+    },
+    {
+      "id": "v5",
+      "term": "to one's dismay",
+      "pos": "idiom",
+      "meaningKo": "실망스럽게도, 당황스럽게도",
+      "ipa": "/tu wʌnz dɪsˈmeɪ/",
+      "synonyms": [
+        "to one's disappointment",
+        "sadly"
+      ],
+      "matchText": "to his dismay",
+      "sentenceId": "s5",
+      "example": {
+        "en": "To my dismay, the shop was closed.",
+        "ko": "실망스럽게도 가게는 문을 닫았다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The Horse,",
+          "role": "S",
+          "sub": false,
+          "ko": "말은"
+        },
+        {
+          "text": "wishing to be revenged upon his unwelcome visitor,",
+          "role": "M",
+          "sub": false,
+          "ko": "반갑지 않은 손님에게 복수하고 싶어서"
+        },
+        {
+          "text": "went",
+          "role": "V",
+          "sub": false,
+          "ko": "갔다"
+        },
+        {
+          "text": "to a man",
+          "role": "M",
+          "sub": false,
+          "ko": "한 사람에게"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "asked",
+          "role": "V",
+          "sub": false,
+          "ko": "물었다"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~인지"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "would help",
+          "role": "V",
+          "sub": true,
+          "ko": "도와줄지"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": true,
+          "ko": "그를(말을)"
+        },
+        {
+          "text": "to turn out the Stag.",
+          "role": "OC",
+          "sub": true,
+          "ko": "수사슴을 쫓아내도록"
+        }
+      ],
+      "skeleton": "The Horse went ~ and asked if ~",
+      "explanation": "뼈대는 The Horse went to a man and asked(말은 사람에게 가서 물었다)예요. 쉼표 사이의 wishing ~은 이유를 나타내는 분사구문이고, if 절(~인지 아닌지)이 asked의 목적어예요. help + 목적어 + to부정사는 '~가 …하도록 돕다'예요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "The Horse",
+          "role": "S",
+          "sub": false,
+          "ko": "말은"
+        },
+        {
+          "text": "agreed",
+          "role": "V",
+          "sub": false,
+          "ko": "동의했다"
+        },
+        {
+          "text": "to this,",
+          "role": "M",
+          "sub": false,
+          "ko": "이것에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "the two",
+          "role": "S",
+          "sub": false,
+          "ko": "그 둘은"
+        },
+        {
+          "text": "together",
+          "role": "M",
+          "sub": false,
+          "ko": "함께"
+        },
+        {
+          "text": "very soon",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 곧"
+        },
+        {
+          "text": "turned",
+          "role": "V",
+          "sub": false,
+          "ko": "쫓아냈다"
+        },
+        {
+          "text": "the Stag",
+          "role": "O",
+          "sub": false,
+          "ko": "수사슴을"
+        },
+        {
+          "text": "out of the pasture:",
+          "role": "M",
+          "sub": false,
+          "ko": "목초지 밖으로"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~했을 때"
+        },
+        {
+          "text": "that",
+          "role": "S",
+          "sub": true,
+          "ko": "그 일이"
+        },
+        {
+          "text": "was done,",
+          "role": "V",
+          "sub": true,
+          "ko": "끝났다"
+        },
+        {
+          "text": "the Horse",
+          "role": "S",
+          "sub": false,
+          "ko": "말은"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "sub": false,
+          "ko": "알게 되었다"
+        },
+        {
+          "text": "to his dismay",
+          "role": "M",
+          "sub": false,
+          "ko": "낭패스럽게도"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "in the man",
+          "role": "M",
+          "sub": true,
+          "ko": "그 사람이라는"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "had got",
+          "role": "V",
+          "sub": true,
+          "ko": "얻게 되었다"
+        },
+        {
+          "text": "a master",
+          "role": "O",
+          "sub": true,
+          "ko": "주인을"
+        },
+        {
+          "text": "for good.",
+          "role": "M",
+          "sub": true,
+          "ko": "영원히"
+        }
+      ],
+      "skeleton": "the Horse found that he had got a master",
+      "explanation": "콜론(:) 뒤의 뼈대는 the Horse found that ~(말은 ~라는 것을 알게 되었다)예요. that 절 속 he had got a master for good은 '영원한 주인을 얻고 말았다'는 뜻이고, in the man은 '그 사람에게서, 그 사람이라는 존재로'라는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "used to + 동사원형 (예전에 ~하곤 했다)",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "used to graze"
+      ],
+      "explanation": "used to + 동사원형은 '과거에는 ~하곤 했다(지금은 아니다)'라는 뜻이에요. 말이 예전에는 풀밭을 혼자 쓰며 풀을 뜯었다는 걸 보여 줘요.",
+      "example": {
+        "en": "I used to live in Busan.",
+        "ko": "나는 예전에 부산에 살았다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as + 형용사 + a + 명사 + as (~만큼 …한)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "as good a right to feed there as the Horse"
+      ],
+      "explanation": "as ~ as는 '~만큼 …한'이라는 동등 비교예요. 형용사 + 명사를 함께 넣을 때는 as good a right처럼 'as + 형용사 + a + 명사' 순서가 돼요.",
+      "example": {
+        "en": "She is as good a singer as her mother.",
+        "ko": "그녀는 엄마만큼 훌륭한 가수다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "only ~ if (~해야만, ~하는 경우에만)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "I can only do so if you let me"
+      ],
+      "explanation": "only와 if가 함께 쓰이면 '~하는 경우에만 …할 수 있다'라는 강한 조건이 돼요. let + 목적어 + 동사원형은 '~가 …하게 허락하다'라는 뜻이에요.",
+      "example": {
+        "en": "You can only go out if you finish your homework.",
+        "ko": "숙제를 끝내야만 나갈 수 있다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was) ~이 있었다; 거기에",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 있었다, ~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "옛날에, 한때",
+      "form": null,
+      "synonyms": [
+        "formerly",
+        "long ago"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "horse": {
+      "lemma": "horse",
+      "pos": "noun",
+      "ko": "말",
+      "form": null,
+      "synonyms": [
+        "steed",
+        "pony"
+      ],
+      "ipa": "/hɔːrs/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "used": {
+      "lemma": "use",
+      "pos": "auxiliary",
+      "ko": "(used to) 예전에 ~하곤 했다",
+      "form": "과거형",
+      "ipa": "/juːzd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하는 것; ~에게, ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "graze": {
+      "lemma": "graze",
+      "pos": "verb",
+      "ko": "풀을 뜯다",
+      "form": null,
+      "synonyms": [
+        "feed",
+        "browse"
+      ],
+      "ipa": "/ɡreɪz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에서, ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "meadow": {
+      "lemma": "meadow",
+      "pos": "noun",
+      "ko": "풀밭, 초원",
+      "form": null,
+      "synonyms": [
+        "field",
+        "grassland"
+      ],
+      "ipa": "/ˈmɛˌdoʊ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것을",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있었다; auxiliary (had + 과거분사)",
+      "form": "과거형",
+      "synonyms": [
+        "own",
+        "possess"
+      ],
+      "ipa": "/hæd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "(all to himself) 온통 혼자서; determiner 모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신",
+      "form": null,
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "determiner",
+      "ko": "어느, 한",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "ipa": "/deɪ/",
+      "synonyms": [
+        "date",
+        "time"
+      ]
+    },
+    "stag": {
+      "lemma": "stag",
+      "pos": "noun",
+      "ko": "수사슴",
+      "form": null,
+      "synonyms": [
+        "deer",
+        "buck"
+      ],
+      "ipa": "/stæɡ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다",
+      "form": "과거형",
+      "synonyms": [
+        "arrive",
+        "enter"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "claim"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as ~ as) ~만큼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "정당한, 충분한; (for good) 영원히",
+      "form": null,
+      "synonyms": [
+        "fair",
+        "valid"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "right": {
+      "lemma": "right",
+      "pos": "noun",
+      "ko": "권리",
+      "form": null,
+      "synonyms": [
+        "claim",
+        "entitlement"
+      ],
+      "ipa": "/raɪt/"
+    },
+    "feed": {
+      "lemma": "feed",
+      "pos": "verb",
+      "ko": "먹이를 먹다",
+      "form": null,
+      "synonyms": [
+        "eat",
+        "graze"
+      ],
+      "ipa": "/fiːd/"
+    },
+    "moreover": {
+      "lemma": "moreover",
+      "pos": "adverb",
+      "ko": "게다가",
+      "form": null,
+      "synonyms": [
+        "besides",
+        "furthermore"
+      ],
+      "ipa": "/mɔˈroʊvər/"
+    },
+    "chose": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "골랐다, 차지했다",
+      "form": "과거형",
+      "synonyms": [
+        "pick",
+        "select"
+      ],
+      "ipa": "/tʃoʊz/"
+    },
+    "best": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "가장 좋은",
+      "form": "최상급",
+      "synonyms": [
+        "finest",
+        "choicest"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "places": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "자리, 장소",
+      "form": "복수형",
+      "synonyms": [
+        "spot",
+        "area"
+      ],
+      "ipa": "/ˈpleɪsəz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해; (for good) 영원히",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "wishing": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "원하는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "want",
+        "desire"
+      ],
+      "ipa": "/ˈwɪʃɪŋ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "revenged": {
+      "lemma": "revenge",
+      "pos": "verb",
+      "ko": "(be revenged upon) ~에게 복수하다",
+      "form": "과거분사",
+      "synonyms": [
+        "avenge",
+        "get back at"
+      ],
+      "ipa": "/rɪˈvɛndʒd/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에게 (on의 격식체)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "unwelcome": {
+      "lemma": "unwelcome",
+      "pos": "adjective",
+      "ko": "반갑지 않은",
+      "form": null,
+      "synonyms": [
+        "unwanted",
+        "undesirable"
+      ],
+      "ipa": "/ənˈwɛlkəm/"
+    },
+    "visitor": {
+      "lemma": "visitor",
+      "pos": "noun",
+      "ko": "손님, 방문자",
+      "form": null,
+      "synonyms": [
+        "guest",
+        "caller"
+      ],
+      "ipa": "/ˈvɪzɪtər/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "갔다",
+      "form": "과거형",
+      "synonyms": [
+        "travel",
+        "head"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람, 남자",
+      "form": null,
+      "synonyms": [
+        "person",
+        "human"
+      ],
+      "ipa": "/mæn/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "물었다",
+      "form": "과거형",
+      "synonyms": [
+        "inquire",
+        "request"
+      ],
+      "ipa": "/æskt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~인지; 만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~해 줄 것인지",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "aid"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn out) 쫓아내다",
+      "form": null,
+      "synonyms": [
+        "drive",
+        "expel"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "synonyms": [
+        "away"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "yes": {
+      "lemma": "yes",
+      "pos": "interjection",
+      "ko": "응, 그래",
+      "form": null,
+      "ipa": "/jɛs/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~하겠다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "(by all means) 기꺼이",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "means": {
+      "lemma": "means",
+      "pos": "noun",
+      "ko": "(by all means) 기꺼이, 물론",
+      "form": null,
+      "synonyms": [
+        "ways",
+        "methods"
+      ],
+      "ipa": "/miːnz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, ~해야만",
+      "form": null,
+      "synonyms": [
+        "just",
+        "solely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/duː/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너는",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "~하게 하다, 허락하다",
+      "form": null,
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "넣다, 씌우다",
+      "form": null,
+      "synonyms": [
+        "place",
+        "fit"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "bridle": {
+      "lemma": "bridle",
+      "pos": "noun",
+      "ko": "굴레 (말 머리에 씌우는 마구)",
+      "form": null,
+      "synonyms": [
+        "harness",
+        "headgear"
+      ],
+      "ipa": "/ˈbraɪdəl/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "mouth": {
+      "lemma": "mouth",
+      "pos": "noun",
+      "ko": "입",
+      "form": null,
+      "synonyms": [
+        "jaws"
+      ],
+      "ipa": "/maʊθ/"
+    },
+    "mount": {
+      "lemma": "mount",
+      "pos": "verb",
+      "ko": "올라타다",
+      "form": null,
+      "synonyms": [
+        "climb on",
+        "ride"
+      ],
+      "ipa": "/maʊnt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "noun",
+      "ko": "등",
+      "form": null,
+      "synonyms": [
+        "spine"
+      ],
+      "ipa": "/bæk/"
+    },
+    "agreed": {
+      "lemma": "agree",
+      "pos": "verb",
+      "ko": "동의했다",
+      "form": "과거형",
+      "synonyms": [
+        "consent",
+        "accept"
+      ],
+      "ipa": "/əˈɡriːd/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "jointly"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "really"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "soon": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "곧",
+      "form": null,
+      "synonyms": [
+        "quickly",
+        "shortly"
+      ],
+      "ipa": "/suːn/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn out) 쫓아냈다",
+      "form": "과거형",
+      "synonyms": [
+        "drive",
+        "chase"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "(out of) ~ 밖으로",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "pasture": {
+      "lemma": "pasture",
+      "pos": "noun",
+      "ko": "목초지, 풀밭",
+      "form": null,
+      "synonyms": [
+        "meadow",
+        "grassland"
+      ],
+      "ipa": "/ˈpæstʃər/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~했을 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것; conjunction ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "done": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "끝난, 된",
+      "form": "과거분사",
+      "synonyms": [
+        "finished",
+        "completed"
+      ],
+      "ipa": "/dʌn/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "알게 되었다",
+      "form": "과거형",
+      "synonyms": [
+        "discover",
+        "realize"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "dismay": {
+      "lemma": "dismay",
+      "pos": "noun",
+      "ko": "(to one's dismay) 실망, 낭패",
+      "form": null,
+      "synonyms": [
+        "disappointment",
+        "distress"
+      ],
+      "ipa": "/dɪˈsmeɪ/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻었다",
+      "form": "과거분사",
+      "synonyms": [
+        "gain",
+        "obtain"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "owner",
+        "ruler"
+      ],
+      "ipa": "/ˈmæstər/"
+    }
+  }
+}
