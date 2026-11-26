@@ -1,0 +1,2026 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-27-L4",
+  "date": "2026-11-27",
+  "level": 4,
+  "title": "Tobin's Palm",
+  "titleKo": "토빈의 손금",
+  "genre": "short-story",
+  "tags": [
+    "O. Henry",
+    "short story",
+    "New York",
+    "Coney Island"
+  ],
+  "source": {
+    "work": "The Four Million (Tobin's Palm)",
+    "author": "O. Henry",
+    "translator": null,
+    "year": 1906,
+    "edition": "Project Gutenberg #2776",
+    "url": "https://www.gutenberg.org/ebooks/2776",
+    "license": "public-domain",
+    "excerptNote": "'Tobin's Palm'(「토빈의 손금」, 단편집 The Four Million의 첫 작품) 첫 5개 단락 전체 (‘Tobin and me, the two of us…’부터 ‘…the weather predictions in the papers.’까지, 290단어). 연인 케이티를 잃고 시름에 잠긴 토빈을 데리고 코니아일랜드에 간 '나'가 손금쟁이 노점에 이르는 도입부 (마담 조조의 노점 안으로 들어가는 여섯째 단락부터는 뺌). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2776, 항목 thefourmillion02776gut의 2776-8.txt)에서 가져왔고, 줄바꿈만 공백으로 이음. me and Tobin, I gets, me hand 같은 화자의 사투리·구어체, 'Tis 같은 표기는 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/four_million_librivox/fourmillion_01_ohenry.mp3",
+    "mp3Low": "https://www.archive.org/download/four_million_librivox/fourmillion_01_ohenry_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-four-million-by-o-henry/",
+    "reader": "Marian Brown",
+    "durationSec": 1004,
+    "startSec": 20,
+    "endSec": 130,
+    "note": "LibriVox The Four Million, 트랙 01 'Tobin's Palm'(16:44). 지문은 이야기 첫 부분(LibriVox 안내 멘트·제목 뒤 약 0:20~2:10, 단어 수로 어림한 추정). 트랙·낭독자·길이는 LibriVox API와 archive.org 항목 정보로 확인함."
+  },
+  "wordCount": 290,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "토빈과 나, 우리 둘은 어느 날 코니(아일랜드)로 내려갔다. 우리 둘 사이에 4달러가 있었고, 토빈에게는 기분 전환이 필요했기 때문이다. 슬라이고 주 출신의 그의 연인 케이티 마호너는 석 달 전, 자기 저금 200달러와 토빈이 물려받은 재산(섀너 습지의 멋진 오두막과 돼지 한 마리)을 판 돈 100달러를 가지고 미국으로 떠난 뒤로 행방이 묘연했다. 그녀가 그에게 오려고 떠났다는 편지를 받은 이후로 토빈은 케이티 마호너의 소식을 한 조각도 듣거나 보지 못했다. 토빈은 신문에 광고를 냈지만 그 아가씨에 대해서는 아무것도 찾을 수 없었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "그래서 나와 토빈은 미끄럼틀을 한 번 타고 팝콘 냄새를 맡으면 그의 가슴속 마음이 좀 살아날지도 모른다고 생각하며 코니로 갔다. 하지만 토빈은 고집 센 사람이라 슬픔이 살갗에 딱 달라붙어 떨어지지 않았다. 그는 삑삑 우는 풍선을 보고 이를 갈았고, 활동사진에 욕을 퍼부었으며, 권하면 언제든 술은 마시면서도 펀치와 주디 인형극은 비웃었고, 양철판 사진사들이 다가오면 두들겨 패려고 들었다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s8",
+        "s9"
+      ],
+      "ko": "그래서 나는 그를 놀이 시설이 좀 덜 요란한 판자 산책로의 옆길로 데려간다. 가로세로 6피트에 8피트짜리 작은 노점 앞에서 토빈이 좀 더 사람다운 눈빛을 하고 멈춰 선다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "\"바로 여기야,\" 그가 말한다. \"여기서 기분 전환을 해야겠어. 나일강의 신기한 손금쟁이한테 내 손바닥을 살펴보게 해서, 일어날 일이 정말 일어날지 알아봐야지.\""
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s12",
+        "s13"
+      ],
+      "ko": "토빈은 징조와 자연 속의 초자연적인 것을 믿는 사람이었다. 그는 검은 고양이, 행운의 숫자, 신문의 일기예보 같은 문제에 대해 머릿속에 터무니없는 신념을 품고 있었다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Tobin and me, the two of us, went down to Coney one day, for there was four dollars between us, and Tobin had need of distractions.",
+      "ko": "토빈과 나, 우리 둘은 어느 날 코니(아일랜드)로 내려갔다. 우리 둘 사이에 4달러가 있었고, 토빈에게는 기분 전환이 필요했기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "For there was Katie Mahorner, his sweetheart, of County Sligo, lost since she started for America three months before with two hundred dollars, her own savings, and one hundred dollars from the sale of Tobin's inherited estate, a fine cottage and pig on the Bog Shannaugh.",
+      "ko": "왜냐하면 슬라이고 주 출신의 그의 연인 케이티 마호너가 있었는데, 그녀는 석 달 전 200달러의 자기 저금과, 토빈이 물려받은 재산인 섀너 습지의 멋진 오두막과 돼지 한 마리를 판 돈 100달러를 가지고 미국으로 떠난 뒤로 행방이 묘연했기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "And since the letter that Tobin got saying that she had started to come to him not a bit of news had he heard or seen of Katie Mahorner.",
+      "ko": "그리고 그녀가 그에게 오려고 떠났다는 편지를 토빈이 받은 이후로, 그는 케이티 마호너에 대해 소식 한 조각도 듣거나 보지 못했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Tobin advertised in the papers, but nothing could be found of the colleen.",
+      "ko": "토빈은 신문에 광고를 냈지만, 그 아가씨에 대해서는 아무것도 찾을 수 없었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "So, to Coney me and Tobin went, thinking that a turn at the chutes and the smell of the popcorn might raise the heart in his bosom.",
+      "ko": "그래서 나와 토빈은 미끄럼틀을 한 번 타고 팝콘 냄새를 맡으면 그의 가슴속 마음이 좀 살아날지도 모른다고 생각하며 코니로 갔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "But Tobin was a hardheaded man, and the sadness stuck in his skin.",
+      "ko": "하지만 토빈은 고집 센 사람이라, 슬픔이 살갗에 딱 달라붙어 떨어지지 않았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "He ground his teeth at the crying balloons; he cursed the moving pictures; and, though he would drink whenever asked, he scorned Punch and Judy, and was for licking the tintype men as they came.",
+      "ko": "그는 삑삑 우는 풍선을 보고 이를 갈았고, 활동사진에 욕을 퍼부었으며, 권하면 언제든 술은 마시면서도 펀치와 주디 인형극은 비웃었고, 양철판 사진사들이 다가오면 두들겨 패려고 들었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "So I gets him down a side way on a board walk where the attractions were some less violent.",
+      "ko": "그래서 나는 그를 놀이 시설이 좀 덜 요란한 판자 산책로의 옆길로 데려간다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "At a little six by eight stall Tobin halts, with a more human look in his eye.",
+      "ko": "가로세로 6피트에 8피트짜리 작은 노점 앞에서 토빈이 좀 더 사람다운 눈빛을 하고 멈춰 선다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "\"'Tis here,\" says he, \"I will be diverted.",
+      "ko": "\"바로 여기야,\" 그가 말한다. \"여기서 기분 전환을 해야겠어.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "I'll have the palm of me hand investigated by the wonderful palmist of the Nile, and see if what is to be will be.\"",
+      "ko": "나일강의 신기한 손금쟁이한테 내 손바닥을 살펴보게 해서, 일어날 일이 정말 일어날지 알아봐야지.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "Tobin was a believer in signs and the unnatural in nature.",
+      "ko": "토빈은 징조와 자연 속의 초자연적인 것을 믿는 사람이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p5",
+      "en": "He possessed illegal convictions in his mind along the subjects of black cats, lucky numbers, and the weather predictions in the papers.",
+      "ko": "그는 검은 고양이, 행운의 숫자, 신문의 일기예보 같은 문제에 대해 머릿속에 터무니없는 신념을 품고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "distraction",
+      "pos": "noun",
+      "meaningKo": "기분 전환, 시름을 잊게 하는 것",
+      "ipa": "/dɪˈstrækʃən/",
+      "synonyms": [
+        "diversion",
+        "amusement",
+        "entertainment"
+      ],
+      "matchText": "distractions",
+      "sentenceId": "s1",
+      "example": {
+        "en": "After a long week, she needed a little distraction.",
+        "ko": "긴 한 주를 보낸 뒤 그녀에게는 약간의 기분 전환이 필요했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "inherit",
+      "pos": "verb",
+      "meaningKo": "(재산 등을) 물려받다, 상속하다",
+      "ipa": "/ɪnˈhɛrɪt/",
+      "synonyms": [
+        "be left",
+        "receive",
+        "succeed to"
+      ],
+      "matchText": "inherited",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He inherited a small farm from his grandfather.",
+        "ko": "그는 할아버지에게서 작은 농장을 물려받았다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "hardheaded",
+      "pos": "adjective",
+      "meaningKo": "고집 센, 완고한",
+      "ipa": "/ˈhɑrdˌhɛdəd/",
+      "synonyms": [
+        "stubborn",
+        "obstinate",
+        "headstrong"
+      ],
+      "matchText": "hardheaded",
+      "sentenceId": "s6",
+      "example": {
+        "en": "My hardheaded brother never listens to advice.",
+        "ko": "고집 센 우리 형은 절대 충고를 듣지 않는다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "scorn",
+      "pos": "verb",
+      "meaningKo": "비웃다, 경멸하다",
+      "ipa": "/skɔrn/",
+      "synonyms": [
+        "despise",
+        "mock",
+        "sneer at"
+      ],
+      "matchText": "scorned",
+      "sentenceId": "s7",
+      "example": {
+        "en": "She scorned his offer of help.",
+        "ko": "그녀는 도와주겠다는 그의 제안을 비웃었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "conviction",
+      "pos": "noun",
+      "meaningKo": "확신, 굳은 믿음",
+      "ipa": "/kənˈvɪkʃən/",
+      "synonyms": [
+        "belief",
+        "certainty",
+        "opinion"
+      ],
+      "matchText": "convictions",
+      "sentenceId": "s13",
+      "example": {
+        "en": "She spoke with deep conviction about the plan.",
+        "ko": "그녀는 그 계획에 대해 깊은 확신을 가지고 말했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "And since the letter",
+          "role": "M",
+          "sub": false,
+          "ko": "그리고 그 편지 이후로"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 편지를)"
+        },
+        {
+          "text": "Tobin",
+          "role": "S",
+          "sub": true,
+          "ko": "토빈이"
+        },
+        {
+          "text": "got",
+          "role": "V",
+          "sub": true,
+          "ko": "받은"
+        },
+        {
+          "text": "saying",
+          "role": "M",
+          "sub": true,
+          "ko": "~라고 쓰인"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": true,
+          "ko": "그녀가"
+        },
+        {
+          "text": "had started",
+          "role": "V",
+          "sub": true,
+          "ko": "떠났다"
+        },
+        {
+          "text": "to come to him",
+          "role": "M",
+          "sub": true,
+          "ko": "그에게 오려고"
+        },
+        {
+          "text": "not a bit of news",
+          "role": "O",
+          "sub": false,
+          "ko": "소식은 한 조각도"
+        },
+        {
+          "text": "had",
+          "role": "V",
+          "sub": false,
+          "ko": "~하지 않았다"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "heard or seen",
+          "role": "V",
+          "sub": false,
+          "ko": "듣거나 보지 (못했다)"
+        },
+        {
+          "text": "of Katie Mahorner.",
+          "role": "M",
+          "sub": false,
+          "ko": "케이티 마호너에 대해"
+        }
+      ],
+      "skeleton": "not a bit of news had he heard (or seen)",
+      "explanation": "원래 어순은 he had heard or seen not a bit of news. 부정어구 not a bit of news(소식 한 조각도 ~않다)를 강조하려고 문장 앞으로 꺼내면서 조동사 had와 주어 he의 자리가 바뀌었다(도치). 앞의 since the letter that Tobin got saying...는 '토빈이 받은 ~라는 편지 이후로'라는 시간 부사구이고, 그 안에 관계절(that Tobin got)과 분사구(saying that ...)가 letter를 꾸민다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "So,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "to Coney",
+          "role": "M",
+          "sub": false,
+          "ko": "코니로"
+        },
+        {
+          "text": "me and Tobin",
+          "role": "S",
+          "sub": false,
+          "ko": "나와 토빈은"
+        },
+        {
+          "text": "went,",
+          "role": "V",
+          "sub": false,
+          "ko": "갔다"
+        },
+        {
+          "text": "thinking",
+          "role": "M",
+          "sub": false,
+          "ko": "생각하면서"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "a turn at the chutes and the smell of the popcorn",
+          "role": "S",
+          "sub": true,
+          "ko": "미끄럼틀 한 번과 팝콘 냄새가"
+        },
+        {
+          "text": "might raise",
+          "role": "V",
+          "sub": true,
+          "ko": "살려 줄지도 모른다"
+        },
+        {
+          "text": "the heart",
+          "role": "O",
+          "sub": true,
+          "ko": "마음을"
+        },
+        {
+          "text": "in his bosom.",
+          "role": "M",
+          "sub": true,
+          "ko": "그의 가슴속"
+        }
+      ],
+      "skeleton": "me and Tobin went (to Coney)",
+      "explanation": "장소 부사구 to Coney를 앞으로 꺼내 강조했다(주어·동사 순서는 그대로). me and Tobin은 표준 영어로는 Tobin and I가 맞지만, 화자의 말투를 살린 구어체 표현이다. thinking that ...은 '~라고 생각하면서'라는 분사구문이며, that절 안의 주어는 and로 묶인 두 명사구 a turn at the chutes and the smell of the popcorn이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s13",
+      "chunks": [
+        {
+          "text": "He",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "possessed",
+          "role": "V",
+          "sub": false,
+          "ko": "품고 있었다"
+        },
+        {
+          "text": "illegal convictions",
+          "role": "O",
+          "sub": false,
+          "ko": "터무니없는 신념을"
+        },
+        {
+          "text": "in his mind",
+          "role": "M",
+          "sub": false,
+          "ko": "머릿속에"
+        },
+        {
+          "text": "along the subjects of black cats, lucky numbers, and the weather predictions in the papers.",
+          "role": "M",
+          "sub": false,
+          "ko": "검은 고양이, 행운의 숫자, 신문 일기예보 같은 문제에 대해"
+        }
+      ],
+      "skeleton": "He possessed illegal convictions",
+      "explanation": "S+V+O의 3형식 문장. along the subjects of ~는 '~라는 주제에 걸쳐, ~에 관하여'라는 뜻의 부사구로, of 뒤에 명사 세 개가 A, B, and C 형태로 나열된다. illegal(불법의)은 화자가 단어를 엉뚱하게 쓴 익살스러운 표현으로, 문맥상 '비이성적인, 터무니없는'(illogical) 정도의 뜻이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "부정어구 도치: not a bit of news had he heard",
+      "tags": [
+        "도치",
+        "강조"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "not a bit of news had he heard"
+      ],
+      "explanation": "not, never, little, not a bit of ~ 같은 부정어(구)를 문장 앞에 두어 강조하면, 그 뒤는 의문문처럼 '조동사 + 주어 + 동사' 어순이 된다. 원래 문장은 he had heard not a bit of news(그는 소식을 조금도 듣지 못했다)이다. 수능 어법·문장 해석에서 자주 나오는 구조다.",
+      "example": {
+        "en": "Never have I seen such a beautiful sunset.",
+        "ko": "나는 이렇게 아름다운 석양을 본 적이 한 번도 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "would + 동사원형: 과거의 습관·의지",
+      "tags": [
+        "조동사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "he would drink whenever asked"
+      ],
+      "explanation": "would는 과거에 '~하곤 했다'는 습관이나 '기꺼이 ~하려 했다'는 의지를 나타낸다. whenever asked는 whenever (he was) asked에서 '주어+be동사'가 생략된 형태로 '권유받을 때마다'라는 뜻이다. 뒤의 was for licking은 'be for + 동명사'로 '~하는 데 찬성하다, ~하려고 들다'라는 구어 표현이다.",
+      "example": {
+        "en": "When I was a child, I would walk to school with my sister.",
+        "ko": "어릴 때 나는 언니와 함께 걸어서 학교에 가곤 했다."
+      },
+      "note": "whenever asked처럼 접속사 뒤 '주어+be동사' 생략은 when necessary, if possible 등에서도 자주 보인다."
+    },
+    {
+      "id": "g3",
+      "title": "역사적 현재와 사투리: So I gets him / says he",
+      "tags": [
+        "시제",
+        "일치",
+        "어순"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "I gets him"
+      ],
+      "explanation": "과거 이야기를 하다가 갑자기 현재형(gets, halts, says)으로 바꾸는 것을 '역사적 현재'라고 하며, 장면을 눈앞에서 보는 듯 생생하게 만든다. 또 I gets는 표준 영어(I get)와 다르게 1인칭에 -s를 붙인 구어·방언 표현이고, says he는 he says를 뒤집은 이야기체 어순이다. 화자의 서민적인 말투를 살리려는 오 헨리의 문체이므로 따라 쓰되 시험 영작에서는 표준형을 쓴다.",
+      "example": {
+        "en": "So yesterday I'm walking home, and suddenly a dog runs up to me.",
+        "ko": "그래서 어제 내가 집에 걸어가고 있는데, 갑자기 개 한 마리가 나한테 달려오는 거야."
+      },
+      "note": "표준 영어로는 So I get him… / he says."
+    }
+  ],
+  "glossary": {
+    "tobin": {
+      "lemma": "Tobin",
+      "pos": "proper-noun",
+      "ko": "토빈 (주인공 이름)",
+      "form": null,
+      "ipa": "/ˈtoʊbɪn/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나 (여기서는 I 대신 쓴 구어체)",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 대해",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "went": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "가다",
+      "form": "과거형",
+      "synonyms": [
+        "travel",
+        "head"
+      ],
+      "ipa": "/wɛnt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "(시내에서) 아래쪽으로, ~로",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로, ~에게",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "coney": {
+      "lemma": "Coney",
+      "pos": "proper-noun",
+      "ko": "코니 (뉴욕의 유원지 코니아일랜드)",
+      "form": null,
+      "ipa": "/ˈkoʊni/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "어느, 하나의",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 하루",
+      "form": null,
+      "ipa": "/deɪ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면; (전치사) ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there was) ~이 있었다; 거기",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "four": {
+      "lemma": "four",
+      "pos": "number",
+      "ko": "넷, 4",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "dollars": {
+      "lemma": "dollar",
+      "pos": "noun",
+      "ko": "달러",
+      "form": "복수형",
+      "ipa": "/ˈdɑːlərz/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다; (조동사) ~했었다",
+      "form": "과거형",
+      "synonyms": [
+        "possess",
+        "hold"
+      ],
+      "ipa": "/hæd/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "noun",
+      "ko": "필요",
+      "form": null,
+      "synonyms": [
+        "necessity",
+        "want"
+      ],
+      "ipa": "/niːd/"
+    },
+    "distractions": {
+      "lemma": "distraction",
+      "pos": "noun",
+      "ko": "기분 전환, 시름을 잊게 하는 것",
+      "form": "복수형",
+      "synonyms": [
+        "diversion",
+        "amusement"
+      ],
+      "ipa": "/dɪˈstrækʃənz/"
+    },
+    "katie": {
+      "lemma": "Katie",
+      "pos": "proper-noun",
+      "ko": "케이티 (토빈의 연인 이름)",
+      "form": null,
+      "ipa": "/ˈkeɪti/"
+    },
+    "mahorner": {
+      "lemma": "Mahorner",
+      "pos": "proper-noun",
+      "ko": "마호너 (케이티의 성)",
+      "form": null,
+      "ipa": null
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "sweetheart": {
+      "lemma": "sweetheart",
+      "pos": "noun",
+      "ko": "연인, 애인",
+      "form": null,
+      "synonyms": [
+        "lover",
+        "darling",
+        "girlfriend"
+      ],
+      "ipa": "/ˈswiːtˌhɑːrt/"
+    },
+    "county": {
+      "lemma": "county",
+      "pos": "noun",
+      "ko": "(아일랜드·영국의) 주, 군",
+      "form": null,
+      "synonyms": [
+        "shire",
+        "district"
+      ],
+      "ipa": "/ˈkaʊnti/"
+    },
+    "sligo": {
+      "lemma": "Sligo",
+      "pos": "proper-noun",
+      "ko": "슬라이고 (아일랜드 북서부의 주)",
+      "form": null,
+      "ipa": null
+    },
+    "lost": {
+      "lemma": "lose",
+      "pos": "verb",
+      "ko": "잃다; (lost) 행방불명된",
+      "form": "과거분사",
+      "synonyms": [
+        "missing",
+        "vanished"
+      ],
+      "ipa": "/lɔːst/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "conjunction",
+      "ko": "~한 이후로",
+      "form": null,
+      "ipa": "/sɪns/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "started": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "출발하다, 떠나다",
+      "form": "과거형",
+      "synonyms": [
+        "set out",
+        "depart",
+        "leave"
+      ],
+      "ipa": "/ˈstɑːrtɪd/"
+    },
+    "america": {
+      "lemma": "America",
+      "pos": "proper-noun",
+      "ko": "아메리카, 미국",
+      "form": null,
+      "ipa": "/əˈmɛrəkə/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 3",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "months": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 개월",
+      "form": "복수형",
+      "ipa": "/mʌnθs/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "adverb",
+      "ko": "(기간) 전에",
+      "form": null,
+      "synonyms": [
+        "earlier",
+        "previously"
+      ],
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "hundred": {
+      "lemma": "hundred",
+      "pos": "number",
+      "ko": "백, 100",
+      "form": null,
+      "ipa": "/ˈhʌndrəd/"
+    },
+    "her": {
+      "lemma": "her",
+      "pos": "pronoun",
+      "ko": "그녀의",
+      "form": "소유격",
+      "ipa": "/hɜːr/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "synonyms": [
+        "personal"
+      ],
+      "ipa": "/oʊn/"
+    },
+    "savings": {
+      "lemma": "savings",
+      "pos": "noun",
+      "ko": "저금, 저축한 돈",
+      "form": null,
+      "synonyms": [
+        "nest egg",
+        "funds"
+      ],
+      "ipa": "/ˈseɪvɪŋz/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "sale": {
+      "lemma": "sale",
+      "pos": "noun",
+      "ko": "판매, 매각",
+      "form": null,
+      "synonyms": [
+        "selling"
+      ],
+      "ipa": "/seɪl/"
+    },
+    "tobin's": {
+      "lemma": "Tobin",
+      "pos": "proper-noun",
+      "ko": "토빈의",
+      "form": "소유격",
+      "ipa": null
+    },
+    "inherited": {
+      "lemma": "inherit",
+      "pos": "verb",
+      "ko": "물려받다, 상속하다",
+      "form": "과거분사",
+      "synonyms": [
+        "receive",
+        "be left"
+      ],
+      "ipa": "/ˌɪnˈhɛrətɪd/"
+    },
+    "estate": {
+      "lemma": "estate",
+      "pos": "noun",
+      "ko": "재산, 소유지",
+      "form": null,
+      "synonyms": [
+        "property",
+        "assets"
+      ],
+      "ipa": "/ɪˈsteɪt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "fine": {
+      "lemma": "fine",
+      "pos": "adjective",
+      "ko": "좋은, 멋진",
+      "form": null,
+      "synonyms": [
+        "nice",
+        "good",
+        "handsome"
+      ],
+      "ipa": "/faɪn/"
+    },
+    "cottage": {
+      "lemma": "cottage",
+      "pos": "noun",
+      "ko": "작은 시골집, 오두막",
+      "form": null,
+      "synonyms": [
+        "cabin",
+        "hut"
+      ],
+      "ipa": "/ˈkɑːtədʒ/"
+    },
+    "pig": {
+      "lemma": "pig",
+      "pos": "noun",
+      "ko": "돼지",
+      "form": null,
+      "synonyms": [
+        "hog",
+        "swine"
+      ],
+      "ipa": "/pɪɡ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에, ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "bog": {
+      "lemma": "bog",
+      "pos": "noun",
+      "ko": "습지, 늪",
+      "form": null,
+      "synonyms": [
+        "marsh",
+        "swamp"
+      ],
+      "ipa": "/bɑːɡ/"
+    },
+    "shannaugh": {
+      "lemma": "Shannaugh",
+      "pos": "proper-noun",
+      "ko": "섀너 (아일랜드의 지명)",
+      "form": null,
+      "ipa": null
+    },
+    "letter": {
+      "lemma": "letter",
+      "pos": "noun",
+      "ko": "편지",
+      "form": null,
+      "synonyms": [
+        "note",
+        "message"
+      ],
+      "ipa": "/ˈlɛtər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는; (접속사) ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "받다",
+      "form": "과거형",
+      "synonyms": [
+        "receive",
+        "obtain"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "(글에) ~라고 쓰여 있다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "state"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다, 하나도 ~ 아닌",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "bit": {
+      "lemma": "bit",
+      "pos": "noun",
+      "ko": "조금, 조각 (not a bit of: 조금도 ~ 않는)",
+      "form": null,
+      "synonyms": [
+        "scrap",
+        "piece"
+      ],
+      "ipa": "/bɪt/"
+    },
+    "news": {
+      "lemma": "news",
+      "pos": "noun",
+      "ko": "소식",
+      "form": null,
+      "synonyms": [
+        "word",
+        "information"
+      ],
+      "ipa": "/nuːz/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "듣다",
+      "form": "과거분사",
+      "synonyms": [
+        "learn"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "seen": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": "과거분사",
+      "ipa": "/siːn/"
+    },
+    "advertised": {
+      "lemma": "advertise",
+      "pos": "verb",
+      "ko": "광고를 내다",
+      "form": "과거형",
+      "synonyms": [
+        "publicize",
+        "announce"
+      ],
+      "ipa": "/ˈædvərˌtaɪzd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "papers": {
+      "lemma": "paper",
+      "pos": "noun",
+      "ko": "신문",
+      "form": "복수형",
+      "synonyms": [
+        "newspapers"
+      ],
+      "ipa": "/ˈpeɪpərz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 않음",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이 되다 (수동태 be found)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "찾다, 발견하다",
+      "form": "과거분사",
+      "synonyms": [
+        "discover",
+        "locate"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "colleen": {
+      "lemma": "colleen",
+      "pos": "noun",
+      "ko": "(아일랜드) 아가씨, 소녀",
+      "form": null,
+      "synonyms": [
+        "girl",
+        "lass",
+        "maiden"
+      ],
+      "ipa": "/ˌkɑːˈliːn/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "thinking": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "believe",
+        "suppose"
+      ],
+      "ipa": "/ˈθɪŋkɪŋ/"
+    },
+    "turn": {
+      "lemma": "turn",
+      "pos": "noun",
+      "ko": "(놀이기구를) 한 번 타기, 한 차례",
+      "form": null,
+      "synonyms": [
+        "ride",
+        "go",
+        "spin"
+      ],
+      "ipa": "/tɜːrn/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서, ~을 보고",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "chutes": {
+      "lemma": "chute",
+      "pos": "noun",
+      "ko": "(놀이공원의) 미끄럼틀, 워터 슬라이드",
+      "form": "복수형",
+      "synonyms": [
+        "slide",
+        "ride"
+      ],
+      "ipa": "/ʃuːts/"
+    },
+    "smell": {
+      "lemma": "smell",
+      "pos": "noun",
+      "ko": "냄새",
+      "form": null,
+      "synonyms": [
+        "scent",
+        "aroma"
+      ],
+      "ipa": "/smɛl/"
+    },
+    "popcorn": {
+      "lemma": "popcorn",
+      "pos": "noun",
+      "ko": "팝콘",
+      "form": null,
+      "ipa": "/ˈpɑːpˌkɔːrn/"
+    },
+    "might": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할지도 모른다",
+      "form": "과거형",
+      "ipa": "/maɪt/"
+    },
+    "raise": {
+      "lemma": "raise",
+      "pos": "verb",
+      "ko": "(기운을) 북돋우다, 끌어올리다",
+      "form": null,
+      "synonyms": [
+        "lift",
+        "cheer",
+        "boost"
+      ],
+      "ipa": "/reɪz/"
+    },
+    "heart": {
+      "lemma": "heart",
+      "pos": "noun",
+      "ko": "마음, 기운",
+      "form": null,
+      "synonyms": [
+        "spirits",
+        "mood"
+      ],
+      "ipa": "/hɑːrt/"
+    },
+    "bosom": {
+      "lemma": "bosom",
+      "pos": "noun",
+      "ko": "가슴, 마음속",
+      "form": null,
+      "synonyms": [
+        "breast",
+        "chest"
+      ],
+      "ipa": "/ˈbʊzəm/"
+    },
+    "hardheaded": {
+      "lemma": "hardheaded",
+      "pos": "adjective",
+      "ko": "고집 센, 완고한",
+      "form": null,
+      "synonyms": [
+        "stubborn",
+        "obstinate"
+      ],
+      "ipa": "/ˈhɑːrdˌhɛdɪd/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "sadness": {
+      "lemma": "sadness",
+      "pos": "noun",
+      "ko": "슬픔",
+      "form": null,
+      "synonyms": [
+        "sorrow",
+        "grief",
+        "gloom"
+      ],
+      "ipa": "/ˈsædnəs/"
+    },
+    "stuck": {
+      "lemma": "stick",
+      "pos": "verb",
+      "ko": "달라붙다, 떨어지지 않다",
+      "form": "과거형",
+      "synonyms": [
+        "cling",
+        "remain"
+      ],
+      "ipa": "/stʌk/"
+    },
+    "skin": {
+      "lemma": "skin",
+      "pos": "noun",
+      "ko": "피부, 살갗",
+      "form": null,
+      "ipa": "/skɪn/"
+    },
+    "ground": {
+      "lemma": "grind",
+      "pos": "verb",
+      "ko": "(이를) 갈다",
+      "form": "과거형",
+      "synonyms": [
+        "gnash"
+      ],
+      "ipa": "/ɡraʊnd/"
+    },
+    "teeth": {
+      "lemma": "tooth",
+      "pos": "noun",
+      "ko": "이, 치아",
+      "form": "복수형",
+      "ipa": "/tiːθ/"
+    },
+    "crying": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "(소리 내어) 울다, 삑삑거리다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "squealing",
+        "wailing"
+      ],
+      "ipa": "/ˈkraɪɪŋ/"
+    },
+    "balloons": {
+      "lemma": "balloon",
+      "pos": "noun",
+      "ko": "풍선",
+      "form": "복수형",
+      "ipa": "/bəˈluːnz/"
+    },
+    "cursed": {
+      "lemma": "curse",
+      "pos": "verb",
+      "ko": "욕하다, 저주하다",
+      "form": "과거형",
+      "synonyms": [
+        "swear at",
+        "damn"
+      ],
+      "ipa": "/kɜːrst/"
+    },
+    "moving": {
+      "lemma": "moving",
+      "pos": "adjective",
+      "ko": "움직이는 (moving pictures: 활동사진, 영화)",
+      "form": null,
+      "ipa": "/ˈmuːvɪŋ/"
+    },
+    "pictures": {
+      "lemma": "picture",
+      "pos": "noun",
+      "ko": "그림, 영상",
+      "form": "복수형",
+      "synonyms": [
+        "films",
+        "movies"
+      ],
+      "ipa": "/ˈpɪktʃərz/"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "conjunction",
+      "ko": "비록 ~이지만",
+      "form": null,
+      "ipa": "/ðoʊ/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "(과거) ~하곤 했다, 기꺼이 ~했다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "drink": {
+      "lemma": "drink",
+      "pos": "verb",
+      "ko": "술을 마시다",
+      "form": null,
+      "ipa": "/drɪŋk/"
+    },
+    "whenever": {
+      "lemma": "whenever",
+      "pos": "conjunction",
+      "ko": "~할 때마다",
+      "form": null,
+      "ipa": "/wɛˈnɛvər/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "권하다, 청하다",
+      "form": "과거분사",
+      "synonyms": [
+        "invite",
+        "offer"
+      ],
+      "ipa": "/æskt/"
+    },
+    "scorned": {
+      "lemma": "scorn",
+      "pos": "verb",
+      "ko": "비웃다, 경멸하다",
+      "form": "과거형",
+      "synonyms": [
+        "despise",
+        "mock"
+      ],
+      "ipa": "/skɔːrnd/"
+    },
+    "punch": {
+      "lemma": "Punch",
+      "pos": "proper-noun",
+      "ko": "펀치 (인형극 '펀치와 주디'의 주인공)",
+      "form": null,
+      "ipa": "/pʌntʃ/"
+    },
+    "judy": {
+      "lemma": "Judy",
+      "pos": "proper-noun",
+      "ko": "주디 (인형극 '펀치와 주디'의 아내 인형)",
+      "form": null,
+      "ipa": "/ˈdʒuːdi/"
+    },
+    "licking": {
+      "lemma": "lick",
+      "pos": "verb",
+      "ko": "(구어) 두들겨 패다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beat",
+        "thrash",
+        "whip"
+      ],
+      "ipa": "/ˈlɪkɪŋ/"
+    },
+    "tintype": {
+      "lemma": "tintype",
+      "pos": "noun",
+      "ko": "양철판 사진 (19세기 즉석 사진)",
+      "form": null,
+      "synonyms": [
+        "ferrotype"
+      ],
+      "ipa": "/ˈtɪnˌtaɪp/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람들, 남자들",
+      "form": "복수형",
+      "ipa": "/mɛn/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~할 때, ~하면서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 다가오다",
+      "form": "과거형",
+      "synonyms": [
+        "approach"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "gets": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "데려가다 (I gets: 구어체·사투리)",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "take",
+        "bring",
+        "lead"
+      ],
+      "ipa": "/ɡɛts/"
+    },
+    "side": {
+      "lemma": "side",
+      "pos": "noun",
+      "ko": "옆, 측면 (side way: 옆길)",
+      "form": null,
+      "ipa": "/saɪd/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "path",
+        "lane"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "board": {
+      "lemma": "board",
+      "pos": "noun",
+      "ko": "판자 (board walk: 판자 산책로)",
+      "form": null,
+      "synonyms": [
+        "plank"
+      ],
+      "ipa": "/bɔːrd/"
+    },
+    "walk": {
+      "lemma": "walk",
+      "pos": "noun",
+      "ko": "산책로, 보도",
+      "form": null,
+      "synonyms": [
+        "promenade",
+        "path"
+      ],
+      "ipa": "/wɔːk/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "(관계부사) ~하는 곳",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "attractions": {
+      "lemma": "attraction",
+      "pos": "noun",
+      "ko": "놀이 시설, 볼거리",
+      "form": "복수형",
+      "synonyms": [
+        "amusements",
+        "sights"
+      ],
+      "ipa": "/əˈtrækʃənz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "adverb",
+      "ko": "(구어) 조금, 약간",
+      "form": null,
+      "synonyms": [
+        "somewhat",
+        "a bit"
+      ],
+      "ipa": "/sʌm/"
+    },
+    "less": {
+      "lemma": "little",
+      "pos": "adverb",
+      "ko": "덜",
+      "form": "비교급",
+      "ipa": "/lɛs/"
+    },
+    "violent": {
+      "lemma": "violent",
+      "pos": "adjective",
+      "ko": "요란한, 격렬한",
+      "form": null,
+      "synonyms": [
+        "wild",
+        "noisy",
+        "fierce"
+      ],
+      "ipa": "/ˈvaɪələnt/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "six": {
+      "lemma": "six",
+      "pos": "number",
+      "ko": "여섯, 6",
+      "form": null,
+      "ipa": "/sɪks/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "(치수) ~ 곱하기 ~ (six by eight: 6×8)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "eight": {
+      "lemma": "eight",
+      "pos": "number",
+      "ko": "여덟, 8",
+      "form": null,
+      "ipa": "/eɪt/"
+    },
+    "stall": {
+      "lemma": "stall",
+      "pos": "noun",
+      "ko": "노점, 가판대",
+      "form": null,
+      "synonyms": [
+        "booth",
+        "stand",
+        "kiosk"
+      ],
+      "ipa": "/stɔːl/"
+    },
+    "halts": {
+      "lemma": "halt",
+      "pos": "verb",
+      "ko": "멈춰 서다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "stop",
+        "pause"
+      ],
+      "ipa": "/hɔːlts/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "form": null,
+      "ipa": "/mɔːr/"
+    },
+    "human": {
+      "lemma": "human",
+      "pos": "adjective",
+      "ko": "사람다운, 인간적인",
+      "form": null,
+      "synonyms": [
+        "humane",
+        "lively"
+      ],
+      "ipa": "/ˈhjuːmən/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "noun",
+      "ko": "표정, 눈빛",
+      "form": null,
+      "synonyms": [
+        "expression",
+        "gleam"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "eye": {
+      "lemma": "eye",
+      "pos": "noun",
+      "ko": "눈",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "tis": {
+      "lemma": "'tis",
+      "pos": "phrase",
+      "ko": "it is의 옛 줄임말 (~이다)",
+      "form": "줄임말",
+      "ipa": "/tɪz/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기에서",
+      "form": null,
+      "ipa": "/hiːr/"
+    },
+    "says": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "3인칭 단수",
+      "ipa": "/sɛz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다, ~하겠다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "diverted": {
+      "lemma": "divert",
+      "pos": "verb",
+      "ko": "기분을 전환시키다, 즐겁게 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "amuse",
+        "entertain"
+      ],
+      "ipa": "/daɪˈvɜːrtɪd/"
+    },
+    "i'll": {
+      "lemma": "I will",
+      "pos": "pronoun",
+      "ko": "나는 ~할 것이다 (I will의 줄임)",
+      "form": "줄임말",
+      "ipa": "/aɪl/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "(have + 목적어 + 과거분사) ~하게 하다",
+      "form": null,
+      "synonyms": [
+        "get"
+      ],
+      "ipa": "/hæv/"
+    },
+    "palm": {
+      "lemma": "palm",
+      "pos": "noun",
+      "ko": "손바닥",
+      "form": null,
+      "synonyms": [
+        "hand"
+      ],
+      "ipa": "/pɑːm/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": null,
+      "ipa": "/hænd/"
+    },
+    "investigated": {
+      "lemma": "investigate",
+      "pos": "verb",
+      "ko": "살펴보다, 조사하다",
+      "form": "과거분사",
+      "synonyms": [
+        "examine",
+        "inspect",
+        "study"
+      ],
+      "ipa": "/ˌɪnˈvɛstəˌɡeɪtəd/"
+    },
+    "wonderful": {
+      "lemma": "wonderful",
+      "pos": "adjective",
+      "ko": "놀라운, 신기한",
+      "form": null,
+      "synonyms": [
+        "marvelous",
+        "amazing"
+      ],
+      "ipa": "/ˈwʌndərfəl/"
+    },
+    "palmist": {
+      "lemma": "palmist",
+      "pos": "noun",
+      "ko": "손금쟁이, 손금 보는 사람",
+      "form": null,
+      "synonyms": [
+        "fortune-teller",
+        "palm reader"
+      ],
+      "ipa": "/ˈpɑːmɪst/"
+    },
+    "nile": {
+      "lemma": "Nile",
+      "pos": "proper-noun",
+      "ko": "나일 (이집트의 강)",
+      "form": null,
+      "ipa": "/naɪl/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "알아보다, 확인하다",
+      "form": null,
+      "synonyms": [
+        "find out",
+        "learn"
+      ],
+      "ipa": "/siː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "~인지 (아닌지)",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다 (be to: ~할 운명이다)",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "believer": {
+      "lemma": "believer",
+      "pos": "noun",
+      "ko": "믿는 사람, 신봉자",
+      "form": null,
+      "synonyms": [
+        "follower",
+        "devotee"
+      ],
+      "ipa": "/bəˈliːvər/"
+    },
+    "signs": {
+      "lemma": "sign",
+      "pos": "noun",
+      "ko": "징조, 조짐",
+      "form": "복수형",
+      "synonyms": [
+        "omens",
+        "portents"
+      ],
+      "ipa": "/saɪnz/"
+    },
+    "unnatural": {
+      "lemma": "unnatural",
+      "pos": "adjective",
+      "ko": "초자연적인, 부자연스러운 (the unnatural: 초자연적인 것)",
+      "form": null,
+      "synonyms": [
+        "supernatural",
+        "uncanny"
+      ],
+      "ipa": "/ənˈnætʃərəl/"
+    },
+    "nature": {
+      "lemma": "nature",
+      "pos": "noun",
+      "ko": "자연",
+      "form": null,
+      "ipa": "/ˈneɪtʃər/"
+    },
+    "possessed": {
+      "lemma": "possess",
+      "pos": "verb",
+      "ko": "가지다, 품다",
+      "form": "과거형",
+      "synonyms": [
+        "have",
+        "hold"
+      ],
+      "ipa": "/pəˈzɛst/"
+    },
+    "illegal": {
+      "lemma": "illegal",
+      "pos": "adjective",
+      "ko": "불법의 (여기서는 '터무니없는'의 익살스러운 오용)",
+      "form": null,
+      "synonyms": [
+        "irrational",
+        "illogical"
+      ],
+      "ipa": "/ˌɪˈliːɡəl/"
+    },
+    "convictions": {
+      "lemma": "conviction",
+      "pos": "noun",
+      "ko": "확신, 굳은 믿음",
+      "form": "복수형",
+      "synonyms": [
+        "beliefs",
+        "opinions"
+      ],
+      "ipa": "/kənˈvɪkʃənz/"
+    },
+    "mind": {
+      "lemma": "mind",
+      "pos": "noun",
+      "ko": "마음, 머릿속",
+      "form": null,
+      "synonyms": [
+        "head",
+        "thoughts"
+      ],
+      "ipa": "/maɪnd/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라; (여기서는) ~에 관해",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "subjects": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "주제, 문제",
+      "form": "복수형",
+      "synonyms": [
+        "topics",
+        "matters"
+      ],
+      "ipa": "/ˈsʌbdʒɪkts/"
+    },
+    "black": {
+      "lemma": "black",
+      "pos": "adjective",
+      "ko": "검은",
+      "form": null,
+      "synonyms": [
+        "dark"
+      ],
+      "ipa": "/blæk/"
+    },
+    "cats": {
+      "lemma": "cat",
+      "pos": "noun",
+      "ko": "고양이",
+      "form": "복수형",
+      "ipa": "/kæts/"
+    },
+    "lucky": {
+      "lemma": "lucky",
+      "pos": "adjective",
+      "ko": "행운의, 운 좋은",
+      "form": null,
+      "synonyms": [
+        "fortunate"
+      ],
+      "ipa": "/ˈlʌki/"
+    },
+    "numbers": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "숫자",
+      "form": "복수형",
+      "synonyms": [
+        "figures",
+        "digits"
+      ],
+      "ipa": "/ˈnʌmbərz/"
+    },
+    "weather": {
+      "lemma": "weather",
+      "pos": "noun",
+      "ko": "날씨",
+      "form": null,
+      "synonyms": [
+        "climate"
+      ],
+      "ipa": "/ˈwɛðər/"
+    },
+    "predictions": {
+      "lemma": "prediction",
+      "pos": "noun",
+      "ko": "예보, 예측",
+      "form": "복수형",
+      "synonyms": [
+        "forecasts"
+      ],
+      "ipa": "/priˈdɪkʃənz/"
+    }
+  }
+}
