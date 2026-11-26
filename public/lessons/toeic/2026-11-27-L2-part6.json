@@ -1,0 +1,1378 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-27-L2-part6",
+  "date": "2026-11-27",
+  "level": 2,
+  "title": "Invitation to an Interview",
+  "titleKo": "면접 초대 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "채용·인사"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 139,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Okafor 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "Brightline 물류의 사무실 관리자 직책에 지원해 주셔서 감사합니다. 귀하의 경력이 인상적이어서 면접에 모시고자 합니다. 면접은 4월 8일 화요일 오전 10시에 진행됩니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "면접에서는 운영 이사 Daniel Reyes 씨를 만나시게 되며, 그분이 관리 경험에 대해 질문할 것입니다. 또한 짧은 컴퓨터 활용 능력 시험을 보시게 됩니다. 이력서 사본 한 부와 추천인 두 명의 명단을 가져와 주세요. 2층 접수 직원에게 방문 등록을 하실 수 있도록 10분 일찍 도착하시기를 권합니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "이 시간이 편하지 않으시면 4월 3일까지 이 이메일에 답장해 주세요. 만나 뵙기를 기대합니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "드림,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "Grace Lin"
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "인사부장"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Ms. Okafor,",
+      "ko": "Okafor 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for applying for the position of office manager at Brightline Logistics.",
+      "ko": "Brightline 물류의 사무실 관리자 직책에 지원해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "We were impressed by your experience, and we would like to invite you to an interview.",
+      "ko": "귀하의 경력이 인상적이어서 면접에 모시고자 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "The interview will take place on Tuesday, April 8, at ten o'clock in the morning.",
+      "ko": "면접은 4월 8일 화요일 오전 10시에 진행됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "During the interview, you will meet with our operations director, Mr. Daniel Reyes, who will ask you about your management experience.",
+      "ko": "면접에서는 운영 이사 Daniel Reyes 씨를 만나시게 되며, 그분이 관리 경험에 대해 질문할 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "You will also be asked to complete a short computer skills test.",
+      "ko": "또한 짧은 컴퓨터 활용 능력 시험을 보시게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Please bring a copy of your resume and a list of two references.",
+      "ko": "이력서 사본 한 부와 추천인 두 명의 명단을 가져와 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "We recommend that you arrive ten minutes early to check in with the receptionist on the second floor.",
+      "ko": "2층 접수 직원에게 방문 등록을 하실 수 있도록 10분 일찍 도착하시기를 권합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "If this time is not convenient for you, please reply to this e-mail by April 3.",
+      "ko": "이 시간이 편하지 않으시면 4월 3일까지 이 이메일에 답장해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "We look forward to meeting you.",
+      "ko": "만나 뵙기를 기대합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Sincerely,",
+      "ko": "드림,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Grace Lin",
+      "ko": "Grace Lin",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Human Resources Manager",
+      "ko": "인사부장",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "apply for",
+      "pos": "verb",
+      "meaningKo": "~에 지원하다",
+      "ipa": "/əˈplaɪ fɔːr/",
+      "synonyms": [
+        "submit an application for"
+      ],
+      "matchText": "applying for",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She applied for a job at the bank.",
+        "ko": "그녀는 그 은행 일자리에 지원했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "take place",
+      "pos": "verb",
+      "meaningKo": "(행사·일이) 열리다, 일어나다",
+      "ipa": "/teɪk pleɪs/",
+      "synonyms": [
+        "be held",
+        "happen"
+      ],
+      "matchText": "take place",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The meeting will take place in Room 5.",
+        "ko": "회의는 5호실에서 열린다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "reference",
+      "pos": "noun",
+      "meaningKo": "추천인, 신원 보증인",
+      "ipa": "/ˈrɛfərəns/",
+      "synonyms": [
+        "recommender",
+        "referee"
+      ],
+      "matchText": "references",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Please list two references on the form.",
+        "ko": "양식에 추천인 두 명을 적어 주세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "receptionist",
+      "pos": "noun",
+      "meaningKo": "접수 담당자, 안내원",
+      "ipa": "/rɪˈsɛpʃənɪst/",
+      "synonyms": [
+        "front desk clerk"
+      ],
+      "matchText": "receptionist",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The receptionist will give you a visitor badge.",
+        "ko": "접수 직원이 방문증을 줄 것이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "convenient",
+      "pos": "adjective",
+      "meaningKo": "편리한, (시간이) 괜찮은",
+      "ipa": "/kənˈviːniənt/",
+      "synonyms": [
+        "suitable",
+        "handy"
+      ],
+      "matchText": "convenient",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Is Friday convenient for you?",
+        "ko": "금요일 괜찮으세요?"
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "During the interview,",
+          "role": "M",
+          "ko": "면접 동안"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "귀하는"
+        },
+        {
+          "text": "will meet with",
+          "role": "V",
+          "ko": "만날 것이다"
+        },
+        {
+          "text": "our operations director, Mr. Daniel Reyes,",
+          "role": "O",
+          "ko": "운영 이사 Daniel Reyes 씨를"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "ko": "그리고 그분은(관계대명사)"
+        },
+        {
+          "text": "will ask",
+          "role": "V",
+          "ko": "물어볼 것이다",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "O",
+          "ko": "귀하에게",
+          "sub": true
+        },
+        {
+          "text": "about your management experience.",
+          "role": "M",
+          "ko": "관리 경험에 대해",
+          "sub": true
+        }
+      ],
+      "skeleton": "You will meet with our director.",
+      "explanation": "콤마 + who는 앞 사람을 보충 설명하는 계속적 용법. our operations director와 Mr. Daniel Reyes는 같은 사람(동격)."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "recommend",
+          "role": "V",
+          "ko": "권합니다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "귀하가",
+          "sub": true
+        },
+        {
+          "text": "arrive",
+          "role": "V",
+          "ko": "도착하다",
+          "sub": true
+        },
+        {
+          "text": "ten minutes early",
+          "role": "M",
+          "ko": "10분 일찍",
+          "sub": true
+        },
+        {
+          "text": "to check in with the receptionist on the second floor.",
+          "role": "M",
+          "ko": "2층 접수 직원에게 등록하기 위해",
+          "sub": true
+        }
+      ],
+      "skeleton": "We recommend that you arrive early.",
+      "explanation": "recommend that + 주어 + 동사원형: 권유·제안 동사 뒤 that절에는 동사원형을 쓴다(you arrive)."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "감정 분사 -ed / -ing",
+      "tags": [
+        "분사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "We were impressed by your experience"
+      ],
+      "explanation": "감정을 느끼는 사람은 -ed(impressed, satisfied, interested), 감정을 일으키는 대상은 -ing 또는 -ive 형용사(impressive, interesting)로 쓴다.",
+      "example": {
+        "en": "The results were very impressive.",
+        "ko": "결과는 매우 인상적이었다."
+      },
+      "note": "주어가 사람인지 사물인지 먼저 확인!"
+    },
+    {
+      "id": "g2",
+      "title": "look forward to + 동명사",
+      "tags": [
+        "동명사",
+        "전치사"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "look forward to meeting"
+      ],
+      "explanation": "look forward to, be used to, contribute to 등의 to는 전치사라서 뒤에 -ing가 온다.",
+      "example": {
+        "en": "We look forward to working with you.",
+        "ko": "함께 일하기를 기대합니다."
+      },
+      "note": "이메일 맺음말의 단골 표현."
+    },
+    {
+      "id": "g3",
+      "title": "주장·제안 동사 + that + 동사원형",
+      "tags": [
+        "명사절",
+        "기타"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "recommend that you arrive"
+      ],
+      "explanation": "recommend, suggest, request, insist 뒤 that절에서는 주어와 상관없이 동사원형을 쓴다(he arrive도 가능).",
+      "example": {
+        "en": "They suggested that he take a taxi.",
+        "ko": "그들은 그가 택시를 타라고 제안했다."
+      },
+      "note": "토익에서 that절 동사 빈칸에 동사원형이 정답인 대표 경우."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 인사)",
+      "form": null,
+      "ipa": "/dɪr/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~ 씨(여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "okafor": {
+      "lemma": "Okafor",
+      "pos": "proper-noun",
+      "ko": "오카포(사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신, 귀하",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "applying": {
+      "lemma": "apply",
+      "pos": "verb",
+      "ko": "(apply for) 지원하다",
+      "form": "현재분사(-ing)",
+      "ipa": "/əˈplaɪɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "position": {
+      "lemma": "position",
+      "pos": "noun",
+      "ko": "직책, 자리",
+      "form": null,
+      "synonyms": [
+        "job",
+        "post"
+      ],
+      "ipa": "/pəˈzɪʃən/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실",
+      "form": null,
+      "synonyms": [
+        "workplace"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 부장",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "head"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서, ~에(시각)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "brightline": {
+      "lemma": "Brightline",
+      "pos": "proper-noun",
+      "ko": "브라이트라인(회사 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "logistics": {
+      "lemma": "logistics",
+      "pos": "noun",
+      "ko": "물류 (회사 이름의 일부)",
+      "form": null,
+      "synonyms": [
+        "distribution"
+      ],
+      "ipa": "/ləˈdʒɪstɪks/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리, 저희",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(수동태) ~되었다",
+      "form": "과거형 복수",
+      "ipa": "/wɜːr/"
+    },
+    "impressed": {
+      "lemma": "impress",
+      "pos": "verb",
+      "ko": "감명을 주다(be impressed: 감명받다)",
+      "form": "과거분사",
+      "synonyms": [
+        "amaze"
+      ],
+      "ipa": "/ˌɪmˈprɛst/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~까지(마감)",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "determiner",
+      "ko": "당신의, 귀하의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "experience": {
+      "lemma": "experience",
+      "pos": "noun",
+      "ko": "경험, 경력",
+      "form": null,
+      "synonyms": [
+        "background",
+        "expertise"
+      ],
+      "ipa": "/ɪkˈspɪriəns/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "would": {
+      "lemma": "would",
+      "pos": "auxiliary",
+      "ko": "(would like to) ~하고 싶다",
+      "form": null,
+      "ipa": "/wʊd/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "verb",
+      "ko": "(would like to) ~하고 싶다",
+      "form": null,
+      "synonyms": [
+        "want"
+      ],
+      "ipa": "/laɪk/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에, ~에게, (to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "invite": {
+      "lemma": "invite",
+      "pos": "verb",
+      "ko": "초대하다",
+      "form": null,
+      "synonyms": [
+        "ask"
+      ],
+      "ipa": "/ˌɪnˈvaɪt/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "interview": {
+      "lemma": "interview",
+      "pos": "noun",
+      "ko": "면접",
+      "form": null,
+      "synonyms": [
+        "meeting"
+      ],
+      "ipa": "/ˈɪntərˌvjuː/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take place) 열리다",
+      "form": null,
+      "ipa": "/teɪk/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "(take place) 열리다, 일어나다",
+      "form": null,
+      "ipa": "/pleɪs/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에(날짜·층)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "tuesday": {
+      "lemma": "Tuesday",
+      "pos": "proper-noun",
+      "ko": "화요일",
+      "form": null,
+      "ipa": "/ˈtuːzdi/"
+    },
+    "april": {
+      "lemma": "April",
+      "pos": "proper-noun",
+      "ko": "4월",
+      "form": null,
+      "ipa": "/ˈeɪprəl/"
+    },
+    "ten": {
+      "lemma": "ten",
+      "pos": "number",
+      "ko": "10",
+      "form": null,
+      "ipa": "/tɛn/"
+    },
+    "o'clock": {
+      "lemma": "o'clock",
+      "pos": "adverb",
+      "ko": "~시 (정각)",
+      "form": null,
+      "ipa": "/əˈklɑːk/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in the morning) 오전에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "ipa": "/ˈmɔːrnɪŋ/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "meet": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "(meet with) 만나다",
+      "form": null,
+      "synonyms": [
+        "see"
+      ],
+      "ipa": "/miːt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와, ~에게",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "determiner",
+      "ko": "우리의, 저희",
+      "form": null,
+      "ipa": "/ˈaʊər/"
+    },
+    "operations": {
+      "lemma": "operation",
+      "pos": "noun",
+      "ko": "운영 (operations director: 운영 이사)",
+      "form": "복수형",
+      "synonyms": [
+        "management"
+      ],
+      "ipa": "/ˌɑːpəˈreɪʃənz/"
+    },
+    "director": {
+      "lemma": "director",
+      "pos": "noun",
+      "ko": "이사, 책임자",
+      "form": null,
+      "synonyms": [
+        "head",
+        "executive"
+      ],
+      "ipa": "/dəˈrɛktər/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~ 씨(남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "daniel": {
+      "lemma": "Daniel",
+      "pos": "proper-noun",
+      "ko": "대니얼(사람 이름)",
+      "form": null,
+      "ipa": "/ˈdænjəl/"
+    },
+    "reyes": {
+      "lemma": "Reyes",
+      "pos": "proper-noun",
+      "ko": "레예스(사람 성)",
+      "form": null,
+      "ipa": "/ˈreɪɪs/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "그리고 그 사람은 (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "ask": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "묻다, 질문하다",
+      "form": null,
+      "synonyms": [
+        "question",
+        "inquire"
+      ],
+      "ipa": "/æsk/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "management": {
+      "lemma": "management",
+      "pos": "noun",
+      "ko": "관리, 경영",
+      "form": null,
+      "synonyms": [
+        "supervision",
+        "administration"
+      ],
+      "ipa": "/ˈmænədʒmənt/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(수동태) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "요청하다",
+      "form": "과거분사",
+      "synonyms": [
+        "request"
+      ],
+      "ipa": "/æskt/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "(시험·양식을) 마치다, 치르다",
+      "form": null,
+      "synonyms": [
+        "finish",
+        "take"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "quick"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "computer": {
+      "lemma": "computer",
+      "pos": "noun",
+      "ko": "컴퓨터",
+      "form": null,
+      "ipa": "/kəmˈpjuːtər/"
+    },
+    "skills": {
+      "lemma": "skill",
+      "pos": "noun",
+      "ko": "기술, 능력",
+      "form": "복수형",
+      "synonyms": [
+        "ability"
+      ],
+      "ipa": "/skɪlz/"
+    },
+    "test": {
+      "lemma": "test",
+      "pos": "noun",
+      "ko": "시험",
+      "form": null,
+      "synonyms": [
+        "exam",
+        "assessment"
+      ],
+      "ipa": "/tɛst/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/"
+    },
+    "bring": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "가져오다",
+      "form": null,
+      "synonyms": [
+        "carry"
+      ],
+      "ipa": "/brɪŋ/"
+    },
+    "copy": {
+      "lemma": "copy",
+      "pos": "noun",
+      "ko": "사본, 한 부",
+      "form": null,
+      "synonyms": [
+        "duplicate"
+      ],
+      "ipa": "/ˈkɑːpi/"
+    },
+    "resume": {
+      "lemma": "resume",
+      "pos": "noun",
+      "ko": "이력서",
+      "form": null,
+      "synonyms": [
+        "CV"
+      ],
+      "ipa": "/rɪˈzuːm/"
+    },
+    "list": {
+      "lemma": "list",
+      "pos": "noun",
+      "ko": "목록, 명단",
+      "form": null,
+      "synonyms": [
+        "record"
+      ],
+      "ipa": "/lɪst/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "references": {
+      "lemma": "reference",
+      "pos": "noun",
+      "ko": "추천인",
+      "form": "복수형",
+      "synonyms": [
+        "referee",
+        "recommender"
+      ],
+      "ipa": "/ˈrɛfərənsɪz/"
+    },
+    "recommend": {
+      "lemma": "recommend",
+      "pos": "verb",
+      "ko": "권하다, 추천하다",
+      "form": null,
+      "synonyms": [
+        "suggest",
+        "advise"
+      ],
+      "ipa": "/ˌrɛkəˈmɛnd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절 접속사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "get there",
+        "come"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "minutes": {
+      "lemma": "minute",
+      "pos": "noun",
+      "ko": "분",
+      "form": "복수형",
+      "ipa": "/ˈmɪnəts/"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "일찍",
+      "form": null,
+      "synonyms": [
+        "ahead of time"
+      ],
+      "ipa": "/ˈɜːrli/"
+    },
+    "check": {
+      "lemma": "check",
+      "pos": "verb",
+      "ko": "(check in) 도착을 알리다, 등록하다",
+      "form": null,
+      "synonyms": [
+        "sign in",
+        "register"
+      ],
+      "ipa": "/tʃɛk/"
+    },
+    "receptionist": {
+      "lemma": "receptionist",
+      "pos": "noun",
+      "ko": "접수 담당자",
+      "form": null,
+      "synonyms": [
+        "front desk clerk"
+      ],
+      "ipa": "/rɪˈsɛpʃənɪst/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "form": null,
+      "ipa": "/ˈsɛkənd/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": null,
+      "synonyms": [
+        "slot"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "convenient": {
+      "lemma": "convenient",
+      "pos": "adjective",
+      "ko": "편리한, 괜찮은",
+      "form": null,
+      "synonyms": [
+        "suitable",
+        "handy"
+      ],
+      "ipa": "/kənˈviːnjənt/"
+    },
+    "reply": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "답장하다",
+      "form": null,
+      "synonyms": [
+        "respond",
+        "answer"
+      ],
+      "ipa": "/rɪˈplaɪ/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "email"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look forward to) 기대하다",
+      "form": null,
+      "ipa": "/lʊk/"
+    },
+    "forward": {
+      "lemma": "forward",
+      "pos": "adverb",
+      "ko": "(look forward to) 고대하며",
+      "form": null,
+      "ipa": "/ˈfɔːrwərd/"
+    },
+    "meeting": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "만나다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "see"
+      ],
+      "ipa": "/ˈmiːtɪŋ/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)",
+      "form": null,
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "grace": {
+      "lemma": "Grace",
+      "pos": "proper-noun",
+      "ko": "그레이스(사람 이름)",
+      "form": null,
+      "ipa": "/ɡreɪs/"
+    },
+    "lin": {
+      "lemma": "Lin",
+      "pos": "proper-noun",
+      "ko": "린(사람 성)",
+      "form": null,
+      "ipa": "/lɪn/"
+    },
+    "human": {
+      "lemma": "human",
+      "pos": "adjective",
+      "ko": "인간의 (Human Resources: 인사)",
+      "form": null,
+      "ipa": "/ˈhjuːmən/"
+    },
+    "resources": {
+      "lemma": "resource",
+      "pos": "noun",
+      "ko": "자원 (Human Resources: 인사부)",
+      "form": "복수형",
+      "ipa": "/ˈriːsɔrsɪz/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "impressed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "impressive"
+        },
+        {
+          "key": "B",
+          "text": "impression"
+        },
+        {
+          "key": "C",
+          "text": "impressed"
+        },
+        {
+          "key": "D",
+          "text": "impressing"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "주어 We(사람)가 경력에 '감명을 받은' 것이므로 감정을 느끼는 쪽을 나타내는 과거분사 impressed가 정답. be impressed by = ~에 감명받다.",
+      "choiceNotesKo": {
+        "A": "impressive(인상적인)는 감정을 주는 대상(경력)을 설명할 때 쓴다: Your experience is impressive.",
+        "D": "impressing은 '감명을 주고 있는'이라는 능동의 뜻이라 맞지 않는다."
+      },
+      "skill": "감정 분사(-ed vs -ing)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "who"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "he"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "콤마 앞 선행사 Mr. Daniel Reyes(사람)를 받고, 뒤에 동사 will ask가 바로 오므로 주격 관계대명사 who가 정답.",
+      "choiceNotesKo": {
+        "D": "he를 넣으면 접속사 없이 두 절이 콤마로만 이어져 틀린 문장이 된다.",
+        "C": "whose 뒤에는 명사가 와야 한다."
+      },
+      "skill": "계속적 용법 관계대명사"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "You will also be asked to complete a short computer skills test."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Unfortunately, the position has already been filled."
+        },
+        {
+          "key": "B",
+          "text": "Our office will be closed for renovations next month."
+        },
+        {
+          "key": "C",
+          "text": "Thank you for your recent order of office supplies."
+        },
+        {
+          "key": "D",
+          "text": "You will also be asked to complete a short computer skills test."
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "앞 문장은 면접에서 할 일(이사와의 면담), 뒤 문장은 준비물이다. also(또한)로 면접에서 할 일을 하나 더 알려 주는 D가 흐름에 맞다.",
+      "choiceNotesKo": {
+        "A": "이미 사람을 뽑았다면 면접에 초대할 이유가 없다.",
+        "C": "지원자에게 보내는 이메일인데 물품 주문 감사 인사는 맞지 않는다."
+      },
+      "skill": "문장 넣기(흐름·also)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "arrive"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "arrive"
+        },
+        {
+          "key": "B",
+          "text": "reach"
+        },
+        {
+          "key": "C",
+          "text": "attend"
+        },
+        {
+          "key": "D",
+          "text": "visit"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "빈칸 뒤에 목적어 없이 ten minutes early(10분 일찍)가 온다. 목적어 없이 쓰는 자동사 arrive(도착하다)가 정답.",
+      "choiceNotesKo": {
+        "B": "reach는 타동사라 reach the office처럼 목적어가 필요하다.",
+        "C": "attend도 attend the interview처럼 목적어가 필요하다."
+      },
+      "skill": "어휘(자동사 vs 타동사)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "meeting"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "meet"
+        },
+        {
+          "key": "B",
+          "text": "met"
+        },
+        {
+          "key": "C",
+          "text": "meeting"
+        },
+        {
+          "key": "D",
+          "text": "be meeting"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "look forward to의 to는 전치사이므로 뒤에 동명사가 온다. meeting이 정답.",
+      "choiceNotesKo": {
+        "A": "to를 to부정사로 착각하면 meet를 고르기 쉽다."
+      },
+      "skill": "전치사 to + 동명사"
+    }
+  ]
+}
