@@ -1,0 +1,1627 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-27-L3-3",
+  "date": "2026-11-27",
+  "level": 3,
+  "title": "The Bell",
+  "titleKo": "종",
+  "genre": "fairy-tale",
+  "tags": [
+    "Andersen",
+    "fairy tale",
+    "fairy-tale"
+  ],
+  "source": {
+    "work": "The Bell (in Andersen's Fairy Tales)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1845,
+    "edition": "Project Gutenberg #1597",
+    "url": "https://www.gutenberg.org/ebooks/1597",
+    "license": "public-domain",
+    "excerptNote": "'The Bell'('종') 첫머리: 첫 두 단락 전체와 셋째 단락의 앞 두 문장 (‘People said \"The Evening Bell is sounding…’부터 ‘…in the depth of the green wood.’까지, 216단어). 도시에 들려오는 신비한 종소리를 찾아 사람들이 숲으로 나가는 도입부 (과자 장수가 노점을 차리는 셋째 단락 셋째 문장부터는 뺌). 제목 줄은 지문에 넣지 않음. PG #1597 영어 번역 (Gutenberg에 번역자 표기 없음). gutenberg.org 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #1597, hcaft10.txt, 항목 andersensfairyta01597gut)에서 가져왔고, 줄바꿈만 공백 하나로 이음 (곧은 따옴표 \", 줄표(--), said 뒤 쉼표 없는 인용 등은 원문 그대로)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_09_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_09_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/andersens-fairy-tales-by-hc-andersen/",
+    "reader": "Kevin McAsh",
+    "durationSec": 707,
+    "startSec": 20,
+    "endSec": 105,
+    "note": "LibriVox 'Andersen's Fairy Tales'(PG #1597 낭독) 9번 트랙 'The Bell'(전체 11:47) 중 첫머리. LibriVox 안내·제목 낭독 뒤 약 0:20~1:45 (단어 수로 어림한 위치). 트랙·낭독자·길이는 LibriVox API로 확인함."
+  },
+  "wordCount": 216,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "ko": "사람들은 \"저녁 종이 울리고 있어, 해가 지는구나.\" 하고 말했다. 어느 큰 도시의 좁은 거리마다 이상하고도 신비로운 소리가 들려왔기 때문이다. 그것은 교회 종소리 같았다. 하지만 그 소리는 잠깐 동안만 들렸는데, 마차 굴러가는 소리와 군중의 목소리가 너무 시끄러웠기 때문이다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s4",
+        "s5"
+      ],
+      "ko": "집들이 더 띄엄띄엄 있고 그 사이에 정원이나 작은 밭이 있는 도시 바깥을 걷던 사람들은 저녁 하늘을 훨씬 더 잘 볼 수 있었고, 종소리도 훨씬 더 또렷하게 들었다. 마치 그 소리가 고요한 숲속의 교회에서 들려오는 것 같았다. 사람들은 그쪽을 바라보았고, 마음이 아주 경건해지는 것을 느꼈다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "오랜 시간이 흘렀고, 사람들은 서로 말했다. \"저 숲속에 교회가 있는 걸까? 종소리가 정말 놀랍도록 아름다워. 그쪽으로 걸어가서 좀 더 가까이에서 알아보자.\" 그래서 부자들은 마차를 타고 나갔고 가난한 사람들은 걸어갔지만, 그들에게 그 길은 이상하리만큼 멀게 느껴졌다. 그리고 숲 가장자리에 자란 버드나무 덤불에 이르자, 그들은 앉아서 긴 나뭇가지들을 올려다보며 이제 자기들이 푸른 숲 한가운데에 와 있다고 상상했다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "People said \"The Evening Bell is sounding, the sun is setting.\"",
+      "ko": "사람들은 \"저녁 종이 울리고 있어, 해가 지는구나.\" 하고 말했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "For a strange wondrous tone was heard in the narrow streets of a large town.",
+      "ko": "어느 큰 도시의 좁은 거리마다 이상하고도 신비로운 소리가 들려왔기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "It was like the sound of a church-bell: but it was only heard for a moment, for the rolling of the carriages and the voices of the multitude made too great a noise.",
+      "ko": "그것은 교회 종소리 같았다. 하지만 그 소리는 잠깐 동안만 들렸는데, 마차 굴러가는 소리와 군중의 목소리가 너무 시끄러웠기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Those persons who were walking outside the town, where the houses were farther apart, with gardens or little fields between them, could see the evening sky still better, and heard the sound of the bell much more distinctly.",
+      "ko": "집들이 더 띄엄띄엄 있고 그 사이에 정원이나 작은 밭이 있는 도시 바깥을 걷던 사람들은 저녁 하늘을 훨씬 더 잘 볼 수 있었고, 종소리도 훨씬 더 또렷하게 들었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "It was as if the tones came from a church in the still forest; people looked thitherward, and felt their minds attuned most solemnly.",
+      "ko": "마치 그 소리가 고요한 숲속의 교회에서 들려오는 것 같았다. 사람들은 그쪽을 바라보았고, 마음이 아주 경건해지는 것을 느꼈다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "A long time passed, and people said to each other--\"I wonder if there is a church out in the wood?",
+      "ko": "오랜 시간이 흘렀고, 사람들은 서로 말했다. \"저 숲속에 교회가 있는 걸까?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "The bell has a tone that is wondrous sweet; let us stroll thither, and examine the matter nearer.\"",
+      "ko": "종소리가 정말 놀랍도록 아름다워. 그쪽으로 걸어가서 좀 더 가까이에서 알아보자.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "And the rich people drove out, and the poor walked, but the way seemed strangely long to them; and when they came to a clump of willows which grew on the skirts of the forest, they sat down, and looked up at the long branches, and fancied they were now in the depth of the green wood.",
+      "ko": "그래서 부자들은 마차를 타고 나갔고 가난한 사람들은 걸어갔지만, 그들에게 그 길은 이상하리만큼 멀게 느껴졌다. 그리고 숲 가장자리에 자란 버드나무 덤불에 이르자, 그들은 앉아서 긴 나뭇가지들을 올려다보며 이제 자기들이 푸른 숲 한가운데에 와 있다고 상상했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "wondrous",
+      "pos": "adjective",
+      "meaningKo": "놀라운, 신비로운",
+      "ipa": "/ˈwʌndrəs/",
+      "synonyms": [
+        "marvelous",
+        "wonderful",
+        "amazing"
+      ],
+      "matchText": "wondrous",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The traveler told wondrous stories about faraway lands.",
+        "ko": "그 여행자는 먼 나라에 대한 신비로운 이야기를 들려주었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "multitude",
+      "pos": "noun",
+      "meaningKo": "군중, 많은 사람들",
+      "ipa": "/ˈmʌltəˌtud/",
+      "synonyms": [
+        "crowd",
+        "throng",
+        "mass"
+      ],
+      "matchText": "multitude",
+      "sentenceId": "s3",
+      "example": {
+        "en": "A multitude gathered in the square to hear the king.",
+        "ko": "왕의 말을 들으려고 광장에 군중이 모였다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "distinctly",
+      "pos": "adverb",
+      "meaningKo": "또렷하게, 분명하게",
+      "ipa": "/dɪˈstɪŋktli/",
+      "synonyms": [
+        "clearly",
+        "plainly",
+        "sharply"
+      ],
+      "matchText": "distinctly",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I distinctly remember locking the door.",
+        "ko": "나는 문을 잠근 것을 분명히 기억한다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "stroll",
+      "pos": "verb",
+      "meaningKo": "한가롭게 걷다, 거닐다",
+      "ipa": "/stroʊl/",
+      "synonyms": [
+        "wander",
+        "amble",
+        "walk"
+      ],
+      "matchText": "stroll",
+      "sentenceId": "s7",
+      "example": {
+        "en": "We like to stroll along the beach after dinner.",
+        "ko": "우리는 저녁 식사 후 해변을 거니는 것을 좋아한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "fancy",
+      "pos": "verb",
+      "meaningKo": "상상하다, (~라고) 생각하다",
+      "ipa": "/ˈfænsi/",
+      "synonyms": [
+        "imagine",
+        "suppose",
+        "picture"
+      ],
+      "matchText": "fancied",
+      "sentenceId": "s8",
+      "example": {
+        "en": "She fancied that she heard someone calling her name.",
+        "ko": "그녀는 누군가 자기 이름을 부르는 소리를 들었다고 생각했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "like the sound of a church-bell:",
+          "role": "C",
+          "sub": false,
+          "ko": "교회 종소리 같은"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은"
+        },
+        {
+          "text": "was only heard",
+          "role": "V",
+          "sub": false,
+          "ko": "들렸을 뿐이었다"
+        },
+        {
+          "text": "for a moment,",
+          "role": "M",
+          "sub": false,
+          "ko": "잠깐 동안만"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "the rolling of the carriages and the voices of the multitude",
+          "role": "S",
+          "sub": true,
+          "ko": "마차 굴러가는 소리와 군중의 목소리가"
+        },
+        {
+          "text": "made",
+          "role": "V",
+          "sub": true,
+          "ko": "만들었다"
+        },
+        {
+          "text": "too great a noise.",
+          "role": "O",
+          "sub": true,
+          "ko": "너무 큰 소음을"
+        }
+      ],
+      "skeleton": "It was like the sound ... but it was only heard",
+      "explanation": "콜론(:) 앞뒤로 두 절이 but으로 이어진다. 뒤의 for는 '왜냐하면'이라는 뜻의 접속사로, 잠깐만 들린 이유를 설명하는 절을 이끈다. 그 절의 주어는 A and B 형태로 길고, too great a noise는 'too + 형용사 + a + 명사' 어순이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "Those persons",
+          "role": "S",
+          "sub": false,
+          "ko": "그 사람들은"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그 사람들은)"
+        },
+        {
+          "text": "were walking",
+          "role": "V",
+          "sub": true,
+          "ko": "걷고 있던"
+        },
+        {
+          "text": "outside the town,",
+          "role": "M",
+          "sub": true,
+          "ko": "도시 바깥을"
+        },
+        {
+          "text": "where",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "(그곳에서는)"
+        },
+        {
+          "text": "the houses",
+          "role": "S",
+          "sub": true,
+          "ko": "집들이"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "farther apart,",
+          "role": "C",
+          "sub": true,
+          "ko": "더 떨어져 있는"
+        },
+        {
+          "text": "with gardens or little fields between them,",
+          "role": "M",
+          "sub": true,
+          "ko": "그 사이에 정원이나 작은 밭이 있는"
+        },
+        {
+          "text": "could see",
+          "role": "V",
+          "sub": false,
+          "ko": "볼 수 있었다"
+        },
+        {
+          "text": "the evening sky",
+          "role": "O",
+          "sub": false,
+          "ko": "저녁 하늘을"
+        },
+        {
+          "text": "still better,",
+          "role": "M",
+          "sub": false,
+          "ko": "훨씬 더 잘"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "heard",
+          "role": "V",
+          "sub": false,
+          "ko": "들었다"
+        },
+        {
+          "text": "the sound of the bell",
+          "role": "O",
+          "sub": false,
+          "ko": "종소리를"
+        },
+        {
+          "text": "much more distinctly.",
+          "role": "M",
+          "sub": false,
+          "ko": "훨씬 더 또렷하게"
+        }
+      ],
+      "skeleton": "Those persons could see the evening sky and heard the sound",
+      "explanation": "주어 Those persons를 관계대명사절 who were walking outside the town이 꾸미고, 그 안의 the town을 다시 관계부사절 where the houses were farther apart가 설명한다. 긴 주어 뒤에 동사 could see와 heard가 and로 이어진다. still better, much more distinctly의 still·much는 비교급을 강조한다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "접속사 for: '왜냐하면 ~이니까'",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "For a strange wondrous tone was heard"
+      ],
+      "explanation": "문장 앞이나 쉼표 뒤에 오는 for가 절(주어+동사)을 이끌면 '왜냐하면 ~이기 때문이다'라는 이유의 접속사다. 앞 문장(사람들이 '저녁 종이 울린다'고 말한 것)의 이유를 덧붙인다. 문어체 표현으로, s3의 'for the rolling of the carriages ... made'도 같은 쓰임이다.",
+      "example": {
+        "en": "He stayed home, for he was very tired.",
+        "ko": "그는 집에 있었다, 왜냐하면 아주 피곤했기 때문이다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "as if + 과거형: 마치 ~인 것처럼",
+      "tags": [
+        "가정법",
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "It was as if the tones came from a church"
+      ],
+      "explanation": "as if 뒤에 절이 오면 '마치 ~인 것 같다'는 뜻이다. 실제로는 숲속에 교회가 있는지 모르지만, 소리가 그렇게 들렸다는 느낌을 나타낸다. as if 뒤의 동사는 사실과 다르거나 불확실한 느낌을 주려고 과거형(came)을 쓰는 경우가 많다.",
+      "example": {
+        "en": "She talks as if she knew everything.",
+        "ko": "그녀는 마치 모든 것을 아는 것처럼 말한다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "I wonder if ~: ~일까 궁금하다",
+      "tags": [
+        "명사절",
+        "접속사"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "I wonder if there is a church out in the wood?"
+      ],
+      "explanation": "wonder 뒤의 if는 '만약'이 아니라 '~인지 (아닌지)'라는 뜻으로 명사절을 이끌어 wonder의 목적어가 된다. 'I wonder if ~'는 '~일까?' 하고 혼잣말처럼 궁금해하는 표현이다. 원문은 질문하는 느낌을 살려 물음표로 끝났다.",
+      "example": {
+        "en": "I wonder if it will rain tomorrow.",
+        "ko": "내일 비가 올까 궁금하다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "folks",
+        "persons"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "told",
+        "remarked"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁",
+      "form": null,
+      "synonyms": [
+        "dusk",
+        "nightfall"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "bell": {
+      "lemma": "bell",
+      "pos": "noun",
+      "ko": "종",
+      "form": null,
+      "synonyms": [
+        "chime"
+      ],
+      "ipa": "/bɛl/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~하고 있다 (진행형), ~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "sounding": {
+      "lemma": "sound",
+      "pos": "verb",
+      "ko": "울리다, 소리가 나다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "ringing",
+        "chiming"
+      ],
+      "ipa": "/ˈsaʊndɪŋ/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 태양",
+      "form": null,
+      "ipa": "/sʌn/"
+    },
+    "setting": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(해가) 지다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "going down",
+        "sinking"
+      ],
+      "ipa": "/ˈsɛtɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 ~이니까; (전치사) ~동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "strange": {
+      "lemma": "strange",
+      "pos": "adjective",
+      "ko": "이상한, 낯선",
+      "form": null,
+      "synonyms": [
+        "odd",
+        "unusual",
+        "mysterious"
+      ],
+      "ipa": "/streɪndʒ/"
+    },
+    "wondrous": {
+      "lemma": "wondrous",
+      "pos": "adjective",
+      "ko": "놀라운, 신비로운; (부사적으로) 놀랍도록",
+      "form": null,
+      "synonyms": [
+        "marvelous",
+        "wonderful"
+      ],
+      "ipa": "/ˈwʌndrəs/"
+    },
+    "tone": {
+      "lemma": "tone",
+      "pos": "noun",
+      "ko": "소리, 음색",
+      "form": null,
+      "synonyms": [
+        "sound",
+        "note"
+      ],
+      "ipa": "/toʊn/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~이었다; (수동태) ~되었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "들었다; 들리다(수동태)",
+      "form": "과거형·과거분사",
+      "synonyms": [
+        "listened to",
+        "caught"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "narrow": {
+      "lemma": "narrow",
+      "pos": "adjective",
+      "ko": "좁은",
+      "form": null,
+      "synonyms": [
+        "tight",
+        "thin"
+      ],
+      "ipa": "/ˈnɛroʊ/"
+    },
+    "streets": {
+      "lemma": "street",
+      "pos": "noun",
+      "ko": "거리",
+      "form": "복수형",
+      "synonyms": [
+        "roads",
+        "lanes"
+      ],
+      "ipa": "/striːts/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "big",
+        "great"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "town": {
+      "lemma": "town",
+      "pos": "noun",
+      "ko": "도시, 읍내",
+      "form": null,
+      "synonyms": [
+        "city"
+      ],
+      "ipa": "/taʊn/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~ 같은, ~처럼",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "sound": {
+      "lemma": "sound",
+      "pos": "noun",
+      "ko": "소리",
+      "form": null,
+      "synonyms": [
+        "noise",
+        "tone"
+      ],
+      "ipa": "/saʊnd/"
+    },
+    "church-bell": {
+      "lemma": "church-bell",
+      "pos": "noun",
+      "ko": "교회 종",
+      "form": null,
+      "ipa": "/tʃɜːrtʃ-bɛl/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, ~만",
+      "form": null,
+      "synonyms": [
+        "just",
+        "merely"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "moment": {
+      "lemma": "moment",
+      "pos": "noun",
+      "ko": "순간, 잠깐",
+      "form": null,
+      "synonyms": [
+        "instant",
+        "second"
+      ],
+      "ipa": "/ˈmoʊmənt/"
+    },
+    "rolling": {
+      "lemma": "rolling",
+      "pos": "noun",
+      "ko": "굴러가는 소리, 덜컹거림",
+      "form": null,
+      "synonyms": [
+        "rumbling"
+      ],
+      "ipa": "/ˈroʊlɪŋ/"
+    },
+    "carriages": {
+      "lemma": "carriage",
+      "pos": "noun",
+      "ko": "마차",
+      "form": "복수형",
+      "synonyms": [
+        "coaches",
+        "wagons"
+      ],
+      "ipa": "/ˈkærɪdʒɪz/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "voices": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "form": "복수형",
+      "synonyms": [
+        "speech",
+        "talk"
+      ],
+      "ipa": "/ˈvɔɪsəz/"
+    },
+    "multitude": {
+      "lemma": "multitude",
+      "pos": "noun",
+      "ko": "군중, 많은 사람들",
+      "form": null,
+      "synonyms": [
+        "crowd",
+        "throng"
+      ],
+      "ipa": "/ˈmʌltəˌtuːd/"
+    },
+    "made": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들었다, (소리를) 냈다",
+      "form": "과거형",
+      "synonyms": [
+        "created",
+        "produced"
+      ],
+      "ipa": "/meɪd/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "synonyms": [
+        "overly",
+        "excessively"
+      ],
+      "ipa": "/tuː/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 엄청난",
+      "form": null,
+      "synonyms": [
+        "big",
+        "loud"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "noise": {
+      "lemma": "noise",
+      "pos": "noun",
+      "ko": "소음, 시끄러운 소리",
+      "form": null,
+      "synonyms": [
+        "din",
+        "racket"
+      ],
+      "ipa": "/nɔɪz/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "determiner",
+      "ko": "그, 저 (복수)",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "persons": {
+      "lemma": "person",
+      "pos": "noun",
+      "ko": "사람",
+      "form": "복수형",
+      "synonyms": [
+        "people",
+        "individuals"
+      ],
+      "ipa": "/ˈpɜːrsənz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "~하는 (사람) (관계대명사)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "~하고 있었다 (진행형); ~이었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "walking": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "strolling",
+        "wandering"
+      ],
+      "ipa": "/ˈwɔːkɪŋ/"
+    },
+    "outside": {
+      "lemma": "outside",
+      "pos": "preposition",
+      "ko": "~ 밖에서, ~ 바깥을",
+      "form": null,
+      "ipa": "/ˈaʊtˈsaɪd/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "(그곳에서는) ~하는 (관계부사)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "houses": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": "복수형",
+      "synonyms": [
+        "homes",
+        "dwellings"
+      ],
+      "ipa": "/ˈhaʊsəz/"
+    },
+    "farther": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "더 멀리",
+      "form": "비교급",
+      "synonyms": [
+        "further"
+      ],
+      "ipa": "/ˈfɑːrðər/"
+    },
+    "apart": {
+      "lemma": "apart",
+      "pos": "adverb",
+      "ko": "떨어져서, 간격을 두고",
+      "form": null,
+      "synonyms": [
+        "separately",
+        "away"
+      ],
+      "ipa": "/əˈpɑːrt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~이 있는, ~와 함께",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "gardens": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원, 뜰",
+      "form": "복수형",
+      "synonyms": [
+        "yards"
+      ],
+      "ipa": "/ˈɡɑːrdənz/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "little": {
+      "lemma": "little",
+      "pos": "adjective",
+      "ko": "작은",
+      "form": null,
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "ipa": "/ˈlɪtəl/"
+    },
+    "fields": {
+      "lemma": "field",
+      "pos": "noun",
+      "ko": "밭, 들판",
+      "form": "복수형",
+      "synonyms": [
+        "meadows",
+        "plots"
+      ],
+      "ipa": "/fiːldz/"
+    },
+    "between": {
+      "lemma": "between",
+      "pos": "preposition",
+      "ko": "~ 사이에",
+      "form": null,
+      "ipa": "/bɪˈtwiːn/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들, 그들",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "see": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "view",
+        "watch"
+      ],
+      "ipa": "/siː/"
+    },
+    "sky": {
+      "lemma": "sky",
+      "pos": "noun",
+      "ko": "하늘",
+      "form": null,
+      "synonyms": [
+        "heavens"
+      ],
+      "ipa": "/skaɪ/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "훨씬 (비교급 강조); 고요한(형용사)",
+      "form": null,
+      "synonyms": [
+        "even",
+        "yet"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "better": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "더 잘",
+      "form": "비교급",
+      "synonyms": [
+        "more clearly"
+      ],
+      "ipa": "/ˈbɛtər/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "adverb",
+      "ko": "훨씬 (비교급 강조)",
+      "form": null,
+      "synonyms": [
+        "far",
+        "a lot"
+      ],
+      "ipa": "/mʌtʃ/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "distinctly": {
+      "lemma": "distinctly",
+      "pos": "adverb",
+      "ko": "또렷하게, 분명하게",
+      "form": null,
+      "synonyms": [
+        "clearly",
+        "plainly"
+      ],
+      "ipa": "/dɪˈstɪŋktli/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~처럼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "(as if) 마치 ~인 듯; (wonder if) ~인지",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "tones": {
+      "lemma": "tone",
+      "pos": "noun",
+      "ko": "소리, 음",
+      "form": "복수형",
+      "synonyms": [
+        "sounds",
+        "notes"
+      ],
+      "ipa": "/toʊnz/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다, 들려오다",
+      "form": "과거형",
+      "synonyms": [
+        "arrived",
+        "traveled"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "church": {
+      "lemma": "church",
+      "pos": "noun",
+      "ko": "교회",
+      "form": null,
+      "synonyms": [
+        "chapel"
+      ],
+      "ipa": "/tʃɜːrtʃ/"
+    },
+    "forest": {
+      "lemma": "forest",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "woods",
+        "woodland"
+      ],
+      "ipa": "/ˈfɔːrəst/"
+    },
+    "looked": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "보다, 바라보다",
+      "form": "과거형",
+      "synonyms": [
+        "gazed",
+        "glanced"
+      ],
+      "ipa": "/lʊkt/"
+    },
+    "thitherward": {
+      "lemma": "thitherward",
+      "pos": "adverb",
+      "ko": "그쪽으로 (옛말)",
+      "form": null,
+      "synonyms": [
+        "thither",
+        "that way"
+      ],
+      "ipa": "/ˈθɪðərwərd/"
+    },
+    "felt": {
+      "lemma": "feel",
+      "pos": "verb",
+      "ko": "느꼈다",
+      "form": "과거형",
+      "synonyms": [
+        "sensed",
+        "experienced"
+      ],
+      "ipa": "/fɛlt/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "determiner",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "minds": {
+      "lemma": "mind",
+      "pos": "noun",
+      "ko": "마음, 정신",
+      "form": "복수형",
+      "synonyms": [
+        "hearts",
+        "spirits"
+      ],
+      "ipa": "/maɪndz/"
+    },
+    "attuned": {
+      "lemma": "attune",
+      "pos": "verb",
+      "ko": "(마음이) 맞춰진, 조율된",
+      "form": "과거분사",
+      "synonyms": [
+        "tuned",
+        "adjusted"
+      ],
+      "ipa": "/əˈtuːnd/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "아주, 매우",
+      "form": null,
+      "synonyms": [
+        "very",
+        "deeply"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "solemnly": {
+      "lemma": "solemnly",
+      "pos": "adverb",
+      "ko": "엄숙하게, 경건하게",
+      "form": null,
+      "synonyms": [
+        "seriously",
+        "reverently"
+      ],
+      "ipa": "/ˈsɔːləmli/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴, 오랜",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": null,
+      "synonyms": [
+        "period",
+        "while"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "(시간이) 흐르다, 지나다",
+      "form": "과거형",
+      "synonyms": [
+        "went by",
+        "elapsed"
+      ],
+      "ipa": "/pæst/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "determiner",
+      "ko": "(each other) 서로",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "(each other) 서로",
+      "form": null,
+      "ipa": "/ˈʌðər/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "wonder": {
+      "lemma": "wonder",
+      "pos": "verb",
+      "ko": "궁금하다, ~일까 생각하다",
+      "form": null,
+      "synonyms": [
+        "ask oneself",
+        "question"
+      ],
+      "ipa": "/ˈwʌndər/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(there is) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖에, 저쪽에",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "wood": {
+      "lemma": "wood",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "forest",
+        "woods"
+      ],
+      "ipa": "/wʊd/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지고 있다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "possesses",
+        "owns"
+      ],
+      "ipa": "/hæz/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "sweet": {
+      "lemma": "sweet",
+      "pos": "adjective",
+      "ko": "(소리가) 아름다운, 감미로운",
+      "form": null,
+      "synonyms": [
+        "pleasant",
+        "lovely",
+        "melodious"
+      ],
+      "ipa": "/swiːt/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "(let us) ~하자",
+      "form": null,
+      "synonyms": [
+        "allow"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "stroll": {
+      "lemma": "stroll",
+      "pos": "verb",
+      "ko": "한가롭게 걷다, 거닐다",
+      "form": null,
+      "synonyms": [
+        "wander",
+        "amble"
+      ],
+      "ipa": "/stroʊl/"
+    },
+    "thither": {
+      "lemma": "thither",
+      "pos": "adverb",
+      "ko": "그쪽으로, 거기로 (옛말)",
+      "form": null,
+      "synonyms": [
+        "there",
+        "that way"
+      ],
+      "ipa": "/ˈðɪˌθɜːr/"
+    },
+    "examine": {
+      "lemma": "examine",
+      "pos": "verb",
+      "ko": "조사하다, 살펴보다",
+      "form": null,
+      "synonyms": [
+        "inspect",
+        "investigate",
+        "study"
+      ],
+      "ipa": "/ɪɡˈzæmɪn/"
+    },
+    "matter": {
+      "lemma": "matter",
+      "pos": "noun",
+      "ko": "일, 문제",
+      "form": null,
+      "synonyms": [
+        "affair",
+        "question"
+      ],
+      "ipa": "/ˈmætər/"
+    },
+    "nearer": {
+      "lemma": "near",
+      "pos": "adverb",
+      "ko": "더 가까이에서",
+      "form": "비교급",
+      "synonyms": [
+        "closer"
+      ],
+      "ipa": "/ˈnɪrər/"
+    },
+    "rich": {
+      "lemma": "rich",
+      "pos": "adjective",
+      "ko": "부유한",
+      "form": null,
+      "synonyms": [
+        "wealthy",
+        "well-off"
+      ],
+      "ipa": "/rɪtʃ/"
+    },
+    "drove": {
+      "lemma": "drive",
+      "pos": "verb",
+      "ko": "마차를 타고 가다",
+      "form": "과거형",
+      "synonyms": [
+        "rode"
+      ],
+      "ipa": "/droʊv/"
+    },
+    "poor": {
+      "lemma": "poor",
+      "pos": "adjective",
+      "ko": "가난한 (the poor: 가난한 사람들)",
+      "form": null,
+      "synonyms": [
+        "needy",
+        "penniless"
+      ],
+      "ipa": "/puːr/"
+    },
+    "walked": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걸어갔다",
+      "form": "과거형",
+      "synonyms": [
+        "went on foot",
+        "strolled"
+      ],
+      "ipa": "/wɔːkt/"
+    },
+    "way": {
+      "lemma": "way",
+      "pos": "noun",
+      "ko": "길",
+      "form": null,
+      "synonyms": [
+        "road",
+        "path",
+        "route"
+      ],
+      "ipa": "/weɪ/"
+    },
+    "seemed": {
+      "lemma": "seem",
+      "pos": "verb",
+      "ko": "~처럼 보였다, 느껴졌다",
+      "form": "과거형",
+      "synonyms": [
+        "appeared",
+        "looked"
+      ],
+      "ipa": "/siːmd/"
+    },
+    "strangely": {
+      "lemma": "strangely",
+      "pos": "adverb",
+      "ko": "이상하게, 묘하게",
+      "form": null,
+      "synonyms": [
+        "oddly",
+        "curiously"
+      ],
+      "ipa": "/ˈstreɪndʒli/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "clump": {
+      "lemma": "clump",
+      "pos": "noun",
+      "ko": "덤불, (나무의) 무리",
+      "form": null,
+      "synonyms": [
+        "cluster",
+        "group",
+        "thicket"
+      ],
+      "ipa": "/klʌmp/"
+    },
+    "willows": {
+      "lemma": "willow",
+      "pos": "noun",
+      "ko": "버드나무",
+      "form": "복수형",
+      "ipa": "/ˈwɪˌloʊz/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "~하는 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "grew": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자랐다",
+      "form": "과거형",
+      "synonyms": [
+        "sprouted",
+        "flourished"
+      ],
+      "ipa": "/ɡruː/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에, ~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "skirts": {
+      "lemma": "skirt",
+      "pos": "noun",
+      "ko": "가장자리, 변두리",
+      "form": "복수형",
+      "synonyms": [
+        "edges",
+        "outskirts",
+        "borders"
+      ],
+      "ipa": "/skɜːrts/"
+    },
+    "sat": {
+      "lemma": "sit",
+      "pos": "verb",
+      "ko": "앉았다",
+      "form": "과거형",
+      "synonyms": [
+        "settled"
+      ],
+      "ipa": "/sæt/"
+    },
+    "down": {
+      "lemma": "down",
+      "pos": "adverb",
+      "ko": "아래로 (sit down: 앉다)",
+      "form": null,
+      "ipa": "/daʊn/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로 (look up: 올려다보다)",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (보다), ~에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "boughs",
+        "limbs"
+      ],
+      "ipa": "/ˈbræntʃəz/"
+    },
+    "fancied": {
+      "lemma": "fancy",
+      "pos": "verb",
+      "ko": "상상했다, ~라고 생각했다",
+      "form": "과거형",
+      "synonyms": [
+        "imagined",
+        "supposed"
+      ],
+      "ipa": "/ˈfænsid/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "지금, 이제",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "depth": {
+      "lemma": "depth",
+      "pos": "noun",
+      "ko": "깊은 곳, 한가운데",
+      "form": null,
+      "synonyms": [
+        "heart",
+        "middle",
+        "deep"
+      ],
+      "ipa": "/dɛpθ/"
+    },
+    "green": {
+      "lemma": "green",
+      "pos": "adjective",
+      "ko": "푸른, 초록의",
+      "form": null,
+      "synonyms": [
+        "leafy",
+        "verdant"
+      ],
+      "ipa": "/ɡriːn/"
+    }
+  }
+}
