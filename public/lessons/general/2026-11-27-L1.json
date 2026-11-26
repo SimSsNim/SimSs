@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-27-L1",
+  "date": "2026-11-27",
+  "level": 1,
+  "title": "The Boy and the Filberts",
+  "titleKo": "소년과 개암",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 + 끝의 교훈 한 줄"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_25_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_three_librivox/fables_03_25_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-3-fables-51-75",
+    "reader": "Christine Dewar",
+    "durationSec": 68,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 03, 25번 트랙(전체 75번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독됨"
+  },
+  "wordCount": 111,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "한 소년이 개암이 든 단지 속에 손을 넣고, 주먹에 쥘 수 있는 만큼 잔뜩 움켜쥐었다. 그런데 손을 다시 빼내려고 하자, 그렇게 할 수 없다는 것을 알게 되었다. 단지의 목이 너무 좁아서 그렇게 큰 한 줌이 빠져나올 수 없었기 때문이다. 개암을 잃고 싶지는 않은데 손은 빼낼 수가 없어서, 소년은 울음을 터뜨렸다. 무엇이 문제인지 알아챈 옆 사람이 소년에게 말했다. \"얘야, 그렇게 욕심부리지 마라. 절반만으로 만족하렴. 그러면 어렵지 않게 손을 빼낼 수 있을 거야.\""
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "한꺼번에 너무 많은 것을 하려고 하지 마라."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Boy put his hand into a jar of Filberts, and grasped as many as his fist could possibly hold.",
+      "ko": "한 소년이 개암이 든 단지 속에 손을 넣고, 주먹에 쥘 수 있는 만큼 잔뜩 움켜쥐었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "But when he tried to pull it out again, he found he couldn't do so, for the neck of the jar was too small to allow of the passage of so large a handful.",
+      "ko": "그런데 손을 다시 빼내려고 하자, 그렇게 할 수 없다는 것을 알게 되었다. 단지의 목이 너무 좁아서 그렇게 큰 한 줌이 빠져나올 수 없었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Unwilling to lose his nuts but unable to withdraw his hand, he burst into tears.",
+      "ko": "개암을 잃고 싶지는 않은데 손은 빼낼 수가 없어서, 소년은 울음을 터뜨렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "A bystander, who saw where the trouble lay, said to him, \"Come, my boy, don't be so greedy: be content with half the amount, and you'll be able to get your hand out without difficulty.\"",
+      "ko": "무엇이 문제인지 알아챈 옆 사람이 소년에게 말했다. \"얘야, 그렇게 욕심부리지 마라. 절반만으로 만족하렴. 그러면 어렵지 않게 손을 빼낼 수 있을 거야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Do not attempt too much at once.",
+      "ko": "한꺼번에 너무 많은 것을 하려고 하지 마라.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "grasp",
+      "pos": "verb",
+      "meaningKo": "꽉 움켜쥐다",
+      "ipa": "/ɡræsp/",
+      "synonyms": [
+        "grab",
+        "grip",
+        "seize"
+      ],
+      "matchText": "grasped",
+      "sentenceId": "s1",
+      "example": {
+        "en": "She grasped my hand tightly.",
+        "ko": "그녀는 내 손을 꽉 잡았다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "withdraw",
+      "pos": "verb",
+      "meaningKo": "(손 등을) 빼다, 물러나게 하다",
+      "ipa": "/wɪðˈdrɔ/",
+      "synonyms": [
+        "pull out",
+        "remove",
+        "take back"
+      ],
+      "matchText": "withdraw",
+      "sentenceId": "s3",
+      "example": {
+        "en": "He withdrew his hand from the hot water.",
+        "ko": "그는 뜨거운 물에서 손을 뺐다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "burst into tears",
+      "pos": "idiom",
+      "meaningKo": "울음을 터뜨리다",
+      "ipa": "/bɝst ˈɪntu tɪrz/",
+      "synonyms": [
+        "start crying",
+        "break down"
+      ],
+      "matchText": "burst into tears",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The little girl burst into tears when she lost her doll.",
+        "ko": "어린 소녀는 인형을 잃어버리자 울음을 터뜨렸다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "greedy",
+      "pos": "adjective",
+      "meaningKo": "욕심 많은",
+      "ipa": "/ˈɡridi/",
+      "synonyms": [
+        "selfish",
+        "grasping"
+      ],
+      "matchText": "greedy",
+      "sentenceId": "s4",
+      "example": {
+        "en": "Don't be greedy. Share the cake with your sister.",
+        "ko": "욕심부리지 마. 케이크를 여동생과 나눠 먹어."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "be content with",
+      "pos": "phrase",
+      "meaningKo": "~에 만족하다",
+      "ipa": "/bi kənˈtɛnt wɪð/",
+      "synonyms": [
+        "be satisfied with",
+        "be happy with"
+      ],
+      "matchText": "be content with",
+      "sentenceId": "s4",
+      "example": {
+        "en": "I am content with a simple life.",
+        "ko": "나는 소박한 삶에 만족한다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Unwilling to lose his nuts",
+          "role": "M",
+          "sub": false,
+          "ko": "개암을 잃고 싶지 않아서"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러나"
+        },
+        {
+          "text": "unable to withdraw his hand,",
+          "role": "M",
+          "sub": false,
+          "ko": "손을 뺄 수 없어서"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "burst",
+          "role": "V",
+          "sub": false,
+          "ko": "터뜨렸다"
+        },
+        {
+          "text": "into tears.",
+          "role": "M",
+          "sub": false,
+          "ko": "울음을"
+        }
+      ],
+      "skeleton": "he burst into tears",
+      "explanation": "뼈대는 he burst into tears(그는 울음을 터뜨렸다)예요. 앞의 Unwilling ~ 과 unable ~ 은 소년의 상태를 설명하는 형용사 덩어리로, '~하기 싫었지만 ~할 수 없어서'라는 이유를 나타내요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~할 때"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "tried",
+          "role": "V",
+          "sub": true,
+          "ko": "시도했다"
+        },
+        {
+          "text": "to pull it out again,",
+          "role": "O",
+          "sub": true,
+          "ko": "그것을 다시 빼내는 것을"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": false,
+          "ko": "그는"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "sub": false,
+          "ko": "알게 되었다"
+        },
+        {
+          "text": "he couldn't do so,",
+          "role": "O",
+          "sub": false,
+          "ko": "그렇게 할 수 없다는 것을"
+        },
+        {
+          "text": "for",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "the neck of the jar",
+          "role": "S",
+          "sub": false,
+          "ko": "단지의 목이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "too small",
+          "role": "C",
+          "sub": false,
+          "ko": "너무 좁은"
+        },
+        {
+          "text": "to allow of the passage of so large a handful.",
+          "role": "M",
+          "sub": false,
+          "ko": "그렇게 큰 한 줌이 지나가기에는"
+        }
+      ],
+      "skeleton": "he found (that) he couldn't do so",
+      "explanation": "뼈대는 he found he couldn't do so(그는 그렇게 할 수 없다는 걸 알았다)예요. found 뒤에 that이 생략된 명사절이 목적어로 왔어요. for는 '왜냐하면'이라는 이유의 접속사이고, too ~ to …는 '너무 ~해서 …할 수 없다'는 뜻이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "as many as + 주어 + can (~할 수 있는 만큼 많이)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "as many as his fist could possibly hold"
+      ],
+      "explanation": "as many as ~ can은 '~할 수 있는 만큼 많이'라는 뜻이에요. 셀 수 있는 것(개암)이라서 many를 썼어요. possibly가 들어가 '될 수 있는 한 최대로'라는 느낌이 더 강해져요.",
+      "example": {
+        "en": "Take as many as you want.",
+        "ko": "원하는 만큼 많이 가져가."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "too + 형용사 + to 동사 (너무 ~해서 …할 수 없다)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "too small to allow"
+      ],
+      "explanation": "too 뒤에 형용사, 그 뒤에 to + 동사가 오면 '너무 ~해서 …할 수 없다'는 뜻이 돼요. 단지 목이 너무 좁아서 손이 빠져나올 수 없었다는 말이에요.",
+      "example": {
+        "en": "This box is too heavy to lift.",
+        "ko": "이 상자는 너무 무거워서 들 수 없다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "명령문 + and (~해라, 그러면 …할 것이다)",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "be content with half the amount, and you'll be able to"
+      ],
+      "explanation": "명령문 뒤에 and가 오면 '~해라, 그러면 …할 것이다'라는 뜻이에요. 반대로 명령문 + or는 '~해라, 그렇지 않으면 …'이에요.",
+      "example": {
+        "en": "Study hard, and you will pass the test.",
+        "ko": "열심히 공부해라, 그러면 시험에 합격할 것이다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "boy": {
+      "lemma": "boy",
+      "pos": "noun",
+      "ko": "소년",
+      "form": null,
+      "synonyms": [
+        "lad",
+        "kid"
+      ],
+      "ipa": "/bɔɪ/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "넣다, 놓다",
+      "form": "과거형",
+      "synonyms": [
+        "place",
+        "insert"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "hand": {
+      "lemma": "hand",
+      "pos": "noun",
+      "ko": "손",
+      "form": null,
+      "synonyms": [
+        "palm"
+      ],
+      "ipa": "/hænd/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안으로",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "jar": {
+      "lemma": "jar",
+      "pos": "noun",
+      "ko": "단지, 항아리",
+      "form": null,
+      "synonyms": [
+        "pot",
+        "container"
+      ],
+      "ipa": "/dʒɑːr/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~이 든",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "filberts": {
+      "lemma": "filbert",
+      "pos": "noun",
+      "ko": "개암(헤이즐넛)",
+      "form": "복수형",
+      "synonyms": [
+        "hazelnut",
+        "nut"
+      ],
+      "ipa": "/ˈfɪlbərts/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "grasped": {
+      "lemma": "grasp",
+      "pos": "verb",
+      "ko": "꽉 움켜쥐었다",
+      "form": "과거형",
+      "synonyms": [
+        "grab",
+        "grip",
+        "seize"
+      ],
+      "ipa": "/ɡræspt/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "adverb",
+      "ko": "(as ~ as) ~만큼",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "pronoun",
+      "ko": "많은 것, 많은 수",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "fist": {
+      "lemma": "fist",
+      "pos": "noun",
+      "ko": "주먹",
+      "form": null,
+      "synonyms": [
+        "clenched hand"
+      ],
+      "ipa": "/fɪst/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "possibly": {
+      "lemma": "possibly",
+      "pos": "adverb",
+      "ko": "가능한 한, 최대한",
+      "form": null,
+      "synonyms": [
+        "conceivably",
+        "at all"
+      ],
+      "ipa": "/ˈpɑːsəbli/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "쥐다, 담다",
+      "form": null,
+      "synonyms": [
+        "grip",
+        "contain"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "tried": {
+      "lemma": "try",
+      "pos": "verb",
+      "ko": "시도했다, 애썼다",
+      "form": "과거형",
+      "synonyms": [
+        "attempt",
+        "make an effort"
+      ],
+      "ipa": "/traɪd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하는 것, ~하기",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "pull": {
+      "lemma": "pull",
+      "pos": "verb",
+      "ko": "당기다, 빼다",
+      "form": null,
+      "synonyms": [
+        "draw",
+        "tug"
+      ],
+      "ipa": "/pʊl/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것(손)",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "synonyms": [
+        "outside"
+      ],
+      "ipa": "/aʊt/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "알게 되었다, 깨달았다",
+      "form": "과거형",
+      "synonyms": [
+        "discover",
+        "realize"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "couldn't": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없었다",
+      "form": "줄임말 (could not)",
+      "ipa": "/ˈkʊdənt/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform"
+      ],
+      "ipa": "/duː/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그렇게; 그토록",
+      "form": null,
+      "synonyms": [
+        "thus",
+        "that way"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "conjunction",
+      "ko": "왜냐하면 (~이니까)",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "neck": {
+      "lemma": "neck",
+      "pos": "noun",
+      "ko": "(병·단지의) 목, 좁은 입구",
+      "form": null,
+      "synonyms": [
+        "opening",
+        "mouth"
+      ],
+      "ipa": "/nɛk/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "synonyms": [
+        "overly",
+        "excessively"
+      ],
+      "ipa": "/tuː/"
+    },
+    "small": {
+      "lemma": "small",
+      "pos": "adjective",
+      "ko": "작은, 좁은",
+      "form": null,
+      "synonyms": [
+        "narrow",
+        "little"
+      ],
+      "ipa": "/smɔːl/"
+    },
+    "allow": {
+      "lemma": "allow",
+      "pos": "verb",
+      "ko": "(allow of) 허용하다, 가능하게 하다",
+      "form": null,
+      "synonyms": [
+        "permit",
+        "let"
+      ],
+      "ipa": "/əˈlaʊ/"
+    },
+    "passage": {
+      "lemma": "passage",
+      "pos": "noun",
+      "ko": "통과, 지나감",
+      "form": null,
+      "synonyms": [
+        "passing",
+        "way through"
+      ],
+      "ipa": "/ˈpæsədʒ/"
+    },
+    "large": {
+      "lemma": "large",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "big"
+      ],
+      "ipa": "/lɑːrdʒ/"
+    },
+    "handful": {
+      "lemma": "handful",
+      "pos": "noun",
+      "ko": "한 줌, 한 움큼",
+      "form": null,
+      "synonyms": [
+        "fistful"
+      ],
+      "ipa": "/ˈhændˌfʊl/"
+    },
+    "unwilling": {
+      "lemma": "unwilling",
+      "pos": "adjective",
+      "ko": "~하기 싫어하는",
+      "form": null,
+      "synonyms": [
+        "reluctant",
+        "not willing"
+      ],
+      "ipa": "/ənˈwɪlɪŋ/"
+    },
+    "lose": {
+      "lemma": "lose",
+      "pos": "verb",
+      "ko": "잃다",
+      "form": null,
+      "synonyms": [
+        "give up",
+        "part with"
+      ],
+      "ipa": "/luːz/"
+    },
+    "nuts": {
+      "lemma": "nut",
+      "pos": "noun",
+      "ko": "견과, 열매",
+      "form": "복수형",
+      "synonyms": [
+        "filbert"
+      ],
+      "ipa": "/nʌts/"
+    },
+    "unable": {
+      "lemma": "unable",
+      "pos": "adjective",
+      "ko": "~할 수 없는",
+      "form": null,
+      "synonyms": [
+        "not able",
+        "powerless"
+      ],
+      "ipa": "/əˈneɪbəl/"
+    },
+    "withdraw": {
+      "lemma": "withdraw",
+      "pos": "verb",
+      "ko": "(손을) 빼다",
+      "form": null,
+      "synonyms": [
+        "pull out",
+        "remove"
+      ],
+      "ipa": "/wɪðˈdrɔː/"
+    },
+    "burst": {
+      "lemma": "burst",
+      "pos": "verb",
+      "ko": "(burst into) 갑자기 ~하다, 터뜨리다",
+      "form": "과거형",
+      "synonyms": [
+        "break",
+        "explode"
+      ],
+      "ipa": "/bɜːrst/"
+    },
+    "tears": {
+      "lemma": "tear",
+      "pos": "noun",
+      "ko": "눈물",
+      "form": "복수형",
+      "synonyms": [
+        "crying",
+        "weeping"
+      ],
+      "ipa": "/tɛrz/"
+    },
+    "bystander": {
+      "lemma": "bystander",
+      "pos": "noun",
+      "ko": "옆에 있던 사람, 구경꾼",
+      "form": null,
+      "synonyms": [
+        "onlooker",
+        "passer-by"
+      ],
+      "ipa": "/ˈbaɪˌstændər/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "saw": {
+      "lemma": "see",
+      "pos": "verb",
+      "ko": "보았다, 알아챘다",
+      "form": "과거형",
+      "synonyms": [
+        "notice",
+        "understand"
+      ],
+      "ipa": "/sɔː/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "어디에, ~하는 곳",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "trouble": {
+      "lemma": "trouble",
+      "pos": "noun",
+      "ko": "문제, 곤란",
+      "form": null,
+      "synonyms": [
+        "problem",
+        "difficulty"
+      ],
+      "ipa": "/ˈtrʌbəl/"
+    },
+    "lay": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "(~에) 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "be",
+        "exist"
+      ],
+      "ipa": "/leɪ/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "speak"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "interjection",
+      "ko": "자, 이봐 (달래거나 재촉하는 말)",
+      "form": null,
+      "ipa": "/kʌm/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "don't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 마라",
+      "form": "줄임말 (do not)",
+      "ipa": "/doʊnt/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~이 되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "greedy": {
+      "lemma": "greedy",
+      "pos": "adjective",
+      "ko": "욕심 많은",
+      "form": null,
+      "synonyms": [
+        "selfish",
+        "grasping"
+      ],
+      "ipa": "/ˈɡriːdi/"
+    },
+    "content": {
+      "lemma": "content",
+      "pos": "adjective",
+      "ko": "(be content with) ~에 만족하는",
+      "form": null,
+      "synonyms": [
+        "satisfied",
+        "happy"
+      ],
+      "ipa": "/ˈkɑːntɛnt/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~에, ~으로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "half": {
+      "lemma": "half",
+      "pos": "noun",
+      "ko": "절반",
+      "form": null,
+      "synonyms": [
+        "fifty percent"
+      ],
+      "ipa": "/hæf/"
+    },
+    "amount": {
+      "lemma": "amount",
+      "pos": "noun",
+      "ko": "양",
+      "form": null,
+      "synonyms": [
+        "quantity",
+        "number"
+      ],
+      "ipa": "/əˈmaʊnt/"
+    },
+    "you'll": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "너는 ~할 것이다",
+      "form": "줄임말 (you will)",
+      "ipa": "/juːl/"
+    },
+    "able": {
+      "lemma": "able",
+      "pos": "adjective",
+      "ko": "(be able to) ~할 수 있는",
+      "form": null,
+      "synonyms": [
+        "capable"
+      ],
+      "ipa": "/ˈeɪbəl/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get out) 빼내다",
+      "form": null,
+      "synonyms": [
+        "take",
+        "pull"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의",
+      "form": null,
+      "ipa": "/jɔːr/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "difficulty": {
+      "lemma": "difficulty",
+      "pos": "noun",
+      "ko": "어려움",
+      "form": null,
+      "synonyms": [
+        "trouble",
+        "hardship"
+      ],
+      "ipa": "/ˈdɪfəkəlti/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다, ~ 말라",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "attempt": {
+      "lemma": "attempt",
+      "pos": "verb",
+      "ko": "시도하다",
+      "form": null,
+      "synonyms": [
+        "try",
+        "undertake"
+      ],
+      "ipa": "/əˈtɛmpt/"
+    },
+    "much": {
+      "lemma": "much",
+      "pos": "pronoun",
+      "ko": "많은 것",
+      "form": null,
+      "ipa": "/mʌtʃ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at once) 한꺼번에",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(at once) 한꺼번에, 동시에",
+      "form": null,
+      "synonyms": [
+        "at the same time",
+        "simultaneously"
+      ],
+      "ipa": "/wʌns/"
+    }
+  }
+}

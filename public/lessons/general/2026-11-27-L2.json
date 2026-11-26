@@ -1,0 +1,1419 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-27-L2",
+  "date": "2026-11-27",
+  "level": 2,
+  "title": "The Oxen and the Butchers",
+  "titleKo": "황소들과 백정들",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_19_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_19_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-5-fables-101-125",
+    "reader": "Lee Dunkelberg",
+    "durationSec": 106,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 05, 19번 트랙(전체 119번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 147,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "옛날 옛적에 황소들은 백정들이 자기 무리에 끼친 엄청난 피해를 복수하기로 마음먹고, 정해진 날에 그들을 죽이기로 음모를 꾸몄다. 황소들이 모두 모여 그 계획을 어떻게 하면 가장 잘 실행할지 의논하고 있었고, 그중 더 사나운 황소들은 싸움에 대비해 뿔을 갈고 있었다. 그때 늙은 황소 한 마리가 일어서서 말했다. \"형제들이여, 자네들이 이 백정들을 미워할 만한 이유가 있다는 건 나도 알아. 하지만 어쨌든 그들은 자기 일을 잘 알고, 쓸데없는 고통을 주지 않고 해야 할 일을 한다네. 그런데 우리가 그들을 죽이면, 경험이 없는 다른 자들이 우리를 잡게 될 것이고, 그들은 서툰 솜씨로 우리에게 큰 고통을 안기게 될 거야. 백정들이 모두 죽는다 해도, 인간은 결코 쇠고기 없이 지내지 않을 테니 말이야.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Once upon a time the Oxen determined to be revenged upon the Butchers for the havoc they wrought in their ranks, and plotted to put them to death on a given day.",
+      "ko": "옛날 옛적에 황소들은 백정들이 자기 무리에 끼친 엄청난 피해를 복수하기로 마음먹고, 정해진 날에 그들을 죽이기로 음모를 꾸몄다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "They were all gathered together discussing how best to carry out the plan, and the more violent of them were engaged in sharpening their horns for the fray, when an old Ox got up upon his feet and said, \"My brothers, you have good reason, I know, to hate these Butchers, but, at any rate, they understand their trade and do what they have to do without causing unnecessary pain.",
+      "ko": "황소들이 모두 모여 그 계획을 어떻게 하면 가장 잘 실행할지 의논하고 있었고, 그중 더 사나운 황소들은 싸움에 대비해 뿔을 갈고 있었다. 그때 늙은 황소 한 마리가 일어서서 말했다. \"형제들이여, 자네들이 이 백정들을 미워할 만한 이유가 있다는 건 나도 알아. 하지만 어쨌든 그들은 자기 일을 잘 알고, 쓸데없는 고통을 주지 않고 해야 할 일을 한다네.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But if we kill them, others, who have no experience, will be set to slaughter us, and will by their bungling inflict great sufferings upon us.",
+      "ko": "그런데 우리가 그들을 죽이면, 경험이 없는 다른 자들이 우리를 잡게 될 것이고, 그들은 서툰 솜씨로 우리에게 큰 고통을 안기게 될 거야.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "For you may be sure that, even though all the Butchers perish, mankind will never go without their beef.\"",
+      "ko": "백정들이 모두 죽는다 해도, 인간은 결코 쇠고기 없이 지내지 않을 테니 말이야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be revenged upon",
+      "pos": "phrase",
+      "meaningKo": "~에게 복수하다",
+      "ipa": "/bi rɪˈvɛndʒd əˈpɑn/",
+      "synonyms": [
+        "take revenge on",
+        "get back at"
+      ],
+      "matchText": "be revenged upon",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The prince swore to be revenged upon his enemies.",
+        "ko": "왕자는 적들에게 복수하겠다고 맹세했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "plot",
+      "pos": "verb",
+      "meaningKo": "음모를 꾸미다, 몰래 계획하다",
+      "ipa": "/plɑt/",
+      "synonyms": [
+        "scheme",
+        "conspire",
+        "plan"
+      ],
+      "matchText": "plotted",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The thieves plotted to rob the bank.",
+        "ko": "도둑들은 은행을 털 음모를 꾸몄다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "carry out",
+      "pos": "phrasal-verb",
+      "meaningKo": "실행하다, 수행하다",
+      "ipa": "/ˈkæri aʊt/",
+      "synonyms": [
+        "perform",
+        "execute",
+        "put into action"
+      ],
+      "matchText": "carry out",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We need more time to carry out the plan.",
+        "ko": "그 계획을 실행하려면 시간이 더 필요하다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "at any rate",
+      "pos": "idiom",
+      "meaningKo": "어쨌든, 아무튼",
+      "ipa": "/æt ˈɛni reɪt/",
+      "synonyms": [
+        "anyway",
+        "in any case"
+      ],
+      "matchText": "at any rate",
+      "sentenceId": "s2",
+      "example": {
+        "en": "It may rain, but at any rate we will go.",
+        "ko": "비가 올지도 모르지만 어쨌든 우리는 갈 것이다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "inflict",
+      "pos": "verb",
+      "meaningKo": "(고통·피해를) 가하다, 입히다",
+      "ipa": "/ɪnˈflɪkt/",
+      "synonyms": [
+        "cause",
+        "impose",
+        "deal"
+      ],
+      "matchText": "inflict",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The storm inflicted great damage on the town.",
+        "ko": "폭풍은 그 마을에 큰 피해를 입혔다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "Once upon a time",
+          "role": "M",
+          "sub": false,
+          "ko": "옛날 옛적에"
+        },
+        {
+          "text": "the Oxen",
+          "role": "S",
+          "sub": false,
+          "ko": "황소들은"
+        },
+        {
+          "text": "determined",
+          "role": "V",
+          "sub": false,
+          "ko": "결심했다"
+        },
+        {
+          "text": "to be revenged upon the Butchers",
+          "role": "O",
+          "sub": false,
+          "ko": "백정들에게 복수하기로"
+        },
+        {
+          "text": "for the havoc",
+          "role": "M",
+          "sub": false,
+          "ko": "그 큰 피해에 대해"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "wrought",
+          "role": "V",
+          "sub": true,
+          "ko": "끼친"
+        },
+        {
+          "text": "in their ranks,",
+          "role": "M",
+          "sub": true,
+          "ko": "자기 무리 속에"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "plotted",
+          "role": "V",
+          "sub": false,
+          "ko": "음모를 꾸몄다"
+        },
+        {
+          "text": "to put them to death",
+          "role": "O",
+          "sub": false,
+          "ko": "그들을 죽이기로"
+        },
+        {
+          "text": "on a given day.",
+          "role": "M",
+          "sub": false,
+          "ko": "정해진 날에"
+        }
+      ],
+      "skeleton": "the Oxen determined ~ and plotted ~",
+      "explanation": "주어 the Oxen에 동사가 두 개(determined, plotted) 이어져요. 둘 다 to부정사를 목적어로 받아 '~하기로 결심했다', '~하기로 꾸몄다'가 돼요. they wrought in their ranks는 the havoc을 꾸미는 절이에요(관계대명사 생략)."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "But",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "만약 ~한다면"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "sub": true,
+          "ko": "우리가"
+        },
+        {
+          "text": "kill",
+          "role": "V",
+          "sub": true,
+          "ko": "죽인다"
+        },
+        {
+          "text": "them,",
+          "role": "O",
+          "sub": true,
+          "ko": "그들을"
+        },
+        {
+          "text": "others,",
+          "role": "S",
+          "sub": false,
+          "ko": "다른 자들이"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그들은"
+        },
+        {
+          "text": "have",
+          "role": "V",
+          "sub": true,
+          "ko": "가지고 있다"
+        },
+        {
+          "text": "no experience,",
+          "role": "O",
+          "sub": true,
+          "ko": "경험이 없는"
+        },
+        {
+          "text": "will be set",
+          "role": "V",
+          "sub": false,
+          "ko": "맡게 될 것이다"
+        },
+        {
+          "text": "to slaughter us,",
+          "role": "M",
+          "sub": false,
+          "ko": "우리를 도살하는 일을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "will",
+          "role": "V",
+          "sub": false,
+          "ko": "~할 것이다"
+        },
+        {
+          "text": "by their bungling",
+          "role": "M",
+          "sub": false,
+          "ko": "그들의 서툰 솜씨로"
+        },
+        {
+          "text": "inflict",
+          "role": "V",
+          "sub": false,
+          "ko": "가하다"
+        },
+        {
+          "text": "great sufferings",
+          "role": "O",
+          "sub": false,
+          "ko": "큰 고통을"
+        },
+        {
+          "text": "upon us.",
+          "role": "M",
+          "sub": false,
+          "ko": "우리에게"
+        }
+      ],
+      "skeleton": "others will be set ~ and will inflict ~",
+      "explanation": "뼈대는 others will be set(다른 자들이 맡게 될 것이다) and will inflict great sufferings(큰 고통을 가할 것이다)예요. who have no experience는 others를 보충 설명하는 관계절이고, will과 inflict 사이에 by their bungling이 끼어 있어요."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "For",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "왜냐하면"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "너희는"
+        },
+        {
+          "text": "may be",
+          "role": "V",
+          "sub": false,
+          "ko": "~해도 좋다"
+        },
+        {
+          "text": "sure",
+          "role": "C",
+          "sub": false,
+          "ko": "확신하는"
+        },
+        {
+          "text": "that,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "even though",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "비록 ~일지라도"
+        },
+        {
+          "text": "all the Butchers",
+          "role": "S",
+          "sub": true,
+          "ko": "모든 백정들이"
+        },
+        {
+          "text": "perish,",
+          "role": "V",
+          "sub": true,
+          "ko": "죽는다"
+        },
+        {
+          "text": "mankind",
+          "role": "S",
+          "sub": true,
+          "ko": "인간은"
+        },
+        {
+          "text": "will never go",
+          "role": "V",
+          "sub": true,
+          "ko": "결코 지내지 않을 것이다"
+        },
+        {
+          "text": "without their beef.\"",
+          "role": "M",
+          "sub": true,
+          "ko": "쇠고기 없이"
+        }
+      ],
+      "skeleton": "you may be sure that ~",
+      "explanation": "뼈대는 you may be sure that ~(~라는 것을 확신해도 좋다)예요. that 절 안의 핵심은 mankind will never go without their beef이고, even though 절은 '~라 할지라도'라는 양보를 나타내요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "의문사 + to부정사: how to / how best to (어떻게 ~할지)",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "how best to carry out the plan"
+      ],
+      "explanation": "how + to부정사는 '어떻게 ~할지, ~하는 방법'이라는 명사 덩어리예요. 사이에 best가 들어가 '어떻게 하면 가장 잘 ~할지'라는 뜻이 됐어요. discussing의 목적어로 쓰였어요.",
+      "example": {
+        "en": "I don't know how to swim.",
+        "ko": "나는 수영하는 방법을 모른다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "수동태 + to부정사: be set to (~하도록 맡겨지다)",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "will be set to slaughter us"
+      ],
+      "explanation": "set A to B는 'A에게 B하는 일을 맡기다'라는 뜻이에요. 수동태로 바꾸면 A be set to B(A가 B하는 일을 맡게 되다)가 돼요. 미래 will과 함께 will be set으로 썼어요.",
+      "example": {
+        "en": "The students were set to clean the classroom.",
+        "ko": "학생들은 교실 청소를 맡게 되었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "양보의 접속사 even though (비록 ~일지라도)",
+      "tags": [
+        "부사절"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "even though all the Butchers perish"
+      ],
+      "explanation": "even though는 '비록 ~일지라도'라는 뜻으로, 뒤에 실제 사실이나 가정을 받아 '그래도 결과는 같다'는 것을 나타내요. although보다 강조하는 느낌이에요.",
+      "example": {
+        "en": "Even though it was cold, he went swimming.",
+        "ko": "날씨가 추웠는데도 그는 수영하러 갔다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "(once upon a time) 옛날 옛적에",
+      "form": null,
+      "synonyms": [
+        "long ago",
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~에, ~ 위에 (on의 격식체)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간",
+      "form": null,
+      "synonyms": [
+        "period",
+        "age"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "oxen": {
+      "lemma": "ox",
+      "pos": "noun",
+      "ko": "황소들",
+      "form": "복수형",
+      "synonyms": [
+        "bull",
+        "cattle"
+      ],
+      "ipa": "/ˈɑːksən/"
+    },
+    "determined": {
+      "lemma": "determine",
+      "pos": "verb",
+      "ko": "결심했다",
+      "form": "과거형",
+      "synonyms": [
+        "decide",
+        "resolve"
+      ],
+      "ipa": "/dɪˈtɜːrmənd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하기로, ~하는 것; ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "revenged": {
+      "lemma": "revenge",
+      "pos": "verb",
+      "ko": "(be revenged upon) ~에게 복수하다",
+      "form": "과거분사",
+      "synonyms": [
+        "avenge",
+        "get back at"
+      ],
+      "ipa": "/rɪˈvɛndʒd/"
+    },
+    "butchers": {
+      "lemma": "butcher",
+      "pos": "noun",
+      "ko": "백정, 도축업자",
+      "form": "복수형",
+      "synonyms": [
+        "slaughterer"
+      ],
+      "ipa": "/ˈbʊtʃərz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 위해; conjunction 왜냐하면",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "havoc": {
+      "lemma": "havoc",
+      "pos": "noun",
+      "ko": "대혼란, 큰 피해",
+      "form": null,
+      "synonyms": [
+        "destruction",
+        "damage"
+      ],
+      "ipa": "/ˈhævək/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "wrought": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "(피해 등을) 끼쳤다 (옛 과거형)",
+      "form": "과거형",
+      "synonyms": [
+        "cause",
+        "bring about"
+      ],
+      "ipa": "/rɔːt/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "ranks": {
+      "lemma": "rank",
+      "pos": "noun",
+      "ko": "무리, 대열",
+      "form": "복수형",
+      "synonyms": [
+        "herd",
+        "group"
+      ],
+      "ipa": "/ræŋks/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "plotted": {
+      "lemma": "plot",
+      "pos": "verb",
+      "ko": "음모를 꾸몄다",
+      "form": "과거형",
+      "synonyms": [
+        "scheme",
+        "conspire"
+      ],
+      "ipa": "/ˈplɑːtɪd/"
+    },
+    "put": {
+      "lemma": "put",
+      "pos": "verb",
+      "ko": "(put to death) 죽이다",
+      "form": null,
+      "synonyms": [
+        "place",
+        "set"
+      ],
+      "ipa": "/pʊt/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "death": {
+      "lemma": "death",
+      "pos": "noun",
+      "ko": "죽음",
+      "form": null,
+      "synonyms": [
+        "end",
+        "dying"
+      ],
+      "ipa": "/dɛθ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(날짜) ~에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "given": {
+      "lemma": "given",
+      "pos": "adjective",
+      "ko": "정해진, 특정한",
+      "form": null,
+      "synonyms": [
+        "set",
+        "fixed"
+      ],
+      "ipa": "/ˈɡɪvən/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날",
+      "form": null,
+      "synonyms": [
+        "date"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(were + -ing) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모두, 모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "gathered": {
+      "lemma": "gather",
+      "pos": "verb",
+      "ko": "모인",
+      "form": "과거분사",
+      "synonyms": [
+        "assemble",
+        "collect"
+      ],
+      "ipa": "/ˈɡæðərd/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께, 한데",
+      "form": null,
+      "synonyms": [
+        "jointly",
+        "side by side"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "discussing": {
+      "lemma": "discuss",
+      "pos": "verb",
+      "ko": "의논하는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "talk over",
+        "debate"
+      ],
+      "ipa": "/dɪˈskʌsɪŋ/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "어떻게",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "best": {
+      "lemma": "best",
+      "pos": "adverb",
+      "ko": "가장 잘",
+      "form": "최상급",
+      "synonyms": [
+        "most effectively"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "carry": {
+      "lemma": "carry",
+      "pos": "verb",
+      "ko": "(carry out) 실행하다",
+      "form": null,
+      "synonyms": [
+        "perform",
+        "execute"
+      ],
+      "ipa": "/ˈkæri/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "(carry out) 끝까지, 완전히",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "plan": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "계획",
+      "form": null,
+      "synonyms": [
+        "scheme",
+        "plot"
+      ],
+      "ipa": "/plæn/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더 ~한",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "violent": {
+      "lemma": "violent",
+      "pos": "adjective",
+      "ko": "사나운, 난폭한",
+      "form": null,
+      "synonyms": [
+        "fierce",
+        "aggressive"
+      ],
+      "ipa": "/ˈvaɪələnt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~ 중의, ~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "engaged": {
+      "lemma": "engage",
+      "pos": "verb",
+      "ko": "(be engaged in) ~에 몰두한, ~하고 있는",
+      "form": "과거분사",
+      "synonyms": [
+        "busy",
+        "occupied"
+      ],
+      "ipa": "/ɛnˈɡeɪdʒd/"
+    },
+    "sharpening": {
+      "lemma": "sharpen",
+      "pos": "verb",
+      "ko": "날카롭게 갈기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "hone",
+        "grind"
+      ],
+      "ipa": "/ˈʃɑːrpənɪŋ/"
+    },
+    "horns": {
+      "lemma": "horn",
+      "pos": "noun",
+      "ko": "뿔",
+      "form": "복수형",
+      "synonyms": [
+        "antler",
+        "tusk"
+      ],
+      "ipa": "/hɔːrnz/"
+    },
+    "fray": {
+      "lemma": "fray",
+      "pos": "noun",
+      "ko": "싸움, 난투",
+      "form": null,
+      "synonyms": [
+        "fight",
+        "battle"
+      ],
+      "ipa": "/freɪ/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "그때, ~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "늙은",
+      "form": null,
+      "synonyms": [
+        "aged",
+        "elderly"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "ox": {
+      "lemma": "ox",
+      "pos": "noun",
+      "ko": "황소",
+      "form": null,
+      "synonyms": [
+        "bull",
+        "steer"
+      ],
+      "ipa": "/ɑːks/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get up) 일어섰다",
+      "form": "과거형",
+      "synonyms": [
+        "rise",
+        "stand"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "form": null,
+      "synonyms": [
+        "upward"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "feet": {
+      "lemma": "foot",
+      "pos": "noun",
+      "ko": "발",
+      "form": "복수형",
+      "ipa": "/fiːt/",
+      "synonyms": [
+        "paws",
+        "hooves"
+      ]
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "tell",
+        "state"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "brothers": {
+      "lemma": "brother",
+      "pos": "noun",
+      "ko": "형제들",
+      "form": "복수형",
+      "synonyms": [
+        "comrade",
+        "fellow"
+      ],
+      "ipa": "/ˈbrʌðərz/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너희, 자네들",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다; (have to) ~해야 하다",
+      "form": null,
+      "synonyms": [
+        "possess",
+        "hold"
+      ],
+      "ipa": "/hæv/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "타당한, 충분한",
+      "form": null,
+      "synonyms": [
+        "valid",
+        "sound"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "reason": {
+      "lemma": "reason",
+      "pos": "noun",
+      "ko": "이유",
+      "form": null,
+      "synonyms": [
+        "cause",
+        "grounds"
+      ],
+      "ipa": "/ˈriːzən/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "know": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알다",
+      "form": null,
+      "synonyms": [
+        "understand",
+        "realize"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "hate": {
+      "lemma": "hate",
+      "pos": "verb",
+      "ko": "미워하다",
+      "form": null,
+      "synonyms": [
+        "detest",
+        "loathe"
+      ],
+      "ipa": "/heɪt/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at any rate) 어쨌든",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "rate": {
+      "lemma": "rate",
+      "pos": "noun",
+      "ko": "(at any rate) 어쨌든; 비율",
+      "form": null,
+      "ipa": "/reɪt/",
+      "synonyms": [
+        "case",
+        "event"
+      ]
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다, 잘 알다",
+      "form": null,
+      "synonyms": [
+        "know",
+        "grasp"
+      ],
+      "ipa": "/ˌʌndərˈstænd/"
+    },
+    "trade": {
+      "lemma": "trade",
+      "pos": "noun",
+      "ko": "일, 직업",
+      "form": null,
+      "synonyms": [
+        "job",
+        "craft",
+        "occupation"
+      ],
+      "ipa": "/treɪd/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "하다",
+      "form": null,
+      "synonyms": [
+        "perform",
+        "carry out"
+      ],
+      "ipa": "/duː/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "causing": {
+      "lemma": "cause",
+      "pos": "verb",
+      "ko": "일으키는 것",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "bring about",
+        "produce"
+      ],
+      "ipa": "/ˈkɑːzɪŋ/"
+    },
+    "unnecessary": {
+      "lemma": "unnecessary",
+      "pos": "adjective",
+      "ko": "불필요한, 쓸데없는",
+      "form": null,
+      "synonyms": [
+        "needless",
+        "pointless"
+      ],
+      "ipa": "/ənˈnɛsəˌsɛri/"
+    },
+    "pain": {
+      "lemma": "pain",
+      "pos": "noun",
+      "ko": "고통",
+      "form": null,
+      "synonyms": [
+        "suffering",
+        "hurt"
+      ],
+      "ipa": "/peɪn/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "kill": {
+      "lemma": "kill",
+      "pos": "verb",
+      "ko": "죽이다",
+      "form": null,
+      "synonyms": [
+        "slay",
+        "murder"
+      ],
+      "ipa": "/kɪl/"
+    },
+    "others": {
+      "lemma": "other",
+      "pos": "pronoun",
+      "ko": "다른 자들",
+      "form": "복수형",
+      "ipa": "/ˈʌðərz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "아무 ~ 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "experience": {
+      "lemma": "experience",
+      "pos": "noun",
+      "ko": "경험",
+      "form": null,
+      "synonyms": [
+        "skill",
+        "practice"
+      ],
+      "ipa": "/ɪkˈspɪriəns/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(be set to) ~하는 일을 맡다, 정해지다",
+      "form": "과거분사",
+      "synonyms": [
+        "assign",
+        "appoint"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "slaughter": {
+      "lemma": "slaughter",
+      "pos": "verb",
+      "ko": "도살하다",
+      "form": null,
+      "synonyms": [
+        "butcher",
+        "kill"
+      ],
+      "ipa": "/ˈslɔːtər/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~로, ~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "bungling": {
+      "lemma": "bungling",
+      "pos": "noun",
+      "ko": "서툰 솜씨, 실수",
+      "form": null,
+      "synonyms": [
+        "clumsiness",
+        "blundering"
+      ],
+      "ipa": "/ˈbʌŋɡəlɪŋ/"
+    },
+    "inflict": {
+      "lemma": "inflict",
+      "pos": "verb",
+      "ko": "가하다, 입히다",
+      "form": null,
+      "synonyms": [
+        "cause",
+        "impose"
+      ],
+      "ipa": "/ˌɪnˈflɪkt/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "severe"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "sufferings": {
+      "lemma": "suffering",
+      "pos": "noun",
+      "ko": "고통",
+      "form": "복수형",
+      "synonyms": [
+        "pain",
+        "misery"
+      ],
+      "ipa": "/ˈsʌfərɪŋz/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~해도 좋다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "sure": {
+      "lemma": "sure",
+      "pos": "adjective",
+      "ko": "확신하는",
+      "form": null,
+      "synonyms": [
+        "certain",
+        "confident"
+      ],
+      "ipa": "/ʃʊr/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "even": {
+      "lemma": "even",
+      "pos": "adverb",
+      "ko": "(even though) 비록 ~일지라도",
+      "form": null,
+      "ipa": "/ˈiːvɪn/"
+    },
+    "though": {
+      "lemma": "though",
+      "pos": "conjunction",
+      "ko": "~이지만",
+      "form": null,
+      "ipa": "/ðoʊ/"
+    },
+    "perish": {
+      "lemma": "perish",
+      "pos": "verb",
+      "ko": "죽다, 사라지다",
+      "form": null,
+      "synonyms": [
+        "die",
+        "pass away"
+      ],
+      "ipa": "/ˈpɛrɪʃ/"
+    },
+    "mankind": {
+      "lemma": "mankind",
+      "pos": "noun",
+      "ko": "인류, 인간",
+      "form": null,
+      "synonyms": [
+        "humanity",
+        "humankind"
+      ],
+      "ipa": "/ˈmænˈkaɪnd/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~ 않다",
+      "form": null,
+      "synonyms": [
+        "not ever"
+      ],
+      "ipa": "/ˈnɛvər/"
+    },
+    "go": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(go without) ~ 없이 지내다",
+      "form": null,
+      "synonyms": [
+        "manage",
+        "do"
+      ],
+      "ipa": "/ɡoʊ/"
+    },
+    "beef": {
+      "lemma": "beef",
+      "pos": "noun",
+      "ko": "쇠고기",
+      "form": null,
+      "synonyms": [
+        "meat"
+      ],
+      "ipa": "/biːf/"
+    }
+  }
+}

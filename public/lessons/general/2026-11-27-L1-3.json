@@ -1,0 +1,1243 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-27-L1-3",
+  "date": "2026-11-27",
+  "level": 1,
+  "title": "The Travellers and the Plane-Tree",
+  "titleKo": "나그네들과 플라타너스",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 + 끝의 교훈 한 줄"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_16_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_16_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "Paul Harvey",
+    "durationSec": 91,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 16번 트랙(전체 166번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독됨"
+  },
+  "wordCount": 130,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "두 나그네가 어느 여름날 뙤약볕 속에 나무 한 그루 없는 먼지투성이 길을 걷고 있었다. 이윽고 플라타너스 한 그루에 다다르자, 그들은 기뻐하며 길을 벗어나 넓게 뻗은 가지가 드리운 짙은 그늘 아래에서 타는 듯한 햇볕을 피했다. 쉬면서 나무를 올려다보던 중에, 한 사람이 동료에게 말했다. \"플라타너스는 정말 쓸모없는 나무야! 열매도 안 열리고 사람한테 아무 쓸모가 없잖아.\" 플라타너스는 화가 나서 그의 말을 가로막았다. \"이 배은망덕한 녀석!\" 나무가 외쳤다. \"너희는 이글거리는 햇볕을 피해 내 밑으로 와서 쉬고 있으면서, 바로 내 잎이 만든 시원한 그늘을 즐기는 그 순간에 나를 욕하고 아무 쓸모없다고 하다니!\""
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "친절을 베풀어도 배은망덕으로 돌아오는 경우가 많다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Two Travellers were walking along a bare and dusty road in the heat of a summer's day.",
+      "ko": "두 나그네가 어느 여름날 뙤약볕 속에 나무 한 그루 없는 먼지투성이 길을 걷고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Coming presently to a Plane-tree, they joyfully turned aside to shelter from the burning rays of the sun in the deep shade of its spreading branches.",
+      "ko": "이윽고 플라타너스 한 그루에 다다르자, 그들은 기뻐하며 길을 벗어나 넓게 뻗은 가지가 드리운 짙은 그늘 아래에서 타는 듯한 햇볕을 피했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "As they rested, looking up into the tree, one of them remarked to his companion, \"What a useless tree the Plane is!",
+      "ko": "쉬면서 나무를 올려다보던 중에, 한 사람이 동료에게 말했다. \"플라타너스는 정말 쓸모없는 나무야!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "It bears no fruit and is of no service to man at all.\"",
+      "ko": "열매도 안 열리고 사람한테 아무 쓸모가 없잖아.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The Plane-tree interrupted him with indignation.",
+      "ko": "플라타너스는 화가 나서 그의 말을 가로막았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "\"You ungrateful creature!\"",
+      "ko": "\"이 배은망덕한 녀석!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "it cried: \"you come and take shelter under me from the scorching sun, and then, in the very act of enjoying the cool shade of my foliage, you abuse me and call me good for nothing!\"",
+      "ko": "나무가 외쳤다. \"너희는 이글거리는 햇볕을 피해 내 밑으로 와서 쉬고 있으면서, 바로 내 잎이 만든 시원한 그늘을 즐기는 그 순간에 나를 욕하고 아무 쓸모없다고 하다니!\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "Many a service is met with ingratitude.",
+      "ko": "친절을 베풀어도 배은망덕으로 돌아오는 경우가 많다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "shelter",
+      "pos": "verb",
+      "meaningKo": "(비·햇볕 등을) 피하다, 피신하다",
+      "ipa": "/ˈʃɛltɚ/",
+      "synonyms": [
+        "take cover",
+        "hide"
+      ],
+      "matchText": "shelter",
+      "sentenceId": "s2",
+      "example": {
+        "en": "We sheltered from the rain under a bridge.",
+        "ko": "우리는 다리 밑에서 비를 피했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "useless",
+      "pos": "adjective",
+      "meaningKo": "쓸모없는",
+      "ipa": "/ˈjusləs/",
+      "synonyms": [
+        "worthless",
+        "pointless"
+      ],
+      "matchText": "useless",
+      "sentenceId": "s3",
+      "example": {
+        "en": "This old phone is useless now.",
+        "ko": "이 낡은 전화기는 이제 쓸모가 없다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "interrupt",
+      "pos": "verb",
+      "meaningKo": "(말을) 가로막다, 방해하다",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "synonyms": [
+        "cut in",
+        "break in"
+      ],
+      "matchText": "interrupted",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Please don't interrupt me while I'm talking.",
+        "ko": "내가 말하는 동안 끼어들지 말아 줘."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "ungrateful",
+      "pos": "adjective",
+      "meaningKo": "배은망덕한, 고마워할 줄 모르는",
+      "ipa": "/ʌnˈɡreɪtfəl/",
+      "synonyms": [
+        "thankless",
+        "unthankful"
+      ],
+      "matchText": "ungrateful",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Don't be ungrateful to your parents.",
+        "ko": "부모님께 고마움을 모르는 사람이 되지 마라."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "good for nothing",
+      "pos": "idiom",
+      "meaningKo": "아무 쓸모없는",
+      "ipa": "/ɡʊd fɚ ˈnʌθɪŋ/",
+      "synonyms": [
+        "useless",
+        "worthless"
+      ],
+      "matchText": "good for nothing",
+      "sentenceId": "s7",
+      "example": {
+        "en": "He called the broken chair good for nothing.",
+        "ko": "그는 부서진 의자를 아무 쓸모없다고 했다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Coming presently to a Plane-tree,",
+          "role": "M",
+          "sub": false,
+          "ko": "이윽고 플라타너스에 다다랐을 때"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "joyfully",
+          "role": "M",
+          "sub": false,
+          "ko": "기뻐하며"
+        },
+        {
+          "text": "turned",
+          "role": "V",
+          "sub": false,
+          "ko": "방향을 틀었다"
+        },
+        {
+          "text": "aside",
+          "role": "M",
+          "sub": false,
+          "ko": "옆으로"
+        },
+        {
+          "text": "to shelter",
+          "role": "M",
+          "sub": false,
+          "ko": "피하기 위해"
+        },
+        {
+          "text": "from the burning rays of the sun",
+          "role": "M",
+          "sub": false,
+          "ko": "타는 듯한 햇볕을"
+        },
+        {
+          "text": "in the deep shade of its spreading branches.",
+          "role": "M",
+          "sub": false,
+          "ko": "넓게 뻗은 가지의 짙은 그늘 속에서"
+        }
+      ],
+      "skeleton": "they turned aside",
+      "explanation": "뼈대는 they turned aside(그들은 길옆으로 비켜났다)예요. 맨 앞의 Coming ~은 '~에 이르렀을 때'라는 분사구문이고, to shelter는 '피하려고'라는 목적을 나타내요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "그것(나무)은"
+        },
+        {
+          "text": "cried:",
+          "role": "V",
+          "sub": false,
+          "ko": "외쳤다"
+        },
+        {
+          "text": "\"you",
+          "role": "S",
+          "sub": false,
+          "ko": "너희는"
+        },
+        {
+          "text": "come",
+          "role": "V",
+          "sub": false,
+          "ko": "온다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "take",
+          "role": "V",
+          "sub": false,
+          "ko": "취한다"
+        },
+        {
+          "text": "shelter",
+          "role": "O",
+          "sub": false,
+          "ko": "피난처를"
+        },
+        {
+          "text": "under me",
+          "role": "M",
+          "sub": false,
+          "ko": "내 밑에서"
+        },
+        {
+          "text": "from the scorching sun,",
+          "role": "M",
+          "sub": false,
+          "ko": "이글거리는 해를 피해"
+        },
+        {
+          "text": "and then,",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그러고는"
+        },
+        {
+          "text": "in the very act of enjoying the cool shade of my foliage,",
+          "role": "M",
+          "sub": false,
+          "ko": "바로 내 잎의 시원한 그늘을 즐기는 중에"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "sub": false,
+          "ko": "너희는"
+        },
+        {
+          "text": "abuse",
+          "role": "V",
+          "sub": false,
+          "ko": "욕한다"
+        },
+        {
+          "text": "me",
+          "role": "O",
+          "sub": false,
+          "ko": "나를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "call",
+          "role": "V",
+          "sub": false,
+          "ko": "부른다"
+        },
+        {
+          "text": "me",
+          "role": "O",
+          "sub": false,
+          "ko": "나를"
+        },
+        {
+          "text": "good for nothing!\"",
+          "role": "OC",
+          "sub": false,
+          "ko": "아무 쓸모없다고"
+        }
+      ],
+      "skeleton": "you come and take shelter / you abuse me and call me good for nothing",
+      "explanation": "따옴표 안은 두 덩어리예요: you come and take shelter(와서 쉰다)와 you abuse me and call me good for nothing(나를 욕하고 쓸모없다고 한다). call + 목적어(me) + 목적격 보어(good for nothing)는 '~를 …라고 부르다'라는 5형식 문장이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거진행형: was/were + -ing (~하고 있었다)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "were walking"
+      ],
+      "explanation": "was/were + 동사-ing는 과거의 어느 때에 '~하고 있던 중'이었음을 나타내요. 나그네들이 길을 걷고 있던 장면을 그려 줘요.",
+      "example": {
+        "en": "I was reading a book when you called.",
+        "ko": "네가 전화했을 때 나는 책을 읽고 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "감탄문: What + a + 형용사 + 명사 + 주어 + 동사!",
+      "tags": [
+        "어순"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "What a useless tree the Plane is!"
+      ],
+      "explanation": "What a + 형용사 + 명사 + 주어 + 동사!는 '정말 ~한 …이구나!'라는 감탄문이에요. 주어와 동사(the Plane is)가 맨 뒤에 와요.",
+      "example": {
+        "en": "What a beautiful day it is!",
+        "ko": "정말 아름다운 날이구나!"
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "분사구문: -ing로 시작하는 부사구 (~하면서, ~할 때)",
+      "tags": [
+        "분사구문"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "looking up into the tree"
+      ],
+      "explanation": "동사에 -ing를 붙인 구가 문장에 덧붙으면 '~하면서'나 '~할 때'라는 뜻이 돼요. 여기서는 '나무를 올려다보면서'라는 뜻이에요.",
+      "example": {
+        "en": "She walked home, singing a song.",
+        "ko": "그녀는 노래를 부르면서 집으로 걸어갔다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "travellers": {
+      "lemma": "traveller",
+      "pos": "noun",
+      "ko": "나그네, 여행자",
+      "form": "복수형",
+      "synonyms": [
+        "wanderer",
+        "voyager"
+      ],
+      "ipa": "/ˈtrævələrz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(were + -ing) ~하고 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "walking": {
+      "lemma": "walk",
+      "pos": "verb",
+      "ko": "걷고 있는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "stroll",
+        "go on foot"
+      ],
+      "ipa": "/ˈwɔːkɪŋ/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "preposition",
+      "ko": "~을 따라",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "bare": {
+      "lemma": "bare",
+      "pos": "adjective",
+      "ko": "(나무 없이) 헐벗은, 텅 빈",
+      "form": null,
+      "synonyms": [
+        "empty",
+        "barren"
+      ],
+      "ipa": "/bɛr/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "dusty": {
+      "lemma": "dusty",
+      "pos": "adjective",
+      "ko": "먼지투성이의",
+      "form": null,
+      "synonyms": [
+        "dirty",
+        "powdery"
+      ],
+      "ipa": "/ˈdʌsti/"
+    },
+    "road": {
+      "lemma": "road",
+      "pos": "noun",
+      "ko": "길, 도로",
+      "form": null,
+      "synonyms": [
+        "path",
+        "way"
+      ],
+      "ipa": "/roʊd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 속에서, ~에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "heat": {
+      "lemma": "heat",
+      "pos": "noun",
+      "ko": "더위, 열기",
+      "form": null,
+      "synonyms": [
+        "warmth",
+        "hotness"
+      ],
+      "ipa": "/hiːt/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "summer's": {
+      "lemma": "summer",
+      "pos": "noun",
+      "ko": "여름의",
+      "form": "소유격",
+      "synonyms": [
+        "summertime"
+      ],
+      "ipa": "/ˈsʌmərz/"
+    },
+    "day": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 낮",
+      "form": null,
+      "synonyms": [
+        "daytime"
+      ],
+      "ipa": "/deɪ/"
+    },
+    "coming": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "다다르는, 오는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "arrive",
+        "reach"
+      ],
+      "ipa": "/ˈkʌmɪŋ/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "이윽고, 곧",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로, ~에게; (to부정사) ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "plane-tree": {
+      "lemma": "plane-tree",
+      "pos": "noun",
+      "ko": "플라타너스 (버즘나무)",
+      "form": null,
+      "synonyms": [
+        "sycamore",
+        "plane"
+      ],
+      "ipa": "/pleɪn-triː/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "joyfully": {
+      "lemma": "joyfully",
+      "pos": "adverb",
+      "ko": "기뻐하며",
+      "form": null,
+      "synonyms": [
+        "happily",
+        "gladly"
+      ],
+      "ipa": "/ˈdʒɔɪfəli/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn aside) 옆으로 비켜나다",
+      "form": "과거형",
+      "synonyms": [
+        "move",
+        "swerve"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "aside": {
+      "lemma": "aside",
+      "pos": "adverb",
+      "ko": "옆으로, 한쪽으로",
+      "form": null,
+      "synonyms": [
+        "sideways",
+        "away"
+      ],
+      "ipa": "/əˈsaɪd/"
+    },
+    "shelter": {
+      "lemma": "shelter",
+      "pos": "verb",
+      "ko": "피하다; noun 피난처, 쉼터",
+      "form": null,
+      "synonyms": [
+        "take cover",
+        "refuge"
+      ],
+      "ipa": "/ˈʃɛltər/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~을 피해",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "burning": {
+      "lemma": "burning",
+      "pos": "adjective",
+      "ko": "타는 듯한",
+      "form": null,
+      "synonyms": [
+        "blazing",
+        "fiery"
+      ],
+      "ipa": "/ˈbɜːrnɪŋ/"
+    },
+    "rays": {
+      "lemma": "ray",
+      "pos": "noun",
+      "ko": "광선, 빛",
+      "form": "복수형",
+      "synonyms": [
+        "beam",
+        "light"
+      ],
+      "ipa": "/reɪz/"
+    },
+    "sun": {
+      "lemma": "sun",
+      "pos": "noun",
+      "ko": "해, 햇볕",
+      "form": null,
+      "synonyms": [
+        "sunshine",
+        "sunlight"
+      ],
+      "ipa": "/sʌn/"
+    },
+    "deep": {
+      "lemma": "deep",
+      "pos": "adjective",
+      "ko": "짙은, 깊은",
+      "form": null,
+      "synonyms": [
+        "dense",
+        "dark"
+      ],
+      "ipa": "/diːp/"
+    },
+    "shade": {
+      "lemma": "shade",
+      "pos": "noun",
+      "ko": "그늘",
+      "form": null,
+      "synonyms": [
+        "shadow",
+        "cover"
+      ],
+      "ipa": "/ʃeɪd/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": null,
+      "ipa": "/ɪts/"
+    },
+    "spreading": {
+      "lemma": "spreading",
+      "pos": "adjective",
+      "ko": "넓게 뻗은",
+      "form": null,
+      "synonyms": [
+        "wide",
+        "sprawling"
+      ],
+      "ipa": "/ˈsprɛdɪŋ/"
+    },
+    "branches": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "나뭇가지",
+      "form": "복수형",
+      "synonyms": [
+        "bough",
+        "limb"
+      ],
+      "ipa": "/ˈbræntʃəz/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "~하는 동안, ~할 때",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "rested": {
+      "lemma": "rest",
+      "pos": "verb",
+      "ko": "쉬었다",
+      "form": "과거형",
+      "synonyms": [
+        "relax",
+        "take a break"
+      ],
+      "ipa": "/ˈrɛstəd/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look up) 올려다보는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "gaze",
+        "glance"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "form": null,
+      "synonyms": [
+        "upward"
+      ],
+      "ipa": "/ʌp/"
+    },
+    "into": {
+      "lemma": "into",
+      "pos": "preposition",
+      "ko": "~ 안을 향해",
+      "form": null,
+      "ipa": "/ˈɪntu/"
+    },
+    "tree": {
+      "lemma": "tree",
+      "pos": "noun",
+      "ko": "나무",
+      "form": null,
+      "ipa": "/triː/",
+      "synonyms": [
+        "plant",
+        "timber"
+      ]
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, 한 사람",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "remarked": {
+      "lemma": "remark",
+      "pos": "verb",
+      "ko": "말했다, 한마디 했다",
+      "form": "과거형",
+      "synonyms": [
+        "comment",
+        "observe"
+      ],
+      "ipa": "/rɪˈmɑːrkt/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": null,
+      "ipa": "/hɪz/"
+    },
+    "companion": {
+      "lemma": "companion",
+      "pos": "noun",
+      "ko": "동료, 길동무",
+      "form": null,
+      "synonyms": [
+        "partner",
+        "fellow traveller"
+      ],
+      "ipa": "/kəmˈpænjən/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "determiner",
+      "ko": "(감탄문) 정말 ~한",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "useless": {
+      "lemma": "useless",
+      "pos": "adjective",
+      "ko": "쓸모없는",
+      "form": null,
+      "synonyms": [
+        "worthless",
+        "pointless"
+      ],
+      "ipa": "/ˈjuːsləs/"
+    },
+    "plane": {
+      "lemma": "plane",
+      "pos": "noun",
+      "ko": "플라타너스 (Plane-tree)",
+      "form": null,
+      "synonyms": [
+        "plane-tree",
+        "sycamore"
+      ],
+      "ipa": "/pleɪn/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것은",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "bears": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(열매를) 맺다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "produce",
+        "yield"
+      ],
+      "ipa": "/bɛrz/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "아무 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "fruit": {
+      "lemma": "fruit",
+      "pos": "noun",
+      "ko": "열매",
+      "form": null,
+      "synonyms": [
+        "crop",
+        "produce"
+      ],
+      "ipa": "/fruːt/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "쓸모, 도움; 친절한 행위",
+      "form": null,
+      "synonyms": [
+        "use",
+        "help",
+        "favor"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "인간, 사람",
+      "form": null,
+      "synonyms": [
+        "people",
+        "humans"
+      ],
+      "ipa": "/mæn/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "(at all) 전혀",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "adverb",
+      "ko": "(at all) 전혀, 조금도",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "interrupted": {
+      "lemma": "interrupt",
+      "pos": "verb",
+      "ko": "가로막았다",
+      "form": "과거형",
+      "synonyms": [
+        "cut in",
+        "break in"
+      ],
+      "ipa": "/ˌɪntəˈrʌptɪd/"
+    },
+    "him": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그를",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~하며, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "indignation": {
+      "lemma": "indignation",
+      "pos": "noun",
+      "ko": "분개, 분노",
+      "form": null,
+      "synonyms": [
+        "anger",
+        "outrage"
+      ],
+      "ipa": "/ˌɪndɪɡˈneɪʃən/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 너희",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "ungrateful": {
+      "lemma": "ungrateful",
+      "pos": "adjective",
+      "ko": "배은망덕한",
+      "form": null,
+      "synonyms": [
+        "thankless",
+        "unthankful"
+      ],
+      "ipa": "/ənˈɡreɪtfəl/"
+    },
+    "creature": {
+      "lemma": "creature",
+      "pos": "noun",
+      "ko": "녀석, 생물",
+      "form": null,
+      "synonyms": [
+        "being",
+        "fellow"
+      ],
+      "ipa": "/ˈkriːtʃər/"
+    },
+    "cried": {
+      "lemma": "cry",
+      "pos": "verb",
+      "ko": "외쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "shout",
+        "exclaim"
+      ],
+      "ipa": "/kraɪd/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": null,
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "take": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(take shelter) 피하다, 쉬다",
+      "form": null,
+      "synonyms": [
+        "get",
+        "find"
+      ],
+      "ipa": "/teɪk/"
+    },
+    "under": {
+      "lemma": "under",
+      "pos": "preposition",
+      "ko": "~ 아래에",
+      "form": null,
+      "ipa": "/ˈʌndər/"
+    },
+    "me": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나를, 나",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "scorching": {
+      "lemma": "scorching",
+      "pos": "adjective",
+      "ko": "이글거리는, 몹시 뜨거운",
+      "form": null,
+      "synonyms": [
+        "blazing",
+        "burning"
+      ],
+      "ipa": "/ˈskɔːrtʃɪŋ/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그러고는, 그다음",
+      "form": null,
+      "synonyms": [
+        "next",
+        "afterwards"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adjective",
+      "ko": "(the very) 바로 그",
+      "form": null,
+      "synonyms": [
+        "exact",
+        "precise"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "act": {
+      "lemma": "act",
+      "pos": "noun",
+      "ko": "행동, (in the act of) ~하는 중",
+      "form": null,
+      "synonyms": [
+        "deed",
+        "moment"
+      ],
+      "ipa": "/ækt/"
+    },
+    "enjoying": {
+      "lemma": "enjoy",
+      "pos": "verb",
+      "ko": "즐기는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "relish",
+        "like"
+      ],
+      "ipa": "/ˌɛnˈdʒɔɪɪŋ/"
+    },
+    "cool": {
+      "lemma": "cool",
+      "pos": "adjective",
+      "ko": "시원한",
+      "form": null,
+      "synonyms": [
+        "chilly",
+        "fresh"
+      ],
+      "ipa": "/kuːl/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": null,
+      "ipa": "/maɪ/"
+    },
+    "foliage": {
+      "lemma": "foliage",
+      "pos": "noun",
+      "ko": "나뭇잎 (전체)",
+      "form": null,
+      "synonyms": [
+        "leaves",
+        "greenery"
+      ],
+      "ipa": "/ˈfoʊlɪdʒ/"
+    },
+    "abuse": {
+      "lemma": "abuse",
+      "pos": "verb",
+      "ko": "욕하다, 헐뜯다",
+      "form": null,
+      "synonyms": [
+        "insult",
+        "criticize"
+      ],
+      "ipa": "/əˈbjuːs/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "~라고 부르다",
+      "form": null,
+      "synonyms": [
+        "name",
+        "label"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "(good for nothing) 쓸모 있는",
+      "form": null,
+      "synonyms": [
+        "useful",
+        "worthy"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~에, ~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "nothing": {
+      "lemma": "nothing",
+      "pos": "pronoun",
+      "ko": "아무것도 ~ 아님",
+      "form": null,
+      "ipa": "/ˈnʌθɪŋ/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "(many a + 단수) 많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "met": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "(be met with) ~을 받다, ~에 부딪히다",
+      "form": "과거분사",
+      "synonyms": [
+        "receive",
+        "face"
+      ],
+      "ipa": "/mɛt/"
+    },
+    "ingratitude": {
+      "lemma": "ingratitude",
+      "pos": "noun",
+      "ko": "배은망덕, 은혜를 모름",
+      "form": null,
+      "synonyms": [
+        "thanklessness",
+        "ungratefulness"
+      ],
+      "ipa": "/ɪnˈɡrætɪˌtud/"
+    }
+  }
+}
