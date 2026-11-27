@@ -1,0 +1,1430 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-28-L3-part6",
+  "date": "2026-11-28",
+  "level": 3,
+  "title": "Data Security Training Announcement",
+  "titleKo": "정보 보안 필수 교육 공지",
+  "genre": "announcement",
+  "tags": [
+    "TOEIC Part 6",
+    "공고",
+    "사내 교육"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 132,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "필수 정보 보안 교육"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "10월 3일부터 노윅 보험의 모든 직원은 새로운 정보 보안 과정을 이수해야 합니다. 이 과정은 우리 직원들이 가장 자주 마주치는 온라인 위협 유형에 대처하도록 특별히 만들어졌습니다. 과정은 짧은 단원 4개로 이루어져 있으며, 각 단원 뒤에 간단한 퀴즈가 있습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7",
+        "s8"
+      ],
+      "ko": "직원들은 각자 원하는 속도로 단원을 끝내면 됩니다. 각 단원은 약 20분이 걸려서 많은 사람이 일주일에 하나씩 하는 방법을 택합니다. 하지만 전체 과정은 10월 31일까지 마쳐야 합니다. 이 마감일을 지키지 못한 사람은 회사 고객 데이터베이스 접근 권한을 일시적으로 잃게 됩니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s9",
+        "s10"
+      ],
+      "ko": "퀴즈 4개를 모두 통과하면 수료증이 자동으로 발급됩니다. 교육에 관한 질문은 기술 지원 창구를 맡고 있는 레나 토르빅 씨에게 보내 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Mandatory Data Security Training",
+      "ko": "필수 정보 보안 교육",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Beginning on October 3, all employees at Norwick Insurance will be required to complete a new data security course.",
+      "ko": "10월 3일부터 노윅 보험의 모든 직원은 새로운 정보 보안 과정을 이수해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "The course has been designed specifically to address the types of online threats our staff encounter most often.",
+      "ko": "이 과정은 우리 직원들이 가장 자주 마주치는 온라인 위협 유형에 대처하도록 특별히 만들어졌습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "It consists of four short modules, each followed by a brief quiz.",
+      "ko": "과정은 짧은 단원 4개로 이루어져 있으며, 각 단원 뒤에 간단한 퀴즈가 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Employees may complete the modules at their own pace.",
+      "ko": "직원들은 각자 원하는 속도로 단원을 끝내면 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "Each module takes about twenty minutes, so many people choose to do one per week.",
+      "ko": "각 단원은 약 20분이 걸려서 많은 사람이 일주일에 하나씩 하는 방법을 택합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "However, the entire course must be finished by October 31.",
+      "ko": "하지만 전체 과정은 10월 31일까지 마쳐야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "Those who do not meet this deadline will temporarily lose access to the company's customer database.",
+      "ko": "이 마감일을 지키지 못한 사람은 회사 고객 데이터베이스 접근 권한을 일시적으로 잃게 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "Once you have passed all four quizzes, a certificate will be issued automatically.",
+      "ko": "퀴즈 4개를 모두 통과하면 수료증이 자동으로 발급됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "Please send any questions about the training to Lena Torvik, who manages the technical support desk.",
+      "ko": "교육에 관한 질문은 기술 지원 창구를 맡고 있는 레나 토르빅 씨에게 보내 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "term": "mandatory",
+      "pos": "adjective",
+      "meaningKo": "의무적인, 필수의",
+      "ipa": "/ˈmændətɔːri/",
+      "synonyms": [
+        "required",
+        "compulsory"
+      ],
+      "matchText": "Mandatory",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Attendance at the safety meeting is mandatory.",
+        "ko": "안전 회의 참석은 의무다."
+      },
+      "id": "v1"
+    },
+    {
+      "term": "encounter",
+      "pos": "verb",
+      "meaningKo": "(문제 등을) 마주치다, 겪다",
+      "ipa": "/ɪnˈkaʊntər/",
+      "synonyms": [
+        "face",
+        "experience"
+      ],
+      "matchText": "encounter",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Call us if you encounter any problems with the software.",
+        "ko": "소프트웨어에 문제가 생기면 저희에게 전화하세요."
+      },
+      "id": "v2"
+    },
+    {
+      "term": "at one's own pace",
+      "pos": "phrase",
+      "meaningKo": "자기 속도대로",
+      "ipa": "/æt wʌnz oʊn ˈpeɪs/",
+      "synonyms": [
+        "as fast as one likes"
+      ],
+      "matchText": "at their own pace",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The online course lets students learn at their own pace.",
+        "ko": "그 온라인 강좌는 학생들이 자기 속도대로 배울 수 있게 해 준다."
+      },
+      "id": "v3"
+    },
+    {
+      "term": "temporarily",
+      "pos": "adverb",
+      "meaningKo": "일시적으로, 임시로",
+      "ipa": "/ˌtempəˈrerəli/",
+      "synonyms": [
+        "briefly",
+        "for now"
+      ],
+      "matchText": "temporarily",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The store will be temporarily closed for repairs.",
+        "ko": "그 가게는 수리 때문에 임시로 문을 닫는다."
+      },
+      "id": "v4"
+    },
+    {
+      "term": "issue",
+      "pos": "verb",
+      "meaningKo": "(증명서 등을) 발급하다",
+      "ipa": "/ˈɪʃuː/",
+      "synonyms": [
+        "provide",
+        "grant"
+      ],
+      "matchText": "issued",
+      "sentenceId": "s9",
+      "example": {
+        "en": "Your new ID card will be issued within a week.",
+        "ko": "새 사원증은 일주일 안에 발급된다."
+      },
+      "id": "v5"
+    }
+  ],
+  "structures": [
+    {
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The course",
+          "role": "S",
+          "ko": "이 과정은"
+        },
+        {
+          "text": "has been designed",
+          "role": "V",
+          "ko": "만들어졌다"
+        },
+        {
+          "text": "specifically",
+          "role": "M",
+          "ko": "특별히"
+        },
+        {
+          "text": "to address the types of online threats",
+          "role": "M",
+          "ko": "온라인 위협 유형에 대처하도록"
+        },
+        {
+          "text": "our staff",
+          "role": "S",
+          "ko": "우리 직원들이",
+          "sub": true
+        },
+        {
+          "text": "encounter",
+          "role": "V",
+          "ko": "마주치는",
+          "sub": true
+        },
+        {
+          "text": "most often.",
+          "role": "M",
+          "ko": "가장 자주",
+          "sub": true
+        }
+      ],
+      "skeleton": "S + have been p.p. + 부사 + to부정사(목적) + [(that) S + V]",
+      "explanation": "현재완료 수동태(has been designed) 뒤에 목적을 나타내는 to부정사가 온다. threats 뒤에는 목적격 관계대명사 that/which가 생략되어 our staff encounter가 threats를 꾸민다.",
+      "id": "st1"
+    },
+    {
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "ko": "그것(과정)은"
+        },
+        {
+          "text": "consists of",
+          "role": "V",
+          "ko": "~로 이루어져 있다"
+        },
+        {
+          "text": "four short modules,",
+          "role": "O",
+          "ko": "짧은 단원 4개로"
+        },
+        {
+          "text": "each followed by a brief quiz.",
+          "role": "M",
+          "ko": "각각 뒤에 간단한 퀴즈가 이어지는"
+        }
+      ],
+      "skeleton": "S + V(consist of) + O, each + p.p. ~",
+      "explanation": "each followed by ~는 독립분사구문(= and each is followed by ~). 주어 each가 따로 있고 '뒤따름을 받는' 수동 관계라 과거분사를 쓴다.",
+      "id": "st2"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "독립분사구문 (명사 + p.p.)",
+      "tags": [
+        "분사구문",
+        "분사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "each followed by a brief quiz"
+      ],
+      "explanation": "분사구문의 주어가 주절의 주어와 다를 때는 주어(each)를 남겨 둔다. 각 단원이 퀴즈에 의해 '뒤따라지는' 수동 관계라 followed를 쓴다.",
+      "example": {
+        "en": "The seminar has three sessions, each led by a different expert.",
+        "ko": "세미나는 세 개의 시간으로 되어 있고, 각각 다른 전문가가 진행한다."
+      },
+      "note": "each/all + 빈칸 + by 구조면 과거분사.",
+      "id": "g1"
+    },
+    {
+      "title": "목적격 관계대명사 생략",
+      "tags": [
+        "관계사",
+        "생략"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "threats our staff encounter"
+      ],
+      "explanation": "명사 뒤에 '주어 + 동사'가 바로 이어지면 목적격 관계대명사(that/which)가 생략된 것이다. our staff encounter가 앞의 threats를 꾸민다.",
+      "example": {
+        "en": "The report you requested is on your desk.",
+        "ko": "요청하신 보고서는 책상 위에 있습니다."
+      },
+      "note": "명사 + 주어 + 타동사(목적어 없음) 구조를 알아보면 해석이 빨라진다.",
+      "id": "g2"
+    },
+    {
+      "title": "계속적 용법 관계대명사 who",
+      "tags": [
+        "관계사"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "Lena Torvik, who manages"
+      ],
+      "explanation": "콤마 뒤의 who는 앞의 사람(Lena Torvik)에 대해 정보를 덧붙인다. 사람이고 뒤에 동사가 바로 오므로 주격 who.",
+      "example": {
+        "en": "Please contact Mr. Diaz, who handles all supplier contracts.",
+        "ko": "모든 공급 계약을 맡고 있는 디아즈 씨에게 연락해 주세요."
+      },
+      "note": "계속적 용법(콤마 뒤)에는 that을 쓸 수 없다.",
+      "id": "g3"
+    }
+  ],
+  "glossary": {
+    "mandatory": {
+      "lemma": "mandatory",
+      "pos": "adjective",
+      "ko": "의무적인, 필수의",
+      "form": null,
+      "synonyms": [
+        "required",
+        "compulsory"
+      ],
+      "ipa": "/ˈmændəˌtɔːri/"
+    },
+    "data": {
+      "lemma": "data",
+      "pos": "noun",
+      "ko": "정보, 데이터",
+      "form": null,
+      "synonyms": [
+        "information"
+      ],
+      "ipa": "/ˈdeɪtə/"
+    },
+    "security": {
+      "lemma": "security",
+      "pos": "noun",
+      "ko": "보안",
+      "form": null,
+      "synonyms": [
+        "protection",
+        "safety"
+      ],
+      "ipa": "/sɪˈkjʊrəti/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 훈련",
+      "form": null,
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "beginning": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "(Beginning on ~) ~부터 시작하여",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "starting"
+      ],
+      "ipa": "/bɪˈɡɪnɪŋ/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜·층·위)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "october": {
+      "lemma": "October",
+      "pos": "proper-noun",
+      "ko": "10월",
+      "form": null,
+      "ipa": "/ɑkˈtoʊbər/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "employees": {
+      "lemma": "employee",
+      "pos": "noun",
+      "ko": "직원",
+      "form": "복수형",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ],
+      "ipa": "/ɛmˈplɔɪiz/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "norwick": {
+      "lemma": "Norwick",
+      "pos": "proper-noun",
+      "ko": "노윅 (회사 이름의 일부)",
+      "form": null,
+      "ipa": null
+    },
+    "insurance": {
+      "lemma": "insurance",
+      "pos": "noun",
+      "ko": "보험",
+      "form": null,
+      "synonyms": [
+        "coverage"
+      ],
+      "ipa": "/ˌɪnˈʃʊrəns/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "required": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "요구하다 (be required to: ~해야 하다)",
+      "form": "과거분사",
+      "synonyms": [
+        "obligated",
+        "expected"
+      ],
+      "ipa": "/riˈkwaɪərd/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "complete": {
+      "lemma": "complete",
+      "pos": "verb",
+      "ko": "이수하다, 끝마치다",
+      "form": null,
+      "synonyms": [
+        "finish",
+        "carry out"
+      ],
+      "ipa": "/kəmˈpliːt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "recent",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "course": {
+      "lemma": "course",
+      "pos": "noun",
+      "ko": "교육 과정, 강좌",
+      "form": null,
+      "synonyms": [
+        "program",
+        "class"
+      ],
+      "ipa": "/kɔːrs/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동태) ~되다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "designed": {
+      "lemma": "design",
+      "pos": "verb",
+      "ko": "고안하다, 만들다",
+      "form": "과거분사",
+      "synonyms": [
+        "created",
+        "developed"
+      ],
+      "ipa": "/dɪˈzaɪnd/"
+    },
+    "specifically": {
+      "lemma": "specifically",
+      "pos": "adverb",
+      "ko": "특별히, 명확히",
+      "form": null,
+      "synonyms": [
+        "especially",
+        "particularly"
+      ],
+      "ipa": "/spəˈsɪfɪkli/"
+    },
+    "address": {
+      "lemma": "address",
+      "pos": "verb",
+      "ko": "(문제를) 다루다, 대처하다",
+      "form": null,
+      "synonyms": [
+        "deal with",
+        "tackle"
+      ],
+      "ipa": "/ˈæˌdrɛs/"
+    },
+    "types": {
+      "lemma": "type",
+      "pos": "noun",
+      "ko": "종류",
+      "form": "복수형",
+      "synonyms": [
+        "kind",
+        "sort",
+        "variety"
+      ],
+      "ipa": "/taɪps/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "online": {
+      "lemma": "online",
+      "pos": "adjective",
+      "ko": "온라인의",
+      "form": null,
+      "synonyms": [
+        "web-based",
+        "digital"
+      ],
+      "ipa": "/ˈɔːnˌlaɪn/"
+    },
+    "threats": {
+      "lemma": "threat",
+      "pos": "noun",
+      "ko": "위협",
+      "form": "복수형",
+      "synonyms": [
+        "risk",
+        "danger"
+      ],
+      "ipa": "/θrɛts/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원들",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "personnel"
+      ],
+      "ipa": "/stæf/"
+    },
+    "encounter": {
+      "lemma": "encounter",
+      "pos": "verb",
+      "ko": "마주치다, 겪다",
+      "form": null,
+      "synonyms": [
+        "face",
+        "experience"
+      ],
+      "ipa": "/ɪnˈkaʊntər/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "pronoun",
+      "ko": "대부분 (most of)",
+      "form": null,
+      "ipa": "/moʊst/"
+    },
+    "often": {
+      "lemma": "often",
+      "pos": "adverb",
+      "ko": "자주",
+      "form": null,
+      "synonyms": [
+        "frequently"
+      ],
+      "ipa": "/ˈɔːfən/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "consists": {
+      "lemma": "consist",
+      "pos": "verb",
+      "ko": "(consist of) ~로 이루어지다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "comprises",
+        "is made up"
+      ],
+      "ipa": "/kənˈsɪsts/"
+    },
+    "four": {
+      "lemma": "four",
+      "pos": "number",
+      "ko": "4, 넷",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "quick"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "modules": {
+      "lemma": "module",
+      "pos": "noun",
+      "ko": "(교육 과정의) 단원, 모듈",
+      "form": "복수형",
+      "synonyms": [
+        "unit",
+        "section"
+      ],
+      "ipa": "/ˈmɑːdʒulz/"
+    },
+    "each": {
+      "lemma": "each",
+      "pos": "pronoun",
+      "ko": "각각",
+      "form": null,
+      "ipa": "/iːtʃ/"
+    },
+    "followed": {
+      "lemma": "follow",
+      "pos": "verb",
+      "ko": "뒤따르다 (followed by: 뒤에 ~가 이어지는)",
+      "form": "과거분사",
+      "synonyms": [
+        "succeeded"
+      ],
+      "ipa": "/ˈfɑːloʊd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~로 (수단), ~까지",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "brief": {
+      "lemma": "brief",
+      "pos": "adjective",
+      "ko": "간단한, 짧은",
+      "form": null,
+      "synonyms": [
+        "short",
+        "quick"
+      ],
+      "ipa": "/briːf/"
+    },
+    "quiz": {
+      "lemma": "quiz",
+      "pos": "noun",
+      "ko": "퀴즈, 간단한 시험",
+      "form": null,
+      "synonyms": [
+        "test"
+      ],
+      "ipa": "/kwɪz/"
+    },
+    "may": {
+      "lemma": "May",
+      "pos": "proper-noun",
+      "ko": "5월",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "own": {
+      "lemma": "own",
+      "pos": "adjective",
+      "ko": "자기 자신의",
+      "form": null,
+      "synonyms": [
+        "personal"
+      ],
+      "ipa": "/oʊn/"
+    },
+    "pace": {
+      "lemma": "pace",
+      "pos": "noun",
+      "ko": "속도",
+      "form": null,
+      "synonyms": [
+        "speed",
+        "rate"
+      ],
+      "ipa": "/peɪs/"
+    },
+    "module": {
+      "lemma": "module",
+      "pos": "noun",
+      "ko": "(교육 과정의) 단원, 모듈",
+      "form": null,
+      "synonyms": [
+        "unit",
+        "section"
+      ],
+      "ipa": "/ˈmɑːdʒul/"
+    },
+    "takes": {
+      "lemma": "take",
+      "pos": "verb",
+      "ko": "(시간이) 걸리다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "requires",
+        "needs"
+      ],
+      "ipa": "/teɪks/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "twenty": {
+      "lemma": "twenty",
+      "pos": "number",
+      "ko": "20",
+      "form": null,
+      "ipa": "/ˈtwɛnti/"
+    },
+    "minutes": {
+      "lemma": "minute",
+      "pos": "noun",
+      "ko": "분",
+      "form": "복수형",
+      "synonyms": [
+        "mins"
+      ],
+      "ipa": "/ˈmɪnəts/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "people": {
+      "lemma": "person",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": "복수형",
+      "synonyms": [
+        "person",
+        "individual"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "choose": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "택하다, 고르다",
+      "form": null,
+      "synonyms": [
+        "decide",
+        "opt"
+      ],
+      "ipa": "/tʃuːz/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나 (여기서는 단원 하나)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "per": {
+      "lemma": "per",
+      "pos": "preposition",
+      "ko": "~당, ~마다",
+      "form": null,
+      "ipa": "/pɜːr/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "synonyms": [
+        "seven days"
+      ],
+      "ipa": "/wiːk/"
+    },
+    "however": {
+      "lemma": "however",
+      "pos": "adverb",
+      "ko": "하지만, 그러나",
+      "form": null,
+      "synonyms": [
+        "but",
+        "yet",
+        "still"
+      ],
+      "ipa": "/ˌhaʊˈɛvər/"
+    },
+    "entire": {
+      "lemma": "entire",
+      "pos": "adjective",
+      "ko": "전체의",
+      "form": null,
+      "synonyms": [
+        "whole",
+        "complete"
+      ],
+      "ipa": "/ɪnˈtaɪər/"
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "finished": {
+      "lemma": "finish",
+      "pos": "verb",
+      "ko": "끝내다",
+      "form": "과거분사",
+      "synonyms": [
+        "completed"
+      ],
+      "ipa": "/ˈfɪnɪʃt/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(those who) ~하는 사람들",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "meet": {
+      "lemma": "meet",
+      "pos": "verb",
+      "ko": "(마감·조건을) 지키다, 충족하다",
+      "form": null,
+      "synonyms": [
+        "satisfy",
+        "keep"
+      ],
+      "ipa": "/miːt/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "deadline": {
+      "lemma": "deadline",
+      "pos": "noun",
+      "ko": "마감일, 기한",
+      "form": null,
+      "synonyms": [
+        "due date",
+        "time limit"
+      ],
+      "ipa": "/ˈdɛdˌlaɪn/"
+    },
+    "temporarily": {
+      "lemma": "temporarily",
+      "pos": "adverb",
+      "ko": "일시적으로",
+      "form": null,
+      "synonyms": [
+        "briefly",
+        "for now"
+      ],
+      "ipa": "/ˌtɛmpəˈrɛrəli/"
+    },
+    "lose": {
+      "lemma": "lose",
+      "pos": "verb",
+      "ko": "잃다",
+      "form": null,
+      "synonyms": [
+        "give up",
+        "be deprived of"
+      ],
+      "ipa": "/luːz/"
+    },
+    "access": {
+      "lemma": "access",
+      "pos": "noun",
+      "ko": "접근 (권한), 이용",
+      "form": null,
+      "synonyms": [
+        "entry",
+        "permission"
+      ],
+      "ipa": "/ˈækˌsɛs/"
+    },
+    "company's": {
+      "lemma": "company",
+      "pos": "noun",
+      "ko": "회사의",
+      "form": "소유격",
+      "synonyms": [
+        "firm's"
+      ],
+      "ipa": "/ˈkʌmpəniz/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "database": {
+      "lemma": "database",
+      "pos": "noun",
+      "ko": "데이터베이스",
+      "form": null,
+      "synonyms": [
+        "records",
+        "system"
+      ],
+      "ipa": "/ˈdeɪtəˌbeɪs/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "conjunction",
+      "ko": "일단 ~하면, ~하자마자",
+      "form": null,
+      "ipa": "/wʌns/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)은, 당신을",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have p.p.) ~했다 (완료)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "passed": {
+      "lemma": "pass",
+      "pos": "verb",
+      "ko": "통과하다, 합격하다",
+      "form": "과거분사",
+      "synonyms": [
+        "completed",
+        "succeeded in"
+      ],
+      "ipa": "/pæst/"
+    },
+    "quizzes": {
+      "lemma": "quiz",
+      "pos": "noun",
+      "ko": "퀴즈, 간단한 시험",
+      "form": "복수형",
+      "synonyms": [
+        "tests"
+      ],
+      "ipa": "/ˈkwɪzɪz/"
+    },
+    "certificate": {
+      "lemma": "certificate",
+      "pos": "noun",
+      "ko": "수료증, 증명서",
+      "form": null,
+      "synonyms": [
+        "certification",
+        "diploma"
+      ],
+      "ipa": "/sərˈtɪfɪkət/"
+    },
+    "issued": {
+      "lemma": "issue",
+      "pos": "verb",
+      "ko": "발급하다",
+      "form": "과거분사",
+      "synonyms": [
+        "provided",
+        "granted"
+      ],
+      "ipa": "/ˈɪʃud/"
+    },
+    "automatically": {
+      "lemma": "automatically",
+      "pos": "adverb",
+      "ko": "자동으로",
+      "form": null,
+      "synonyms": [
+        "by itself"
+      ],
+      "ipa": "/ˌɔːtəˈmætɪkli/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "send": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": null,
+      "synonyms": [
+        "forward",
+        "submit"
+      ],
+      "ipa": "/sɛnd/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무엇이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "lena": {
+      "lemma": "Lena",
+      "pos": "proper-noun",
+      "ko": "레나 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈliːnə/"
+    },
+    "torvik": {
+      "lemma": "Torvik",
+      "pos": "proper-noun",
+      "ko": "토르빅 (사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "manages": {
+      "lemma": "manage",
+      "pos": "verb",
+      "ko": "관리하다, 맡다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "runs",
+        "oversees"
+      ],
+      "ipa": "/ˈmænɪdʒɪz/"
+    },
+    "technical": {
+      "lemma": "technical",
+      "pos": "adjective",
+      "ko": "기술의, 기술적인",
+      "form": null,
+      "synonyms": [
+        "technological"
+      ],
+      "ipa": "/ˈtɛknɪkəl/"
+    },
+    "support": {
+      "lemma": "support",
+      "pos": "noun",
+      "ko": "지원",
+      "form": null,
+      "synonyms": [
+        "help",
+        "assistance"
+      ],
+      "ipa": "/səˈpɔːrt/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "창구, 데스크",
+      "form": null,
+      "synonyms": [
+        "counter",
+        "office"
+      ],
+      "ipa": "/dɛsk/"
+    }
+  },
+  "questions": [
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "specifically"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "specific"
+        },
+        {
+          "key": "B",
+          "text": "specifically"
+        },
+        {
+          "key": "C",
+          "text": "specify"
+        },
+        {
+          "key": "D",
+          "text": "specification"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "has been designed와 to부정사 사이에서 동사(designed)를 꾸미는 부사 자리. '특별히'라는 뜻의 specifically가 맞다.",
+      "choiceNotesKo": {
+        "A": "형용사 specific은 동사를 꾸밀 수 없다.",
+        "C": "동사 specify가 오면 동사가 겹친다."
+      },
+      "skill": "부사 자리(수동태 뒤)",
+      "id": "q1",
+      "number": 1,
+      "prompt": null
+    },
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "followed"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "follow"
+        },
+        {
+          "key": "B",
+          "text": "following"
+        },
+        {
+          "key": "C",
+          "text": "follows"
+        },
+        {
+          "key": "D",
+          "text": "followed"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "콤마 뒤 each ------- by a brief quiz는 독립분사구문. 각 단원은 퀴즈에 의해 '뒤따라지는' 쪽이고 뒤에 by가 있으므로 과거분사 followed.",
+      "choiceNotesKo": {
+        "B": "following은 능동이라 뒤에 바로 목적어가 와야 하고 by와 함께 쓰지 않는다.",
+        "C": "follows가 오면 접속사 없이 동사가 두 개가 된다."
+      },
+      "skill": "독립분사구문(수동)",
+      "id": "q2",
+      "number": 2,
+      "prompt": null
+    },
+    {
+      "type": "part6-sentence",
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "Each module takes about twenty minutes, so many people choose to do one per week."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Each module takes about twenty minutes, so many people choose to do one per week."
+        },
+        {
+          "key": "B",
+          "text": "The quiz questions were written by our legal department."
+        },
+        {
+          "key": "C",
+          "text": "Last year's training was held in the main conference room."
+        },
+        {
+          "key": "D",
+          "text": "Customer data is stored on servers in two locations."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "앞 문장은 '각자 속도대로 해도 된다', 뒤 문장은 However로 '하지만 마감일은 지켜야 한다'고 한다. 그 사이에 단원 하나에 걸리는 시간과 사람들이 실제로 진도를 나가는 방식(일주일에 하나)을 설명하는 A가 자연스럽게 이어진다.",
+      "choiceNotesKo": {
+        "B": "퀴즈 출제자 이야기는 진도·마감 흐름과 관계없다.",
+        "C": "올해는 온라인 과정이라 작년 교육 장소는 맥락에 맞지 않는다.",
+        "D": "고객 데이터 저장 위치는 교육 진행 방식과 상관없는 내용이다."
+      },
+      "skill": "문장 넣기(However 앞뒤 흐름)",
+      "id": "q3",
+      "number": 3,
+      "prompt": null
+    },
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "issued"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "raised"
+        },
+        {
+          "key": "B",
+          "text": "spent"
+        },
+        {
+          "key": "C",
+          "text": "issued"
+        },
+        {
+          "key": "D",
+          "text": "charged"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "a certificate(수료증)와 어울리는 동사는 '발급하다'라는 issue. 수동태 will be issued = 발급될 것이다.",
+      "choiceNotesKo": {
+        "D": "charge는 '요금을 청구하다'라 수료증과 어울리지 않는다.",
+        "A": "raise는 '올리다, 모으다'라는 뜻이다."
+      },
+      "skill": "어휘(issue a certificate)",
+      "id": "q4",
+      "number": 4,
+      "prompt": null
+    },
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "who"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "콤마 앞 선행사가 사람(Lena Torvik)이고 빈칸 뒤에 주어 없이 동사 manages가 바로 오므로 주격 관계대명사 who.",
+      "choiceNotesKo": {
+        "A": "which는 사물을 가리킨다.",
+        "D": "whom은 목적격이라 뒤에 주어 + 동사가 와야 한다.",
+        "C": "whose 뒤에는 명사가 와야 한다."
+      },
+      "skill": "주격 관계대명사(계속적 용법)",
+      "id": "q5",
+      "number": 5,
+      "prompt": null
+    }
+  ]
+}
