@@ -1,0 +1,1248 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-28-L1-3",
+  "date": "2026-11-28",
+  "level": 1,
+  "title": "The Parrot and the Cat",
+  "titleKo": "앵무새와 고양이",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": null
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_ten_librivox/fables_10_17_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_ten_librivox/fables_10_17_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-10-fables-226-250",
+    "reader": "Nikolle Doolin",
+    "durationSec": 102,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 10, 17번 트랙(전체 242번 우화). 앞부분에 LibriVox 안내 멘트가 있음"
+  },
+  "wordCount": 146,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "어떤 사람이 한번은 앵무새를 사 와서 집 안을 마음대로 돌아다니게 해 주었다. 앵무새는 자유를 한껏 즐겼고, 곧 벽난로 선반 위로 날아올라 마음껏 깍깍 소리를 질러 댔다. 그 소리에 난로 앞 깔개 위에서 자고 있던 고양이가 방해를 받았다. 고양이는 그 침입자를 올려다보며 말했다. \"넌 도대체 누구고, 어디서 온 거니?\" 앵무새가 대답했다. \"네 주인이 방금 나를 사서 함께 집으로 데려왔어.\" \"이 건방진 새 같으니라고.\" 고양이가 말했다. \"새로 온 주제에 어떻게 감히 그런 소리를 내니? 아니, 나는 여기서 태어나서 평생 여기서 살았는데도, 내가 '야옹' 하고 울기라도 하면 사람들이 나한테 물건을 던지고 온 집 안을 쫓아다닌단 말이야.\" \"이봐요, 아주머니.\" 앵무새가 말했다. \"입 좀 다물어요. 사람들은 내 목소리는 좋아해요. 하지만 당신 목소리는, 당신 목소리는 정말 골칫거리라고요.\""
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Man once bought a Parrot and gave it the run of his house.",
+      "ko": "어떤 사람이 한번은 앵무새를 사 와서 집 안을 마음대로 돌아다니게 해 주었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "It revelled in its liberty, and presently flew up on to the mantelpiece and screamed away to its heart's content.",
+      "ko": "앵무새는 자유를 한껏 즐겼고, 곧 벽난로 선반 위로 날아올라 마음껏 깍깍 소리를 질러 댔다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "The noise disturbed the Cat, who was asleep on the hearthrug.",
+      "ko": "그 소리에 난로 앞 깔개 위에서 자고 있던 고양이가 방해를 받았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "Looking up at the intruder, she said, \"Who may you be, and where have you come from?\"",
+      "ko": "고양이는 그 침입자를 올려다보며 말했다. \"넌 도대체 누구고, 어디서 온 거니?\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "The Parrot replied, \"Your master has just bought me and brought me home with him.\"",
+      "ko": "앵무새가 대답했다. \"네 주인이 방금 나를 사서 함께 집으로 데려왔어.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "\"You impudent bird,\" said the Cat, \"how dare you, a newcomer, make a noise like that?",
+      "ko": "\"이 건방진 새 같으니라고.\" 고양이가 말했다. \"새로 온 주제에 어떻게 감히 그런 소리를 내니?",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p1",
+      "en": "Why, I was born here, and have lived here all my life, and yet, if I venture to mew, they throw things at me and chase me all over the place.\"",
+      "ko": "아니, 나는 여기서 태어나서 평생 여기서 살았는데도, 내가 '야옹' 하고 울기라도 하면 사람들이 나한테 물건을 던지고 온 집 안을 쫓아다닌단 말이야.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p1",
+      "en": "\"Look here, mistress,\" said the Parrot, \"you just hold your tongue.",
+      "ko": "\"이봐요, 아주머니.\" 앵무새가 말했다. \"입 좀 다물어요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p1",
+      "en": "My voice they delight in; but yours--yours is a perfect nuisance.\"",
+      "ko": "사람들은 내 목소리는 좋아해요. 하지만 당신 목소리는, 당신 목소리는 정말 골칫거리라고요.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "the run of",
+      "pos": "idiom",
+      "meaningKo": "~을 마음대로 쓸(다닐) 자유",
+      "ipa": "/ðə rʌn ʌv/",
+      "synonyms": [
+        "free use of",
+        "free access to"
+      ],
+      "matchText": "the run of",
+      "sentenceId": "s1",
+      "example": {
+        "en": "The kids had the run of the garden all summer.",
+        "ko": "아이들은 여름 내내 정원을 마음대로 뛰어다녔다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "to one's heart's content",
+      "pos": "idiom",
+      "meaningKo": "마음껏, 실컷",
+      "ipa": "/tu wʌnz hɑrts kənˈtɛnt/",
+      "synonyms": [
+        "as much as one likes",
+        "freely"
+      ],
+      "matchText": "to its heart's content",
+      "sentenceId": "s2",
+      "example": {
+        "en": "On holiday, I slept to my heart's content.",
+        "ko": "휴가 때 나는 실컷 잤다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "disturb",
+      "pos": "verb",
+      "meaningKo": "방해하다, 깨우다",
+      "ipa": "/dɪˈstɝb/",
+      "synonyms": [
+        "bother",
+        "interrupt",
+        "trouble"
+      ],
+      "matchText": "disturbed",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Please don't disturb me while I'm studying.",
+        "ko": "내가 공부하는 동안 방해하지 마세요."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "impudent",
+      "pos": "adjective",
+      "meaningKo": "건방진, 무례한",
+      "ipa": "/ˈɪmpjədənt/",
+      "synonyms": [
+        "rude",
+        "cheeky",
+        "bold"
+      ],
+      "matchText": "impudent",
+      "sentenceId": "s6",
+      "example": {
+        "en": "The impudent boy laughed at the teacher.",
+        "ko": "그 건방진 소년은 선생님을 비웃었다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "hold one's tongue",
+      "pos": "idiom",
+      "meaningKo": "입을 다물다, 잠자코 있다",
+      "ipa": "/hoʊld wʌnz tʌŋ/",
+      "synonyms": [
+        "be quiet",
+        "keep silent",
+        "shut up"
+      ],
+      "matchText": "hold your tongue",
+      "sentenceId": "s8",
+      "example": {
+        "en": "Hold your tongue and listen to me.",
+        "ko": "입 다물고 내 말 좀 들어."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "It",
+          "role": "S",
+          "sub": false,
+          "ko": "그것(앵무새)은"
+        },
+        {
+          "text": "revelled",
+          "role": "V",
+          "sub": false,
+          "ko": "한껏 즐겼다"
+        },
+        {
+          "text": "in its liberty,",
+          "role": "M",
+          "sub": false,
+          "ko": "자신의 자유를,"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "presently",
+          "role": "M",
+          "sub": false,
+          "ko": "곧"
+        },
+        {
+          "text": "flew up",
+          "role": "V",
+          "sub": false,
+          "ko": "날아올랐다"
+        },
+        {
+          "text": "on to the mantelpiece",
+          "role": "M",
+          "sub": false,
+          "ko": "벽난로 선반 위로"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "screamed away",
+          "role": "V",
+          "sub": false,
+          "ko": "계속 소리를 질러 댔다"
+        },
+        {
+          "text": "to its heart's content.",
+          "role": "M",
+          "sub": false,
+          "ko": "마음껏."
+        }
+      ],
+      "skeleton": "It revelled, and flew up and screamed away.",
+      "explanation": "주어 It(앵무새) 하나에 동사 세 개(revelled, flew up, screamed away)가 and로 이어져 있어요. 나머지 in its liberty, on to the mantelpiece, to its heart's content는 모두 '무엇을, 어디로, 어떻게'를 알려 주는 수식어(M)예요. 동사 뒤의 away는 '쉬지 않고 계속'이라는 느낌을 더해 줘요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "The noise",
+          "role": "S",
+          "sub": false,
+          "ko": "그 소리가"
+        },
+        {
+          "text": "disturbed",
+          "role": "V",
+          "sub": false,
+          "ko": "방해했다"
+        },
+        {
+          "text": "the Cat,",
+          "role": "O",
+          "sub": false,
+          "ko": "고양이를,"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그런데 그 고양이는"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "있었다"
+        },
+        {
+          "text": "asleep",
+          "role": "C",
+          "sub": true,
+          "ko": "잠든 상태로"
+        },
+        {
+          "text": "on the hearthrug.",
+          "role": "M",
+          "sub": true,
+          "ko": "난로 앞 깔개 위에서."
+        }
+      ],
+      "skeleton": "The noise disturbed the Cat.",
+      "explanation": "기본 문장은 The noise disturbed the Cat(그 소리가 고양이를 방해했다)이에요. 쉼표 뒤 who ~는 고양이에 대해 덧붙여 설명하는 관계대명사절로, '그런데 그 고양이는 깔개 위에서 자고 있었다'라고 풀면 쉬워요. 사람이나 동물(여기서는 의인화된 고양이)에 who를 써요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재완료 (have + 과거분사)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "have lived here all my life"
+      ],
+      "explanation": "have lived는 현재완료로, '과거부터 지금까지 쭉 살아왔다'는 계속의 뜻이에요. all my life(평생)와 함께 써서, 고양이가 태어나서부터 지금까지 이 집에 살았다는 것을 강조해요. 바로 앞 I was born here는 과거의 한 시점이라 과거형을 썼어요.",
+      "example": {
+        "en": "We have lived in Seoul for ten years.",
+        "ko": "우리는 10년 동안 서울에 살아왔다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "How dare you ~? (어떻게 감히 ~하니?)",
+      "tags": [
+        "조동사",
+        "기타"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "how dare you"
+      ],
+      "explanation": "How dare + 주어 + 동사원형? 은 '어떻게 감히 ~하니?'라는 뜻으로 화가 났을 때 쓰는 표현이에요. 여기서 dare는 조동사처럼 쓰여 뒤에 동사원형(make)이 바로 와요.",
+      "example": {
+        "en": "How dare you read my diary?",
+        "ko": "어떻게 감히 내 일기를 읽니?"
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "목적어를 앞으로 보내 강조하기",
+      "tags": [
+        "어순",
+        "강조"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "My voice they delight in"
+      ],
+      "explanation": "원래 순서는 They delight in my voice(그들은 내 목소리를 좋아한다)예요. 고양이의 목소리와 비교하려고 My voice를 문장 맨 앞으로 보냈어요. 그래서 '내 목소리는 (사람들이) 좋아한다'라는 대조의 느낌이 생겨요.",
+      "example": {
+        "en": "This book I really love; that one I don't.",
+        "ko": "이 책은 정말 좋아하지만, 저 책은 아니다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "남자, 사람",
+      "form": null,
+      "synonyms": [
+        "person",
+        "fellow"
+      ],
+      "ipa": "/mæn/"
+    },
+    "once": {
+      "lemma": "once",
+      "pos": "adverb",
+      "ko": "한번은, 예전에",
+      "form": null,
+      "synonyms": [
+        "one time",
+        "formerly"
+      ],
+      "ipa": "/wʌns/"
+    },
+    "bought": {
+      "lemma": "buy",
+      "pos": "verb",
+      "ko": "샀다",
+      "form": "과거형·과거분사",
+      "synonyms": [
+        "purchased",
+        "got"
+      ],
+      "ipa": "/bɑːt/"
+    },
+    "parrot": {
+      "lemma": "parrot",
+      "pos": "noun",
+      "ko": "앵무새",
+      "form": null,
+      "synonyms": [
+        "bird"
+      ],
+      "ipa": "/ˈpɛrət/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주었다",
+      "form": "과거형",
+      "synonyms": [
+        "granted",
+        "allowed"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "run": {
+      "lemma": "run",
+      "pos": "noun",
+      "ko": "(the run of) ~을 마음대로 쓸 자유",
+      "form": null,
+      "synonyms": [
+        "free use",
+        "access"
+      ],
+      "ipa": "/rʌn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "house": {
+      "lemma": "house",
+      "pos": "noun",
+      "ko": "집",
+      "form": null,
+      "synonyms": [
+        "home"
+      ],
+      "ipa": "/haʊs/"
+    },
+    "revelled": {
+      "lemma": "revel",
+      "pos": "verb",
+      "ko": "한껏 즐겼다",
+      "form": "과거형",
+      "synonyms": [
+        "enjoyed",
+        "delighted",
+        "rejoiced"
+      ],
+      "ipa": "/ˈrɛvəld/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~을 (즐기다/좋아하다), ~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "its": {
+      "lemma": "its",
+      "pos": "pronoun",
+      "ko": "그것의",
+      "form": "소유격",
+      "ipa": "/ɪts/"
+    },
+    "liberty": {
+      "lemma": "liberty",
+      "pos": "noun",
+      "ko": "자유",
+      "form": null,
+      "synonyms": [
+        "freedom",
+        "independence"
+      ],
+      "ipa": "/ˈlɪbərˌtiː/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "곧, 머지않아",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "flew": {
+      "lemma": "fly",
+      "pos": "verb",
+      "ko": "날았다",
+      "form": "과거형",
+      "synonyms": [
+        "soared",
+        "flitted"
+      ],
+      "ipa": "/fluː/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "위로",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on to) ~ 위로",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~로; ~까지",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "mantelpiece": {
+      "lemma": "mantelpiece",
+      "pos": "noun",
+      "ko": "벽난로 선반",
+      "form": null,
+      "synonyms": [
+        "mantel",
+        "shelf"
+      ],
+      "ipa": "/ˈmæntəlˌpis/"
+    },
+    "screamed": {
+      "lemma": "scream",
+      "pos": "verb",
+      "ko": "소리를 질렀다",
+      "form": "과거형",
+      "synonyms": [
+        "shrieked",
+        "squawked",
+        "yelled"
+      ],
+      "ipa": "/skriːmd/"
+    },
+    "away": {
+      "lemma": "away",
+      "pos": "adverb",
+      "ko": "(동사 뒤) 계속, 쉬지 않고",
+      "form": null,
+      "synonyms": [
+        "continuously",
+        "on and on"
+      ],
+      "ipa": "/əˈweɪ/"
+    },
+    "heart's": {
+      "lemma": "heart",
+      "pos": "noun",
+      "ko": "마음의 (to one's heart's content: 마음껏)",
+      "form": "소유격",
+      "synonyms": [
+        "soul's"
+      ],
+      "ipa": "/hɑːrts/"
+    },
+    "content": {
+      "lemma": "content",
+      "pos": "noun",
+      "ko": "만족 (to one's heart's content: 마음껏)",
+      "form": null,
+      "synonyms": [
+        "satisfaction"
+      ],
+      "ipa": "/ˈkɑːntɛnt/"
+    },
+    "noise": {
+      "lemma": "noise",
+      "pos": "noun",
+      "ko": "소리, 소음",
+      "form": null,
+      "synonyms": [
+        "sound",
+        "din"
+      ],
+      "ipa": "/nɔɪz/"
+    },
+    "disturbed": {
+      "lemma": "disturb",
+      "pos": "verb",
+      "ko": "방해했다, 깨웠다",
+      "form": "과거형",
+      "synonyms": [
+        "bothered",
+        "woke",
+        "troubled"
+      ],
+      "ipa": "/dɪˈstɜːrbd/"
+    },
+    "cat": {
+      "lemma": "cat",
+      "pos": "noun",
+      "ko": "고양이",
+      "form": null,
+      "synonyms": [
+        "kitty"
+      ],
+      "ipa": "/kæt/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그런데 그는; (의문사) 누구",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "asleep": {
+      "lemma": "asleep",
+      "pos": "adjective",
+      "ko": "잠든",
+      "form": null,
+      "synonyms": [
+        "sleeping",
+        "dozing"
+      ],
+      "ipa": "/əˈsliːp/"
+    },
+    "hearthrug": {
+      "lemma": "hearthrug",
+      "pos": "noun",
+      "ko": "난로 앞 깔개",
+      "form": null,
+      "synonyms": [
+        "rug",
+        "mat"
+      ],
+      "ipa": "/ˈhɑrθˌrʌɡ/"
+    },
+    "looking": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look up at) ~을 올려다보며",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "gazing",
+        "glancing"
+      ],
+      "ipa": "/ˈlʊkɪŋ/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~을 (향해)",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "intruder": {
+      "lemma": "intruder",
+      "pos": "noun",
+      "ko": "침입자, 불청객",
+      "form": null,
+      "synonyms": [
+        "trespasser",
+        "invader",
+        "stranger"
+      ],
+      "ipa": "/ˌɪnˈtruːdər/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀 (여성/암컷)",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "told"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "(의문문) 도대체 ~일까",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "adverb",
+      "ko": "어디에, 어디서",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~해 왔다, ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "come": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "오다",
+      "form": "과거분사",
+      "synonyms": [
+        "arrive"
+      ],
+      "ipa": "/kʌm/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서, ~로부터",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "replied": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "대답했다",
+      "form": "과거형",
+      "synonyms": [
+        "answered",
+        "responded"
+      ],
+      "ipa": "/rɪˈplaɪd/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "너의, 당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "master": {
+      "lemma": "master",
+      "pos": "noun",
+      "ko": "주인",
+      "form": null,
+      "synonyms": [
+        "owner",
+        "keeper"
+      ],
+      "ipa": "/ˈmæstər/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/hæz/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 방금; 그냥",
+      "form": null,
+      "synonyms": [
+        "only",
+        "simply"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "me": {
+      "lemma": "me",
+      "pos": "pronoun",
+      "ko": "나를, 나에게",
+      "form": "목적격",
+      "ipa": "/miː/"
+    },
+    "brought": {
+      "lemma": "bring",
+      "pos": "verb",
+      "ko": "데려왔다",
+      "form": "과거분사",
+      "synonyms": [
+        "took",
+        "carried"
+      ],
+      "ipa": "/brɔːt/"
+    },
+    "home": {
+      "lemma": "home",
+      "pos": "adverb",
+      "ko": "집으로",
+      "form": null,
+      "synonyms": [
+        "homeward"
+      ],
+      "ipa": "/hoʊm/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "impudent": {
+      "lemma": "impudent",
+      "pos": "adjective",
+      "ko": "건방진, 무례한",
+      "form": null,
+      "synonyms": [
+        "rude",
+        "cheeky",
+        "bold"
+      ],
+      "ipa": "/ˈɪmpjədənt/"
+    },
+    "bird": {
+      "lemma": "bird",
+      "pos": "noun",
+      "ko": "새",
+      "form": null,
+      "synonyms": [
+        "fowl"
+      ],
+      "ipa": "/bɜːrd/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "(how dare ~) 어떻게 감히",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "dare": {
+      "lemma": "dare",
+      "pos": "auxiliary",
+      "ko": "감히 ~하다",
+      "form": null,
+      "ipa": "/dɛr/"
+    },
+    "newcomer": {
+      "lemma": "newcomer",
+      "pos": "noun",
+      "ko": "새로 온 사람(동물), 신참",
+      "form": null,
+      "synonyms": [
+        "stranger",
+        "beginner",
+        "arrival"
+      ],
+      "ipa": "/ˈnuːˌkʌmər/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다, 하다",
+      "form": null,
+      "synonyms": [
+        "do",
+        "create"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "like": {
+      "lemma": "like",
+      "pos": "preposition",
+      "ko": "~ 같은, ~처럼",
+      "form": null,
+      "ipa": "/laɪk/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "그것, 저것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "why": {
+      "lemma": "why",
+      "pos": "interjection",
+      "ko": "아니, 글쎄 (놀람·항의)",
+      "form": null,
+      "ipa": "/waɪ/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "born": {
+      "lemma": "bear",
+      "pos": "verb",
+      "ko": "(be born) 태어나다",
+      "form": "과거분사",
+      "synonyms": [
+        "delivered"
+      ],
+      "ipa": "/bɔːrn/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기에, 여기서",
+      "form": null,
+      "ipa": "/hiːr/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살았다",
+      "form": "과거분사",
+      "synonyms": [
+        "dwelt",
+        "resided",
+        "stayed"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든, 전부",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "목숨, 생명; 평생",
+      "form": null,
+      "synonyms": [
+        "existence"
+      ],
+      "ipa": "/laɪf/"
+    },
+    "yet": {
+      "lemma": "yet",
+      "pos": "conjunction",
+      "ko": "그런데도, 그러나",
+      "form": null,
+      "ipa": "/jɛt/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "venture": {
+      "lemma": "venture",
+      "pos": "verb",
+      "ko": "감히 ~하다",
+      "form": null,
+      "synonyms": [
+        "dare",
+        "risk"
+      ],
+      "ipa": "/ˈvɛntʃər/"
+    },
+    "mew": {
+      "lemma": "mew",
+      "pos": "verb",
+      "ko": "야옹 하고 울다",
+      "form": null,
+      "synonyms": [
+        "meow",
+        "miaow"
+      ],
+      "ipa": "/mjuː/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "throw": {
+      "lemma": "throw",
+      "pos": "verb",
+      "ko": "던지다",
+      "form": null,
+      "synonyms": [
+        "toss",
+        "fling",
+        "hurl"
+      ],
+      "ipa": "/θroʊ/"
+    },
+    "things": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "물건들",
+      "form": "복수형",
+      "synonyms": [
+        "objects",
+        "stuff"
+      ],
+      "ipa": "/θɪŋz/"
+    },
+    "chase": {
+      "lemma": "chase",
+      "pos": "verb",
+      "ko": "쫓다, 뒤쫓다",
+      "form": null,
+      "synonyms": [
+        "pursue",
+        "run after"
+      ],
+      "ipa": "/tʃeɪs/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "(all over) ~ 곳곳에",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "place": {
+      "lemma": "place",
+      "pos": "noun",
+      "ko": "곳, 장소 (all over the place: 온 사방에)",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "area"
+      ],
+      "ipa": "/pleɪs/"
+    },
+    "look": {
+      "lemma": "look",
+      "pos": "verb",
+      "ko": "(look here) 이봐, 여보세요",
+      "form": null,
+      "synonyms": [
+        "see",
+        "listen"
+      ],
+      "ipa": "/lʊk/"
+    },
+    "mistress": {
+      "lemma": "mistress",
+      "pos": "noun",
+      "ko": "아주머니, 부인 (여자를 부르는 말)",
+      "form": null,
+      "synonyms": [
+        "madam",
+        "lady"
+      ],
+      "ipa": "/ˈmɪstrəs/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(hold one's tongue) 입을 다물다",
+      "form": null,
+      "synonyms": [
+        "keep",
+        "control"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "tongue": {
+      "lemma": "tongue",
+      "pos": "noun",
+      "ko": "혀 (hold one's tongue: 입을 다물다)",
+      "form": null,
+      "synonyms": [
+        "speech"
+      ],
+      "ipa": "/tʌŋ/"
+    },
+    "voice": {
+      "lemma": "voice",
+      "pos": "noun",
+      "ko": "목소리",
+      "form": null,
+      "synonyms": [
+        "sound",
+        "tone"
+      ],
+      "ipa": "/vɔɪs/"
+    },
+    "delight": {
+      "lemma": "delight",
+      "pos": "verb",
+      "ko": "(delight in) ~을 아주 좋아하다",
+      "form": null,
+      "synonyms": [
+        "enjoy",
+        "love",
+        "relish"
+      ],
+      "ipa": "/dɪˈlaɪt/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "yours": {
+      "lemma": "yours",
+      "pos": "pronoun",
+      "ko": "너의 것",
+      "form": "소유대명사",
+      "ipa": "/jʊrz/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "perfect": {
+      "lemma": "perfect",
+      "pos": "adjective",
+      "ko": "완전한, 순전한",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "total",
+        "utter"
+      ],
+      "ipa": "/pərˈfɛkt/"
+    },
+    "nuisance": {
+      "lemma": "nuisance",
+      "pos": "noun",
+      "ko": "골칫거리, 성가신 존재",
+      "form": null,
+      "synonyms": [
+        "bother",
+        "pest",
+        "annoyance"
+      ],
+      "ipa": "/ˈnuːsəns/"
+    }
+  }
+}
