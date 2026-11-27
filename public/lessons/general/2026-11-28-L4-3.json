@@ -1,0 +1,2185 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-28-L4-3",
+  "date": "2026-11-28",
+  "level": 4,
+  "title": "The Premature Burial",
+  "titleKo": "때 이른 매장",
+  "genre": "short-story",
+  "tags": [
+    "Poe",
+    "short story"
+  ],
+  "source": {
+    "work": "The Works of Edgar Allan Poe, Raven Edition, Volume 2 (The Premature Burial)",
+    "author": "Edgar Allan Poe",
+    "translator": null,
+    "year": 1844,
+    "edition": "Project Gutenberg #2148",
+    "url": "https://www.gutenberg.org/ebooks/2148",
+    "license": "public-domain",
+    "excerptNote": "'The Premature Burial' 첫 두 단락 전체와 셋째 단락의 앞 세 문장 (‘THERE are certain themes…’부터 ‘…at best shadowy and vague.’까지, 290단어). 이야기에 앞서 '산 채로 묻히는 것'이 인간이 겪을 수 있는 가장 끔찍한 일이라고 논하는 에세이풍 도입부 (‘Who shall say where the one ends…’부터는 뺌). gutenberg.org가 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #2148, 2148.txt, 항목 theworksofedgara02148gut)에서 가져왔고, 줄바꿈만 공백으로 이음. 첫 단어 THERE의 대문자, 겹줄표(----)와 줄표(--), if he do not 같은 옛 가정법은 원문 그대로."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/works_poe_raven_edition_vol2_0912/ravencollectedpoevol2_16_poe.mp3",
+    "mp3Low": "https://www.archive.org/download/works_poe_raven_edition_vol2_0912/ravencollectedpoevol2_16_poe_64kb.mp3",
+    "pageUrl": "https://librivox.org/the-works-of-edgar-allan-poe-raven-edition-volume-2-by-edgar-allan-poe/",
+    "reader": "Jackie Provau",
+    "durationSec": 1893,
+    "startSec": 20,
+    "endSec": 150,
+    "note": "LibriVox The Works of Edgar Allan Poe, Raven Edition, Volume 2, 트랙 16 'The Premature Burial'(전체 31:33, 낭독 Jackie Provau). 지문은 이야기 맨 처음 부분으로, LibriVox 안내 멘트·제목 뒤 약 0:20~2:30 (단어 수로 어림한 추정). 트랙·낭독자·길이는 LibriVox API와 archive.org 항목 정보로 확인함."
+  },
+  "wordCount": 290,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "ko": "관심을 온통 사로잡기는 하지만, 정당한 소설의 소재로 삼기에는 너무나도 끔찍한 주제들이 있다. 그저 낭만적인 이야기를 쓰는 작가라면, 독자의 기분을 상하게 하거나 혐오감을 주고 싶지 않은 한 이런 주제들을 피해야 한다. 이런 주제들은 진실의 엄정함과 위엄이 그것을 신성하게 하고 떠받쳐 줄 때에만 적절하게 다루어진다. 예를 들어 우리는 베레지나 강 도하, 리스본 대지진, 런던 대역병, 성 바르톨로메오 축일의 학살, 또는 캘커타의 '블랙홀'에서 포로 123명이 숨 막혀 죽은 사건에 관한 기록을 읽으며 더없이 강렬한 \"즐거운 고통\"에 전율한다. 그러나 이런 기록에서 우리를 흥분시키는 것은 바로 사실, 바로 현실, 바로 역사이다. 꾸며 낸 이야기였다면 우리는 그것들을 그저 혐오스럽게 여길 것이다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s7",
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "나는 기록에 남은 더 두드러지고 장엄한 재앙 몇 가지를 언급했다. 그러나 이것들에서 상상력에 그토록 생생한 인상을 남기는 것은 재앙의 성격 못지않게 그 규모이다. 인간 불행의 길고 기이한 목록에서, 내가 이런 거대하고 일반적인 재난들 중 어느 것보다도 본질적인 고통으로 가득한 개별 사례를 많이 고를 수도 있었다는 점은 굳이 독자에게 일깨울 필요도 없겠다. 참으로, 진정한 비참함, 곧 궁극의 비애는 개별적인 것이지 널리 퍼진 것이 아니다. 고뇌의 무시무시한 극한을 견디는 것은 낱낱의 개인으로서의 인간이지 결코 집단으로서의 인간이 아니라는 것, 이 점에 대해 자비로운 신께 감사하자!"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "산 채로 묻히는 것은 의심할 여지 없이, 한낱 죽을 운명의 인간에게 닥친 이러한 극한들 가운데 가장 무시무시한 것이다. 그런 일이 자주, 아주 자주 일어났다는 것을 생각할 줄 아는 사람이라면 좀처럼 부정하지 않을 것이다. 삶과 죽음을 가르는 경계는 기껏해야 흐릿하고 모호하다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "THERE are certain themes of which the interest is all-absorbing, but which are too entirely horrible for the purposes of legitimate fiction.",
+      "ko": "관심을 온통 사로잡기는 하지만, 정당한 소설의 소재로 삼기에는 너무나도 끔찍한 주제들이 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "These the mere romanticist must eschew, if he do not wish to offend or to disgust.",
+      "ko": "그저 낭만적인 이야기를 쓰는 작가라면, 독자의 기분을 상하게 하거나 혐오감을 주고 싶지 않은 한 이런 주제들을 피해야 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "They are with propriety handled only when the severity and majesty of Truth sanctify and sustain them.",
+      "ko": "이런 주제들은 진실의 엄정함과 위엄이 그것을 신성하게 하고 떠받쳐 줄 때에만 적절하게 다루어진다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "We thrill, for example, with the most intense of \"pleasurable pain\" over the accounts of the Passage of the Beresina, of the Earthquake at Lisbon, of the Plague at London, of the Massacre of St. Bartholomew, or of the stifling of the hundred and twenty-three prisoners in the Black Hole at Calcutta.",
+      "ko": "예를 들어 우리는 베레지나 강 도하, 리스본 대지진, 런던 대역병, 성 바르톨로메오 축일의 학살, 또는 캘커타의 '블랙홀'에서 포로 123명이 숨 막혀 죽은 사건에 관한 기록을 읽으며 더없이 강렬한 \"즐거운 고통\"에 전율한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "But in these accounts it is the fact----it is the reality----it is the history which excites.",
+      "ko": "그러나 이런 기록에서 우리를 흥분시키는 것은 바로 사실, 바로 현실, 바로 역사이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p1",
+      "en": "As inventions, we should regard them with simple abhorrence.",
+      "ko": "꾸며 낸 이야기였다면 우리는 그것들을 그저 혐오스럽게 여길 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p2",
+      "en": "I have mentioned some few of the more prominent and august calamities on record; but in these it is the extent, not less than the character of the calamity, which so vividly impresses the fancy.",
+      "ko": "나는 기록에 남은 더 두드러지고 장엄한 재앙 몇 가지를 언급했다. 그러나 이것들에서 상상력에 그토록 생생한 인상을 남기는 것은 재앙의 성격 못지않게 그 규모이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p2",
+      "en": "I need not remind the reader that, from the long and weird catalogue of human miseries, I might have selected many individual instances more replete with essential suffering than any of these vast generalities of disaster.",
+      "ko": "인간 불행의 길고 기이한 목록에서, 내가 이런 거대하고 일반적인 재난들 중 어느 것보다도 본질적인 고통으로 가득한 개별 사례를 많이 고를 수도 있었다는 점은 굳이 독자에게 일깨울 필요도 없겠다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p2",
+      "en": "The true wretchedness, indeed--the ultimate woe----is particular, not diffuse.",
+      "ko": "참으로, 진정한 비참함, 곧 궁극의 비애는 개별적인 것이지 널리 퍼진 것이 아니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p2",
+      "en": "That the ghastly extremes of agony are endured by man the unit, and never by man the mass----for this let us thank a merciful God!",
+      "ko": "고뇌의 무시무시한 극한을 견디는 것은 낱낱의 개인으로서의 인간이지 결코 집단으로서의 인간이 아니라는 것, 이 점에 대해 자비로운 신께 감사하자!",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p3",
+      "en": "To be buried while alive is, beyond question, the most terrific of these extremes which has ever fallen to the lot of mere mortality.",
+      "ko": "산 채로 묻히는 것은 의심할 여지 없이, 한낱 죽을 운명의 인간에게 닥친 이러한 극한들 가운데 가장 무시무시한 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p3",
+      "en": "That it has frequently, very frequently, so fallen will scarcely be denied by those who think.",
+      "ko": "그런 일이 자주, 아주 자주 일어났다는 것을 생각할 줄 아는 사람이라면 좀처럼 부정하지 않을 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p3",
+      "en": "The boundaries which divide Life from Death are at best shadowy and vague.",
+      "ko": "삶과 죽음을 가르는 경계는 기껏해야 흐릿하고 모호하다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "eschew",
+      "pos": "verb",
+      "meaningKo": "(의도적으로) 피하다, 삼가다",
+      "ipa": "/ɪsˈtʃuː/",
+      "synonyms": [
+        "avoid",
+        "shun",
+        "steer clear of"
+      ],
+      "matchText": "eschew",
+      "sentenceId": "s2",
+      "example": {
+        "en": "She eschews sugar and eats only fresh fruit for dessert.",
+        "ko": "그녀는 설탕을 삼가고 후식으로 신선한 과일만 먹는다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "sanctify",
+      "pos": "verb",
+      "meaningKo": "신성하게 하다, 정당한 것으로 인정하다",
+      "ipa": "/ˈsæŋktəfaɪ/",
+      "synonyms": [
+        "consecrate",
+        "hallow",
+        "justify"
+      ],
+      "matchText": "sanctify",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Long tradition seemed to sanctify the old custom.",
+        "ko": "오랜 전통이 그 옛 관습을 정당한 것으로 만들어 주는 듯했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "abhorrence",
+      "pos": "noun",
+      "meaningKo": "혐오, 증오",
+      "ipa": "/əbˈhɔːrəns/",
+      "synonyms": [
+        "disgust",
+        "loathing",
+        "repugnance"
+      ],
+      "matchText": "abhorrence",
+      "sentenceId": "s6",
+      "example": {
+        "en": "He looked at the cruel scene with abhorrence.",
+        "ko": "그는 그 잔인한 장면을 혐오스럽게 바라보았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "replete with",
+      "pos": "phrase",
+      "meaningKo": "~로 가득 찬, ~이 풍부한",
+      "ipa": "/rɪˈpliːt wɪð/",
+      "synonyms": [
+        "full of",
+        "filled with",
+        "abounding in"
+      ],
+      "matchText": "replete with",
+      "sentenceId": "s8",
+      "example": {
+        "en": "The old book is replete with strange stories.",
+        "ko": "그 오래된 책은 기이한 이야기들로 가득하다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "diffuse",
+      "pos": "adjective",
+      "meaningKo": "널리 퍼진, 흩어진",
+      "ipa": "/dɪˈfjuːs/",
+      "synonyms": [
+        "scattered",
+        "dispersed",
+        "widespread"
+      ],
+      "matchText": "diffuse",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The light in the room was soft and diffuse.",
+        "ko": "방 안의 빛은 부드럽고 은은하게 퍼져 있었다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s1",
+      "chunks": [
+        {
+          "text": "THERE",
+          "role": "M",
+          "sub": false,
+          "ko": "(유도부사)"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "sub": false,
+          "ko": "있다"
+        },
+        {
+          "text": "certain themes",
+          "role": "S",
+          "sub": false,
+          "ko": "어떤 주제들이"
+        },
+        {
+          "text": "of which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그것의"
+        },
+        {
+          "text": "the interest",
+          "role": "S",
+          "sub": true,
+          "ko": "흥미가"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "sub": true,
+          "ko": "~이다"
+        },
+        {
+          "text": "all-absorbing,",
+          "role": "C",
+          "sub": true,
+          "ko": "온통 사로잡는"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그러나"
+        },
+        {
+          "text": "which",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그것들은"
+        },
+        {
+          "text": "are",
+          "role": "V",
+          "sub": true,
+          "ko": "~이다"
+        },
+        {
+          "text": "too entirely horrible",
+          "role": "C",
+          "sub": true,
+          "ko": "너무나 끔찍한"
+        },
+        {
+          "text": "for the purposes of legitimate fiction.",
+          "role": "M",
+          "sub": true,
+          "ko": "정당한 소설의 목적으로는"
+        }
+      ],
+      "skeleton": "There are certain themes (of which ~, but which ~)",
+      "explanation": "뼈대는 There are certain themes(어떤 주제들이 있다)이다. themes를 두 관계절이 but으로 이어져 꾸민다. 앞의 of which the interest is all-absorbing은 '그 주제의 흥미가 온통 사로잡는'이라는 뜻으로 of which = whose의 의미이고, 뒤의 which are too entirely horrible ~은 '너무나 끔찍한'이라는 뜻이다. 즉 '흥미롭지만 너무 끔찍한 주제'라는 대조가 핵심이다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "These",
+          "role": "O",
+          "sub": false,
+          "ko": "이런 주제들을"
+        },
+        {
+          "text": "the mere romanticist",
+          "role": "S",
+          "sub": false,
+          "ko": "그저 낭만적인 작가는"
+        },
+        {
+          "text": "must eschew,",
+          "role": "V",
+          "sub": false,
+          "ko": "피해야 한다"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "만약"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그가"
+        },
+        {
+          "text": "do not wish",
+          "role": "V",
+          "sub": true,
+          "ko": "원하지 않는다면"
+        },
+        {
+          "text": "to offend or to disgust.",
+          "role": "O",
+          "sub": true,
+          "ko": "불쾌하게 하거나 혐오감을 주기를"
+        }
+      ],
+      "skeleton": "These (O) the mere romanticist (S) must eschew (V)",
+      "explanation": "목적어 These(= 앞 문장의 themes)가 강조를 위해 문장 맨 앞으로 나왔다. 원래 어순은 The mere romanticist must eschew these이다. 목적어가 앞으로 나와도 주어-동사 어순은 그대로라는 점에 주의한다. if 이하는 조건의 부사절이며, do는 옛 문체의 가정법 현재(동사원형)이다."
+    },
+    {
+      "id": "st3",
+      "sentenceId": "s12",
+      "chunks": [
+        {
+          "text": "That",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 것은"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "그런 일이"
+        },
+        {
+          "text": "has frequently, very frequently, so fallen",
+          "role": "V",
+          "sub": true,
+          "ko": "자주, 아주 자주 그렇게 닥쳤다"
+        },
+        {
+          "text": "will scarcely be denied",
+          "role": "V",
+          "sub": false,
+          "ko": "좀처럼 부정되지 않을 것이다"
+        },
+        {
+          "text": "by those",
+          "role": "M",
+          "sub": false,
+          "ko": "사람들에 의해"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는"
+        },
+        {
+          "text": "think.",
+          "role": "V",
+          "sub": true,
+          "ko": "생각하는"
+        }
+      ],
+      "skeleton": "That ~ (S) will scarcely be denied (V)",
+      "explanation": "That이 이끄는 명사절(That it has ~ so fallen)이 문장 전체의 주어이다. 주어가 길지만 가주어 it을 쓰지 않고 그대로 앞에 두었다. 동사는 수동태 will scarcely be denied(좀처럼 부정되지 않을 것이다)이고, by those who think는 '생각하는 사람들에 의해'라는 행위자이다. scarcely는 '거의 ~않다'라는 부정의 뜻이다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "옛 문체의 가정법 현재: if he do not",
+      "tags": [
+        "가정법",
+        "조동사"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "if he do not wish"
+      ],
+      "explanation": "주어가 he인데 does가 아니라 do를 썼다. 옛 영어에서는 조건·가정을 나타내는 if절에 동사원형(가정법 현재)을 써서 '혹시 ~한다면'이라는 불확실한 조건을 나타냈다. 오늘날에는 직설법을 써서 if he does not wish라고 한다.",
+      "example": {
+        "en": "If it be true, we must act at once.",
+        "ko": "만약 그것이 사실이라면 우리는 즉시 행동해야 한다. (오늘날: If it is true)"
+      },
+      "note": "수능에서는 if절에 동사원형이 나오면 틀린 것이 아니라 옛 문체의 가정법 현재일 수 있다는 점만 알아 두면 된다."
+    },
+    {
+      "id": "g2",
+      "title": "It is ~ which(that) 강조구문의 반복",
+      "tags": [
+        "강조"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "it is the fact----it is the reality----it is the history which excites"
+      ],
+      "explanation": "It is A that(which) ~ 는 A를 강조하는 구문으로 '~하는 것은 바로 A이다'로 해석한다. 여기서는 it is the ~를 세 번 되풀이해 the fact, the reality, the history를 차례로 강조했다. 원래 문장은 The history excites.이며, 강조되는 말이 사물이라 which를 썼다.",
+      "example": {
+        "en": "It is your effort that matters, not your talent.",
+        "ko": "중요한 것은 재능이 아니라 바로 너의 노력이다."
+      },
+      "note": "It is와 that(which)을 빼도 문장이 성립하면 강조구문, 성립하지 않으면 가주어-진주어 구문이다."
+    },
+    {
+      "id": "g3",
+      "title": "명사절의 앞세우기와 for this의 도치",
+      "tags": [
+        "명사절",
+        "도치"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "That the ghastly extremes of agony are endured by man the unit",
+        "for this let us thank"
+      ],
+      "explanation": "That ~ the mass는 '~라는 것'이라는 명사절인데, 이를 먼저 내세운 뒤 줄표 다음에 this로 다시 받았다. 원래 어순은 Let us thank a merciful God for this.이며, 감사의 이유인 for this를 앞으로 내어 강조했다. man the unit / man the mass는 '개개의 인간 / 집단으로서의 인간'이라는 동격 표현이다.",
+      "example": {
+        "en": "That he survived the crash----for this we are truly grateful.",
+        "ko": "그가 그 사고에서 살아남았다는 것, 이 점에 대해 우리는 진심으로 감사한다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "(There are) ~이 있다",
+      "form": null,
+      "synonyms": [
+        "here"
+      ],
+      "ipa": "/ðɛr/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "현재형(복수)",
+      "synonyms": [
+        "exist"
+      ],
+      "ipa": "/ɑːr/"
+    },
+    "certain": {
+      "lemma": "certain",
+      "pos": "adjective",
+      "ko": "어떤, 특정한",
+      "form": null,
+      "synonyms": [
+        "particular",
+        "specific"
+      ],
+      "ipa": "/ˈsɜːrtən/"
+    },
+    "themes": {
+      "lemma": "theme",
+      "pos": "noun",
+      "ko": "주제, 소재",
+      "form": "복수형",
+      "synonyms": [
+        "subject",
+        "topic"
+      ],
+      "ipa": "/θiːmz/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의, ~에 관한",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그것",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "interest": {
+      "lemma": "interest",
+      "pos": "noun",
+      "ko": "흥미, 관심",
+      "form": null,
+      "synonyms": [
+        "appeal",
+        "fascination"
+      ],
+      "ipa": "/ˈɪntrəst/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "remain"
+      ],
+      "ipa": "/ɪz/"
+    },
+    "all-absorbing": {
+      "lemma": "all-absorbing",
+      "pos": "adjective",
+      "ko": "온통 마음을 사로잡는",
+      "form": null,
+      "synonyms": [
+        "engrossing",
+        "gripping"
+      ],
+      "ipa": "/ɔːl-əbˈzɔːrbɪŋ/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "too": {
+      "lemma": "too",
+      "pos": "adverb",
+      "ko": "너무",
+      "form": null,
+      "synonyms": [
+        "excessively",
+        "overly"
+      ],
+      "ipa": "/tuː/"
+    },
+    "entirely": {
+      "lemma": "entirely",
+      "pos": "adverb",
+      "ko": "완전히, 전적으로",
+      "form": null,
+      "synonyms": [
+        "wholly",
+        "completely"
+      ],
+      "ipa": "/ɪnˈtaɪərli/"
+    },
+    "horrible": {
+      "lemma": "horrible",
+      "pos": "adjective",
+      "ko": "끔찍한",
+      "form": null,
+      "synonyms": [
+        "dreadful",
+        "awful"
+      ],
+      "ipa": "/ˈhɔːrəbəl/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위한; ~에 대해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "purposes": {
+      "lemma": "purpose",
+      "pos": "noun",
+      "ko": "목적, 용도",
+      "form": "복수형",
+      "synonyms": [
+        "aim",
+        "use"
+      ],
+      "ipa": "/ˈpɜːrpəsəz/"
+    },
+    "legitimate": {
+      "lemma": "legitimate",
+      "pos": "adjective",
+      "ko": "정당한, 올바른",
+      "form": null,
+      "synonyms": [
+        "proper",
+        "valid"
+      ],
+      "ipa": "/ləˈdʒɪtəmət/"
+    },
+    "fiction": {
+      "lemma": "fiction",
+      "pos": "noun",
+      "ko": "소설, 꾸며 낸 이야기",
+      "form": null,
+      "synonyms": [
+        "novel",
+        "story"
+      ],
+      "ipa": "/ˈfɪkʃən/"
+    },
+    "these": {
+      "lemma": "these",
+      "pos": "determiner",
+      "ko": "이(것)들",
+      "form": null,
+      "ipa": "/ðiːz/"
+    },
+    "mere": {
+      "lemma": "mere",
+      "pos": "adjective",
+      "ko": "단순한, 한낱 ~에 불과한",
+      "form": null,
+      "synonyms": [
+        "simple",
+        "just"
+      ],
+      "ipa": "/mɪr/"
+    },
+    "romanticist": {
+      "lemma": "romanticist",
+      "pos": "noun",
+      "ko": "낭만주의 작가",
+      "form": null,
+      "synonyms": [
+        "romantic",
+        "romancer"
+      ],
+      "ipa": null
+    },
+    "must": {
+      "lemma": "must",
+      "pos": "auxiliary",
+      "ko": "~해야 한다",
+      "form": null,
+      "ipa": "/mʌst/"
+    },
+    "eschew": {
+      "lemma": "eschew",
+      "pos": "verb",
+      "ko": "피하다, 삼가다",
+      "form": null,
+      "synonyms": [
+        "avoid",
+        "shun"
+      ],
+      "ipa": "/ɛsˈtʃuː/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "wish": {
+      "lemma": "wish",
+      "pos": "verb",
+      "ko": "바라다, 원하다",
+      "form": null,
+      "synonyms": [
+        "want",
+        "desire"
+      ],
+      "ipa": "/wɪʃ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "offend": {
+      "lemma": "offend",
+      "pos": "verb",
+      "ko": "불쾌하게 하다",
+      "form": null,
+      "synonyms": [
+        "upset",
+        "insult"
+      ],
+      "ipa": "/əˈfɛnd/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "disgust": {
+      "lemma": "disgust",
+      "pos": "verb",
+      "ko": "혐오감을 주다",
+      "form": null,
+      "synonyms": [
+        "repel",
+        "sicken"
+      ],
+      "ipa": "/dɪsˈɡʌst/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~을 가지고, ~로",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "propriety": {
+      "lemma": "propriety",
+      "pos": "noun",
+      "ko": "적절함, 예의 바름",
+      "form": null,
+      "synonyms": [
+        "decorum",
+        "appropriateness"
+      ],
+      "ipa": "/prəˈpraɪəti/"
+    },
+    "handled": {
+      "lemma": "handle",
+      "pos": "verb",
+      "ko": "다루다",
+      "form": "과거분사",
+      "synonyms": [
+        "treat",
+        "deal with"
+      ],
+      "ipa": "/ˈhændəld/"
+    },
+    "only": {
+      "lemma": "only",
+      "pos": "adverb",
+      "ko": "오직, ~에만",
+      "form": null,
+      "synonyms": [
+        "solely",
+        "just"
+      ],
+      "ipa": "/ˈoʊnli/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "severity": {
+      "lemma": "severity",
+      "pos": "noun",
+      "ko": "엄정함, 엄격함",
+      "form": null,
+      "synonyms": [
+        "sternness",
+        "rigor"
+      ],
+      "ipa": "/sɪˈvɛrɪti/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "majesty": {
+      "lemma": "majesty",
+      "pos": "noun",
+      "ko": "위엄, 장엄함",
+      "form": null,
+      "synonyms": [
+        "grandeur",
+        "dignity"
+      ],
+      "ipa": "/ˈmædʒəsti/"
+    },
+    "truth": {
+      "lemma": "truth",
+      "pos": "noun",
+      "ko": "진실",
+      "form": null,
+      "synonyms": [
+        "reality",
+        "fact"
+      ],
+      "ipa": "/truːθ/"
+    },
+    "sanctify": {
+      "lemma": "sanctify",
+      "pos": "verb",
+      "ko": "신성하게 하다, 정당화하다",
+      "form": null,
+      "synonyms": [
+        "hallow",
+        "justify"
+      ],
+      "ipa": "/ˈsæŋktəfaɪ/"
+    },
+    "sustain": {
+      "lemma": "sustain",
+      "pos": "verb",
+      "ko": "떠받치다, 뒷받침하다",
+      "form": null,
+      "synonyms": [
+        "support",
+        "uphold"
+      ],
+      "ipa": "/səˈsteɪn/"
+    },
+    "them": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그것들을",
+      "form": "목적격",
+      "ipa": "/ðɛm/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "thrill": {
+      "lemma": "thrill",
+      "pos": "verb",
+      "ko": "전율하다, 몸이 떨리다",
+      "form": null,
+      "synonyms": [
+        "tingle",
+        "quiver"
+      ],
+      "ipa": "/θrɪl/"
+    },
+    "example": {
+      "lemma": "example",
+      "pos": "noun",
+      "ko": "예, 보기",
+      "form": null,
+      "synonyms": [
+        "instance",
+        "case"
+      ],
+      "ipa": "/ɪɡˈzæmpəl/"
+    },
+    "most": {
+      "lemma": "most",
+      "pos": "adverb",
+      "ko": "가장",
+      "form": null,
+      "synonyms": [
+        "extremely"
+      ],
+      "ipa": "/moʊst/"
+    },
+    "intense": {
+      "lemma": "intense",
+      "pos": "adjective",
+      "ko": "강렬한",
+      "form": null,
+      "synonyms": [
+        "acute",
+        "strong"
+      ],
+      "ipa": "/ˌɪnˈtɛns/"
+    },
+    "pleasurable": {
+      "lemma": "pleasurable",
+      "pos": "adjective",
+      "ko": "즐거운, 기분 좋은",
+      "form": null,
+      "synonyms": [
+        "enjoyable",
+        "pleasant"
+      ],
+      "ipa": "/ˈplɛʒərəbəl/"
+    },
+    "pain": {
+      "lemma": "pain",
+      "pos": "noun",
+      "ko": "고통",
+      "form": null,
+      "synonyms": [
+        "suffering",
+        "anguish"
+      ],
+      "ipa": "/peɪn/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~에 대해, ~을 보며",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "accounts": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "기록, 이야기",
+      "form": "복수형",
+      "synonyms": [
+        "report",
+        "narrative"
+      ],
+      "ipa": "/əˈkaʊnts/"
+    },
+    "passage": {
+      "lemma": "passage",
+      "pos": "noun",
+      "ko": "통과, 도하",
+      "form": null,
+      "synonyms": [
+        "crossing",
+        "transit"
+      ],
+      "ipa": "/ˈpæsədʒ/"
+    },
+    "beresina": {
+      "lemma": "Beresina",
+      "pos": "proper-noun",
+      "ko": "베레지나 강 (1812년 나폴레옹 군 퇴각 중 참사가 난 강)",
+      "form": null,
+      "ipa": null
+    },
+    "earthquake": {
+      "lemma": "earthquake",
+      "pos": "noun",
+      "ko": "지진",
+      "form": null,
+      "synonyms": [
+        "quake",
+        "tremor"
+      ],
+      "ipa": "/ˈɜːrθˌkweɪk/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "lisbon": {
+      "lemma": "Lisbon",
+      "pos": "proper-noun",
+      "ko": "리스본 (포르투갈 수도, 1755년 대지진)",
+      "form": null,
+      "ipa": "/ˈlɪzbən/"
+    },
+    "plague": {
+      "lemma": "plague",
+      "pos": "noun",
+      "ko": "역병, 전염병",
+      "form": null,
+      "synonyms": [
+        "pestilence",
+        "epidemic"
+      ],
+      "ipa": "/pleɪɡ/"
+    },
+    "london": {
+      "lemma": "London",
+      "pos": "proper-noun",
+      "ko": "런던 (영국 수도, 1665년 대역병)",
+      "form": null,
+      "ipa": "/ˈlʌndən/"
+    },
+    "massacre": {
+      "lemma": "massacre",
+      "pos": "noun",
+      "ko": "대학살",
+      "form": null,
+      "synonyms": [
+        "slaughter",
+        "butchery"
+      ],
+      "ipa": "/ˈmæsəkər/"
+    },
+    "st": {
+      "lemma": "St.",
+      "pos": "proper-noun",
+      "ko": "성(聖) ~ (Saint의 줄임말)",
+      "form": "줄임말",
+      "ipa": "/striːt/"
+    },
+    "bartholomew": {
+      "lemma": "Bartholomew",
+      "pos": "proper-noun",
+      "ko": "바르톨로메오 (성인 이름; 1572년 성 바르톨로메오 축일 학살)",
+      "form": null,
+      "ipa": "/bɑrˈθɑːləˌmjuː/"
+    },
+    "stifling": {
+      "lemma": "stifle",
+      "pos": "noun",
+      "ko": "질식(사)",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "suffocation",
+        "smothering"
+      ],
+      "ipa": "/ˈstaɪflɪŋ/"
+    },
+    "hundred": {
+      "lemma": "hundred",
+      "pos": "number",
+      "ko": "백(100)",
+      "form": null,
+      "ipa": "/ˈhʌndrəd/"
+    },
+    "twenty-three": {
+      "lemma": "twenty-three",
+      "pos": "number",
+      "ko": "스물셋(23)",
+      "form": null,
+      "ipa": "/ˈtwɛnti-θriː/"
+    },
+    "prisoners": {
+      "lemma": "prisoner",
+      "pos": "noun",
+      "ko": "포로, 죄수",
+      "form": "복수형",
+      "synonyms": [
+        "captive",
+        "inmate"
+      ],
+      "ipa": "/ˈprɪzənərz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "black": {
+      "lemma": "Black Hole",
+      "pos": "proper-noun",
+      "ko": "블랙홀 (캘커타의 비좁은 감옥, 1756년 사건)",
+      "form": null,
+      "ipa": "/blæk/"
+    },
+    "hole": {
+      "lemma": "Black Hole",
+      "pos": "proper-noun",
+      "ko": "블랙홀 (캘커타의 비좁은 감옥)",
+      "form": null,
+      "ipa": "/hoʊl/"
+    },
+    "calcutta": {
+      "lemma": "Calcutta",
+      "pos": "proper-noun",
+      "ko": "캘커타 (인도 도시, 지금의 콜카타)",
+      "form": null,
+      "ipa": "/ˌkælˈkʌtə/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "(강조구문의 it); 그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "fact": {
+      "lemma": "fact",
+      "pos": "noun",
+      "ko": "사실",
+      "form": null,
+      "synonyms": [
+        "actuality",
+        "truth"
+      ],
+      "ipa": "/fækt/"
+    },
+    "reality": {
+      "lemma": "reality",
+      "pos": "noun",
+      "ko": "현실",
+      "form": null,
+      "synonyms": [
+        "actuality",
+        "fact"
+      ],
+      "ipa": "/ˌriːˈæləˌtiː/"
+    },
+    "history": {
+      "lemma": "history",
+      "pos": "noun",
+      "ko": "역사, 실제 있었던 일",
+      "form": null,
+      "synonyms": [
+        "past",
+        "chronicle"
+      ],
+      "ipa": "/ˈhɪstəri/"
+    },
+    "excites": {
+      "lemma": "excite",
+      "pos": "verb",
+      "ko": "흥분시키다, 자극하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "thrill",
+        "stir"
+      ],
+      "ipa": "/ɪkˈsaɪts/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "~로서",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "inventions": {
+      "lemma": "invention",
+      "pos": "noun",
+      "ko": "지어낸 것, 창작",
+      "form": "복수형",
+      "synonyms": [
+        "fabrication",
+        "fiction"
+      ],
+      "ipa": "/ˌɪnˈvɛnʃənz/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (가정)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "regard": {
+      "lemma": "regard",
+      "pos": "verb",
+      "ko": "여기다, 바라보다",
+      "form": null,
+      "synonyms": [
+        "view",
+        "consider"
+      ],
+      "ipa": "/rɪˈɡɑːrd/"
+    },
+    "simple": {
+      "lemma": "simple",
+      "pos": "adjective",
+      "ko": "순전한, 단순한",
+      "form": null,
+      "synonyms": [
+        "pure",
+        "sheer"
+      ],
+      "ipa": "/ˈsɪmpəl/"
+    },
+    "abhorrence": {
+      "lemma": "abhorrence",
+      "pos": "noun",
+      "ko": "혐오",
+      "form": null,
+      "synonyms": [
+        "disgust",
+        "loathing"
+      ],
+      "ipa": "/əbˈhɔːrəns/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "mentioned": {
+      "lemma": "mention",
+      "pos": "verb",
+      "ko": "언급하다",
+      "form": "과거분사",
+      "synonyms": [
+        "cite",
+        "refer to"
+      ],
+      "ipa": "/ˈmɛnʃənd/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "몇몇의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "few": {
+      "lemma": "few",
+      "pos": "determiner",
+      "ko": "(some few) 몇 개의",
+      "form": null,
+      "ipa": "/fjuː/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "adverb",
+      "ko": "더",
+      "form": null,
+      "synonyms": [
+        "further"
+      ],
+      "ipa": "/mɔːr/"
+    },
+    "prominent": {
+      "lemma": "prominent",
+      "pos": "adjective",
+      "ko": "두드러진, 유명한",
+      "form": null,
+      "synonyms": [
+        "notable",
+        "eminent"
+      ],
+      "ipa": "/ˈprɑːmənənt/"
+    },
+    "august": {
+      "lemma": "august",
+      "pos": "adjective",
+      "ko": "장엄한, 위엄 있는",
+      "form": null,
+      "synonyms": [
+        "majestic",
+        "grand"
+      ],
+      "ipa": "/ˈɑːɡəst/"
+    },
+    "calamities": {
+      "lemma": "calamity",
+      "pos": "noun",
+      "ko": "재앙, 참사",
+      "form": "복수형",
+      "synonyms": [
+        "disaster",
+        "catastrophe"
+      ],
+      "ipa": "/kəˈlæmətiz/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "(on record) 기록상",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "record": {
+      "lemma": "record",
+      "pos": "noun",
+      "ko": "기록",
+      "form": null,
+      "synonyms": [
+        "chronicle",
+        "archive"
+      ],
+      "ipa": "/rəˈkɔːrd/"
+    },
+    "extent": {
+      "lemma": "extent",
+      "pos": "noun",
+      "ko": "규모, 범위",
+      "form": null,
+      "synonyms": [
+        "scale",
+        "magnitude"
+      ],
+      "ipa": "/ɪkˈstɛnt/"
+    },
+    "less": {
+      "lemma": "less",
+      "pos": "adverb",
+      "ko": "(not less than) ~ 못지않게",
+      "form": null,
+      "synonyms": [
+        "fewer"
+      ],
+      "ipa": "/lɛs/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "character": {
+      "lemma": "character",
+      "pos": "noun",
+      "ko": "성격, 특성",
+      "form": null,
+      "synonyms": [
+        "nature",
+        "quality"
+      ],
+      "ipa": "/ˈkɛrɪktər/"
+    },
+    "calamity": {
+      "lemma": "calamity",
+      "pos": "noun",
+      "ko": "재앙",
+      "form": null,
+      "synonyms": [
+        "disaster",
+        "catastrophe"
+      ],
+      "ipa": "/kəˈlæməti/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "adverb",
+      "ko": "그토록; 그렇게",
+      "form": null,
+      "synonyms": [
+        "thus",
+        "very"
+      ],
+      "ipa": "/soʊ/"
+    },
+    "vividly": {
+      "lemma": "vividly",
+      "pos": "adverb",
+      "ko": "생생하게",
+      "form": null,
+      "synonyms": [
+        "graphically",
+        "strikingly"
+      ],
+      "ipa": "/ˈvɪvədli/"
+    },
+    "impresses": {
+      "lemma": "impress",
+      "pos": "verb",
+      "ko": "깊은 인상을 남기다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "strike",
+        "affect"
+      ],
+      "ipa": "/ˌɪmˈprɛsɪz/"
+    },
+    "fancy": {
+      "lemma": "fancy",
+      "pos": "noun",
+      "ko": "상상력, 공상",
+      "form": null,
+      "synonyms": [
+        "imagination",
+        "fantasy"
+      ],
+      "ipa": "/ˈfænsi/"
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "auxiliary",
+      "ko": "(need not) ~할 필요가 없다",
+      "form": null,
+      "ipa": "/niːd/"
+    },
+    "remind": {
+      "lemma": "remind",
+      "pos": "verb",
+      "ko": "상기시키다, 일깨우다",
+      "form": null,
+      "synonyms": [
+        "prompt",
+        "tell"
+      ],
+      "ipa": "/riˈmaɪnd/"
+    },
+    "reader": {
+      "lemma": "reader",
+      "pos": "noun",
+      "ko": "독자",
+      "form": null,
+      "synonyms": [
+        "audience"
+      ],
+      "ipa": "/ˈriːdər/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "weird": {
+      "lemma": "weird",
+      "pos": "adjective",
+      "ko": "기이한, 섬뜩한",
+      "form": null,
+      "synonyms": [
+        "strange",
+        "eerie"
+      ],
+      "ipa": "/wɪrd/"
+    },
+    "catalogue": {
+      "lemma": "catalogue",
+      "pos": "noun",
+      "ko": "목록",
+      "form": null,
+      "synonyms": [
+        "list",
+        "register"
+      ],
+      "ipa": "/ˈkætəˌlɔːɡ/"
+    },
+    "human": {
+      "lemma": "human",
+      "pos": "adjective",
+      "ko": "인간의",
+      "form": null,
+      "synonyms": [
+        "mortal"
+      ],
+      "ipa": "/ˈhjuːmən/"
+    },
+    "miseries": {
+      "lemma": "misery",
+      "pos": "noun",
+      "ko": "불행, 비참함",
+      "form": "복수형",
+      "synonyms": [
+        "suffering",
+        "distress"
+      ],
+      "ipa": "/ˈmɪzəriz/"
+    },
+    "might": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~할 수도 있었다",
+      "form": "과거형",
+      "ipa": "/maɪt/"
+    },
+    "selected": {
+      "lemma": "select",
+      "pos": "verb",
+      "ko": "고르다, 선택하다",
+      "form": "과거분사",
+      "synonyms": [
+        "choose",
+        "pick"
+      ],
+      "ipa": "/səˈlɛktɪd/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "individual": {
+      "lemma": "individual",
+      "pos": "adjective",
+      "ko": "개별적인",
+      "form": null,
+      "synonyms": [
+        "single",
+        "separate"
+      ],
+      "ipa": "/ˌɪndəˈvɪdʒəwəl/"
+    },
+    "instances": {
+      "lemma": "instance",
+      "pos": "noun",
+      "ko": "사례, 경우",
+      "form": "복수형",
+      "synonyms": [
+        "example",
+        "case"
+      ],
+      "ipa": "/ˈɪnstənsəz/"
+    },
+    "replete": {
+      "lemma": "replete",
+      "pos": "adjective",
+      "ko": "(~로) 가득한",
+      "form": null,
+      "synonyms": [
+        "full",
+        "filled"
+      ],
+      "ipa": "/riˈpliːt/"
+    },
+    "essential": {
+      "lemma": "essential",
+      "pos": "adjective",
+      "ko": "본질적인",
+      "form": null,
+      "synonyms": [
+        "fundamental",
+        "intrinsic"
+      ],
+      "ipa": "/ɛˈsɛnʃəl/"
+    },
+    "suffering": {
+      "lemma": "suffering",
+      "pos": "noun",
+      "ko": "고통",
+      "form": null,
+      "synonyms": [
+        "agony",
+        "pain"
+      ],
+      "ipa": "/ˈsʌfərɪŋ/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤 ~이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "vast": {
+      "lemma": "vast",
+      "pos": "adjective",
+      "ko": "거대한, 광대한",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "immense"
+      ],
+      "ipa": "/væst/"
+    },
+    "generalities": {
+      "lemma": "generality",
+      "pos": "noun",
+      "ko": "일반적인 것, 대체적인 사례",
+      "form": "복수형",
+      "synonyms": [
+        "generalization"
+      ],
+      "ipa": "/ˌdʒɛnəˈrælətiz/"
+    },
+    "disaster": {
+      "lemma": "disaster",
+      "pos": "noun",
+      "ko": "재난",
+      "form": null,
+      "synonyms": [
+        "catastrophe",
+        "calamity"
+      ],
+      "ipa": "/dɪˈzæstər/"
+    },
+    "true": {
+      "lemma": "true",
+      "pos": "adjective",
+      "ko": "진정한",
+      "form": null,
+      "synonyms": [
+        "real",
+        "genuine"
+      ],
+      "ipa": "/truː/"
+    },
+    "wretchedness": {
+      "lemma": "wretchedness",
+      "pos": "noun",
+      "ko": "비참함",
+      "form": null,
+      "synonyms": [
+        "misery",
+        "despair"
+      ],
+      "ipa": null
+    },
+    "indeed": {
+      "lemma": "indeed",
+      "pos": "adverb",
+      "ko": "참으로, 실로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "really"
+      ],
+      "ipa": "/ˌɪnˈdiːd/"
+    },
+    "ultimate": {
+      "lemma": "ultimate",
+      "pos": "adjective",
+      "ko": "궁극의, 최고의",
+      "form": null,
+      "synonyms": [
+        "supreme",
+        "utmost"
+      ],
+      "ipa": "/ˈʌltəmət/"
+    },
+    "woe": {
+      "lemma": "woe",
+      "pos": "noun",
+      "ko": "비애, 큰 슬픔",
+      "form": null,
+      "synonyms": [
+        "sorrow",
+        "grief"
+      ],
+      "ipa": "/woʊ/"
+    },
+    "particular": {
+      "lemma": "particular",
+      "pos": "adjective",
+      "ko": "개별적인, 특정한",
+      "form": null,
+      "synonyms": [
+        "individual",
+        "specific"
+      ],
+      "ipa": "/pərˈtɪkjələr/"
+    },
+    "diffuse": {
+      "lemma": "diffuse",
+      "pos": "adjective",
+      "ko": "널리 퍼진, 흩어진",
+      "form": null,
+      "synonyms": [
+        "scattered",
+        "dispersed"
+      ],
+      "ipa": "/dɪˈfjuːs/"
+    },
+    "ghastly": {
+      "lemma": "ghastly",
+      "pos": "adjective",
+      "ko": "무시무시한, 소름 끼치는",
+      "form": null,
+      "synonyms": [
+        "horrifying",
+        "gruesome"
+      ],
+      "ipa": "/ˈɡæstli/"
+    },
+    "extremes": {
+      "lemma": "extreme",
+      "pos": "noun",
+      "ko": "극한, 극단",
+      "form": "복수형",
+      "synonyms": [
+        "limit",
+        "height"
+      ],
+      "ipa": "/ɛkˈstriːmz/"
+    },
+    "agony": {
+      "lemma": "agony",
+      "pos": "noun",
+      "ko": "극심한 고통, 고뇌",
+      "form": null,
+      "synonyms": [
+        "anguish",
+        "torment"
+      ],
+      "ipa": "/ˈæɡəni/"
+    },
+    "endured": {
+      "lemma": "endure",
+      "pos": "verb",
+      "ko": "견디다, 참다",
+      "form": "과거분사",
+      "synonyms": [
+        "bear",
+        "suffer"
+      ],
+      "ipa": "/ɛndˈjʊrd/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "man": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "인간, 사람",
+      "form": null,
+      "synonyms": [
+        "humankind",
+        "person"
+      ],
+      "ipa": "/mæn/"
+    },
+    "unit": {
+      "lemma": "unit",
+      "pos": "noun",
+      "ko": "단위, 낱개",
+      "form": null,
+      "synonyms": [
+        "individual",
+        "single"
+      ],
+      "ipa": "/ˈjuːnət/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~않다",
+      "form": null,
+      "synonyms": [
+        "not ever"
+      ],
+      "ipa": "/ˈnɛvər/"
+    },
+    "mass": {
+      "lemma": "mass",
+      "pos": "noun",
+      "ko": "집단, 무리",
+      "form": null,
+      "synonyms": [
+        "multitude",
+        "crowd"
+      ],
+      "ipa": "/mæs/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "let": {
+      "lemma": "let",
+      "pos": "verb",
+      "ko": "(let us) ~하자",
+      "form": null,
+      "synonyms": [
+        "allow"
+      ],
+      "ipa": "/lɛt/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "bless",
+        "praise"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "merciful": {
+      "lemma": "merciful",
+      "pos": "adjective",
+      "ko": "자비로운",
+      "form": null,
+      "synonyms": [
+        "compassionate",
+        "kind"
+      ],
+      "ipa": "/ˈmɜːrsɪfəl/"
+    },
+    "god": {
+      "lemma": "God",
+      "pos": "proper-noun",
+      "ko": "하느님, 신",
+      "form": null,
+      "ipa": "/ɡɑːd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "(to be buried) ~되다",
+      "form": null,
+      "synonyms": [
+        "become"
+      ],
+      "ipa": "/biː/"
+    },
+    "buried": {
+      "lemma": "bury",
+      "pos": "verb",
+      "ko": "묻다, 매장하다",
+      "form": "과거분사",
+      "synonyms": [
+        "inter",
+        "entomb"
+      ],
+      "ipa": "/ˈbɛrid/"
+    },
+    "while": {
+      "lemma": "while",
+      "pos": "conjunction",
+      "ko": "~하는 동안",
+      "form": null,
+      "ipa": "/waɪl/"
+    },
+    "alive": {
+      "lemma": "alive",
+      "pos": "adjective",
+      "ko": "살아 있는",
+      "form": null,
+      "synonyms": [
+        "living",
+        "breathing"
+      ],
+      "ipa": "/əˈlaɪv/"
+    },
+    "beyond": {
+      "lemma": "beyond",
+      "pos": "preposition",
+      "ko": "(beyond question) ~을 넘어서",
+      "form": null,
+      "ipa": "/bɪˈɑːnd/"
+    },
+    "question": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "의문, 의심",
+      "form": null,
+      "synonyms": [
+        "doubt",
+        "dispute"
+      ],
+      "ipa": "/ˈkwɛstʃən/"
+    },
+    "terrific": {
+      "lemma": "terrific",
+      "pos": "adjective",
+      "ko": "무시무시한, 끔찍한",
+      "form": null,
+      "synonyms": [
+        "terrifying",
+        "dreadful"
+      ],
+      "ipa": "/təˈrɪfɪk/"
+    },
+    "has": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(현재완료) ~했다",
+      "form": "3인칭 단수",
+      "ipa": "/hæz/"
+    },
+    "ever": {
+      "lemma": "ever",
+      "pos": "adverb",
+      "ko": "지금까지, 언제든",
+      "form": null,
+      "synonyms": [
+        "at any time"
+      ],
+      "ipa": "/ˈɛvər/"
+    },
+    "fallen": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(운명으로) 닥치다, 떨어지다",
+      "form": "과거분사",
+      "synonyms": [
+        "befall",
+        "happen"
+      ],
+      "ipa": "/ˈfɑːlən/"
+    },
+    "lot": {
+      "lemma": "lot",
+      "pos": "noun",
+      "ko": "운명, 몫",
+      "form": null,
+      "synonyms": [
+        "fate",
+        "destiny"
+      ],
+      "ipa": "/lɑːt/"
+    },
+    "mortality": {
+      "lemma": "mortality",
+      "pos": "noun",
+      "ko": "죽을 운명의 존재(인간)",
+      "form": null,
+      "synonyms": [
+        "humanity",
+        "mankind"
+      ],
+      "ipa": "/mɔrˈtæləti/"
+    },
+    "frequently": {
+      "lemma": "frequently",
+      "pos": "adverb",
+      "ko": "자주",
+      "form": null,
+      "synonyms": [
+        "often",
+        "repeatedly"
+      ],
+      "ipa": "/ˈfriːkwəntli/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주",
+      "form": null,
+      "synonyms": [
+        "extremely",
+        "really"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "scarcely": {
+      "lemma": "scarcely",
+      "pos": "adverb",
+      "ko": "거의 ~않다, 좀처럼 ~않다",
+      "form": null,
+      "synonyms": [
+        "hardly",
+        "barely"
+      ],
+      "ipa": "/ˈskɛrsli/"
+    },
+    "denied": {
+      "lemma": "deny",
+      "pos": "verb",
+      "ko": "부정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "dispute",
+        "reject"
+      ],
+      "ipa": "/dɪˈnaɪd/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(those who) ~하는 사람들",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 사람",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "think": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다, 사고하다",
+      "form": null,
+      "synonyms": [
+        "reflect",
+        "reason"
+      ],
+      "ipa": "/θɪŋk/"
+    },
+    "boundaries": {
+      "lemma": "boundary",
+      "pos": "noun",
+      "ko": "경계",
+      "form": "복수형",
+      "synonyms": [
+        "border",
+        "limit"
+      ],
+      "ipa": "/ˈbaʊndəriz/"
+    },
+    "divide": {
+      "lemma": "divide",
+      "pos": "verb",
+      "ko": "나누다, 가르다",
+      "form": null,
+      "synonyms": [
+        "separate",
+        "split"
+      ],
+      "ipa": "/dɪˈvaɪd/"
+    },
+    "life": {
+      "lemma": "life",
+      "pos": "noun",
+      "ko": "삶, 생명",
+      "form": null,
+      "synonyms": [
+        "existence",
+        "living"
+      ],
+      "ipa": "/laɪf/"
+    },
+    "death": {
+      "lemma": "death",
+      "pos": "noun",
+      "ko": "죽음",
+      "form": null,
+      "synonyms": [
+        "demise",
+        "end"
+      ],
+      "ipa": "/dɛθ/"
+    },
+    "best": {
+      "lemma": "best",
+      "pos": "adjective",
+      "ko": "(at best) 기껏해야",
+      "form": "최상급",
+      "synonyms": [
+        "finest"
+      ],
+      "ipa": "/bɛst/"
+    },
+    "shadowy": {
+      "lemma": "shadowy",
+      "pos": "adjective",
+      "ko": "흐릿한, 어렴풋한",
+      "form": null,
+      "synonyms": [
+        "dim",
+        "indistinct"
+      ],
+      "ipa": "/ˈʃædoʊi/"
+    },
+    "vague": {
+      "lemma": "vague",
+      "pos": "adjective",
+      "ko": "모호한, 막연한",
+      "form": null,
+      "synonyms": [
+        "unclear",
+        "hazy"
+      ],
+      "ipa": "/veɪɡ/"
+    }
+  }
+}
