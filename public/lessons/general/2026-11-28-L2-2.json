@@ -1,0 +1,1329 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-28-L2-2",
+  "date": "2026-11-28",
+  "level": 2,
+  "title": "The Ass, the Cock, and the Lion",
+  "titleKo": "당나귀와 수탉과 사자",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 + 끝의 교훈 한 줄"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_10_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_10_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-7-fables-151-175",
+    "reader": "Mike Phillips",
+    "durationSec": 77,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 07, 10번 트랙(전체 160번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독됨"
+  },
+  "wordCount": 150,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "당나귀 한 마리와 수탉 한 마리가 가축 우리 안에 함께 있었다. 얼마 뒤 며칠 동안 굶주리던 사자 한 마리가 다가와서 막 당나귀를 덮쳐 잡아먹으려 하던 참이었는데, 그때 수탉이 몸을 한껏 곧추세우고 날개를 힘차게 퍼덕이며 엄청나게 큰 소리로 울었다. 그런데 사자를 겁먹게 하는 것이 딱 하나 있다면, 그것은 바로 수탉의 울음소리다. 그래서 이 사자도 그 소리를 듣자마자 달아났다. 당나귀는 이것을 보고 몹시 우쭐해져서, 사자가 수탉도 감당하지 못한다면 당나귀에게 맞설 가능성은 훨씬 더 적을 거라고 생각했다. 그래서 우리 밖으로 뛰쳐나가 사자를 뒤쫓았다. 그러나 둘이 수탉이 보이지도 들리지도 않는 곳까지 멀리 오자, 사자는 갑자기 당나귀에게 달려들어 그를 먹어 치워 버렸다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "잘못된 자신감은 흔히 재앙을 부른다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "An Ass and a Cock were in a cattle-pen together.",
+      "ko": "당나귀 한 마리와 수탉 한 마리가 가축 우리 안에 함께 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Presently a Lion, who had been starving for days, came along and was just about to fall upon the Ass and make a meal of him when the Cock, rising to his full height and flapping his wings vigorously, uttered a tremendous crow.",
+      "ko": "얼마 뒤 며칠 동안 굶주리던 사자 한 마리가 다가와서 막 당나귀를 덮쳐 잡아먹으려 하던 참이었는데, 그때 수탉이 몸을 한껏 곧추세우고 날개를 힘차게 퍼덕이며 엄청나게 큰 소리로 울었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "Now, if there is one thing that frightens a Lion, it is the crowing of a Cock: and this one had no sooner heard the noise than he fled.",
+      "ko": "그런데 사자를 겁먹게 하는 것이 딱 하나 있다면, 그것은 바로 수탉의 울음소리다. 그래서 이 사자도 그 소리를 듣자마자 달아났다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "The Ass was mightily elated at this, and thought that, if the Lion couldn't face a Cock, he would be still less likely to stand up to an Ass: so he ran out and pursued him.",
+      "ko": "당나귀는 이것을 보고 몹시 우쭐해져서, 사자가 수탉도 감당하지 못한다면 당나귀에게 맞설 가능성은 훨씬 더 적을 거라고 생각했다. 그래서 우리 밖으로 뛰쳐나가 사자를 뒤쫓았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p1",
+      "en": "But when the two had got well out of sight and hearing of the Cock, the Lion suddenly turned upon the Ass and ate him up.",
+      "ko": "그러나 둘이 수탉이 보이지도 들리지도 않는 곳까지 멀리 오자, 사자는 갑자기 당나귀에게 달려들어 그를 먹어 치워 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p2",
+      "en": "False confidence often leads to disaster.",
+      "ko": "잘못된 자신감은 흔히 재앙을 부른다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "be about to",
+      "pos": "phrase",
+      "meaningKo": "막 ~하려고 하다",
+      "ipa": "/bi əˈbaʊt tu/",
+      "synonyms": [
+        "be going to",
+        "be on the point of"
+      ],
+      "matchText": "was just about to",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The train was about to leave when we arrived.",
+        "ko": "우리가 도착했을 때 기차는 막 떠나려던 참이었다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "tremendous",
+      "pos": "adjective",
+      "meaningKo": "엄청난, 굉장한",
+      "ipa": "/trəˈmɛndəs/",
+      "synonyms": [
+        "huge",
+        "enormous",
+        "great"
+      ],
+      "matchText": "tremendous",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The storm made a tremendous noise.",
+        "ko": "폭풍이 엄청난 소리를 냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "elated",
+      "pos": "adjective",
+      "meaningKo": "우쭐한, 신이 난",
+      "ipa": "/ɪˈleɪtɪd/",
+      "synonyms": [
+        "overjoyed",
+        "thrilled",
+        "proud"
+      ],
+      "matchText": "elated",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She was elated at winning the prize.",
+        "ko": "그녀는 상을 받아서 무척 신이 났다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "pursue",
+      "pos": "verb",
+      "meaningKo": "뒤쫓다, 추격하다",
+      "ipa": "/pərˈsu/",
+      "synonyms": [
+        "chase",
+        "follow",
+        "run after"
+      ],
+      "matchText": "pursued",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The police pursued the thief down the street.",
+        "ko": "경찰이 거리에서 도둑을 뒤쫓았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "lead to",
+      "pos": "phrasal-verb",
+      "meaningKo": "~로 이어지다, ~을 초래하다",
+      "ipa": "/lid tu/",
+      "synonyms": [
+        "cause",
+        "result in",
+        "bring about"
+      ],
+      "matchText": "leads to",
+      "sentenceId": "s6",
+      "example": {
+        "en": "Too much screen time can lead to poor sleep.",
+        "ko": "화면을 너무 오래 보면 잠을 잘 못 자게 될 수 있다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Presently",
+          "role": "M",
+          "sub": false,
+          "ko": "얼마 뒤"
+        },
+        {
+          "text": "a Lion,",
+          "role": "S",
+          "sub": false,
+          "ko": "사자 한 마리가,"
+        },
+        {
+          "text": "who",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그런데 그 사자는"
+        },
+        {
+          "text": "had been starving",
+          "role": "V",
+          "sub": true,
+          "ko": "굶주려 왔다"
+        },
+        {
+          "text": "for days,",
+          "role": "M",
+          "sub": true,
+          "ko": "며칠 동안,"
+        },
+        {
+          "text": "came along",
+          "role": "V",
+          "sub": false,
+          "ko": "다가왔다"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "was just about to fall upon",
+          "role": "V",
+          "sub": false,
+          "ko": "막 덮치려던 참이었다"
+        },
+        {
+          "text": "the Ass",
+          "role": "O",
+          "sub": false,
+          "ko": "당나귀를"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "make a meal of",
+          "role": "V",
+          "sub": false,
+          "ko": "잡아먹으려던"
+        },
+        {
+          "text": "him",
+          "role": "O",
+          "sub": false,
+          "ko": "그를"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그때"
+        },
+        {
+          "text": "the Cock,",
+          "role": "S",
+          "sub": true,
+          "ko": "수탉이,"
+        },
+        {
+          "text": "rising to his full height",
+          "role": "M",
+          "sub": true,
+          "ko": "몸을 한껏 곧추세우고"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "flapping his wings vigorously,",
+          "role": "M",
+          "sub": true,
+          "ko": "날개를 힘차게 퍼덕이며,"
+        },
+        {
+          "text": "uttered",
+          "role": "V",
+          "sub": true,
+          "ko": "내질렀다"
+        },
+        {
+          "text": "a tremendous crow.",
+          "role": "O",
+          "sub": true,
+          "ko": "엄청난 울음소리를."
+        }
+      ],
+      "skeleton": "a Lion came along and was about to fall upon the Ass when the Cock uttered a tremendous crow.",
+      "explanation": "긴 문장이지만 뼈대는 '사자가 와서 막 당나귀를 덮치려던 참이었는데(was about to ~), 그때(when) 수탉이 크게 울었다'예요. 쉼표 사이 who had been starving for days는 사자를 설명하는 관계대명사절이에요. when절 안의 rising ~, flapping ~은 수탉이 울면서 동시에 한 동작을 보여 주는 분사구문이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "Now,",
+          "role": "M",
+          "sub": false,
+          "ko": "그런데,"
+        },
+        {
+          "text": "if",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "만약 ~라면"
+        },
+        {
+          "text": "there is",
+          "role": "V",
+          "sub": true,
+          "ko": "있다"
+        },
+        {
+          "text": "one thing",
+          "role": "S",
+          "sub": true,
+          "ko": "한 가지가"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~하는"
+        },
+        {
+          "text": "frightens",
+          "role": "V",
+          "sub": true,
+          "ko": "겁먹게 하다"
+        },
+        {
+          "text": "a Lion,",
+          "role": "O",
+          "sub": true,
+          "ko": "사자를,"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": false,
+          "ko": "그것은"
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "sub": false,
+          "ko": "~이다"
+        },
+        {
+          "text": "the crowing of a Cock:",
+          "role": "C",
+          "sub": false,
+          "ko": "수탉의 울음소리:"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "this one",
+          "role": "S",
+          "sub": false,
+          "ko": "이 사자는"
+        },
+        {
+          "text": "had no sooner heard",
+          "role": "V",
+          "sub": false,
+          "ko": "듣자마자"
+        },
+        {
+          "text": "the noise",
+          "role": "O",
+          "sub": false,
+          "ko": "그 소리를"
+        },
+        {
+          "text": "than",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "곧바로"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "sub": true,
+          "ko": "그는"
+        },
+        {
+          "text": "fled.",
+          "role": "V",
+          "sub": true,
+          "ko": "달아났다."
+        }
+      ],
+      "skeleton": "it is the crowing of a Cock: and this one had no sooner heard the noise than he fled.",
+      "explanation": "'If there is one thing that ~, it is …'는 '~하는 것이 딱 하나 있다면 그건 바로 …이다'라는 강조 표현이에요. 쌍점 뒤 'had no sooner + 과거분사 + than + 과거형'은 '~하자마자 …했다'는 뜻이에요. this one은 this Lion(이 사자)을 가리켜요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "과거완료진행형 (had been -ing)",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s2",
+      "highlight": [
+        "had been starving"
+      ],
+      "explanation": "had been starving은 과거완료진행형으로, 사자가 나타난 그 시점(과거)보다 더 앞에서부터 계속 굶주려 왔다는 뜻이에요. for days(며칠 동안)와 함께 쓰여 '며칠째 굶고 있던'으로 해석해요.",
+      "example": {
+        "en": "She had been waiting for an hour when the bus came.",
+        "ko": "버스가 왔을 때 그녀는 한 시간째 기다리고 있었다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "no sooner A than B (A하자마자 B하다)",
+      "tags": [
+        "접속사",
+        "시제"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "had no sooner heard",
+        "than he fled"
+      ],
+      "explanation": "'주어 + had no sooner + 과거분사 + than + 주어 + 과거형'은 'A하자마자 B했다'는 뜻이에요. 먼저 일어난 일(heard)은 과거완료, 바로 뒤이은 일(fled)은 과거형으로 써요. as soon as로 바꾸면 As soon as he heard the noise, he fled.",
+      "example": {
+        "en": "I had no sooner sat down than the phone rang.",
+        "ko": "내가 앉자마자 전화가 울렸다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "still less (훨씬 더 ~하지 않은)",
+      "tags": [
+        "비교"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "still less likely"
+      ],
+      "explanation": "less likely는 '~할 가능성이 더 적은'이라는 비교급이고, still이 비교급 앞에서 '훨씬'이라고 강조해요. 당나귀는 '사자가 작은 수탉도 못 당하니, 덩치 큰 당나귀에게 맞설 가능성은 훨씬 더 적겠지'라고 잘못 생각한 거예요.",
+      "example": {
+        "en": "He can't swim, still less dive.",
+        "ko": "그는 수영도 못하는데, 잠수는 더더욱 못한다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 어떤 (모음 앞 부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ass": {
+      "lemma": "ass",
+      "pos": "noun",
+      "ko": "당나귀",
+      "form": null,
+      "synonyms": [
+        "donkey"
+      ],
+      "ipa": "/æs/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "cock": {
+      "lemma": "cock",
+      "pos": "noun",
+      "ko": "수탉",
+      "form": null,
+      "synonyms": [
+        "rooster"
+      ],
+      "ipa": "/kɑːk/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "cattle-pen": {
+      "lemma": "cattle-pen",
+      "pos": "noun",
+      "ko": "가축 우리",
+      "form": null,
+      "synonyms": [
+        "pen",
+        "fold",
+        "corral"
+      ],
+      "ipa": "/ˈkætəl-pɛn/"
+    },
+    "together": {
+      "lemma": "together",
+      "pos": "adverb",
+      "ko": "함께",
+      "form": null,
+      "synonyms": [
+        "jointly",
+        "side by side"
+      ],
+      "ipa": "/təˈɡɛðər/"
+    },
+    "presently": {
+      "lemma": "presently",
+      "pos": "adverb",
+      "ko": "곧, 얼마 뒤",
+      "form": null,
+      "synonyms": [
+        "soon",
+        "shortly"
+      ],
+      "ipa": "/ˈprɛzəntli/"
+    },
+    "lion": {
+      "lemma": "lion",
+      "pos": "noun",
+      "ko": "사자",
+      "form": null,
+      "synonyms": [
+        "big cat"
+      ],
+      "ipa": "/ˈlaɪən/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그런데 그는",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(had been -ing) 계속 ~하고 있었다",
+      "form": "과거분사",
+      "ipa": "/bɪn/"
+    },
+    "starving": {
+      "lemma": "starve",
+      "pos": "verb",
+      "ko": "굶주리고 있는",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "hungering",
+        "famished"
+      ],
+      "ipa": "/ˈstɑːrvɪŋ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날들, 며칠",
+      "form": "복수형",
+      "synonyms": [
+        "a long time"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "came": {
+      "lemma": "come",
+      "pos": "verb",
+      "ko": "왔다",
+      "form": "과거형",
+      "synonyms": [
+        "arrived",
+        "approached"
+      ],
+      "ipa": "/keɪm/"
+    },
+    "along": {
+      "lemma": "along",
+      "pos": "adverb",
+      "ko": "(come along) 다가오다, 나타나다",
+      "form": null,
+      "ipa": "/əˈlɔːŋ/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다, 있었다",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "just": {
+      "lemma": "just",
+      "pos": "adverb",
+      "ko": "막, 방금; 그냥",
+      "form": null,
+      "synonyms": [
+        "only",
+        "simply"
+      ],
+      "ipa": "/dʒʌst/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adjective",
+      "ko": "(be about to) 막 ~하려는",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하려고; ~에게, ~로",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "fall": {
+      "lemma": "fall",
+      "pos": "verb",
+      "ko": "(fall upon) ~을 덮치다",
+      "form": null,
+      "synonyms": [
+        "attack",
+        "pounce"
+      ],
+      "ipa": "/fɔːl/"
+    },
+    "upon": {
+      "lemma": "upon",
+      "pos": "preposition",
+      "ko": "~ 위에, ~을 (덮쳐)",
+      "form": null,
+      "ipa": "/əˈpɑːn/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다, 하다",
+      "form": null,
+      "synonyms": [
+        "do",
+        "create"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "meal": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사, 한 끼 (make a meal of: 잡아먹다)",
+      "form": null,
+      "synonyms": [
+        "dinner",
+        "food"
+      ],
+      "ipa": "/miːl/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; (make a meal of) ~을 잡아먹다; (out of) ~에서 벗어나",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "rising": {
+      "lemma": "rise",
+      "pos": "verb",
+      "ko": "일어서며, 곧추서며",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "standing",
+        "rearing"
+      ],
+      "ipa": "/ˈraɪzɪŋ/"
+    },
+    "his": {
+      "lemma": "his",
+      "pos": "pronoun",
+      "ko": "그의",
+      "form": "소유격",
+      "ipa": "/hɪz/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "최대의, 완전한",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "whole"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "height": {
+      "lemma": "height",
+      "pos": "noun",
+      "ko": "키, 높이",
+      "form": null,
+      "synonyms": [
+        "stature",
+        "tallness"
+      ],
+      "ipa": "/haɪt/"
+    },
+    "flapping": {
+      "lemma": "flap",
+      "pos": "verb",
+      "ko": "퍼덕이며",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beating",
+        "fluttering",
+        "waving"
+      ],
+      "ipa": "/ˈflæpɪŋ/"
+    },
+    "wings": {
+      "lemma": "wing",
+      "pos": "noun",
+      "ko": "날개들",
+      "form": "복수형",
+      "synonyms": [
+        "pinions"
+      ],
+      "ipa": "/wɪŋz/"
+    },
+    "vigorously": {
+      "lemma": "vigorously",
+      "pos": "adverb",
+      "ko": "힘차게, 세차게",
+      "form": null,
+      "synonyms": [
+        "strongly",
+        "energetically",
+        "hard"
+      ],
+      "ipa": "/ˈvɪɡərəsli/"
+    },
+    "uttered": {
+      "lemma": "utter",
+      "pos": "verb",
+      "ko": "(소리를) 냈다, 내질렀다",
+      "form": "과거형",
+      "synonyms": [
+        "gave",
+        "let out",
+        "voiced"
+      ],
+      "ipa": "/ˈʌtərd/"
+    },
+    "tremendous": {
+      "lemma": "tremendous",
+      "pos": "adjective",
+      "ko": "엄청난, 굉장한",
+      "form": null,
+      "synonyms": [
+        "huge",
+        "enormous",
+        "great"
+      ],
+      "ipa": "/trəˈmɛndəs/"
+    },
+    "crow": {
+      "lemma": "crow",
+      "pos": "noun",
+      "ko": "(수탉의) 울음소리",
+      "form": null,
+      "synonyms": [
+        "cry",
+        "call"
+      ],
+      "ipa": "/kroʊ/"
+    },
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "그런데, 자 (이야기를 이을 때)",
+      "form": null,
+      "ipa": "/naʊ/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~라면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에; (there is) ~이 있다",
+      "form": null,
+      "ipa": "/ðɛr/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "3인칭 단수 현재",
+      "ipa": "/ɪz/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "하나, 한 마리",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "thing": {
+      "lemma": "thing",
+      "pos": "noun",
+      "ko": "것, 존재",
+      "form": null,
+      "synonyms": [
+        "object",
+        "creature"
+      ],
+      "ipa": "/θɪŋ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는; (접속사) ~라고",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "frightens": {
+      "lemma": "frighten",
+      "pos": "verb",
+      "ko": "겁먹게 하다",
+      "form": "3인칭 단수 현재",
+      "synonyms": [
+        "scares",
+        "terrifies",
+        "alarms"
+      ],
+      "ipa": "/ˈfraɪtənz/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "crowing": {
+      "lemma": "crowing",
+      "pos": "noun",
+      "ko": "(수탉의) 울음소리",
+      "form": null,
+      "synonyms": [
+        "call",
+        "cry"
+      ],
+      "ipa": "/ˈkroʊɪŋ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "pronoun",
+      "ko": "이것; 이",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "determiner",
+      "ko": "어떤 ~도 없는",
+      "form": null,
+      "ipa": "/noʊ/"
+    },
+    "sooner": {
+      "lemma": "soon",
+      "pos": "adverb",
+      "ko": "(no sooner ~ than) ~하자마자",
+      "form": "비교급",
+      "synonyms": [
+        "earlier"
+      ],
+      "ipa": "/ˈsuːnər/"
+    },
+    "heard": {
+      "lemma": "hear",
+      "pos": "verb",
+      "ko": "들었다",
+      "form": "과거분사",
+      "synonyms": [
+        "caught",
+        "listened to"
+      ],
+      "ipa": "/hɜːrd/"
+    },
+    "noise": {
+      "lemma": "noise",
+      "pos": "noun",
+      "ko": "소리, 소음",
+      "form": null,
+      "synonyms": [
+        "sound",
+        "din"
+      ],
+      "ipa": "/nɔɪz/"
+    },
+    "than": {
+      "lemma": "than",
+      "pos": "conjunction",
+      "ko": "~보다",
+      "form": null,
+      "ipa": "/ðæn/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (수컷)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "fled": {
+      "lemma": "flee",
+      "pos": "verb",
+      "ko": "달아났다",
+      "form": "과거형",
+      "synonyms": [
+        "ran away",
+        "escaped",
+        "bolted"
+      ],
+      "ipa": "/flɛd/"
+    },
+    "mightily": {
+      "lemma": "mightily",
+      "pos": "adverb",
+      "ko": "몹시, 대단히",
+      "form": null,
+      "synonyms": [
+        "greatly",
+        "extremely",
+        "hugely"
+      ],
+      "ipa": "/ˈmaɪtəli/"
+    },
+    "elated": {
+      "lemma": "elated",
+      "pos": "adjective",
+      "ko": "우쭐한, 신이 난",
+      "form": null,
+      "synonyms": [
+        "overjoyed",
+        "thrilled",
+        "proud"
+      ],
+      "ipa": "/ɪˈleɪtəd/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에 (대해), ~을 보고",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각했다",
+      "form": "과거형",
+      "synonyms": [
+        "believed",
+        "supposed",
+        "reckoned"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "couldn't": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없었다",
+      "form": "could not 줄임말",
+      "ipa": "/ˈkʊdənt/"
+    },
+    "face": {
+      "lemma": "face",
+      "pos": "verb",
+      "ko": "맞서다, 감당하다",
+      "form": null,
+      "synonyms": [
+        "confront",
+        "meet",
+        "stand up to"
+      ],
+      "ipa": "/feɪs/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다 (과거 시점에서 본 미래)",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "(비교급 앞) 훨씬 더; 여전히",
+      "form": null,
+      "synonyms": [
+        "even",
+        "yet"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "less": {
+      "lemma": "less",
+      "pos": "adverb",
+      "ko": "덜, 더 적게",
+      "form": "비교급",
+      "synonyms": [
+        "not so"
+      ],
+      "ipa": "/lɛs/"
+    },
+    "likely": {
+      "lemma": "likely",
+      "pos": "adjective",
+      "ko": "~할 것 같은",
+      "form": null,
+      "synonyms": [
+        "apt",
+        "probable",
+        "liable"
+      ],
+      "ipa": "/ˈlaɪkli/"
+    },
+    "stand": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서다; 견디다",
+      "form": null,
+      "synonyms": [
+        "bear",
+        "endure"
+      ],
+      "ipa": "/stænd/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(stand up to) ~에 맞서; (eat up) 다 먹어 치우다",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "ran": {
+      "lemma": "run",
+      "pos": "verb",
+      "ko": "달렸다",
+      "form": "과거형",
+      "synonyms": [
+        "rushed",
+        "dashed",
+        "sprinted"
+      ],
+      "ipa": "/ræn/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로",
+      "form": null,
+      "ipa": "/aʊt/"
+    },
+    "pursued": {
+      "lemma": "pursue",
+      "pos": "verb",
+      "ko": "뒤쫓았다",
+      "form": "과거형",
+      "synonyms": [
+        "chased",
+        "followed"
+      ],
+      "ipa": "/pərˈsuːd/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "got": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(어떤 상태에) 이르렀다, 가게 되었다",
+      "form": "과거분사",
+      "synonyms": [
+        "went",
+        "moved"
+      ],
+      "ipa": "/ɡɑːt/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "훨씬, 완전히 (well out of: 멀리 벗어나)",
+      "form": null,
+      "synonyms": [
+        "far",
+        "fully"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "sight": {
+      "lemma": "sight",
+      "pos": "noun",
+      "ko": "시야 (out of sight: 보이지 않는 곳에)",
+      "form": null,
+      "synonyms": [
+        "view",
+        "vision"
+      ],
+      "ipa": "/saɪt/"
+    },
+    "hearing": {
+      "lemma": "hearing",
+      "pos": "noun",
+      "ko": "들리는 거리, 청각",
+      "form": null,
+      "synonyms": [
+        "earshot",
+        "hearing range"
+      ],
+      "ipa": "/ˈhiːrɪŋ/"
+    },
+    "suddenly": {
+      "lemma": "suddenly",
+      "pos": "adverb",
+      "ko": "갑자기",
+      "form": null,
+      "synonyms": [
+        "all at once",
+        "abruptly"
+      ],
+      "ipa": "/ˈsʌdənli/"
+    },
+    "turned": {
+      "lemma": "turn",
+      "pos": "verb",
+      "ko": "(turn upon) ~에게 덤벼들었다",
+      "form": "과거형",
+      "synonyms": [
+        "attacked",
+        "rounded on"
+      ],
+      "ipa": "/tɜːrnd/"
+    },
+    "ate": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹었다",
+      "form": "과거형",
+      "synonyms": [
+        "devoured",
+        "consumed"
+      ],
+      "ipa": "/eɪt/"
+    },
+    "false": {
+      "lemma": "false",
+      "pos": "adjective",
+      "ko": "잘못된, 그릇된",
+      "form": null,
+      "synonyms": [
+        "mistaken",
+        "wrong",
+        "misplaced"
+      ],
+      "ipa": "/fɔːls/"
+    },
+    "confidence": {
+      "lemma": "confidence",
+      "pos": "noun",
+      "ko": "자신감",
+      "form": null,
+      "synonyms": [
+        "self-assurance",
+        "boldness"
+      ],
+      "ipa": "/ˈkɑːnfədəns/"
+    },
+    "often": {
+      "lemma": "often",
+      "pos": "adverb",
+      "ko": "흔히, 자주",
+      "form": null,
+      "synonyms": [
+        "frequently",
+        "usually"
+      ],
+      "ipa": "/ˈɔːfən/"
+    },
+    "leads": {
+      "lemma": "lead",
+      "pos": "verb",
+      "ko": "(lead to) ~로 이어지다",
+      "form": "3인칭 단수 현재",
+      "synonyms": [
+        "results",
+        "brings"
+      ],
+      "ipa": "/liːdz/"
+    },
+    "disaster": {
+      "lemma": "disaster",
+      "pos": "noun",
+      "ko": "재앙, 큰 불행",
+      "form": null,
+      "synonyms": [
+        "catastrophe",
+        "ruin",
+        "calamity"
+      ],
+      "ipa": "/dɪˈzæstər/"
+    }
+  }
+}

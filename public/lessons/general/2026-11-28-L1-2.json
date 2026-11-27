@@ -1,0 +1,1223 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-28-L1-2",
+  "date": "2026-11-28",
+  "level": 1,
+  "title": "The Cat and the Cock",
+  "titleKo": "고양이와 수탉",
+  "genre": "fable",
+  "tags": [
+    "Aesop",
+    "fable"
+  ],
+  "source": {
+    "work": "Aesop's Fables",
+    "author": "Aesop",
+    "translator": "V. S. Vernon Jones",
+    "year": 1912,
+    "edition": "Project Gutenberg #11339",
+    "url": "https://gutenberg.org/files/11339/11339-h/11339-h.htm",
+    "license": "public-domain",
+    "excerptNote": "본문 전체 + 끝의 교훈 한 줄"
+  },
+  "audio": {
+    "mp3": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_16_aesop.mp3",
+    "mp3Low": "https://archive.org/download/aesop_fables_volume_five_librivox/fables_05_16_aesop_64kb.mp3",
+    "pageUrl": "https://librivox.org/aesops-fables-volume-5-fables-101-125",
+    "reader": "Christine Dewar",
+    "durationSec": 72,
+    "startSec": null,
+    "endSec": null,
+    "note": "Aesop's Fables Vol. 05, 16번 트랙(전체 116번 우화). 앞부분에 LibriVox 안내 멘트가 있음. 끝에 교훈 한 줄이 함께 낭독됨"
+  },
+  "wordCount": 135,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "고양이 한 마리가 수탉에게 덤벼들었고, 그를 잡아먹을 그럴듯한 핑계를 찾느라 궁리했다. 고양이는 대개 수탉을 먹지 않고, 그녀도 그래서는 안 된다는 것을 알고 있었기 때문이다. 마침내 고양이가 말했다. \"너는 밤에 울어 대서 사람들을 깨어 있게 만들어 큰 골칫거리야. 그래서 내가 너를 끝장내야겠어.\" 그러나 수탉은, 자기가 우는 것은 사람들이 일어나 제때 하루 일을 시작하게 하려는 것이며, 사람들은 정말로 자기 없이는 잘 지낼 수 없다고 말하며 자신을 변호했다. \"그럴지도 모르지.\" 고양이가 말했다. \"하지만 사람들이 그럴 수 있든 없든, 나는 저녁을 굶지는 않을 거야.\" 그러고는 수탉을 죽여서 먹어 버렸다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "그럴듯한 핑계가 없다고 해서 악당이 나쁜 짓을 그만둔 적은 없다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "A Cat pounced on a Cock, and cast about for some good excuse for making a meal off him, for Cats don't as a rule eat Cocks, and she knew she ought not to.",
+      "ko": "고양이 한 마리가 수탉에게 덤벼들었고, 그를 잡아먹을 그럴듯한 핑계를 찾느라 궁리했다. 고양이는 대개 수탉을 먹지 않고, 그녀도 그래서는 안 된다는 것을 알고 있었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "At last she said, \"You make a great nuisance of yourself at night by crowing and keeping people awake: so I am going to make an end of you.\"",
+      "ko": "마침내 고양이가 말했다. \"너는 밤에 울어 대서 사람들을 깨어 있게 만들어 큰 골칫거리야. 그래서 내가 너를 끝장내야겠어.\"",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p1",
+      "en": "But the Cock defended himself by saying that he crowed in order that men might wake up and set about the day's work in good time, and that they really couldn't very well do without him.",
+      "ko": "그러나 수탉은, 자기가 우는 것은 사람들이 일어나 제때 하루 일을 시작하게 하려는 것이며, 사람들은 정말로 자기 없이는 잘 지낼 수 없다고 말하며 자신을 변호했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p1",
+      "en": "\"That may be,\" said the Cat, \"but whether they can or not, I'm not going without my dinner\"; and she killed and ate him.",
+      "ko": "\"그럴지도 모르지.\" 고양이가 말했다. \"하지만 사람들이 그럴 수 있든 없든, 나는 저녁을 굶지는 않을 거야.\" 그러고는 수탉을 죽여서 먹어 버렸다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "The want of a good excuse never kept a villain from crime.",
+      "ko": "그럴듯한 핑계가 없다고 해서 악당이 나쁜 짓을 그만둔 적은 없다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "excuse",
+      "pos": "noun",
+      "meaningKo": "핑계, 변명",
+      "ipa": "/ɪkˈskjus/",
+      "synonyms": [
+        "reason",
+        "pretext"
+      ],
+      "matchText": "excuse",
+      "sentenceId": "s1",
+      "example": {
+        "en": "He always has an excuse for being late.",
+        "ko": "그는 늦을 때마다 늘 핑계가 있다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "as a rule",
+      "pos": "idiom",
+      "meaningKo": "대개, 일반적으로",
+      "ipa": "/æz ə rul/",
+      "synonyms": [
+        "usually",
+        "generally",
+        "normally"
+      ],
+      "matchText": "as a rule",
+      "sentenceId": "s1",
+      "example": {
+        "en": "As a rule, I go to bed before eleven.",
+        "ko": "나는 대개 11시 전에 잠자리에 든다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "make an end of",
+      "pos": "phrase",
+      "meaningKo": "~을 끝장내다, 없애다",
+      "ipa": "/meɪk ən ɛnd ʌv/",
+      "synonyms": [
+        "get rid of",
+        "finish off"
+      ],
+      "matchText": "make an end of",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Let's make an end of this argument.",
+        "ko": "이 말다툼을 이제 끝내자."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "defend",
+      "pos": "verb",
+      "meaningKo": "변호하다, 지키다",
+      "ipa": "/dɪˈfɛnd/",
+      "synonyms": [
+        "protect",
+        "justify"
+      ],
+      "matchText": "defended",
+      "sentenceId": "s3",
+      "example": {
+        "en": "She defended her friend in front of the teacher.",
+        "ko": "그녀는 선생님 앞에서 친구를 변호했다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "do without",
+      "pos": "phrasal-verb",
+      "meaningKo": "~ 없이 지내다",
+      "ipa": "/du wɪˈðaʊt/",
+      "synonyms": [
+        "manage without",
+        "go without"
+      ],
+      "matchText": "do without",
+      "sentenceId": "s3",
+      "example": {
+        "en": "I can't do without my phone.",
+        "ko": "나는 휴대폰 없이는 못 지낸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "At last",
+          "role": "M",
+          "sub": false,
+          "ko": "마침내"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "said,",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다,"
+        },
+        {
+          "text": "\"You",
+          "role": "S",
+          "sub": false,
+          "ko": "\"너는"
+        },
+        {
+          "text": "make",
+          "role": "V",
+          "sub": false,
+          "ko": "만든다"
+        },
+        {
+          "text": "a great nuisance",
+          "role": "O",
+          "sub": false,
+          "ko": "큰 골칫거리로"
+        },
+        {
+          "text": "of yourself",
+          "role": "M",
+          "sub": false,
+          "ko": "너 자신을"
+        },
+        {
+          "text": "at night",
+          "role": "M",
+          "sub": false,
+          "ko": "밤에"
+        },
+        {
+          "text": "by crowing and keeping people awake:",
+          "role": "M",
+          "sub": false,
+          "ko": "울어 대고 사람들을 깨어 있게 함으로써:"
+        },
+        {
+          "text": "so",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그래서"
+        },
+        {
+          "text": "I",
+          "role": "S",
+          "sub": false,
+          "ko": "나는"
+        },
+        {
+          "text": "am going to make",
+          "role": "V",
+          "sub": false,
+          "ko": "만들 것이다"
+        },
+        {
+          "text": "an end",
+          "role": "O",
+          "sub": false,
+          "ko": "끝을"
+        },
+        {
+          "text": "of you.\"",
+          "role": "M",
+          "sub": false,
+          "ko": "너의\""
+        }
+      ],
+      "skeleton": "You make a great nuisance of yourself: so I am going to make an end of you.",
+      "explanation": "make a nuisance of oneself는 '스스로 골칫거리가 되다(남을 성가시게 하다)'라는 표현이에요. by + -ing(crowing, keeping)는 '~함으로써'라는 방법을 나타내요. keep people awake는 'keep + 목적어 + 형용사' 형태로 '사람들을 깨어 있게 하다'예요. 쌍점(:) 뒤 so 이하가 결론이에요."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s4",
+      "chunks": [
+        {
+          "text": "\"That",
+          "role": "S",
+          "sub": false,
+          "ko": "\"그것은"
+        },
+        {
+          "text": "may be,\"",
+          "role": "V",
+          "sub": false,
+          "ko": "그럴지도 모른다,\""
+        },
+        {
+          "text": "said",
+          "role": "V",
+          "sub": false,
+          "ko": "말했다"
+        },
+        {
+          "text": "the Cat,",
+          "role": "S",
+          "sub": false,
+          "ko": "고양이가,"
+        },
+        {
+          "text": "\"but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "\"하지만"
+        },
+        {
+          "text": "whether",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "~든"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "can or not,",
+          "role": "V",
+          "sub": true,
+          "ko": "할 수 있든 없든,"
+        },
+        {
+          "text": "I'm not going without",
+          "role": "V",
+          "sub": false,
+          "ko": "~ 없이 지내지 않을 것이다"
+        },
+        {
+          "text": "my dinner\";",
+          "role": "O",
+          "sub": false,
+          "ko": "내 저녁을\";"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "she",
+          "role": "S",
+          "sub": false,
+          "ko": "그녀는"
+        },
+        {
+          "text": "killed and ate",
+          "role": "V",
+          "sub": false,
+          "ko": "죽이고 먹었다"
+        },
+        {
+          "text": "him.",
+          "role": "O",
+          "sub": false,
+          "ko": "그를."
+        }
+      ],
+      "skeleton": "I'm not going without my dinner; and she killed and ate him.",
+      "explanation": "said the Cat처럼 따옴표 사이에서는 동사가 주어보다 먼저 오기도 해요. whether they can or not은 '그들이 할 수 있든 없든'이라는 양보의 부사절이에요. go without은 '~ 없이 지내다(굶다)'라는 뜻이고, 여기서는 현재진행형(I'm not going)으로 강한 의지(~하지 않을 거야)를 나타내요."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "ought (not) to (~해야 한다 / ~해서는 안 된다)",
+      "tags": [
+        "조동사",
+        "생략"
+      ],
+      "sentenceId": "s1",
+      "highlight": [
+        "ought not to"
+      ],
+      "explanation": "ought to는 should와 비슷하게 '~해야 한다'는 뜻이고, 부정은 ought not to예요. 원래는 ought not to eat him인데, 앞에 이미 나온 eat ~을 반복하지 않으려고 to 뒤를 생략했어요.",
+      "example": {
+        "en": "You ought not to stay up so late.",
+        "ko": "너는 그렇게 늦게까지 깨어 있어서는 안 된다."
+      },
+      "note": null
+    },
+    {
+      "id": "g2",
+      "title": "in order that + 주어 + might (~하도록)",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "in order that men might wake up"
+      ],
+      "explanation": "in order that ~은 '~하도록, ~하기 위해'라는 목적을 나타내는 접속사예요. 뒤에는 '주어 + may/might/can + 동사원형'이 와요. 오늘날에는 so that을 더 자주 써요.",
+      "example": {
+        "en": "I spoke slowly in order that everyone might understand.",
+        "ko": "나는 모두가 이해할 수 있도록 천천히 말했다."
+      },
+      "note": null
+    },
+    {
+      "id": "g3",
+      "title": "by + -ing (~함으로써)",
+      "tags": [
+        "동명사",
+        "전치사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "by saying"
+      ],
+      "explanation": "전치사 by 뒤에 동명사(-ing)가 오면 '~함으로써, ~하면서'라는 방법을 나타내요. defended himself by saying ~은 '~라고 말함으로써 자신을 변호했다'예요.",
+      "example": {
+        "en": "She learned English by watching movies.",
+        "ko": "그녀는 영화를 보면서 영어를 배웠다."
+      },
+      "note": null
+    }
+  ],
+  "glossary": {
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "한, 어떤 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "cat": {
+      "lemma": "cat",
+      "pos": "noun",
+      "ko": "고양이",
+      "form": null,
+      "synonyms": [
+        "kitty"
+      ],
+      "ipa": "/kæt/"
+    },
+    "pounced": {
+      "lemma": "pounce",
+      "pos": "verb",
+      "ko": "덤벼들었다, 와락 덮쳤다",
+      "form": "과거형",
+      "synonyms": [
+        "leaped",
+        "sprang",
+        "jumped"
+      ],
+      "ipa": "/paʊnst/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에게, ~ 위로",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "cock": {
+      "lemma": "cock",
+      "pos": "noun",
+      "ko": "수탉",
+      "form": null,
+      "synonyms": [
+        "rooster"
+      ],
+      "ipa": "/kɑːk/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "cast": {
+      "lemma": "cast",
+      "pos": "verb",
+      "ko": "(cast about for) ~을 찾아 궁리하다",
+      "form": "과거형",
+      "synonyms": [
+        "searched",
+        "looked"
+      ],
+      "ipa": "/kæst/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "adverb",
+      "ko": "(cast about) 이리저리 (찾아)",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 (찾아); ~때문에",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "some": {
+      "lemma": "some",
+      "pos": "determiner",
+      "ko": "어떤, 약간의",
+      "form": null,
+      "ipa": "/sʌm/"
+    },
+    "good": {
+      "lemma": "good",
+      "pos": "adjective",
+      "ko": "좋은, 그럴듯한",
+      "form": null,
+      "synonyms": [
+        "fine",
+        "proper"
+      ],
+      "ipa": "/ɡʊd/"
+    },
+    "excuse": {
+      "lemma": "excuse",
+      "pos": "noun",
+      "ko": "핑계, 변명",
+      "form": null,
+      "synonyms": [
+        "reason",
+        "pretext"
+      ],
+      "ipa": "/ɪksˈkjuːs/"
+    },
+    "making": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "(make a meal off) ~을 잡아먹기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "having"
+      ],
+      "ipa": "/ˈmeɪkɪŋ/"
+    },
+    "meal": {
+      "lemma": "meal",
+      "pos": "noun",
+      "ko": "식사, 한 끼 (make a meal of: 잡아먹다)",
+      "form": null,
+      "synonyms": [
+        "dinner",
+        "food"
+      ],
+      "ipa": "/miːl/"
+    },
+    "off": {
+      "lemma": "off",
+      "pos": "preposition",
+      "ko": "~을 (먹고)",
+      "form": null,
+      "ipa": "/ɔːf/"
+    },
+    "him": {
+      "lemma": "him",
+      "pos": "pronoun",
+      "ko": "그를, 그에게",
+      "form": "목적격",
+      "ipa": "/hɪm/"
+    },
+    "cats": {
+      "lemma": "cat",
+      "pos": "noun",
+      "ko": "고양이들",
+      "form": "복수형",
+      "synonyms": [
+        "felines"
+      ],
+      "ipa": "/kæts/"
+    },
+    "don't": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "~하지 않다; ~하지 마라",
+      "form": "do not 줄임말",
+      "ipa": "/doʊnt/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "preposition",
+      "ko": "(as a rule) 대개",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "rule": {
+      "lemma": "rule",
+      "pos": "noun",
+      "ko": "규칙, 관례 (as a rule: 대개)",
+      "form": null,
+      "synonyms": [
+        "custom",
+        "habit"
+      ],
+      "ipa": "/ruːl/"
+    },
+    "eat": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹다",
+      "form": null,
+      "synonyms": [
+        "consume",
+        "devour"
+      ],
+      "ipa": "/iːt/"
+    },
+    "cocks": {
+      "lemma": "cock",
+      "pos": "noun",
+      "ko": "수탉들",
+      "form": "복수형",
+      "synonyms": [
+        "roosters"
+      ],
+      "ipa": "/kɑːks/"
+    },
+    "she": {
+      "lemma": "she",
+      "pos": "pronoun",
+      "ko": "그녀 (여성/암컷)",
+      "form": null,
+      "ipa": "/ʃiː/"
+    },
+    "knew": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알았다",
+      "form": "과거형",
+      "synonyms": [
+        "understood",
+        "realized"
+      ],
+      "ipa": "/nuː/"
+    },
+    "ought": {
+      "lemma": "ought",
+      "pos": "auxiliary",
+      "ko": "(ought to) ~해야 한다",
+      "form": null,
+      "ipa": "/ɔːt/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 아니다, ~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~하기 (to부정사); (ought to) ~해야 한다",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "noun",
+      "ko": "(at last) 마침내",
+      "form": null,
+      "synonyms": [
+        "end"
+      ],
+      "ipa": "/læst/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말했다",
+      "form": "과거형",
+      "synonyms": [
+        "spoke",
+        "told"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "너, 당신",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "make": {
+      "lemma": "make",
+      "pos": "verb",
+      "ko": "만들다, 하다",
+      "form": null,
+      "synonyms": [
+        "do",
+        "create"
+      ],
+      "ipa": "/meɪk/"
+    },
+    "great": {
+      "lemma": "great",
+      "pos": "adjective",
+      "ko": "큰, 대단한",
+      "form": null,
+      "synonyms": [
+        "big",
+        "huge"
+      ],
+      "ipa": "/ɡreɪt/"
+    },
+    "nuisance": {
+      "lemma": "nuisance",
+      "pos": "noun",
+      "ko": "골칫거리, 성가신 존재",
+      "form": null,
+      "synonyms": [
+        "bother",
+        "pest",
+        "annoyance"
+      ],
+      "ipa": "/ˈnuːsəns/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; (make a nuisance of oneself) 스스로 ~이 되다",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "yourself": {
+      "lemma": "yourself",
+      "pos": "pronoun",
+      "ko": "너 자신(을)",
+      "form": "재귀대명사",
+      "ipa": "/jərˈsɛlf/"
+    },
+    "night": {
+      "lemma": "night",
+      "pos": "noun",
+      "ko": "밤",
+      "form": null,
+      "synonyms": [
+        "nighttime",
+        "dark"
+      ],
+      "ipa": "/naɪt/"
+    },
+    "by": {
+      "lemma": "by",
+      "pos": "preposition",
+      "ko": "~에 의해, ~함으로써",
+      "form": null,
+      "ipa": "/baɪ/"
+    },
+    "crowing": {
+      "lemma": "crow",
+      "pos": "verb",
+      "ko": "(수탉이) 울기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "calling",
+        "cock-a-doodle-doo"
+      ],
+      "ipa": "/ˈkroʊɪŋ/"
+    },
+    "keeping": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "~하게 해 두기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "leaving",
+        "holding"
+      ],
+      "ipa": "/ˈkiːpɪŋ/"
+    },
+    "people": {
+      "lemma": "people",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": null,
+      "synonyms": [
+        "folks",
+        "humans"
+      ],
+      "ipa": "/ˈpiːpəl/"
+    },
+    "awake": {
+      "lemma": "awake",
+      "pos": "adjective",
+      "ko": "깨어 있는",
+      "form": null,
+      "synonyms": [
+        "up",
+        "wakeful"
+      ],
+      "ipa": "/əˈweɪk/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "그래서",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "i": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나",
+      "form": null,
+      "ipa": "/aɪ/"
+    },
+    "am": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": "1인칭 단수 현재",
+      "ipa": "/æm/"
+    },
+    "going": {
+      "lemma": "go",
+      "pos": "verb",
+      "ko": "(go without) ~ 없이 지내다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "managing"
+      ],
+      "ipa": "/ˈɡoʊɪŋ/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "한, 어떤 (모음 앞 부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "end": {
+      "lemma": "end",
+      "pos": "noun",
+      "ko": "끝 (make an end of: 끝장내다)",
+      "form": null,
+      "synonyms": [
+        "finish",
+        "stop"
+      ],
+      "ipa": "/ɛnd/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "그러나, 하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "defended": {
+      "lemma": "defend",
+      "pos": "verb",
+      "ko": "변호했다, 지켰다",
+      "form": "과거형",
+      "synonyms": [
+        "protected",
+        "justified"
+      ],
+      "ipa": "/dɪˈfɛndəd/"
+    },
+    "himself": {
+      "lemma": "himself",
+      "pos": "pronoun",
+      "ko": "그 자신(을)",
+      "form": "재귀대명사",
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    "saying": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하기",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "stating",
+        "telling"
+      ],
+      "ipa": "/ˈseɪɪŋ/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것; (in order that) ~하도록",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그 (남성/수컷)",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "crowed": {
+      "lemma": "crow",
+      "pos": "verb",
+      "ko": "(수탉이) 울었다",
+      "form": "과거형",
+      "synonyms": [
+        "called"
+      ],
+      "ipa": "/kroʊd/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "(in order that) ~하도록; (in good time) 제때에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "order": {
+      "lemma": "order",
+      "pos": "noun",
+      "ko": "(in order that) ~하기 위해",
+      "form": null,
+      "synonyms": [
+        "purpose"
+      ],
+      "ipa": "/ˈɔːrdər/"
+    },
+    "men": {
+      "lemma": "man",
+      "pos": "noun",
+      "ko": "사람들",
+      "form": "복수형",
+      "synonyms": [
+        "people"
+      ],
+      "ipa": "/mɛn/"
+    },
+    "might": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~하도록 (목적절)",
+      "form": "과거형",
+      "ipa": "/maɪt/"
+    },
+    "wake": {
+      "lemma": "wake",
+      "pos": "verb",
+      "ko": "깨다, 일어나다",
+      "form": null,
+      "synonyms": [
+        "awaken",
+        "rise"
+      ],
+      "ipa": "/weɪk/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(wake up) 깨어",
+      "form": null,
+      "ipa": "/ʌp/"
+    },
+    "set": {
+      "lemma": "set",
+      "pos": "verb",
+      "ko": "(set about) ~을 시작하다",
+      "form": null,
+      "synonyms": [
+        "begin",
+        "start"
+      ],
+      "ipa": "/sɛt/"
+    },
+    "day's": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "하루의",
+      "form": "소유격",
+      "synonyms": [
+        "daily"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "noun",
+      "ko": "일",
+      "form": null,
+      "synonyms": [
+        "job",
+        "labor",
+        "task"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "때, 시간 (in good time: 제때에)",
+      "form": null,
+      "synonyms": [
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "really": {
+      "lemma": "really",
+      "pos": "adverb",
+      "ko": "정말로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "actually"
+      ],
+      "ipa": "/ˈrɪli/"
+    },
+    "couldn't": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 없었다",
+      "form": "could not 줄임말",
+      "ipa": "/ˈkʊdənt/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우, 아주",
+      "form": null,
+      "ipa": "/ˈvɛri/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘, 충분히",
+      "form": null,
+      "synonyms": [
+        "properly"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "verb",
+      "ko": "(do without) ~ 없이 지내다",
+      "form": null,
+      "synonyms": [
+        "manage",
+        "get by"
+      ],
+      "ipa": "/duː/"
+    },
+    "without": {
+      "lemma": "without",
+      "pos": "preposition",
+      "ko": "~ 없이",
+      "form": null,
+      "ipa": "/wɪˈθaʊt/"
+    },
+    "may": {
+      "lemma": "may",
+      "pos": "auxiliary",
+      "ko": "~일지도 모른다",
+      "form": null,
+      "ipa": "/meɪ/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, 있다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "whether": {
+      "lemma": "whether",
+      "pos": "conjunction",
+      "ko": "~이든 (아니든)",
+      "form": null,
+      "ipa": "/ˈwɛðər/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "(or not) ~이든 아니든",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "i'm": {
+      "lemma": "I",
+      "pos": "pronoun",
+      "ko": "나는 ~이다",
+      "form": "I am 줄임말",
+      "ipa": "/aɪm/"
+    },
+    "my": {
+      "lemma": "my",
+      "pos": "pronoun",
+      "ko": "나의",
+      "form": "소유격",
+      "ipa": "/maɪ/"
+    },
+    "dinner": {
+      "lemma": "dinner",
+      "pos": "noun",
+      "ko": "저녁 식사",
+      "form": null,
+      "synonyms": [
+        "supper",
+        "meal"
+      ],
+      "ipa": "/ˈdɪnər/"
+    },
+    "killed": {
+      "lemma": "kill",
+      "pos": "verb",
+      "ko": "죽였다",
+      "form": "과거형",
+      "synonyms": [
+        "slew",
+        "slaughtered"
+      ],
+      "ipa": "/kɪld/"
+    },
+    "ate": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹었다",
+      "form": "과거형",
+      "synonyms": [
+        "devoured",
+        "consumed"
+      ],
+      "ipa": "/eɪt/"
+    },
+    "want": {
+      "lemma": "want",
+      "pos": "noun",
+      "ko": "부족, 없음",
+      "form": null,
+      "synonyms": [
+        "lack",
+        "absence"
+      ],
+      "ipa": "/wɑːnt/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~ 않다",
+      "form": null,
+      "ipa": "/ˈnɛvər/"
+    },
+    "kept": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "(keep ~ from) ~을 막았다",
+      "form": "과거형",
+      "synonyms": [
+        "stopped",
+        "prevented"
+      ],
+      "ipa": "/kɛpt/"
+    },
+    "villain": {
+      "lemma": "villain",
+      "pos": "noun",
+      "ko": "악당",
+      "form": null,
+      "synonyms": [
+        "rogue",
+        "scoundrel",
+        "criminal"
+      ],
+      "ipa": "/ˈvɪlən/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "(keep ~ from) ~하지 못하게",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "crime": {
+      "lemma": "crime",
+      "pos": "noun",
+      "ko": "범죄, 나쁜 짓",
+      "form": null,
+      "synonyms": [
+        "wrongdoing",
+        "offense",
+        "sin"
+      ],
+      "ipa": "/kraɪm/"
+    }
+  }
+}
