@@ -1,0 +1,1757 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part7",
+  "id": "2026-11-28-L2-part7",
+  "date": "2026-11-28",
+  "level": 2,
+  "title": "New Callback System for the Call Center",
+  "titleKo": "콜센터 새 회신 전화 시스템 안내 회람",
+  "genre": "memo",
+  "tags": [
+    "TOEIC Part 7",
+    "회람",
+    "고객 서비스"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 179,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "수신: 고객 서비스 상담원 전원"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "발신: Rachel Moreno, 고객 서비스 이사"
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "날짜: 9월 3일"
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "제목: 새 회신 전화 시스템"
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "다음 주 월요일부터 우리 콜센터는 QuickReturn이라는 새 시스템을 사용하기 시작합니다. 상담원이 모두 통화 중일 때 고객은 더 이상 대기하며 기다리지 않아도 됩니다. 대신 전화번호를 남기기로 선택할 수 있고, 상담원이 시간이 나면 시스템이 자동으로 고객에게 다시 전화를 겁니다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "작년에 우리는 특히 연말 시즌에 긴 대기 시간에 대한 불만을 많이 받았습니다. 최근 설문 조사에서 고객의 거의 40퍼센트가 누군가와 통화하기 전에 전화를 끊었다고 답했습니다. 새 시스템이 이 문제를 해결하고 고객 만족도를 높일 것으로 기대합니다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "ko": "QuickReturn에 익숙해지도록 목요일 오후 B 회의실에서 짧은 교육이 열립니다. 오전 근무 상담원은 모두 참석해야 합니다. 저녁 근무자는 교육 녹화 영상을 볼 수 있으며, 영상은 금요일에 직원 웹사이트에 올라갑니다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s14"
+      ],
+      "ko": "질문은 팀장에게 보내 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "To: All Customer Service Agents",
+      "ko": "수신: 고객 서비스 상담원 전원",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "From: Rachel Moreno, Customer Service Director",
+      "ko": "발신: Rachel Moreno, 고객 서비스 이사",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "Date: September 3",
+      "ko": "날짜: 9월 3일",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "Subject: New Callback System",
+      "ko": "제목: 새 회신 전화 시스템",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Starting next Monday, our call center will begin using a new system called QuickReturn.",
+      "ko": "다음 주 월요일부터 우리 콜센터는 QuickReturn이라는 새 시스템을 사용하기 시작합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p5",
+      "en": "When all of our agents are busy, callers will no longer have to wait on hold.",
+      "ko": "상담원이 모두 통화 중일 때 고객은 더 이상 대기하며 기다리지 않아도 됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p5",
+      "en": "Instead, they can choose to leave their phone number, and the system will call them back automatically when an agent becomes available.",
+      "ko": "대신 전화번호를 남기기로 선택할 수 있고, 상담원이 시간이 나면 시스템이 자동으로 고객에게 다시 전화를 겁니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p6",
+      "en": "Last year, we received many complaints about long waiting times, especially during the holiday season.",
+      "ko": "작년에 우리는 특히 연말 시즌에 긴 대기 시간에 대한 불만을 많이 받았습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p6",
+      "en": "In a recent survey, nearly 40 percent of customers said they had hung up before speaking to anyone.",
+      "ko": "최근 설문 조사에서 고객의 거의 40퍼센트가 누군가와 통화하기 전에 전화를 끊었다고 답했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p6",
+      "en": "We expect the new system to solve this problem and improve customer satisfaction.",
+      "ko": "새 시스템이 이 문제를 해결하고 고객 만족도를 높일 것으로 기대합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p7",
+      "en": "To help you get used to QuickReturn, a short training session will be held in Conference Room B on Thursday afternoon.",
+      "ko": "QuickReturn에 익숙해지도록 목요일 오후 B 회의실에서 짧은 교육이 열립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p7",
+      "en": "Attendance is required for all agents who work the morning shift.",
+      "ko": "오전 근무 상담원은 모두 참석해야 합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p7",
+      "en": "Those who work in the evening can watch a recording of the session, which will be posted on the staff website on Friday.",
+      "ko": "저녁 근무자는 교육 녹화 영상을 볼 수 있으며, 영상은 금요일에 직원 웹사이트에 올라갑니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p8",
+      "en": "Please send any questions to your team leader.",
+      "ko": "질문은 팀장에게 보내 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "on hold",
+      "pos": "phrase",
+      "meaningKo": "(전화를) 대기 상태로, 기다리는",
+      "ipa": "/ɑn hoʊld/",
+      "synonyms": [
+        "waiting",
+        "on the line"
+      ],
+      "matchText": "on hold",
+      "sentenceId": "s6",
+      "example": {
+        "en": "I was on hold for twenty minutes.",
+        "ko": "나는 20분 동안 전화 대기 상태였다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "automatically",
+      "pos": "adverb",
+      "meaningKo": "자동으로",
+      "ipa": "/ˌɔtəˈmætɪkli/",
+      "synonyms": [
+        "by itself",
+        "mechanically"
+      ],
+      "matchText": "automatically",
+      "sentenceId": "s7",
+      "example": {
+        "en": "The lights turn off automatically at night.",
+        "ko": "불은 밤에 자동으로 꺼진다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "complaint",
+      "pos": "noun",
+      "meaningKo": "불만, 항의",
+      "ipa": "/kəmˈpleɪnt/",
+      "synonyms": [
+        "objection",
+        "criticism"
+      ],
+      "matchText": "complaints",
+      "sentenceId": "s8",
+      "example": {
+        "en": "We received a complaint about the noise.",
+        "ko": "소음에 대한 항의를 받았다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "satisfaction",
+      "pos": "noun",
+      "meaningKo": "만족(도)",
+      "ipa": "/ˌsætɪsˈfækʃən/",
+      "synonyms": [
+        "contentment",
+        "happiness"
+      ],
+      "matchText": "satisfaction",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Customer satisfaction is our top priority.",
+        "ko": "고객 만족이 우리의 최우선 과제다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "get used to",
+      "pos": "phrase",
+      "meaningKo": "~에 익숙해지다",
+      "ipa": "/ɡɛt ˈjuːst tu/",
+      "synonyms": [
+        "adjust to",
+        "become familiar with"
+      ],
+      "matchText": "get used to",
+      "sentenceId": "s11",
+      "example": {
+        "en": "It took me a month to get used to the new job.",
+        "ko": "새 일에 익숙해지는 데 한 달이 걸렸다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Instead,",
+          "role": "M",
+          "ko": "대신"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "ko": "그들은"
+        },
+        {
+          "text": "can choose",
+          "role": "V",
+          "ko": "선택할 수 있다"
+        },
+        {
+          "text": "to leave their phone number,",
+          "role": "O",
+          "ko": "전화번호를 남기는 것을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "the system",
+          "role": "S",
+          "ko": "시스템이"
+        },
+        {
+          "text": "will call",
+          "role": "V",
+          "ko": "전화할 것이다"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "ko": "그들에게"
+        },
+        {
+          "text": "back",
+          "role": "M",
+          "ko": "다시"
+        },
+        {
+          "text": "automatically",
+          "role": "M",
+          "ko": "자동으로"
+        },
+        {
+          "text": "when",
+          "role": "CONJ",
+          "ko": "~할 때"
+        },
+        {
+          "text": "an agent",
+          "role": "S",
+          "ko": "상담원이",
+          "sub": true
+        },
+        {
+          "text": "becomes",
+          "role": "V",
+          "ko": "되다",
+          "sub": true
+        },
+        {
+          "text": "available.",
+          "role": "C",
+          "ko": "시간이 나는",
+          "sub": true
+        }
+      ],
+      "skeleton": "They can choose to leave a number, and the system will call them back.",
+      "explanation": "and가 두 문장을 잇고, 뒤 문장에 when 시간절(현재형 becomes)이 붙어 있다. call A back = A에게 다시 전화하다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "We",
+          "role": "S",
+          "ko": "우리는"
+        },
+        {
+          "text": "expect",
+          "role": "V",
+          "ko": "기대한다"
+        },
+        {
+          "text": "the new system",
+          "role": "O",
+          "ko": "새 시스템이"
+        },
+        {
+          "text": "to solve this problem and improve customer satisfaction.",
+          "role": "OC",
+          "ko": "이 문제를 해결하고 고객 만족도를 높이기를"
+        }
+      ],
+      "skeleton": "We expect the system to solve the problem.",
+      "explanation": "expect + 목적어 + to부정사 = (목적어가) ~하기를 기대하다. to solve와 (to) improve가 and로 연결."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "expect + 목적어 + to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s10",
+      "highlight": [
+        "expect the new system to solve"
+      ],
+      "explanation": "expect, ask, allow, encourage 등은 '목적어 + to부정사' 형태로 '목적어가 ~하기를/하도록'의 뜻을 만든다.",
+      "example": {
+        "en": "The manager asked us to finish the report.",
+        "ko": "매니저는 우리에게 보고서를 끝내라고 요청했다."
+      },
+      "note": "and 뒤의 improve 앞에는 to가 생략되어 있다(to solve ~ and (to) improve)."
+    },
+    {
+      "id": "g2",
+      "title": "계속적 용법 which + 수동태",
+      "tags": [
+        "관계사",
+        "수동태"
+      ],
+      "sentenceId": "s13",
+      "highlight": [
+        "which will be posted"
+      ],
+      "explanation": "콤마 뒤 which는 앞의 a recording of the session을 받는다. 녹화 영상은 '게시되는' 대상이므로 will be posted.",
+      "example": {
+        "en": "We made a video, which will be shown at the meeting.",
+        "ko": "영상을 만들었는데, 그것은 회의에서 상영될 것이다."
+      },
+      "note": "Part 7에서 which 뒤의 추가 정보(언제·어디서)가 세부 문제의 근거가 된다."
+    },
+    {
+      "id": "g3",
+      "title": "과거완료 had p.p.",
+      "tags": [
+        "시제"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "had hung up"
+      ],
+      "explanation": "고객들이 '말한(said)' 과거 시점보다 전화를 '끊은' 일이 더 먼저 일어났으므로 과거완료 had + p.p.를 쓴다.",
+      "example": {
+        "en": "She said she had already sent the file.",
+        "ko": "그녀는 이미 파일을 보냈다고 말했다."
+      },
+      "note": "hang up(전화를 끊다)의 과거분사는 hung."
+    }
+  ],
+  "glossary": {
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "determiner",
+      "ko": "모든",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "service": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스",
+      "form": null,
+      "synonyms": [
+        "support",
+        "assistance"
+      ],
+      "ipa": "/ˈsɜːrvəs/"
+    },
+    "agents": {
+      "lemma": "agent",
+      "pos": "noun",
+      "ko": "상담원, 직원",
+      "form": "복수형",
+      "synonyms": [
+        "representative",
+        "operator"
+      ],
+      "ipa": "/ˈeɪdʒənts/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "rachel": {
+      "lemma": "Rachel",
+      "pos": "proper-noun",
+      "ko": "레이철(사람 이름)",
+      "form": null,
+      "ipa": "/ˈreɪtʃəl/"
+    },
+    "moreno": {
+      "lemma": "Moreno",
+      "pos": "proper-noun",
+      "ko": "모레노(사람 성)",
+      "form": null,
+      "ipa": "/mɔˈriːnoʊ/"
+    },
+    "director": {
+      "lemma": "director",
+      "pos": "noun",
+      "ko": "이사, 책임자",
+      "form": null,
+      "synonyms": [
+        "head",
+        "manager"
+      ],
+      "ipa": "/dəˈrɛktər/"
+    },
+    "date": {
+      "lemma": "date",
+      "pos": "noun",
+      "ko": "날짜",
+      "form": null,
+      "ipa": "/deɪt/",
+      "synonyms": [
+        "day"
+      ]
+    },
+    "september": {
+      "lemma": "September",
+      "pos": "proper-noun",
+      "ko": "9월",
+      "form": null,
+      "ipa": "/sɛpˈtɛmbər/"
+    },
+    "subject": {
+      "lemma": "subject",
+      "pos": "noun",
+      "ko": "제목, 주제",
+      "form": null,
+      "synonyms": [
+        "topic",
+        "title"
+      ],
+      "ipa": "/səbˈdʒɛkt/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "recent",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "callback": {
+      "lemma": "callback",
+      "pos": "noun",
+      "ko": "회신 전화",
+      "form": null,
+      "synonyms": [
+        "return call"
+      ],
+      "ipa": "/ˈkɔːlˌbæk/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "장치, 시스템",
+      "form": null,
+      "synonyms": [
+        "equipment",
+        "setup"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "starting": {
+      "lemma": "start",
+      "pos": "verb",
+      "ko": "(starting + 시점) ~부터",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "beginning"
+      ],
+      "ipa": "/ˈstɑːrtɪŋ/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "call": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "전화하다",
+      "form": null,
+      "synonyms": [
+        "phone",
+        "contact"
+      ],
+      "ipa": "/kɔːl/"
+    },
+    "center": {
+      "lemma": "center",
+      "pos": "noun",
+      "ko": "센터, 시설",
+      "form": null,
+      "synonyms": [
+        "office",
+        "facility"
+      ],
+      "ipa": "/ˈsɛntər/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "begin": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작하다",
+      "form": null,
+      "synonyms": [
+        "start"
+      ],
+      "ipa": "/bɪˈɡɪn/"
+    },
+    "using": {
+      "lemma": "use",
+      "pos": "verb",
+      "ko": "사용하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "operate",
+        "employ"
+      ],
+      "ipa": "/ˈjuːzɪŋ/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "~라고 불리는",
+      "form": "과거분사",
+      "synonyms": [
+        "named"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "quickreturn": {
+      "lemma": "QuickReturn",
+      "pos": "proper-noun",
+      "ko": "퀵리턴(시스템 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "are": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다",
+      "form": "현재형(복수)",
+      "ipa": "/ɑːr/"
+    },
+    "busy": {
+      "lemma": "busy",
+      "pos": "adjective",
+      "ko": "바쁜, 통화 중인",
+      "form": null,
+      "synonyms": [
+        "occupied",
+        "engaged"
+      ],
+      "ipa": "/ˈbɪzi/"
+    },
+    "callers": {
+      "lemma": "caller",
+      "pos": "noun",
+      "ko": "전화 건 사람",
+      "form": "복수형",
+      "synonyms": [
+        "customer"
+      ],
+      "ipa": "/ˈkɔːlərz/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상 ~않는",
+      "form": null,
+      "ipa": "/noʊ/",
+      "synonyms": [
+        "not any"
+      ]
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상",
+      "form": "비교급",
+      "ipa": "/ˈlɔːŋɡər/",
+      "synonyms": [
+        "anymore"
+      ]
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "verb",
+      "ko": "가지다, 갖고 있다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "possess"
+      ],
+      "ipa": "/hæv/"
+    },
+    "wait": {
+      "lemma": "wait",
+      "pos": "verb",
+      "ko": "기다리다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "stay"
+      ],
+      "ipa": "/weɪt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜·층·위)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(회의를) 열다, 개최하다",
+      "form": null,
+      "synonyms": [
+        "host",
+        "have"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "instead": {
+      "lemma": "instead",
+      "pos": "adverb",
+      "ko": "대신에",
+      "form": null,
+      "synonyms": [
+        "alternatively"
+      ],
+      "ipa": "/ˌɪnˈstɛd/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들은",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "choose": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "선택하다",
+      "form": null,
+      "synonyms": [
+        "decide",
+        "opt"
+      ],
+      "ipa": "/tʃuːz/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "맡기다, 남기다",
+      "form": null,
+      "synonyms": [
+        "drop off",
+        "deposit"
+      ],
+      "ipa": "/liːv/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "phone": {
+      "lemma": "phone",
+      "pos": "noun",
+      "ko": "전화",
+      "form": null,
+      "synonyms": [
+        "telephone"
+      ],
+      "ipa": "/foʊn/"
+    },
+    "number": {
+      "lemma": "number",
+      "pos": "noun",
+      "ko": "번호",
+      "form": null,
+      "ipa": "/ˈnʌmbər/",
+      "synonyms": [
+        "digits"
+      ]
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을, 그들을",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "back": {
+      "lemma": "back",
+      "pos": "adverb",
+      "ko": "다시, 되돌려",
+      "form": null,
+      "synonyms": [
+        "again"
+      ],
+      "ipa": "/bæk/"
+    },
+    "automatically": {
+      "lemma": "automatically",
+      "pos": "adverb",
+      "ko": "자동으로",
+      "form": null,
+      "synonyms": [
+        "by itself",
+        "mechanically"
+      ],
+      "ipa": "/ˌɔːtəˈmætɪkli/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "agent": {
+      "lemma": "agent",
+      "pos": "noun",
+      "ko": "상담원",
+      "form": null,
+      "synonyms": [
+        "representative",
+        "operator"
+      ],
+      "ipa": "/ˈeɪdʒənt/"
+    },
+    "becomes": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~이 되다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "get",
+        "turn"
+      ],
+      "ipa": "/bɪˈkʌmz/"
+    },
+    "available": {
+      "lemma": "available",
+      "pos": "adjective",
+      "ko": "시간이 나는, 이용 가능한",
+      "form": null,
+      "synonyms": [
+        "free",
+        "ready"
+      ],
+      "ipa": "/əˈveɪləbəl/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous",
+        "past"
+      ],
+      "ipa": "/læst/"
+    },
+    "year": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": null,
+      "ipa": "/jɪr/",
+      "synonyms": [
+        "twelve months"
+      ]
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": "과거형",
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːvd/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "complaints": {
+      "lemma": "complaint",
+      "pos": "noun",
+      "ko": "불만, 항의",
+      "form": "복수형",
+      "synonyms": [
+        "objection",
+        "criticism"
+      ],
+      "ipa": "/kəmˈpleɪnts/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "long": {
+      "lemma": "long",
+      "pos": "adjective",
+      "ko": "긴, 오랜",
+      "form": null,
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ],
+      "ipa": "/lɔːŋ/"
+    },
+    "waiting": {
+      "lemma": "waiting",
+      "pos": "noun",
+      "ko": "기다림, 대기",
+      "form": null,
+      "synonyms": [
+        "wait",
+        "delay"
+      ],
+      "ipa": "/ˈweɪtɪŋ/"
+    },
+    "times": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "synonyms": [
+        "period",
+        "duration"
+      ],
+      "ipa": "/taɪmz/"
+    },
+    "especially": {
+      "lemma": "especially",
+      "pos": "adverb",
+      "ko": "특히",
+      "form": null,
+      "synonyms": [
+        "particularly",
+        "mainly"
+      ],
+      "ipa": "/əˈspɛʃli/"
+    },
+    "during": {
+      "lemma": "during",
+      "pos": "preposition",
+      "ko": "~ 동안",
+      "form": null,
+      "ipa": "/ˈdʊrɪŋ/"
+    },
+    "holiday": {
+      "lemma": "holiday",
+      "pos": "noun",
+      "ko": "휴일, 연휴",
+      "form": null,
+      "synonyms": [
+        "vacation",
+        "festive"
+      ],
+      "ipa": "/ˈhɑːləˌdeɪ/"
+    },
+    "season": {
+      "lemma": "season",
+      "pos": "noun",
+      "ko": "시즌, 철",
+      "form": null,
+      "synonyms": [
+        "period",
+        "time"
+      ],
+      "ipa": "/ˈsiːzən/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "recent": {
+      "lemma": "recent",
+      "pos": "adjective",
+      "ko": "최근의",
+      "form": null,
+      "synonyms": [
+        "latest",
+        "new"
+      ],
+      "ipa": "/ˈriːsənt/"
+    },
+    "survey": {
+      "lemma": "survey",
+      "pos": "noun",
+      "ko": "설문 조사",
+      "form": null,
+      "synonyms": [
+        "poll",
+        "questionnaire"
+      ],
+      "ipa": "/sərˈveɪ/"
+    },
+    "nearly": {
+      "lemma": "nearly",
+      "pos": "adverb",
+      "ko": "거의",
+      "form": null,
+      "synonyms": [
+        "almost",
+        "about"
+      ],
+      "ipa": "/ˈnɪrli/"
+    },
+    "percent": {
+      "lemma": "percent",
+      "pos": "noun",
+      "ko": "퍼센트",
+      "form": null,
+      "ipa": "/pərˈsɛnt/",
+      "synonyms": [
+        "percentage"
+      ]
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객, 손님",
+      "form": "복수형",
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다",
+      "form": "과거형",
+      "synonyms": [
+        "state",
+        "report"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(과거완료) ~했었다",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "hung": {
+      "lemma": "hang",
+      "pos": "verb",
+      "ko": "(hang up) 전화를 끊다",
+      "form": "과거분사",
+      "synonyms": [
+        "end the call"
+      ],
+      "ipa": "/hʌŋ/"
+    },
+    "up": {
+      "lemma": "up",
+      "pos": "adverb",
+      "ko": "(hang up의 일부) 완전히",
+      "form": null,
+      "ipa": "/ʌp/",
+      "synonyms": [
+        "completely"
+      ]
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "speaking": {
+      "lemma": "speak",
+      "pos": "verb",
+      "ko": "이야기하다, 통화하다",
+      "form": "동명사(-ing)",
+      "synonyms": [
+        "talk"
+      ],
+      "ipa": "/ˈspiːkɪŋ/"
+    },
+    "anyone": {
+      "lemma": "anyone",
+      "pos": "pronoun",
+      "ko": "누군가, 아무나",
+      "form": null,
+      "ipa": "/ˈɛniˌwʌn/"
+    },
+    "expect": {
+      "lemma": "expect",
+      "pos": "verb",
+      "ko": "기대하다, 예상하다",
+      "form": null,
+      "synonyms": [
+        "anticipate",
+        "hope"
+      ],
+      "ipa": "/ɪkˈspɛkt/"
+    },
+    "solve": {
+      "lemma": "solve",
+      "pos": "verb",
+      "ko": "해결하다",
+      "form": null,
+      "synonyms": [
+        "fix",
+        "resolve"
+      ],
+      "ipa": "/sɑːlv/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "problem": {
+      "lemma": "problem",
+      "pos": "noun",
+      "ko": "문제",
+      "form": null,
+      "synonyms": [
+        "issue",
+        "trouble"
+      ],
+      "ipa": "/ˈprɑːbləm/"
+    },
+    "improve": {
+      "lemma": "improve",
+      "pos": "verb",
+      "ko": "개선하다, 높이다",
+      "form": null,
+      "synonyms": [
+        "raise",
+        "boost"
+      ],
+      "ipa": "/ˌɪmˈpruːv/"
+    },
+    "satisfaction": {
+      "lemma": "satisfaction",
+      "pos": "noun",
+      "ko": "만족(도)",
+      "form": null,
+      "synonyms": [
+        "contentment",
+        "happiness"
+      ],
+      "ipa": "/ˌsætəsˈfækʃən/"
+    },
+    "help": {
+      "lemma": "help",
+      "pos": "verb",
+      "ko": "돕다",
+      "form": null,
+      "synonyms": [
+        "assist",
+        "support"
+      ],
+      "ipa": "/hɛlp/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)은, 당신을",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "(get used to) ~에 익숙해지다",
+      "form": null,
+      "synonyms": [
+        "become"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "used": {
+      "lemma": "used",
+      "pos": "adjective",
+      "ko": "(used to) ~에 익숙한",
+      "form": null,
+      "synonyms": [
+        "accustomed"
+      ],
+      "ipa": "/juːzd/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "quick"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "training": {
+      "lemma": "training",
+      "pos": "noun",
+      "ko": "교육, 훈련",
+      "form": null,
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "ipa": "/ˈtreɪnɪŋ/"
+    },
+    "session": {
+      "lemma": "session",
+      "pos": "noun",
+      "ko": "(교육·회의) 시간, 모임",
+      "form": null,
+      "synonyms": [
+        "class",
+        "meeting"
+      ],
+      "ipa": "/ˈsɛʃən/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "held": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(행사를) 열다",
+      "form": "과거분사",
+      "synonyms": [
+        "host",
+        "organize"
+      ],
+      "ipa": "/hɛld/"
+    },
+    "conference": {
+      "lemma": "conference",
+      "pos": "noun",
+      "ko": "학회, 회의",
+      "form": null,
+      "synonyms": [
+        "convention",
+        "meeting"
+      ],
+      "ipa": "/ˈkɑːnfərəns/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": null,
+      "synonyms": [
+        "space",
+        "chamber"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "b": {
+      "lemma": "B",
+      "pos": "proper-noun",
+      "ko": "B(회의실 이름)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일",
+      "form": null,
+      "ipa": "/ˈθɜːrzˌdeɪ/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "ipa": "/ˌæftərˈnuːn/",
+      "synonyms": [
+        "later in the day"
+      ]
+    },
+    "attendance": {
+      "lemma": "attendance",
+      "pos": "noun",
+      "ko": "참석",
+      "form": null,
+      "synonyms": [
+        "presence",
+        "participation"
+      ],
+      "ipa": "/əˈtɛndəns/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "required": {
+      "lemma": "require",
+      "pos": "verb",
+      "ko": "요구하다, 필수로 하다",
+      "form": "과거분사",
+      "synonyms": [
+        "need",
+        "demand"
+      ],
+      "ipa": "/riˈkwaɪərd/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안, ~을 위해, ~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "who": {
+      "lemma": "who",
+      "pos": "pronoun",
+      "ko": "(관계대명사) ~하는 (사람)",
+      "form": null,
+      "ipa": "/huː/"
+    },
+    "work": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다, 근무하다",
+      "form": null,
+      "synonyms": [
+        "serve",
+        "be on duty"
+      ],
+      "ipa": "/wɜːrk/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "synonyms": [
+        "forenoon"
+      ]
+    },
+    "shift": {
+      "lemma": "shift",
+      "pos": "noun",
+      "ko": "교대 근무 (시간)",
+      "form": null,
+      "synonyms": [
+        "work period",
+        "turn"
+      ],
+      "ipa": "/ʃɪft/"
+    },
+    "those": {
+      "lemma": "those",
+      "pos": "pronoun",
+      "ko": "(those who) ~하는 사람들",
+      "form": null,
+      "ipa": "/ðoʊz/"
+    },
+    "evening": {
+      "lemma": "evening",
+      "pos": "noun",
+      "ko": "저녁",
+      "form": null,
+      "synonyms": [
+        "night"
+      ],
+      "ipa": "/ˈiːvnɪŋ/"
+    },
+    "watch": {
+      "lemma": "watch",
+      "pos": "verb",
+      "ko": "보다",
+      "form": null,
+      "synonyms": [
+        "view",
+        "see"
+      ],
+      "ipa": "/wɑːtʃ/"
+    },
+    "recording": {
+      "lemma": "recording",
+      "pos": "noun",
+      "ko": "녹화(본), 녹음",
+      "form": null,
+      "synonyms": [
+        "video",
+        "record"
+      ],
+      "ipa": "/rəˈkɔːrdɪŋ/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(관계대명사) 그리고 그것은, ~하는",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "posted": {
+      "lemma": "post",
+      "pos": "verb",
+      "ko": "게시하다, 올리다",
+      "form": "과거분사",
+      "synonyms": [
+        "upload",
+        "put up"
+      ],
+      "ipa": "/ˈpoʊstɪd/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원(전체)",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "website": {
+      "lemma": "website",
+      "pos": "noun",
+      "ko": "웹사이트",
+      "form": null,
+      "synonyms": [
+        "site",
+        "web page"
+      ],
+      "ipa": "/ˈwɛbˌsaɪt/"
+    },
+    "friday": {
+      "lemma": "Friday",
+      "pos": "proper-noun",
+      "ko": "금요일",
+      "form": null,
+      "ipa": "/ˈfraɪdi/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/",
+      "synonyms": [
+        "kindly"
+      ]
+    },
+    "send": {
+      "lemma": "send",
+      "pos": "verb",
+      "ko": "보내다",
+      "form": null,
+      "synonyms": [
+        "forward",
+        "submit"
+      ],
+      "ipa": "/sɛnd/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무엇이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "questions": {
+      "lemma": "question",
+      "pos": "noun",
+      "ko": "질문",
+      "form": "복수형",
+      "synonyms": [
+        "inquiry",
+        "query"
+      ],
+      "ipa": "/ˈkwɛstʃənz/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "unit"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "leader": {
+      "lemma": "leader",
+      "pos": "noun",
+      "ko": "리더, 장",
+      "form": null,
+      "synonyms": [
+        "head",
+        "supervisor"
+      ],
+      "ipa": "/ˈliːdər/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part7-purpose",
+      "prompt": "What is the purpose of the memo?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "To ask staff to work extra hours during the holidays"
+        },
+        {
+          "key": "B",
+          "text": "To introduce a new customer service director"
+        },
+        {
+          "key": "C",
+          "text": "To explain a new way of handling callers who are waiting"
+        },
+        {
+          "key": "D",
+          "text": "To request feedback on a customer survey"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "첫 문단이 '새 시스템(QuickReturn)으로 대기 중인 고객에게 자동으로 다시 전화를 건다'는 내용. 이를 '기다리는 고객을 처리하는 새 방식을 설명하려고'로 바꿔 말한 C가 정답.",
+      "choiceNotesKo": {
+        "A": "holiday season은 불만이 많았던 시기로만 나온다.",
+        "D": "설문 조사 결과는 근거로 쓰였을 뿐 의견을 요청하지 않는다.",
+        "B": "Rachel Moreno는 글쓴이이지 새로 소개되는 사람이 아니다."
+      },
+      "skill": "글의 목적",
+      "evidenceSentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part7-detail",
+      "prompt": "According to the memo, what did customers complain about?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "Agents gave them wrong information."
+        },
+        {
+          "key": "B",
+          "text": "They had to wait too long on the phone."
+        },
+        {
+          "key": "C",
+          "text": "The website was difficult to use."
+        },
+        {
+          "key": "D",
+          "text": "Their phone numbers were not saved correctly."
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "'complaints about long waiting times'(긴 대기 시간에 대한 불만). 이를 '전화로 너무 오래 기다려야 했다'로 바꿔 말한 B가 정답.",
+      "choiceNotesKo": {
+        "D": "전화번호를 남기는 것은 새 시스템의 기능이지 불만 내용이 아니다."
+      },
+      "skill": "세부 사항(패러프레이징)",
+      "evidenceSentenceIds": [
+        "s8"
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part7-inference",
+      "prompt": "What is suggested about agents who work in the evening?",
+      "choices": [
+        {
+          "key": "A",
+          "text": "They do not have to attend the session in person."
+        },
+        {
+          "key": "B",
+          "text": "They will receive a bonus for working late."
+        },
+        {
+          "key": "C",
+          "text": "They will lead the training session."
+        },
+        {
+          "key": "D",
+          "text": "They must come to work on Friday."
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "참석 의무는 오전 근무자에게만 있고(s12), 저녁 근무자는 녹화 영상을 볼 수 있다(s13). 따라서 직접 참석하지 않아도 된다고 추론할 수 있다.",
+      "choiceNotesKo": {
+        "D": "Friday는 영상이 웹사이트에 올라가는 날일 뿐이다.",
+        "C": "교육 진행자에 대한 언급은 없다."
+      },
+      "skill": "추론",
+      "evidenceSentenceIds": [
+        "s12",
+        "s13"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1359 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-28-L1-part6",
+  "date": "2026-11-28",
+  "level": 1,
+  "title": "Your Reservation at the Harborview Inn",
+  "titleKo": "Harborview 호텔 예약 확인 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "식당·호텔"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 110,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Moore 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "ko": "Harborview Inn을 선택해 주셔서 감사합니다. 이 이메일은 3월 14일부터 3월 16일까지 더블룸 예약을 확인해 드립니다. 객실에는 바다 전망과 무료 무선 인터넷이 포함되어 있습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s5",
+        "s6",
+        "s7"
+      ],
+      "ko": "체크인은 오후 3시에 시작합니다. 그보다 일찍 도착하시면 안내 데스크에 가방을 맡기실 수 있습니다. 객실이 준비될 때까지 직원이 안전하게 보관해 드립니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s8",
+        "s9",
+        "s10"
+      ],
+      "ko": "아침 식사는 매일 아침 1층 식당에서 제공됩니다. 일정을 변경해야 하시면 적어도 24시간 전에 연락 주세요. 즐거운 숙박이 되시길 바랍니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s11"
+      ],
+      "ko": "감사합니다,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "Emma Hughes, 고객 서비스 매니저"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Mr. Moore,",
+      "ko": "Moore 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for choosing the Harborview Inn.",
+      "ko": "Harborview Inn을 선택해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "This e-mail confirms your reservation for a double room from March 14 to March 16.",
+      "ko": "이 이메일은 3월 14일부터 3월 16일까지 더블룸 예약을 확인해 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "Your room includes an ocean view and free wireless Internet.",
+      "ko": "객실에는 바다 전망과 무료 무선 인터넷이 포함되어 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p3",
+      "en": "Check-in begins at three o'clock in the afternoon.",
+      "ko": "체크인은 오후 3시에 시작합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "If you arrive before that time, you can leave your bags at the front desk.",
+      "ko": "그보다 일찍 도착하시면 안내 데스크에 가방을 맡기실 수 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "Our staff will keep them safely until your room is ready.",
+      "ko": "객실이 준비될 때까지 직원이 안전하게 보관해 드립니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p4",
+      "en": "Breakfast is served in the restaurant on the first floor every morning.",
+      "ko": "아침 식사는 매일 아침 1층 식당에서 제공됩니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p4",
+      "en": "If you need to change your plans, please contact us at least 24 hours before your arrival.",
+      "ko": "일정을 변경해야 하시면 도착 적어도 24시간 전에 연락 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "We hope you enjoy your stay.",
+      "ko": "즐거운 숙박이 되시길 바랍니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p5",
+      "en": "Sincerely,",
+      "ko": "감사합니다,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p6",
+      "en": "Emma Hughes, Guest Services Manager",
+      "ko": "Emma Hughes, 고객 서비스 매니저",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "confirm",
+      "pos": "verb",
+      "meaningKo": "확인해 주다, 확정하다",
+      "ipa": "/kənˈfɝm/",
+      "synonyms": [
+        "verify",
+        "approve"
+      ],
+      "matchText": "confirms",
+      "sentenceId": "s3",
+      "example": {
+        "en": "Please confirm your order by e-mail.",
+        "ko": "이메일로 주문을 확정해 주세요."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "reservation",
+      "pos": "noun",
+      "meaningKo": "예약",
+      "ipa": "/ˌrɛzɚˈveɪʃən/",
+      "synonyms": [
+        "booking"
+      ],
+      "matchText": "reservation",
+      "sentenceId": "s3",
+      "example": {
+        "en": "I made a reservation for two people.",
+        "ko": "두 명 예약을 했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "include",
+      "pos": "verb",
+      "meaningKo": "포함하다",
+      "ipa": "/ɪnˈkluːd/",
+      "synonyms": [
+        "contain",
+        "cover"
+      ],
+      "matchText": "includes",
+      "sentenceId": "s4",
+      "example": {
+        "en": "The price includes breakfast.",
+        "ko": "가격에 아침 식사가 포함되어 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "check-in",
+      "pos": "noun",
+      "meaningKo": "(호텔) 체크인, 투숙 수속",
+      "ipa": "/ˈtʃɛk ɪn/",
+      "synonyms": [
+        "registration",
+        "arrival"
+      ],
+      "matchText": "Check-in",
+      "sentenceId": "s5",
+      "example": {
+        "en": "Check-in starts at two o'clock.",
+        "ko": "체크인은 2시에 시작한다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "stay",
+      "pos": "noun",
+      "meaningKo": "머무름, 숙박",
+      "ipa": "/steɪ/",
+      "synonyms": [
+        "visit",
+        "trip"
+      ],
+      "matchText": "stay",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Thank you for your stay with us.",
+        "ko": "저희 호텔에 묵어 주셔서 감사합니다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s6",
+      "chunks": [
+        {
+          "text": "If",
+          "role": "CONJ",
+          "ko": "만약 ~하면"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "당신이",
+          "sub": true
+        },
+        {
+          "text": "arrive",
+          "role": "V",
+          "ko": "도착하다",
+          "sub": true
+        },
+        {
+          "text": "before that time,",
+          "role": "M",
+          "ko": "그 시간 전에",
+          "sub": true
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "당신은"
+        },
+        {
+          "text": "can leave",
+          "role": "V",
+          "ko": "맡길 수 있다"
+        },
+        {
+          "text": "your bags",
+          "role": "O",
+          "ko": "가방을"
+        },
+        {
+          "text": "at the front desk.",
+          "role": "M",
+          "ko": "안내 데스크에"
+        }
+      ],
+      "skeleton": "If you arrive early, you can leave your bags.",
+      "explanation": "If가 이끄는 조건절(종속절) 뒤에 콤마, 그다음 주절(you can leave)이 온다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s7",
+      "chunks": [
+        {
+          "text": "Our staff",
+          "role": "S",
+          "ko": "저희 직원이"
+        },
+        {
+          "text": "will keep",
+          "role": "V",
+          "ko": "보관할 것이다"
+        },
+        {
+          "text": "them",
+          "role": "O",
+          "ko": "그것들(가방)을"
+        },
+        {
+          "text": "safely",
+          "role": "M",
+          "ko": "안전하게"
+        },
+        {
+          "text": "until",
+          "role": "CONJ",
+          "ko": "~할 때까지"
+        },
+        {
+          "text": "your room",
+          "role": "S",
+          "ko": "객실이",
+          "sub": true
+        },
+        {
+          "text": "is",
+          "role": "V",
+          "ko": "~이다",
+          "sub": true
+        },
+        {
+          "text": "ready.",
+          "role": "C",
+          "ko": "준비된",
+          "sub": true
+        }
+      ],
+      "skeleton": "Our staff will keep them until your room is ready.",
+      "explanation": "them은 앞 문장의 your bags를 가리킨다. until 뒤 시간절에서는 미래 일이라도 현재형(is)을 쓴다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "현재 수동태 is p.p.",
+      "tags": [
+        "수동태"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "is served"
+      ],
+      "explanation": "아침 식사는 '제공되는' 대상이므로 be + 과거분사(is served). 매일 반복되는 일이라 현재형이다.",
+      "example": {
+        "en": "Lunch is served from noon to two.",
+        "ko": "점심은 12시부터 2시까지 제공된다."
+      },
+      "note": "호텔·식당 지문에서 is served, is included, is located 같은 수동태가 자주 나온다."
+    },
+    {
+      "id": "g2",
+      "title": "주어-동사 수 일치(3인칭 단수)",
+      "tags": [
+        "일치"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "Your room includes"
+      ],
+      "explanation": "주어 Your room은 단수(3인칭)이므로 현재형 동사에 -s를 붙인다: include → includes.",
+      "example": {
+        "en": "The package includes a free map.",
+        "ko": "그 패키지에는 무료 지도가 포함되어 있다."
+      },
+      "note": "주어가 단수인지 복수인지 먼저 확인하면 동사 문제를 쉽게 푼다."
+    },
+    {
+      "id": "g3",
+      "title": "조건의 if절",
+      "tags": [
+        "부사절",
+        "접속사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "If you need to change your plans"
+      ],
+      "explanation": "If + 주어 + 동사(현재형)는 '~하면'이라는 조건을 나타낸다. 뒤에 please + 동사원형의 부탁이 자주 온다.",
+      "example": {
+        "en": "If you have questions, please call us.",
+        "ko": "질문이 있으시면 전화 주세요."
+      },
+      "note": "이메일 끝부분의 'If you ..., please ...' 문장은 Part 6 단골 표현."
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리)",
+      "form": null,
+      "ipa": "/dɪr/",
+      "synonyms": [
+        "to"
+      ]
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "moore": {
+      "lemma": "Moore",
+      "pos": "proper-noun",
+      "ko": "무어(사람 성)",
+      "form": null,
+      "ipa": "/mʊr/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)은, 당신을",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안, ~을 위해, ~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "choosing": {
+      "lemma": "choose",
+      "pos": "verb",
+      "ko": "선택하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "select",
+        "pick"
+      ],
+      "ipa": "/ˈtʃuːzɪŋ/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "harborview": {
+      "lemma": "Harborview",
+      "pos": "proper-noun",
+      "ko": "하버뷰(호텔 이름)",
+      "form": null,
+      "ipa": null
+    },
+    "inn": {
+      "lemma": "inn",
+      "pos": "noun",
+      "ko": "(작은) 호텔, 여관",
+      "form": null,
+      "synonyms": [
+        "hotel",
+        "lodge"
+      ],
+      "ipa": "/ɪn/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "message",
+        "mail"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "confirms": {
+      "lemma": "confirm",
+      "pos": "verb",
+      "ko": "확인해 주다, 확정하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "verify",
+        "approve"
+      ],
+      "ipa": "/kənˈfɜːrmz/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "reservation": {
+      "lemma": "reservation",
+      "pos": "noun",
+      "ko": "예약",
+      "form": null,
+      "synonyms": [
+        "booking"
+      ],
+      "ipa": "/ˌrɛzərˈveɪʃən/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "double": {
+      "lemma": "double",
+      "pos": "adjective",
+      "ko": "2인용의, 더블의",
+      "form": null,
+      "synonyms": [
+        "two-person"
+      ],
+      "ipa": "/ˈdʌbəl/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": null,
+      "synonyms": [
+        "space",
+        "chamber"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "march": {
+      "lemma": "March",
+      "pos": "proper-noun",
+      "ko": "3월",
+      "form": null,
+      "ipa": "/mɑːrtʃ/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "includes": {
+      "lemma": "include",
+      "pos": "verb",
+      "ko": "포함하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "contain",
+        "cover"
+      ],
+      "ipa": "/ˌɪnˈkluːdz/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "ocean": {
+      "lemma": "ocean",
+      "pos": "noun",
+      "ko": "바다",
+      "form": null,
+      "synonyms": [
+        "sea"
+      ],
+      "ipa": "/ˈoʊʃən/"
+    },
+    "view": {
+      "lemma": "view",
+      "pos": "noun",
+      "ko": "전망, 경치",
+      "form": null,
+      "synonyms": [
+        "sight",
+        "scene"
+      ],
+      "ipa": "/vjuː/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "free": {
+      "lemma": "free",
+      "pos": "adjective",
+      "ko": "무료의",
+      "form": null,
+      "synonyms": [
+        "complimentary",
+        "no-cost"
+      ],
+      "ipa": "/friː/"
+    },
+    "wireless": {
+      "lemma": "wireless",
+      "pos": "adjective",
+      "ko": "무선의",
+      "form": null,
+      "synonyms": [
+        "Wi-Fi",
+        "cordless"
+      ],
+      "ipa": "/ˈwaɪrlɪs/"
+    },
+    "internet": {
+      "lemma": "Internet",
+      "pos": "noun",
+      "ko": "인터넷",
+      "form": null,
+      "synonyms": [
+        "web",
+        "online access"
+      ],
+      "ipa": "/ˈɪntərˌnɛt/"
+    },
+    "check-in": {
+      "lemma": "check-in",
+      "pos": "noun",
+      "ko": "체크인, 투숙 수속",
+      "form": null,
+      "synonyms": [
+        "registration",
+        "arrival"
+      ],
+      "ipa": "/tʃɛk-ɪn/"
+    },
+    "begins": {
+      "lemma": "begin",
+      "pos": "verb",
+      "ko": "시작되다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "start",
+        "open"
+      ],
+      "ipa": "/bɪˈɡɪnz/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 3",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "o'clock": {
+      "lemma": "o'clock",
+      "pos": "adverb",
+      "ko": "~시 (정각)",
+      "form": null,
+      "ipa": "/əˈklɑːk/",
+      "synonyms": [
+        "sharp"
+      ]
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "afternoon": {
+      "lemma": "afternoon",
+      "pos": "noun",
+      "ko": "오후",
+      "form": null,
+      "ipa": "/ˌæftərˈnuːn/",
+      "synonyms": [
+        "later in the day"
+      ]
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "arrive": {
+      "lemma": "arrive",
+      "pos": "verb",
+      "ko": "도착하다",
+      "form": null,
+      "synonyms": [
+        "come",
+        "get there"
+      ],
+      "ipa": "/əˈraɪv/"
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "preposition",
+      "ko": "~ 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그, 저; (접속사) ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "time": {
+      "lemma": "time",
+      "pos": "noun",
+      "ko": "시간, 때",
+      "form": null,
+      "synonyms": [
+        "hour",
+        "moment"
+      ],
+      "ipa": "/taɪm/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "leave": {
+      "lemma": "leave",
+      "pos": "verb",
+      "ko": "맡기다, 남기다",
+      "form": null,
+      "synonyms": [
+        "drop off",
+        "deposit"
+      ],
+      "ipa": "/liːv/"
+    },
+    "bags": {
+      "lemma": "bag",
+      "pos": "noun",
+      "ko": "가방",
+      "form": "복수형",
+      "synonyms": [
+        "luggage",
+        "suitcase"
+      ],
+      "ipa": "/bæɡz/"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "adjective",
+      "ko": "앞쪽의, 정면의",
+      "form": null,
+      "synonyms": [
+        "main"
+      ],
+      "ipa": "/frʌnt/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 접수처",
+      "form": null,
+      "synonyms": [
+        "counter"
+      ],
+      "ipa": "/dɛsk/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원(전체)",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "keep": {
+      "lemma": "keep",
+      "pos": "verb",
+      "ko": "보관하다, 맡아 두다",
+      "form": null,
+      "synonyms": [
+        "hold",
+        "store"
+      ],
+      "ipa": "/kiːp/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을, 그들을",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "safely": {
+      "lemma": "safely",
+      "pos": "adverb",
+      "ko": "안전하게",
+      "form": null,
+      "synonyms": [
+        "securely",
+        "carefully"
+      ],
+      "ipa": "/ˈseɪfli/"
+    },
+    "until": {
+      "lemma": "until",
+      "pos": "conjunction",
+      "ko": "~할 때까지",
+      "form": null,
+      "ipa": "/ənˈtɪl/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "ready": {
+      "lemma": "ready",
+      "pos": "adjective",
+      "ko": "준비된",
+      "form": null,
+      "synonyms": [
+        "prepared",
+        "available"
+      ],
+      "ipa": "/ˈrɛdi/"
+    },
+    "breakfast": {
+      "lemma": "breakfast",
+      "pos": "noun",
+      "ko": "아침 식사",
+      "form": null,
+      "synonyms": [
+        "morning meal"
+      ],
+      "ipa": "/ˈbrɛkfəst/"
+    },
+    "served": {
+      "lemma": "serve",
+      "pos": "verb",
+      "ko": "(음식을) 제공하다",
+      "form": "과거분사",
+      "synonyms": [
+        "offer",
+        "provide"
+      ],
+      "ipa": "/sɜːrvd/"
+    },
+    "restaurant": {
+      "lemma": "restaurant",
+      "pos": "noun",
+      "ko": "식당",
+      "form": null,
+      "synonyms": [
+        "dining room",
+        "eatery"
+      ],
+      "ipa": "/ˈrɛstəˌrɑːnt/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜·층·위)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "first": {
+      "lemma": "first",
+      "pos": "adjective",
+      "ko": "첫 번째의, 1~",
+      "form": null,
+      "synonyms": [
+        "ground"
+      ],
+      "ipa": "/fɜːrst/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "every": {
+      "lemma": "every",
+      "pos": "determiner",
+      "ko": "매~, 모든",
+      "form": null,
+      "ipa": "/ˈɛvəri/"
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "synonyms": [
+        "forenoon"
+      ]
+    },
+    "need": {
+      "lemma": "need",
+      "pos": "verb",
+      "ko": "~해야 하다, 필요하다",
+      "form": null,
+      "synonyms": [
+        "have to",
+        "require"
+      ],
+      "ipa": "/niːd/"
+    },
+    "change": {
+      "lemma": "change",
+      "pos": "verb",
+      "ko": "바꾸다, 변경하다",
+      "form": null,
+      "synonyms": [
+        "alter",
+        "modify"
+      ],
+      "ipa": "/tʃeɪndʒ/"
+    },
+    "plans": {
+      "lemma": "plan",
+      "pos": "noun",
+      "ko": "계획, 일정",
+      "form": "복수형",
+      "synonyms": [
+        "schedule",
+        "arrangement"
+      ],
+      "ipa": "/plænz/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/",
+      "synonyms": [
+        "kindly"
+      ]
+    },
+    "contact": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": null,
+      "synonyms": [
+        "call",
+        "reach"
+      ],
+      "ipa": "/ˈkɑːnˌtækt/"
+    },
+    "us": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리를",
+      "form": "목적격",
+      "ipa": "/ʌs/"
+    },
+    "least": {
+      "lemma": "little",
+      "pos": "adverb",
+      "ko": "(at least) 적어도",
+      "form": "최상급",
+      "ipa": "/liːst/",
+      "synonyms": [
+        "minimum"
+      ]
+    },
+    "hours": {
+      "lemma": "hour",
+      "pos": "noun",
+      "ko": "시간",
+      "form": "복수형",
+      "ipa": "/ˈaʊərz/",
+      "synonyms": [
+        "time"
+      ]
+    },
+    "arrival": {
+      "lemma": "arrival",
+      "pos": "noun",
+      "ko": "도착",
+      "form": null,
+      "synonyms": [
+        "coming",
+        "check-in"
+      ],
+      "ipa": "/əˈraɪvəl/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "hope": {
+      "lemma": "hope",
+      "pos": "verb",
+      "ko": "바라다",
+      "form": null,
+      "synonyms": [
+        "wish",
+        "expect"
+      ],
+      "ipa": "/hoʊp/"
+    },
+    "enjoy": {
+      "lemma": "enjoy",
+      "pos": "verb",
+      "ko": "즐기다",
+      "form": null,
+      "synonyms": [
+        "like",
+        "have fun with"
+      ],
+      "ipa": "/ˌɛnˈdʒɔɪ/"
+    },
+    "stay": {
+      "lemma": "stay",
+      "pos": "noun",
+      "ko": "머무름, 숙박",
+      "form": null,
+      "synonyms": [
+        "visit",
+        "trip"
+      ],
+      "ipa": "/steɪ/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로 (편지 맺음말)",
+      "form": null,
+      "synonyms": [
+        "truly"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "emma": {
+      "lemma": "Emma",
+      "pos": "proper-noun",
+      "ko": "엠마(사람 이름)",
+      "form": null,
+      "ipa": "/ˈɛmə/"
+    },
+    "hughes": {
+      "lemma": "Hughes",
+      "pos": "proper-noun",
+      "ko": "휴즈(사람 성)",
+      "form": null,
+      "ipa": "/hjuːz/"
+    },
+    "guest": {
+      "lemma": "guest",
+      "pos": "noun",
+      "ko": "손님, 투숙객",
+      "form": null,
+      "synonyms": [
+        "visitor",
+        "customer"
+      ],
+      "ipa": "/ɡɛst/"
+    },
+    "services": {
+      "lemma": "service",
+      "pos": "noun",
+      "ko": "서비스, 업무",
+      "form": "복수형",
+      "synonyms": [
+        "assistance",
+        "support"
+      ],
+      "ipa": "/ˈsɜːrvəsəz/"
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "boss"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "includes"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "include"
+        },
+        {
+          "key": "B",
+          "text": "including"
+        },
+        {
+          "key": "C",
+          "text": "inclusion"
+        },
+        {
+          "key": "D",
+          "text": "includes"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "문장에 동사가 없으므로 빈칸은 동사 자리. 주어 Your room이 단수라서 includes가 정답.",
+      "choiceNotesKo": {
+        "A": "include는 복수 주어와 쓴다.",
+        "B": "including은 -ing형이라 혼자 동사가 될 수 없다.",
+        "C": "inclusion은 명사."
+      },
+      "skill": "동사 자리(수 일치)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "before"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "before"
+        },
+        {
+          "key": "B",
+          "text": "until"
+        },
+        {
+          "key": "C",
+          "text": "since"
+        },
+        {
+          "key": "D",
+          "text": "among"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "앞 문장에서 체크인이 3시에 시작한다고 했다. '그 시간 전에' 도착하면 가방을 맡길 수 있다는 흐름이므로 before.",
+      "choiceNotesKo": {
+        "B": "until은 '~까지 계속'이라 arrive(도착하다)처럼 한 번에 끝나는 동작과 쓰지 않는다.",
+        "C": "since는 '~이후로'로 현재완료와 쓰며 흐름에도 맞지 않는다."
+      },
+      "skill": "시간 전치사 before"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part6-sentence",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "Our staff will keep them safely until your room is ready."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Please return your room key when you check out."
+        },
+        {
+          "key": "B",
+          "text": "Our restaurant does not serve breakfast on weekends."
+        },
+        {
+          "key": "C",
+          "text": "Our staff will keep them safely until your room is ready."
+        },
+        {
+          "key": "D",
+          "text": "The hotel will open a new swimming pool next year."
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "바로 앞 문장이 '안내 데스크에 가방을 맡길 수 있다'이다. them(그것들 = 가방)을 객실이 준비될 때까지 보관해 준다는 C가 자연스럽게 이어진다.",
+      "choiceNotesKo": {
+        "A": "체크아웃 이야기는 체크인 문단에 어울리지 않는다.",
+        "B": "뒤에서 아침 식사가 '매일 아침' 제공된다고 했으므로 맞지 않는다.",
+        "D": "가방 맡기기와 관계없는 내용."
+      },
+      "skill": "문장 넣기(대명사 them 단서)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "is served"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "serves"
+        },
+        {
+          "key": "B",
+          "text": "is served"
+        },
+        {
+          "key": "C",
+          "text": "serving"
+        },
+        {
+          "key": "D",
+          "text": "to serve"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "아침 식사는 '제공되는' 대상이고 뒤에 목적어가 없다. 수동태 is served가 정답.",
+      "choiceNotesKo": {
+        "A": "serves는 능동이라 '아침 식사가 무언가를 제공한다'가 된다.",
+        "C": "serving은 혼자 동사가 될 수 없다."
+      },
+      "skill": "현재 수동태"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part6-word",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "contact"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "contact"
+        },
+        {
+          "key": "B",
+          "text": "reply"
+        },
+        {
+          "key": "C",
+          "text": "speak"
+        },
+        {
+          "key": "D",
+          "text": "arrive"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "일정 변경이 필요하면 호텔에 '연락하라'는 뜻. contact는 전치사 없이 목적어(us)를 바로 쓴다.",
+      "choiceNotesKo": {
+        "B": "reply는 reply to us처럼 to가 필요하다.",
+        "C": "speak도 speak to us처럼 전치사가 필요하다."
+      },
+      "skill": "동사 어휘(contact + 목적어)"
+    }
+  ]
+}

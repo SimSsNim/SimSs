@@ -1,0 +1,1625 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part5",
+  "id": "2026-11-28-L1-part5",
+  "date": "2026-11-28",
+  "level": 1,
+  "title": "Part 5 Practice Set",
+  "titleKo": "Part 5 단문 빈칸 10문제",
+  "genre": "sentences",
+  "tags": [
+    "TOEIC Part 5"
+  ],
+  "source": {
+    "work": "TOEIC-style practice set",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 117,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "Rosewood 식당의 새 메뉴는 직장인들에게 매우 인기가 많다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2"
+      ],
+      "ko": "Park 씨는 월요일에 영업팀에게 짧은 발표를 했다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s3"
+      ],
+      "ko": "기술자가 2층의 고장 난 프린터를 빠르게 수리했다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s4"
+      ],
+      "ko": "우리는 새 웹사이트에 대해 고객들로부터 도움이 되는 의견을 많이 받았다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s5"
+      ],
+      "ko": "Lee 씨는 서울로 옮기기 전에 도쿄 지점에서 3년 동안 일했다."
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s6"
+      ],
+      "ko": "새 의자들은 내일 아침 회의실로 배달될 것이다."
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s7"
+      ],
+      "ko": "매니저는 이번 주 주간 회의를 목요일에 열고 싶어 한다."
+    },
+    {
+      "id": "p8",
+      "sentenceIds": [
+        "s8"
+      ],
+      "ko": "난방 장치가 작동을 멈춰서 가게가 일찍 문을 닫았다."
+    },
+    {
+      "id": "p9",
+      "sentenceIds": [
+        "s9"
+      ],
+      "ko": "직원들은 본관 건물 뒤에 차를 주차할 수 있다."
+    },
+    {
+      "id": "p10",
+      "sentenceIds": [
+        "s10"
+      ],
+      "ko": "이 양식을 작성해서 안내 데스크에 다시 제출해 주세요."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "The new menu at Rosewood Diner is very popular with office workers.",
+      "ko": "Rosewood 식당의 새 메뉴는 직장인들에게 매우 인기가 많다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Ms. Park gave a short presentation to the sales team on Monday.",
+      "ko": "Park 씨는 월요일에 영업팀에게 짧은 발표를 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p3",
+      "en": "The technician quickly repaired the broken printer on the second floor.",
+      "ko": "기술자가 2층의 고장 난 프린터를 빠르게 수리했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p4",
+      "en": "We received many helpful comments from customers about the new website.",
+      "ko": "우리는 새 웹사이트에 대해 고객들로부터 도움이 되는 의견을 많이 받았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p5",
+      "en": "Mr. Lee worked at the Tokyo branch for three years before he moved to Seoul.",
+      "ko": "Lee 씨는 서울로 옮기기 전에 도쿄 지점에서 3년 동안 일했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p6",
+      "en": "The new chairs will be delivered to the meeting room tomorrow morning.",
+      "ko": "새 의자들은 내일 아침 회의실로 배달될 것이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p7",
+      "en": "The manager wants to hold the weekly meeting on Thursday this week.",
+      "ko": "매니저는 이번 주 주간 회의를 목요일에 열고 싶어 한다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p8",
+      "en": "The store closed early because the heating system stopped working.",
+      "ko": "난방 장치가 작동을 멈춰서 가게가 일찍 문을 닫았다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p9",
+      "en": "Staff members can park their cars behind the main building.",
+      "ko": "직원들은 본관 건물 뒤에 차를 주차할 수 있다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p10",
+      "en": "Please fill out this form and return it to the front desk.",
+      "ko": "이 양식을 작성해서 안내 데스크에 다시 제출해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "presentation",
+      "pos": "noun",
+      "meaningKo": "발표, 프레젠테이션",
+      "ipa": "/ˌprɛzənˈteɪʃən/",
+      "synonyms": [
+        "talk",
+        "speech"
+      ],
+      "matchText": "presentation",
+      "sentenceId": "s2",
+      "example": {
+        "en": "He will give a presentation on the new product.",
+        "ko": "그는 신제품에 대해 발표할 것이다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "repair",
+      "pos": "verb",
+      "meaningKo": "수리하다, 고치다",
+      "ipa": "/rɪˈpɛr/",
+      "synonyms": [
+        "fix",
+        "mend"
+      ],
+      "matchText": "repaired",
+      "sentenceId": "s3",
+      "example": {
+        "en": "The mechanic repaired my car in one day.",
+        "ko": "정비사가 하루 만에 내 차를 수리했다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "branch",
+      "pos": "noun",
+      "meaningKo": "지점, 지사",
+      "ipa": "/bræntʃ/",
+      "synonyms": [
+        "office",
+        "location"
+      ],
+      "matchText": "branch",
+      "sentenceId": "s5",
+      "example": {
+        "en": "The bank has a branch near the station.",
+        "ko": "그 은행은 역 근처에 지점이 있다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "fill out",
+      "pos": "phrasal-verb",
+      "meaningKo": "(서류·양식을) 작성하다",
+      "ipa": "/fɪl aʊt/",
+      "synonyms": [
+        "complete",
+        "fill in"
+      ],
+      "matchText": "fill out",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Please fill out the application form.",
+        "ko": "지원서를 작성해 주세요."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "front desk",
+      "pos": "noun",
+      "meaningKo": "(호텔·회사의) 안내 데스크, 프런트",
+      "ipa": "/frʌnt dɛsk/",
+      "synonyms": [
+        "reception",
+        "front counter"
+      ],
+      "matchText": "front desk",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Leave your key at the front desk.",
+        "ko": "열쇠는 프런트에 맡겨 주세요."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s5",
+      "chunks": [
+        {
+          "text": "Mr. Lee",
+          "role": "S",
+          "ko": "Lee 씨는"
+        },
+        {
+          "text": "worked",
+          "role": "V",
+          "ko": "일했다"
+        },
+        {
+          "text": "at the Tokyo branch",
+          "role": "M",
+          "ko": "도쿄 지점에서"
+        },
+        {
+          "text": "for three years",
+          "role": "M",
+          "ko": "3년 동안"
+        },
+        {
+          "text": "before",
+          "role": "CONJ",
+          "ko": "~하기 전에"
+        },
+        {
+          "text": "he",
+          "role": "S",
+          "ko": "그가",
+          "sub": true
+        },
+        {
+          "text": "moved",
+          "role": "V",
+          "ko": "옮겼다",
+          "sub": true
+        },
+        {
+          "text": "to Seoul.",
+          "role": "M",
+          "ko": "서울로",
+          "sub": true
+        }
+      ],
+      "skeleton": "Mr. Lee worked (for three years) before he moved.",
+      "explanation": "before 뒤에 '주어 + 동사(he moved)'가 오는 접속사 구조. 지난 일이므로 두 동사 모두 과거형."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s10",
+      "chunks": [
+        {
+          "text": "Please",
+          "role": "M",
+          "ko": "~해 주세요"
+        },
+        {
+          "text": "fill out",
+          "role": "V",
+          "ko": "작성하다"
+        },
+        {
+          "text": "this form",
+          "role": "O",
+          "ko": "이 양식을"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "ko": "그리고"
+        },
+        {
+          "text": "return",
+          "role": "V",
+          "ko": "돌려주다"
+        },
+        {
+          "text": "it",
+          "role": "O",
+          "ko": "그것을"
+        },
+        {
+          "text": "to the front desk.",
+          "role": "M",
+          "ko": "안내 데스크로"
+        }
+      ],
+      "skeleton": "(Please) fill out the form and return it.",
+      "explanation": "명령문: 주어 없이 동사원형으로 시작. and가 두 동사 fill out과 return을 나란히 잇는다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "미래 수동태 will be p.p.",
+      "tags": [
+        "수동태",
+        "시제"
+      ],
+      "sentenceId": "s6",
+      "highlight": [
+        "will be delivered"
+      ],
+      "explanation": "의자는 스스로 배달하지 않고 '배달되는' 대상이다. 그래서 수동태(be + 과거분사)를 쓰고, tomorrow가 있으니 미래형 will be delivered가 된다.",
+      "example": {
+        "en": "The report will be sent to you tomorrow.",
+        "ko": "보고서는 내일 당신에게 보내질 것이다."
+      },
+      "note": "주어가 사물이고 뒤에 목적어가 없으면 수동태부터 의심하자."
+    },
+    {
+      "id": "g2",
+      "title": "want + to부정사",
+      "tags": [
+        "to부정사"
+      ],
+      "sentenceId": "s7",
+      "highlight": [
+        "wants to hold"
+      ],
+      "explanation": "want(원하다)는 뒤에 to + 동사원형을 목적어로 쓴다. want holding(×), want hold(×).",
+      "example": {
+        "en": "She wants to visit the factory.",
+        "ko": "그녀는 공장을 방문하고 싶어 한다."
+      },
+      "note": "want, plan, decide, hope, need 뒤에는 to부정사가 온다."
+    },
+    {
+      "id": "g3",
+      "title": "because + 문장 vs because of + 명사",
+      "tags": [
+        "접속사",
+        "전치사"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "because the heating system stopped working"
+      ],
+      "explanation": "because는 접속사라서 뒤에 '주어 + 동사'가 온다. because of는 전치사라서 뒤에 명사만 온다(because of the cold weather).",
+      "example": {
+        "en": "We stayed inside because it was raining.",
+        "ko": "비가 와서 우리는 안에 있었다."
+      },
+      "note": "빈칸 뒤에 동사가 보이면 접속사, 명사만 있으면 전치사."
+    }
+  ],
+  "glossary": {
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "new": {
+      "lemma": "new",
+      "pos": "adjective",
+      "ko": "새로운",
+      "form": null,
+      "synonyms": [
+        "recent",
+        "fresh"
+      ],
+      "ipa": "/nuː/"
+    },
+    "menu": {
+      "lemma": "menu",
+      "pos": "noun",
+      "ko": "메뉴, 차림표",
+      "form": null,
+      "synonyms": [
+        "list of dishes"
+      ],
+      "ipa": "/ˈmɛnju/"
+    },
+    "at": {
+      "lemma": "at",
+      "pos": "preposition",
+      "ko": "~에, ~에서",
+      "form": null,
+      "ipa": "/æt/"
+    },
+    "rosewood": {
+      "lemma": "Rosewood",
+      "pos": "proper-noun",
+      "ko": "로즈우드(식당 이름)",
+      "form": null,
+      "ipa": "/ˈroʊzˌwʊd/"
+    },
+    "diner": {
+      "lemma": "diner",
+      "pos": "noun",
+      "ko": "(작은) 식당",
+      "form": null,
+      "synonyms": [
+        "restaurant",
+        "cafe"
+      ],
+      "ipa": "/ˈdaɪnər/"
+    },
+    "is": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~에 있다",
+      "form": "3인칭 단수",
+      "ipa": "/ɪz/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "매우",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "popular": {
+      "lemma": "popular",
+      "pos": "adjective",
+      "ko": "인기 있는",
+      "form": null,
+      "synonyms": [
+        "well-liked",
+        "favorite"
+      ],
+      "ipa": "/ˈpɑːpjələr/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고, ~에게",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "office": {
+      "lemma": "office",
+      "pos": "noun",
+      "ko": "사무실, 사무소",
+      "form": null,
+      "synonyms": [
+        "workplace",
+        "bureau"
+      ],
+      "ipa": "/ˈɔːfɪs/"
+    },
+    "workers": {
+      "lemma": "worker",
+      "pos": "noun",
+      "ko": "직원, 노동자",
+      "form": "복수형",
+      "synonyms": [
+        "employee",
+        "staff member"
+      ],
+      "ipa": "/ˈwɜːrkərz/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "park": {
+      "lemma": "Park",
+      "pos": "proper-noun",
+      "ko": "박(사람 성)",
+      "form": null,
+      "ipa": "/pɑːrk/"
+    },
+    "gave": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다, (발표를) 하다",
+      "form": "과거형",
+      "synonyms": [
+        "deliver",
+        "present"
+      ],
+      "ipa": "/ɡeɪv/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "short": {
+      "lemma": "short",
+      "pos": "adjective",
+      "ko": "짧은",
+      "form": null,
+      "synonyms": [
+        "brief",
+        "quick"
+      ],
+      "ipa": "/ʃɔːrt/"
+    },
+    "presentation": {
+      "lemma": "presentation",
+      "pos": "noun",
+      "ko": "발표",
+      "form": null,
+      "synonyms": [
+        "talk",
+        "speech"
+      ],
+      "ipa": "/ˌprɛzənˈteɪʃən/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "sales": {
+      "lemma": "sales",
+      "pos": "noun",
+      "ko": "영업, 판매",
+      "form": null,
+      "synonyms": [
+        "selling",
+        "trade"
+      ],
+      "ipa": "/seɪlz/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀",
+      "form": null,
+      "synonyms": [
+        "group",
+        "unit"
+      ],
+      "ipa": "/tiːm/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜·층·위)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "monday": {
+      "lemma": "Monday",
+      "pos": "proper-noun",
+      "ko": "월요일",
+      "form": null,
+      "ipa": "/ˈmʌndi/"
+    },
+    "technician": {
+      "lemma": "technician",
+      "pos": "noun",
+      "ko": "기술자",
+      "form": null,
+      "synonyms": [
+        "engineer",
+        "repair person"
+      ],
+      "ipa": "/tɛkˈnɪʃən/"
+    },
+    "quickly": {
+      "lemma": "quickly",
+      "pos": "adverb",
+      "ko": "빠르게",
+      "form": null,
+      "synonyms": [
+        "fast",
+        "promptly"
+      ],
+      "ipa": "/ˈkwɪkli/"
+    },
+    "repaired": {
+      "lemma": "repair",
+      "pos": "verb",
+      "ko": "수리하다",
+      "form": "과거형",
+      "synonyms": [
+        "fix",
+        "mend"
+      ],
+      "ipa": "/rɪˈpɛrd/"
+    },
+    "broken": {
+      "lemma": "broken",
+      "pos": "adjective",
+      "ko": "고장 난",
+      "form": null,
+      "synonyms": [
+        "damaged",
+        "not working"
+      ],
+      "ipa": "/ˈbroʊkən/"
+    },
+    "printer": {
+      "lemma": "printer",
+      "pos": "noun",
+      "ko": "프린터, 인쇄기",
+      "form": null,
+      "ipa": "/ˈprɪntər/",
+      "synonyms": [
+        "printing machine"
+      ]
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "form": null,
+      "synonyms": [
+        "next",
+        "additional"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "floor": {
+      "lemma": "floor",
+      "pos": "noun",
+      "ko": "층",
+      "form": null,
+      "synonyms": [
+        "level",
+        "story"
+      ],
+      "ipa": "/flɔːr/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "received": {
+      "lemma": "receive",
+      "pos": "verb",
+      "ko": "받다",
+      "form": "과거형",
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "ipa": "/rəˈsiːvd/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "helpful": {
+      "lemma": "helpful",
+      "pos": "adjective",
+      "ko": "도움이 되는",
+      "form": null,
+      "synonyms": [
+        "useful",
+        "valuable"
+      ],
+      "ipa": "/ˈhɛlpfəl/"
+    },
+    "comments": {
+      "lemma": "comment",
+      "pos": "noun",
+      "ko": "의견, 논평",
+      "form": "복수형",
+      "synonyms": [
+        "remark",
+        "feedback"
+      ],
+      "ipa": "/ˈkɑːmɛnts/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~로부터, ~에서",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객, 손님",
+      "form": "복수형",
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "website": {
+      "lemma": "website",
+      "pos": "noun",
+      "ko": "웹사이트",
+      "form": null,
+      "synonyms": [
+        "site",
+        "web page"
+      ],
+      "ipa": "/ˈwɛbˌsaɪt/"
+    },
+    "mr": {
+      "lemma": "Mr.",
+      "pos": "noun",
+      "ko": "~씨 (남성 존칭)",
+      "form": "줄임말",
+      "ipa": "/ˈmɪstər/"
+    },
+    "lee": {
+      "lemma": "Lee",
+      "pos": "proper-noun",
+      "ko": "리/이(사람 성)",
+      "form": null,
+      "ipa": "/liː/"
+    },
+    "worked": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "일하다",
+      "form": "과거형",
+      "synonyms": [
+        "serve",
+        "be employed"
+      ],
+      "ipa": "/wɜːrkt/"
+    },
+    "tokyo": {
+      "lemma": "Tokyo",
+      "pos": "proper-noun",
+      "ko": "도쿄(일본 수도)",
+      "form": null,
+      "ipa": "/ˈtoʊkiˌoʊ/"
+    },
+    "branch": {
+      "lemma": "branch",
+      "pos": "noun",
+      "ko": "지점, 지사",
+      "form": null,
+      "synonyms": [
+        "office",
+        "location"
+      ],
+      "ipa": "/bræntʃ/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안, ~을 위해, ~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "three": {
+      "lemma": "three",
+      "pos": "number",
+      "ko": "셋, 3",
+      "form": null,
+      "ipa": "/θriː/"
+    },
+    "years": {
+      "lemma": "year",
+      "pos": "noun",
+      "ko": "해, 년",
+      "form": "복수형",
+      "ipa": "/jɪrz/",
+      "synonyms": [
+        "annum"
+      ]
+    },
+    "before": {
+      "lemma": "before",
+      "pos": "conjunction",
+      "ko": "~하기 전에",
+      "form": null,
+      "ipa": "/bɪˈfɔːr/"
+    },
+    "he": {
+      "lemma": "he",
+      "pos": "pronoun",
+      "ko": "그는",
+      "form": null,
+      "ipa": "/hiː/"
+    },
+    "moved": {
+      "lemma": "move",
+      "pos": "verb",
+      "ko": "옮기다, 이사하다",
+      "form": "과거형",
+      "synonyms": [
+        "relocate",
+        "transfer"
+      ],
+      "ipa": "/muːvd/"
+    },
+    "seoul": {
+      "lemma": "Seoul",
+      "pos": "proper-noun",
+      "ko": "서울(한국 수도)",
+      "form": null,
+      "ipa": "/soʊl/"
+    },
+    "chairs": {
+      "lemma": "chair",
+      "pos": "noun",
+      "ko": "의자",
+      "form": "복수형",
+      "synonyms": [
+        "seat"
+      ],
+      "ipa": "/tʃɛrz/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "delivered": {
+      "lemma": "deliver",
+      "pos": "verb",
+      "ko": "배달하다",
+      "form": "과거분사",
+      "synonyms": [
+        "bring",
+        "ship"
+      ],
+      "ipa": "/dɪˈlɪvərd/"
+    },
+    "meeting": {
+      "lemma": "meeting",
+      "pos": "noun",
+      "ko": "회의",
+      "form": null,
+      "synonyms": [
+        "conference",
+        "gathering"
+      ],
+      "ipa": "/ˈmiːtɪŋ/"
+    },
+    "room": {
+      "lemma": "room",
+      "pos": "noun",
+      "ko": "방, 실",
+      "form": null,
+      "synonyms": [
+        "space",
+        "chamber"
+      ],
+      "ipa": "/ruːm/"
+    },
+    "tomorrow": {
+      "lemma": "tomorrow",
+      "pos": "adverb",
+      "ko": "내일",
+      "form": null,
+      "ipa": "/təˈmɑːˌroʊ/",
+      "synonyms": [
+        "the next day"
+      ]
+    },
+    "morning": {
+      "lemma": "morning",
+      "pos": "noun",
+      "ko": "아침, 오전",
+      "form": null,
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "synonyms": [
+        "forenoon"
+      ]
+    },
+    "manager": {
+      "lemma": "manager",
+      "pos": "noun",
+      "ko": "관리자, 매니저",
+      "form": null,
+      "synonyms": [
+        "supervisor",
+        "boss"
+      ],
+      "ipa": "/ˈmænədʒər/"
+    },
+    "wants": {
+      "lemma": "want",
+      "pos": "verb",
+      "ko": "원하다",
+      "form": "3인칭 단수",
+      "synonyms": [
+        "wish",
+        "hope"
+      ],
+      "ipa": "/wɑːnts/"
+    },
+    "hold": {
+      "lemma": "hold",
+      "pos": "verb",
+      "ko": "(회의를) 열다, 개최하다",
+      "form": null,
+      "synonyms": [
+        "host",
+        "have"
+      ],
+      "ipa": "/hoʊld/"
+    },
+    "weekly": {
+      "lemma": "weekly",
+      "pos": "adjective",
+      "ko": "매주의, 주간의",
+      "form": null,
+      "synonyms": [
+        "every week"
+      ],
+      "ipa": "/ˈwiːkli/"
+    },
+    "thursday": {
+      "lemma": "Thursday",
+      "pos": "proper-noun",
+      "ko": "목요일",
+      "form": null,
+      "ipa": "/ˈθɜːrzˌdeɪ/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "week": {
+      "lemma": "week",
+      "pos": "noun",
+      "ko": "주, 일주일",
+      "form": null,
+      "ipa": "/wiːk/",
+      "synonyms": [
+        "seven days"
+      ]
+    },
+    "store": {
+      "lemma": "store",
+      "pos": "noun",
+      "ko": "가게, 상점",
+      "form": null,
+      "synonyms": [
+        "shop",
+        "outlet"
+      ],
+      "ipa": "/stɔːr/"
+    },
+    "closed": {
+      "lemma": "close",
+      "pos": "verb",
+      "ko": "(문을) 닫다",
+      "form": "과거형",
+      "synonyms": [
+        "shut"
+      ],
+      "ipa": "/kloʊzd/"
+    },
+    "early": {
+      "lemma": "early",
+      "pos": "adverb",
+      "ko": "일찍",
+      "form": null,
+      "synonyms": [
+        "ahead of time",
+        "soon"
+      ],
+      "ipa": "/ˈɜːrli/"
+    },
+    "because": {
+      "lemma": "because",
+      "pos": "conjunction",
+      "ko": "~ 때문에",
+      "form": null,
+      "ipa": "/bɪˈkɔːz/"
+    },
+    "heating": {
+      "lemma": "heating",
+      "pos": "noun",
+      "ko": "난방",
+      "form": null,
+      "ipa": "/ˈhiːtɪŋ/",
+      "synonyms": [
+        "heater",
+        "warmth"
+      ]
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "장치, 시스템",
+      "form": null,
+      "synonyms": [
+        "equipment",
+        "setup"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "stopped": {
+      "lemma": "stop",
+      "pos": "verb",
+      "ko": "멈추다",
+      "form": "과거형",
+      "synonyms": [
+        "quit",
+        "end"
+      ],
+      "ipa": "/stɑːpt/"
+    },
+    "working": {
+      "lemma": "work",
+      "pos": "verb",
+      "ko": "작동하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "function",
+        "run"
+      ],
+      "ipa": "/ˈwɜːrkɪŋ/"
+    },
+    "staff": {
+      "lemma": "staff",
+      "pos": "noun",
+      "ko": "직원(전체)",
+      "form": null,
+      "synonyms": [
+        "employees",
+        "workers"
+      ],
+      "ipa": "/stæf/"
+    },
+    "members": {
+      "lemma": "member",
+      "pos": "noun",
+      "ko": "구성원, 일원",
+      "form": "복수형",
+      "synonyms": [
+        "person"
+      ],
+      "ipa": "/ˈmɛmbərz/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "their": {
+      "lemma": "their",
+      "pos": "pronoun",
+      "ko": "그들의",
+      "form": "소유격",
+      "ipa": "/ðɛr/"
+    },
+    "cars": {
+      "lemma": "car",
+      "pos": "noun",
+      "ko": "차, 자동차",
+      "form": "복수형",
+      "synonyms": [
+        "vehicle"
+      ],
+      "ipa": "/kɑːrz/"
+    },
+    "behind": {
+      "lemma": "behind",
+      "pos": "preposition",
+      "ko": "~ 뒤에",
+      "form": null,
+      "ipa": "/bɪˈhaɪnd/"
+    },
+    "main": {
+      "lemma": "main",
+      "pos": "adjective",
+      "ko": "주된, 본(本)~",
+      "form": null,
+      "synonyms": [
+        "central",
+        "primary"
+      ],
+      "ipa": "/meɪn/"
+    },
+    "building": {
+      "lemma": "building",
+      "pos": "noun",
+      "ko": "건물",
+      "form": null,
+      "synonyms": [
+        "structure",
+        "facility"
+      ],
+      "ipa": "/ˈbɪldɪŋ/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "ipa": "/pliːz/",
+      "synonyms": [
+        "kindly"
+      ]
+    },
+    "fill": {
+      "lemma": "fill",
+      "pos": "verb",
+      "ko": "채우다 (fill out: 작성하다)",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "fill in"
+      ],
+      "ipa": "/fɪl/"
+    },
+    "out": {
+      "lemma": "out",
+      "pos": "adverb",
+      "ko": "밖으로; (fill out·carry out의 일부)",
+      "form": null,
+      "ipa": "/aʊt/",
+      "synonyms": [
+        "through"
+      ]
+    },
+    "form": {
+      "lemma": "form",
+      "pos": "noun",
+      "ko": "양식, 서식",
+      "form": null,
+      "synonyms": [
+        "document",
+        "sheet"
+      ],
+      "ipa": "/fɔːrm/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "return": {
+      "lemma": "return",
+      "pos": "verb",
+      "ko": "돌려주다, 반납하다",
+      "form": null,
+      "synonyms": [
+        "give back",
+        "hand in"
+      ],
+      "ipa": "/rɪˈtɜːrn/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "front": {
+      "lemma": "front",
+      "pos": "adjective",
+      "ko": "앞쪽의, 정면의",
+      "form": null,
+      "synonyms": [
+        "main"
+      ],
+      "ipa": "/frʌnt/"
+    },
+    "desk": {
+      "lemma": "desk",
+      "pos": "noun",
+      "ko": "데스크, 접수처",
+      "form": null,
+      "synonyms": [
+        "counter"
+      ],
+      "ipa": "/dɛsk/"
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s1",
+        "answerText": "popular"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "popularity"
+        },
+        {
+          "key": "B",
+          "text": "popular"
+        },
+        {
+          "key": "C",
+          "text": "popularly"
+        },
+        {
+          "key": "D",
+          "text": "popularize"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "be동사(is) + very 뒤는 주어를 설명하는 형용사 자리. popular(인기 있는)가 정답.",
+      "choiceNotesKo": {
+        "A": "popularity는 명사(인기). very는 명사를 꾸미지 못한다.",
+        "C": "popularly는 부사라 be동사의 보어가 될 수 없다."
+      },
+      "skill": "형용사 자리(be동사 + very 뒤)"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s2",
+        "answerText": "presentation"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "presents"
+        },
+        {
+          "key": "B",
+          "text": "presented"
+        },
+        {
+          "key": "C",
+          "text": "presentation"
+        },
+        {
+          "key": "D",
+          "text": "presentable"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "관사 a + 형용사 short 뒤는 명사 자리. presentation(발표)이 정답. give a presentation = 발표하다.",
+      "choiceNotesKo": {
+        "A": "presents는 동사(3인칭 단수) 또는 복수 명사(선물들)라 관사 a 뒤에 올 수 없다.",
+        "D": "presentable은 형용사(남 앞에 내놓을 만한)."
+      },
+      "skill": "명사 자리(관사 + 형용사 뒤)"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "quickly"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "quickly"
+        },
+        {
+          "key": "B",
+          "text": "quick"
+        },
+        {
+          "key": "C",
+          "text": "quickness"
+        },
+        {
+          "key": "D",
+          "text": "quicker"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "주어(The technician)와 동사(repaired) 사이는 동사를 꾸미는 부사 자리. quickly가 정답.",
+      "choiceNotesKo": {
+        "B": "quick은 형용사라 동사를 꾸밀 수 없다.",
+        "D": "quicker는 형용사의 비교급."
+      },
+      "skill": "부사 자리(주어와 동사 사이)"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "part5-word-form",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "helpful"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "help"
+        },
+        {
+          "key": "B",
+          "text": "helped"
+        },
+        {
+          "key": "C",
+          "text": "helpfully"
+        },
+        {
+          "key": "D",
+          "text": "helpful"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "many와 명사 comments 사이는 명사를 꾸미는 형용사 자리. helpful(도움이 되는)이 정답.",
+      "choiceNotesKo": {
+        "C": "helpfully는 부사라 명사를 꾸미지 못한다.",
+        "B": "helped comments(도움받은 의견)는 뜻이 맞지 않는다."
+      },
+      "skill": "형용사 자리(명사 앞)"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s5",
+        "answerText": "worked"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "works"
+        },
+        {
+          "key": "B",
+          "text": "worked"
+        },
+        {
+          "key": "C",
+          "text": "will work"
+        },
+        {
+          "key": "D",
+          "text": "working"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "뒤의 before he moved(옮기기 전에)가 과거이므로, 그보다 앞서 일한 것도 과거. 과거형 worked가 정답.",
+      "choiceNotesKo": {
+        "A": "현재형은 이미 끝난 과거 일과 맞지 않는다.",
+        "D": "working만으로는 문장의 동사가 될 수 없다."
+      },
+      "skill": "과거 시제(before + 과거)"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s6",
+        "answerText": "will be delivered"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "deliver"
+        },
+        {
+          "key": "B",
+          "text": "will deliver"
+        },
+        {
+          "key": "C",
+          "text": "will be delivered"
+        },
+        {
+          "key": "D",
+          "text": "delivering"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "의자는 '배달되는' 대상이고 뒤에 목적어가 없다. tomorrow morning이 있으니 미래 수동태 will be delivered.",
+      "choiceNotesKo": {
+        "B": "will deliver는 능동이라 '의자가 무언가를 배달한다'는 뜻이 된다."
+      },
+      "skill": "미래 수동태"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "part5-grammar",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "to hold"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "to hold"
+        },
+        {
+          "key": "B",
+          "text": "hold"
+        },
+        {
+          "key": "C",
+          "text": "holding"
+        },
+        {
+          "key": "D",
+          "text": "held"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "want는 to부정사를 목적어로 쓰는 동사. wants to hold(열고 싶어 한다)가 정답.",
+      "choiceNotesKo": {
+        "C": "want는 동명사(-ing)를 목적어로 쓰지 않는다."
+      },
+      "skill": "want + to부정사"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s8",
+        "answerText": "because"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "although"
+        },
+        {
+          "key": "B",
+          "text": "so"
+        },
+        {
+          "key": "C",
+          "text": "because of"
+        },
+        {
+          "key": "D",
+          "text": "because"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "빈칸 뒤에 '주어 + 동사(the heating system stopped)'가 있고, 일찍 닫은 '이유'이므로 접속사 because.",
+      "choiceNotesKo": {
+        "C": "because of는 전치사라 뒤에 문장이 올 수 없다.",
+        "A": "although(비록 ~지만)는 뜻이 반대로 이어진다.",
+        "B": "so를 쓰면 '가게가 일찍 닫아서 난방이 멈췄다'가 되어 원인과 결과가 뒤바뀐다."
+      },
+      "skill": "전치사 vs 접속사(because)"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "part5-connector",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "behind"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "among"
+        },
+        {
+          "key": "B",
+          "text": "behind"
+        },
+        {
+          "key": "C",
+          "text": "during"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "차를 주차하는 '장소'를 나타내야 한다. behind the main building(본관 뒤에)이 자연스럽다.",
+      "choiceNotesKo": {
+        "A": "among은 셋 이상 '사이에'로 복수 명사가 온다.",
+        "C": "during은 기간(during lunch)에 쓴다."
+      },
+      "skill": "장소 전치사 behind"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "part5-vocabulary",
+      "prompt": null,
+      "blank": {
+        "sentenceId": "s10",
+        "answerText": "return"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "return"
+        },
+        {
+          "key": "B",
+          "text": "arrive"
+        },
+        {
+          "key": "C",
+          "text": "visit"
+        },
+        {
+          "key": "D",
+          "text": "answer"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "양식을 작성한 뒤 안내 데스크에 '돌려주다, 제출하다'가 자연스럽다. return A to B = A를 B에게 돌려주다.",
+      "choiceNotesKo": {
+        "B": "arrive는 목적어(it)를 바로 쓸 수 없다(arrive at).",
+        "C": "visit it to는 말이 되지 않는다."
+      },
+      "skill": "동사 어휘(return A to B)"
+    }
+  ]
+}
