@@ -1,0 +1,1511 @@
+{
+  "schemaVersion": 2,
+  "track": "general",
+  "id": "2026-11-28-L3-3",
+  "date": "2026-11-28",
+  "level": 3,
+  "title": "The Happy Family",
+  "titleKo": "행복한 가족",
+  "genre": "fairy-tale",
+  "tags": [
+    "Andersen",
+    "fairy tale"
+  ],
+  "source": {
+    "work": "The Happy Family (in Andersen's Fairy Tales)",
+    "author": "Hans Christian Andersen",
+    "translator": null,
+    "year": 1847,
+    "edition": "Project Gutenberg #1597",
+    "url": "https://www.gutenberg.org/ebooks/1597",
+    "license": "public-domain",
+    "excerptNote": "'The Happy Family'('행복한 가족') 둘째·셋째 단락 전체 (‘Now, there was an old manor-house…’부터 ‘…boiled or laid on a silver dish.’까지, 230단어). 우엉 숲이 된 옛 저택 정원에 사는 마지막 늙은 흰 달팽이 두 마리와, 그들이 '삶아져 은접시에 놓이는 것'을 영광으로 여기는 이야기 (우엉 잎을 소개하는 첫 단락과, 달팽이들이 자신을 세상 최고의 신분이라 여기는 넷째 단락부터는 뺌). PG #1597 영어 번역 (Gutenberg에 번역자 표기 없음). gutenberg.org 점검 중(503)이라 archive.org에 보관된 같은 전자책(PG #1597, hcaft10.txt, 항목 andersensfairyta01597gut)에서 가져왔고, 줄바꿈만 공백 하나로 이음 (줄표(--), knew not 같은 옛 어순은 원문 그대로)."
+  },
+  "audio": {
+    "mp3": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_11_andersen.mp3",
+    "mp3Low": "https://www.archive.org/download/andersens_fairytales_librivox/fairytales_11_andersen_64kb.mp3",
+    "pageUrl": "https://librivox.org/andersens-fairy-tales-by-hc-andersen/",
+    "reader": "Gesine",
+    "durationSec": 507,
+    "startSec": 65,
+    "endSec": 165,
+    "note": "LibriVox 'Andersen's Fairy Tales'(PG #1597 낭독) 11번 트랙 'The Happy Family'(전체 8:27, 낭독 Gesine). 지문은 둘째·셋째 단락으로, 안내 멘트·제목·첫 단락 뒤 약 1:05~2:45 (단어 수로 어림한 추정). 트랙·낭독자·길이는 LibriVox API로 확인함."
+  },
+  "wordCount": 230,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1",
+        "s2"
+      ],
+      "ko": "그런데 오래된 저택이 하나 있었는데, 그곳에서는 더 이상 달팽이를 먹지 않았다. 달팽이들이 완전히 멸종해 버렸기 때문이다. 하지만 우엉은 멸종하지 않았다. 우엉은 자라고 또 자라 산책길과 화단을 온통 뒤덮었고, 사람들은 도저히 그것을 다스릴 수 없었다. 그곳은 그야말로 우엉의 숲이었다. 여기저기에 사과나무와 자두나무가 서 있었는데, 그것마저 없었다면 그곳이 정원이었다고는 아무도 생각하지 못했을 것이다. 온통 우엉뿐이었고, 그곳에 마지막 남은 늙고 존귀한 달팽이 두 마리가 살고 있었다."
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "그들 자신도 자기들이 몇 살인지 몰랐지만, 예전에는 훨씬 더 많은 달팽이가 있었다는 것, 자기들이 먼 외국에서 온 가문 출신이라는 것, 그리고 바로 자기들과 자기 일족을 위해 이 숲 전체가 심어졌다는 것은 아주 잘 기억하고 있었다. 그들은 숲 밖으로 나가 본 적이 한 번도 없었지만, 세상에는 '저택'이라고 불리는 무언가가 더 있다는 것, 그리고 거기서 자기들이 삶아지고, 그러면 까맣게 변하고, 그다음 은접시 위에 놓인다는 것은 알고 있었다. 하지만 그 뒤에 무슨 일이 일어나는지는 알지 못했다. 사실, 삶아진다는 것과 은접시 위에 눕는다는 것이 어떤 것인지 그들은 도무지 상상할 수 없었다. 하지만 그것은 아주 즐겁고 특히 품위 있는 일이라고들 했다. 그들이 그것에 대해 물어본 풍뎅이도, 두꺼비도, 지렁이도 아무런 정보를 줄 수 없었다. 그들 중 누구도 삶아지거나 은접시 위에 놓여 본 적이 없었기 때문이다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Now, there was an old manor-house, where they no longer ate snails, they were quite extinct; but the burdocks were not extinct, they grew and grew all over the walks and all the beds; they could not get the mastery over them--it was a whole forest of burdocks.",
+      "ko": "그런데 오래된 저택이 하나 있었는데, 그곳에서는 더 이상 달팽이를 먹지 않았다. 달팽이들이 완전히 멸종해 버렸기 때문이다. 하지만 우엉은 멸종하지 않았다. 우엉은 자라고 또 자라 산책길과 화단을 온통 뒤덮었고, 사람들은 도저히 그것을 다스릴 수 없었다. 그곳은 그야말로 우엉의 숲이었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p1",
+      "en": "Here and there stood an apple and a plum-tree, or else one never would have thought that it was a garden; all was burdocks, and there lived the two last venerable old snails.",
+      "ko": "여기저기에 사과나무와 자두나무가 서 있었는데, 그것마저 없었다면 그곳이 정원이었다고는 아무도 생각하지 못했을 것이다. 온통 우엉뿐이었고, 그곳에 마지막 남은 늙고 존귀한 달팽이 두 마리가 살고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "They themselves knew not how old they were, but they could remember very well that there had been many more; that they were of a family from foreign lands, and that for them and theirs the whole forest was planted.",
+      "ko": "그들 자신도 자기들이 몇 살인지 몰랐지만, 예전에는 훨씬 더 많은 달팽이가 있었다는 것, 자기들이 먼 외국에서 온 가문 출신이라는 것, 그리고 바로 자기들과 자기 일족을 위해 이 숲 전체가 심어졌다는 것은 아주 잘 기억하고 있었다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "They had never been outside it, but they knew that there was still something more in the world, which was called the manor-house, and that there they were boiled, and then they became black, and were then placed on a silver dish; but what happened further they knew not; or, in fact, what it was to be boiled, and to lie on a silver dish, they could not possibly imagine; but it was said to be delightful, and particularly genteel.",
+      "ko": "그들은 숲 밖으로 나가 본 적이 한 번도 없었지만, 세상에는 '저택'이라고 불리는 무언가가 더 있다는 것, 그리고 거기서 자기들이 삶아지고, 그러면 까맣게 변하고, 그다음 은접시 위에 놓인다는 것은 알고 있었다. 하지만 그 뒤에 무슨 일이 일어나는지는 알지 못했다. 사실, 삶아진다는 것과 은접시 위에 눕는다는 것이 어떤 것인지 그들은 도무지 상상할 수 없었다. 하지만 그것은 아주 즐겁고 특히 품위 있는 일이라고들 했다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "Neither the chafers, the toads, nor the earth-worms, whom they asked about it could give them any information--none of them had been boiled or laid on a silver dish.",
+      "ko": "그들이 그것에 대해 물어본 풍뎅이도, 두꺼비도, 지렁이도 아무런 정보를 줄 수 없었다. 그들 중 누구도 삶아지거나 은접시 위에 놓여 본 적이 없었기 때문이다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "term": "extinct",
+      "pos": "adjective",
+      "meaningKo": "멸종한, 사라진",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "synonyms": [
+        "vanished",
+        "dead",
+        "wiped out"
+      ],
+      "matchText": "extinct",
+      "sentenceId": "s1",
+      "example": {
+        "en": "Dinosaurs became extinct millions of years ago.",
+        "ko": "공룡은 수백만 년 전에 멸종했다."
+      }
+    },
+    {
+      "id": "v2",
+      "term": "get the mastery over",
+      "pos": "phrase",
+      "meaningKo": "~을 제압하다, 다스리다",
+      "ipa": "/ɡɛt ðə ˈmæstəri ˈoʊvər/",
+      "synonyms": [
+        "control",
+        "overcome",
+        "get the better of"
+      ],
+      "matchText": "get the mastery over",
+      "sentenceId": "s1",
+      "example": {
+        "en": "After years of practice, he got the mastery over his fear of the stage.",
+        "ko": "몇 년의 연습 끝에 그는 무대 공포증을 이겨 냈다."
+      }
+    },
+    {
+      "id": "v3",
+      "term": "here and there",
+      "pos": "idiom",
+      "meaningKo": "여기저기에, 군데군데",
+      "ipa": "/ˈhɪr ən ˈðɛr/",
+      "synonyms": [
+        "scattered about",
+        "in places",
+        "dotted around"
+      ],
+      "matchText": "Here and there",
+      "sentenceId": "s2",
+      "example": {
+        "en": "Here and there, a few flowers were blooming in the snow.",
+        "ko": "눈 속에 여기저기 꽃 몇 송이가 피어 있었다."
+      }
+    },
+    {
+      "id": "v4",
+      "term": "venerable",
+      "pos": "adjective",
+      "meaningKo": "(나이가 많아) 존경할 만한, 덕망 있는",
+      "ipa": "/ˈvɛnərəbəl/",
+      "synonyms": [
+        "respected",
+        "revered",
+        "honored"
+      ],
+      "matchText": "venerable",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The venerable professor was loved by all his students.",
+        "ko": "그 덕망 있는 노교수는 모든 학생에게 사랑받았다."
+      }
+    },
+    {
+      "id": "v5",
+      "term": "genteel",
+      "pos": "adjective",
+      "meaningKo": "품위 있는, 고상한, 상류층다운",
+      "ipa": "/dʒɛnˈtil/",
+      "synonyms": [
+        "refined",
+        "elegant",
+        "polite"
+      ],
+      "matchText": "genteel",
+      "sentenceId": "s4",
+      "example": {
+        "en": "She grew up in a genteel family with strict manners.",
+        "ko": "그녀는 예절이 엄격한 품위 있는 집안에서 자랐다."
+      }
+    }
+  ],
+  "structures": [
+    {
+      "id": "st1",
+      "sentenceId": "s2",
+      "chunks": [
+        {
+          "text": "Here and there",
+          "role": "M",
+          "sub": false,
+          "ko": "여기저기에"
+        },
+        {
+          "text": "stood",
+          "role": "V",
+          "sub": false,
+          "ko": "서 있었다"
+        },
+        {
+          "text": "an apple and a plum-tree,",
+          "role": "S",
+          "sub": false,
+          "ko": "사과나무와 자두나무가"
+        },
+        {
+          "text": "or else",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그렇지 않았다면"
+        },
+        {
+          "text": "one",
+          "role": "S",
+          "sub": false,
+          "ko": "사람은(누구도)"
+        },
+        {
+          "text": "never would have thought",
+          "role": "V",
+          "sub": false,
+          "ko": "결코 생각하지 못했을 것이다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라고"
+        },
+        {
+          "text": "it",
+          "role": "S",
+          "sub": true,
+          "ko": "그곳이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": true,
+          "ko": "~였다"
+        },
+        {
+          "text": "a garden;",
+          "role": "C",
+          "sub": true,
+          "ko": "정원"
+        },
+        {
+          "text": "all",
+          "role": "S",
+          "sub": false,
+          "ko": "모든 것이"
+        },
+        {
+          "text": "was",
+          "role": "V",
+          "sub": false,
+          "ko": "~였다"
+        },
+        {
+          "text": "burdocks,",
+          "role": "C",
+          "sub": false,
+          "ko": "우엉"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "그리고"
+        },
+        {
+          "text": "there",
+          "role": "M",
+          "sub": false,
+          "ko": "그곳에"
+        },
+        {
+          "text": "lived",
+          "role": "V",
+          "sub": false,
+          "ko": "살고 있었다"
+        },
+        {
+          "text": "the two last venerable old snails.",
+          "role": "S",
+          "sub": false,
+          "ko": "마지막 남은 늙고 존귀한 달팽이 두 마리가"
+        }
+      ],
+      "skeleton": "stood an apple and a plum-tree / one never would have thought / all was burdocks / there lived the two last snails",
+      "explanation": "Here and there(장소 부사)가 앞에 나오면서 주어(an apple and a plum-tree)와 동사(stood)가 뒤바뀌었다(도치). or else는 '그렇지 않았다면'이라는 뜻으로, 뒤의 would have thought(가정법 과거완료 느낌)와 함께 '나무가 없었다면 정원인 줄 몰랐을 것'이라는 뜻이 된다. 마지막 there lived ~ 도 장소 부사 there 뒤에 주어가 온 도치 구조다."
+    },
+    {
+      "id": "st2",
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "They themselves",
+          "role": "S",
+          "sub": false,
+          "ko": "그들 자신도"
+        },
+        {
+          "text": "knew not",
+          "role": "V",
+          "sub": false,
+          "ko": "알지 못했다"
+        },
+        {
+          "text": "how old",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "얼마나 나이 들었는지"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "were,",
+          "role": "V",
+          "sub": true,
+          "ko": "~였는지"
+        },
+        {
+          "text": "but",
+          "role": "CONJ",
+          "sub": false,
+          "ko": "하지만"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": false,
+          "ko": "그들은"
+        },
+        {
+          "text": "could remember",
+          "role": "V",
+          "sub": false,
+          "ko": "기억할 수 있었다"
+        },
+        {
+          "text": "very well",
+          "role": "M",
+          "sub": false,
+          "ko": "아주 잘"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "there had been",
+          "role": "V",
+          "sub": true,
+          "ko": "있었다"
+        },
+        {
+          "text": "many more;",
+          "role": "S",
+          "sub": true,
+          "ko": "훨씬 더 많은 수가"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "they",
+          "role": "S",
+          "sub": true,
+          "ko": "그들이"
+        },
+        {
+          "text": "were",
+          "role": "V",
+          "sub": true,
+          "ko": "~이었다"
+        },
+        {
+          "text": "of a family from foreign lands,",
+          "role": "C",
+          "sub": true,
+          "ko": "외국에서 온 가문 출신"
+        },
+        {
+          "text": "and",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "그리고"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "sub": true,
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "for them and theirs",
+          "role": "M",
+          "sub": true,
+          "ko": "그들과 그들 일족을 위해"
+        },
+        {
+          "text": "the whole forest",
+          "role": "S",
+          "sub": true,
+          "ko": "숲 전체가"
+        },
+        {
+          "text": "was planted.",
+          "role": "V",
+          "sub": true,
+          "ko": "심어졌다"
+        }
+      ],
+      "skeleton": "They knew not ... but they could remember that ~; that ~, and that ~",
+      "explanation": "동사 remember의 목적어로 that절 세 개가 나란히 이어진다(there had been many more / they were of a family ... / the whole forest was planted). knew not은 옛날식 부정(= did not know)이고, 그 목적어 how old they were는 의문사가 이끄는 명사절이다. 마지막 that절에서는 부사구 for them and theirs가 주어 앞으로 나왔다."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "title": "be said to + 동사원형: ~라고들 한다",
+      "tags": [
+        "수동태",
+        "to부정사"
+      ],
+      "sentenceId": "s4",
+      "highlight": [
+        "it was said to be delightful"
+      ],
+      "explanation": "'사람들이 ~라고 말한다'를 수동태로 바꾼 표현이다. It was said to be delightful = People said that it was delightful. 소문이나 일반적인 평가를 전할 때 자주 쓰며, 말한 사람을 굳이 밝히지 않는다.",
+      "example": {
+        "en": "The old castle is said to be haunted.",
+        "ko": "그 오래된 성에는 유령이 나온다고들 한다."
+      },
+      "note": "be believed to, be thought to, be known to 도 같은 방식으로 쓴다."
+    },
+    {
+      "id": "g2",
+      "title": "옛날식 부정: 동사 + not",
+      "tags": [
+        "어순",
+        "기타"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "knew not"
+      ],
+      "explanation": "knew not은 오늘날의 did not know와 같은 뜻이다. 옛 영어에서는 일반동사 바로 뒤에 not을 붙여 부정했다. 고전 문학이나 성경 번역 등에서 자주 보이며, 현대 영어에서는 do/does/did + not + 동사원형을 쓴다.",
+      "example": {
+        "en": "I know not what tomorrow will bring. (= I don't know ...)",
+        "ko": "나는 내일 무슨 일이 일어날지 모른다."
+      },
+      "note": "s4의 'what happened further they knew not'도 같은 표현이며, 목적어가 앞으로 나온 어순이다."
+    },
+    {
+      "id": "g3",
+      "title": "Neither A, B, nor C: A도 B도 C도 아니다",
+      "tags": [
+        "접속사"
+      ],
+      "sentenceId": "s5",
+      "highlight": [
+        "Neither",
+        "nor"
+      ],
+      "explanation": "neither ... nor는 둘(이상)을 모두 부정하는 상관접속사다. 여기서는 풍뎅이, 두꺼비, 지렁이 세 무리를 모두 부정해 '아무도 정보를 줄 수 없었다'는 뜻이 된다. 문장 안에 not을 따로 쓰지 않는 점에 주의한다.",
+      "example": {
+        "en": "Neither my brother nor my sister likes spicy food.",
+        "ko": "내 형도 누나도 매운 음식을 좋아하지 않는다."
+      },
+      "note": "동사는 nor 바로 뒤의 명사에 수를 맞춘다."
+    }
+  ],
+  "glossary": {
+    "now": {
+      "lemma": "now",
+      "pos": "adverb",
+      "ko": "그런데, 자 (이야기 전환)",
+      "form": null,
+      "synonyms": [
+        "well",
+        "so"
+      ],
+      "ipa": "/naʊ/"
+    },
+    "there": {
+      "lemma": "there",
+      "pos": "adverb",
+      "ko": "거기에; (there was) ~이 있었다",
+      "form": null,
+      "synonyms": [
+        "in that place"
+      ],
+      "ipa": "/ðɛr/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다, 있었다; (수동) ~되었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/wɑːz/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "old": {
+      "lemma": "old",
+      "pos": "adjective",
+      "ko": "오래된, 늙은",
+      "form": null,
+      "synonyms": [
+        "ancient",
+        "aged"
+      ],
+      "ipa": "/oʊld/"
+    },
+    "manor-house": {
+      "lemma": "manor-house",
+      "pos": "noun",
+      "ko": "영주의 저택",
+      "form": null,
+      "synonyms": [
+        "mansion",
+        "estate house"
+      ],
+      "ipa": "/ˈmænər-haʊs/"
+    },
+    "where": {
+      "lemma": "where",
+      "pos": "conjunction",
+      "ko": "(그곳에서) ~하는 (관계부사)",
+      "form": null,
+      "ipa": "/wɛr/"
+    },
+    "they": {
+      "lemma": "they",
+      "pos": "pronoun",
+      "ko": "그들(사람들, 달팽이들)",
+      "form": null,
+      "ipa": "/ðeɪ/"
+    },
+    "no": {
+      "lemma": "no",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상 ~않다",
+      "form": null,
+      "synonyms": [
+        "not"
+      ],
+      "ipa": "/noʊ/"
+    },
+    "longer": {
+      "lemma": "long",
+      "pos": "adverb",
+      "ko": "(no longer) 더 이상",
+      "form": "비교급",
+      "synonyms": [
+        "anymore"
+      ],
+      "ipa": "/ˈlɔːŋɡər/"
+    },
+    "ate": {
+      "lemma": "eat",
+      "pos": "verb",
+      "ko": "먹었다",
+      "form": "과거형",
+      "synonyms": [
+        "consumed"
+      ],
+      "ipa": "/eɪt/"
+    },
+    "snails": {
+      "lemma": "snail",
+      "pos": "noun",
+      "ko": "달팽이",
+      "form": "복수형",
+      "synonyms": [
+        "gastropod"
+      ],
+      "ipa": "/sneɪlz/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이었다; (수동) ~되었다",
+      "form": "과거형",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/wɜːr/"
+    },
+    "quite": {
+      "lemma": "quite",
+      "pos": "adverb",
+      "ko": "완전히, 아주",
+      "form": null,
+      "synonyms": [
+        "completely",
+        "entirely"
+      ],
+      "ipa": "/kwaɪt/"
+    },
+    "extinct": {
+      "lemma": "extinct",
+      "pos": "adjective",
+      "ko": "멸종한, 사라진",
+      "form": null,
+      "synonyms": [
+        "vanished",
+        "dead"
+      ],
+      "ipa": "/ɪkˈstɪŋkt/"
+    },
+    "but": {
+      "lemma": "but",
+      "pos": "conjunction",
+      "ko": "하지만",
+      "form": null,
+      "ipa": "/bʌt/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "burdocks": {
+      "lemma": "burdock",
+      "pos": "noun",
+      "ko": "우엉 (풀)",
+      "form": "복수형",
+      "synonyms": [
+        "weed"
+      ],
+      "ipa": null
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~않다, ~아니다",
+      "form": null,
+      "synonyms": [
+        "never"
+      ],
+      "ipa": "/nɑːt/"
+    },
+    "grew": {
+      "lemma": "grow",
+      "pos": "verb",
+      "ko": "자랐다",
+      "form": "과거형",
+      "synonyms": [
+        "spread",
+        "sprouted"
+      ],
+      "ipa": "/ɡruː/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고, ~와",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "all": {
+      "lemma": "all",
+      "pos": "pronoun",
+      "ko": "모든 (것), 온통",
+      "form": null,
+      "ipa": "/ɔːl/"
+    },
+    "over": {
+      "lemma": "over",
+      "pos": "preposition",
+      "ko": "~위에, ~에 걸쳐 온통",
+      "form": null,
+      "ipa": "/ˈoʊvər/"
+    },
+    "walks": {
+      "lemma": "walk",
+      "pos": "noun",
+      "ko": "산책길, 오솔길",
+      "form": "복수형",
+      "synonyms": [
+        "paths",
+        "footpaths"
+      ],
+      "ipa": "/wɔːks/"
+    },
+    "beds": {
+      "lemma": "bed",
+      "pos": "noun",
+      "ko": "화단",
+      "form": "복수형",
+      "synonyms": [
+        "flowerbeds",
+        "plots"
+      ],
+      "ipa": "/bɛdz/"
+    },
+    "could": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~할 수 있었다",
+      "form": "과거형",
+      "ipa": "/kʊd/"
+    },
+    "get": {
+      "lemma": "get",
+      "pos": "verb",
+      "ko": "얻다 (get the mastery over: 제압하다)",
+      "form": null,
+      "synonyms": [
+        "gain",
+        "obtain"
+      ],
+      "ipa": "/ɡɛt/"
+    },
+    "mastery": {
+      "lemma": "mastery",
+      "pos": "noun",
+      "ko": "지배, 정복",
+      "form": null,
+      "synonyms": [
+        "control",
+        "command"
+      ],
+      "ipa": "/ˈmæstəri/"
+    },
+    "them": {
+      "lemma": "them",
+      "pos": "pronoun",
+      "ko": "그것들을, 그들을",
+      "form": null,
+      "ipa": "/ðɛm/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것, 그곳",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "whole": {
+      "lemma": "whole",
+      "pos": "adjective",
+      "ko": "전체의, 온",
+      "form": null,
+      "synonyms": [
+        "entire",
+        "complete"
+      ],
+      "ipa": "/hoʊl/"
+    },
+    "forest": {
+      "lemma": "forest",
+      "pos": "noun",
+      "ko": "숲",
+      "form": null,
+      "synonyms": [
+        "woods",
+        "jungle"
+      ],
+      "ipa": "/ˈfɔːrəst/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의; ~ 출신의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "here": {
+      "lemma": "here",
+      "pos": "adverb",
+      "ko": "여기에 (here and there: 여기저기)",
+      "form": null,
+      "synonyms": [
+        "in this place"
+      ],
+      "ipa": "/hiːr/"
+    },
+    "stood": {
+      "lemma": "stand",
+      "pos": "verb",
+      "ko": "서 있었다",
+      "form": "과거형",
+      "synonyms": [
+        "rose",
+        "stayed"
+      ],
+      "ipa": "/stʊd/"
+    },
+    "apple": {
+      "lemma": "apple",
+      "pos": "noun",
+      "ko": "사과나무",
+      "form": null,
+      "synonyms": [
+        "apple tree"
+      ],
+      "ipa": "/ˈæpəl/"
+    },
+    "plum-tree": {
+      "lemma": "plum-tree",
+      "pos": "noun",
+      "ko": "자두나무",
+      "form": null,
+      "synonyms": [
+        "plum"
+      ],
+      "ipa": "/plʌm-triː/"
+    },
+    "or": {
+      "lemma": "or",
+      "pos": "conjunction",
+      "ko": "또는; (or else) 그렇지 않으면",
+      "form": null,
+      "ipa": "/ɔːr/"
+    },
+    "else": {
+      "lemma": "else",
+      "pos": "adverb",
+      "ko": "(or else) 그렇지 않으면",
+      "form": null,
+      "synonyms": [
+        "otherwise"
+      ],
+      "ipa": "/ɛls/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "pronoun",
+      "ko": "(일반적인) 사람",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "never": {
+      "lemma": "never",
+      "pos": "adverb",
+      "ko": "결코 ~않다, 한 번도 ~않다",
+      "form": null,
+      "synonyms": [
+        "not ever"
+      ],
+      "ipa": "/ˈnɛvər/"
+    },
+    "would": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~했을 것이다",
+      "form": "과거형",
+      "ipa": "/wʊd/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(would have p.p.) ~했을 것이다",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "thought": {
+      "lemma": "think",
+      "pos": "verb",
+      "ko": "생각하다",
+      "form": "과거분사",
+      "synonyms": [
+        "supposed",
+        "believed"
+      ],
+      "ipa": "/θɔːt/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "conjunction",
+      "ko": "~라는 것 (명사절)",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "garden": {
+      "lemma": "garden",
+      "pos": "noun",
+      "ko": "정원",
+      "form": null,
+      "synonyms": [
+        "yard",
+        "grounds"
+      ],
+      "ipa": "/ˈɡɑːrdən/"
+    },
+    "lived": {
+      "lemma": "live",
+      "pos": "verb",
+      "ko": "살았다",
+      "form": "과거형",
+      "synonyms": [
+        "dwelt",
+        "resided"
+      ],
+      "ipa": "/lɪvd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 두",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "마지막 (남은)",
+      "form": null,
+      "synonyms": [
+        "final",
+        "remaining"
+      ],
+      "ipa": "/læst/"
+    },
+    "venerable": {
+      "lemma": "venerable",
+      "pos": "adjective",
+      "ko": "존경할 만한, 연로한",
+      "form": null,
+      "synonyms": [
+        "respected",
+        "revered"
+      ],
+      "ipa": "/ˈvɛnərəbəl/"
+    },
+    "themselves": {
+      "lemma": "themselves",
+      "pos": "pronoun",
+      "ko": "그들 자신",
+      "form": null,
+      "ipa": "/ðɛmˈsɛlvz/"
+    },
+    "knew": {
+      "lemma": "know",
+      "pos": "verb",
+      "ko": "알았다",
+      "form": "과거형",
+      "synonyms": [
+        "understood",
+        "realized"
+      ],
+      "ipa": "/nuː/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나 (how old: 몇 살)",
+      "form": null,
+      "synonyms": [
+        "to what degree"
+      ],
+      "ipa": "/haʊ/"
+    },
+    "remember": {
+      "lemma": "remember",
+      "pos": "verb",
+      "ko": "기억하다",
+      "form": null,
+      "synonyms": [
+        "recall",
+        "recollect"
+      ],
+      "ipa": "/rɪˈmɛmbər/"
+    },
+    "very": {
+      "lemma": "very",
+      "pos": "adverb",
+      "ko": "아주",
+      "form": null,
+      "synonyms": [
+        "really",
+        "extremely"
+      ],
+      "ipa": "/ˈvɛri/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "잘",
+      "form": null,
+      "synonyms": [
+        "clearly",
+        "properly"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "had": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(had p.p.) ~했었다 (과거완료)",
+      "form": "과거형",
+      "ipa": "/hæd/"
+    },
+    "been": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "있었다; (수동) ~되다",
+      "form": "과거분사",
+      "synonyms": [
+        "existed"
+      ],
+      "ipa": "/bɪn/"
+    },
+    "many": {
+      "lemma": "many",
+      "pos": "determiner",
+      "ko": "많은 (many more: 훨씬 더 많이)",
+      "form": null,
+      "ipa": "/ˈmɛni/"
+    },
+    "more": {
+      "lemma": "more",
+      "pos": "pronoun",
+      "ko": "더 많은 수; 그 이상의 것",
+      "form": "비교급",
+      "ipa": "/mɔːr/"
+    },
+    "family": {
+      "lemma": "family",
+      "pos": "noun",
+      "ko": "가문, 일족",
+      "form": null,
+      "synonyms": [
+        "clan",
+        "lineage"
+      ],
+      "ipa": "/ˈfæməli/"
+    },
+    "from": {
+      "lemma": "from",
+      "pos": "preposition",
+      "ko": "~에서 (온)",
+      "form": null,
+      "ipa": "/frʌm/"
+    },
+    "foreign": {
+      "lemma": "foreign",
+      "pos": "adjective",
+      "ko": "외국의",
+      "form": null,
+      "synonyms": [
+        "overseas",
+        "alien"
+      ],
+      "ipa": "/ˈfɔːrən/"
+    },
+    "lands": {
+      "lemma": "land",
+      "pos": "noun",
+      "ko": "나라, 땅",
+      "form": "복수형",
+      "synonyms": [
+        "countries",
+        "regions"
+      ],
+      "ipa": "/lændz/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~을 위해",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "theirs": {
+      "lemma": "theirs",
+      "pos": "pronoun",
+      "ko": "그들의 것 (여기서는 그들 일족)",
+      "form": null,
+      "ipa": "/ðɛrz/"
+    },
+    "planted": {
+      "lemma": "plant",
+      "pos": "verb",
+      "ko": "심다",
+      "form": "과거분사",
+      "synonyms": [
+        "sowed",
+        "grew"
+      ],
+      "ipa": "/ˈplæntɪd/"
+    },
+    "outside": {
+      "lemma": "outside",
+      "pos": "preposition",
+      "ko": "~의 밖에",
+      "form": null,
+      "ipa": "/ˈaʊtˈsaɪd/"
+    },
+    "still": {
+      "lemma": "still",
+      "pos": "adverb",
+      "ko": "그 밖에도, 아직",
+      "form": null,
+      "synonyms": [
+        "yet",
+        "besides"
+      ],
+      "ipa": "/stɪl/"
+    },
+    "something": {
+      "lemma": "something",
+      "pos": "pronoun",
+      "ko": "어떤 것, 무언가",
+      "form": null,
+      "ipa": "/ˈsʌmθɪŋ/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~ 안에",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "world": {
+      "lemma": "world",
+      "pos": "noun",
+      "ko": "세상",
+      "form": null,
+      "synonyms": [
+        "earth",
+        "globe"
+      ],
+      "ipa": "/wɜːrld/"
+    },
+    "which": {
+      "lemma": "which",
+      "pos": "pronoun",
+      "ko": "(그것은) ~인 (관계대명사)",
+      "form": null,
+      "ipa": "/wɪtʃ/"
+    },
+    "called": {
+      "lemma": "call",
+      "pos": "verb",
+      "ko": "~라고 부르다",
+      "form": "과거분사",
+      "synonyms": [
+        "named",
+        "termed"
+      ],
+      "ipa": "/kɔːld/"
+    },
+    "boiled": {
+      "lemma": "boil",
+      "pos": "verb",
+      "ko": "삶다, 끓이다",
+      "form": "과거분사",
+      "synonyms": [
+        "cooked",
+        "stewed"
+      ],
+      "ipa": "/bɔɪld/"
+    },
+    "then": {
+      "lemma": "then",
+      "pos": "adverb",
+      "ko": "그다음에, 그러면",
+      "form": null,
+      "synonyms": [
+        "afterward",
+        "next"
+      ],
+      "ipa": "/ðɛn/"
+    },
+    "became": {
+      "lemma": "become",
+      "pos": "verb",
+      "ko": "~이 되었다",
+      "form": "과거형",
+      "synonyms": [
+        "turned",
+        "grew"
+      ],
+      "ipa": "/bɪˈkeɪm/"
+    },
+    "black": {
+      "lemma": "black",
+      "pos": "adjective",
+      "ko": "검은, 까만",
+      "form": null,
+      "synonyms": [
+        "dark"
+      ],
+      "ipa": "/blæk/"
+    },
+    "placed": {
+      "lemma": "place",
+      "pos": "verb",
+      "ko": "놓다",
+      "form": "과거분사",
+      "synonyms": [
+        "put",
+        "set"
+      ],
+      "ipa": "/pleɪst/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~ 위에",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "silver": {
+      "lemma": "silver",
+      "pos": "adjective",
+      "ko": "은으로 된",
+      "form": null,
+      "synonyms": [
+        "silvery"
+      ],
+      "ipa": "/ˈsɪlvər/"
+    },
+    "dish": {
+      "lemma": "dish",
+      "pos": "noun",
+      "ko": "접시",
+      "form": null,
+      "synonyms": [
+        "plate",
+        "platter"
+      ],
+      "ipa": "/dɪʃ/"
+    },
+    "what": {
+      "lemma": "what",
+      "pos": "pronoun",
+      "ko": "무엇, ~하는 것",
+      "form": null,
+      "ipa": "/wʌt/"
+    },
+    "happened": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "일어났다",
+      "form": "과거형",
+      "synonyms": [
+        "occurred",
+        "took place"
+      ],
+      "ipa": "/ˈhæpənd/"
+    },
+    "further": {
+      "lemma": "far",
+      "pos": "adverb",
+      "ko": "그 이후로, 더 나아가",
+      "form": "비교급",
+      "synonyms": [
+        "afterward",
+        "beyond"
+      ],
+      "ipa": "/ˈfɜːrðər/"
+    },
+    "fact": {
+      "lemma": "fact",
+      "pos": "noun",
+      "ko": "사실 (in fact: 사실은)",
+      "form": null,
+      "synonyms": [
+        "truth",
+        "reality"
+      ],
+      "ipa": "/fækt/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "(to부정사) ~하는 것",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "auxiliary",
+      "ko": "(수동) ~되다",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "lie": {
+      "lemma": "lie",
+      "pos": "verb",
+      "ko": "눕다, 놓여 있다",
+      "form": null,
+      "synonyms": [
+        "rest",
+        "recline"
+      ],
+      "ipa": "/laɪ/"
+    },
+    "possibly": {
+      "lemma": "possibly",
+      "pos": "adverb",
+      "ko": "(부정문) 도저히",
+      "form": null,
+      "synonyms": [
+        "conceivably",
+        "at all"
+      ],
+      "ipa": "/ˈpɑːsəbli/"
+    },
+    "imagine": {
+      "lemma": "imagine",
+      "pos": "verb",
+      "ko": "상상하다",
+      "form": null,
+      "synonyms": [
+        "picture",
+        "envision"
+      ],
+      "ipa": "/ˌɪˈmædʒən/"
+    },
+    "said": {
+      "lemma": "say",
+      "pos": "verb",
+      "ko": "말하다 (be said to: ~라고들 하다)",
+      "form": "과거분사",
+      "synonyms": [
+        "told",
+        "reported"
+      ],
+      "ipa": "/sɛd/"
+    },
+    "delightful": {
+      "lemma": "delightful",
+      "pos": "adjective",
+      "ko": "아주 즐거운, 기분 좋은",
+      "form": null,
+      "synonyms": [
+        "pleasant",
+        "lovely"
+      ],
+      "ipa": "/dɪˈlaɪtfəl/"
+    },
+    "particularly": {
+      "lemma": "particularly",
+      "pos": "adverb",
+      "ko": "특히",
+      "form": null,
+      "synonyms": [
+        "especially",
+        "notably"
+      ],
+      "ipa": "/ˌpɑːrˈtɪkjələrli/"
+    },
+    "genteel": {
+      "lemma": "genteel",
+      "pos": "adjective",
+      "ko": "품위 있는, 고상한",
+      "form": null,
+      "synonyms": [
+        "refined",
+        "elegant"
+      ],
+      "ipa": "/dʒɛnˈtiːl/"
+    },
+    "neither": {
+      "lemma": "neither",
+      "pos": "conjunction",
+      "ko": "(neither A nor B) A도 B도 아닌",
+      "form": null,
+      "ipa": "/ˈniːðər/"
+    },
+    "chafers": {
+      "lemma": "chafer",
+      "pos": "noun",
+      "ko": "풍뎅이",
+      "form": "복수형",
+      "synonyms": [
+        "beetles",
+        "cockchafers"
+      ],
+      "ipa": null
+    },
+    "toads": {
+      "lemma": "toad",
+      "pos": "noun",
+      "ko": "두꺼비",
+      "form": "복수형",
+      "synonyms": [
+        "frogs"
+      ],
+      "ipa": "/toʊdz/"
+    },
+    "nor": {
+      "lemma": "nor",
+      "pos": "conjunction",
+      "ko": "~도 아닌",
+      "form": null,
+      "ipa": "/nɔːr/"
+    },
+    "earth-worms": {
+      "lemma": "earth-worm",
+      "pos": "noun",
+      "ko": "지렁이",
+      "form": "복수형",
+      "synonyms": [
+        "worms"
+      ],
+      "ipa": "/ɜːrθ-wɜːrmz/"
+    },
+    "whom": {
+      "lemma": "whom",
+      "pos": "pronoun",
+      "ko": "(그들을) ~하는 (관계대명사 목적격)",
+      "form": null,
+      "ipa": "/huːm/"
+    },
+    "asked": {
+      "lemma": "ask",
+      "pos": "verb",
+      "ko": "물었다",
+      "form": "과거형",
+      "synonyms": [
+        "questioned",
+        "inquired"
+      ],
+      "ipa": "/æskt/"
+    },
+    "about": {
+      "lemma": "about",
+      "pos": "preposition",
+      "ko": "~에 대해",
+      "form": null,
+      "ipa": "/əˈbaʊt/"
+    },
+    "give": {
+      "lemma": "give",
+      "pos": "verb",
+      "ko": "주다",
+      "form": null,
+      "synonyms": [
+        "provide",
+        "offer"
+      ],
+      "ipa": "/ɡɪv/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "(부정문) 아무런",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "information": {
+      "lemma": "information",
+      "pos": "noun",
+      "ko": "정보",
+      "form": null,
+      "synonyms": [
+        "knowledge",
+        "news"
+      ],
+      "ipa": "/ˌɪnfərˈmeɪʃən/"
+    },
+    "none": {
+      "lemma": "none",
+      "pos": "pronoun",
+      "ko": "아무도 ~않다",
+      "form": null,
+      "ipa": "/nʌn/"
+    },
+    "laid": {
+      "lemma": "lay",
+      "pos": "verb",
+      "ko": "놓다, 눕히다",
+      "form": "과거분사",
+      "synonyms": [
+        "placed",
+        "put"
+      ],
+      "ipa": "/leɪd/"
+    }
+  }
+}
