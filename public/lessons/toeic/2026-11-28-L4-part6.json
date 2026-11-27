@@ -1,0 +1,1676 @@
+{
+  "schemaVersion": 2,
+  "track": "toeic",
+  "chapter": "part6",
+  "id": "2026-11-28-L4-part6",
+  "date": "2026-11-28",
+  "level": 4,
+  "title": "Billing Error Apology E-mail",
+  "titleKo": "결제 오류 사과 이메일",
+  "genre": "email",
+  "tags": [
+    "TOEIC Part 6",
+    "이메일",
+    "고객 서비스"
+  ],
+  "source": {
+    "work": "TOEIC-style practice passage",
+    "author": "Claude (AI 작성 연습용 지문)",
+    "translator": null,
+    "year": 2026,
+    "edition": "original",
+    "url": null,
+    "license": "original",
+    "excerptNote": null
+  },
+  "audio": null,
+  "wordCount": 151,
+  "paragraphs": [
+    {
+      "id": "p1",
+      "sentenceIds": [
+        "s1"
+      ],
+      "ko": "라만 씨께,"
+    },
+    {
+      "id": "p2",
+      "sentenceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "ko": "최근 청구서와 관련해 클리어패스 소프트웨어에 연락해 주셔서 감사합니다. 고객님의 계정을 검토한 결과, 연간 라이선스 1개가 아니라 2개 요금이 잘못 청구된 것을 확인했습니다. 이 오류는 지난달 저희 결제 시스템을 업데이트할 때 생겼으며, 다른 고객 몇 분도 같은 영향을 받으셨습니다. 예상치 못한 요금이 얼마나 당황스러운지 잘 알고 있습니다."
+    },
+    {
+      "id": "p3",
+      "sentenceIds": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "ko": "두 번째 라이선스 요금은 이미 전액 환불해 드렸습니다. 환불 금액은 영업일 기준 5일 안에 신용카드 명세서에 표시될 것입니다. 또한 그 뒤로 기술진이 시스템을 수정해 같은 실수가 다시 일어나지 않도록 했습니다. 불편을 끼쳐 드린 데 대한 보상으로 다음 달 구독료도 면제해 드리겠습니다."
+    },
+    {
+      "id": "p4",
+      "sentenceIds": [
+        "s10",
+        "s11"
+      ],
+      "ko": "계정에 다른 문제가 보이면 언제든 이 이메일에 답장해 주세요. 혼란을 드린 점 진심으로 사과드리며, 기다려 주셔서 감사합니다."
+    },
+    {
+      "id": "p5",
+      "sentenceIds": [
+        "s12"
+      ],
+      "ko": "진심을 담아,"
+    },
+    {
+      "id": "p6",
+      "sentenceIds": [
+        "s13"
+      ],
+      "ko": "마커스 린드크비스트"
+    },
+    {
+      "id": "p7",
+      "sentenceIds": [
+        "s14"
+      ],
+      "ko": "클리어패스 소프트웨어 고객 계정팀"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "paragraphId": "p1",
+      "en": "Dear Ms. Raman,",
+      "ko": "라만 씨께,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s2",
+      "paragraphId": "p2",
+      "en": "Thank you for contacting Clearpath Software regarding your recent invoice.",
+      "ko": "최근 청구서와 관련해 클리어패스 소프트웨어에 연락해 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s3",
+      "paragraphId": "p2",
+      "en": "After reviewing your account, we found that you were mistakenly charged for two annual licenses instead of one.",
+      "ko": "고객님의 계정을 검토한 결과, 연간 라이선스 1개가 아니라 2개 요금이 잘못 청구된 것을 확인했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s4",
+      "paragraphId": "p2",
+      "en": "This error occurred when our billing system was updated last month, and several other customers were affected as well.",
+      "ko": "이 오류는 지난달 저희 결제 시스템을 업데이트할 때 생겼으며, 다른 고객 몇 분도 같은 영향을 받으셨습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s5",
+      "paragraphId": "p2",
+      "en": "We understand how frustrating an unexpected charge can be.",
+      "ko": "예상치 못한 요금이 얼마나 당황스러운지 잘 알고 있습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s6",
+      "paragraphId": "p3",
+      "en": "We have already issued a full refund for the second license.",
+      "ko": "두 번째 라이선스 요금은 이미 전액 환불해 드렸습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s7",
+      "paragraphId": "p3",
+      "en": "It should appear on your credit card statement within five business days.",
+      "ko": "환불 금액은 영업일 기준 5일 안에 신용카드 명세서에 표시될 것입니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s8",
+      "paragraphId": "p3",
+      "en": "In addition, our technicians have since corrected the system so that the same mistake will not happen again.",
+      "ko": "또한 그 뒤로 기술진이 시스템을 수정해 같은 실수가 다시 일어나지 않도록 했습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s9",
+      "paragraphId": "p3",
+      "en": "To compensate for the inconvenience, we will also waive your subscription fee for next month.",
+      "ko": "불편을 끼쳐 드린 데 대한 보상으로 다음 달 구독료도 면제해 드리겠습니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s10",
+      "paragraphId": "p4",
+      "en": "If you notice any other problems with your account, please do not hesitate to reply to this e-mail.",
+      "ko": "계정에 다른 문제가 보이면 언제든 이 이메일에 답장해 주세요.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s11",
+      "paragraphId": "p4",
+      "en": "We sincerely apologize for the confusion and appreciate your patience.",
+      "ko": "혼란을 드린 점 진심으로 사과드리며, 기다려 주셔서 감사합니다.",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s12",
+      "paragraphId": "p5",
+      "en": "Sincerely,",
+      "ko": "진심을 담아,",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s13",
+      "paragraphId": "p6",
+      "en": "Marcus Lindqvist",
+      "ko": "마커스 린드크비스트",
+      "audioStartSec": null,
+      "audioEndSec": null
+    },
+    {
+      "id": "s14",
+      "paragraphId": "p7",
+      "en": "Customer Accounts Team, Clearpath Software",
+      "ko": "클리어패스 소프트웨어 고객 계정팀",
+      "audioStartSec": null,
+      "audioEndSec": null
+    }
+  ],
+  "vocab": [
+    {
+      "term": "invoice",
+      "pos": "noun",
+      "meaningKo": "청구서, 송장",
+      "ipa": "/ˈɪnvɔɪs/",
+      "synonyms": [
+        "bill",
+        "statement"
+      ],
+      "matchText": "invoice",
+      "sentenceId": "s2",
+      "example": {
+        "en": "The invoice must be paid within thirty days.",
+        "ko": "청구서는 30일 안에 결제해야 한다."
+      },
+      "id": "v1"
+    },
+    {
+      "term": "compensate for",
+      "pos": "phrase",
+      "meaningKo": "~을 보상하다, 메우다",
+      "ipa": "/ˈkɑːmpənseɪt fər/",
+      "synonyms": [
+        "make up for",
+        "offset"
+      ],
+      "matchText": "compensate for",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The company offered a voucher to compensate for the delay.",
+        "ko": "회사는 지연을 보상하려고 상품권을 제공했다."
+      },
+      "id": "v2"
+    },
+    {
+      "term": "waive",
+      "pos": "verb",
+      "meaningKo": "(요금·규정을) 면제하다, 적용하지 않다",
+      "ipa": "/weɪv/",
+      "synonyms": [
+        "cancel",
+        "exempt"
+      ],
+      "matchText": "waive",
+      "sentenceId": "s9",
+      "example": {
+        "en": "The bank agreed to waive the late fee.",
+        "ko": "은행은 연체료를 면제해 주기로 했다."
+      },
+      "id": "v3"
+    },
+    {
+      "term": "statement",
+      "pos": "noun",
+      "meaningKo": "(카드·계좌) 명세서",
+      "ipa": "/ˈsteɪtmənt/",
+      "synonyms": [
+        "account summary",
+        "bill"
+      ],
+      "matchText": "statement",
+      "sentenceId": "s7",
+      "example": {
+        "en": "Check your monthly statement for any unusual charges.",
+        "ko": "월 명세서에 이상한 요금이 없는지 확인하세요."
+      },
+      "id": "v4"
+    },
+    {
+      "term": "do not hesitate to",
+      "pos": "phrase",
+      "meaningKo": "주저하지 말고 ~하다, 언제든 ~하다",
+      "ipa": "/duː nɑːt ˈhezɪteɪt tə/",
+      "synonyms": [
+        "feel free to"
+      ],
+      "matchText": "do not hesitate to",
+      "sentenceId": "s10",
+      "example": {
+        "en": "Please do not hesitate to call me if you need anything.",
+        "ko": "필요한 것이 있으면 언제든 전화 주세요."
+      },
+      "id": "v5"
+    }
+  ],
+  "structures": [
+    {
+      "sentenceId": "s3",
+      "chunks": [
+        {
+          "text": "After reviewing your account,",
+          "role": "M",
+          "ko": "고객님의 계정을 검토한 뒤"
+        },
+        {
+          "text": "we",
+          "role": "S",
+          "ko": "저희는"
+        },
+        {
+          "text": "found",
+          "role": "V",
+          "ko": "알게 되었다"
+        },
+        {
+          "text": "that",
+          "role": "CONJ",
+          "ko": "~라는 것을"
+        },
+        {
+          "text": "you",
+          "role": "S",
+          "ko": "고객님이",
+          "sub": true
+        },
+        {
+          "text": "were mistakenly charged",
+          "role": "V",
+          "ko": "잘못 청구되었다",
+          "sub": true
+        },
+        {
+          "text": "for two annual licenses",
+          "role": "M",
+          "ko": "연간 라이선스 2개에 대해",
+          "sub": true
+        },
+        {
+          "text": "instead of one.",
+          "role": "M",
+          "ko": "1개 대신",
+          "sub": true
+        }
+      ],
+      "skeleton": "After + -ing ~, S + V + that + S + be p.p.",
+      "explanation": "전치사 After 뒤에 동명사 reviewing. found의 목적어인 that절 안은 수동태(were charged)이고, 부사 mistakenly가 be동사와 p.p. 사이에서 동사를 꾸민다.",
+      "id": "st1"
+    },
+    {
+      "sentenceId": "s8",
+      "chunks": [
+        {
+          "text": "In addition,",
+          "role": "M",
+          "ko": "또한"
+        },
+        {
+          "text": "our technicians",
+          "role": "S",
+          "ko": "저희 기술진이"
+        },
+        {
+          "text": "have since corrected",
+          "role": "V",
+          "ko": "그 뒤로 수정했다"
+        },
+        {
+          "text": "the system",
+          "role": "O",
+          "ko": "시스템을"
+        },
+        {
+          "text": "so that",
+          "role": "CONJ",
+          "ko": "~하도록"
+        },
+        {
+          "text": "the same mistake",
+          "role": "S",
+          "ko": "같은 실수가",
+          "sub": true
+        },
+        {
+          "text": "will not happen",
+          "role": "V",
+          "ko": "일어나지 않을 것이다",
+          "sub": true
+        },
+        {
+          "text": "again.",
+          "role": "M",
+          "ko": "다시",
+          "sub": true
+        }
+      ],
+      "skeleton": "S + have (since) p.p. + O + so that + S + V",
+      "explanation": "have since corrected는 '그 이후로 (지금까지) 고쳤다'라는 현재완료. so that은 목적(~하도록)을 나타내는 접속사.",
+      "id": "st2"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "수동태 + 부사 위치 (be + 부사 + p.p.)",
+      "tags": [
+        "수동태",
+        "품사"
+      ],
+      "sentenceId": "s3",
+      "highlight": [
+        "were mistakenly charged"
+      ],
+      "explanation": "charge A for B(A에게 B 요금을 청구하다)의 수동태가 A be charged for B. 부사는 be동사와 과거분사 사이에 들어가 동사를 꾸민다.",
+      "example": {
+        "en": "Several orders were accidentally shipped to the wrong address.",
+        "ko": "몇몇 주문이 실수로 다른 주소로 배송되었다."
+      },
+      "note": "be ------- p.p. 사이 빈칸은 부사 자리.",
+      "id": "g1"
+    },
+    {
+      "title": "자동사 compensate + for",
+      "tags": [
+        "어휘",
+        "전치사"
+      ],
+      "sentenceId": "s9",
+      "highlight": [
+        "compensate for the inconvenience"
+      ],
+      "explanation": "compensate는 '보상하다'라는 뜻일 때 자동사로 for와 함께 쓴다(compensate for + 손해·불편). 비슷한 뜻의 reimburse, refund, repay는 타동사라 보통 '사람'이나 '돈'을 목적어로 받는다.",
+      "example": {
+        "en": "We will reimburse you for the cost of the repair.",
+        "ko": "수리비를 돌려 드리겠습니다."
+      },
+      "note": "빈칸 뒤에 for + 불편/손실 명사가 바로 오면 compensate.",
+      "id": "g2"
+    },
+    {
+      "title": "목적의 so that",
+      "tags": [
+        "접속사",
+        "부사절"
+      ],
+      "sentenceId": "s8",
+      "highlight": [
+        "so that the same mistake will not happen again"
+      ],
+      "explanation": "so that + S + will/can + V는 '~하도록, ~하기 위해'. 앞 행동(시스템 수정)의 목적을 설명한다.",
+      "example": {
+        "en": "Please arrive early so that we can start on time.",
+        "ko": "제시간에 시작할 수 있도록 일찍 와 주세요."
+      },
+      "note": "so that 뒤에는 완전한 절, so as to 뒤에는 동사원형.",
+      "id": "g3"
+    }
+  ],
+  "glossary": {
+    "dear": {
+      "lemma": "dear",
+      "pos": "adjective",
+      "ko": "~께 (편지 첫머리)",
+      "form": null,
+      "synonyms": [
+        "respected"
+      ],
+      "ipa": "/dɪr/"
+    },
+    "ms": {
+      "lemma": "Ms.",
+      "pos": "noun",
+      "ko": "~씨 (여성 존칭)",
+      "form": "줄임말",
+      "ipa": "/mɪz/"
+    },
+    "raman": {
+      "lemma": "Raman",
+      "pos": "proper-noun",
+      "ko": "라만 (사람 성)",
+      "form": null,
+      "ipa": "/ˈreɪmən/"
+    },
+    "thank": {
+      "lemma": "thank",
+      "pos": "verb",
+      "ko": "감사하다",
+      "form": null,
+      "synonyms": [
+        "appreciate"
+      ],
+      "ipa": "/θæŋk/"
+    },
+    "you": {
+      "lemma": "you",
+      "pos": "pronoun",
+      "ko": "당신(들)은, 당신을",
+      "form": null,
+      "ipa": "/juː/"
+    },
+    "for": {
+      "lemma": "for",
+      "pos": "preposition",
+      "ko": "~ 동안, ~을 위해, ~에 대한",
+      "form": null,
+      "ipa": "/fɔːr/"
+    },
+    "contacting": {
+      "lemma": "contact",
+      "pos": "verb",
+      "ko": "연락하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "reaching",
+        "calling"
+      ],
+      "ipa": "/ˈkɑːnˌtæktɪŋ/"
+    },
+    "clearpath": {
+      "lemma": "Clearpath",
+      "pos": "proper-noun",
+      "ko": "클리어패스 (회사 이름의 일부)",
+      "form": null,
+      "ipa": null
+    },
+    "software": {
+      "lemma": "software",
+      "pos": "noun",
+      "ko": "소프트웨어 (회사 이름의 일부)",
+      "form": null,
+      "synonyms": [
+        "program"
+      ],
+      "ipa": "/ˈsɔːfˌtwɛr/"
+    },
+    "regarding": {
+      "lemma": "regarding",
+      "pos": "preposition",
+      "ko": "~에 관하여",
+      "form": null,
+      "ipa": "/rɪˈɡɑːrdɪŋ/"
+    },
+    "your": {
+      "lemma": "your",
+      "pos": "pronoun",
+      "ko": "당신의",
+      "form": "소유격",
+      "ipa": "/jɔːr/"
+    },
+    "recent": {
+      "lemma": "recent",
+      "pos": "adjective",
+      "ko": "최근의",
+      "form": null,
+      "synonyms": [
+        "latest"
+      ],
+      "ipa": "/ˈriːsənt/"
+    },
+    "invoice": {
+      "lemma": "invoice",
+      "pos": "noun",
+      "ko": "청구서",
+      "form": null,
+      "synonyms": [
+        "bill",
+        "statement"
+      ],
+      "ipa": "/ˈɪnvɔɪs/"
+    },
+    "after": {
+      "lemma": "after",
+      "pos": "preposition",
+      "ko": "~한 후에",
+      "form": null,
+      "ipa": "/ˈæftər/"
+    },
+    "reviewing": {
+      "lemma": "review",
+      "pos": "verb",
+      "ko": "검토하다",
+      "form": "현재분사(-ing)",
+      "synonyms": [
+        "examining",
+        "checking"
+      ],
+      "ipa": "/riˈvjuːɪŋ/"
+    },
+    "account": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "(고객) 계정",
+      "form": null,
+      "synonyms": [
+        "profile",
+        "record"
+      ],
+      "ipa": "/əˈkaʊnt/"
+    },
+    "we": {
+      "lemma": "we",
+      "pos": "pronoun",
+      "ko": "우리는",
+      "form": null,
+      "ipa": "/wiː/"
+    },
+    "found": {
+      "lemma": "find",
+      "pos": "verb",
+      "ko": "알게 되다, 발견하다",
+      "form": "과거형",
+      "synonyms": [
+        "discovered",
+        "learned"
+      ],
+      "ipa": "/faʊnd/"
+    },
+    "that": {
+      "lemma": "that",
+      "pos": "determiner",
+      "ko": "그, 저; (접속사) ~라는 것",
+      "form": null,
+      "ipa": "/ðæt/"
+    },
+    "were": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다, ~되었다(수동태)",
+      "form": "과거형",
+      "ipa": "/wɜːr/"
+    },
+    "mistakenly": {
+      "lemma": "mistakenly",
+      "pos": "adverb",
+      "ko": "잘못하여, 실수로",
+      "form": null,
+      "synonyms": [
+        "wrongly",
+        "by mistake"
+      ],
+      "ipa": "/mɪˈsteɪkənli/"
+    },
+    "charged": {
+      "lemma": "charge",
+      "pos": "verb",
+      "ko": "(요금을) 청구하다",
+      "form": "과거분사",
+      "synonyms": [
+        "billed"
+      ],
+      "ipa": "/tʃɑːrdʒd/"
+    },
+    "two": {
+      "lemma": "two",
+      "pos": "number",
+      "ko": "둘, 2",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "annual": {
+      "lemma": "annual",
+      "pos": "adjective",
+      "ko": "연간의, 1년 단위의",
+      "form": null,
+      "synonyms": [
+        "yearly"
+      ],
+      "ipa": "/ˈænjuəl/"
+    },
+    "licenses": {
+      "lemma": "license",
+      "pos": "noun",
+      "ko": "(소프트웨어) 사용권, 라이선스",
+      "form": "복수형",
+      "synonyms": [
+        "permits"
+      ],
+      "ipa": "/ˈlaɪsənsɪz/"
+    },
+    "instead": {
+      "lemma": "instead",
+      "pos": "adverb",
+      "ko": "대신에",
+      "form": null,
+      "synonyms": [
+        "alternatively"
+      ],
+      "ipa": "/ˌɪnˈstɛd/"
+    },
+    "of": {
+      "lemma": "of",
+      "pos": "preposition",
+      "ko": "~의",
+      "form": null,
+      "ipa": "/ʌv/"
+    },
+    "one": {
+      "lemma": "one",
+      "pos": "number",
+      "ko": "하나의 (under one roof: 한 건물에)",
+      "form": null,
+      "ipa": "/wʌn/"
+    },
+    "this": {
+      "lemma": "this",
+      "pos": "determiner",
+      "ko": "이, 이번",
+      "form": null,
+      "ipa": "/ðɪs/"
+    },
+    "error": {
+      "lemma": "error",
+      "pos": "noun",
+      "ko": "오류",
+      "form": null,
+      "synonyms": [
+        "mistake",
+        "fault"
+      ],
+      "ipa": "/ˈɛrər/"
+    },
+    "occurred": {
+      "lemma": "occur",
+      "pos": "verb",
+      "ko": "일어나다, 발생하다",
+      "form": "과거형",
+      "synonyms": [
+        "happened",
+        "arose"
+      ],
+      "ipa": "/əˈkɜːrd/"
+    },
+    "when": {
+      "lemma": "when",
+      "pos": "conjunction",
+      "ko": "~할 때",
+      "form": null,
+      "ipa": "/wɛn/"
+    },
+    "our": {
+      "lemma": "our",
+      "pos": "pronoun",
+      "ko": "우리의",
+      "form": "소유격",
+      "ipa": "/ˈaʊər/"
+    },
+    "billing": {
+      "lemma": "billing",
+      "pos": "noun",
+      "ko": "요금 청구, 결제",
+      "form": null,
+      "synonyms": [
+        "invoicing",
+        "payment"
+      ],
+      "ipa": "/ˈbɪlɪŋ/"
+    },
+    "system": {
+      "lemma": "system",
+      "pos": "noun",
+      "ko": "시스템",
+      "form": null,
+      "synonyms": [
+        "platform",
+        "software"
+      ],
+      "ipa": "/ˈsɪstəm/"
+    },
+    "was": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~였다, ~되었다(수동태)",
+      "form": "과거형",
+      "ipa": "/wɑːz/"
+    },
+    "updated": {
+      "lemma": "update",
+      "pos": "verb",
+      "ko": "업데이트하다, 갱신하다",
+      "form": "과거분사",
+      "synonyms": [
+        "upgraded",
+        "revised"
+      ],
+      "ipa": "/əpˈdeɪtɪd/"
+    },
+    "last": {
+      "lemma": "last",
+      "pos": "adjective",
+      "ko": "지난",
+      "form": null,
+      "synonyms": [
+        "previous"
+      ],
+      "ipa": "/læst/"
+    },
+    "month": {
+      "lemma": "month",
+      "pos": "noun",
+      "ko": "달, 월",
+      "form": null,
+      "synonyms": [
+        "period"
+      ],
+      "ipa": "/mʌnθ/"
+    },
+    "and": {
+      "lemma": "and",
+      "pos": "conjunction",
+      "ko": "그리고",
+      "form": null,
+      "ipa": "/ənd/"
+    },
+    "several": {
+      "lemma": "several",
+      "pos": "determiner",
+      "ko": "몇몇의",
+      "form": null,
+      "ipa": "/ˈsɛvrəl/"
+    },
+    "other": {
+      "lemma": "other",
+      "pos": "adjective",
+      "ko": "다른",
+      "form": null,
+      "synonyms": [
+        "additional",
+        "further"
+      ],
+      "ipa": "/ˈʌðər/"
+    },
+    "customers": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": "복수형",
+      "synonyms": [
+        "clients"
+      ],
+      "ipa": "/ˈkʌstəmərz/"
+    },
+    "affected": {
+      "lemma": "affect",
+      "pos": "verb",
+      "ko": "영향을 미치다",
+      "form": "과거분사",
+      "synonyms": [
+        "impacted",
+        "influenced"
+      ],
+      "ipa": "/əˈfɛktɪd/"
+    },
+    "as": {
+      "lemma": "as",
+      "pos": "conjunction",
+      "ko": "(as soon as) ~하자마자",
+      "form": null,
+      "ipa": "/æz/"
+    },
+    "well": {
+      "lemma": "well",
+      "pos": "adverb",
+      "ko": "(as well) 또한, 역시",
+      "form": null,
+      "synonyms": [
+        "too",
+        "also"
+      ],
+      "ipa": "/wɛl/"
+    },
+    "understand": {
+      "lemma": "understand",
+      "pos": "verb",
+      "ko": "이해하다",
+      "form": null,
+      "synonyms": [
+        "realize",
+        "appreciate"
+      ],
+      "ipa": "/ˌʌndərˈstænd/"
+    },
+    "how": {
+      "lemma": "how",
+      "pos": "adverb",
+      "ko": "얼마나",
+      "form": null,
+      "ipa": "/haʊ/"
+    },
+    "frustrating": {
+      "lemma": "frustrating",
+      "pos": "adjective",
+      "ko": "답답한, 짜증스러운",
+      "form": null,
+      "synonyms": [
+        "annoying",
+        "upsetting"
+      ],
+      "ipa": "/ˈfrʌˌstreɪtɪŋ/"
+    },
+    "an": {
+      "lemma": "an",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/æn/"
+    },
+    "unexpected": {
+      "lemma": "unexpected",
+      "pos": "adjective",
+      "ko": "예상치 못한",
+      "form": null,
+      "synonyms": [
+        "surprising",
+        "unforeseen"
+      ],
+      "ipa": "/ˌʌnɪkˈspɛktɪd/"
+    },
+    "charge": {
+      "lemma": "charge",
+      "pos": "noun",
+      "ko": "요금, 청구액",
+      "form": null,
+      "synonyms": [
+        "fee",
+        "cost"
+      ],
+      "ipa": "/tʃɑːrdʒ/"
+    },
+    "can": {
+      "lemma": "can",
+      "pos": "auxiliary",
+      "ko": "~일 수 있다",
+      "form": null,
+      "ipa": "/kæn/"
+    },
+    "be": {
+      "lemma": "be",
+      "pos": "verb",
+      "ko": "~이다, ~되다 (수동태)",
+      "form": null,
+      "ipa": "/biː/"
+    },
+    "have": {
+      "lemma": "have",
+      "pos": "auxiliary",
+      "ko": "(have p.p.) ~했다 (완료)",
+      "form": null,
+      "ipa": "/hæv/"
+    },
+    "already": {
+      "lemma": "already",
+      "pos": "adverb",
+      "ko": "이미",
+      "form": null,
+      "synonyms": [
+        "previously"
+      ],
+      "ipa": "/ɔlˈrɛdi/"
+    },
+    "issued": {
+      "lemma": "issue",
+      "pos": "verb",
+      "ko": "(환불을) 처리해 주다, 지급하다",
+      "form": "과거분사",
+      "synonyms": [
+        "provided",
+        "processed"
+      ],
+      "ipa": "/ˈɪʃud/"
+    },
+    "a": {
+      "lemma": "a",
+      "pos": "determiner",
+      "ko": "하나의 (부정관사)",
+      "form": null,
+      "ipa": "/ə/"
+    },
+    "full": {
+      "lemma": "full",
+      "pos": "adjective",
+      "ko": "전액의, 완전한",
+      "form": null,
+      "synonyms": [
+        "complete",
+        "entire"
+      ],
+      "ipa": "/fʊl/"
+    },
+    "refund": {
+      "lemma": "refund",
+      "pos": "noun",
+      "ko": "환불(금)",
+      "form": null,
+      "synonyms": [
+        "repayment",
+        "reimbursement"
+      ],
+      "ipa": "/rɪˈfʌnd/"
+    },
+    "the": {
+      "lemma": "the",
+      "pos": "determiner",
+      "ko": "그 (정관사)",
+      "form": null,
+      "ipa": "/ðə/"
+    },
+    "second": {
+      "lemma": "second",
+      "pos": "adjective",
+      "ko": "두 번째의",
+      "form": null,
+      "synonyms": [
+        "extra",
+        "additional"
+      ],
+      "ipa": "/ˈsɛkənd/"
+    },
+    "license": {
+      "lemma": "license",
+      "pos": "noun",
+      "ko": "(소프트웨어) 사용권, 라이선스",
+      "form": null,
+      "synonyms": [
+        "permit"
+      ],
+      "ipa": "/ˈlaɪsəns/"
+    },
+    "it": {
+      "lemma": "it",
+      "pos": "pronoun",
+      "ko": "그것",
+      "form": null,
+      "ipa": "/ɪt/"
+    },
+    "should": {
+      "lemma": "should",
+      "pos": "auxiliary",
+      "ko": "~일 것이다 (예상)",
+      "form": null,
+      "ipa": "/ʃʊd/"
+    },
+    "appear": {
+      "lemma": "appear",
+      "pos": "verb",
+      "ko": "나타나다, 표시되다",
+      "form": null,
+      "synonyms": [
+        "show up"
+      ],
+      "ipa": "/əˈpɪr/"
+    },
+    "on": {
+      "lemma": "on",
+      "pos": "preposition",
+      "ko": "~에 (요일·날짜·층·위)",
+      "form": null,
+      "ipa": "/ɑːn/"
+    },
+    "credit": {
+      "lemma": "credit",
+      "pos": "noun",
+      "ko": "신용 (credit card: 신용카드)",
+      "form": null,
+      "synonyms": [
+        "charge"
+      ],
+      "ipa": "/ˈkrɛdət/"
+    },
+    "card": {
+      "lemma": "card",
+      "pos": "noun",
+      "ko": "카드",
+      "form": null,
+      "synonyms": [
+        "plastic"
+      ],
+      "ipa": "/kɑːrd/"
+    },
+    "statement": {
+      "lemma": "statement",
+      "pos": "noun",
+      "ko": "(카드) 명세서",
+      "form": null,
+      "synonyms": [
+        "account summary",
+        "bill"
+      ],
+      "ipa": "/ˈsteɪtmənt/"
+    },
+    "within": {
+      "lemma": "within",
+      "pos": "preposition",
+      "ko": "~ 안에, ~ 이내에",
+      "form": null,
+      "ipa": "/wɪˈðɪn/"
+    },
+    "five": {
+      "lemma": "five",
+      "pos": "number",
+      "ko": "5",
+      "form": null,
+      "ipa": "/faɪv/"
+    },
+    "business": {
+      "lemma": "business",
+      "pos": "noun",
+      "ko": "영업, 업무 (business day: 영업일)",
+      "form": null,
+      "synonyms": [
+        "working"
+      ],
+      "ipa": "/ˈbɪznəs/"
+    },
+    "days": {
+      "lemma": "day",
+      "pos": "noun",
+      "ko": "날, 일",
+      "form": "복수형",
+      "synonyms": [
+        "dates"
+      ],
+      "ipa": "/deɪz/"
+    },
+    "in": {
+      "lemma": "in",
+      "pos": "preposition",
+      "ko": "~에, ~안에, ~에서",
+      "form": null,
+      "ipa": "/ɪn/"
+    },
+    "addition": {
+      "lemma": "addition",
+      "pos": "noun",
+      "ko": "(In addition) 게다가, 또한",
+      "form": null,
+      "synonyms": [
+        "supplement"
+      ],
+      "ipa": "/əˈdɪʃən/"
+    },
+    "technicians": {
+      "lemma": "technician",
+      "pos": "noun",
+      "ko": "기술자, 기술진",
+      "form": "복수형",
+      "synonyms": [
+        "engineers",
+        "specialists"
+      ],
+      "ipa": "/tɛkˈnɪʃənz/"
+    },
+    "since": {
+      "lemma": "since",
+      "pos": "adverb",
+      "ko": "그 이후로",
+      "form": null,
+      "ipa": "/sɪns/"
+    },
+    "corrected": {
+      "lemma": "correct",
+      "pos": "verb",
+      "ko": "바로잡다, 수정하다",
+      "form": "과거분사",
+      "synonyms": [
+        "fixed",
+        "repaired"
+      ],
+      "ipa": "/kəˈrɛktəd/"
+    },
+    "so": {
+      "lemma": "so",
+      "pos": "conjunction",
+      "ko": "(so that) ~하도록",
+      "form": null,
+      "ipa": "/soʊ/"
+    },
+    "same": {
+      "lemma": "same",
+      "pos": "adjective",
+      "ko": "같은",
+      "form": null,
+      "synonyms": [
+        "identical",
+        "similar"
+      ],
+      "ipa": "/seɪm/"
+    },
+    "mistake": {
+      "lemma": "mistake",
+      "pos": "noun",
+      "ko": "실수, 잘못",
+      "form": null,
+      "synonyms": [
+        "error"
+      ],
+      "ipa": "/mɪˈsteɪk/"
+    },
+    "will": {
+      "lemma": "will",
+      "pos": "auxiliary",
+      "ko": "~할 것이다",
+      "form": null,
+      "ipa": "/wɪl/"
+    },
+    "not": {
+      "lemma": "not",
+      "pos": "adverb",
+      "ko": "~ 않다",
+      "form": null,
+      "ipa": "/nɑːt/"
+    },
+    "happen": {
+      "lemma": "happen",
+      "pos": "verb",
+      "ko": "일어나다",
+      "form": null,
+      "synonyms": [
+        "occur",
+        "take place"
+      ],
+      "ipa": "/ˈhæpən/"
+    },
+    "again": {
+      "lemma": "again",
+      "pos": "adverb",
+      "ko": "다시",
+      "form": null,
+      "synonyms": [
+        "once more"
+      ],
+      "ipa": "/əˈɡɛn/"
+    },
+    "to": {
+      "lemma": "to",
+      "pos": "preposition",
+      "ko": "~에게, ~로; (to부정사) ~하는 것, ~하기 위해",
+      "form": null,
+      "ipa": "/tuː/"
+    },
+    "compensate": {
+      "lemma": "compensate",
+      "pos": "verb",
+      "ko": "(compensate for) 보상하다, 메우다",
+      "form": null,
+      "synonyms": [
+        "make up",
+        "offset"
+      ],
+      "ipa": "/ˈkɑːmpənˌseɪt/"
+    },
+    "inconvenience": {
+      "lemma": "inconvenience",
+      "pos": "noun",
+      "ko": "불편",
+      "form": null,
+      "synonyms": [
+        "trouble",
+        "bother"
+      ],
+      "ipa": "/ˌɪnkənˈviːnjəns/"
+    },
+    "also": {
+      "lemma": "also",
+      "pos": "adverb",
+      "ko": "또한",
+      "form": null,
+      "synonyms": [
+        "too",
+        "as well"
+      ],
+      "ipa": "/ˈɔːlsoʊ/"
+    },
+    "waive": {
+      "lemma": "waive",
+      "pos": "verb",
+      "ko": "(요금을) 면제하다",
+      "form": null,
+      "synonyms": [
+        "cancel",
+        "exempt"
+      ],
+      "ipa": "/weɪv/"
+    },
+    "subscription": {
+      "lemma": "subscription",
+      "pos": "noun",
+      "ko": "구독, 정기 이용",
+      "form": null,
+      "synonyms": [
+        "membership"
+      ],
+      "ipa": "/səbˈskrɪpʃən/"
+    },
+    "fee": {
+      "lemma": "fee",
+      "pos": "noun",
+      "ko": "요금",
+      "form": null,
+      "synonyms": [
+        "charge",
+        "payment"
+      ],
+      "ipa": "/fiː/"
+    },
+    "next": {
+      "lemma": "next",
+      "pos": "adjective",
+      "ko": "다음의",
+      "form": null,
+      "synonyms": [
+        "following",
+        "coming"
+      ],
+      "ipa": "/nɛkst/"
+    },
+    "if": {
+      "lemma": "if",
+      "pos": "conjunction",
+      "ko": "만약 ~하면",
+      "form": null,
+      "ipa": "/ɪf/"
+    },
+    "notice": {
+      "lemma": "notice",
+      "pos": "verb",
+      "ko": "알아차리다, 발견하다",
+      "form": null,
+      "synonyms": [
+        "spot",
+        "detect"
+      ],
+      "ipa": "/ˈnoʊtəs/"
+    },
+    "any": {
+      "lemma": "any",
+      "pos": "determiner",
+      "ko": "어떤, 무엇이든",
+      "form": null,
+      "ipa": "/ˈɛni/"
+    },
+    "problems": {
+      "lemma": "problem",
+      "pos": "noun",
+      "ko": "문제",
+      "form": "복수형",
+      "synonyms": [
+        "issues",
+        "errors"
+      ],
+      "ipa": "/ˈprɑːbləmz/"
+    },
+    "with": {
+      "lemma": "with",
+      "pos": "preposition",
+      "ko": "~와 함께, ~을 가지고, ~에게",
+      "form": null,
+      "ipa": "/wɪð/"
+    },
+    "please": {
+      "lemma": "please",
+      "pos": "adverb",
+      "ko": "~해 주세요",
+      "form": null,
+      "synonyms": [
+        "kindly"
+      ],
+      "ipa": "/pliːz/"
+    },
+    "do": {
+      "lemma": "do",
+      "pos": "auxiliary",
+      "ko": "(부정문을 만드는 조동사)",
+      "form": null,
+      "ipa": "/duː/"
+    },
+    "hesitate": {
+      "lemma": "hesitate",
+      "pos": "verb",
+      "ko": "주저하다, 망설이다",
+      "form": null,
+      "synonyms": [
+        "wait",
+        "hold back"
+      ],
+      "ipa": "/ˈhɛzəˌteɪt/"
+    },
+    "reply": {
+      "lemma": "reply",
+      "pos": "verb",
+      "ko": "답장하다",
+      "form": null,
+      "synonyms": [
+        "respond",
+        "answer"
+      ],
+      "ipa": "/rɪˈplaɪ/"
+    },
+    "e-mail": {
+      "lemma": "e-mail",
+      "pos": "noun",
+      "ko": "이메일",
+      "form": null,
+      "synonyms": [
+        "message"
+      ],
+      "ipa": "/iː-meɪl/"
+    },
+    "sincerely": {
+      "lemma": "sincerely",
+      "pos": "adverb",
+      "ko": "진심으로",
+      "form": null,
+      "synonyms": [
+        "truly",
+        "genuinely"
+      ],
+      "ipa": "/sɪnˈsɪrli/"
+    },
+    "apologize": {
+      "lemma": "apologize",
+      "pos": "verb",
+      "ko": "사과하다",
+      "form": null,
+      "synonyms": [
+        "say sorry"
+      ],
+      "ipa": "/əˈpɑːləˌdʒaɪz/"
+    },
+    "confusion": {
+      "lemma": "confusion",
+      "pos": "noun",
+      "ko": "혼란",
+      "form": null,
+      "synonyms": [
+        "trouble",
+        "disorder"
+      ],
+      "ipa": "/kənˈfjuːʒən/"
+    },
+    "appreciate": {
+      "lemma": "appreciate",
+      "pos": "verb",
+      "ko": "고맙게 여기다",
+      "form": null,
+      "synonyms": [
+        "value",
+        "be grateful for"
+      ],
+      "ipa": "/əˈpriːʃiˌeɪt/"
+    },
+    "patience": {
+      "lemma": "patience",
+      "pos": "noun",
+      "ko": "인내, 기다려 줌",
+      "form": null,
+      "synonyms": [
+        "understanding",
+        "tolerance"
+      ],
+      "ipa": "/ˈpeɪʃəns/"
+    },
+    "marcus": {
+      "lemma": "Marcus",
+      "pos": "proper-noun",
+      "ko": "마커스 (사람 이름)",
+      "form": null,
+      "ipa": "/ˈmɑːrkəs/"
+    },
+    "lindqvist": {
+      "lemma": "Lindqvist",
+      "pos": "proper-noun",
+      "ko": "린드크비스트 (사람 성)",
+      "form": null,
+      "ipa": null
+    },
+    "customer": {
+      "lemma": "customer",
+      "pos": "noun",
+      "ko": "고객",
+      "form": null,
+      "synonyms": [
+        "client"
+      ],
+      "ipa": "/ˈkʌstəmər/"
+    },
+    "accounts": {
+      "lemma": "account",
+      "pos": "noun",
+      "ko": "(고객) 계정",
+      "form": "복수형",
+      "synonyms": [
+        "records"
+      ],
+      "ipa": "/əˈkaʊnts/"
+    },
+    "team": {
+      "lemma": "team",
+      "pos": "noun",
+      "ko": "팀, 부서",
+      "form": null,
+      "synonyms": [
+        "department",
+        "group"
+      ],
+      "ipa": "/tiːm/"
+    }
+  },
+  "questions": [
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s3",
+        "answerText": "mistakenly"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "mistake"
+        },
+        {
+          "key": "B",
+          "text": "mistaken"
+        },
+        {
+          "key": "C",
+          "text": "mistakes"
+        },
+        {
+          "key": "D",
+          "text": "mistakenly"
+        }
+      ],
+      "answer": "D",
+      "explanationKo": "were ------- charged에서 be동사와 과거분사 사이는 동사를 꾸미는 부사 자리. '잘못하여, 실수로'라는 뜻의 mistakenly.",
+      "choiceNotesKo": {
+        "B": "mistaken은 형용사(잘못 알고 있는)라 과거분사 charged를 꾸밀 수 없다.",
+        "A": "명사·동사 mistake는 be동사와 p.p. 사이에 들어가지 않는다."
+      },
+      "skill": "부사 자리(be + _ + p.p.)",
+      "id": "q1",
+      "number": 1,
+      "prompt": null
+    },
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s4",
+        "answerText": "were affected"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "were affected"
+        },
+        {
+          "key": "B",
+          "text": "affected"
+        },
+        {
+          "key": "C",
+          "text": "have affected"
+        },
+        {
+          "key": "D",
+          "text": "were affecting"
+        }
+      ],
+      "answer": "A",
+      "explanationKo": "and 뒤 절의 주어 several other customers에 동사가 필요하다. 고객들은 오류의 '영향을 받은' 쪽이고 뒤에 목적어가 없으므로 수동태, 지난달 일이라 과거 were affected.",
+      "choiceNotesKo": {
+        "B": "affected만 쓰면 '고객들이 (무언가에) 영향을 주었다'는 능동이 되어 목적어가 필요하다.",
+        "C": "have affected도 능동이라 목적어가 없으면 성립하지 않는다.",
+        "D": "were affecting 역시 능동 진행형이라 목적어가 필요하다."
+      },
+      "skill": "수동태(능동 vs 수동)",
+      "id": "q2",
+      "number": 2,
+      "prompt": null
+    },
+    {
+      "type": "part6-sentence",
+      "blank": {
+        "sentenceId": "s7",
+        "answerText": "It should appear on your credit card statement within five business days."
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "Our premium support team is available on weekends."
+        },
+        {
+          "key": "B",
+          "text": "Annual licenses can be shared by up to three users."
+        },
+        {
+          "key": "C",
+          "text": "It should appear on your credit card statement within five business days."
+        },
+        {
+          "key": "D",
+          "text": "Please update your password regularly to protect your account."
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "바로 앞 문장에서 '환불(refund)을 이미 처리했다'고 했으므로, 그 환불(It)이 언제 카드 명세서에 나타나는지 알려 주는 C가 자연스럽다. 뒤 문장 In addition은 환불에 더해 시스템 수정 이야기를 덧붙인다.",
+      "choiceNotesKo": {
+        "A": "지원팀 운영 시간은 환불·보상 흐름과 관계없다.",
+        "B": "라이선스 공유 규정은 이미 끝난 청구 오류 설명과 이어지지 않는다.",
+        "D": "비밀번호 관리는 결제 오류와 무관하다."
+      },
+      "skill": "문장 넣기(It = refund 지시어 단서)",
+      "id": "q3",
+      "number": 3,
+      "prompt": null
+    },
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s9",
+        "answerText": "compensate"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "reimburse"
+        },
+        {
+          "key": "B",
+          "text": "compensate"
+        },
+        {
+          "key": "C",
+          "text": "refund"
+        },
+        {
+          "key": "D",
+          "text": "repay"
+        }
+      ],
+      "answer": "B",
+      "explanationKo": "빈칸 뒤에 목적어 없이 for the inconvenience가 바로 온다. '~을 보상하다'라는 뜻으로 for와 함께 쓰는 자동사 compensate가 맞다.",
+      "choiceNotesKo": {
+        "A": "reimburse는 reimburse + 사람 + for ~ 형태로 목적어가 필요하다.",
+        "C": "refund는 '돈'을 목적어로 받는 타동사다.",
+        "D": "repay도 사람이나 돈을 목적어로 받는다."
+      },
+      "skill": "혼동 어휘(compensate for)",
+      "id": "q4",
+      "number": 4,
+      "prompt": null
+    },
+    {
+      "type": "part6-word",
+      "blank": {
+        "sentenceId": "s11",
+        "answerText": "patience"
+      },
+      "choices": [
+        {
+          "key": "A",
+          "text": "patient"
+        },
+        {
+          "key": "B",
+          "text": "patiently"
+        },
+        {
+          "key": "C",
+          "text": "patience"
+        },
+        {
+          "key": "D",
+          "text": "patients"
+        }
+      ],
+      "answer": "C",
+      "explanationKo": "소유격 your 뒤, appreciate의 목적어 자리라 명사가 필요하다. '인내, 기다려 줌'이라는 뜻의 patience가 문맥에 맞다.",
+      "choiceNotesKo": {
+        "D": "patients도 명사지만 '환자들'이라는 뜻이라 문맥에 맞지 않는다.",
+        "A": "patient는 여기서 형용사로 읽혀 명사 자리에 맞지 않는다."
+      },
+      "skill": "명사 자리(소유격 뒤, 혼동 명사)",
+      "id": "q5",
+      "number": 5,
+      "prompt": null
+    }
+  ]
+}
